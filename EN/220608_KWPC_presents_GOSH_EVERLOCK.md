@@ -1,8 +1,8 @@
 # KWPC presents `GOSH` EVERLOCK
 
-Paulina: Hi everyone welcome to killer whale podcast my name is Paulina i have my colleague Jennifer here today with me. As you guys know on May 10th a DockerCon 2022 was presented uh `GOSH` blockchain - Git Open Source Holder a blockchain that is specially designed as a kit on chain, and we have today [Mitja Goroshevsky](https://www.linkedin.com/in/goroshevsky/) co-founder of gauche to talk about solutions `GOSH` is providing for securing the software supply chain and extracting the value of open source project. As you will see `GOSH` is much more than just a git hosting platform also today guys we're gonna have open chat where you can ask questions related to `GOSH` and at the end of the show we're gonna have i'm a session where me gonna answer your questions at the end of the episode.
+**Polina:** Hi everyone welcome to killer whale podcast my name is **Polina** i have my colleague Jennifer here today with me. As you guys know on May 10th a DockerCon 2022 was presented uh `GOSH` blockchain - Git Open Source Holder a blockchain that is specially designed as a kit on chain, and we have today [Mitja Goroshevsky](https://www.linkedin.com/in/goroshevsky/) co-founder of `Gosh` to talk about solutions `GOSH` is providing for securing the software supply chain and extracting the value of open source project. As you will see `GOSH` is much more than just a git hosting platform also today guys we're gonna have open chat where you can ask questions related to `GOSH` and at the end of the show we're gonna have i'm a session where me gonna answer your questions at the end of the episode.
 
-Jennifer: So yes welcome again guys we are very sorry for technical issues at the beginning today we are hosting a one time only special event for members of everscale community today you can stake your evers and get locked `GOSH` tokens it's called Everlock a maximum total of 8 million evers can be locked in gauche blockchain in the pools for a period of to 1 up to 5 years. I will now guide you through the process. So you will see how to do it let me share my screen.
+Jennifer: So yes welcome again guys we are very sorry for technical issues at the beginning today we are hosting a one time only special event for members of everscale community today you can stake your evers and get locked `GOSH` tokens it's called Everlock a maximum total of 8 million evers can be locked in `Gosh` blockchain in the pools for a period of to 1 up to 5 years. I will now guide you through the process. So you will see how to do it let me share my screen.
 
 > TODO add image
 
@@ -11,780 +11,100 @@ you click stay covers here your amount is going to be uh you will see your amoun
 
 Now uh let me come back to you guys okay just a second here. I'm again right now guys we are opening up the Everlock right now is officially open, and you can start taking your evers again if any questions more than welcome to write them in the chat we will now have Mitja covering up tokenomics of `GOSH` that is interesting for you, I understand it. So we have Mitja here with us by the way hi Mitja welcome to welcome!
 
-Mitja: Hello, thank you.
+**Mitja:** Hello, thank you.
 
-Jennifer: Most of you guys obviously are familiar with Mitja. So meteo will know share with us the tokenomics media whenever you want you can start.
+**Jennifer:** Most of you guys obviously are familiar with Mitja. So meteo will know share with us the tokenomics media whenever you want you can start.
 
-Mitja: Yeah let me share my screen and let me make it a little bigger and it starts from this slide.
+**Mitja:** Yeah let me share my screen and let me make it a little bigger and it starts from this slide.
 
-> TODO add image https://youtu.be/d6Xgrkhnf8M?t=426
+![](../asset/KWPC_presents_GOSH_EVERLOCK_0.png)
 
-Mitja: So yeah um the part of the reasons why we couldn't launch uh `GOSH` on everscale blockchain is a very different economics in very different talking mechanics so in brief i will try to explain the difference um and you'll see that there are quite a lot of them. So the total supply of `GOSH` tokens 100 million um 11 millions of these tokens will be sold at a price of the three dollars um at pre-sale to private investors 11 million will go to idio at the price of ten dollars and then there will be a staking boost which we'll talk about later of 11 million tokens and 67 million targets will go to the ecosystem development and and the research and development of the ghost product itself now `GOSH` tokens obviously will be listed on `GOSH` decentralized exchange which called `GEX` and that is the internal gauche exchange you will see that uh it actually plays a crucial role in the whole in the whole construction.
+**Mitja:** So yeah um the part of the reasons why we couldn't launch uh `GOSH` on everscale blockchain is a very different economics in very different talking mechanics so in brief i will try to explain the difference um and you'll see that there are quite a lot of them. So the total supply of `GOSH` tokens 100 million um 11 millions of these tokens will be sold at a price of the three dollars um at pre-sale to private investors 11 million will go to idio at the price of ten dollars and then there will be a staking boost which we'll talk about later of 11 million tokens and 67 million targets will go to the ecosystem development and and the research and development of the ghost product itself now `GOSH` tokens obviously will be listed on `GOSH` decentralized exchange which called `GEX` and that is the internal `GOSH` exchange you will see that uh it actually plays a crucial role in the whole in the whole construction.
 
-![](KWPC_presents_GOSH_EVERLOCK_1.png)
+![](../asset/KWPC_presents_GOSH_EVERLOCK_1.png)
 
-Mitja: So in order to validate on the `GOSH` network use take you stake your gauche tokens right so um so you stake them for exactly like you do with everlog for up to five years yearly and uh then you have this apy per year it starts from eight percent and plus four percent every year yearly and that is the 11 million tokens um that we were talking about now the interesting part is that the validator of the `GOSH` network does not receive per block fees and they do not receive the transaction fees.
+**Mitja:** So in order to validate on the `GOSH` network use take you stake your `GOSH` tokens right so um so you stake them for exactly like you do with everlog for up to five years yearly and uh then you have this apy per year it starts from eight percent and plus four percent every year yearly and that is the 11 million tokens um that we were talking about now the interesting part is that the validator of the `GOSH` network does not receive per block fees and they do not receive the transaction fees.
 
-![](KWPC_presents_GOSH_EVERLOCK_2.png)
+![](../asset/KWPC_presents_GOSH_EVERLOCK_2.png)
 
 You only leave like the validator is paid by this apy for the for look now what you can once you locked your tokens you can do two things with them. So it's it's it doesn't end there you can take your `GOSH` tokens and you can use them in one or two um things one thing is that you can vote with them in the `GOSH` dao repository through the smv protocol and you can see how it works if you go to `GOSH` dot assassin start repository it will then launch a dao immediately and uh you can vote for example for a merchant of the main branch yeah you know and that's how work how how the how the voting works now
 alternatively you can get a liquidity uh voting on `GOSH`. So you either you choose either to validate and then vote or to validate and then uh provide 
 liquidity into the into the gags uh by the way when you vote um you have the propo it's uh the mechanism of the voting tokens is similar to the mechanism in curve where the the duration of your staking is um basically you get the voting tokens in relation to the duration of your staking. So maximum tokens if you stake hundred tokens the maximum voting tokens you get is for five if it's five years locked um if it's uh and then it goes proportionally down right. So um you get one-fifth of the votes if you if you stay for one year and of course to get the this hundred percent vote you will need to restate the tokens for you know for five years all the time.
 
-![](KWPC_presents_GOSH_EVERLOCK_3.png)
+![](../asset/KWPC_presents_GOSH_EVERLOCK_3.png)
 
-Mitja: So you get the uh liquidity. So you have the other part you can either vote as we said or provide liquidity and you provide liquidity in the in the `GEX` um in the `GEX` exchange which is built in exchange inside the protocol and it's as you can see is tightly kind of coupled with the with the gauche document itself now maybe another important point and you see here like a little circle says `SHELL` project talk and pair liquidity um is that you stake these tokens in the liquidity pools which are `SHELL`. `SHELL` is a made main token on gauche main utility token on gauche which is a stable coin so you stake it into the stable coin pair with the project token and what you get in exchange for this staking is apart from the project token uh for providing this liquidity you get the `GEX` tokens as well. So basically when you get the `GEX` tokens you get the portion of all the fees in in in the exchange and uh and the project tokens that are that are that you provide liquidity for again it has some similarities to curve how careful but we take that to the extreme and basically say that if you are a validator then you stake the token for validation if you lock them for five years you get full amount of voting tokens then you can vote in the dow or revo or vote for liquidity and get all and then benefit from the liquidity provided for the whole ecosystem of the of the repositories that uh put the you know put the tokens on gex.
+**Mitja:** So you get the uh liquidity. So you have the other part you can either vote as we said or provide liquidity and you provide liquidity in the in the `GEX` um in the `GEX` exchange which is built in exchange inside the protocol and it's as you can see is tightly kind of coupled with the with the `Gosh` document itself now maybe another important point and you see here like a little circle says `SHELL` project talk and pair liquidity um is that you stake these tokens in the liquidity pools which are `SHELL`. `SHELL` is a made main token on `Gosh` main utility token on `Gosh` which is a `stablecoin` so you stake it into the `stablecoin` pair with the project token and what you get in exchange for this staking is apart from the project token uh for providing this liquidity you get the `GEX` tokens as well. Basically when you get the `GEX` tokens you get the portion of all the fees in in in the exchange and uh and the project tokens that are that are that you provide liquidity for again it has some similarities to curve how careful but we take that to the extreme and basically say that if you are a validator then you stake the token for validation if you lock them for five years you get full amount of voting tokens then you can vote in the dow or revo or vote for liquidity and get all and then benefit from the liquidity provided for the whole ecosystem of the of the repositories that uh put the you know put the tokens on gex.
 
-![](KWPC_presents_GOSH_EVERLOCK_4.png)
+![](../asset/KWPC_presents_GOSH_EVERLOCK_4.png)
 
-Mitja: So um i don't know if if you want me jenny to go over over the road map of the uh of `GOSH` a little bit here yeah because it it relates to tokenomics because yeah so so okay the important thing also about this tokenomics um is that we have something that one of the reasons we created it this way is that the tokens that you pay for gas but the gas doesn't go to validators the gas goes to something uh which called free service giver the free server service giver allows any project to to provide the access to their smart contracts for free um this is a revolutionary concept in the blockchain because you don't have a blockchain where you can you know you can execute smart contract for free on `GOSH` you can do that of course you have some limits to this execution and i'm not going to to explain how they work but in general if you follow certain guidelines you can apply your project and `GOSH` is itself like the giton chain itself is one of these projects that's how we're able to to actually provide a lot of `GOSH` repository services for free like exactly like github is doing today and the reason for this whole construction is that `GOSH` needs to compete with github gitlab and so on the developer wants to use `GOSH` exactly like they use github in order to do that we cannot charge for every commit like it doesn't work there's nobody will gonna do that um so instead with this construction we can provide free free tire service um where you can this free tire is exactly uh done exactly in the way like github is doing today so you can have an unlimited repositories you can have an unlimited um you know public repositories um unlimited dows pull requests code reviews notifications and so on and so forth you can have an also you can use the docker extension you can use the docker build kit you know with all the artifacts that that this process creates on `GOSH` now of course as github um is charging for some services the `GOSH` will also charge for some services and if you do the project like that um on on `GOSH` like another project on `GOSH` which also provide free services then you can also charge for some of that obviously so for example immutable triggers and actions and uh you know liquidity funds is coming with a charge there's also some other things that that goes like private reports and so on so you pay a money in but you don't need to pay for gas you can pay just subscription fees and one last thing it can actually do is you can just collect credit card payments without KYCML and this is also very important for traditional projects who just want some some monetization for what they're doing but they they don't care if it's in blockchain or not on blockchain of course they do care because they blockchain provides them with security guarantees and so on but for their end user it's not not necessarily they they don't need they don't want to kind of say to their burden their their customers with you know knowledge of a blockchain start paying gas and all these things well using the free area service on `GOSH` using basically a restricted `SHELL` the restricted portion of tokens you can just collect payments like you would do because in that respect this this tokens are untransferable in this free service area no no `SHELL` tokens are transferable and therefore they can only be transferred between the utility smart contracts therefore they just unit of account uh so it it fully complained um i think with this design we we're doing something that facebook tried to do and failed um we can actually execute that and we don't need to ask regulators because it's with this design is uh is totally compliant well again this is a very briefly like overview of uh of the tokenomics thanks.
+**Mitja:** So um i don't know if if you want me jenny to go over over the road map of the uh of `GOSH` a little bit here yeah because it it relates to tokenomics because yeah so so okay the important thing also about this tokenomics um is that we have something that one of the reasons we created it this way is that the tokens that you pay for gas but the gas doesn't go to validators the gas goes to something uh which called free service giver the free server service giver allows any project to to provide the access to their smart contracts for free um this is a revolutionary concept in the blockchain because you don't have a blockchain where you can you know you can execute smart contract for free on `GOSH` you can do that of course you have some limits to this execution and i'm not going to to explain how they work but in general if you follow certain guidelines you can apply your project and `GOSH` is itself like the giton chain itself is one of these projects that's how we're able to to actually provide a lot of `GOSH` repository services for free like exactly like `GitHub` is doing today and the reason for this whole construction is that `GOSH` needs to compete with `GitHub` gitlab and so on the developer wants to use `GOSH` exactly like they use `GitHub` in order to do that we cannot charge for every commit like it doesn't work there's nobody will gonna do that um so instead with this construction we can provide free free tire service um where you can this free tire is exactly uh done exactly in the way like `GitHub` is doing today so you can have an unlimited repositories you can have an unlimited um you know public repositories um unlimited dows pull requests code reviews notifications and so on and so forth you can have an also you can use the docker extension you can use the docker build kit you know with all the artifacts that that this process creates on `GOSH` now of course as `GitHub` um is charging for some services the `GOSH` will also charge for some services and if you do the project like that um on on `GOSH` like another project on `GOSH` which also provide free services then you can also charge for some of that obviously so for example immutable triggers and actions and uh you know liquidity funds is coming with a charge there's also some other things that that goes like private reports and so on so you pay a money in but you don't need to pay for gas you can pay just subscription fees and one last thing it can actually do is you can just collect credit card payments without KYCML and this is also very important for traditional projects who just want some some monetization for what they're doing but they they don't care if it's in blockchain or not on blockchain of course they do care because they blockchain provides them with security guarantees and so on but for their end user it's not not necessarily they they don't need they don't want to kind of say to their burden their their customers with you know knowledge of a blockchain start paying gas and all these things well using the free area service on `GOSH` using basically a restricted `SHELL` the restricted portion of tokens you can just collect payments like you would do because in that respect this this tokens are untransferable in this free service area no no `SHELL` tokens are transferable and therefore they can only be transferred between the utility smart contracts therefore they just unit of account uh so it it fully complained um i think with this design we we're doing something that facebook tried to do and failed um we can actually execute that and we don't need to ask regulators because it's with this design is uh is totally compliant well again this is a very briefly like overview of uh of the tokenomics thanks.
 
 
-Jennifer: Thank you.
+**Jennifer:** Thank you.
 
-Paulina: Thank you michael okay. So I have a couple of even more couple questions to you related to `GOSH` obviously so the first one. Is why only now why wasn't it possible to build a github on chain before can you tell us something about this?
+**Polina:** Thank you michael okay. So I have a couple of even more couple questions to you related to `GOSH` obviously so the first one. Is why only now why wasn't it possible to build a `GitHub` on chain before can you tell us something about this?
 
-Mitja: Yeah sure, well very simple there is no blockchain that can handle uh git like um today on take linux repository there is 80 million objects in linux repository you cannot put 80 million objects on any blockchain in a meaningful time or at all the only blockchain architecture that can do that is ever scale but also not in the current implementation um of the other scale even everscale cannot cannot do that therefore. We had to take the everscale because this is the only architecture which in general can support that and then tweak it to so that it can actually do this also i need to say in that regard the the requirement for for a validator on uh `GOSH` network is pretty high you need to have uh one terabyte of ram in your machine which is which costs around 600 euros per month in the something like that in this range right now so of course if you if you think about okay but what how how decentralizes that normal people cannot run the validate or something like that so i can i can answer that question already because it's part of this answer um.
+**Mitja:** Yeah sure, well very simple there is no blockchain that can handle uh git like um today on take linux repository there is 80 million objects in linux repository you cannot put 80 million objects on any blockchain in a meaningful time or at all the only blockchain architecture that can do that is ever scale but also not in the current implementation um of the other scale even everscale cannot cannot do that therefore. We had to take the everscale because this is the only architecture which in general can support that and then tweak it to so that it can actually do this also i need to say in that regard the the requirement for for a validator on uh `GOSH` network is pretty high you need to have uh one terabyte of ram in your machine which is which costs around 600 euros per month in the something like that in this range right now so of course if you if you think about okay but what how how decentralizes that normal people cannot run the validate or something like that so i can i can answer that question already because it's part of this answer um.
 
-So they say so they say okay i don't know where is the limit of course if you have five dollar you pay five or five dollars per server or more or less everyone can do that right um if you pay hundreds everyone can do that or not 200 where is the limit what you can do what i think you need to think from the perspective of the like it's a validator is a business you you invest some money and it's long being a business it's a business in any blockchain it's a business in uh in the bitcoin you invest some money and then you get some money in return right. So first of all like i don't know anyone who is who is putting now validator or minor under the table like it was you know 10 years ago it doesn't happen anymore uh and now think about this from the standpoint of what is the requirement for the to running a github like if you would run a github today as a cloud provider what would be the cost for infrastructure it would be huge so why it would be any different why people expect to be different so yeah if you want to be part of that if you want to support the network just call your data center you know buy a machine of 500 600 euros and of course you will gain money running that but also you will support support this this application which cannot be done differently.
+So they say so they say okay i don't know where is the limit of course if you have five dollar you pay five or five dollars per server or more or less everyone can do that right um if you pay hundreds everyone can do that or not 200 where is the limit what you can do what i think you need to think from the perspective of the like it's a validator is a business you you invest some money and it's long being a business it's a business in any blockchain it's a business in uh in the bitcoin you invest some money and then you get some money in return right. So first of all like i don't know anyone who is who is putting now validator or minor under the table like it was you know 10 years ago it doesn't happen anymore uh and now think about this from the standpoint of what is the requirement for the to running a `GitHub` like if you would run a `GitHub` today as a cloud provider what would be the cost for infrastructure it would be huge so why it would be any different why people expect to be different so yeah if you want to be part of that if you want to support the network just call your data center you know buy a machine of 500 600 euros and of course you will gain money running that but also you will support support this this application which cannot be done differently.
 
-Paulina: Right correct great meter the Second question is how does git on chain work people are curious?
+**Polina:** Right correct great meter the Second question is how does git on chain work people are curious?
 
-Mitja: Yeah I won't be able to tell it in like three seconds here well you can say like the bullet points like how you like yeah first of all it works exactly like from the okay so let's say from the stand from the end user standpoint it works exactly like like a git like a normal git cloud like github okay you're taking like gauche remote configure it with your uh with your github hub client and whatever it is get client sorry whatever it is and then you push and you push when you push you push the blockchain. So from the user standpoint it works exactly the same way internally how it works that's a way more different like difficult question also i don't think it's a time now to explain all this and we can have a technical call sometimes but yeah but for the user it really it really is that you just use it as a use github nothing change and you we also have a great web interface which which basically just github interface you can you can go uh it's [app.gosh.sh](https://app.gosh.sh) and uh and you just use it like use github there are of course some features missing but we will add that that's too important.
+**Mitja:** Yeah I won't be able to tell it in like three seconds here well you can say like the bullet points like how you like yeah first of all it works exactly like from the okay so let's say from the stand from the end user standpoint it works exactly like like a git like a normal git cloud like `GitHub` okay you're taking like `Gosh` remote configure it with your uh with your `GitHub` hub client and whatever it is get client sorry whatever it is and then you push and you push when you push you push the blockchain. So from the user standpoint it works exactly the same way internally how it works that's a way more different like difficult question also i don't think it's a time now to explain all this and we can have a technical call sometimes but yeah but for the user it really it really is that you just use it as a use `GitHub` nothing change and you we also have a great web interface which which basically just `GitHub` interface you can you can go uh it's [app.gosh.sh](https://app.gosh.sh) and uh and you just use it like use `GitHub` there are of course some features missing but we will add that that's too important.
 
-Paulina: Okay. People who are familiar with github they can easily yeah absolutely
+**Polina:** Okay. People who are familiar with `GitHub` they can easily yeah absolutely
 
-Mitja: Yeah
+**Mitja:** Yeah
 
-Paulina: Okay. The next question is why did you decide to create gauche but i think you'll like uh mention it briefly in the first question well it's it's it's very simple um like `GOSH` but today git is not decentralized right because well when Linus Thoroughly created kit he thought it would be completely decentralized like every developer will have their own like git server or something and then you have a git client
+**Polina:** Okay. The next question is why did you decide to create `Gosh` but i think you'll like uh mention it briefly in the first question well it's it's it's very simple um like `GOSH` but today git is not decentralized right because well when Linus Thoroughly created Git he thought it would be completely decentralized like every developer will have their own like Git server or something and then you have a git client but it really took off once the really easy to use service was provided like `GitHub` so people it was very easy for people okay you have github.com you don't need to think about it running your own server and you have this great community features around them the problem with this is that and it's a great service `GitHub` is a great service the problem with that it's not decentralized it belongs to microsoft. Your code belongs to microsoft today that is like even. If you trust microsoft I mean there is a there is a level where you should not trust someone with everything and for people who code it's everything the code is everything. You don't trust microsoft with your life i wouldn't. It's not censorship resistant it's it's prone to attacks and it's not very secure it's not very secure because it's centralized and also the the last thing is that the gear is just one part of the of the software like the software world because when you do the software it's not only that you code you should also deliver it somewhere you you want to install it on some computer server whatever and that's called uh software supply chain it starts from git and then it goes to some docker container and and then it goes to some installation of the of the software and also on the git like you use not only your own code you use some other code which comes from someone else and all of that really is not secure today there are very limited solutions here and there like you can sign container or you can you know provide some scanning for for third-party repositories and things like that so there are some possible like people trying to solve these problems but they're trying to solve it in a very fragmented way they're kind of in a very just pinpointing some solutions to different places there is no comprehensive solution for all of it and i think blockchain is just because it has the cryptography uh built in it has the signatures built in it can build this level of community level uh on top of on top of the objects which you put on the blockchain as as we understand i mean as we can see it works with the smart contracts using this you can secure the whole chain up to the containers and so on so um that's two reasons really.
 
-554
-00:23:28,240 --> 00:23:30,720
-but it really took off once the really
+**Polina:** Well obviously it makes a lot of sense so why you decide to start `GOSH` as a new blockchain instead of launching the on everscale which is the difference?
 
-555
-00:23:30,720 --> 00:23:32,640
-easy to use service was provided like
+**Mitja:** I answered that partly in the future 
 
-556
-00:23:32,640 --> 00:23:33,760
-github
+**Polina:** Yeah i know you mentioned that...maybe 
 
-557
-00:23:33,760 --> 00:23:35,760
-so people it was very very easy for
+**Mitja:** Tokenomics is very different um and in in order to marry that with Everscale like Everyscale would need to like change the whole token of its model completely um like the tokenomics of `GOSH` has two tokens `SHELL` and `GOSH` and go while `Gosh` is like value talking the `SHELL` is a `stablecoin` which is what pays gas in never scale there's only one token ever which pays gas and um yeah in in order to kind of maybe in the future we will be able to construct a `workchain` or use `Gosh` as a `workchain` but for that many design things need to change in every scale architecture as it is right now like um the the it should be allowed to pay gas on the on the `workchain` with different tokens for example and and and so on and. Forth so yeah so so there's it's just technically not possible today.
 
-558
-00:23:35,760 --> 00:23:37,440
-people okay you have github.com you
+**Polina:** Right okay. What are the main differences between `Gosh` and the traditional `Git` hosting platform like you mentioned security what else you can add on this?
 
-559
-00:23:37,440 --> 00:23:38,880
-don't need to think about it running
+**Mitja:** No it's really centralization is the central point like what is the difference between the money because it's like a dollar and bitcoin.
 
-560
-00:23:38,880 --> 00:23:40,880
-your own server and you have this great
+**Polina:** Yeah well.
 
-561
-00:23:40,880 --> 00:23:43,440
-community features around them
+**Mitja:** It's the centralization
 
-562
-00:23:43,440 --> 00:23:45,760
-the problem with this is that and it's a
+**Polina:** Decentralization okay.
 
-563
-00:23:45,760 --> 00:23:47,760
-great service github is a great service
+**Jennifer:** You name it.
 
-564
-00:23:47,760 --> 00:23:48,720
-the problem with that it's not
+**Mitja:** Which which gives us which gives the security right so decentralization is just just the start and on top of the decentralization.
 
-565
-00:23:48,720 --> 00:23:51,440
-decentralized it belongs to microsoft
+**Polina:** This is the main thing right okay. So do companies and developers who are using the traditional `Git` need to adopt a new way of thinking or a new way of working when they use `GOSH`
 
-566
-00:23:51,440 --> 00:23:53,200
-so um
+**Mitja:** No they don't they can use `GOSH` like they use `Git` today um the of course they do need then to think further what they can do with `GOSH` in terms of security because right now on `GitHub` it doesn't it just not doesn't exist again he almost doesn't exist you almost don't have security comprehensive like security features to supply your software supply chain um in `GOSH` you can have it um you can get you can you can create all sorts of tools on top of your code on top of the you consensus of your code and then and then other tools so 
 
-567
-00:23:53,200 --> 00:23:56,000
-your code belongs to microsoft today
+**Polina:** Yeah.
 
-568
-00:23:56,000 --> 00:23:57,679
-that is like
+**Mitja:** They will need to adapt to that but if they don't want to use it for some reason they can use it just like.
 
-569
-00:23:57,679 --> 00:24:00,320
-even if you trust microsoft
+**Polina:** Okay yeah.
 
-570
-00:24:00,320 --> 00:24:02,720
-i mean there is a there is a level where
+**Jennifer:** Great we will get to the security.
 
-571
-00:24:02,720 --> 00:24:04,640
-you should not trust
+**Polina:** Thank you, thank you **Mitja**, and now we have **Andrey** from `Provendo` uh he will discuss how `Gosh` achieves security we okay **Jenny**.
 
-572
-00:24:04,640 --> 00:24:06,880
-someone with everything and for people
-
-573
-00:24:06,880 --> 00:24:08,240
-who code
-
-574
-00:24:08,240 --> 00:24:11,039
-it's everything the code is everything
-
-575
-00:24:11,039 --> 00:24:12,320
-right so
-
-576
-00:24:12,320 --> 00:24:14,559
-you don't trust microsoft with your life
-
-577
-00:24:14,559 --> 00:24:16,240
-i wouldn't
-
-578
-00:24:16,240 --> 00:24:17,600
-yeah
-
-579
-00:24:17,600 --> 00:24:18,400
-right
-
-580
-00:24:18,400 --> 00:24:20,799
-um so it's not censorship resistant
-
-581
-00:24:20,799 --> 00:24:22,720
-it's it's prone to attacks and it's not
-
-582
-00:24:22,720 --> 00:24:23,919
-very secure
-
-583
-00:24:23,919 --> 00:24:25,200
-it's not very secure because it's
-
-584
-00:24:25,200 --> 00:24:26,480
-centralized
-
-585
-00:24:26,480 --> 00:24:27,679
-and
-
-586
-00:24:27,679 --> 00:24:28,640
-also
-
-587
-00:24:28,640 --> 00:24:29,440
-the
-
-588
-00:24:29,440 --> 00:24:32,080
-the last thing is that the gear is just
-
-589
-00:24:32,080 --> 00:24:33,440
-one
-
-590
-00:24:33,440 --> 00:24:35,200
-part of the
-
-591
-00:24:35,200 --> 00:24:37,120
-of the software
-
-592
-00:24:37,120 --> 00:24:37,919
-like
-
-593
-00:24:37,919 --> 00:24:40,080
-the software world because when you do
-
-594
-00:24:40,080 --> 00:24:41,679
-the software it's not only that you code
-
-595
-00:24:41,679 --> 00:24:44,400
-you should also deliver it somewhere
-
-596
-00:24:44,400 --> 00:24:46,400
-you you want to install it on some
-
-597
-00:24:46,400 --> 00:24:48,640
-computer server whatever
-
-598
-00:24:48,640 --> 00:24:50,000
-and that's called
-
-599
-00:24:50,000 --> 00:24:51,919
-uh software supply chain
-
-600
-00:24:51,919 --> 00:24:54,320
-it starts from git and then it goes to
-
-601
-00:24:54,320 --> 00:24:57,120
-some docker container and and then it
-
-602
-00:24:57,120 --> 00:24:59,600
-goes to some installation of the of the
-
-603
-00:24:59,600 --> 00:25:01,919
-software and also on the git like you
-
-604
-00:25:01,919 --> 00:25:04,240
-use not only your own code you use some
-
-605
-00:25:04,240 --> 00:25:07,520
-other code which comes from someone else
-
-606
-00:25:07,520 --> 00:25:09,360
-and all of that
-
-607
-00:25:09,360 --> 00:25:12,240
-really is not secure today
-
-608
-00:25:12,240 --> 00:25:15,120
-there are very limited solutions here
-
-609
-00:25:15,120 --> 00:25:18,400
-and there like you can sign container or
-
-610
-00:25:18,400 --> 00:25:21,440
-you can you know provide some scanning
-
-611
-00:25:21,440 --> 00:25:23,760
-for for third-party repositories and
-
-612
-00:25:23,760 --> 00:25:25,520
-things like that so there are some
-
-613
-00:25:25,520 --> 00:25:27,440
-possible like people trying to solve
-
-614
-00:25:27,440 --> 00:25:28,640
-these problems but they're trying to
-
-615
-00:25:28,640 --> 00:25:30,559
-solve it in a very fragmented way
-
-616
-00:25:30,559 --> 00:25:33,360
-they're kind of in a very just just
-
-617
-00:25:33,360 --> 00:25:35,120
-pinpointing some solutions to to
-
-618
-00:25:35,120 --> 00:25:36,720
-different places there is no
-
-619
-00:25:36,720 --> 00:25:39,600
-comprehensive solution for all of it and
-
-620
-00:25:39,600 --> 00:25:41,840
-i think blockchain is just because it
-
-621
-00:25:41,840 --> 00:25:45,120
-has the cryptography uh built in it has
-
-622
-00:25:45,120 --> 00:25:47,120
-the signatures built in it can build
-
-623
-00:25:47,120 --> 00:25:49,279
-this level of
-
-624
-00:25:49,279 --> 00:25:50,720
-community level
-
-625
-00:25:50,720 --> 00:25:52,960
-uh on top of on top of the objects which
-
-626
-00:25:52,960 --> 00:25:54,799
-you put on the blockchain as as we
-
-627
-00:25:54,799 --> 00:25:57,039
-understand i mean as we can see it works
-
-628
-00:25:57,039 --> 00:25:58,960
-with the smart contracts
-
-629
-00:25:58,960 --> 00:26:01,039
-using this you can secure the whole
-
-630
-00:26:01,039 --> 00:26:03,520
-chain up to the containers and so on so
-
-631
-00:26:03,520 --> 00:26:06,480
-um that's two reasons really
-
-632
-00:26:06,480 --> 00:26:08,640
-well obviously it makes a lot of sense
-
-633
-00:26:08,640 --> 00:26:09,520
-so
-
-634
-00:26:09,520 --> 00:26:11,360
-why you decide to start `GOSH` as a new
-
-635
-00:26:11,360 --> 00:26:13,200
-blockchain instead of launching the on
-
-636
-00:26:13,200 --> 00:26:16,000
-everscale which is the difference
-
-637
-00:26:16,000 --> 00:26:18,159
-i i i answered that partly in the future
-
-638
-00:26:18,159 --> 00:26:21,600
-yeah i know you mentioned that so maybe
-
-639
-00:26:21,600 --> 00:26:24,400
-documents is very different um
-
-640
-00:26:24,400 --> 00:26:27,279
-and in in order to marry that with
-
-641
-00:26:27,279 --> 00:26:29,760
-everscale like every scale would need to
-
-642
-00:26:29,760 --> 00:26:31,840
-like change the whole token of its model
-
-643
-00:26:31,840 --> 00:26:33,200
-completely
-
-644
-00:26:33,200 --> 00:26:35,200
-um like the
-
-645
-00:26:35,200 --> 00:26:37,760
-tokenomics of `GOSH` has two tokens `SHELL`
-
-646
-00:26:37,760 --> 00:26:38,880
-and `GOSH`
-
-647
-00:26:38,880 --> 00:26:40,880
-and go while gauche is like value
-
-648
-00:26:40,880 --> 00:26:43,039
-talking the the `SHELL` is is a stable
-
-649
-00:26:43,039 --> 00:26:45,679
-coin which is what pays gas in never
-
-650
-00:26:45,679 --> 00:26:47,679
-scale there's only one token ever which
-
-651
-00:26:47,679 --> 00:26:48,880
-pays gas
-
-652
-00:26:48,880 --> 00:26:50,640
-and um
-
-653
-00:26:50,640 --> 00:26:51,600
-yeah
-
-654
-00:26:51,600 --> 00:26:53,600
-in in order to kind of maybe in the
-
-655
-00:26:53,600 --> 00:26:56,159
-future we will be able to construct a
-
-656
-00:26:56,159 --> 00:26:58,720
-work chain or use gauche as a work chain
-
-657
-00:26:58,720 --> 00:27:01,120
-but for that many design
-
-658
-00:27:01,120 --> 00:27:03,039
-things need to change in every scale
-
-659
-00:27:03,039 --> 00:27:07,039
-architecture as it is right now like um
-
-660
-00:27:07,039 --> 00:27:09,600
-the the it should be allowed to pay gas
-
-661
-00:27:09,600 --> 00:27:11,200
-on the on the work chain with different
-
-662
-00:27:11,200 --> 00:27:13,760
-tokens for example and and and so on and
-
-663
-00:27:13,760 --> 00:27:16,320
-so forth so yeah so so there's it's just
-
-664
-00:27:16,320 --> 00:27:18,640
-technically not possible today
-
-665
-00:27:18,640 --> 00:27:20,640
-right okay
-
-666
-00:27:20,640 --> 00:27:23,679
-so um what are the main differences
-
-667
-00:27:23,679 --> 00:27:26,399
-between gauche and the traditional git
-
-668
-00:27:26,399 --> 00:27:27,840
-hosting platform like you mentioned
-
-669
-00:27:27,840 --> 00:27:30,960
-security what else you can add on this
-
-670
-00:27:30,960 --> 00:27:33,120
-no it's it's it's really centralization
-
-671
-00:27:33,120 --> 00:27:34,720
-is the central point like what is the
-
-672
-00:27:34,720 --> 00:27:36,320
-difference between the money
-
-673
-00:27:36,320 --> 00:27:39,120
-because it's like a dollar and bitcoin
-
-674
-00:27:39,120 --> 00:27:40,480
-yeah well
-
-675
-00:27:40,480 --> 00:27:42,320
-it's the centralization decentralization
-
-676
-00:27:42,320 --> 00:27:45,279
-okay you name it which which gives us
-
-677
-00:27:45,279 --> 00:27:47,440
-which gives the security right so
-
-678
-00:27:47,440 --> 00:27:49,679
-decentralization is just just the start
-
-679
-00:27:49,679 --> 00:27:50,320
-and
-
-680
-00:27:50,320 --> 00:27:52,080
-on top of the discipline this is the
-
-681
-00:27:52,080 --> 00:27:55,279
-main thing right okay
-
-682
-00:27:55,279 --> 00:27:58,000
-so do companies and developers who are
-
-683
-00:27:58,000 --> 00:28:00,080
-using the transition the traditional git
-
-684
-00:28:00,080 --> 00:28:02,159
-need to adopt a new way of thinking or a
-
-685
-00:28:02,159 --> 00:28:05,200
-new way of working when they use `GOSH`
-
-686
-00:28:05,200 --> 00:28:06,480
-no they don't
-
-687
-00:28:06,480 --> 00:28:08,399
-they can use `GOSH` like they use git
-
-688
-00:28:08,399 --> 00:28:09,600
-today
-
-689
-00:28:09,600 --> 00:28:12,399
-um the of course they do need
-
-690
-00:28:12,399 --> 00:28:14,720
-then to think further what they can do
-
-691
-00:28:14,720 --> 00:28:16,480
-with `GOSH` in terms of security because
-
-692
-00:28:16,480 --> 00:28:18,480
-right now on github it doesn't it just
-
-693
-00:28:18,480 --> 00:28:20,799
-not doesn't exist again
-
-694
-00:28:20,799 --> 00:28:21,600
-he
-
-695
-00:28:21,600 --> 00:28:24,159
-almost doesn't exist you almost
-
-696
-00:28:24,159 --> 00:28:26,480
-don't have security comprehensive like
-
-697
-00:28:26,480 --> 00:28:28,159
-security features to supply your
-
-698
-00:28:28,159 --> 00:28:29,600
-software supply chain
-
-699
-00:28:29,600 --> 00:28:31,919
-um in `GOSH` you can have it
-
-700
-00:28:31,919 --> 00:28:34,159
-um you can get you can you can create
-
-701
-00:28:34,159 --> 00:28:36,880
-all sorts of tools on top of your code
-
-702
-00:28:36,880 --> 00:28:38,960
-on top of the you consensus of your code
-
-703
-00:28:38,960 --> 00:28:41,760
-and then and then other tools so yeah
-
-704
-00:28:41,760 --> 00:28:44,399
-they they will need to adapt to that but
-
-705
-00:28:44,399 --> 00:28:46,000
-if they don't want to use it for some
-
-706
-00:28:46,000 --> 00:28:49,200
-reason they can use it just like
-
-707
-00:28:49,200 --> 00:28:51,600
-okay yeah great we will get to the
-
-708
-00:28:51,600 --> 00:28:53,279
-security
-
-709
-00:28:53,279 --> 00:28:55,760
-thank you thank you michael and
-
-710
-00:28:55,760 --> 00:28:59,279
-now we have andrew from provendo
-
-711
-00:28:59,279 --> 00:29:01,440
-uh he will discuss how gauche achieves
-
-712
-00:29:01,440 --> 00:29:03,520
-security we
-
-713
-00:29:03,520 --> 00:29:06,240
-okay jenny
-
-714
-00:29:06,240 --> 00:29:10,960
-uh yes uh hi and hi
-
-715
-00:29:10,960 --> 00:29:12,799
-thank you thank you for joining us today
-
-716
-00:29:12,799 --> 00:29:15,840
-andrew is the co-founder of provenda
-
-717
-00:29:15,840 --> 00:29:18,480
-and also a part of `GOSH` as formal
-
-718
-00:29:18,480 --> 00:29:21,279
-verification is a huge part on `GOSH` so
-
-719
-00:29:21,279 --> 00:29:22,480
-amber
-
-720
-00:29:22,480 --> 00:29:24,880
-is here with us today to discuss uh
-
-721
-00:29:24,880 --> 00:29:27,039
-security on `GOSH` but the first question
-
-722
-00:29:27,039 --> 00:29:29,679
-we wanted to ask you andre is
-
-723
-00:29:29,679 --> 00:29:32,559
-what security challenges do git hosting
-
-724
-00:29:32,559 --> 00:29:36,720
-platforms face today in your opinion
-
-725
-00:29:36,720 --> 00:29:37,760
-yeah
-
-726
-00:29:37,760 --> 00:29:40,240
-thank you very much for inviting me here
-
-727
-00:29:40,240 --> 00:29:42,640
-so uh mostly meter
-
-728
-00:29:42,640 --> 00:29:44,880
-i'll answer these questions but i would
-
-729
-00:29:44,880 --> 00:29:46,399
-like to add something
-
-730
-00:29:46,399 --> 00:29:49,200
-yeah actually i i see i see two big
-
-731
-00:29:49,200 --> 00:29:52,480
-issues here in in centralized platforms
-
-732
-00:29:52,480 --> 00:29:54,640
-uh first of all if the
-
-733
-00:29:54,640 --> 00:29:56,720
-the that the user
-
-734
-00:29:56,720 --> 00:29:59,120
-having their pulse code from for example
-
-735
-00:29:59,120 --> 00:30:01,200
-from any centralized git git based
+**Jennifer:** Yes uh hi **Andrey**.
+
+**Andrew:** Hi
+
+**Jennifer:** Thank you, thank you for joining us today **Andrey** is the co-founder of `Provendo` and also a part of `GOSH` as formal verification is a huge part on `GOSH` so **Andrey** is here with us today to discuss uh security on `GOSH` but the first question we wanted to ask you andre is what security challenges do git hosting platforms face today in your opinion?
+
+**Andrey:** Yeah, thank you very much for inviting me here so uh mostly meter i'll answer these questions but I would like to add something
+
+**Jennifer:** Yeah
+
+**Andrey:** Actually i i see i see two big issues here in in centralized platforms uh first of all if the the that the user having their pulse code from for example from any centralized git git based
 
 736
 00:30:01,200 --> 00:30:05,919
@@ -1020,7 +340,7 @@ so i'm going to talk about the vision uh
 
 794
 00:32:30,159 --> 00:32:32,880
-so so we we plan to have gauche formula
+so so we we plan to have `Gosh` formula
 
 795
 00:32:32,880 --> 00:32:35,360
@@ -1404,11 +724,11 @@ all in `SHELL` talking so it's a stable
 
 890
 00:36:34,400 --> 00:36:36,320
-coin it's not gauche so it won't affect
+coin it's not `Gosh` so it won't affect
 
 891
 00:36:36,320 --> 00:36:37,599
-gauche token
+`GOSH` token
 
 892
 00:36:37,599 --> 00:36:39,280
@@ -1464,7 +784,7 @@ almost more for free than than the
 
 905
 00:37:05,760 --> 00:37:07,119
-github
+`GitHub`
 
 906
 00:37:07,119 --> 00:37:08,880
@@ -1504,7 +824,7 @@ like the startups can use ```GOSH``` for free
 
 915
 00:37:25,920 --> 00:37:27,920
-they could do like github this advanced
+they could do like `GitHub` this advanced
 
 916
 00:37:27,920 --> 00:37:29,440
@@ -1516,7 +836,7 @@ corporations and corporations like i
 
 918
 00:37:32,320 --> 00:37:34,560
-think they what github or gitlab is
+think they what `GitHub` or gitlab is
 
 919
 00:37:34,560 --> 00:37:35,760
@@ -1572,11 +892,11 @@ it's a it's a huge amount of money so
 
 932
 00:38:01,359 --> 00:38:03,119
-it's not about paying for github
+it's not about paying for `GitHub`
 
 933
 00:38:03,119 --> 00:38:04,960
-developer for github despite the fact
+developer for `GitHub` despite the fact
 
 934
 00:38:04,960 --> 00:38:07,760
@@ -2048,7 +1368,7 @@ you have a direct use of `GOSH` talking so
 
 1051
 00:42:04,960 --> 00:42:07,119
-uh goshtoken is a voting token on gauche
+uh goshtoken is a voting token on `Gosh`
 
 1052
 00:42:07,119 --> 00:42:09,119
@@ -2152,11 +1472,11 @@ right because like it's on the it's on
 
 1077
 00:43:03,599 --> 00:43:05,920
-the github and the github
+the `GitHub` and the `GitHub`
 
 1078
 00:43:05,920 --> 00:43:08,560
-in github you have a repository owner
+in `GitHub` you have a repository owner
 
 1079
 00:43:08,560 --> 00:43:10,000
@@ -2720,7 +2040,7 @@ from ever skin
 
 1219
 00:48:14,400 --> 00:48:17,599
-gauche is a fork in a in a in a way it's
+`Gosh` is a fork in a in a in a way it's
 
 1220
 00:48:17,599 --> 00:48:19,280
@@ -2776,7 +2096,7 @@ is about validators how will validators
 
 1233
 00:48:47,599 --> 00:48:49,839
-be attached will they be staking gauche
+be attached will they be staking `GOSH`
 
 1234
 00:48:49,839 --> 00:48:52,240
@@ -2892,7 +2212,7 @@ meaning that meaning that every other
 
 1262
 00:50:02,079 --> 00:50:04,160
-validator they would need to buy gauche
+validator they would need to buy `GOSH`
 
 1263
 00:50:04,160 --> 00:50:06,640
@@ -3068,7 +2388,7 @@ us
 
 1306
 00:51:45,200 --> 00:51:47,119
-yes and thank you Mitja and andrew for
+yes and thank you **Mitja** and **Andrey** for
 
 1307
 00:51:47,119 --> 00:51:48,720
