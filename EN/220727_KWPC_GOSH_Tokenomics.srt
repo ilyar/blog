@@ -1,0 +1,6336 @@
+1
+00:00:20,640 --> 00:00:24,160
+okay mika welcome and the first question
+
+2
+00:00:24,160 --> 00:00:26,400
+is why wasn't it possible to create a
+
+3
+00:00:26,400 --> 00:00:29,119
+git on chain before why it wasn't
+
+4
+00:00:29,119 --> 00:00:32,238
+possible to put an existing git on a
+
+5
+00:00:32,238 --> 00:00:36,239
+blockchain for on ever scale or some
+
+6
+00:00:36,239 --> 00:00:38,000
+other blockchain why we decided to
+
+7
+00:00:38,000 --> 00:00:39,680
+create a totally new brand new
+
+8
+00:00:39,680 --> 00:00:41,920
+blockchain for kit
+
+9
+00:00:41,920 --> 00:00:44,960
+yeah it's a it's this the answer is like
+
+10
+00:00:44,960 --> 00:00:47,520
+has to there are two answers for that uh
+
+11
+00:00:47,520 --> 00:00:49,039
+one is technical which i don't want to
+
+12
+00:00:49,039 --> 00:00:51,920
+go right now into because we have a show
+
+13
+00:00:51,920 --> 00:00:53,600
+about economics
+
+14
+00:00:53,600 --> 00:00:55,520
+uh so let's talk about
+
+15
+00:00:55,520 --> 00:00:56,559
+the other
+
+16
+00:00:56,559 --> 00:00:57,520
+reason
+
+17
+00:00:57,520 --> 00:01:00,800
+and this reason is into economics
+
+18
+00:01:00,800 --> 00:01:02,559
+so as you as you all know
+
+19
+00:01:02,559 --> 00:01:04,640
+anything you do on any blockchain
+
+20
+00:01:04,640 --> 00:01:06,159
+costs some money
+
+21
+00:01:06,159 --> 00:01:08,640
+yeah sometimes called fees or gas
+
+22
+00:01:08,640 --> 00:01:10,320
+whatever
+
+23
+00:01:10,320 --> 00:01:11,200
+and
+
+24
+00:01:11,200 --> 00:01:13,439
+there is no model today
+
+25
+00:01:13,439 --> 00:01:14,560
+um
+
+26
+00:01:14,560 --> 00:01:17,520
+like no economic model today on the
+
+27
+00:01:17,520 --> 00:01:18,720
+blockchain
+
+28
+00:01:18,720 --> 00:01:20,479
+which permits you to do something for
+
+29
+00:01:20,479 --> 00:01:22,240
+free
+
+30
+00:01:22,240 --> 00:01:25,280
+you always pay for anything you do
+
+31
+00:01:25,280 --> 00:01:27,360
+and the reason why you pay
+
+32
+00:01:27,360 --> 00:01:30,320
+um is partly
+
+33
+00:01:30,320 --> 00:01:31,840
+um
+
+34
+00:01:31,840 --> 00:01:34,640
+protection against spam so
+
+35
+00:01:34,640 --> 00:01:38,159
+because if if you would start um
+
+36
+00:01:38,159 --> 00:01:40,479
+you know producing millions of
+
+37
+00:01:40,479 --> 00:01:42,240
+transactions for free
+
+38
+00:01:42,240 --> 00:01:44,560
+then you would stop a blockchain
+
+39
+00:01:44,560 --> 00:01:46,159
+you could stop a blockchain because
+
+40
+00:01:46,159 --> 00:01:48,240
+there is no unlimited capacity on any
+
+41
+00:01:48,240 --> 00:01:52,320
+blockchain and and any computing system
+
+42
+00:01:52,320 --> 00:01:55,759
+so sometimes uh what other projects
+
+43
+00:01:55,759 --> 00:01:58,960
+trying to do is for example solana
+
+44
+00:01:58,960 --> 00:02:01,200
+just just they make the fees very very
+
+45
+00:02:01,200 --> 00:02:02,719
+small
+
+46
+00:02:02,719 --> 00:02:03,680
+like
+
+47
+00:02:03,680 --> 00:02:04,960
+so small
+
+48
+00:02:04,960 --> 00:02:07,040
+that it's almost like you don't almost
+
+49
+00:02:07,040 --> 00:02:08,560
+no don't feel it
+
+50
+00:02:08,560 --> 00:02:10,000
+the problem there are two problems for
+
+51
+00:02:10,000 --> 00:02:12,480
+that first it's still
+
+52
+00:02:12,480 --> 00:02:16,000
+a fee so you still has have to buy right
+
+53
+00:02:16,000 --> 00:02:18,080
+tokens even if it's a small amount of
+
+54
+00:02:18,080 --> 00:02:19,360
+tokens
+
+55
+00:02:19,360 --> 00:02:21,200
+yeah you still need to buy it so it's
+
+56
+00:02:21,200 --> 00:02:23,280
+not free even if it's so it's small
+
+57
+00:02:23,280 --> 00:02:24,160
+small
+
+58
+00:02:24,160 --> 00:02:25,120
+um
+
+59
+00:02:25,120 --> 00:02:28,000
+but the other the other thing is that
+
+60
+00:02:28,000 --> 00:02:29,920
+it doesn't protect against spam
+
+61
+00:02:29,920 --> 00:02:33,360
+and we saw that solana
+
+62
+00:02:33,680 --> 00:02:35,760
+experienced many problems related to
+
+63
+00:02:35,760 --> 00:02:36,959
+this
+
+64
+00:02:36,959 --> 00:02:39,519
+where the full capacity was used it
+
+65
+00:02:39,519 --> 00:02:40,959
+doesn't matter if you if you don't have
+
+66
+00:02:40,959 --> 00:02:42,879
+unlimited capacity basically there is
+
+67
+00:02:42,879 --> 00:02:44,640
+some limit there is some price that
+
+68
+00:02:44,640 --> 00:02:47,519
+someone can pay to buy out
+
+69
+00:02:47,519 --> 00:02:49,360
+the whole blockchain basically which
+
+70
+00:02:49,360 --> 00:02:51,680
+means the blockchain will exclusively
+
+71
+00:02:51,680 --> 00:02:53,040
+work for this
+
+72
+00:02:53,040 --> 00:02:55,280
+someone and that means that the
+
+73
+00:02:55,280 --> 00:02:58,879
+blockchain will stop for everyone else
+
+74
+00:02:59,360 --> 00:03:00,800
+so
+
+75
+00:03:00,800 --> 00:03:03,519
+i think one of the most important the
+
+76
+00:03:03,519 --> 00:03:05,840
+contributions to tokenomics
+
+77
+00:03:05,840 --> 00:03:07,440
+in gosh is that
+
+78
+00:03:07,440 --> 00:03:09,200
+we came out
+
+79
+00:03:09,200 --> 00:03:11,680
+came up with the possibility to make a
+
+80
+00:03:11,680 --> 00:03:12,959
+completely free service on the
+
+81
+00:03:12,959 --> 00:03:14,159
+blockchain
+
+82
+00:03:14,159 --> 00:03:16,159
+and right because
+
+83
+00:03:16,159 --> 00:03:17,440
+again
+
+84
+00:03:17,440 --> 00:03:19,680
+a sorry to interrupt you because a git
+
+85
+00:03:19,680 --> 00:03:21,760
+for those who don't maybe so those who
+
+86
+00:03:21,760 --> 00:03:23,599
+don't know here uh a git is a free
+
+87
+00:03:23,599 --> 00:03:25,599
+service developers using git it's a free
+
+88
+00:03:25,599 --> 00:03:26,640
+service so
+
+89
+00:03:26,640 --> 00:03:28,720
+for open source yeah put
+
+90
+00:03:28,720 --> 00:03:32,640
+yeah for open source it's okay well
+
+91
+00:03:32,640 --> 00:03:35,280
+okay so git is not a service git is
+
+92
+00:03:35,280 --> 00:03:37,360
+something you install on your computer
+
+93
+00:03:37,360 --> 00:03:40,720
+where you basically store your code and
+
+94
+00:03:40,720 --> 00:03:42,799
+all the versions of your code
+
+95
+00:03:42,799 --> 00:03:43,840
+right
+
+96
+00:03:43,840 --> 00:03:45,599
+when you talk about service you talk
+
+97
+00:03:45,599 --> 00:03:48,400
+something like github or gitlab or
+
+98
+00:03:48,400 --> 00:03:51,280
+bitbucket whatever there are like right
+
+99
+00:03:51,280 --> 00:03:54,239
+a git hosting platform exactly so when
+
+100
+00:03:54,239 --> 00:03:56,159
+we talk about git costing platform yeah
+
+101
+00:03:56,159 --> 00:03:59,040
+and these platforms it doesn't it's not
+
+102
+00:03:59,040 --> 00:04:00,959
+only relates to git
+
+103
+00:04:00,959 --> 00:04:04,000
+it relates to any um well most of the
+
+104
+00:04:04,000 --> 00:04:05,840
+business models today when you have
+
+105
+00:04:05,840 --> 00:04:08,480
+cloud service usually this cloud service
+
+106
+00:04:08,480 --> 00:04:11,840
+provides you some um some
+
+107
+00:04:11,840 --> 00:04:15,120
+service for free it's like like initial
+
+108
+00:04:15,120 --> 00:04:16,399
+some amount of
+
+109
+00:04:16,399 --> 00:04:18,238
+whatever service they they give they
+
+110
+00:04:18,238 --> 00:04:20,079
+provided for free so for example like
+
+111
+00:04:20,079 --> 00:04:21,918
+firebase
+
+112
+00:04:21,918 --> 00:04:22,720
+or
+
+113
+00:04:22,720 --> 00:04:26,320
+you know aws you could you could have
+
+114
+00:04:26,320 --> 00:04:30,240
+like a small server from aws
+
+115
+00:04:30,240 --> 00:04:32,240
+for free just to try it out
+
+116
+00:04:32,240 --> 00:04:34,160
+just to build your application to test
+
+117
+00:04:34,160 --> 00:04:37,040
+your application and then
+
+118
+00:04:37,040 --> 00:04:38,560
+when you scale like when you have a lot
+
+119
+00:04:38,560 --> 00:04:40,000
+of users you start to have a lot of
+
+120
+00:04:40,000 --> 00:04:40,840
+users
+
+121
+00:04:40,840 --> 00:04:42,639
+then
+
+122
+00:04:42,639 --> 00:04:44,639
+you know you start paying and this is a
+
+123
+00:04:44,639 --> 00:04:47,120
+normal business model which which makes
+
+124
+00:04:47,120 --> 00:04:49,680
+it very easy to start developing on this
+
+125
+00:04:49,680 --> 00:04:52,160
+cloud service this model is used
+
+126
+00:04:52,160 --> 00:04:53,840
+everywhere right
+
+127
+00:04:53,840 --> 00:04:56,639
+so when you want to build a
+
+128
+00:04:56,639 --> 00:04:58,800
+blockchain based
+
+129
+00:04:58,800 --> 00:05:02,400
+service a cloud service for git
+
+130
+00:05:02,400 --> 00:05:04,000
+you must accommodate this you must
+
+131
+00:05:04,000 --> 00:05:06,320
+accommodate the developers who just want
+
+132
+00:05:06,320 --> 00:05:07,759
+to start for free
+
+133
+00:05:07,759 --> 00:05:11,759
+okay mita um let's see the your the
+
+134
+00:05:11,759 --> 00:05:14,320
+scheme of the tokenomics of gosh like
+
+135
+00:05:14,320 --> 00:05:17,120
+and you can describe briefly for us like
+
+136
+00:05:17,120 --> 00:05:19,280
+uh how it works like and then we're
+
+137
+00:05:19,280 --> 00:05:20,720
+gonna
+
+138
+00:05:20,720 --> 00:05:24,880
+uh go deeper and see like the details
+
+139
+00:05:24,880 --> 00:05:26,080
+sure well
+
+140
+00:05:26,080 --> 00:05:29,440
+as you said there are like two tokens
+
+141
+00:05:29,440 --> 00:05:35,440
+uh in in in gosh system uh one token is
+
+142
+00:05:35,600 --> 00:05:38,240
+stable coin and another token is like
+
+143
+00:05:38,240 --> 00:05:40,720
+value capturing token so the stable coin
+
+144
+00:05:40,720 --> 00:05:42,080
+called shell
+
+145
+00:05:42,080 --> 00:05:43,039
+and the
+
+146
+00:05:43,039 --> 00:05:44,880
+the value capturing token
+
+147
+00:05:44,880 --> 00:05:46,160
+called gosh
+
+148
+00:05:46,160 --> 00:05:47,840
+so
+
+149
+00:05:47,840 --> 00:05:50,400
+there is a reason why
+
+150
+00:05:50,400 --> 00:05:51,680
+um
+
+151
+00:05:51,680 --> 00:05:54,160
+why there are two tokens
+
+152
+00:05:54,160 --> 00:05:55,280
+and again
+
+153
+00:05:55,280 --> 00:05:57,360
+i don't want to go deeper into that a
+
+154
+00:05:57,360 --> 00:05:58,400
+lot
+
+155
+00:05:58,400 --> 00:06:01,280
+but just a couple of words yeah it's
+
+156
+00:06:01,280 --> 00:06:03,680
+impossible can you briefly cover yeah
+
+157
+00:06:03,680 --> 00:06:06,400
+yeah it's impossible to
+
+158
+00:06:06,400 --> 00:06:08,720
+to have one token which both captures
+
+159
+00:06:08,720 --> 00:06:09,840
+value
+
+160
+00:06:09,840 --> 00:06:12,400
+and has a property of
+
+161
+00:06:12,400 --> 00:06:15,520
+money which is like used to
+
+162
+00:06:15,520 --> 00:06:17,120
+pay for things
+
+163
+00:06:17,120 --> 00:06:19,520
+okay why it is important why it is not
+
+164
+00:06:19,520 --> 00:06:21,280
+possible is because
+
+165
+00:06:21,280 --> 00:06:23,759
+when you pay for stuff
+
+166
+00:06:23,759 --> 00:06:25,840
+you don't want
+
+167
+00:06:25,840 --> 00:06:28,560
+i would say this you would be
+
+168
+00:06:28,560 --> 00:06:30,720
+like inclined not to pay
+
+169
+00:06:30,720 --> 00:06:32,960
+if with something that rises in value
+
+170
+00:06:32,960 --> 00:06:35,600
+all the time right if for example if the
+
+171
+00:06:35,600 --> 00:06:36,800
+dollar
+
+172
+00:06:36,800 --> 00:06:37,600
+would
+
+173
+00:06:37,600 --> 00:06:39,680
+rise in value instead of falling like it
+
+174
+00:06:39,680 --> 00:06:41,039
+will if it would be just complete
+
+175
+00:06:41,039 --> 00:06:43,120
+deflation all the time instead of
+
+176
+00:06:43,120 --> 00:06:45,280
+inflation you would have deflation like
+
+177
+00:06:45,280 --> 00:06:48,319
+10 a year deflation think about that so
+
+178
+00:06:48,319 --> 00:06:50,960
+you know that what your dollar that you
+
+179
+00:06:50,960 --> 00:06:53,520
+can buy a coffee today tomorrow you can
+
+180
+00:06:53,520 --> 00:06:55,919
+buy two two cups of coffee
+
+181
+00:06:55,919 --> 00:06:57,440
+that would prevent people
+
+182
+00:06:57,440 --> 00:06:59,440
+psychologically from spending that
+
+183
+00:06:59,440 --> 00:07:00,800
+dollar
+
+184
+00:07:00,800 --> 00:07:02,400
+right because like who would spend
+
+185
+00:07:02,400 --> 00:07:05,599
+dollars if it's always rises in value
+
+186
+00:07:05,599 --> 00:07:07,199
+so that's why
+
+187
+00:07:07,199 --> 00:07:09,440
+inflation is actually
+
+188
+00:07:09,440 --> 00:07:11,520
+good for economic growth
+
+189
+00:07:11,520 --> 00:07:12,639
+as we know
+
+190
+00:07:12,639 --> 00:07:13,919
+it's exactly because of that that
+
+191
+00:07:13,919 --> 00:07:15,680
+stimulates
+
+192
+00:07:15,680 --> 00:07:18,000
+spending it stimulates people to get rid
+
+193
+00:07:18,000 --> 00:07:20,319
+of money to basically put money in
+
+194
+00:07:20,319 --> 00:07:22,960
+somewhere where the value is created for
+
+195
+00:07:22,960 --> 00:07:25,440
+example in enterprises take money is a
+
+196
+00:07:25,440 --> 00:07:27,360
+loan because what you take today and you
+
+197
+00:07:27,360 --> 00:07:28,960
+can use this loan to create your
+
+198
+00:07:28,960 --> 00:07:32,080
+business tomorrow you will pay less
+
+199
+00:07:32,080 --> 00:07:33,840
+when you repay the loan despite the fact
+
+200
+00:07:33,840 --> 00:07:35,280
+that it has
+
+201
+00:07:35,280 --> 00:07:38,080
+also percentage you know on the loan but
+
+202
+00:07:38,080 --> 00:07:41,199
+still you you can you easy you you take
+
+203
+00:07:41,199 --> 00:07:43,680
+the money and invest the money
+
+204
+00:07:43,680 --> 00:07:45,919
+easier in something in property for
+
+205
+00:07:45,919 --> 00:07:48,400
+example also just for whatever you
+
+206
+00:07:48,400 --> 00:07:50,080
+believe it will will rise in there right
+
+207
+00:07:50,080 --> 00:07:50,960
+right
+
+208
+00:07:50,960 --> 00:07:53,520
+right in bitcoin
+
+209
+00:07:53,520 --> 00:07:55,280
+well that's exactly what's happening
+
+210
+00:07:55,280 --> 00:07:58,560
+right people investing money
+
+211
+00:07:58,560 --> 00:08:00,800
+for example something that will rise in
+
+212
+00:08:00,800 --> 00:08:02,400
+value so people believe something will
+
+213
+00:08:02,400 --> 00:08:04,879
+rise in value so bitcoin people believe
+
+214
+00:08:04,879 --> 00:08:06,720
+will rise in value sometimes and they
+
+215
+00:08:06,720 --> 00:08:08,879
+they buy bitcoin with dollar they
+
+216
+00:08:08,879 --> 00:08:11,360
+exchange well sometimes
+
+217
+00:08:11,360 --> 00:08:13,759
+sometimes they don't they lose
+
+218
+00:08:13,759 --> 00:08:16,000
+believe in everything when the economic
+
+219
+00:08:16,000 --> 00:08:18,479
+downturn they don't believe but it it
+
+220
+00:08:18,479 --> 00:08:20,639
+corrects the moment right
+
+221
+00:08:20,639 --> 00:08:22,800
+right but it corrects itself it corrects
+
+222
+00:08:22,800 --> 00:08:24,240
+itself also if you look at the like
+
+223
+00:08:24,240 --> 00:08:26,560
+bitcoin price
+
+224
+00:08:26,560 --> 00:08:29,840
+it's still 20 000 per bitcoin not
+
+225
+00:08:29,840 --> 00:08:31,759
+what it was two years ago remember two
+
+226
+00:08:31,759 --> 00:08:34,080
+years ago it was like much less
+
+227
+00:08:34,080 --> 00:08:36,399
+right so still despite the fact okay it
+
+228
+00:08:36,399 --> 00:08:38,880
+went to 60 whatever and then at fall
+
+229
+00:08:38,880 --> 00:08:40,799
+doesn't matter it's still the basic
+
+230
+00:08:40,799 --> 00:08:42,479
+value rises
+
+231
+00:08:42,479 --> 00:08:44,480
+despite the fact that a lot of growing
+
+232
+00:08:44,480 --> 00:08:46,959
+yeah a lot of people sell it but because
+
+233
+00:08:46,959 --> 00:08:48,800
+but because well a lot of people will
+
+234
+00:08:48,800 --> 00:08:50,399
+sell because they feel pressure for
+
+235
+00:08:50,399 --> 00:08:53,200
+example they have some position
+
+236
+00:08:53,200 --> 00:08:54,880
+which which they need to cover for
+
+237
+00:08:54,880 --> 00:08:56,880
+example and they they oblige to sell
+
+238
+00:08:56,880 --> 00:08:58,560
+this bitcoin
+
+239
+00:08:58,560 --> 00:09:00,800
+because whatever but
+
+240
+00:09:00,800 --> 00:09:01,680
+okay
+
+241
+00:09:01,680 --> 00:09:04,320
+all right point is the point is we we
+
+242
+00:09:04,320 --> 00:09:07,519
+need to have two tokens if we want
+
+243
+00:09:07,519 --> 00:09:10,000
+one talking to ryzen value and we want
+
+244
+00:09:10,000 --> 00:09:11,839
+also to have token with with which
+
+245
+00:09:11,839 --> 00:09:14,959
+people would be like ready to pay
+
+246
+00:09:14,959 --> 00:09:18,560
+each other for work or for some services
+
+247
+00:09:18,560 --> 00:09:20,720
+and that token need to be
+
+248
+00:09:20,720 --> 00:09:22,560
+stable and actually if you remember
+
+249
+00:09:22,560 --> 00:09:23,680
+facebook
+
+250
+00:09:23,680 --> 00:09:25,920
+tried to do their own cryptocurrency
+
+251
+00:09:25,920 --> 00:09:27,920
+like this cryptocurrency was supposed to
+
+252
+00:09:27,920 --> 00:09:29,839
+be stable coin
+
+253
+00:09:29,839 --> 00:09:30,959
+right
+
+254
+00:09:30,959 --> 00:09:33,360
+and the reason for that is this nothing
+
+255
+00:09:33,360 --> 00:09:36,160
+but nothing is stable right
+
+256
+00:09:36,160 --> 00:09:38,320
+it's even the table is relative term
+
+257
+00:09:38,320 --> 00:09:40,399
+stable is relative to term actually it's
+
+258
+00:09:40,399 --> 00:09:42,160
+not stable it's losing value it should
+
+259
+00:09:42,160 --> 00:09:44,240
+lose the value in the perception people
+
+260
+00:09:44,240 --> 00:09:46,880
+should perceive that as losing value so
+
+261
+00:09:46,880 --> 00:09:48,959
+for example we know one thing that for
+
+262
+00:09:48,959 --> 00:09:50,480
+certain will lose value it's called
+
+263
+00:09:50,480 --> 00:09:51,760
+dollar
+
+264
+00:09:51,760 --> 00:09:53,360
+dollar is a great
+
+265
+00:09:53,360 --> 00:09:55,600
+losing value mechanism
+
+266
+00:09:55,600 --> 00:09:57,680
+and uh and so if you tight your
+
+267
+00:09:57,680 --> 00:10:00,480
+stablecoin to the dollar
+
+268
+00:10:00,480 --> 00:10:02,160
+term then
+
+269
+00:10:02,160 --> 00:10:05,680
+kind of we know that it will lose value
+
+270
+00:10:05,680 --> 00:10:08,000
+okay
+
+271
+00:10:10,399 --> 00:10:13,760
+so you need one uh one token to increase
+
+272
+00:10:13,760 --> 00:10:15,600
+in value so people are going to be
+
+273
+00:10:15,600 --> 00:10:17,360
+holding it basically right and the other
+
+274
+00:10:17,360 --> 00:10:19,440
+one who that they will be using for the
+
+275
+00:10:19,440 --> 00:10:21,680
+transaction so that's they will they
+
+276
+00:10:21,680 --> 00:10:23,920
+will use the brushes as well i can okay
+
+277
+00:10:23,920 --> 00:10:25,360
+so let's talk about how they can use
+
+278
+00:10:25,360 --> 00:10:28,720
+gold let's talk about uh tokens
+
+279
+00:10:28,720 --> 00:10:30,320
+yeah that's right so why do we need
+
+280
+00:10:30,320 --> 00:10:33,120
+gauche we already have stable coin and
+
+281
+00:10:33,120 --> 00:10:35,920
+the we need gosh for governance
+
+282
+00:10:35,920 --> 00:10:37,440
+and governance
+
+283
+00:10:37,440 --> 00:10:38,640
+is
+
+284
+00:10:38,640 --> 00:10:39,600
+when
+
+285
+00:10:39,600 --> 00:10:41,519
+you can
+
+286
+00:10:41,519 --> 00:10:42,880
+like vote
+
+287
+00:10:42,880 --> 00:10:45,200
+for things you can influence things by
+
+288
+00:10:45,200 --> 00:10:46,880
+just holding kosh
+
+289
+00:10:46,880 --> 00:10:48,320
+so when we say
+
+290
+00:10:48,320 --> 00:10:51,680
+uh holding like
+
+291
+00:10:51,680 --> 00:10:55,440
+you kind of have a part this is the
+
+292
+00:10:55,440 --> 00:10:56,880
+the mechanism
+
+293
+00:10:56,880 --> 00:11:00,000
+or the the unit of account
+
+294
+00:11:00,000 --> 00:11:01,040
+for
+
+295
+00:11:01,040 --> 00:11:03,920
+what your portion
+
+296
+00:11:03,920 --> 00:11:05,519
+like personally
+
+297
+00:11:05,519 --> 00:11:08,880
+that you hold in gosh project
+
+298
+00:11:08,880 --> 00:11:12,079
+is it kind of uh like a stakeholding uh
+
+299
+00:11:12,079 --> 00:11:13,760
+it is a state
+
+300
+00:11:13,760 --> 00:11:16,399
+exactly it is a stakeholding
+
+301
+00:11:16,399 --> 00:11:18,320
+it is it is it is a stakeholding in
+
+302
+00:11:18,320 --> 00:11:21,760
+gauche project and the stakeholding
+
+303
+00:11:21,760 --> 00:11:24,399
+it has several implications
+
+304
+00:11:24,399 --> 00:11:26,880
+one of them is that it is a mechanism
+
+305
+00:11:26,880 --> 00:11:27,680
+for
+
+306
+00:11:27,680 --> 00:11:30,079
+voting for whatever decisions someone
+
+307
+00:11:30,079 --> 00:11:31,680
+need to make
+
+308
+00:11:31,680 --> 00:11:33,360
+within the system
+
+309
+00:11:33,360 --> 00:11:35,200
+for gosh for example so for example
+
+310
+00:11:35,200 --> 00:11:37,360
+let's say the gosh is run by some
+
+311
+00:11:37,360 --> 00:11:39,519
+software and we want to change that
+
+312
+00:11:39,519 --> 00:11:41,279
+software we want to release some
+
+313
+00:11:41,279 --> 00:11:43,440
+upgrades some update or whatever
+
+314
+00:11:43,440 --> 00:11:45,519
+and who is going to decide if we're
+
+315
+00:11:45,519 --> 00:11:47,920
+releasing this update or not
+
+316
+00:11:47,920 --> 00:11:50,800
+people developers
+
+317
+00:11:50,800 --> 00:11:53,600
+yeah developers and investors or whoever
+
+318
+00:11:53,600 --> 00:11:56,079
+hold the stakeholders who hold gosh they
+
+319
+00:11:56,079 --> 00:11:59,440
+are the one that the most affected by
+
+320
+00:11:59,440 --> 00:12:03,360
+the decisions that the gosh as a network
+
+321
+00:12:03,360 --> 00:12:05,360
+as a project takes
+
+322
+00:12:05,360 --> 00:12:07,519
+and so they need to have an influence
+
+323
+00:12:07,519 --> 00:12:09,360
+over this decision and the influence is
+
+324
+00:12:09,360 --> 00:12:11,040
+measured by the amount of tokens they
+
+325
+00:12:11,040 --> 00:12:12,399
+hold
+
+326
+00:12:12,399 --> 00:12:15,200
+the thing is that
+
+327
+00:12:15,519 --> 00:12:18,639
+in order to encourage the holding
+
+328
+00:12:18,639 --> 00:12:20,800
+because when we talk about stablecoin we
+
+329
+00:12:20,800 --> 00:12:22,639
+encourage the spending when we talk
+
+330
+00:12:22,639 --> 00:12:24,560
+about governance tokens we encourage the
+
+331
+00:12:24,560 --> 00:12:26,720
+holding this in order to encourage the
+
+332
+00:12:26,720 --> 00:12:28,480
+whole thing you need this do you need
+
+333
+00:12:28,480 --> 00:12:30,880
+the value of the talk and not to fall at
+
+334
+00:12:30,880 --> 00:12:32,000
+least
+
+335
+00:12:32,000 --> 00:12:34,000
+and for it not to fall it should
+
+336
+00:12:34,000 --> 00:12:35,600
+actually rise
+
+337
+00:12:35,600 --> 00:12:37,839
+we know that so it's like an alice in
+
+338
+00:12:37,839 --> 00:12:40,240
+the wonderland remember i need to run
+
+339
+00:12:40,240 --> 00:12:42,000
+just to be in place so
+
+340
+00:12:42,000 --> 00:12:43,200
+uh
+
+341
+00:12:43,200 --> 00:12:45,279
+it need to rise and in order for it to
+
+342
+00:12:45,279 --> 00:12:47,519
+rise there is only one mechanism
+
+343
+00:12:47,519 --> 00:12:48,480
+that
+
+344
+00:12:48,480 --> 00:12:51,120
+because the price is is it is a demand
+
+345
+00:12:51,120 --> 00:12:55,120
+is a curve between demand and supply so
+
+346
+00:12:55,120 --> 00:12:57,360
+if we have some demand for talking the
+
+347
+00:12:57,360 --> 00:12:59,600
+only reason it will rise in value if you
+
+348
+00:12:59,600 --> 00:13:01,440
+have a demand is that the supply will be
+
+349
+00:13:01,440 --> 00:13:03,680
+limited it will be less than the demand
+
+350
+00:13:03,680 --> 00:13:05,680
+so that will rise that something will
+
+351
+00:13:05,680 --> 00:13:08,240
+rise and value like in bitcoin
+
+352
+00:13:08,240 --> 00:13:11,120
+you have you know in existence like 21
+
+353
+00:13:11,120 --> 00:13:13,839
+million bitcoin will will ever be
+
+354
+00:13:13,839 --> 00:13:17,200
+more or less mined and that means that
+
+355
+00:13:17,200 --> 00:13:20,320
+the demand for bitcoin supposedly to be
+
+356
+00:13:20,320 --> 00:13:22,800
+rising over time
+
+357
+00:13:22,800 --> 00:13:24,240
+because more and more people would like
+
+358
+00:13:24,240 --> 00:13:26,320
+to hold it so the same thing with gosh
+
+359
+00:13:26,320 --> 00:13:28,240
+the more platform is used the more
+
+360
+00:13:28,240 --> 00:13:30,320
+developers are joining the more they
+
+361
+00:13:30,320 --> 00:13:33,519
+would like to hold part of the system so
+
+362
+00:13:33,519 --> 00:13:35,760
+they can influence the decisions over
+
+363
+00:13:35,760 --> 00:13:37,360
+the system because this is the system
+
+364
+00:13:37,360 --> 00:13:40,800
+with their project leaves on and so
+
+365
+00:13:40,800 --> 00:13:44,880
+for that we need that to rise right
+
+366
+00:13:44,880 --> 00:13:46,000
+that's very interesting so you're
+
+367
+00:13:46,000 --> 00:13:47,680
+speaking about people uh you're speaking
+
+368
+00:13:47,680 --> 00:13:49,360
+about investors who are gonna be uh
+
+369
+00:13:49,360 --> 00:13:50,800
+whole like who are gonna have
+
+370
+00:13:50,800 --> 00:13:53,120
+stakeholders speaking about validator
+
+371
+00:13:53,120 --> 00:13:54,720
+stakeholders
+
+372
+00:13:54,720 --> 00:13:55,440
+yeah
+
+373
+00:13:55,440 --> 00:13:57,600
+call them yes whoever you want but it's
+
+374
+00:13:57,600 --> 00:13:59,120
+interesting because we're now coming to
+
+375
+00:13:59,120 --> 00:14:00,880
+the validators
+
+376
+00:14:00,880 --> 00:14:02,399
+program on gosh
+
+377
+00:14:02,399 --> 00:14:05,040
+so i just uh wanted to ask you a
+
+378
+00:14:05,040 --> 00:14:06,320
+question that came up to me so
+
+379
+00:14:06,320 --> 00:14:07,839
+validators are going to be same
+
+380
+00:14:07,839 --> 00:14:10,959
+stakeholders uh is it correct
+
+381
+00:14:10,959 --> 00:14:12,399
+correct right
+
+382
+00:14:12,399 --> 00:14:14,959
+well yeah in order in order to in order
+
+383
+00:14:14,959 --> 00:14:17,120
+to validate you need to stake
+
+384
+00:14:17,120 --> 00:14:18,079
+um
+
+385
+00:14:18,079 --> 00:14:20,399
+that's how it works like always
+
+386
+00:14:20,399 --> 00:14:22,639
+yeah in any proof of statement
+
+387
+00:14:22,639 --> 00:14:24,880
+as well
+
+388
+00:14:24,880 --> 00:14:26,800
+you need to stake you need to hold on to
+
+389
+00:14:26,800 --> 00:14:29,120
+token because this is the security
+
+390
+00:14:29,120 --> 00:14:30,639
+guarantee
+
+391
+00:14:30,639 --> 00:14:32,639
+that you give to the network that if you
+
+392
+00:14:32,639 --> 00:14:34,399
+as a validator you will do something
+
+393
+00:14:34,399 --> 00:14:35,920
+malicious then
+
+394
+00:14:35,920 --> 00:14:38,399
+um you will lose your tokens
+
+395
+00:14:38,399 --> 00:14:40,079
+so yeah
+
+396
+00:14:40,079 --> 00:14:42,839
+right okay so now now that we came to
+
+397
+00:14:42,839 --> 00:14:46,320
+validators uh program i um
+
+398
+00:14:46,320 --> 00:14:49,120
+i looked into ghost economics so i saw
+
+399
+00:14:49,120 --> 00:14:51,680
+that basically validators program it's
+
+400
+00:14:51,680 --> 00:14:53,920
+quite different from what we are usually
+
+401
+00:14:53,920 --> 00:14:56,480
+used to on other blockchains and that
+
+402
+00:14:56,480 --> 00:14:59,199
+validators has some advantages and one
+
+403
+00:14:59,199 --> 00:15:00,880
+of those you just mentioned right that
+
+404
+00:15:00,880 --> 00:15:02,880
+uh basically the daters get the ability
+
+405
+00:15:02,880 --> 00:15:05,440
+to choose on uh on gosh decisions like
+
+406
+00:15:05,440 --> 00:15:07,199
+to make decisions upon gosh right
+
+407
+00:15:07,199 --> 00:15:09,279
+because they're gonna have uh
+
+408
+00:15:09,279 --> 00:15:12,079
+basically okay not not not so quickly
+
+409
+00:15:12,079 --> 00:15:14,720
+let's let's separate this so first okay
+
+410
+00:15:14,720 --> 00:15:16,639
+so first let's talk about validation how
+
+411
+00:15:16,639 --> 00:15:18,560
+you can become a validator validation
+
+412
+00:15:18,560 --> 00:15:20,639
+program so you need to have gosh okay
+
+413
+00:15:20,639 --> 00:15:22,639
+you need to put it as a stake and you
+
+414
+00:15:22,639 --> 00:15:24,639
+need to lock it for
+
+415
+00:15:24,639 --> 00:15:26,399
+from one to five years
+
+416
+00:15:26,399 --> 00:15:29,199
+like one two three four four five
+
+417
+00:15:29,199 --> 00:15:32,000
+um and each the longer you
+
+418
+00:15:32,000 --> 00:15:32,959
+you
+
+419
+00:15:32,959 --> 00:15:35,839
+like stake it
+
+420
+00:15:35,839 --> 00:15:37,440
+the more
+
+421
+00:15:37,440 --> 00:15:39,440
+like percentage per year
+
+422
+00:15:39,440 --> 00:15:41,759
+revenue you will get market starts from
+
+423
+00:15:41,759 --> 00:15:44,079
+eight percent yeah eight percent first
+
+424
+00:15:44,079 --> 00:15:47,839
+year up to 24 yearly early return
+
+425
+00:15:47,839 --> 00:15:49,519
+uh like yield
+
+426
+00:15:49,519 --> 00:15:52,839
+uh if you if you look at for five years
+
+427
+00:15:52,839 --> 00:15:55,519
+right so
+
+428
+00:15:55,519 --> 00:15:57,920
+this is different in a way that it
+
+429
+00:15:57,920 --> 00:15:59,279
+combines
+
+430
+00:15:59,279 --> 00:16:03,120
+how the usual like d5 protocols work
+
+431
+00:16:03,120 --> 00:16:04,959
+with the proof of stake because usually
+
+432
+00:16:04,959 --> 00:16:07,040
+proof of stake
+
+433
+00:16:07,040 --> 00:16:09,279
+it's it's simpler than that you just you
+
+434
+00:16:09,279 --> 00:16:11,920
+know you call you you lock tokens in
+
+435
+00:16:11,920 --> 00:16:14,160
+steak you stay tokens
+
+436
+00:16:14,160 --> 00:16:15,759
+and then for the whatever period you
+
+437
+00:16:15,759 --> 00:16:19,120
+want and then you can exit at any time
+
+438
+00:16:19,120 --> 00:16:21,040
+right
+
+439
+00:16:21,040 --> 00:16:24,240
+and uh but but this is um
+
+440
+00:16:24,240 --> 00:16:26,480
+this model is just just basic proof of
+
+441
+00:16:26,480 --> 00:16:29,040
+proof-of-stake model but we we didn't
+
+442
+00:16:29,040 --> 00:16:30,639
+want to do that
+
+443
+00:16:30,639 --> 00:16:31,920
+because
+
+444
+00:16:31,920 --> 00:16:32,639
+um
+
+445
+00:16:32,639 --> 00:16:35,519
+we wanted we wanted to tighter to make
+
+446
+00:16:35,519 --> 00:16:36,800
+it tighter
+
+447
+00:16:36,800 --> 00:16:37,600
+the
+
+448
+00:16:37,600 --> 00:16:39,519
+uh what happens afterwards what you can
+
+449
+00:16:39,519 --> 00:16:41,440
+do with the token
+
+450
+00:16:41,440 --> 00:16:42,480
+um
+
+451
+00:16:42,480 --> 00:16:44,639
+not only just take it and then and then
+
+452
+00:16:44,639 --> 00:16:46,320
+just take it whenever you whenever you
+
+453
+00:16:46,320 --> 00:16:48,959
+want because we wanted you to
+
+454
+00:16:48,959 --> 00:16:51,360
+usually when validators take the token
+
+455
+00:16:51,360 --> 00:16:53,279
+that's the end of their involvement in
+
+456
+00:16:53,279 --> 00:16:55,360
+the network because they're only waiting
+
+457
+00:16:55,360 --> 00:16:57,680
+for yield right they can just take it
+
+458
+00:16:57,680 --> 00:16:59,519
+and then like they get their advantages
+
+459
+00:16:59,519 --> 00:17:01,040
+and basically
+
+460
+00:17:01,040 --> 00:17:03,680
+get the yield whatever it is and yeah
+
+461
+00:17:03,680 --> 00:17:05,679
+they get them yeah get the money no
+
+462
+00:17:05,679 --> 00:17:07,760
+advantages i guess i i mean they get
+
+463
+00:17:07,760 --> 00:17:08,959
+their
+
+464
+00:17:08,959 --> 00:17:11,520
+money basically essentially money is
+
+465
+00:17:11,520 --> 00:17:12,799
+advantageous
+
+466
+00:17:12,799 --> 00:17:14,480
+yeah money is a great advice for them
+
+467
+00:17:14,480 --> 00:17:15,439
+for sure
+
+468
+00:17:15,439 --> 00:17:16,240
+yes
+
+469
+00:17:16,240 --> 00:17:19,119
+absolutely but here uh but on gosh as i
+
+470
+00:17:19,119 --> 00:17:20,959
+understand that we will get it uh we'll
+
+471
+00:17:20,959 --> 00:17:23,119
+get a little later on it uh validators
+
+472
+00:17:23,119 --> 00:17:24,880
+have the ability to stay much longer
+
+473
+00:17:24,880 --> 00:17:26,400
+than five years if they wish to because
+
+474
+00:17:26,400 --> 00:17:27,359
+they have
+
+475
+00:17:27,359 --> 00:17:30,039
+other interesting
+
+476
+00:17:30,039 --> 00:17:31,760
+features
+
+477
+00:17:31,760 --> 00:17:33,360
+yeah i think the most important part
+
+478
+00:17:33,360 --> 00:17:35,679
+here sorry pauline go ahead
+
+479
+00:17:35,679 --> 00:17:38,320
+i'm sorry like you speak and i will this
+
+480
+00:17:38,320 --> 00:17:39,919
+is going to be my next question so you
+
+481
+00:17:39,919 --> 00:17:42,480
+can like talk more about it
+
+482
+00:17:42,480 --> 00:17:44,400
+all right so um
+
+483
+00:17:44,400 --> 00:17:47,440
+the thing is that um there is a there is
+
+484
+00:17:47,440 --> 00:17:48,880
+a one
+
+485
+00:17:48,880 --> 00:17:51,120
+covet here
+
+486
+00:17:51,120 --> 00:17:52,880
+we said
+
+487
+00:17:52,880 --> 00:17:57,440
+the biggest problem okay is that how you
+
+488
+00:17:57,440 --> 00:17:58,840
+you need to provide
+
+489
+00:17:58,840 --> 00:18:01,760
+yield right you need to provide you need
+
+490
+00:18:01,760 --> 00:18:02,559
+to
+
+491
+00:18:02,559 --> 00:18:05,039
+issue more tokens for validators to stay
+
+492
+00:18:05,039 --> 00:18:06,640
+on the network
+
+493
+00:18:06,640 --> 00:18:08,160
+usually right
+
+494
+00:18:08,160 --> 00:18:09,600
+you know in any network doesn't matter
+
+495
+00:18:09,600 --> 00:18:11,679
+proof of stake proof of work right now
+
+496
+00:18:11,679 --> 00:18:14,400
+validators are validators or miners
+
+497
+00:18:14,400 --> 00:18:16,960
+they constantly mine and despite the
+
+498
+00:18:16,960 --> 00:18:19,440
+fact that every four years
+
+499
+00:18:19,440 --> 00:18:20,720
+the the
+
+500
+00:18:20,720 --> 00:18:23,200
+mining rewards on on bitcoin for example
+
+501
+00:18:23,200 --> 00:18:25,120
+halves
+
+502
+00:18:25,120 --> 00:18:27,760
+the rise of the price make it up
+
+503
+00:18:27,760 --> 00:18:29,919
+and they still want to mine the next
+
+504
+00:18:29,919 --> 00:18:31,919
+bitcoin
+
+505
+00:18:31,919 --> 00:18:34,080
+right it's still economically economical
+
+506
+00:18:34,080 --> 00:18:35,840
+for them to mine next bitcoin but we
+
+507
+00:18:35,840 --> 00:18:38,559
+said in the beforehand that we need to
+
+508
+00:18:38,559 --> 00:18:40,480
+stop the emission
+
+509
+00:18:40,480 --> 00:18:44,160
+nobody is saying this actually like no
+
+510
+00:18:44,160 --> 00:18:48,160
+layer one protocol has ever i think said
+
+511
+00:18:48,160 --> 00:18:49,919
+uh this is the first time that someone
+
+512
+00:18:49,919 --> 00:18:51,520
+said we will just completely stop the
+
+513
+00:18:51,520 --> 00:18:53,360
+emission
+
+514
+00:18:53,360 --> 00:18:55,600
+because in bitcoin how it works they're
+
+515
+00:18:55,600 --> 00:18:58,559
+like half in like uh
+
+516
+00:18:58,559 --> 00:19:00,720
+every time like the next bitcoin is like
+
+517
+00:19:00,720 --> 00:19:03,120
+they get less money like twice less
+
+518
+00:19:03,120 --> 00:19:04,799
+money than before right that's how it
+
+519
+00:19:04,799 --> 00:19:07,280
+works but not completely stopped yet
+
+520
+00:19:07,280 --> 00:19:09,760
+well it will stop it will stop so
+
+521
+00:19:09,760 --> 00:19:12,640
+but satoshi well it's actually
+
+522
+00:19:12,640 --> 00:19:13,520
+okay
+
+523
+00:19:13,520 --> 00:19:15,760
+almost up let's say no no it's it will
+
+524
+00:19:15,760 --> 00:19:17,679
+stop completely because there will be
+
+525
+00:19:17,679 --> 00:19:20,400
+point where to my next bitcoin you will
+
+526
+00:19:20,400 --> 00:19:22,160
+never like you will never mind next
+
+527
+00:19:22,160 --> 00:19:24,080
+bitcoin it will take you until the end
+
+528
+00:19:24,080 --> 00:19:26,640
+of the universe to solve the next bus
+
+529
+00:19:26,640 --> 00:19:27,919
+but
+
+530
+00:19:27,919 --> 00:19:30,400
+that's okay so so satoshi
+
+531
+00:19:30,400 --> 00:19:32,559
+what satoshi predicted
+
+532
+00:19:32,559 --> 00:19:35,679
+um is that on certain day when the
+
+533
+00:19:35,679 --> 00:19:37,760
+mining will diminish it will be replaced
+
+534
+00:19:37,760 --> 00:19:38,880
+by
+
+535
+00:19:38,880 --> 00:19:40,880
+by the fees that someone pays for
+
+536
+00:19:40,880 --> 00:19:42,720
+transaction fees
+
+537
+00:19:42,720 --> 00:19:44,960
+okay
+
+538
+00:19:45,919 --> 00:19:47,440
+so it will be
+
+539
+00:19:47,440 --> 00:19:49,760
+replaced by transaction fees that the
+
+540
+00:19:49,760 --> 00:19:51,120
+miner will get
+
+541
+00:19:51,120 --> 00:19:52,960
+right and that will constitute their
+
+542
+00:19:52,960 --> 00:19:54,160
+revenue
+
+543
+00:19:54,160 --> 00:19:55,280
+uh
+
+544
+00:19:55,280 --> 00:19:57,679
+f from the point where there is there
+
+545
+00:19:57,679 --> 00:20:00,799
+are no more bitcoins mine
+
+546
+00:20:00,799 --> 00:20:03,280
+the reason actually mining was even
+
+547
+00:20:03,280 --> 00:20:05,520
+created in the beginning by satoshi
+
+548
+00:20:05,520 --> 00:20:08,480
+invented by satoshi's to
+
+549
+00:20:08,480 --> 00:20:11,520
+simplify the the miners to start the
+
+550
+00:20:11,520 --> 00:20:13,919
+network to continue support the network
+
+551
+00:20:13,919 --> 00:20:16,559
+before the level of transaction reaches
+
+552
+00:20:16,559 --> 00:20:18,799
+a certain point where it no longer will
+
+553
+00:20:18,799 --> 00:20:22,559
+be necessary to to have that
+
+554
+00:20:22,559 --> 00:20:23,840
+uh the mining
+
+555
+00:20:23,840 --> 00:20:24,720
+right
+
+556
+00:20:24,720 --> 00:20:27,760
+uh in gosh we are trying to compress
+
+557
+00:20:27,760 --> 00:20:29,919
+that first of all to five years
+
+558
+00:20:29,919 --> 00:20:31,360
+we will only
+
+559
+00:20:31,360 --> 00:20:34,559
+issue this amount of tokens
+
+560
+00:20:34,559 --> 00:20:36,720
+as we said and the amount of tokens
+
+561
+00:20:36,720 --> 00:20:38,880
+actually locked there are no more than
+
+562
+00:20:38,880 --> 00:20:41,440
+11 million tokens that will ever be
+
+563
+00:20:41,440 --> 00:20:44,320
+issued to validators
+
+564
+00:20:44,320 --> 00:20:49,240
+right yes we forgot to discuss about it
+
+565
+00:20:51,919 --> 00:20:54,320
+we didn't discuss it yet okay so yes
+
+566
+00:20:54,320 --> 00:20:56,240
+eleven millions goes to validate i'm not
+
+567
+00:20:56,240 --> 00:20:58,720
+not talking more so
+
+568
+00:20:58,720 --> 00:21:00,400
+i i i
+
+569
+00:21:00,400 --> 00:21:01,200
+might
+
+570
+00:21:01,200 --> 00:21:04,880
+my question was like okay they like um
+
+571
+00:21:04,880 --> 00:21:07,440
+lock these tokens for five years
+
+572
+00:21:07,440 --> 00:21:09,200
+what's next like after five years there
+
+573
+00:21:09,200 --> 00:21:12,240
+is no like interest in this anymore so
+
+574
+00:21:12,240 --> 00:21:15,039
+what how are you gonna keep them on uh
+
+575
+00:21:15,039 --> 00:21:18,480
+of course all right so that's liquidity
+
+576
+00:21:18,480 --> 00:21:20,880
+providing so we're kind of mixing here a
+
+577
+00:21:20,880 --> 00:21:25,120
+lot of d5 protocols and um yeah
+
+578
+00:21:25,120 --> 00:21:27,679
+so so so we're saying the following so
+
+579
+00:21:27,679 --> 00:21:31,760
+when you stake gosh in validator pool
+
+580
+00:21:31,760 --> 00:21:34,720
+you can issue for every state gauche you
+
+581
+00:21:34,720 --> 00:21:37,600
+can issue a token called lv gosh
+
+582
+00:21:37,600 --> 00:21:40,480
+and you can do two things with lv gosh
+
+583
+00:21:40,480 --> 00:21:42,240
+you can either
+
+584
+00:21:42,240 --> 00:21:44,799
+either sorry um
+
+585
+00:21:44,799 --> 00:21:46,640
+you can either
+
+586
+00:21:46,640 --> 00:21:49,039
+a vote with this
+
+587
+00:21:49,039 --> 00:21:51,840
+like participate in governance
+
+588
+00:21:51,840 --> 00:21:53,280
+or
+
+589
+00:21:53,280 --> 00:21:55,200
+or you can
+
+590
+00:21:55,200 --> 00:21:57,520
+provide liquidity
+
+591
+00:21:57,520 --> 00:21:59,840
+in the decentralized exchange
+
+592
+00:21:59,840 --> 00:22:02,960
+which is part of the system called gex
+
+593
+00:22:02,960 --> 00:22:06,080
+and this liquidity is used to support
+
+594
+00:22:06,080 --> 00:22:09,760
+actually repositories on gosh
+
+595
+00:22:09,760 --> 00:22:10,720
+which
+
+596
+00:22:10,720 --> 00:22:12,559
+open source projects or whatever
+
+597
+00:22:12,559 --> 00:22:16,640
+projects uh build their software on gosh
+
+598
+00:22:16,640 --> 00:22:18,400
+and they can
+
+599
+00:22:18,400 --> 00:22:21,200
+list the tokens of their repositories
+
+600
+00:22:21,200 --> 00:22:23,679
+in the gex repository and the gex uh
+
+601
+00:22:23,679 --> 00:22:26,400
+decentralized exchange so when you when
+
+602
+00:22:26,400 --> 00:22:29,520
+when so you can take your staked
+
+603
+00:22:29,520 --> 00:22:32,000
+token and you can provide liquidity
+
+604
+00:22:32,000 --> 00:22:34,400
+for different projects
+
+605
+00:22:34,400 --> 00:22:37,039
+uh with a separate mechanism which i
+
+606
+00:22:37,039 --> 00:22:39,120
+don't know if we discussed today
+
+607
+00:22:39,120 --> 00:22:41,200
+but this mechanism allows you like
+
+608
+00:22:41,200 --> 00:22:43,440
+allows every validator whoever you don't
+
+609
+00:22:43,440 --> 00:22:46,240
+need to be a validator but you need to
+
+610
+00:22:46,240 --> 00:22:48,159
+stake your gosh
+
+611
+00:22:48,159 --> 00:22:52,559
+and get this lv gosh tokens
+
+612
+00:22:52,559 --> 00:22:54,720
+to provide liquidity for this project
+
+613
+00:22:54,720 --> 00:22:57,520
+and when you provide liquidity you mine
+
+614
+00:22:57,520 --> 00:23:00,000
+the project tokens so instead of
+
+615
+00:23:00,000 --> 00:23:02,159
+transaction fees
+
+616
+00:23:02,159 --> 00:23:02,799
+so
+
+617
+00:23:02,799 --> 00:23:04,799
+so you basically become an investor
+
+618
+00:23:04,799 --> 00:23:09,200
+please you are an investor already
+
+619
+00:23:09,200 --> 00:23:11,440
+when when you invest in when you're
+
+620
+00:23:11,440 --> 00:23:14,559
+buying a mining farm in bitcoin you're
+
+621
+00:23:14,559 --> 00:23:17,520
+becoming an investor in bitcoin period
+
+622
+00:23:17,520 --> 00:23:20,480
+there's no question about it right you
+
+623
+00:23:20,480 --> 00:23:22,720
+and and the cost of the mining farm is
+
+624
+00:23:22,720 --> 00:23:24,080
+huge
+
+625
+00:23:24,080 --> 00:23:27,200
+as you know right so you invest up front
+
+626
+00:23:27,200 --> 00:23:28,320
+up front
+
+627
+00:23:28,320 --> 00:23:30,559
+um enormous amount of money
+
+628
+00:23:30,559 --> 00:23:32,320
+and you cannot sell it that easily
+
+629
+00:23:32,320 --> 00:23:34,880
+actually right it takes time and effort
+
+630
+00:23:34,880 --> 00:23:36,559
+to sell the equipment if you want to
+
+631
+00:23:36,559 --> 00:23:38,000
+exit
+
+632
+00:23:38,000 --> 00:23:41,600
+and so in a way when bitcoin
+
+633
+00:23:41,600 --> 00:23:42,720
+miner
+
+634
+00:23:42,720 --> 00:23:44,799
+kind of mined bitcoin
+
+635
+00:23:44,799 --> 00:23:46,640
+he staked
+
+636
+00:23:46,640 --> 00:23:51,039
+his money into bitcoin mining equipment
+
+637
+00:23:51,039 --> 00:23:53,760
+right improv in proof of stake you just
+
+638
+00:23:53,760 --> 00:23:56,400
+take that money without buying it equip
+
+639
+00:23:56,400 --> 00:23:57,200
+like
+
+640
+00:23:57,200 --> 00:23:58,720
+you have some servers but this is
+
+641
+00:23:58,720 --> 00:24:00,320
+negligible cost
+
+642
+00:24:00,320 --> 00:24:03,039
+right so right okay you need to you need
+
+643
+00:24:03,039 --> 00:24:04,960
+but but but you still it's still you're
+
+644
+00:24:04,960 --> 00:24:06,880
+still an investor you're an investor in
+
+645
+00:24:06,880 --> 00:24:09,360
+bitcoin or you invest in proof of stake
+
+646
+00:24:09,360 --> 00:24:10,880
+as a proof of state validator you still
+
+647
+00:24:10,880 --> 00:24:12,880
+investor but the question is not if you
+
+648
+00:24:12,880 --> 00:24:14,640
+invest or not the question is how you
+
+649
+00:24:14,640 --> 00:24:16,840
+make money on this investment
+
+650
+00:24:16,840 --> 00:24:19,919
+and if you think about that
+
+651
+00:24:19,919 --> 00:24:22,240
+just make a mission
+
+652
+00:24:22,240 --> 00:24:24,720
+it it doesn't make a lot of sense
+
+653
+00:24:24,720 --> 00:24:25,840
+actually
+
+654
+00:24:25,840 --> 00:24:27,840
+like like ethereum works on just
+
+655
+00:24:27,840 --> 00:24:29,760
+providing a mission like
+
+656
+00:24:29,760 --> 00:24:31,840
+emitting tokens every year to to
+
+657
+00:24:31,840 --> 00:24:34,080
+validators right
+
+658
+00:24:34,080 --> 00:24:35,200
+uh
+
+659
+00:24:35,200 --> 00:24:38,240
+to to you know for them to and ethereum
+
+660
+00:24:38,240 --> 00:24:40,159
+by the way will never stop there is no
+
+661
+00:24:40,159 --> 00:24:43,520
+such thing as as diminishing
+
+662
+00:24:43,520 --> 00:24:46,720
+mining rewards in ethereum so it's like
+
+663
+00:24:46,720 --> 00:24:48,240
+constant or whatever
+
+664
+00:24:48,240 --> 00:24:49,360
+and uh
+
+665
+00:24:49,360 --> 00:24:50,799
+this
+
+666
+00:24:50,799 --> 00:24:53,600
+this doesn't make a lot of sense because
+
+667
+00:24:53,600 --> 00:24:54,720
+um
+
+668
+00:24:54,720 --> 00:24:56,400
+okay you introduce inflation into the
+
+669
+00:24:56,400 --> 00:24:58,640
+system which you want to be deflationary
+
+670
+00:24:58,640 --> 00:25:00,640
+as we said before you need two tokens
+
+671
+00:25:00,640 --> 00:25:01,760
+remnants
+
+672
+00:25:01,760 --> 00:25:05,440
+so it's it's it's a mixed up thing and i
+
+673
+00:25:05,440 --> 00:25:07,919
+don't think it works actually
+
+674
+00:25:07,919 --> 00:25:10,559
+like the only thing why it works is
+
+675
+00:25:10,559 --> 00:25:12,480
+because when you have certain amount of
+
+676
+00:25:12,480 --> 00:25:15,600
+tokens you participate in kind of having
+
+677
+00:25:15,600 --> 00:25:17,120
+um
+
+678
+00:25:17,120 --> 00:25:19,679
+transaction fees as well right and that
+
+679
+00:25:19,679 --> 00:25:21,679
+gives you
+
+680
+00:25:21,679 --> 00:25:24,080
+this economical that gives it some
+
+681
+00:25:24,080 --> 00:25:26,080
+economical sense
+
+682
+00:25:26,080 --> 00:25:29,279
+but we said here we wanted to let's just
+
+683
+00:25:29,279 --> 00:25:32,320
+eliminate let's eliminate the mining
+
+684
+00:25:32,320 --> 00:25:34,480
+that's eliminating the emission
+
+685
+00:25:34,480 --> 00:25:36,240
+and then let's eliminate the fees for a
+
+686
+00:25:36,240 --> 00:25:38,080
+second let's just eliminate the fees
+
+687
+00:25:38,080 --> 00:25:40,559
+from the from the whole equation
+
+688
+00:25:40,559 --> 00:25:43,039
+now what happens then well if you stake
+
+689
+00:25:43,039 --> 00:25:44,720
+you're talking if you believe that you
+
+690
+00:25:44,720 --> 00:25:47,360
+you start to earn some then yield you
+
+691
+00:25:47,360 --> 00:25:48,960
+believe in the platform you believe in
+
+692
+00:25:48,960 --> 00:25:51,360
+the gosh price right if you're investor
+
+693
+00:25:51,360 --> 00:25:53,120
+you believe in gosh price
+
+694
+00:25:53,120 --> 00:25:55,600
+so you lock the stock in validation give
+
+695
+00:25:55,600 --> 00:25:57,520
+you a boost we call it staking boost for
+
+696
+00:25:57,520 --> 00:25:59,360
+five years
+
+697
+00:25:59,360 --> 00:26:02,080
+11 million tokens
+
+698
+00:26:02,080 --> 00:26:02,880
+but
+
+699
+00:26:02,880 --> 00:26:05,360
+then if you want to continue support the
+
+700
+00:26:05,360 --> 00:26:07,200
+network you actually need to what is the
+
+701
+00:26:07,200 --> 00:26:09,840
+network what is the value of the network
+
+702
+00:26:09,840 --> 00:26:11,600
+the value of the network is actually we
+
+703
+00:26:11,600 --> 00:26:15,279
+believe the value of the of the projects
+
+704
+00:26:15,279 --> 00:26:17,520
+using this network
+
+705
+00:26:17,520 --> 00:26:20,000
+all right if you get if your kit on
+
+706
+00:26:20,000 --> 00:26:22,640
+chain the value of git on chain is in
+
+707
+00:26:22,640 --> 00:26:24,880
+the projects in the open source
+
+708
+00:26:24,880 --> 00:26:26,799
+repositories or closed source
+
+709
+00:26:26,799 --> 00:26:29,200
+repositories which are using this giton
+
+710
+00:26:29,200 --> 00:26:30,880
+chain for different reasons which we're
+
+711
+00:26:30,880 --> 00:26:33,200
+not going to discuss today why why they
+
+712
+00:26:33,200 --> 00:26:34,799
+would use it but
+
+713
+00:26:34,799 --> 00:26:37,039
+that's not the point okay so if you
+
+714
+00:26:37,039 --> 00:26:39,360
+believe that people will use this
+
+715
+00:26:39,360 --> 00:26:41,679
+and or people are using this you can see
+
+716
+00:26:41,679 --> 00:26:43,919
+that and then
+
+717
+00:26:43,919 --> 00:26:46,080
+you want to capitalize on them so they
+
+718
+00:26:46,080 --> 00:26:48,480
+how you capitalize on them
+
+719
+00:26:48,480 --> 00:26:49,760
+you can take the fees from their
+
+720
+00:26:49,760 --> 00:26:51,679
+transaction that would usually
+
+721
+00:26:51,679 --> 00:26:54,080
+doing everyone doing right
+
+722
+00:26:54,080 --> 00:26:55,840
+but we're saying
+
+723
+00:26:55,840 --> 00:26:57,440
+right but we're saying
+
+724
+00:26:57,440 --> 00:26:58,480
+actually
+
+725
+00:26:58,480 --> 00:26:59,919
+own
+
+726
+00:26:59,919 --> 00:27:02,080
+part of this project you can own part of
+
+727
+00:27:02,080 --> 00:27:04,720
+the projects without actually going to
+
+728
+00:27:04,720 --> 00:27:06,640
+fees you don't need their fees you can
+
+729
+00:27:06,640 --> 00:27:08,960
+actually own their tokens
+
+730
+00:27:08,960 --> 00:27:11,760
+and so if the project want to
+
+731
+00:27:11,760 --> 00:27:13,039
+list their
+
+732
+00:27:13,039 --> 00:27:16,159
+tokens basically listing means
+
+733
+00:27:16,159 --> 00:27:18,720
+give it to the hands of investors
+
+734
+00:27:18,720 --> 00:27:20,399
+so if the project is interested in
+
+735
+00:27:20,399 --> 00:27:23,200
+getting the they're talking
+
+736
+00:27:23,200 --> 00:27:25,279
+to the to the hands of investors they
+
+737
+00:27:25,279 --> 00:27:27,760
+can do that by listing that on gex and
+
+738
+00:27:27,760 --> 00:27:30,000
+you as an investor validator whatever
+
+739
+00:27:30,000 --> 00:27:31,360
+you call yourself
+
+740
+00:27:31,360 --> 00:27:35,840
+you can take your staked tokens
+
+741
+00:27:35,840 --> 00:27:37,520
+and use it to provide liquidity
+
+742
+00:27:37,520 --> 00:27:40,480
+basically as a and as a reward for
+
+743
+00:27:40,480 --> 00:27:42,559
+providing liquidity you get
+
+744
+00:27:42,559 --> 00:27:44,480
+pieces of the tokens of this
+
+745
+00:27:44,480 --> 00:27:46,480
+repositories
+
+746
+00:27:46,480 --> 00:27:49,279
+right
+
+747
+00:27:49,279 --> 00:27:51,200
+does it make sense
+
+748
+00:27:51,200 --> 00:27:53,360
+yeah very interesting
+
+749
+00:27:53,360 --> 00:27:54,720
+so uh
+
+750
+00:27:54,720 --> 00:27:57,200
+so projects uh i'm just gonna mention it
+
+751
+00:27:57,200 --> 00:27:59,120
+briefly so basically projects will have
+
+752
+00:27:59,120 --> 00:28:01,279
+an opportunity to
+
+753
+00:28:01,279 --> 00:28:02,799
+receive fundings right open source
+
+754
+00:28:02,799 --> 00:28:05,200
+projects with gosh to economics
+
+755
+00:28:05,200 --> 00:28:07,039
+they have an ability
+
+756
+00:28:07,039 --> 00:28:08,399
+it's not only it's it's
+
+757
+00:28:08,399 --> 00:28:09,360
+not just
+
+758
+00:28:09,360 --> 00:28:11,600
+it it's not just to receive funding is a
+
+759
+00:28:11,600 --> 00:28:14,000
+very generalized term because
+
+760
+00:28:14,000 --> 00:28:15,520
+right you don't necessarily receive
+
+761
+00:28:15,520 --> 00:28:18,240
+funding okay you can list your talking
+
+762
+00:28:18,240 --> 00:28:19,279
+tokens
+
+763
+00:28:19,279 --> 00:28:20,399
+and just
+
+764
+00:28:20,399 --> 00:28:23,679
+find some buyers even without you
+
+765
+00:28:23,679 --> 00:28:26,159
+receiving funding directly
+
+766
+00:28:26,159 --> 00:28:28,480
+so because you just want to you you may
+
+767
+00:28:28,480 --> 00:28:31,279
+want just to promote a trade of your
+
+768
+00:28:31,279 --> 00:28:32,399
+token
+
+769
+00:28:32,399 --> 00:28:33,919
+and so people
+
+770
+00:28:33,919 --> 00:28:35,120
+that
+
+771
+00:28:35,120 --> 00:28:38,399
+believe in your projects can participate
+
+772
+00:28:38,399 --> 00:28:40,159
+by by buying some projects maybe even
+
+773
+00:28:40,159 --> 00:28:41,360
+not from you
+
+774
+00:28:41,360 --> 00:28:43,520
+it's like what you do with ipo right so
+
+775
+00:28:43,520 --> 00:28:45,039
+there is initial public offering where
+
+776
+00:28:45,039 --> 00:28:47,039
+you sell your talking to investors but
+
+777
+00:28:47,039 --> 00:28:49,200
+you can list it just without selling it
+
+778
+00:28:49,200 --> 00:28:51,760
+to investors directly and you just just
+
+779
+00:28:51,760 --> 00:28:54,640
+can allow everyone who has the token to
+
+780
+00:28:54,640 --> 00:28:56,960
+list it and then the investors can buy
+
+781
+00:28:56,960 --> 00:28:58,399
+from them
+
+782
+00:28:58,399 --> 00:29:00,399
+you not necessarily need to issue tokens
+
+783
+00:29:00,399 --> 00:29:01,760
+new tokens to
+
+784
+00:29:01,760 --> 00:29:04,000
+to to investors there is there are
+
+785
+00:29:04,000 --> 00:29:05,760
+myriads of way to do that
+
+786
+00:29:05,760 --> 00:29:06,640
+just
+
+787
+00:29:06,640 --> 00:29:09,120
+so we allow that listing decentralized
+
+788
+00:29:09,120 --> 00:29:11,120
+listing of any repository who wishes and
+
+789
+00:29:11,120 --> 00:29:13,279
+when you create actually when you create
+
+790
+00:29:13,279 --> 00:29:15,679
+repository on gosh
+
+791
+00:29:15,679 --> 00:29:17,279
+that the dao
+
+792
+00:29:17,279 --> 00:29:19,440
+which governed by the token of risk repo
+
+793
+00:29:19,440 --> 00:29:22,640
+this repository create created uh just
+
+794
+00:29:22,640 --> 00:29:24,320
+by default
+
+795
+00:29:24,320 --> 00:29:26,000
+of course you don't need to use this
+
+796
+00:29:26,000 --> 00:29:29,200
+tokens to sell it or use it as a as a as
+
+797
+00:29:29,200 --> 00:29:30,000
+a
+
+798
+00:29:30,000 --> 00:29:33,039
+financial instrument right
+
+799
+00:29:33,039 --> 00:29:35,200
+but does any token uh so you said a
+
+800
+00:29:35,200 --> 00:29:38,240
+repository created the organization uh
+
+801
+00:29:38,240 --> 00:29:40,799
+by itself automatically does any token
+
+802
+00:29:40,799 --> 00:29:43,360
+that is going to be issued will end up
+
+803
+00:29:43,360 --> 00:29:47,279
+on gex on the decentralized exchange
+
+804
+00:29:48,080 --> 00:29:50,720
+can end up okay what are the criteria
+
+805
+00:29:50,720 --> 00:29:53,279
+just in few words
+
+806
+00:29:53,279 --> 00:29:55,520
+there are it's basically just what you
+
+807
+00:29:55,520 --> 00:29:58,799
+want so you as a repository
+
+808
+00:29:58,799 --> 00:29:59,919
+uh
+
+809
+00:29:59,919 --> 00:30:01,440
+owner
+
+810
+00:30:01,440 --> 00:30:03,039
+owner means
+
+811
+00:30:03,039 --> 00:30:05,600
+your repository is owned by the token
+
+812
+00:30:05,600 --> 00:30:07,679
+holders of your repository this is the
+
+813
+00:30:07,679 --> 00:30:11,360
+whole point that's a repository dial so
+
+814
+00:30:11,360 --> 00:30:12,880
+you as a dao
+
+815
+00:30:12,880 --> 00:30:14,480
+all token holders
+
+816
+00:30:14,480 --> 00:30:17,200
+can decide that you want this token be
+
+817
+00:30:17,200 --> 00:30:20,080
+available on the ax that someone can
+
+818
+00:30:20,080 --> 00:30:22,320
+sell and buy and sell these tokens of
+
+819
+00:30:22,320 --> 00:30:24,799
+your repository if you decided this you
+
+820
+00:30:24,799 --> 00:30:26,480
+vote for this if you decide it's just a
+
+821
+00:30:26,480 --> 00:30:28,080
+commit and git
+
+822
+00:30:28,080 --> 00:30:28,880
+uh
+
+823
+00:30:28,880 --> 00:30:31,120
+okay so just a comment it doesn't
+
+824
+00:30:31,120 --> 00:30:33,200
+it's just a commit so it's uh it's
+
+825
+00:30:33,200 --> 00:30:34,559
+actually yeah you just you just create
+
+826
+00:30:34,559 --> 00:30:37,520
+that commit
+
+827
+00:30:37,520 --> 00:30:39,760
+there is a metric one metric is it
+
+828
+00:30:39,760 --> 00:30:41,279
+should be f dao
+
+829
+00:30:41,279 --> 00:30:42,399
+so
+
+830
+00:30:42,399 --> 00:30:43,919
+okay
+
+831
+00:30:43,919 --> 00:30:45,840
+f dao means
+
+832
+00:30:45,840 --> 00:30:47,840
+a fair dial protocol
+
+833
+00:30:47,840 --> 00:30:49,440
+and that
+
+834
+00:30:49,440 --> 00:30:51,840
+we have a slide for that i think
+
+835
+00:30:51,840 --> 00:30:54,480
+so far protocol is is very simple
+
+836
+00:30:54,480 --> 00:30:57,039
+protocol it basically says that
+
+837
+00:30:57,039 --> 00:30:58,960
+all the revenues
+
+838
+00:30:58,960 --> 00:31:01,760
+that the token captures doesn't matter
+
+839
+00:31:01,760 --> 00:31:03,760
+whatever revenues there are
+
+840
+00:31:03,760 --> 00:31:05,039
+and again
+
+841
+00:31:05,039 --> 00:31:07,360
+if you are an open source repository
+
+842
+00:31:07,360 --> 00:31:09,760
+let's say and you
+
+843
+00:31:09,760 --> 00:31:12,480
+have some revenue generated on chain for
+
+844
+00:31:12,480 --> 00:31:15,120
+example you sell some services around
+
+845
+00:31:15,120 --> 00:31:17,360
+your repository or something
+
+846
+00:31:17,360 --> 00:31:20,159
+right um and you sell it
+
+847
+00:31:20,159 --> 00:31:22,720
+on gosh
+
+848
+00:31:23,360 --> 00:31:25,279
+and we will discuss i can we will
+
+849
+00:31:25,279 --> 00:31:27,679
+discuss later when we discuss shell
+
+850
+00:31:27,679 --> 00:31:29,840
+how you can actually sell it like you
+
+851
+00:31:29,840 --> 00:31:31,360
+sell today
+
+852
+00:31:31,360 --> 00:31:34,480
+your services via whatever credit card
+
+853
+00:31:34,480 --> 00:31:35,360
+so
+
+854
+00:31:35,360 --> 00:31:38,159
+let's say you sell some services on
+
+855
+00:31:38,159 --> 00:31:39,279
+on gosh
+
+856
+00:31:39,279 --> 00:31:40,240
+and
+
+857
+00:31:40,240 --> 00:31:41,519
+this this
+
+858
+00:31:41,519 --> 00:31:43,600
+the payment
+
+859
+00:31:43,600 --> 00:31:44,480
+uh
+
+860
+00:31:44,480 --> 00:31:46,880
+which is the payment in token
+
+861
+00:31:46,880 --> 00:31:49,279
+in any token can be shell it can be
+
+862
+00:31:49,279 --> 00:31:50,480
+anything else
+
+863
+00:31:50,480 --> 00:31:52,159
+should arrive into some smart contract
+
+864
+00:31:52,159 --> 00:31:55,120
+which is called efdow reserve
+
+865
+00:31:55,120 --> 00:31:58,159
+and the efda reserve
+
+866
+00:31:58,159 --> 00:32:00,559
+it the only way to get this talking out
+
+867
+00:32:00,559 --> 00:32:03,440
+of the reserve is to sell
+
+868
+00:32:03,440 --> 00:32:04,240
+some
+
+869
+00:32:04,240 --> 00:32:06,720
+tokens of your repository some your dow
+
+870
+00:32:06,720 --> 00:32:09,760
+tokens your project dial tokens
+
+871
+00:32:09,760 --> 00:32:11,919
+towards this reserve
+
+872
+00:32:11,919 --> 00:32:13,519
+right so we burn
+
+873
+00:32:13,519 --> 00:32:15,760
+to burn yeah you burn tokens in the
+
+874
+00:32:15,760 --> 00:32:17,440
+reserve in exchange you get the
+
+875
+00:32:17,440 --> 00:32:20,080
+proportional amount of the whatever
+
+876
+00:32:20,080 --> 00:32:22,159
+accumulated revenues there is in this
+
+877
+00:32:22,159 --> 00:32:23,200
+contract
+
+878
+00:32:23,200 --> 00:32:26,000
+this is very interesting dynamic
+
+879
+00:32:26,000 --> 00:32:29,200
+which basically provides the constantly
+
+880
+00:32:29,200 --> 00:32:30,399
+rising
+
+881
+00:32:30,399 --> 00:32:32,320
+if you continue if a repository continue
+
+882
+00:32:32,320 --> 00:32:35,039
+to sell some services it will constantly
+
+883
+00:32:35,039 --> 00:32:36,640
+the the reserve
+
+884
+00:32:36,640 --> 00:32:38,080
+uh
+
+885
+00:32:38,080 --> 00:32:39,919
+the amount of tokens in reserve the
+
+886
+00:32:39,919 --> 00:32:43,120
+value in reserve will constantly rise
+
+887
+00:32:43,120 --> 00:32:45,519
+and because it will never fall because
+
+888
+00:32:45,519 --> 00:32:47,600
+when you burn tokens so proportionally
+
+889
+00:32:47,600 --> 00:32:50,240
+to every token it will rise doesn't
+
+890
+00:32:50,240 --> 00:32:52,159
+matter if you sell
+
+891
+00:32:52,159 --> 00:32:54,399
+if someone sells or not
+
+892
+00:32:54,399 --> 00:32:56,240
+right very interesting so so all the
+
+893
+00:32:56,240 --> 00:32:58,000
+liquidity is going to be uh so basically
+
+894
+00:32:58,000 --> 00:33:00,480
+everything um backs it's let's say it's
+
+895
+00:33:00,480 --> 00:33:02,240
+the it's the heart rates that doesn't
+
+896
+00:33:02,240 --> 00:33:04,080
+realize that change all the tokens are
+
+897
+00:33:04,080 --> 00:33:07,039
+going to be listed there
+
+898
+00:33:07,039 --> 00:33:08,399
+you can decide
+
+899
+00:33:08,399 --> 00:33:11,840
+not all of them
+
+900
+00:33:16,159 --> 00:33:18,399
+if you're talking as follows the revenue
+
+901
+00:33:18,399 --> 00:33:20,880
+model of fair dao then you're
+
+902
+00:33:20,880 --> 00:33:22,159
+automatically
+
+903
+00:33:22,159 --> 00:33:24,799
+like in enables listing and the only
+
+904
+00:33:24,799 --> 00:33:27,279
+thing that the only thing that you need
+
+905
+00:33:27,279 --> 00:33:28,559
+to do
+
+906
+00:33:28,559 --> 00:33:31,120
+to list apart from ref dao is to have
+
+907
+00:33:31,120 --> 00:33:33,120
+certain amount of liquidity
+
+908
+00:33:33,120 --> 00:33:34,960
+and that's exactly so you basically
+
+909
+00:33:34,960 --> 00:33:36,240
+create commit
+
+910
+00:33:36,240 --> 00:33:39,279
+in the gex repository
+
+911
+00:33:39,279 --> 00:33:41,200
+with your talking listing
+
+912
+00:33:41,200 --> 00:33:43,519
+and the the repository will check
+
+913
+00:33:43,519 --> 00:33:47,600
+automatically if that's fare down
+
+914
+00:33:47,600 --> 00:33:50,320
+and if it's fair now it will immediately
+
+915
+00:33:50,320 --> 00:33:53,360
+create a notification to all lv gosh
+
+916
+00:33:53,360 --> 00:33:55,760
+talking holders that you can
+
+917
+00:33:55,760 --> 00:33:58,240
+actually vote for it will start a voting
+
+918
+00:33:58,240 --> 00:33:59,279
+period
+
+919
+00:33:59,279 --> 00:34:00,480
+for this
+
+920
+00:34:00,480 --> 00:34:02,159
+uh you know talking holder salvy gorsh
+
+921
+00:34:02,159 --> 00:34:04,080
+talking holes to vote for providing
+
+922
+00:34:04,080 --> 00:34:05,919
+liquidity or not and if they pass the
+
+923
+00:34:05,919 --> 00:34:08,480
+threshold of this liquidity then it the
+
+924
+00:34:08,480 --> 00:34:10,320
+token will automatically list my
+
+925
+00:34:10,320 --> 00:34:12,239
+curiosity everything is going to be
+
+926
+00:34:12,239 --> 00:34:15,199
+already automatically so if we see that
+
+927
+00:34:15,199 --> 00:34:17,440
+the project repository
+
+928
+00:34:17,440 --> 00:34:18,960
+is having a
+
+929
+00:34:18,960 --> 00:34:20,879
+fair doubt they're having
+
+930
+00:34:20,879 --> 00:34:22,480
+they're getting uh
+
+931
+00:34:22,480 --> 00:34:24,639
+things done they're they're selling
+
+932
+00:34:24,639 --> 00:34:26,719
+right they're selling their service
+
+933
+00:34:26,719 --> 00:34:29,520
+so automatically as you said all the
+
+934
+00:34:29,520 --> 00:34:32,719
+holder of the lb gosh token will be
+
+935
+00:34:32,719 --> 00:34:34,079
+notified so it's everything is going to
+
+936
+00:34:34,079 --> 00:34:36,399
+be in the system built in already
+
+937
+00:34:36,399 --> 00:34:39,440
+so it's yeah because because the lv the
+
+938
+00:34:39,440 --> 00:34:42,320
+lv gosh talk and holders
+
+939
+00:34:42,320 --> 00:34:44,079
+they have notification they are
+
+940
+00:34:44,079 --> 00:34:45,040
+automatically subscribed to the
+
+941
+00:34:45,040 --> 00:34:48,000
+notification of the gosh repository and
+
+942
+00:34:48,000 --> 00:34:49,839
+gex repository
+
+943
+00:34:49,839 --> 00:34:51,040
+so
+
+944
+00:34:51,040 --> 00:34:52,639
+when when the gex
+
+945
+00:34:52,639 --> 00:34:55,119
+submits the project it commits its
+
+946
+00:34:55,119 --> 00:34:57,599
+project basically to gex repository
+
+947
+00:34:57,599 --> 00:34:58,400
+and
+
+948
+00:34:58,400 --> 00:35:01,280
+uh when it when it's done then everyone
+
+949
+00:35:01,280 --> 00:35:05,200
+the voting starts automatically
+
+950
+00:35:06,640 --> 00:35:09,760
+okay interesting so the voting through
+
+951
+00:35:09,760 --> 00:35:11,839
+soft cooperative voting mechanism right
+
+952
+00:35:11,839 --> 00:35:12,880
+that we
+
+953
+00:35:12,880 --> 00:35:16,240
+yeah we will not discuss it today but um
+
+954
+00:35:16,240 --> 00:35:18,079
+so we can discuss it we can discuss it
+
+955
+00:35:18,079 --> 00:35:19,680
+very briefly
+
+956
+00:35:19,680 --> 00:35:21,440
+we can go yes please self-copy rating
+
+957
+00:35:21,440 --> 00:35:24,240
+voting is is a special mechanism
+
+958
+00:35:24,240 --> 00:35:27,359
+where every token holder vote for the
+
+959
+00:35:27,359 --> 00:35:28,560
+project
+
+960
+00:35:28,560 --> 00:35:31,839
+but um they participate proportionally
+
+961
+00:35:31,839 --> 00:35:34,400
+to their holding so if it passes
+
+962
+00:35:34,400 --> 00:35:37,280
+threshold then everyone will commit
+
+963
+00:35:37,280 --> 00:35:40,560
+the percentage of their holding
+
+964
+00:35:40,560 --> 00:35:43,760
+into the amount that was voted for
+
+965
+00:35:43,760 --> 00:35:44,480
+so
+
+966
+00:35:44,480 --> 00:35:47,839
+if you have if if the if the suv
+
+967
+00:35:47,839 --> 00:35:51,200
+uh voting was for i don't know
+
+968
+00:35:51,200 --> 00:35:52,960
+providing liquidity
+
+969
+00:35:52,960 --> 00:35:55,359
+in the range of hundred thousand for
+
+970
+00:35:55,359 --> 00:35:56,400
+example
+
+971
+00:35:56,400 --> 00:35:59,760
+uh gosh tokens actually shells because
+
+972
+00:35:59,760 --> 00:36:02,000
+that's the pair is shell against uh
+
+973
+00:36:02,000 --> 00:36:04,000
+against the project talking in this
+
+974
+00:36:04,000 --> 00:36:06,560
+hundred thousand shells and you have a
+
+975
+00:36:06,560 --> 00:36:09,200
+hundred thousand participants
+
+976
+00:36:09,200 --> 00:36:11,599
+which which you know has i don't know
+
+977
+00:36:11,599 --> 00:36:14,000
+equal amount of tokens they will all
+
+978
+00:36:14,000 --> 00:36:16,000
+contribute one token
+
+979
+00:36:16,000 --> 00:36:17,599
+one gosh
+
+980
+00:36:17,599 --> 00:36:19,119
+sorry one shell
+
+981
+00:36:19,119 --> 00:36:19,920
+two
+
+982
+00:36:19,920 --> 00:36:22,320
+to the to the liquidity pair
+
+983
+00:36:22,320 --> 00:36:24,960
+doesn't matter if some of them voted or
+
+984
+00:36:24,960 --> 00:36:28,720
+not if the decision collective decision
+
+985
+00:36:28,720 --> 00:36:30,960
+was such that we allow that
+
+986
+00:36:30,960 --> 00:36:32,480
+and the collective decision reached the
+
+987
+00:36:32,480 --> 00:36:34,079
+threshold of hundred thousand for
+
+988
+00:36:34,079 --> 00:36:36,880
+example tokens then everyone will
+
+989
+00:36:36,880 --> 00:36:39,760
+automatically commit their token
+
+990
+00:36:39,760 --> 00:36:42,000
+proportional token holding into this
+
+991
+00:36:42,000 --> 00:36:43,760
+liquidity
+
+992
+00:36:43,760 --> 00:36:46,000
+did you decide to make this a particular
+
+993
+00:36:46,000 --> 00:36:48,720
+model uh what are the benefits because
+
+994
+00:36:48,720 --> 00:36:51,119
+because this is the model which allows
+
+995
+00:36:51,119 --> 00:36:52,079
+for
+
+996
+00:36:52,079 --> 00:36:52,839
+a
+
+997
+00:36:52,839 --> 00:36:56,000
+decentralized cooperation
+
+998
+00:36:56,000 --> 00:36:58,240
+uh where not every participant need to
+
+999
+00:36:58,240 --> 00:37:00,000
+participate
+
+1000
+00:37:00,000 --> 00:37:02,480
+because it it provides its answers the
+
+1001
+00:37:02,480 --> 00:37:04,880
+question how much
+
+1002
+00:37:04,880 --> 00:37:07,280
+it's it's a quantitative decision you
+
+1003
+00:37:07,280 --> 00:37:10,400
+can today there are no
+
+1004
+00:37:10,400 --> 00:37:12,720
+sorry
+
+1005
+00:37:14,000 --> 00:37:15,040
+um
+
+1006
+00:37:15,040 --> 00:37:16,400
+today
+
+1007
+00:37:16,400 --> 00:37:20,720
+there is no voting mechanism
+
+1008
+00:37:20,720 --> 00:37:22,800
+you can vote yes or no you can reach
+
+1009
+00:37:22,800 --> 00:37:26,000
+some decision yes or no but
+
+1010
+00:37:26,000 --> 00:37:29,119
+you cannot reach decision how much
+
+1011
+00:37:29,119 --> 00:37:30,880
+the quantitative decision there is no
+
+1012
+00:37:30,880 --> 00:37:32,800
+mechanism we know
+
+1013
+00:37:32,800 --> 00:37:34,640
+that can reach quantitative decision and
+
+1014
+00:37:34,640 --> 00:37:36,880
+soft cooperative voting it's based on
+
+1015
+00:37:36,880 --> 00:37:39,680
+the work that i did with unrelation
+
+1016
+00:37:39,680 --> 00:37:40,640
+uh
+
+1017
+00:37:40,640 --> 00:37:42,560
+that um
+
+1018
+00:37:42,560 --> 00:37:44,160
+that is providing the answer to the
+
+1019
+00:37:44,160 --> 00:37:46,240
+question how much so if we want to
+
+1020
+00:37:46,240 --> 00:37:48,320
+decide we're a fund
+
+1021
+00:37:48,320 --> 00:37:51,200
+we okay so we want to invest we can
+
+1022
+00:37:51,200 --> 00:37:54,720
+easily create a voting and and say okay
+
+1023
+00:37:54,720 --> 00:37:57,440
+do we want to invest in this project
+
+1024
+00:37:57,440 --> 00:37:59,440
+right but then we need to ask how much
+
+1025
+00:37:59,440 --> 00:38:01,359
+we want to invest in this project so we
+
+1026
+00:38:01,359 --> 00:38:02,800
+can of course ask the question do we
+
+1027
+00:38:02,800 --> 00:38:04,480
+want to invest one million in this
+
+1028
+00:38:04,480 --> 00:38:07,200
+project but let's say what about one
+
+1029
+00:38:07,200 --> 00:38:09,200
+million and five
+
+1030
+00:38:09,200 --> 00:38:11,280
+so do we need additional voting to to
+
+1031
+00:38:11,280 --> 00:38:13,280
+ask a question do we want to invest one
+
+1032
+00:38:13,280 --> 00:38:14,960
+million and five
+
+1033
+00:38:14,960 --> 00:38:16,960
+and so on and so on so it's it's
+
+1034
+00:38:16,960 --> 00:38:19,440
+basically just there was no mechanism
+
+1035
+00:38:19,440 --> 00:38:21,520
+right to exactly answer the question how
+
+1036
+00:38:21,520 --> 00:38:23,599
+much the sm suv
+
+1037
+00:38:23,599 --> 00:38:26,240
+protocol allows us to
+
+1038
+00:38:26,240 --> 00:38:28,960
+not only vote for do we want to invest
+
+1039
+00:38:28,960 --> 00:38:31,839
+but also do we how how much do we want
+
+1040
+00:38:31,839 --> 00:38:34,000
+to invest
+
+1041
+00:38:34,000 --> 00:38:36,640
+that's easy soft cup rating food and
+
+1042
+00:38:36,640 --> 00:38:38,960
+guess what is for quantitative decisions
+
+1043
+00:38:38,960 --> 00:38:41,280
+on how much how how many and so on and
+
+1044
+00:38:41,280 --> 00:38:43,520
+so forth when we don't know
+
+1045
+00:38:43,520 --> 00:38:44,960
+when we have some quantity of something
+
+1046
+00:38:44,960 --> 00:38:46,880
+we don't know what is the quantity that
+
+1047
+00:38:46,880 --> 00:38:48,240
+we want to provide
+
+1048
+00:38:48,240 --> 00:38:50,240
+so if majority voting is for binary
+
+1049
+00:38:50,240 --> 00:38:52,880
+decisions yes or no but
+
+1050
+00:38:52,880 --> 00:38:55,599
+with it with it with a twist
+
+1051
+00:38:55,599 --> 00:38:58,839
+it it solves for
+
+1052
+00:38:58,839 --> 00:39:02,160
+um participation problem we know that
+
+1053
+00:39:02,160 --> 00:39:05,200
+suv also sort of soft say
+
+1054
+00:39:05,200 --> 00:39:07,680
+solves for participation problem
+
+1055
+00:39:07,680 --> 00:39:09,520
+because again in both of them are
+
+1056
+00:39:09,520 --> 00:39:11,119
+solving for participation problem for
+
+1057
+00:39:11,119 --> 00:39:12,720
+different uh
+
+1058
+00:39:12,720 --> 00:39:14,560
+so what is the problem of participation
+
+1059
+00:39:14,560 --> 00:39:16,560
+a lot of people just don't want to vote
+
+1060
+00:39:16,560 --> 00:39:18,880
+they never vote
+
+1061
+00:39:18,880 --> 00:39:20,960
+on anything they're passive and we know
+
+1062
+00:39:20,960 --> 00:39:22,960
+that like
+
+1063
+00:39:22,960 --> 00:39:25,280
+the turnaround of any voting any public
+
+1064
+00:39:25,280 --> 00:39:27,520
+voting is very low as we know and the
+
+1065
+00:39:27,520 --> 00:39:30,960
+the more stable the economy the the less
+
+1066
+00:39:30,960 --> 00:39:33,280
+people participate right we know that
+
+1067
+00:39:33,280 --> 00:39:34,400
+problem
+
+1068
+00:39:34,400 --> 00:39:38,079
+so in soft majority voting
+
+1069
+00:39:38,079 --> 00:39:40,880
+there is a mechanism which allows
+
+1070
+00:39:40,880 --> 00:39:43,200
+to reach if there is a majority like
+
+1071
+00:39:43,200 --> 00:39:45,680
+overwhelming majority
+
+1072
+00:39:45,680 --> 00:39:48,000
+of 10 percent of votes
+
+1073
+00:39:48,000 --> 00:39:50,400
+let's say if 10 of votes
+
+1074
+00:39:50,400 --> 00:39:53,680
+everyone says yes then we just say if
+
+1075
+00:39:53,680 --> 00:39:56,079
+the decision is reached
+
+1076
+00:39:56,079 --> 00:39:58,160
+okay so ten percent participated there
+
+1077
+00:39:58,160 --> 00:40:00,640
+is a tragic right
+
+1078
+00:40:00,640 --> 00:40:02,079
+there it's moving threshold so ten
+
+1079
+00:40:02,079 --> 00:40:04,000
+percent participated ninety percent
+
+1080
+00:40:04,000 --> 00:40:06,319
+didn't participate but ten percent
+
+1081
+00:40:06,319 --> 00:40:08,319
+said yes all of them
+
+1082
+00:40:08,319 --> 00:40:11,440
+it's it's a yes but if one vote
+
+1083
+00:40:11,440 --> 00:40:13,599
+said no
+
+1084
+00:40:13,599 --> 00:40:14,800
+then
+
+1085
+00:40:14,800 --> 00:40:18,640
+we need to wait for more votes
+
+1086
+00:40:18,640 --> 00:40:19,680
+and
+
+1087
+00:40:19,680 --> 00:40:22,160
+right and it self-regulates itself until
+
+1088
+00:40:22,160 --> 00:40:24,960
+it reaches if there is for every yes
+
+1089
+00:40:24,960 --> 00:40:26,960
+vote there is a no vote then we have a
+
+1090
+00:40:26,960 --> 00:40:28,960
+problem here right we cannot decide
+
+1091
+00:40:28,960 --> 00:40:31,839
+there is no majority super majority
+
+1092
+00:40:31,839 --> 00:40:32,800
+then
+
+1093
+00:40:32,800 --> 00:40:34,319
+we need to
+
+1094
+00:40:34,319 --> 00:40:36,000
+basically this will the threshold will
+
+1095
+00:40:36,000 --> 00:40:38,640
+go will rise to 50
+
+1096
+00:40:38,640 --> 00:40:40,960
+and then the 51 percent will decide
+
+1097
+00:40:40,960 --> 00:40:43,520
+like a normal voting but that's not what
+
+1098
+00:40:43,520 --> 00:40:46,240
+usually happens what usually happens is
+
+1099
+00:40:46,240 --> 00:40:49,119
+usually like decision is overwhelmingly
+
+1100
+00:40:49,119 --> 00:40:51,359
+supported or overwhelmingly
+
+1101
+00:40:51,359 --> 00:40:53,119
+not supported
+
+1102
+00:40:53,119 --> 00:40:55,119
+so if there is
+
+1103
+00:40:55,119 --> 00:40:57,359
+uh overwhelming support we don't need to
+
+1104
+00:40:57,359 --> 00:41:00,480
+wait for 51 to reach that decision
+
+1105
+00:41:00,480 --> 00:41:02,960
+because statistically actually it is
+
+1106
+00:41:02,960 --> 00:41:06,400
+almost impossible that 10 of votes said
+
+1107
+00:41:06,400 --> 00:41:08,400
+yes no one said no
+
+1108
+00:41:08,400 --> 00:41:10,960
+but if we will continue voting
+
+1109
+00:41:10,960 --> 00:41:12,960
+there will be like suddenly majority
+
+1110
+00:41:12,960 --> 00:41:15,119
+that will say no it will change just
+
+1111
+00:41:15,119 --> 00:41:18,000
+that's that won't happen okay
+
+1112
+00:41:18,000 --> 00:41:19,760
+so that's the mechanism this mechanism
+
+1113
+00:41:19,760 --> 00:41:22,240
+allows for active participants if they
+
+1114
+00:41:22,240 --> 00:41:24,319
+agree to reach the decision faster
+
+1115
+00:41:24,319 --> 00:41:26,480
+without waiting for everyone else if
+
+1116
+00:41:26,480 --> 00:41:29,200
+they don't disagree then they still will
+
+1117
+00:41:29,200 --> 00:41:31,760
+need to for everyone else to vote until
+
+1118
+00:41:31,760 --> 00:41:33,760
+the point where if it's 50 50 by the end
+
+1119
+00:41:33,760 --> 00:41:36,720
+then the one will will decide
+
+1120
+00:41:36,720 --> 00:41:38,880
+the last low
+
+1121
+00:41:38,880 --> 00:41:40,400
+very interesting so so we are talking
+
+1122
+00:41:40,400 --> 00:41:42,800
+about some majority vote uh voting so
+
+1123
+00:41:42,800 --> 00:41:45,680
+basically soft majority voting uh who
+
+1124
+00:41:45,680 --> 00:41:49,800
+will vote i'm just uh
+
+1125
+00:41:53,330 --> 00:42:00,480
+[Music]
+
+1126
+00:42:00,480 --> 00:42:01,520
+smv
+
+1127
+00:42:01,520 --> 00:42:03,359
+for the decisions of the governance of
+
+1128
+00:42:03,359 --> 00:42:05,760
+the gosh repository the gauche network
+
+1129
+00:42:05,760 --> 00:42:07,200
+or
+
+1130
+00:42:07,200 --> 00:42:09,680
+you can stake it and provide liquidity
+
+1131
+00:42:09,680 --> 00:42:10,640
+with that
+
+1132
+00:42:10,640 --> 00:42:13,760
+on a cv so there is just one or another
+
+1133
+00:42:13,760 --> 00:42:17,119
+no you can undo both
+
+1134
+00:42:17,119 --> 00:42:20,800
+okay so each dow repository
+
+1135
+00:42:20,800 --> 00:42:24,880
+has its own token which voting mechanism
+
+1136
+00:42:24,880 --> 00:42:27,040
+do we use here
+
+1137
+00:42:27,040 --> 00:42:30,079
+smb like like you do on gosh so it's
+
+1138
+00:42:30,079 --> 00:42:32,000
+it's everything is the same every
+
+1139
+00:42:32,000 --> 00:42:34,560
+repository by default of course i mean
+
+1140
+00:42:34,560 --> 00:42:36,960
+you can create your own
+
+1141
+00:42:36,960 --> 00:42:39,359
+whatever
+
+1142
+00:42:39,920 --> 00:42:42,480
+or token if you want but
+
+1143
+00:42:42,480 --> 00:42:46,319
+by default uh when repository spawned
+
+1144
+00:42:46,319 --> 00:42:49,680
+you you it creates dao with the tokens
+
+1145
+00:42:49,680 --> 00:42:51,920
+and the token mechanism voting mechanism
+
+1146
+00:42:51,920 --> 00:42:54,880
+is s smd like like you have on gosh
+
+1147
+00:42:54,880 --> 00:42:56,640
+repository same thing
+
+1148
+00:42:56,640 --> 00:42:58,640
+so everyone votes for the smb it's the
+
+1149
+00:42:58,640 --> 00:43:01,119
+most convenient way
+
+1150
+00:43:01,119 --> 00:43:03,599
+because again not everyone needs to
+
+1151
+00:43:03,599 --> 00:43:05,760
+vote
+
+1152
+00:43:05,760 --> 00:43:07,280
+okay
+
+1153
+00:43:07,280 --> 00:43:09,359
+okay so um
+
+1154
+00:43:09,359 --> 00:43:12,079
+coming back to validators as we know
+
+1155
+00:43:12,079 --> 00:43:12,880
+that
+
+1156
+00:43:12,880 --> 00:43:16,560
+they don't get the transaction fees so
+
+1157
+00:43:16,560 --> 00:43:18,480
+where these transaction fees are
+
+1158
+00:43:18,480 --> 00:43:19,760
+actually going
+
+1159
+00:43:19,760 --> 00:43:22,000
+okay
+
+1160
+00:43:22,160 --> 00:43:25,119
+so transactions fees
+
+1161
+00:43:25,119 --> 00:43:27,119
+are paid in shell
+
+1162
+00:43:27,119 --> 00:43:30,160
+so the the the actual
+
+1163
+00:43:30,160 --> 00:43:32,560
+so the actual basic token of the network
+
+1164
+00:43:32,560 --> 00:43:35,280
+is shell talking and obviously
+
+1165
+00:43:35,280 --> 00:43:37,280
+the reason why is because we want people
+
+1166
+00:43:37,280 --> 00:43:38,240
+to
+
+1167
+00:43:38,240 --> 00:43:40,400
+uh you know to make more transactions
+
+1168
+00:43:40,400 --> 00:43:44,000
+into so we want to encourage the
+
+1169
+00:43:44,000 --> 00:43:47,200
+the payment of the gas fees and for that
+
+1170
+00:43:47,200 --> 00:43:49,359
+as we said before we need this token to
+
+1171
+00:43:49,359 --> 00:43:52,319
+lose value not to raise
+
+1172
+00:43:52,319 --> 00:43:54,720
+so that's why we use shell for this
+
+1173
+00:43:54,720 --> 00:43:56,880
+okay so
+
+1174
+00:43:56,880 --> 00:43:58,720
+everyone who wants to
+
+1175
+00:43:58,720 --> 00:43:59,599
+use
+
+1176
+00:43:59,599 --> 00:44:02,000
+gosh
+
+1177
+00:44:02,240 --> 00:44:04,560
+if they pay they will pay in shell for
+
+1178
+00:44:04,560 --> 00:44:06,000
+transaction fees
+
+1179
+00:44:06,000 --> 00:44:08,800
+but as we said in the beginning
+
+1180
+00:44:08,800 --> 00:44:11,200
+we want to allow some free
+
+1181
+00:44:11,200 --> 00:44:12,319
+usage
+
+1182
+00:44:12,319 --> 00:44:14,560
+of the repository
+
+1183
+00:44:14,560 --> 00:44:17,280
+so every every token is
+
+1184
+00:44:17,280 --> 00:44:20,480
+every repository has its own token smb
+
+1185
+00:44:20,480 --> 00:44:22,880
+smv mechanism was used for governance of
+
+1186
+00:44:22,880 --> 00:44:26,560
+this repository then we talked about
+
+1187
+00:44:26,560 --> 00:44:28,880
+shell token and the transaction fees
+
+1188
+00:44:28,880 --> 00:44:31,200
+transaction fees
+
+1189
+00:44:31,200 --> 00:44:32,880
+are paid in shell because we want to
+
+1190
+00:44:32,880 --> 00:44:35,359
+encourage people to transact more and
+
+1191
+00:44:35,359 --> 00:44:37,280
+for that we want the token that they pay
+
+1192
+00:44:37,280 --> 00:44:39,200
+for transaction fees to lose value and
+
+1193
+00:44:39,200 --> 00:44:40,800
+that is show
+
+1194
+00:44:40,800 --> 00:44:43,680
+um but we also want people not to pay
+
+1195
+00:44:43,680 --> 00:44:45,280
+fees
+
+1196
+00:44:45,280 --> 00:44:47,440
+so how do we do that
+
+1197
+00:44:47,440 --> 00:44:51,040
+because remember we started from this
+
+1198
+00:44:51,040 --> 00:44:54,560
+and we went full cycle now
+
+1199
+00:44:54,960 --> 00:44:56,720
+so we need to protect against spam
+
+1200
+00:44:56,720 --> 00:44:58,720
+remember right
+
+1201
+00:44:58,720 --> 00:44:59,599
+and
+
+1202
+00:44:59,599 --> 00:45:03,200
+this was unsolvable up until now
+
+1203
+00:45:03,200 --> 00:45:05,520
+we created something called
+
+1204
+00:45:05,520 --> 00:45:08,160
+free service area and the free service
+
+1205
+00:45:08,160 --> 00:45:09,440
+area
+
+1206
+00:45:09,440 --> 00:45:11,119
+is
+
+1207
+00:45:11,119 --> 00:45:13,839
+the area where if the smart contract is
+
+1208
+00:45:13,839 --> 00:45:15,760
+placed in this area
+
+1209
+00:45:15,760 --> 00:45:17,520
+this smart contract
+
+1210
+00:45:17,520 --> 00:45:19,520
+uh can transact
+
+1211
+00:45:19,520 --> 00:45:21,359
+with in other smart contracts in the
+
+1212
+00:45:21,359 --> 00:45:24,319
+free service area only
+
+1213
+00:45:24,319 --> 00:45:26,640
+for free without fees
+
+1214
+00:45:26,640 --> 00:45:29,680
+now there are limits to this
+
+1215
+00:45:29,680 --> 00:45:31,119
+like in every
+
+1216
+00:45:31,119 --> 00:45:33,280
+think of like
+
+1217
+00:45:33,280 --> 00:45:35,280
+in in aws
+
+1218
+00:45:35,280 --> 00:45:36,480
+the
+
+1219
+00:45:36,480 --> 00:45:39,040
+the server that you buy for free
+
+1220
+00:45:39,040 --> 00:45:41,280
+you take for free you start for free has
+
+1221
+00:45:41,280 --> 00:45:42,160
+limits
+
+1222
+00:45:42,160 --> 00:45:45,359
+you cannot scale to a million customers
+
+1223
+00:45:45,359 --> 00:45:49,200
+in in fire base you have some limits on
+
+1224
+00:45:49,200 --> 00:45:51,680
+how many queries you can you know make
+
+1225
+00:45:51,680 --> 00:45:54,160
+or writes you can do to the database
+
+1226
+00:45:54,160 --> 00:45:56,560
+so we will have the same limits
+
+1227
+00:45:56,560 --> 00:45:58,240
+so basically you have some limits that
+
+1228
+00:45:58,240 --> 00:46:01,599
+these contracts are operating on
+
+1229
+00:46:01,599 --> 00:46:05,200
+beyond that limits you need to pay fees
+
+1230
+00:46:05,200 --> 00:46:07,760
+yeah to use the service which is i think
+
+1231
+00:46:07,760 --> 00:46:09,760
+exactly what what is expected from such
+
+1232
+00:46:09,760 --> 00:46:10,720
+service
+
+1233
+00:46:10,720 --> 00:46:12,319
+but before that limit
+
+1234
+00:46:12,319 --> 00:46:14,400
+you can spend as much you want and you
+
+1235
+00:46:14,400 --> 00:46:16,240
+can create as many accounts free
+
+1236
+00:46:16,240 --> 00:46:19,920
+accounts as you want of course
+
+1237
+00:46:19,920 --> 00:46:21,680
+like
+
+1238
+00:46:21,680 --> 00:46:23,359
+um
+
+1239
+00:46:23,359 --> 00:46:26,240
+and but you cannot extract the value out
+
+1240
+00:46:26,240 --> 00:46:27,760
+of it
+
+1241
+00:46:27,760 --> 00:46:29,040
+basically
+
+1242
+00:46:29,040 --> 00:46:32,560
+if you just create these accounts to
+
+1243
+00:46:32,560 --> 00:46:33,599
+um
+
+1244
+00:46:33,599 --> 00:46:37,119
+you cannot game the system meaning that
+
+1245
+00:46:37,119 --> 00:46:38,800
+you won't be able to
+
+1246
+00:46:38,800 --> 00:46:41,119
+take out the value that is provided in
+
+1247
+00:46:41,119 --> 00:46:42,880
+the free service area
+
+1248
+00:46:42,880 --> 00:46:46,240
+out to your wallet and benefit from it
+
+1249
+00:46:46,240 --> 00:46:49,040
+so this is this is the idea
+
+1250
+00:46:49,040 --> 00:46:53,280
+and then and and but it also exactly
+
+1251
+00:46:53,280 --> 00:46:56,720
+well fortunately unfortunately
+
+1252
+00:46:56,720 --> 00:46:58,880
+yeah but there is one
+
+1253
+00:46:58,880 --> 00:47:00,480
+more benefit
+
+1254
+00:47:00,480 --> 00:47:03,359
+in having the free service area enabled
+
+1255
+00:47:03,359 --> 00:47:07,280
+and this is a very interesting one
+
+1256
+00:47:07,280 --> 00:47:09,119
+because you cannot transit you cannot
+
+1257
+00:47:09,119 --> 00:47:11,760
+extract because you cannot extract value
+
+1258
+00:47:11,760 --> 00:47:14,640
+out of these tokens in free service area
+
+1259
+00:47:14,640 --> 00:47:18,319
+these tokens immediately become
+
+1260
+00:47:18,319 --> 00:47:21,760
+completely utility token
+
+1261
+00:47:21,760 --> 00:47:23,599
+like just think about that
+
+1262
+00:47:23,599 --> 00:47:26,240
+there is no speculation here
+
+1263
+00:47:26,240 --> 00:47:28,800
+in this area so when this token is
+
+1264
+00:47:28,800 --> 00:47:30,480
+within this area
+
+1265
+00:47:30,480 --> 00:47:33,200
+it actually pure utility token
+
+1266
+00:47:33,200 --> 00:47:35,440
+and as a pure utility token it can be
+
+1267
+00:47:35,440 --> 00:47:37,119
+used solely
+
+1268
+00:47:37,119 --> 00:47:40,240
+as the unit of account
+
+1269
+00:47:40,240 --> 00:47:41,040
+right
+
+1270
+00:47:41,040 --> 00:47:43,520
+it it doesn't it does it it doesn't
+
+1271
+00:47:43,520 --> 00:47:45,119
+store value
+
+1272
+00:47:45,119 --> 00:47:50,079
+and it doesn't use it used as a as a
+
+1273
+00:47:51,599 --> 00:47:54,319
+is a value exchange
+
+1274
+00:47:54,319 --> 00:47:57,520
+so it's not a payment system anymore and
+
+1275
+00:47:57,520 --> 00:47:59,920
+it's not an investment system anymore
+
+1276
+00:47:59,920 --> 00:48:02,319
+it's just a unit of account
+
+1277
+00:48:02,319 --> 00:48:04,319
+now the unit of account
+
+1278
+00:48:04,319 --> 00:48:05,599
+allows you
+
+1279
+00:48:05,599 --> 00:48:07,280
+to actually
+
+1280
+00:48:07,280 --> 00:48:09,280
+transact with
+
+1281
+00:48:09,280 --> 00:48:10,880
+the
+
+1282
+00:48:10,880 --> 00:48:13,680
+fiat world
+
+1283
+00:48:13,680 --> 00:48:16,319
+because remember in fiat world like if
+
+1284
+00:48:16,319 --> 00:48:18,079
+you want to
+
+1285
+00:48:18,079 --> 00:48:21,200
+transact with dollars
+
+1286
+00:48:21,200 --> 00:48:22,240
+you
+
+1287
+00:48:22,240 --> 00:48:24,000
+cannot have
+
+1288
+00:48:24,000 --> 00:48:25,760
+the speculative part
+
+1289
+00:48:25,760 --> 00:48:28,000
+which is the investment part and you
+
+1290
+00:48:28,000 --> 00:48:29,200
+cannot have
+
+1291
+00:48:29,200 --> 00:48:33,760
+the like payment part the money part
+
+1292
+00:48:33,760 --> 00:48:36,319
+because then if you have them then the
+
+1293
+00:48:36,319 --> 00:48:38,079
+regulator
+
+1294
+00:48:38,079 --> 00:48:39,599
+will tell you wait wait this is
+
+1295
+00:48:39,599 --> 00:48:42,000
+cryptocurrency
+
+1296
+00:48:42,000 --> 00:48:44,400
+and if you have a cryptocurrency in
+
+1297
+00:48:44,400 --> 00:48:46,240
+order to connect the cryptocurrency with
+
+1298
+00:48:46,240 --> 00:48:49,200
+the fiat world you will need to pass
+
+1299
+00:48:49,200 --> 00:48:51,280
+through the whole
+
+1300
+00:48:51,280 --> 00:48:52,800
+bananza
+
+1301
+00:48:52,800 --> 00:48:54,319
+of
+
+1302
+00:48:54,319 --> 00:48:58,800
+right of the aml kyc what not
+
+1303
+00:48:58,800 --> 00:49:00,880
+which makes it absolutely impossible
+
+1304
+00:49:00,880 --> 00:49:02,640
+basically to use it
+
+1305
+00:49:02,640 --> 00:49:06,319
+if you are not a financial institution
+
+1306
+00:49:06,319 --> 00:49:07,520
+but
+
+1307
+00:49:07,520 --> 00:49:10,079
+if we take that out
+
+1308
+00:49:10,079 --> 00:49:12,160
+we can say it's a utility token meaning
+
+1309
+00:49:12,160 --> 00:49:14,319
+it is not cryptocurrency anymore
+
+1310
+00:49:14,319 --> 00:49:17,520
+when the token passed to this area
+
+1311
+00:49:17,520 --> 00:49:19,599
+it becomes utility token not
+
+1312
+00:49:19,599 --> 00:49:22,160
+cryptocurrency and that allows it to
+
+1313
+00:49:22,160 --> 00:49:23,760
+immediately be connected to any payment
+
+1314
+00:49:23,760 --> 00:49:28,160
+gateway and you don't need any kyc ml
+
+1315
+00:49:28,160 --> 00:49:31,359
+so if you want to take money
+
+1316
+00:49:31,359 --> 00:49:34,160
+from your customers in a normal way
+
+1317
+00:49:34,160 --> 00:49:37,359
+through like accepting for example uh
+
+1318
+00:49:37,359 --> 00:49:40,480
+you know credit card debit card
+
+1319
+00:49:40,480 --> 00:49:42,240
+you can immediately do that
+
+1320
+00:49:42,240 --> 00:49:45,440
+and we actually have the payment gateway
+
+1321
+00:49:45,440 --> 00:49:48,000
+built into the free service area so if
+
+1322
+00:49:48,000 --> 00:49:49,839
+you want to collect money for your
+
+1323
+00:49:49,839 --> 00:49:52,640
+repository like for example
+
+1324
+00:49:52,640 --> 00:49:54,640
+i don't know donations or or anything
+
+1325
+00:49:54,640 --> 00:49:57,599
+like that for for the someone to use
+
+1326
+00:49:57,599 --> 00:50:00,800
+that uses your repository or you want to
+
+1327
+00:50:00,800 --> 00:50:02,079
+you know your customers to pay for
+
+1328
+00:50:02,079 --> 00:50:04,319
+services that you provide
+
+1329
+00:50:04,319 --> 00:50:06,720
+you can issue invoices and get the
+
+1330
+00:50:06,720 --> 00:50:09,440
+payments through this payment gateway to
+
+1331
+00:50:09,440 --> 00:50:12,880
+the um to the free service area
+
+1332
+00:50:12,880 --> 00:50:14,319
+well it's quite convenient then you
+
+1333
+00:50:14,319 --> 00:50:15,760
+don't have to
+
+1334
+00:50:15,760 --> 00:50:18,640
+buy like um you don't have to do that
+
+1335
+00:50:18,640 --> 00:50:19,839
+extra
+
+1336
+00:50:19,839 --> 00:50:22,079
+uh thing like to buy like uh
+
+1337
+00:50:22,079 --> 00:50:25,119
+tokens to pay and so on so yeah exactly
+
+1338
+00:50:25,119 --> 00:50:27,280
+just that directly use your credit card
+
+1339
+00:50:27,280 --> 00:50:29,359
+exactly and you don't know it doesn't
+
+1340
+00:50:29,359 --> 00:50:30,720
+matter how much you pay and you don't
+
+1341
+00:50:30,720 --> 00:50:33,599
+need to aml kyc services
+
+1342
+00:50:33,599 --> 00:50:35,520
+and also that's something that's already
+
+1343
+00:50:35,520 --> 00:50:37,520
+been structured into so i mean
+
+1344
+00:50:37,520 --> 00:50:39,680
+developers usually do pay with their
+
+1345
+00:50:39,680 --> 00:50:41,440
+credit cards if it's uh
+
+1346
+00:50:41,440 --> 00:50:43,200
+for example it's it's
+
+1347
+00:50:43,200 --> 00:50:44,960
+their business let's say credit card
+
+1348
+00:50:44,960 --> 00:50:47,839
+right so quite convenient yeah
+
+1349
+00:50:47,839 --> 00:50:49,839
+shall we sum up shall we open up the
+
+1350
+00:50:49,839 --> 00:50:52,960
+whole scheme of tokenomics if you can
+
+1351
+00:50:52,960 --> 00:50:54,319
+show it on your screen and just go
+
+1352
+00:50:54,319 --> 00:50:56,800
+briefly
+
+1353
+00:50:56,800 --> 00:50:58,480
+you can
+
+1354
+00:50:58,480 --> 00:51:00,960
+but we will see it anyway yeah
+
+1355
+00:51:00,960 --> 00:51:03,119
+yeah i i don't have actually this camera
+
+1356
+00:51:03,119 --> 00:51:04,319
+because it's it's really big it's
+
+1357
+00:51:04,319 --> 00:51:06,559
+actually if you take all everything that
+
+1358
+00:51:06,559 --> 00:51:09,359
+we you can see probably on your screen
+
+1359
+00:51:09,359 --> 00:51:11,680
+now if you if you can take everything we
+
+1360
+00:51:11,680 --> 00:51:13,119
+discussed today all the pieces of this
+
+1361
+00:51:13,119 --> 00:51:14,559
+stock economics it's quite complex
+
+1362
+00:51:14,559 --> 00:51:16,960
+picture but if you take it one by one
+
+1363
+00:51:16,960 --> 00:51:19,680
+right it's it's a it's a subsystems of
+
+1364
+00:51:19,680 --> 00:51:21,200
+the whole system
+
+1365
+00:51:21,200 --> 00:51:23,839
+which make kind of a total
+
+1366
+00:51:23,839 --> 00:51:25,599
+closed system
+
+1367
+00:51:25,599 --> 00:51:27,280
+of the subsystems but each of the
+
+1368
+00:51:27,280 --> 00:51:29,599
+subsystems make sense i think
+
+1369
+00:51:29,599 --> 00:51:30,960
+in each other
+
+1370
+00:51:30,960 --> 00:51:34,319
+different purpose like an engine
+
+1371
+00:51:34,319 --> 00:51:37,599
+right so very interesting
+
+1372
+00:51:37,599 --> 00:51:39,680
+i think what we didn't discuss actually
+
+1373
+00:51:39,680 --> 00:51:41,440
+today is only one thing and that's the
+
+1374
+00:51:41,440 --> 00:51:42,720
+numbers
+
+1375
+00:51:42,720 --> 00:51:45,200
+i think that maybe right yeah so i can
+
+1376
+00:51:45,200 --> 00:51:47,359
+go over this very quickly so the total
+
+1377
+00:51:47,359 --> 00:51:49,680
+supply of wash tokens
+
+1378
+00:51:49,680 --> 00:51:52,640
+is 100 million
+
+1379
+00:51:52,640 --> 00:51:55,119
+okay total amount
+
+1380
+00:51:55,119 --> 00:51:57,440
+ever be minted
+
+1381
+00:51:57,440 --> 00:51:58,160
+and
+
+1382
+00:51:58,160 --> 00:52:00,880
+it may go lower than that actually if
+
+1383
+00:52:00,880 --> 00:52:03,119
+for example for some reason like
+
+1384
+00:52:03,119 --> 00:52:05,440
+some some validators will will be less
+
+1385
+00:52:05,440 --> 00:52:07,200
+validators within this five years i
+
+1386
+00:52:07,200 --> 00:52:08,640
+don't know why but
+
+1387
+00:52:08,640 --> 00:52:10,720
+theoretically it could go down because
+
+1388
+00:52:10,720 --> 00:52:13,200
+it's always up to a certain number
+
+1389
+00:52:13,200 --> 00:52:14,000
+so
+
+1390
+00:52:14,000 --> 00:52:15,920
+then there is like
+
+1391
+00:52:15,920 --> 00:52:19,599
+67 million of these gosh tokens will go
+
+1392
+00:52:19,599 --> 00:52:20,319
+to
+
+1393
+00:52:20,319 --> 00:52:22,079
+towards the development of the network
+
+1394
+00:52:22,079 --> 00:52:24,240
+and research
+
+1395
+00:52:24,240 --> 00:52:25,839
+and of the gauche product at the whole
+
+1396
+00:52:25,839 --> 00:52:26,960
+ecosystem
+
+1397
+00:52:26,960 --> 00:52:28,240
+in general
+
+1398
+00:52:28,240 --> 00:52:29,920
+and uh
+
+1399
+00:52:29,920 --> 00:52:33,040
+of course
+
+1400
+00:52:33,040 --> 00:52:36,480
+then 11 million as we said will go to
+
+1401
+00:52:36,480 --> 00:52:38,000
+the um
+
+1402
+00:52:38,000 --> 00:52:40,160
+boost boost
+
+1403
+00:52:40,160 --> 00:52:41,680
+program
+
+1404
+00:52:41,680 --> 00:52:44,319
+yeah and then of course there are some
+
+1405
+00:52:44,319 --> 00:52:46,880
+some tokens that will go into in and be
+
+1406
+00:52:46,880 --> 00:52:49,200
+sold to people who would like to provide
+
+1407
+00:52:49,200 --> 00:52:51,599
+support for gore's project
+
+1408
+00:52:51,599 --> 00:52:52,800
+um
+
+1409
+00:52:52,800 --> 00:52:55,599
+you know and or validators that want to
+
+1410
+00:52:55,599 --> 00:52:57,440
+validate or just people who want to
+
+1411
+00:52:57,440 --> 00:53:00,440
+participate
+
+1412
+00:53:03,839 --> 00:53:04,800
+right
+
+1413
+00:53:04,800 --> 00:53:06,000
+well of course it will going to be
+
+1414
+00:53:06,000 --> 00:53:07,760
+listed on the axes exactly the same
+
+1415
+00:53:07,760 --> 00:53:11,440
+mechanism as was described today so gosh
+
+1416
+00:53:11,440 --> 00:53:14,160
+is just another repository on gosh
+
+1417
+00:53:14,160 --> 00:53:16,640
+because as such it has a dao and his
+
+1418
+00:53:16,640 --> 00:53:19,200
+token in this token by the decision of
+
+1419
+00:53:19,200 --> 00:53:21,200
+the dao which is not yet reached of
+
+1420
+00:53:21,200 --> 00:53:24,000
+course but we will be able to whoever
+
+1421
+00:53:24,000 --> 00:53:26,559
+has got tokens be able to vote for this
+
+1422
+00:53:26,559 --> 00:53:28,400
+uh can be listed on gigs and then the
+
+1423
+00:53:28,400 --> 00:53:29,760
+validators would be able to provide
+
+1424
+00:53:29,760 --> 00:53:32,240
+liquidity
+
+1425
+00:53:34,400 --> 00:53:35,359
+okay
+
+1426
+00:53:35,359 --> 00:53:37,680
+so shall we discuss the pricing on gosh
+
+1427
+00:53:37,680 --> 00:53:39,280
+maybe it's interesting as well for those
+
+1428
+00:53:39,280 --> 00:53:42,000
+developers who are watching us today
+
+1429
+00:53:42,000 --> 00:53:44,240
+well the pricing is is of course
+
+1430
+00:53:44,240 --> 00:53:46,240
+something which with the prices
+
+1431
+00:53:46,240 --> 00:53:48,160
+right now it's in the private kind of
+
+1432
+00:53:48,160 --> 00:53:50,160
+round of financing and uh if the price
+
+1433
+00:53:50,160 --> 00:53:52,000
+is around three dollars per token
+
+1434
+00:53:52,000 --> 00:53:53,280
+currently
+
+1435
+00:53:53,280 --> 00:53:56,640
+um it then if it will be listed then the
+
+1436
+00:53:56,640 --> 00:53:59,599
+the price will be determined by the
+
+1437
+00:53:59,599 --> 00:54:02,319
+by obviously by the market
+
+1438
+00:54:02,319 --> 00:54:04,960
+it is important to mention that
+
+1439
+00:54:04,960 --> 00:54:08,079
+the 67 million that i have said
+
+1440
+00:54:08,079 --> 00:54:09,920
+when it goes to ecosystem development
+
+1441
+00:54:09,920 --> 00:54:10,960
+and everything
+
+1442
+00:54:10,960 --> 00:54:14,000
+it actually is not released
+
+1443
+00:54:14,000 --> 00:54:16,160
+at any given moment
+
+1444
+00:54:16,160 --> 00:54:17,920
+like even if it's issued to some
+
+1445
+00:54:17,920 --> 00:54:21,280
+developers for example it will go
+
+1446
+00:54:21,280 --> 00:54:23,839
+towards like a vesting scheme which is a
+
+1447
+00:54:23,839 --> 00:54:25,760
+five years vesting skin
+
+1448
+00:54:25,760 --> 00:54:28,800
+which will be released slowly so
+
+1449
+00:54:28,800 --> 00:54:31,599
+the available tokens on the market will
+
+1450
+00:54:31,599 --> 00:54:33,920
+be always like
+
+1451
+00:54:33,920 --> 00:54:35,119
+thin and
+
+1452
+00:54:35,119 --> 00:54:36,880
+the amount of this tokens will grow very
+
+1453
+00:54:36,880 --> 00:54:38,720
+slowly over five years
+
+1454
+00:54:38,720 --> 00:54:40,400
+so um
+
+1455
+00:54:40,400 --> 00:54:41,440
+again
+
+1456
+00:54:41,440 --> 00:54:43,839
+until the ecosystem balances
+
+1457
+00:54:43,839 --> 00:54:46,400
+and it balances when
+
+1458
+00:54:46,400 --> 00:54:48,559
+like we have remember that the last
+
+1459
+00:54:48,559 --> 00:54:50,079
+stock invested
+
+1460
+00:54:50,079 --> 00:54:53,680
+will be also the last token issued ever
+
+1461
+00:54:53,680 --> 00:54:54,880
+and that
+
+1462
+00:54:54,880 --> 00:54:57,040
+will balance the price because again we
+
+1463
+00:54:57,040 --> 00:54:59,599
+want the token to rise in value because
+
+1464
+00:54:59,599 --> 00:55:02,240
+it's a it's a value storing token and
+
+1465
+00:55:02,240 --> 00:55:03,680
+because we want people to participate in
+
+1466
+00:55:03,680 --> 00:55:05,440
+the ecosystem as we said before you need
+
+1467
+00:55:05,440 --> 00:55:07,599
+to vote for the repositories you need to
+
+1468
+00:55:07,599 --> 00:55:10,400
+provide liquidity so we need you to hold
+
+1469
+00:55:10,400 --> 00:55:11,680
+this tokens
+
+1470
+00:55:11,680 --> 00:55:13,839
+and in order to do that
+
+1471
+00:55:13,839 --> 00:55:16,000
+obviously the token expectations of
+
+1472
+00:55:16,000 --> 00:55:17,760
+price should be that it will capture
+
+1473
+00:55:17,760 --> 00:55:19,599
+value over time so it will rise over
+
+1474
+00:55:19,599 --> 00:55:23,440
+time and we and in order not to create
+
+1475
+00:55:23,440 --> 00:55:26,000
+over supply on the market in on any
+
+1476
+00:55:26,000 --> 00:55:27,680
+point even when we meet the talk and
+
+1477
+00:55:27,680 --> 00:55:29,839
+then give the talking to developers for
+
+1478
+00:55:29,839 --> 00:55:32,720
+their kind of participation ecosystem
+
+1479
+00:55:32,720 --> 00:55:34,400
+for example if they commit their
+
+1480
+00:55:34,400 --> 00:55:35,920
+committees accepted to the gosh
+
+1481
+00:55:35,920 --> 00:55:38,480
+repository they get some tokens
+
+1482
+00:55:38,480 --> 00:55:40,559
+and so but these tokens are still vested
+
+1483
+00:55:40,559 --> 00:55:43,520
+over a long period of time five years
+
+1484
+00:55:43,520 --> 00:55:46,839
+and uh and released you know
+
+1485
+00:55:46,839 --> 00:55:48,559
+slowly
+
+1486
+00:55:48,559 --> 00:55:49,599
+so this
+
+1487
+00:55:49,599 --> 00:55:52,079
+just coming back to uh gosh in general
+
+1488
+00:55:52,079 --> 00:55:53,200
+revenue
+
+1489
+00:55:53,200 --> 00:55:56,000
+model is it a real
+
+1490
+00:55:56,000 --> 00:55:58,079
+working revenue model so because as we
+
+1491
+00:55:58,079 --> 00:55:59,040
+know
+
+1492
+00:55:59,040 --> 00:56:01,599
+today on blockchain we do have probably
+
+1493
+00:56:01,599 --> 00:56:05,200
+not even one project that has a real
+
+1494
+00:56:05,200 --> 00:56:07,839
+uh revenue model let's say that
+
+1495
+00:56:07,839 --> 00:56:10,880
+does give a service let's call it
+
+1496
+00:56:10,880 --> 00:56:13,359
+we believe that gouache is the only
+
+1497
+00:56:13,359 --> 00:56:16,160
+actually
+
+1498
+00:56:16,160 --> 00:56:18,720
+real product on the blockchain on any
+
+1499
+00:56:18,720 --> 00:56:20,960
+blockchain today because the rest of the
+
+1500
+00:56:20,960 --> 00:56:23,440
+blockchain products are either either
+
+1501
+00:56:23,440 --> 00:56:24,559
+token
+
+1502
+00:56:24,559 --> 00:56:26,559
+sale icos
+
+1503
+00:56:26,559 --> 00:56:29,280
+or um like the
+
+1504
+00:56:29,280 --> 00:56:30,480
+defy
+
+1505
+00:56:30,480 --> 00:56:33,119
+on the financial services on top of that
+
+1506
+00:56:33,119 --> 00:56:35,359
+there are almost no use case
+
+1507
+00:56:35,359 --> 00:56:37,680
+uh real use case for blockchain we
+
+1508
+00:56:37,680 --> 00:56:41,119
+believe that gosh is the the largest use
+
+1509
+00:56:41,119 --> 00:56:43,040
+case up to date
+
+1510
+00:56:43,040 --> 00:56:45,200
+to the blockchain in general so as such
+
+1511
+00:56:45,200 --> 00:56:48,079
+it does have you know intrinsic value
+
+1512
+00:56:48,079 --> 00:56:50,000
+in in the in the token itself and the
+
+1513
+00:56:50,000 --> 00:56:52,079
+prop because that has a product now in
+
+1514
+00:56:52,079 --> 00:56:53,680
+terms of pricing for the gauche itself
+
+1515
+00:56:53,680 --> 00:56:56,079
+for the gauche products it's very simple
+
+1516
+00:56:56,079 --> 00:56:59,359
+um and we just follow again this
+
+1517
+00:56:59,359 --> 00:57:01,680
+the business model of any cloud
+
+1518
+00:57:01,680 --> 00:57:03,920
+uh git cloud providing for example right
+
+1519
+00:57:03,920 --> 00:57:07,040
+so we have the free uh
+
+1520
+00:57:07,040 --> 00:57:09,280
+free part of the service as we said like
+
+1521
+00:57:09,280 --> 00:57:11,680
+the unlimited repositories the unlimited
+
+1522
+00:57:11,680 --> 00:57:15,119
+users in this repositories the the dao
+
+1523
+00:57:15,119 --> 00:57:18,400
+itself and so on the ci cd
+
+1524
+00:57:18,400 --> 00:57:22,319
+basics for ci cd on on on gosh
+
+1525
+00:57:22,319 --> 00:57:23,359
+and so on
+
+1526
+00:57:23,359 --> 00:57:24,559
+and then
+
+1527
+00:57:24,559 --> 00:57:26,799
+you have the
+
+1528
+00:57:26,799 --> 00:57:29,040
+like subscription 15 a month
+
+1529
+00:57:29,040 --> 00:57:30,799
+subscription which
+
+1530
+00:57:30,799 --> 00:57:32,160
+includes
+
+1531
+00:57:32,160 --> 00:57:33,920
+some services where for example you
+
+1532
+00:57:33,920 --> 00:57:36,720
+store like store large files
+
+1533
+00:57:36,720 --> 00:57:38,240
+like more than 10
+
+1534
+00:57:38,240 --> 00:57:40,319
+gigabyte of storage in the in your
+
+1535
+00:57:40,319 --> 00:57:42,799
+repository some advanced management
+
+1536
+00:57:42,799 --> 00:57:45,119
+tools some some other other features
+
+1537
+00:57:45,119 --> 00:57:47,200
+that you might want to use or you just
+
+1538
+00:57:47,200 --> 00:57:49,920
+go over crazy over limit with the amount
+
+1539
+00:57:49,920 --> 00:57:51,839
+of users
+
+1540
+00:57:51,839 --> 00:57:54,240
+you have in in your repository for
+
+1541
+00:57:54,240 --> 00:57:57,200
+writing like right right users
+
+1542
+00:57:57,200 --> 00:57:58,480
+um
+
+1543
+00:57:58,480 --> 00:58:00,640
+is it a competitive price
+
+1544
+00:58:00,640 --> 00:58:02,400
+it is a competitive price it is exactly
+
+1545
+00:58:02,400 --> 00:58:04,480
+right like any other yeah it is exactly
+
+1546
+00:58:04,480 --> 00:58:05,599
+like any other
+
+1547
+00:58:05,599 --> 00:58:07,280
+kit on git cloud
+
+1548
+00:58:07,280 --> 00:58:10,559
+you know cost today gitlab or github
+
+1549
+00:58:10,559 --> 00:58:12,240
+they all charge more or less the same
+
+1550
+00:58:12,240 --> 00:58:14,640
+amount
+
+1551
+00:58:15,200 --> 00:58:18,559
+i see great thank you
+
+1552
+00:58:19,040 --> 00:58:19,920
+thank you
+
+1553
+00:58:19,920 --> 00:58:21,680
+ghost thank you
+
+1554
+00:58:21,680 --> 00:58:22,720
+yes
+
+1555
+00:58:22,720 --> 00:58:24,720
+yes yeah and again let's let's let's
+
+1556
+00:58:24,720 --> 00:58:26,559
+we're talking in other
+
+1557
+00:58:26,559 --> 00:58:29,599
+time about why to choose gosh here yeah
+
+1558
+00:58:29,599 --> 00:58:31,599
+stream is right and only about like
+
+1559
+00:58:31,599 --> 00:58:33,280
+talking amongst how gosh works
+
+1560
+00:58:33,280 --> 00:58:34,880
+economically
+
+1561
+00:58:34,880 --> 00:58:37,440
+yeah we do have another questions
+
+1562
+00:58:37,440 --> 00:58:39,200
+that we wanted to discuss for example
+
+1563
+00:58:39,200 --> 00:58:41,280
+next time we can go through gosh
+
+1564
+00:58:41,280 --> 00:58:43,520
+features for developers why what
+
+1565
+00:58:43,520 --> 00:58:44,880
+projects
+
+1566
+00:58:44,880 --> 00:58:46,640
+can come on gosh why
+
+1567
+00:58:46,640 --> 00:58:48,480
+developers
+
+1568
+00:58:48,480 --> 00:58:50,480
+likely want to choose gosh instead of
+
+1569
+00:58:50,480 --> 00:58:52,079
+any other git hosting platform because
+
+1570
+00:58:52,079 --> 00:58:53,520
+there are very interesting points that
+
+1571
+00:58:53,520 --> 00:58:55,920
+makes gosh unique and
+
+1572
+00:58:55,920 --> 00:58:57,280
+you know like
+
+1573
+00:58:57,280 --> 00:58:59,680
+so we will have another stream on 24th
+
+1574
+00:58:59,680 --> 00:59:02,880
+right with um some interest yeah
+
+1575
+00:59:02,880 --> 00:59:04,559
+yes yeah
+
+1576
+00:59:04,559 --> 00:59:06,079
+we do have a stream on twenty four we're
+
+1577
+00:59:06,079 --> 00:59:08,240
+gonna talk more yeah about the
+
+1578
+00:59:08,240 --> 00:59:10,000
+gosh itself
+
+1579
+00:59:10,000 --> 00:59:11,440
+about gosh
+
+1580
+00:59:11,440 --> 00:59:13,280
+yeah gosh product and gosh blockchain in
+
+1581
+00:59:13,280 --> 00:59:15,760
+general today we covered tokenomics
+
+1582
+00:59:15,760 --> 00:59:17,760
+thank you everybody for watching thank
+
+1583
+00:59:17,760 --> 00:59:19,680
+you for joining us today so sorry thank
+
+1584
+00:59:19,680 --> 00:59:22,680
+you
+

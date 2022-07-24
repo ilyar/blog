@@ -1,0 +1,3168 @@
+okay mika welcome and the first question
+
+is why wasn't it possible to create a
+
+git on chain before why it wasn't
+
+possible to put an existing git on a
+
+blockchain for on ever scale or some
+
+other blockchain why we decided to
+
+create a totally new brand new
+
+blockchain for kit
+
+yeah it's a it's this the answer is like
+
+has to there are two answers for that uh
+
+one is technical which i don't want to
+
+go right now into because we have a show
+
+about economics
+
+uh so let's talk about
+
+the other
+
+reason
+
+and this reason is into economics
+
+so as you as you all know
+
+anything you do on any blockchain
+
+costs some money
+
+yeah sometimes called fees or gas
+
+whatever
+
+and
+
+there is no model today
+
+um
+
+like no economic model today on the
+
+blockchain
+
+which permits you to do something for
+
+free
+
+you always pay for anything you do
+
+and the reason why you pay
+
+um is partly
+
+um
+
+protection against spam so
+
+because if if you would start um
+
+you know producing millions of
+
+transactions for free
+
+then you would stop a blockchain
+
+you could stop a blockchain because
+
+there is no unlimited capacity on any
+
+blockchain and and any computing system
+
+so sometimes uh what other projects
+
+trying to do is for example solana
+
+just just they make the fees very very
+
+small
+
+like
+
+so small
+
+that it's almost like you don't almost
+
+no don't feel it
+
+the problem there are two problems for
+
+that first it's still
+
+a fee so you still has have to buy right
+
+tokens even if it's a small amount of
+
+tokens
+
+yeah you still need to buy it so it's
+
+not free even if it's so it's small
+
+small
+
+um
+
+but the other the other thing is that
+
+it doesn't protect against spam
+
+and we saw that solana
+
+experienced many problems related to
+
+this
+
+where the full capacity was used it
+
+doesn't matter if you if you don't have
+
+unlimited capacity basically there is
+
+some limit there is some price that
+
+someone can pay to buy out
+
+the whole blockchain basically which
+
+means the blockchain will exclusively
+
+work for this
+
+someone and that means that the
+
+blockchain will stop for everyone else
+
+so
+
+i think one of the most important the
+
+contributions to tokenomics
+
+in gosh is that
+
+we came out
+
+came up with the possibility to make a
+
+completely free service on the
+
+blockchain
+
+and right because
+
+again
+
+a sorry to interrupt you because a git
+
+for those who don't maybe so those who
+
+don't know here uh a git is a free
+
+service developers using git it's a free
+
+service so
+
+for open source yeah put
+
+yeah for open source it's okay well
+
+okay so git is not a service git is
+
+something you install on your computer
+
+where you basically store your code and
+
+all the versions of your code
+
+right
+
+when you talk about service you talk
+
+something like github or gitlab or
+
+bitbucket whatever there are like right
+
+a git hosting platform exactly so when
+
+we talk about git costing platform yeah
+
+and these platforms it doesn't it's not
+
+only relates to git
+
+it relates to any um well most of the
+
+business models today when you have
+
+cloud service usually this cloud service
+
+provides you some um some
+
+service for free it's like like initial
+
+some amount of
+
+whatever service they they give they
+
+provided for free so for example like
+
+firebase
+
+or
+
+you know aws you could you could have
+
+like a small server from aws
+
+for free just to try it out
+
+just to build your application to test
+
+your application and then
+
+when you scale like when you have a lot
+
+of users you start to have a lot of
+
+users
+
+then
+
+you know you start paying and this is a
+
+normal business model which which makes
+
+it very easy to start developing on this
+
+cloud service this model is used
+
+everywhere right
+
+so when you want to build a
+
+blockchain based
+
+service a cloud service for git
+
+you must accommodate this you must
+
+accommodate the developers who just want
+
+to start for free
+
+okay mita um let's see the your the
+
+scheme of the tokenomics of gosh like
+
+and you can describe briefly for us like
+
+uh how it works like and then we're
+
+gonna
+
+uh go deeper and see like the details
+
+sure well
+
+as you said there are like two tokens
+
+uh in in in gosh system uh one token is
+
+stable coin and another token is like
+
+value capturing token so the stable coin
+
+called shell
+
+and the
+
+the value capturing token
+
+called gosh
+
+so
+
+there is a reason why
+
+um
+
+why there are two tokens
+
+and again
+
+i don't want to go deeper into that a
+
+lot
+
+but just a couple of words yeah it's
+
+impossible can you briefly cover yeah
+
+yeah it's impossible to
+
+to have one token which both captures
+
+value
+
+and has a property of
+
+money which is like used to
+
+pay for things
+
+okay why it is important why it is not
+
+possible is because
+
+when you pay for stuff
+
+you don't want
+
+i would say this you would be
+
+like inclined not to pay
+
+if with something that rises in value
+
+all the time right if for example if the
+
+dollar
+
+would
+
+rise in value instead of falling like it
+
+will if it would be just complete
+
+deflation all the time instead of
+
+inflation you would have deflation like
+
+10 a year deflation think about that so
+
+you know that what your dollar that you
+
+can buy a coffee today tomorrow you can
+
+buy two two cups of coffee
+
+that would prevent people
+
+psychologically from spending that
+
+dollar
+
+right because like who would spend
+
+dollars if it's always rises in value
+
+so that's why
+
+inflation is actually
+
+good for economic growth
+
+as we know
+
+it's exactly because of that that
+
+stimulates
+
+spending it stimulates people to get rid
+
+of money to basically put money in
+
+somewhere where the value is created for
+
+example in enterprises take money is a
+
+loan because what you take today and you
+
+can use this loan to create your
+
+business tomorrow you will pay less
+
+when you repay the loan despite the fact
+
+that it has
+
+also percentage you know on the loan but
+
+still you you can you easy you you take
+
+the money and invest the money
+
+easier in something in property for
+
+example also just for whatever you
+
+believe it will will rise in there right
+
+right
+
+right in bitcoin
+
+well that's exactly what's happening
+
+right people investing money
+
+for example something that will rise in
+
+value so people believe something will
+
+rise in value so bitcoin people believe
+
+will rise in value sometimes and they
+
+they buy bitcoin with dollar they
+
+exchange well sometimes
+
+sometimes they don't they lose
+
+believe in everything when the economic
+
+downturn they don't believe but it it
+
+corrects the moment right
+
+right but it corrects itself it corrects
+
+itself also if you look at the like
+
+bitcoin price
+
+it's still 20 000 per bitcoin not
+
+what it was two years ago remember two
+
+years ago it was like much less
+
+right so still despite the fact okay it
+
+went to 60 whatever and then at fall
+
+doesn't matter it's still the basic
+
+value rises
+
+despite the fact that a lot of growing
+
+yeah a lot of people sell it but because
+
+but because well a lot of people will
+
+sell because they feel pressure for
+
+example they have some position
+
+which which they need to cover for
+
+example and they they oblige to sell
+
+this bitcoin
+
+because whatever but
+
+okay
+
+all right point is the point is we we
+
+need to have two tokens if we want
+
+one talking to ryzen value and we want
+
+also to have token with with which
+
+people would be like ready to pay
+
+each other for work or for some services
+
+and that token need to be
+
+stable and actually if you remember
+
+facebook
+
+tried to do their own cryptocurrency
+
+like this cryptocurrency was supposed to
+
+be stable coin
+
+right
+
+and the reason for that is this nothing
+
+but nothing is stable right
+
+it's even the table is relative term
+
+stable is relative to term actually it's
+
+not stable it's losing value it should
+
+lose the value in the perception people
+
+should perceive that as losing value so
+
+for example we know one thing that for
+
+certain will lose value it's called
+
+dollar
+
+dollar is a great
+
+losing value mechanism
+
+and uh and so if you tight your
+
+stablecoin to the dollar
+
+term then
+
+kind of we know that it will lose value
+
+okay
+
+so you need one uh one token to increase
+
+in value so people are going to be
+
+holding it basically right and the other
+
+one who that they will be using for the
+
+transaction so that's they will they
+
+will use the brushes as well i can okay
+
+so let's talk about how they can use
+
+gold let's talk about uh tokens
+
+yeah that's right so why do we need
+
+gauche we already have stable coin and
+
+the we need gosh for governance
+
+and governance
+
+is
+
+when
+
+you can
+
+like vote
+
+for things you can influence things by
+
+just holding kosh
+
+so when we say
+
+uh holding like
+
+you kind of have a part this is the
+
+the mechanism
+
+or the the unit of account
+
+for
+
+what your portion
+
+like personally
+
+that you hold in gosh project
+
+is it kind of uh like a stakeholding uh
+
+it is a state
+
+exactly it is a stakeholding
+
+it is it is it is a stakeholding in
+
+gauche project and the stakeholding
+
+it has several implications
+
+one of them is that it is a mechanism
+
+for
+
+voting for whatever decisions someone
+
+need to make
+
+within the system
+
+for gosh for example so for example
+
+let's say the gosh is run by some
+
+software and we want to change that
+
+software we want to release some
+
+upgrades some update or whatever
+
+and who is going to decide if we're
+
+releasing this update or not
+
+people developers
+
+yeah developers and investors or whoever
+
+hold the stakeholders who hold gosh they
+
+are the one that the most affected by
+
+the decisions that the gosh as a network
+
+as a project takes
+
+and so they need to have an influence
+
+over this decision and the influence is
+
+measured by the amount of tokens they
+
+hold
+
+the thing is that
+
+in order to encourage the holding
+
+because when we talk about stablecoin we
+
+encourage the spending when we talk
+
+about governance tokens we encourage the
+
+holding this in order to encourage the
+
+whole thing you need this do you need
+
+the value of the talk and not to fall at
+
+least
+
+and for it not to fall it should
+
+actually rise
+
+we know that so it's like an alice in
+
+the wonderland remember i need to run
+
+just to be in place so
+
+uh
+
+it need to rise and in order for it to
+
+rise there is only one mechanism
+
+that
+
+because the price is is it is a demand
+
+is a curve between demand and supply so
+
+if we have some demand for talking the
+
+only reason it will rise in value if you
+
+have a demand is that the supply will be
+
+limited it will be less than the demand
+
+so that will rise that something will
+
+rise and value like in bitcoin
+
+you have you know in existence like 21
+
+million bitcoin will will ever be
+
+more or less mined and that means that
+
+the demand for bitcoin supposedly to be
+
+rising over time
+
+because more and more people would like
+
+to hold it so the same thing with gosh
+
+the more platform is used the more
+
+developers are joining the more they
+
+would like to hold part of the system so
+
+they can influence the decisions over
+
+the system because this is the system
+
+with their project leaves on and so
+
+for that we need that to rise right
+
+that's very interesting so you're
+
+speaking about people uh you're speaking
+
+about investors who are gonna be uh
+
+whole like who are gonna have
+
+stakeholders speaking about validator
+
+stakeholders
+
+yeah
+
+call them yes whoever you want but it's
+
+interesting because we're now coming to
+
+the validators
+
+program on gosh
+
+so i just uh wanted to ask you a
+
+question that came up to me so
+
+validators are going to be same
+
+stakeholders uh is it correct
+
+correct right
+
+well yeah in order in order to in order
+
+to validate you need to stake
+
+um
+
+that's how it works like always
+
+yeah in any proof of statement
+
+as well
+
+you need to stake you need to hold on to
+
+token because this is the security
+
+guarantee
+
+that you give to the network that if you
+
+as a validator you will do something
+
+malicious then
+
+um you will lose your tokens
+
+so yeah
+
+right okay so now now that we came to
+
+validators uh program i um
+
+i looked into ghost economics so i saw
+
+that basically validators program it's
+
+quite different from what we are usually
+
+used to on other blockchains and that
+
+validators has some advantages and one
+
+of those you just mentioned right that
+
+uh basically the daters get the ability
+
+to choose on uh on gosh decisions like
+
+to make decisions upon gosh right
+
+because they're gonna have uh
+
+basically okay not not not so quickly
+
+let's let's separate this so first okay
+
+so first let's talk about validation how
+
+you can become a validator validation
+
+program so you need to have gosh okay
+
+you need to put it as a stake and you
+
+need to lock it for
+
+from one to five years
+
+like one two three four four five
+
+um and each the longer you
+
+you
+
+like stake it
+
+the more
+
+like percentage per year
+
+revenue you will get market starts from
+
+eight percent yeah eight percent first
+
+year up to 24 yearly early return
+
+uh like yield
+
+uh if you if you look at for five years
+
+right so
+
+this is different in a way that it
+
+combines
+
+how the usual like d5 protocols work
+
+with the proof of stake because usually
+
+proof of stake
+
+it's it's simpler than that you just you
+
+know you call you you lock tokens in
+
+steak you stay tokens
+
+and then for the whatever period you
+
+want and then you can exit at any time
+
+right
+
+and uh but but this is um
+
+this model is just just basic proof of
+
+proof-of-stake model but we we didn't
+
+want to do that
+
+because
+
+um
+
+we wanted we wanted to tighter to make
+
+it tighter
+
+the
+
+uh what happens afterwards what you can
+
+do with the token
+
+um
+
+not only just take it and then and then
+
+just take it whenever you whenever you
+
+want because we wanted you to
+
+usually when validators take the token
+
+that's the end of their involvement in
+
+the network because they're only waiting
+
+for yield right they can just take it
+
+and then like they get their advantages
+
+and basically
+
+get the yield whatever it is and yeah
+
+they get them yeah get the money no
+
+advantages i guess i i mean they get
+
+their
+
+money basically essentially money is
+
+advantageous
+
+yeah money is a great advice for them
+
+for sure
+
+yes
+
+absolutely but here uh but on gosh as i
+
+understand that we will get it uh we'll
+
+get a little later on it uh validators
+
+have the ability to stay much longer
+
+than five years if they wish to because
+
+they have
+
+other interesting
+
+features
+
+yeah i think the most important part
+
+here sorry pauline go ahead
+
+i'm sorry like you speak and i will this
+
+is going to be my next question so you
+
+can like talk more about it
+
+all right so um
+
+the thing is that um there is a there is
+
+a one
+
+covet here
+
+we said
+
+the biggest problem okay is that how you
+
+you need to provide
+
+yield right you need to provide you need
+
+to
+
+issue more tokens for validators to stay
+
+on the network
+
+usually right
+
+you know in any network doesn't matter
+
+proof of stake proof of work right now
+
+validators are validators or miners
+
+they constantly mine and despite the
+
+fact that every four years
+
+the the
+
+mining rewards on on bitcoin for example
+
+halves
+
+the rise of the price make it up
+
+and they still want to mine the next
+
+bitcoin
+
+right it's still economically economical
+
+for them to mine next bitcoin but we
+
+said in the beforehand that we need to
+
+stop the emission
+
+nobody is saying this actually like no
+
+layer one protocol has ever i think said
+
+uh this is the first time that someone
+
+said we will just completely stop the
+
+emission
+
+because in bitcoin how it works they're
+
+like half in like uh
+
+every time like the next bitcoin is like
+
+they get less money like twice less
+
+money than before right that's how it
+
+works but not completely stopped yet
+
+well it will stop it will stop so
+
+but satoshi well it's actually
+
+okay
+
+almost up let's say no no it's it will
+
+stop completely because there will be
+
+point where to my next bitcoin you will
+
+never like you will never mind next
+
+bitcoin it will take you until the end
+
+of the universe to solve the next bus
+
+but
+
+that's okay so so satoshi
+
+what satoshi predicted
+
+um is that on certain day when the
+
+mining will diminish it will be replaced
+
+by
+
+by the fees that someone pays for
+
+transaction fees
+
+okay
+
+so it will be
+
+replaced by transaction fees that the
+
+miner will get
+
+right and that will constitute their
+
+revenue
+
+uh
+
+f from the point where there is there
+
+are no more bitcoins mine
+
+the reason actually mining was even
+
+created in the beginning by satoshi
+
+invented by satoshi's to
+
+simplify the the miners to start the
+
+network to continue support the network
+
+before the level of transaction reaches
+
+a certain point where it no longer will
+
+be necessary to to have that
+
+uh the mining
+
+right
+
+uh in gosh we are trying to compress
+
+that first of all to five years
+
+we will only
+
+issue this amount of tokens
+
+as we said and the amount of tokens
+
+actually locked there are no more than
+
+11 million tokens that will ever be
+
+issued to validators
+
+right yes we forgot to discuss about it
+
+we didn't discuss it yet okay so yes
+
+eleven millions goes to validate i'm not
+
+not talking more so
+
+i i i
+
+might
+
+my question was like okay they like um
+
+lock these tokens for five years
+
+what's next like after five years there
+
+is no like interest in this anymore so
+
+what how are you gonna keep them on uh
+
+of course all right so that's liquidity
+
+providing so we're kind of mixing here a
+
+lot of d5 protocols and um yeah
+
+so so so we're saying the following so
+
+when you stake gosh in validator pool
+
+you can issue for every state gauche you
+
+can issue a token called lv gosh
+
+and you can do two things with lv gosh
+
+you can either
+
+either sorry um
+
+you can either
+
+a vote with this
+
+like participate in governance
+
+or
+
+or you can
+
+provide liquidity
+
+in the decentralized exchange
+
+which is part of the system called gex
+
+and this liquidity is used to support
+
+actually repositories on gosh
+
+which
+
+open source projects or whatever
+
+projects uh build their software on gosh
+
+and they can
+
+list the tokens of their repositories
+
+in the gex repository and the gex uh
+
+decentralized exchange so when you when
+
+when so you can take your staked
+
+token and you can provide liquidity
+
+for different projects
+
+uh with a separate mechanism which i
+
+don't know if we discussed today
+
+but this mechanism allows you like
+
+allows every validator whoever you don't
+
+need to be a validator but you need to
+
+stake your gosh
+
+and get this lv gosh tokens
+
+to provide liquidity for this project
+
+and when you provide liquidity you mine
+
+the project tokens so instead of
+
+transaction fees
+
+so
+
+so you basically become an investor
+
+please you are an investor already
+
+when when you invest in when you're
+
+buying a mining farm in bitcoin you're
+
+becoming an investor in bitcoin period
+
+there's no question about it right you
+
+and and the cost of the mining farm is
+
+huge
+
+as you know right so you invest up front
+
+up front
+
+um enormous amount of money
+
+and you cannot sell it that easily
+
+actually right it takes time and effort
+
+to sell the equipment if you want to
+
+exit
+
+and so in a way when bitcoin
+
+miner
+
+kind of mined bitcoin
+
+he staked
+
+his money into bitcoin mining equipment
+
+right improv in proof of stake you just
+
+take that money without buying it equip
+
+like
+
+you have some servers but this is
+
+negligible cost
+
+right so right okay you need to you need
+
+but but but you still it's still you're
+
+still an investor you're an investor in
+
+bitcoin or you invest in proof of stake
+
+as a proof of state validator you still
+
+investor but the question is not if you
+
+invest or not the question is how you
+
+make money on this investment
+
+and if you think about that
+
+just make a mission
+
+it it doesn't make a lot of sense
+
+actually
+
+like like ethereum works on just
+
+providing a mission like
+
+emitting tokens every year to to
+
+validators right
+
+uh
+
+to to you know for them to and ethereum
+
+by the way will never stop there is no
+
+such thing as as diminishing
+
+mining rewards in ethereum so it's like
+
+constant or whatever
+
+and uh
+
+this
+
+this doesn't make a lot of sense because
+
+um
+
+okay you introduce inflation into the
+
+system which you want to be deflationary
+
+as we said before you need two tokens
+
+remnants
+
+so it's it's it's a mixed up thing and i
+
+don't think it works actually
+
+like the only thing why it works is
+
+because when you have certain amount of
+
+tokens you participate in kind of having
+
+um
+
+transaction fees as well right and that
+
+gives you
+
+this economical that gives it some
+
+economical sense
+
+but we said here we wanted to let's just
+
+eliminate let's eliminate the mining
+
+that's eliminating the emission
+
+and then let's eliminate the fees for a
+
+second let's just eliminate the fees
+
+from the from the whole equation
+
+now what happens then well if you stake
+
+you're talking if you believe that you
+
+you start to earn some then yield you
+
+believe in the platform you believe in
+
+the gosh price right if you're investor
+
+you believe in gosh price
+
+so you lock the stock in validation give
+
+you a boost we call it staking boost for
+
+five years
+
+11 million tokens
+
+but
+
+then if you want to continue support the
+
+network you actually need to what is the
+
+network what is the value of the network
+
+the value of the network is actually we
+
+believe the value of the of the projects
+
+using this network
+
+all right if you get if your kit on
+
+chain the value of git on chain is in
+
+the projects in the open source
+
+repositories or closed source
+
+repositories which are using this giton
+
+chain for different reasons which we're
+
+not going to discuss today why why they
+
+would use it but
+
+that's not the point okay so if you
+
+believe that people will use this
+
+and or people are using this you can see
+
+that and then
+
+you want to capitalize on them so they
+
+how you capitalize on them
+
+you can take the fees from their
+
+transaction that would usually
+
+doing everyone doing right
+
+but we're saying
+
+right but we're saying
+
+actually
+
+own
+
+part of this project you can own part of
+
+the projects without actually going to
+
+fees you don't need their fees you can
+
+actually own their tokens
+
+and so if the project want to
+
+list their
+
+tokens basically listing means
+
+give it to the hands of investors
+
+so if the project is interested in
+
+getting the they're talking
+
+to the to the hands of investors they
+
+can do that by listing that on gex and
+
+you as an investor validator whatever
+
+you call yourself
+
+you can take your staked tokens
+
+and use it to provide liquidity
+
+basically as a and as a reward for
+
+providing liquidity you get
+
+pieces of the tokens of this
+
+repositories
+
+right
+
+does it make sense
+
+yeah very interesting
+
+so uh
+
+so projects uh i'm just gonna mention it
+
+briefly so basically projects will have
+
+an opportunity to
+
+receive fundings right open source
+
+projects with gosh to economics
+
+they have an ability
+
+it's not only it's it's
+
+not just
+
+it it's not just to receive funding is a
+
+very generalized term because
+
+right you don't necessarily receive
+
+funding okay you can list your talking
+
+tokens
+
+and just
+
+find some buyers even without you
+
+receiving funding directly
+
+so because you just want to you you may
+
+want just to promote a trade of your
+
+token
+
+and so people
+
+that
+
+believe in your projects can participate
+
+by by buying some projects maybe even
+
+not from you
+
+it's like what you do with ipo right so
+
+there is initial public offering where
+
+you sell your talking to investors but
+
+you can list it just without selling it
+
+to investors directly and you just just
+
+can allow everyone who has the token to
+
+list it and then the investors can buy
+
+from them
+
+you not necessarily need to issue tokens
+
+new tokens to
+
+to to investors there is there are
+
+myriads of way to do that
+
+just
+
+so we allow that listing decentralized
+
+listing of any repository who wishes and
+
+when you create actually when you create
+
+repository on gosh
+
+that the dao
+
+which governed by the token of risk repo
+
+this repository create created uh just
+
+by default
+
+of course you don't need to use this
+
+tokens to sell it or use it as a as a as
+
+a
+
+financial instrument right
+
+but does any token uh so you said a
+
+repository created the organization uh
+
+by itself automatically does any token
+
+that is going to be issued will end up
+
+on gex on the decentralized exchange
+
+can end up okay what are the criteria
+
+just in few words
+
+there are it's basically just what you
+
+want so you as a repository
+
+uh
+
+owner
+
+owner means
+
+your repository is owned by the token
+
+holders of your repository this is the
+
+whole point that's a repository dial so
+
+you as a dao
+
+all token holders
+
+can decide that you want this token be
+
+available on the ax that someone can
+
+sell and buy and sell these tokens of
+
+your repository if you decided this you
+
+vote for this if you decide it's just a
+
+commit and git
+
+uh
+
+okay so just a comment it doesn't
+
+it's just a commit so it's uh it's
+
+actually yeah you just you just create
+
+that commit
+
+there is a metric one metric is it
+
+should be f dao
+
+so
+
+okay
+
+f dao means
+
+a fair dial protocol
+
+and that
+
+we have a slide for that i think
+
+so far protocol is is very simple
+
+protocol it basically says that
+
+all the revenues
+
+that the token captures doesn't matter
+
+whatever revenues there are
+
+and again
+
+if you are an open source repository
+
+let's say and you
+
+have some revenue generated on chain for
+
+example you sell some services around
+
+your repository or something
+
+right um and you sell it
+
+on gosh
+
+and we will discuss i can we will
+
+discuss later when we discuss shell
+
+how you can actually sell it like you
+
+sell today
+
+your services via whatever credit card
+
+so
+
+let's say you sell some services on
+
+on gosh
+
+and
+
+this this
+
+the payment
+
+uh
+
+which is the payment in token
+
+in any token can be shell it can be
+
+anything else
+
+should arrive into some smart contract
+
+which is called efdow reserve
+
+and the efda reserve
+
+it the only way to get this talking out
+
+of the reserve is to sell
+
+some
+
+tokens of your repository some your dow
+
+tokens your project dial tokens
+
+towards this reserve
+
+right so we burn
+
+to burn yeah you burn tokens in the
+
+reserve in exchange you get the
+
+proportional amount of the whatever
+
+accumulated revenues there is in this
+
+contract
+
+this is very interesting dynamic
+
+which basically provides the constantly
+
+rising
+
+if you continue if a repository continue
+
+to sell some services it will constantly
+
+the the reserve
+
+uh
+
+the amount of tokens in reserve the
+
+value in reserve will constantly rise
+
+and because it will never fall because
+
+when you burn tokens so proportionally
+
+to every token it will rise doesn't
+
+matter if you sell
+
+if someone sells or not
+
+right very interesting so so all the
+
+liquidity is going to be uh so basically
+
+everything um backs it's let's say it's
+
+the it's the heart rates that doesn't
+
+realize that change all the tokens are
+
+going to be listed there
+
+you can decide
+
+not all of them
+
+if you're talking as follows the revenue
+
+model of fair dao then you're
+
+automatically
+
+like in enables listing and the only
+
+thing that the only thing that you need
+
+to do
+
+to list apart from ref dao is to have
+
+certain amount of liquidity
+
+and that's exactly so you basically
+
+create commit
+
+in the gex repository
+
+with your talking listing
+
+and the the repository will check
+
+automatically if that's fare down
+
+and if it's fair now it will immediately
+
+create a notification to all lv gosh
+
+talking holders that you can
+
+actually vote for it will start a voting
+
+period
+
+for this
+
+uh you know talking holder salvy gorsh
+
+talking holes to vote for providing
+
+liquidity or not and if they pass the
+
+threshold of this liquidity then it the
+
+token will automatically list my
+
+curiosity everything is going to be
+
+already automatically so if we see that
+
+the project repository
+
+is having a
+
+fair doubt they're having
+
+they're getting uh
+
+things done they're they're selling
+
+right they're selling their service
+
+so automatically as you said all the
+
+holder of the lb gosh token will be
+
+notified so it's everything is going to
+
+be in the system built in already
+
+so it's yeah because because the lv the
+
+lv gosh talk and holders
+
+they have notification they are
+
+automatically subscribed to the
+
+notification of the gosh repository and
+
+gex repository
+
+so
+
+when when the gex
+
+submits the project it commits its
+
+project basically to gex repository
+
+and
+
+uh when it when it's done then everyone
+
+the voting starts automatically
+
+okay interesting so the voting through
+
+soft cooperative voting mechanism right
+
+that we
+
+yeah we will not discuss it today but um
+
+so we can discuss it we can discuss it
+
+very briefly
+
+we can go yes please self-copy rating
+
+voting is is a special mechanism
+
+where every token holder vote for the
+
+project
+
+but um they participate proportionally
+
+to their holding so if it passes
+
+threshold then everyone will commit
+
+the percentage of their holding
+
+into the amount that was voted for
+
+so
+
+if you have if if the if the suv
+
+uh voting was for i don't know
+
+providing liquidity
+
+in the range of hundred thousand for
+
+example
+
+uh gosh tokens actually shells because
+
+that's the pair is shell against uh
+
+against the project talking in this
+
+hundred thousand shells and you have a
+
+hundred thousand participants
+
+which which you know has i don't know
+
+equal amount of tokens they will all
+
+contribute one token
+
+one gosh
+
+sorry one shell
+
+two
+
+to the to the liquidity pair
+
+doesn't matter if some of them voted or
+
+not if the decision collective decision
+
+was such that we allow that
+
+and the collective decision reached the
+
+threshold of hundred thousand for
+
+example tokens then everyone will
+
+automatically commit their token
+
+proportional token holding into this
+
+liquidity
+
+did you decide to make this a particular
+
+model uh what are the benefits because
+
+because this is the model which allows
+
+for
+
+a
+
+decentralized cooperation
+
+uh where not every participant need to
+
+participate
+
+because it it provides its answers the
+
+question how much
+
+it's it's a quantitative decision you
+
+can today there are no
+
+sorry
+
+um
+
+today
+
+there is no voting mechanism
+
+you can vote yes or no you can reach
+
+some decision yes or no but
+
+you cannot reach decision how much
+
+the quantitative decision there is no
+
+mechanism we know
+
+that can reach quantitative decision and
+
+soft cooperative voting it's based on
+
+the work that i did with unrelation
+
+uh
+
+that um
+
+that is providing the answer to the
+
+question how much so if we want to
+
+decide we're a fund
+
+we okay so we want to invest we can
+
+easily create a voting and and say okay
+
+do we want to invest in this project
+
+right but then we need to ask how much
+
+we want to invest in this project so we
+
+can of course ask the question do we
+
+want to invest one million in this
+
+project but let's say what about one
+
+million and five
+
+so do we need additional voting to to
+
+ask a question do we want to invest one
+
+million and five
+
+and so on and so on so it's it's
+
+basically just there was no mechanism
+
+right to exactly answer the question how
+
+much the sm suv
+
+protocol allows us to
+
+not only vote for do we want to invest
+
+but also do we how how much do we want
+
+to invest
+
+that's easy soft cup rating food and
+
+guess what is for quantitative decisions
+
+on how much how how many and so on and
+
+so forth when we don't know
+
+when we have some quantity of something
+
+we don't know what is the quantity that
+
+we want to provide
+
+so if majority voting is for binary
+
+decisions yes or no but
+
+with it with it with a twist
+
+it it solves for
+
+um participation problem we know that
+
+suv also sort of soft say
+
+solves for participation problem
+
+because again in both of them are
+
+solving for participation problem for
+
+different uh
+
+so what is the problem of participation
+
+a lot of people just don't want to vote
+
+they never vote
+
+on anything they're passive and we know
+
+that like
+
+the turnaround of any voting any public
+
+voting is very low as we know and the
+
+the more stable the economy the the less
+
+people participate right we know that
+
+problem
+
+so in soft majority voting
+
+there is a mechanism which allows
+
+to reach if there is a majority like
+
+overwhelming majority
+
+of 10 percent of votes
+
+let's say if 10 of votes
+
+everyone says yes then we just say if
+
+the decision is reached
+
+okay so ten percent participated there
+
+is a tragic right
+
+there it's moving threshold so ten
+
+percent participated ninety percent
+
+didn't participate but ten percent
+
+said yes all of them
+
+it's it's a yes but if one vote
+
+said no
+
+then
+
+we need to wait for more votes
+
+and
+
+right and it self-regulates itself until
+
+it reaches if there is for every yes
+
+vote there is a no vote then we have a
+
+problem here right we cannot decide
+
+there is no majority super majority
+
+then
+
+we need to
+
+basically this will the threshold will
+
+go will rise to 50
+
+and then the 51 percent will decide
+
+like a normal voting but that's not what
+
+usually happens what usually happens is
+
+usually like decision is overwhelmingly
+
+supported or overwhelmingly
+
+not supported
+
+so if there is
+
+uh overwhelming support we don't need to
+
+wait for 51 to reach that decision
+
+because statistically actually it is
+
+almost impossible that 10 of votes said
+
+yes no one said no
+
+but if we will continue voting
+
+there will be like suddenly majority
+
+that will say no it will change just
+
+that's that won't happen okay
+
+so that's the mechanism this mechanism
+
+allows for active participants if they
+
+agree to reach the decision faster
+
+without waiting for everyone else if
+
+they don't disagree then they still will
+
+need to for everyone else to vote until
+
+the point where if it's 50 50 by the end
+
+then the one will will decide
+
+the last low
+
+very interesting so so we are talking
+
+about some majority vote uh voting so
+
+basically soft majority voting uh who
+
+will vote i'm just uh
+
+[Music]
+
+smv
+
+for the decisions of the governance of
+
+the gosh repository the gauche network
+
+or
+
+you can stake it and provide liquidity
+
+with that
+
+on a cv so there is just one or another
+
+no you can undo both
+
+okay so each dow repository
+
+has its own token which voting mechanism
+
+do we use here
+
+smb like like you do on gosh so it's
+
+it's everything is the same every
+
+repository by default of course i mean
+
+you can create your own
+
+whatever
+
+or token if you want but
+
+by default uh when repository spawned
+
+you you it creates dao with the tokens
+
+and the token mechanism voting mechanism
+
+is s smd like like you have on gosh
+
+repository same thing
+
+so everyone votes for the smb it's the
+
+most convenient way
+
+because again not everyone needs to
+
+vote
+
+okay
+
+okay so um
+
+coming back to validators as we know
+
+that
+
+they don't get the transaction fees so
+
+where these transaction fees are
+
+actually going
+
+okay
+
+so transactions fees
+
+are paid in shell
+
+so the the the actual
+
+so the actual basic token of the network
+
+is shell talking and obviously
+
+the reason why is because we want people
+
+to
+
+uh you know to make more transactions
+
+into so we want to encourage the
+
+the payment of the gas fees and for that
+
+as we said before we need this token to
+
+lose value not to raise
+
+so that's why we use shell for this
+
+okay so
+
+everyone who wants to
+
+use
+
+gosh
+
+if they pay they will pay in shell for
+
+transaction fees
+
+but as we said in the beginning
+
+we want to allow some free
+
+usage
+
+of the repository
+
+so every every token is
+
+every repository has its own token smb
+
+smv mechanism was used for governance of
+
+this repository then we talked about
+
+shell token and the transaction fees
+
+transaction fees
+
+are paid in shell because we want to
+
+encourage people to transact more and
+
+for that we want the token that they pay
+
+for transaction fees to lose value and
+
+that is show
+
+um but we also want people not to pay
+
+fees
+
+so how do we do that
+
+because remember we started from this
+
+and we went full cycle now
+
+so we need to protect against spam
+
+remember right
+
+and
+
+this was unsolvable up until now
+
+we created something called
+
+free service area and the free service
+
+area
+
+is
+
+the area where if the smart contract is
+
+placed in this area
+
+this smart contract
+
+uh can transact
+
+with in other smart contracts in the
+
+free service area only
+
+for free without fees
+
+now there are limits to this
+
+like in every
+
+think of like
+
+in in aws
+
+the
+
+the server that you buy for free
+
+you take for free you start for free has
+
+limits
+
+you cannot scale to a million customers
+
+in in fire base you have some limits on
+
+how many queries you can you know make
+
+or writes you can do to the database
+
+so we will have the same limits
+
+so basically you have some limits that
+
+these contracts are operating on
+
+beyond that limits you need to pay fees
+
+yeah to use the service which is i think
+
+exactly what what is expected from such
+
+service
+
+but before that limit
+
+you can spend as much you want and you
+
+can create as many accounts free
+
+accounts as you want of course
+
+like
+
+um
+
+and but you cannot extract the value out
+
+of it
+
+basically
+
+if you just create these accounts to
+
+um
+
+you cannot game the system meaning that
+
+you won't be able to
+
+take out the value that is provided in
+
+the free service area
+
+out to your wallet and benefit from it
+
+so this is this is the idea
+
+and then and and but it also exactly
+
+well fortunately unfortunately
+
+yeah but there is one
+
+more benefit
+
+in having the free service area enabled
+
+and this is a very interesting one
+
+because you cannot transit you cannot
+
+extract because you cannot extract value
+
+out of these tokens in free service area
+
+these tokens immediately become
+
+completely utility token
+
+like just think about that
+
+there is no speculation here
+
+in this area so when this token is
+
+within this area
+
+it actually pure utility token
+
+and as a pure utility token it can be
+
+used solely
+
+as the unit of account
+
+right
+
+it it doesn't it does it it doesn't
+
+store value
+
+and it doesn't use it used as a as a
+
+is a value exchange
+
+so it's not a payment system anymore and
+
+it's not an investment system anymore
+
+it's just a unit of account
+
+now the unit of account
+
+allows you
+
+to actually
+
+transact with
+
+the
+
+fiat world
+
+because remember in fiat world like if
+
+you want to
+
+transact with dollars
+
+you
+
+cannot have
+
+the speculative part
+
+which is the investment part and you
+
+cannot have
+
+the like payment part the money part
+
+because then if you have them then the
+
+regulator
+
+will tell you wait wait this is
+
+cryptocurrency
+
+and if you have a cryptocurrency in
+
+order to connect the cryptocurrency with
+
+the fiat world you will need to pass
+
+through the whole
+
+bananza
+
+of
+
+right of the aml kyc what not
+
+which makes it absolutely impossible
+
+basically to use it
+
+if you are not a financial institution
+
+but
+
+if we take that out
+
+we can say it's a utility token meaning
+
+it is not cryptocurrency anymore
+
+when the token passed to this area
+
+it becomes utility token not
+
+cryptocurrency and that allows it to
+
+immediately be connected to any payment
+
+gateway and you don't need any kyc ml
+
+so if you want to take money
+
+from your customers in a normal way
+
+through like accepting for example uh
+
+you know credit card debit card
+
+you can immediately do that
+
+and we actually have the payment gateway
+
+built into the free service area so if
+
+you want to collect money for your
+
+repository like for example
+
+i don't know donations or or anything
+
+like that for for the someone to use
+
+that uses your repository or you want to
+
+you know your customers to pay for
+
+services that you provide
+
+you can issue invoices and get the
+
+payments through this payment gateway to
+
+the um to the free service area
+
+well it's quite convenient then you
+
+don't have to
+
+buy like um you don't have to do that
+
+extra
+
+uh thing like to buy like uh
+
+tokens to pay and so on so yeah exactly
+
+just that directly use your credit card
+
+exactly and you don't know it doesn't
+
+matter how much you pay and you don't
+
+need to aml kyc services
+
+and also that's something that's already
+
+been structured into so i mean
+
+developers usually do pay with their
+
+credit cards if it's uh
+
+for example it's it's
+
+their business let's say credit card
+
+right so quite convenient yeah
+
+shall we sum up shall we open up the
+
+whole scheme of tokenomics if you can
+
+show it on your screen and just go
+
+briefly
+
+you can
+
+but we will see it anyway yeah
+
+yeah i i don't have actually this camera
+
+because it's it's really big it's
+
+actually if you take all everything that
+
+we you can see probably on your screen
+
+now if you if you can take everything we
+
+discussed today all the pieces of this
+
+stock economics it's quite complex
+
+picture but if you take it one by one
+
+right it's it's a it's a subsystems of
+
+the whole system
+
+which make kind of a total
+
+closed system
+
+of the subsystems but each of the
+
+subsystems make sense i think
+
+in each other
+
+different purpose like an engine
+
+right so very interesting
+
+i think what we didn't discuss actually
+
+today is only one thing and that's the
+
+numbers
+
+i think that maybe right yeah so i can
+
+go over this very quickly so the total
+
+supply of wash tokens
+
+is 100 million
+
+okay total amount
+
+ever be minted
+
+and
+
+it may go lower than that actually if
+
+for example for some reason like
+
+some some validators will will be less
+
+validators within this five years i
+
+don't know why but
+
+theoretically it could go down because
+
+it's always up to a certain number
+
+so
+
+then there is like
+
+67 million of these gosh tokens will go
+
+to
+
+towards the development of the network
+
+and research
+
+and of the gauche product at the whole
+
+ecosystem
+
+in general
+
+and uh
+
+of course
+
+then 11 million as we said will go to
+
+the um
+
+boost boost
+
+program
+
+yeah and then of course there are some
+
+some tokens that will go into in and be
+
+sold to people who would like to provide
+
+support for gore's project
+
+um
+
+you know and or validators that want to
+
+validate or just people who want to
+
+participate
+
+right
+
+well of course it will going to be
+
+listed on the axes exactly the same
+
+mechanism as was described today so gosh
+
+is just another repository on gosh
+
+because as such it has a dao and his
+
+token in this token by the decision of
+
+the dao which is not yet reached of
+
+course but we will be able to whoever
+
+has got tokens be able to vote for this
+
+uh can be listed on gigs and then the
+
+validators would be able to provide
+
+liquidity
+
+okay
+
+so shall we discuss the pricing on gosh
+
+maybe it's interesting as well for those
+
+developers who are watching us today
+
+well the pricing is is of course
+
+something which with the prices
+
+right now it's in the private kind of
+
+round of financing and uh if the price
+
+is around three dollars per token
+
+currently
+
+um it then if it will be listed then the
+
+the price will be determined by the
+
+by obviously by the market
+
+it is important to mention that
+
+the 67 million that i have said
+
+when it goes to ecosystem development
+
+and everything
+
+it actually is not released
+
+at any given moment
+
+like even if it's issued to some
+
+developers for example it will go
+
+towards like a vesting scheme which is a
+
+five years vesting skin
+
+which will be released slowly so
+
+the available tokens on the market will
+
+be always like
+
+thin and
+
+the amount of this tokens will grow very
+
+slowly over five years
+
+so um
+
+again
+
+until the ecosystem balances
+
+and it balances when
+
+like we have remember that the last
+
+stock invested
+
+will be also the last token issued ever
+
+and that
+
+will balance the price because again we
+
+want the token to rise in value because
+
+it's a it's a value storing token and
+
+because we want people to participate in
+
+the ecosystem as we said before you need
+
+to vote for the repositories you need to
+
+provide liquidity so we need you to hold
+
+this tokens
+
+and in order to do that
+
+obviously the token expectations of
+
+price should be that it will capture
+
+value over time so it will rise over
+
+time and we and in order not to create
+
+over supply on the market in on any
+
+point even when we meet the talk and
+
+then give the talking to developers for
+
+their kind of participation ecosystem
+
+for example if they commit their
+
+committees accepted to the gosh
+
+repository they get some tokens
+
+and so but these tokens are still vested
+
+over a long period of time five years
+
+and uh and released you know
+
+slowly
+
+so this
+
+just coming back to uh gosh in general
+
+revenue
+
+model is it a real
+
+working revenue model so because as we
+
+know
+
+today on blockchain we do have probably
+
+not even one project that has a real
+
+uh revenue model let's say that
+
+does give a service let's call it
+
+we believe that gouache is the only
+
+actually
+
+real product on the blockchain on any
+
+blockchain today because the rest of the
+
+blockchain products are either either
+
+token
+
+sale icos
+
+or um like the
+
+defy
+
+on the financial services on top of that
+
+there are almost no use case
+
+uh real use case for blockchain we
+
+believe that gosh is the the largest use
+
+case up to date
+
+to the blockchain in general so as such
+
+it does have you know intrinsic value
+
+in in the in the token itself and the
+
+prop because that has a product now in
+
+terms of pricing for the gauche itself
+
+for the gauche products it's very simple
+
+um and we just follow again this
+
+the business model of any cloud
+
+uh git cloud providing for example right
+
+so we have the free uh
+
+free part of the service as we said like
+
+the unlimited repositories the unlimited
+
+users in this repositories the the dao
+
+itself and so on the ci cd
+
+basics for ci cd on on on gosh
+
+and so on
+
+and then
+
+you have the
+
+like subscription 15 a month
+
+subscription which
+
+includes
+
+some services where for example you
+
+store like store large files
+
+like more than 10
+
+gigabyte of storage in the in your
+
+repository some advanced management
+
+tools some some other other features
+
+that you might want to use or you just
+
+go over crazy over limit with the amount
+
+of users
+
+you have in in your repository for
+
+writing like right right users
+
+um
+
+is it a competitive price
+
+it is a competitive price it is exactly
+
+right like any other yeah it is exactly
+
+like any other
+
+kit on git cloud
+
+you know cost today gitlab or github
+
+they all charge more or less the same
+
+amount
+
+i see great thank you
+
+thank you
+
+ghost thank you
+
+yes
+
+yes yeah and again let's let's let's
+
+we're talking in other
+
+time about why to choose gosh here yeah
+
+stream is right and only about like
+
+talking amongst how gosh works
+
+economically
+
+yeah we do have another questions
+
+that we wanted to discuss for example
+
+next time we can go through gosh
+
+features for developers why what
+
+projects
+
+can come on gosh why
+
+developers
+
+likely want to choose gosh instead of
+
+any other git hosting platform because
+
+there are very interesting points that
+
+makes gosh unique and
+
+you know like
+
+so we will have another stream on 24th
+
+right with um some interest yeah
+
+yes yeah
+
+we do have a stream on twenty four we're
+
+gonna talk more yeah about the
+
+gosh itself
+
+about gosh
+
+yeah gosh product and gosh blockchain in
+
+general today we covered tokenomics
+
+thank you everybody for watching thank
+
+you for joining us today so sorry thank
+
+you
+
