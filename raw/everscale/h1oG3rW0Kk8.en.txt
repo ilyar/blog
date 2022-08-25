@@ -1,0 +1,1096 @@
+there we go a couple more
+[Music]
+just one more minute normally we have a
+few more people
+yes it should remind
+waiting for my new one unfortunately the
+guy that could get it to me is uh
+is on a plane
+all right well um we're live so i guess
+anyone joining us a little
+late um we'll be able to watch us on
+youtube so
+let's um let's get started uh hi welcome
+to everscale community call number 98.
+so we're
+two away from the big one hundo the big
+one zero zero wow it's uh
+interesting uh
+been a long time been uh been a lot of
+ups and downs and at the end you know
+we're pushing right through everything
+so many new use cases so many new things
+going on
+just
+excited i guess a little bit um
+uh welcome uh we're gonna have only uh
+basically uh two new presentations today
+but the both of them are pretty pretty
+darn cool um so the call should go
+pretty swiftly we have a presentation
+for ever rangers
+we have a presentation for
+uh everscale poker tournaments
+so yeah i mean interesting stuff uh but
+before we get to that i'm gonna go ahead
+and uh annoy everybody like i usually do
+at the beginning and uh be repetitive
+and a broken record and just sort of go
+through the tidbits of call etiquette
+uh please uh
+uh
+turn your cameras on unless you know
+you're waiting for a proctologist to put
+on his glove or something like that
+uh
+uh please save your questions reminds
+right
+when you're over 40 buddy you got to do
+it
+uh
+please uh save your questions until each
+presenter is finished with their
+presentation uh use the raise your hand
+feature in zoom i beg of you please uh
+if you're one of our beloved youtube
+guests there's a comment section you can
+write your questions in there we'll get
+to them at the very end of the call
+and uh of course as always the call is
+conducted in english so let's begin with
+uh mita like we always do for the latest
+technical information so meet you if
+you're ready
+please
+dear me today yes hi
+yes um
+yeah okay so um
+for the technical stuff so where um
+some of you may kind of uh feel
+the pain of the
+the devnet
+and
+so we have a unstable
+devnet currently
+and that's because
+someone
+wrote a very interesting contract
+which
+which is doing some nasty nasty things
+to the network and
+that allows us to
+to debug certain certain things
+that we didn't think we will need to
+right now
+so um
+so we're doing that and um
+like
+this is on top of the patches that we
+planned to
+and deployed there so we deployed
+patches that we need to test in order to
+upgrade mainnet
+we've
+then we've we kind of faced this problem
+with the with the
+contracts and some contracts on the
+devnet
+started to fix this
+so
+created more instability the network
+halted today
+during our tests
+for some 20 minutes or something
+um we've been able to restore it
+and we'll continue to
+apply certain patches
+um it's a it's a general like these
+things are
+[Music]
+kind of
+deficiencies in the original
+architecture
+that
+just
+just uh weren't yet fixed and
+they're they're
+located at the edges of the
+uh
+of the platform
+like very deep
+uh kind of for example very deep uh
+trees
+sell trees and so on
+um
+and that that imposed some limits on the
+on the block collation
+uh which fails and so on and so um
+with
+it's hard things to think to fix because
+it is um
+usually like this kind of changes should
+be
+structurally
+planned ahead
+but because it happens right now we
+cannot plan ahead so we have to fix it
+now and that's what we are doing
+but it's kind of hectic a little bit
+so
+that's basically it it delays our plans
+on main net upgrade because of this
+because we cannot test properly without
+fixing the devnet first
+so again this this cumulative patches
+switch up which a huge patch already
+by itself uh
+will be even larger
+now and obviously
+you know
+i'm kind of looking at it
+philosophically because sooner or later
+we would need to do that anyway
+but uh
+[Music]
+it never happened in real life like it
+never happens in the
+in the
+timing that you think you need it to
+happen right it's just events of real
+real life
+um so yeah so that's what we're doing
+and because of that because we couldn't
+update
+upgrade
+this the network in a planned fashion
+like we did the upgrades but we couldn't
+um patch them
+in time we're delaying the
+uh obviously the things that we had to
+do in the first quarter which is the
+decrease of fees
+the gas fees and uh because we cannot do
+that before we move to the to before we
+apply all the patches that we worked on
+so
+so once we do then then we will go and
+and deal with the gas fees
+so more or less that's the status
+uh there is a question i think ron posed
+me yeah
+dark rules something yeah i mean uh the
+question is basically and uh i had to
+paraphrase it so it's uh what's better
+you know i don't think you can answer
+that but uh what's better or what will
+be launched first uh is it going to be
+boosted staking or dark pools and then
+of course when and i think when they're
+talking about boost staking they're
+talking about version two i mean i can
+answer that when it's voted on but uh
+yeah i mean
+one's uh technically technically
+i don't think it's a question to me
+because uh
+dark foods and boosted sticking are not
+one or another dark pool is a technology
+booster staking is
+an outcome
+how do you achieve boosted staking it's
+another
+completely another question
+the dark pools
+as i said they are they already
+uh they have been the code has been
+published in kwpc
+uh repositories
+so if you want to use them
+you are welcome to do so
+um
+they have been like audited
+and
+apart from that
+you can also like they are interesting
+because you can see there
+that the codes in both um
+also solidity so like it's it's a more
+more strictly more
+verified language
+to start from
+[Music]
+which solidity was then translated too
+and um
+so yeah
+you can you can
+you can use this if you want
+and the governance can can use them if
+the government wants to
+and uh to
+you know to use them in any way or
+fashion and that will
+may include the boosted staking and you
+can stake in what what is what is uh
+dark pool is a you take
+something for for the period of certain
+years or whatever
+and then you have a grace period in
+which someone else like the governance
+can can put a
+second leg
+like put the boost into your
+stake
+that's it
+and so
+so you can
+you can use this contracts to to do
+whatever you want in terms of like
+farming or boosted whatever you call it
+but i know there are other boosted
+staking
+kind of contracts i have no idea how
+they done because i never it's not
+something that i did
+so no idea maybe there are other
+contracts that you can use for booster
+staking again the decision is
+like the governor's decision
+whatever
+program
+they want to launch when
+they
+bottom line the technical ability they
+have the technical ability to do it now
+the rest is like if if someone if from
+the governance will come and say
+like help us to launch a dark pool uh
+for that program we will gladly do that
+thank you okay i hope that answers your
+question whoever you were
+i wrote it in um are there any questions
+for me too
+okay
+all right let's move on to our next
+presenter who's none other than alexei
+darkwing
+uh he's here with us uh to talk about
+a project called ever rangers uh which
+is a
+quick and safe token exchange platform
+that's what i um that's what i was told
+i don't know much more about it uh i'm
+actually very interested in finding out
+more because
+because it was thrown at me just you
+know a week ago i looked at the landing
+page looks good but i want to know a lot
+more about it um the original i should
+mention the original presenter had a had
+a personal emergency literally uh 40
+minutes ago so
+what darkwing is going to do is sort of
+just go through the slides uh read the
+information uh you know answer any
+questions that he's capable of answering
+but for the most part i think that
+the the the team that developed it will
+actually
+uh be able to answer that at a later
+time if i'm not mistaken but yeah uh
+darkwing
+podiums george yep uh hello everybody uh
+can you hear me yes yes
+we can here
+uh so yes due to some family emergency
+uh the leader of this project alexey
+norwick cannot join us uh today that's
+why i will tell you more about
+everest
+scale terrace blockchain bridge
+so um this breach was
+uh oh yes you see my screen
+yes yes yes we do uh
+great uh so uh this project was created
+uh during the by the way
+sorry during the
+desert hackathon and
+uh so let's uh let me explain uh you
+so uh first of all why could users need
+debris
+uh
+for example users has token never skate
+status it's an organization that helps
+people in different hard situations to
+do this uh we need to exchange
+our tokens to test tokens and that's why
+we need bridge
+also users from both systems could be
+able to use services from both systems
+buy sell games and so on
+another and i think one of the important
+thing it's dex that because on everscale
+side there is unique distributex which
+is called flex ever serve
+and to use these drugs user users need
+uh every scale tokens
+go to the next slide
+uh there are four possible approaches to
+to do it since life exchanges but we
+need kyc and so on and so on
+using
+existing taxes like we can
+uh
+exchange ever i mean yeah a swap ever to
+ethereum then from theorem to tennis
+also we can use breach with consensus
+based approach between participants who
+run the briefs affair and locked certain
+amounts of funds as insurance in case of
+malicious attempts and slashing in case
+of proud uh it's not um
+it's also good but a high fee
+and uh transaction limit based on funds
+of participants of the pitch and another
+way actually
+which is this way it's atomic spa
+base bridge
+it's complex but it's
+very
+effective
+so uh the algorithm of this bridge that
+uh of this bridge that user
+with everscale wallet uh sends some
+funds to hash time log contract
+then with hourly
+uh
+these funds um
+this relay communicate with
+teres bridge multisig
+and using
+hashtag lock contract
+based on teddos
+we uh transfer the funds from the user
+uh i mean we transfer his funds to our
+wallet and in exchange he get uh funds
+from
+from the bridge
+so our killer features
+bridge software won't receive user
+tokens
+before the user receives tokens on the
+other side of the bridge
+two options for bridge implementation
+yes
+now breach is implemented in two
+languages typescript and rust
+it's good protection from bugs in the
+software and yes it's convenient for
+participants i mean breach operators by
+the way bridge apparatus it's uh
+users
+which lock some funds and become yes
+bridge operators they are here
+uh and each version of the function
+bridge software is a multi-sea custodian
+yes it's very uh interesting thing that
+we have two multisig
+uh
+in our scale and intestines which we use
+to
+submit and verify transactions from the
+users
+uh
+yes
+it prevents us from some hacks some
+failures of one of the servers
+and it won't affect system
+performance
+uh bridge features it
+that solve bridge features uh first we
+can exchange test talk and to wrap test
+tokens we can exchange any tesla's token
+to wrap talking to never scale network
+and uh on the other way you can exchange
+ever to wrap tower and any error scale
+token to telescope
+yep it's user friendly easy to use and
+what is more important at mix web-based
+uh more security
+and
+more securities and open source
+uh some difficult difficulties that we
+encountered
+while implementing the project uh one of
+the little problem that
+there is no way to attach additional
+information with a valid address
+uh in every scale to transaction in
+tests
+i mean that in our scale we have
+messages we have payload we can attach
+some text and so on in this payload in
+tethers actually they don't have such i
+don't know predigma
+default
+contracts that's why we need to use uh
+two transactions in the batch but it's
+uh
+but it's about uh for example we're on
+uh one batch and it will do
+two operations two transactions and so
+on
+so what is done now uh two variants of
+the off chain relay software actually as
+i mentioned before
+script and rust uh front and uh mvp
+front end and the b uh which be which
+will be later announced in the chats of
+everscale and now we are on the stage of
+testing
+checking everything and so on
+uh htlc contract on every scale and by
+the way now i think on teslas too
+um
+yeah because uh this presentation was
+prepared to the hackathon as i mentioned
+before and at this time we don't have a
+hoc contract on tedx now
+uh roadmap uh
+yeah by the way it's a team of this
+project and what is more important this
+team was uh created fully
+during their hackathon uh so now we have
+some users which are involved in every
+scale in developing another scale and
+so on
+so roadmap of this project is
+eliquidity to support existing tokens
+it's about 63 tokens in terms of and a
+lot of tokens never scale
+implement dow to decisions to some
+decisions like add new bridge
+update software and so on integrate with
+x integrate to
+web plus
+and
+integrate with
+service providers so i'll be links for
+testing and so on so they will be
+officially published and by the way
+too
+and yes it's ever scale test breach
+based on a
+atomic swap
+paradigm
+something like this
+thank you very much is that it
+yep
+okay all right very good uh there were a
+couple minute moments so that your
+internet went
+heyware but that's that's okay it was a
+very good presentation thank you very
+much for that
+uh we have
+no that day
+you know that it happens we have uh
+several questions so first uh ben
+please
+a uh very simple question for you buddy
+um how
+soon do you think it will be before a uh
+a plebian user such as myself will be
+able to use this
+i guess uh in a week
+this week or maybe the start of the next
+week
+will be
+yes it's a heck of a lot better than
+soon
+yes it's very i don't i don't like uh
+the word soon but yes very
+really very very soon uh in a week
+okay we have another question from
+paddle title please
+yes uh thank you for your presentation
+uh actually i didn't
+get
+the point so you said that there are no
+hlc contract in texas but
+you plan to launch this project
+uh yes uh i will make this moment clear
+uh when we prepare this
+uh presentation uh it was created by the
+end of texas a hackathon we don't have
+yes uh this contract but now we have and
+yes the uh breach can be run only with
+uh two uh htlc contracts
+yes
+okay uh another question that relay
+uh is it
+some
+[Music]
+open source software which everybody can
+run or how yes how can i
+okay
+but i can i can become a relay without
+trains staking tokens it is just
+anyone can run
+is it correct
+i'm not sure about the
+sum of tokens about
+which are needed to run uh your bridge
+yes i can say for sure that everyone can
+run the bridge and
+it's open source and will be open source
+about their sum of tokens which may be
+needed to be locked uh by uh
+this bridge operator uh
+better to
+better maybe to to to ask alfalfa galaxy
+yes
+in that respect i see that there are no
+consensus so any relay can confirm any
+operation
+um
+no
+okay
+no no
+we have uh
+if i understand the right we have
+multisig and uh
+bridge operators uh all bridge operators
+they uh when they become rich operators
+they become custodians of these uh
+custodians of this multistick so to
+perform some operations we need for
+example
+we have 12 breach operators so it's 12
+custodians
+that means that to
+submit
+some
+transaction we need uh
+seven signs or eight signs
+to be honest
+don't remember
+about this
+number i mean of
+science so to perform some operations we
+need to
+to reach these consensus and
+for example have
+paid signs
+for
+operation
+it's very strange
+we mean that
+you mean you need a number of science
+signatures to initiate
+transaction but once it is initiated on
+one chain then on another chain
+it should be
+executed automatically
+because again it uh what you said it
+it's a bit contradicts to the con
+concept of httlc because you need only
+one secrets to release as shall see
+to trees balance from hdlc
+maybe
+because don't uh don't want to share
+some wrong information and alex say he's
+the
+architect
+of all this uh of always preach
+maybe tibet asked him not to just
+share the wrong information maybe i
+missed something because i don't know
+um 12.
+you know i i think alexey novikov should
+know
+yeah but at the same time it's not clear
+from the picture uh why you need to send
+network information to
+uh british multisig uh because the idea
+is that that token should be
+collected all right oh it's it's not
+exchanged
+so it's not exchange it's not exchange
+present to users it is the
+exchange between uh bridge
+bridge liquidity provider and uh user
+wanted i think that's that's the point
+yeah
+so so yes for bridge so uh bridge
+operators they act as liquidity
+providers for
+actual transfers
+radio
+okay that makes sense
+yep
+okay thank you for your question thank
+you for the answer and i i think you
+know if uh more clarity is needed then
+we'll have we'll have uh alex anovakov
+answer that um
+uh
+normally we go to youtube at the end but
+um there are two specific questions uh
+the first is uh is there a is there a
+demo
+for
+ever rangers
+uh
+as i said demo will be shared
+very
+very very soon
+and then once we have them actually but
+don't forget
+what
+sorry
+we were you still speaking i apologize
+okay no no no no no uh that will be
+uh
+yes
+demo will be shared in
+some days in few days one two three
+uh very very soon
+i mean the link for the demo because we
+have deleted because we have the link
+for them
+but i don't finish cherry
+okay and the second question is is is
+the code open source be interesting to
+see
+yes it's open source and will be
+will be
+uh
+will be show to everybody yes it's open
+source
+okay and
+it can be seen now or or will in a
+matter of days or
+or weeks
+is it
+open now
+yes just a few days really just few two
+days it's open now by the way but
+i mean we will uh
+team will share the link in a few days i
+mean the link to find it
+if you're lucky you can try to find it
+now because it's open source right now
+but
+some days some days sure sure yeah sure
+okay
+uh alexi thank you very much uh i don't
+think we have any more questions so
+let's move on to our next presenter um
+that's gonna be uh kirill cyril i'm
+gonna say karil because
+okay
+uh from poker ton which i hope
+very soon will be rebranded into
+something a little bit more ever scalish
+um i think we we talked about that but
+you know it's up to you guys uh anyway
+um he's here to talk about several uh
+tournament announcements uh including
+the fire cube
+series in poker so if you're a poker fan
+like i am
+uh this is for you so kirill
+please go ahead
+greetings everyone
+i'll be brief
+pokertown has prepared of series of
+special tournaments
+called fire cube series
+which will be held on april at pokertown
+the prize fund of all
+tournament series is
+500k cube tokens
+cube yeah
+in the end of the series we will send
+all cube tokens to winners
+to
+enter tournaments you need to start
+poker on board
+and then
+full-fledged application will be opened
+and you need only to find a tournament
+section and find
+um
+some fire cube
+tournaments uh for example we have some
+free rolls for example you know not
+needs no need to
+pay any buy-in you
+but the price pool in this free rows
+only one cube
+if you want to win for example 25 cubes
+you can enter
+on 10th april firecube
+and pay you need to pay 25 ever
+um yes you need uh
+talk ever tokens two and ten ever it
+says
+ah ten hours yeah yeah sorry 10 hours
+yes uh buying 10 hours and you can win
+25 hours uh for example
+um
+yes
+soon we will
+publish a full uh
+scheduled of tournament series and you
+can find this schedule on poker tone
+telegram channels
+if you have any questions you can ask on
+uh pocket on chats
+and uh
+you
+and we will answer
+yes as we see cube token has a high
+demand and low supply and many people
+want to buy it on pre-sale
+and we as poker ton give opportunity to
+win tokens through playing poker uh i
+think it's cool mechanic uh it's like uh
+for its form
+of play to earn mechanic play poker on
+ever or for free and win
+tokens
+i think it's cool mechanic
+[Music]
+please join us and try to win some cube
+if you
+don't enter on
+a pre-sale on everstart for example i
+personally
+have some small small allocation of
+tokens
+cube tokens
+uh and little reminder about poker tone
+one minute
+uh
+attracting new users to every scale
+network is a part of our mission uh it's
+our main mission
+and we have been the first ever scale
+partners from the start of every scale
+network
+launch we host first tournament that's
+seven days after the everscale mainnet
+launch
+and also
+we will continue promoting um
+by adding cube or zoom token and other
+partners project tokens as prizes in
+pokertown tournaments
+ron if you want we can promoting
+tokens of
+i forgot
+i forgot naming
+ever
+ever ever no no not ever
+no no cube um not cube i forgot um
+sorry
+yes
+yes yes you can give you can give small
+allocation to pocket on and we can
+create tournament series uh
+but after cube and after soon token guys
+we can host tournament series and why
+[Laughter]
+also we can
+do it together because i don't want to
+mix
+i want to
+i think that great to focus
+first cube series and other series only
+one series per
+day yeah
+and we have posted a report about pocket
+on performance on you can find an
+acquainted with our report
+in the forum
+we have uh half million users in total
+almost two hundred and
+on chains wallet
+um
+yes
+that's 230 000.
+okay yes i forgot k
+that's all i want to say
+please join fire cube series if you have
+any questions so you can ask in charts
+and our admins will help you
+thank you for your attention
+and thank you kirill
+that's wonderful very interesting
+fantastic so everybody who wants to join
+join do it no
+personally ask you to go and do it
+unless you hate poker and then learn how
+to play and do it
+thank you carol appreciate it
+okay um yeah uh so let's move on to our
+last segment um
+hang on
+i always come up with these silly
+silly quotes
+i look forward to them every week ron
+i'm sure you do you stay up nights
+wondering what ron's going to come up
+with and it's so hilariously funny that
+even i can't laugh at him
+so as always
+uh here comes our quick shot curly fry
+that's you
+aspiring musician word magician and
+community statistician on an information
+mission then
+yes
+that's your best one so far i like that
+curly really i thought that was the
+worst one all right but okay i might
+change my uh twitter handle now bro
+blushy blush all right
+brilliant okay so bits this week i've
+got loads to get through so uh
+let's start with uh content
+um we've had some content coming out in
+the form of ever kits nikita did a
+really cool interview
+uh we've had an article about nfts on
+ever how to make your own mnfts going
+through grand bazaar and a few other
+processes
+uh there's been a really cool article
+come out about grants and the scouting
+grants program and uh also a couple more
+on that note so again if you've not read
+them if you've not shared them you know
+if they're on medium you can go on you
+just hold the button and do some claps
+and it helps the visibility yeah really
+really helps the words
+okay so uh we've had some video content
+apart from never mind the coins of
+course
+uh there's been a bunch of summaries of
+the weekly meetings going out on the uh
+well the channel you're watching now if
+you're on youtube hi youtube
+uh there's also a bunch of really
+helpful videos going out on the surf
+youtube channel as well
+uh on the note of the cube token uh
+that's been really interesting hasn't it
+they indeed as you might have seen in on
+kirill's screen there uh five times
+their own hard cap in the pre-sale so
+demand was huge there really
+and i believe they also burnt all the
+ever from the transaction fees
+from that token sale so that's pretty
+cool really isn't it a little bit of
+burn
+uh
+still on the note of brocktus uh the
+bridge
+the octa-octus bridge is now even easier
+to use they've kind of streamlined the
+processes over there and they've also
+had the fourth part of the bridge token
+air drop so if if you hold bridge token
+and you know you've been holding go go
+collect that why not you know free money
+uh
+there was
+not such good news a couple of issues uh
+this week which should be noted about
+impersonators in telegram so people
+pretending to be you know members of the
+everex team or the brocktos team sending
+out just basically you know if someone
+messages you out of the blue it's
+probably not one of us guys the surf
+team a lot of people yeah yeah exactly
+and i mean basic advice if you're on
+telegram you can always check the
+message history if you go into the chat
+and try and send us the first message
+etc yeah you'll always be on the right
+route there but no one's ever going to
+ask you for your private details your
+name your phone number nothing like that
+you know but i don't want to know those
+things about you
+so stay vigilant basically
+uh june network i think we've touched on
+this but uh basically i believe
+the 99 the majority of this should have
+gone through by now all the tokens i
+mean that i've was i believe my second
+half of my tokens were pretty much
+toward the bottom of the list and i've
+received them so if you haven't yet and
+yeah you're wondering how to do the
+final steps or whatever send me a
+message or yeah reach out to fabrice or
+someone will help
+there was amazing news uh see what i did
+there with the amaze and everex
+partnership i haven't really read into
+the details but i know that it's pretty
+cool stuff alex might be able to fill in
+give us a word on that
+uh in a minute or two
+oh yeah so podcasting as well kwpc i
+believe that's coming soon if me just
+not still with us but uh he's got big
+plans uh myself and anastasia are
+actually kind of moving on to a bit of a
+project so he's got new hosts over there
+but it's all still very exciting stuff
+and on the note of uh well me and
+anastasia doing a little project uh
+never mind the coins news we're
+going to be doing our first episode
+today i mentioned it a few weeks back
+now that we've got some plans in the
+works
+uh but like i say obviously there's been
+a few events and that kind of thing it's
+been the breaks have been put on but
+this will be coming soon tonight
+hopefully
+touchwood definitely definitely i've
+even recorded a theme tune for it and
+final one for me which
+segways and ties back nicely to uh the t
+zos bridge
+um i'm
+trying a little viewer giveaway
+competition with the never mind the
+coins uh show podcast whatever you want
+to call it nowadays
+so if you watch the show there's a
+little viewer listener contest where you
+can win a hundred ever brilliant
+and my lovely other half uh also works
+for a project running on the tesos
+blockchain and she's thrown in a hundred
+dog tokens which is a very exciting
+project over there so soon you might be
+able to bridge them across to your ever
+stick them in your ever wallet hey
+brilliant house that'll tie together i
+like when that happens
+and um yeah about belief that's my bits
+for the week thank you very much
+everyone
+well thank you very much ben well you
+always do it so quick i don't understand
+how you just
+right through it man awesome thank you
+very much
+okay um we do have a question from uh
+youtube and it goes to me uh
+also to meet you and chuck and a few
+other people but uh i'll i'll
+i'll deal with it so it's a long one but
+let me condense it into one simple uh
+statement uh somebody's asking about the
+status on qan quick app ninja
+saying you supported it meaning myself
+a few other people did as well
+and uh wondering what the kpi was
+completed please say something about now
+and then uh why no comments why no
+nothing so first i'd like to say i did
+leave a comment i left a very extensive
+comment i didn't leave it in the qan
+chat i replied in a chat
+that is uh
+called
+[Music]
+that is
+directed directly at me and a chuck that
+was started within the forum so i
+replied where the comment came so if you
+go and look there you'll find it if
+you'd like i'm happy to replicate it on
+the qan chat and the bottom line is this
+it's it's quite simple
+we follow a process so i supported it um
+i think a lot of people supported it it
+passed which is why it was supported
+since then um there has been an
+analytics report that's been uh
+requested
+per the original uh partnership proposal
+and we're waiting for that
+my understanding is
+part of the reason that report wasn't
+published
+was because it might be
+not necessarily
+necessary because it might
+put
+somebody in
+[Music]
+under
+a sense of impropriety
+however i requested personally that it
+be published and as i understand it will
+be so i don't uh jump to conclusions
+like um some people do uh judging based
+on the fact that something happened a
+year ago
+it's important to also remind people
+that uh the qan partnership was if
+not the third maybe the fourth so we're
+talking about somewhere in the jewish
+august-ish time frame of 2021
+when we were just you know still
+unraveling how all of this is going to
+work i
+absolutely agree
+that whatever the report says
+i will support whatever that says
+um but i don't work on the basis of
+personal emotion were there some things
+that happened with qan where tokens were
+sold
+uh without uh
+results being provided yep i agree i
+absolutely agree but i also think that
+uh before you go to an emotional tirade
+why don't you a read my comment which i
+didn't leave in the qan chat like i said
+which i'll happily copy and paste and
+the second thing is let's wait for the
+report and then we can throw stones okay
+so i hope that answers that question
+um and that
+is pretty much it uh unless anybody else
+has a question or a comment
+i think we're done
+anyone last call for alcohol
+no
+okay
+everybody thank you so much for coming i
+appreciate it i do it every week and i
+love your support and um
+everybody enjoys these uh
+these uh
+these uh calls so have a great rest of
+your week have a wonderful weekend and
+uh i haven't done this in a while how
+about a because we have time three
+two
+one
+goodbye
+bye thank you bye

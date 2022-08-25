@@ -1,0 +1,1000 @@
+okay
+so
+hi eugene
+i'm sure meech is coming
+so wait for a few more people
+sam
+hello hello
+god
+look like i've just got back from the
+gym sorry guys
+oh wait has everyone else struggled with
+those zoom updates just is that why
+we're a couple of minutes late
+i haven't had an issue yet
+i don't know okay as soon as i connected
+it started trying to do all these wacky
+updates oh that's so annoying maybe it's
+just me again not knowing how to use my
+mac yeah but i'm getting better guys so
+just just in case anyone wanted an
+update
+that might be as soon as you get a new
+computer it's just like all full-on
+updates here and there
+exactly yeah throw it away like forget
+this
+consider swapping hair like half of your
+hair goes to you i think that would be
+make both of us look a little bit nicer
+i'm sure we can uh get a zoom filter
+made up
+you both look great
+suits your personalities
+so
+i'll thank you
+i still need to get me in uh updated mug
+i'm still drinking out of the old brand
+oh just realized
+you got the friton mug right yeah it's
+it is a funky design
+i've got i've got hats t-shirts and
+things and
+i'm like god damn
+i need to update that's why i see
+when there was the ever point conference
+i was like yes swag save something for
+me give it to me
+we'll see if you get it
+don't know if you guys have like uh the
+equivalent of car boot sales over where
+you are but uh i think i'm going to have
+to uh do one soon
+like selling out of the trunk of your
+car
+yeah it's quite a big british
+institution almost um sunday mornings
+british people all across the land come
+rain or shine will get up very very
+early and they'll drive their cars to
+patches of like little grass in a field
+somewhere on mass
+and that their boots will just be full
+of stuff that really really needs to go
+in the bin it's of no use but then
+everyone else who's there selling will
+eventually walk around and buy everyone
+else's stuff i bet there are some
+treasures to be found by the way alex
+alex show us that shirt i've never seen
+it before
+looks good
+that's one of the new designs of their
+skill t-shirt i think there are a couple
+of teams who did some merch for every
+point
+but this is part of it can you only get
+it if you attended the event or is it
+for sale because i think they'll be
+trying to make it big so um yeah they'll
+probably restore the
+form of free free time shop glory
+cool every skill looks like we have some
+critical mask here
+yep okay
+well good day everybody and welcome to
+weekly meet number 103 hooray
+may has been a really crazy month so far
+in a good way so we have a really great
+agenda with some presentations from the
+community and also a couple of recaps
+from the parties the everscale two-year
+parties that we had
+anniversaries very cool
+so the call might be a bit short which
+is fine because of you know the recent
+well-deserved partying around the world
+so let's get to it
+and we have richa who has joined us with
+some
+tech updates
+i think there's something interesting to
+be heard
+yeah well not so much because actually
+like as you know
+it's not it's too early yeah
+yeah because
+like the announcement will be around
+what nine o'clock
+it's pacific time so about two more
+hours
+oh yeah first oh okay so first
+announcements about yes about two hours
+from now and the dockercon presentation
+i think will be available in
+three hours afterwards right
+yes
+so yeah so you all are welcome to kind
+of go and
+join and
+download this presentation watch it on
+demand
+from dockercon materials
+it's uh
+like it's been completely crazy
+uh
+like we did this product that we're
+going to announce
+um
+well you know it's gosh obviously
+but i don't think you know anything else
+um right so um
+so yeah please
+join we
+made a very cool
+presentation for docker fun it's about
+12 minutes long with some
+live technical demo there and
+also
+like about session we also invited some
+some first users to
+you know
+talk about their experience so please
+you know go go look at that and
+well we will talk after that i'm sure
+um i also i think we are going to
+schedule some
+ama session about that later on i'm sure
+you will have tons of questions i mean
+tons of questions
+it's uh yeah it's very interesting both
+the product and the
+and the launch itself um
+so
+yeah so like
+well welcome and enjoy cannot tell more
+really i'm under embargo
+for for now
+so we'll switch to technical dates
+the network now
+um
+well
+obviously like we were consumed with
+this with this launch
+and um
+you cannot do
+you know so many things at once but
+nevertheless there is a 24
+version 24 upgrade of the network which
+we are still waiting for majority of uh
+validators to switch on didn't happen
+yet
+i'm calling everyone to please
+you know do that uh and in order to do
+that it's not a public release in a way
+because i already explained why
+um
+well i can't repeat
+because it's a security
+threat that the network the
+the node
+uh stops for about
+40 to one hour sometimes to fix the
+um
+the cells uh corrupted cells that's what
+this update is partly doing
+apart from all other things and
+in order not to stall the network we
+need this upgrade to
+be really like gradual but not that
+great
+you know so like there is no there is no
+good i don't know violence i think
+but anyway there is a sergey turin
+who has done
+immense work on scripts
+which are doing that automatically for
+you if you use his scripts if you are
+not please nevertheless just uh ask him
+and he will give you all the changelog
+information about the subreddit and will
+give you the instructions on how to
+upgrade the note
+he he's coordinating this effort
+uh you know and he's part of the
+communities you know not uh representing
+any team
+so
+you know please
+do that there's still just 25 of the
+notes upgraded up until now it's merely
+not enough it's
+it's um we need like
+uh more than 80 percent
+um so we're still waiting for this
+upgrade to move further further with the
+other upgrades that we need to do and
+switch some capabilities on and stuff
+like that
+um
+the sdk has released
+a version of the sdk when the last
+version of the sdk supports
+ramp i mean maybe you saw that
+in their change log
+so um
+the sdk
+now is fully prepared
+for the introduction of ram to the
+network but of course we cannot
+introduce ramp to the network before we
+all move to the version 24
+and beyond
+so it's every step at the time
+but we need your support on that we
+cannot introduce anything new
+right now we need to
+move doesn't you know
+please do
+that's it i think from me thank you
+okay thank you michael uh circling back
+to dockercon 2022 just for a second in
+case anybody didn't know about it it's a
+free event completely free you just have
+to register with an email address
+it's focused on bringing the entire
+community of docker developers
+contributors and partners
+all over the world together and it shows
+them some new things that are happening
+in the ecosystem
+how to take advantage of innovations
+and some special announcements hint
+something that
+everybody should not miss because this
+is going to be
+something really awesome um
+and huge for everscale and everybody so
+click the links go through watch it
+support and
+when the news hits we'll be sharing it
+around so
+stay tuned keep your eyes peeled
+and so
+uh on to presentations we have the
+everpoint conference highlight
+and with that we have roman who'd like
+to share a few things we just finished
+celebrating the everscale second
+anniversary
+at everpoint uh in bali which was
+awesome it was a great event
+a lot of engaging panel discussions and
+there were networking events
+people from all over came together to
+celebrate the first event which seemed
+to go just
+perfectly
+so roman if you're here if you want to
+show your screen or some
+photos videos highlights or anything
+hola
+i see him but i can't hear him
+roman
+roman can you hear us
+let me ping him
+if he's not ready then um i can move on
+to
+if we could use the mr
+yep yeah i'll do the metaverse thing
+let me move
+you guys because i can't see my screen
+okie dokie
+so that is with data i'm going to show
+some
+screen captures
+i took some screenshots during the event
+for people who weren't able to
+to come and visit
+us right there
+okay so real quick you see that
+on may 7th on saturday we had the
+metaverse party in mona which was
+awesome it was really fun it was
+different way to get together and we had
+um
+sparta cats we had surf flex uh newmies
+and grand bazaar they were all
+representing they all had their own vip
+booths
+let's see here oops frozen so when you
+enter there's hostess you can grab a
+beer it directs you to grand bazaar you
+can pick up the headphones which and it
+connects to some i think it was some
+music from a party and a pizza that um
+our dj set up
+you see a lot of people came in i think
+there was about 50 overall who came
+through i'm not sure if dadar can have
+like exact stats though because he owns
+this space
+um here's an example of the surf
+surf vip booth which is really cool
+and
+uh the founders of everex were also
+there um as interactive avatars so if
+you go to them and click on them they're
+like these easter eggs which we can
+drive to
+twitter accounts um basically anything
+so this is something that
+you find
+interesting you could just ping one of
+us and we'll set it up
+this is one of the ways that we could
+build out the space later on
+and
+this is a funny picture from
+eugene's party in mexico he was
+celebrating and you could see that they
+were also in the
+metavirus pretty cool
+and um
+yeah those are just some pictures
+from that i think data also wants to
+oops
+froze
+uh i think data also wants to share a
+bit um
+if i can unshare now
+hold on okay got that
+and also down the line we'll be working
+on integrating everscale wallets with
+mona so you can connect your ever wallet
+instead of like a meta mask or something
+like that
+and buy
+nfts directly which is really cool
+um
+yeah and that was that was the first
+party
+first ever scale party in a metaverse
+and i think it went really well so hats
+off to data for
+basically everything
+can you share anything
+i just want to thank you for having me
+and let me to
+build this space and this is a great
+experience for me also because it's it's
+my second metaverse done for uh for
+someone other than me and uh yeah i
+think i i think i like it and i will
+continue to build a metaverse for
+anyone who
+who want a who
+can uh propose something more
+interesting
+i'm actually still in the metaverse
+we got some problems i think with
+synchronization uh like around i think
+the last time he got some problems with
+uh
+with the synchronization of
+images but now i think all must
+working
+as it
+must
+and
+yeah if you if you have any idea what i
+can do what the heck what feature i can
+integrate like
+the last time i thought it will it can
+be interesting to ask the dj to change
+the music actually i um i just shut out
+the music but
+there is uh there is one uh
+that ron asked me to integrate so
+this one will uh still forever uh until
+we uh
+we integrate another into it
+yeah cool this is a really awesome space
+and it's only going to get better we
+could start exploring
+um metaverse amas for example
+presentations vip rooms and there are
+portals that people
+can
+purchase from dadar and he can help you
+build out your own vip room
+so from the everest ever bar i think
+that's the name now from the ever bar
+yeah there's there's a room and you
+could
+you can claim that space build your own
+vip room which is really awesome
+there's no image here so uh there is uh
+just a little space where you can invite
+your uh your partners to talk about uh
+business and uh
+uh
+some deals in the metaverse eh exactly
+yeah
+and yeah
+uh eugene you've got a question i saw
+your hand go
+i think you're on mute or you have no
+audio
+i can't hear you
+[Music]
+you do sign language
+while he sorts his audio out my
+questions very quick dada um you
+mentioned a load of examples do you
+think uh the metaverse space might be
+appropriate for a uh british style pub
+quiz podcast hosting at some point
+because i think that'd be a lot of fun
+if you'd be up to helping me do that i i
+think it can be a great idea still i
+need to integrate more beers from
+england
+yes i'm sure i can help you find all the
+beers we need but yeah
+great stuff
+i'm a big fan of uh
+um i know it's a it's a irish beer so
+it's not the same
+um
+what is name no guinness guinness yes a
+big fan of good old guinness
+yeah everyone loves a good guineas
+excellent oh yeah i'll be in touch then
+buddy
+okay
+so um
+i heard from roman that he doesn't have
+a good connection right now but if
+anybody
+uh eugene did you sort it out
+no i didn't hear you maybe you could
+type something type your question if you
+want
+but in in the meantime if um maybe alex
+you were at you were at every point in
+bali i can certainly say a few words
+indeed uh
+first of all the level of organization
+was very high so thanks to the um to the
+brooks's team and their partners who
+who
+obviously
+made a phenomenal effort i mean it was
+like absolutely world class in terms of
+quality of organization entertainment
+like i mean anything could
+could end with the quality of
+organization any top conference in the
+world so it's not tier two it's like
+real tier one
+uh content i mean it was a first shot
+there were four panels basically in a
+few speeches
+i thought it was pretty good you know
+cbdc panel was good the indonesian
+market panel was quite interesting that
+was actually really interesting
+um
+so i think for the first time for the
+first whole conference not organized by
+professional
+organizers it's
+even the content was quite good
+and then of course tons of networking i
+mean people were
+there were tons of crazy pictures you
+know
+talking
+jumping into the swimming pool fireworks
+it was really really hot i think we made
+a lot of noise in asia
+there were i would say half of the
+audience about 100 people out of 200
+were from asia which i think is very
+good except south korea i don't think we
+ever had uh
+had
+the focus and there were folks from the
+philippines obviously with local folks
+from japan
+so i think
+i think we did the big splash and uh
+there were folks saying that when we're
+now asian blockchain which i think is an
+overstatement
+it certainly helps to grow that
+strategic uh
+strategic market because if you look
+about in indonesia for example you kind
+of don't think about that but it's 270
+million people with very good
+penetration of crypto so uh i mean it's
+like not not the us but but but it's
+kind of you know it's kind of there in
+terms of at least the market potential
+and then you have of course all of the
+other markets which are smaller
+philippines is about half of the asian
+crypto market
+uh asean i should i should be more
+specific market no not including
+obviously china and india et cetera
+um
+and uh i think that's just a great start
+i think we'll have to continue that
+every year i'll probably consider next
+year something like i know miami or
+dubai some acknowledge someone some
+acknowledge crypto hub
+where and probably a little bit more
+central to the world because
+everybody loves bali but that's a bit
+exotic of course although beautiful i
+have to say yeah so when we just you
+know keep running and keep going country
+by country uh there are a lot of follow
+ups there were tons of grant
+applications like i sent i think
+only myself wasn't like five links for
+chop life or grunts and for sure
+everybody else did the same so
+yeah yeah we're certainly going to see
+some increased traction we're unlucky a
+little bit with the market you know
+because um the market is pretty
+rough in the last 72 hours but uh yeah
+but um
+but that's okay you know that's crypto
+is very cyclical
+so um i don't know if anybody wants to
+say
+more than that who was there but um
+yeah i think on the scale of one two
+five this is like five i mean it's
+it's not even five minus it looked
+awesome from the pictures and videos i
+saw you mentioned that people were
+jumping into the pool and i want to see
+that i want to see if there's any
+pictures of that i'm sure i saw pictures
+of mermaids somewhere i saw this but
+maybe like alex was wasted and he like
+you know skinny dipped or something
+i was
+one of the few people who did not touch
+mermaids or jumped into his head
+i was
+networking and bringing people into our
+ecosystem
+was having a couple of drinks along the
+way but that was the second prayer it's
+not not the first priority yeah yeah
+well it sounds fantastic i hope that
+there are recordings of the talks and
+the presentations
+yeah i'm sure they'll i know there'll be
+films uh
+i'm sure there are some sort of
+a whole bunch of pictures and videos uh
+available some of it was in our social
+media so
+i mean yeah it's again i would say
+thanks to the brook system and their
+partners locally they uh they have a
+couple of local partners we did a
+tremendous job so
+yeah so it's a benchmark set next year
+is going to the top whoever does it
+all right
+i'd definitely uh double up your vote
+for portugal joe if
+it's a good good crypto hub
+yeah inexpensive too we make it next to
+the salon or something
+yeah yeah there's a lot of activity
+there
+yeah
+yep that's kind of a short version but i
+think um
+i wouldn't spend more time on this
+okay to execute all the questions that
+was discussed
+cool thank you very much alex for
+filling us in
+we'll move on to a presentation from the
+community it's an awesome project to
+share with you
+um from the everdues labs the team
+behind everdues
+they are a recurring payments protocol
+and a subscriptions marketplace and we
+have sam here
+one of the everdues core developers to
+tell us more
+welcome
+hi all
+hello
+the first thing i want to
+remember that ever use is a like last
+method use we just renamed a few weeks
+ago because when we were in a ibc show
+in dubai we just got a lot of comments
+is that something connected with
+metaverse or not and
+that's why we just decided to move to
+revered use do not like mix that stuff
+so
+right now we are ever use one of the
+projects who received a grant from
+the file lines
+and yeah it's uh
+then during this meeting i will share
+some updates with you
+like our status our next steps will show
+you a small very short demo
+uh so let's get you started
+um
+first of all overuse yes is the
+recurring payment protocol and
+subscription marketplace so the first
+thing is the protocol which um
+using
+it you can authorize the merchant to
+pull funds from the crypto walls of
+customers at regular intervals for some
+services and goods so is it's a protocol
+which are tries again merchant to pull
+funds from customers wallets
+and another entity is a subscription
+marketplace um
+it's a web 3 application built on top of
+the protocol where you can
+like register your service and accept
+recurring payments
+so it's a user interface to the protocol
+and what is our status right now we just
+finished the second milestone of our
+grant program it's a smart contract
+parts we published them on our public
+github
+so and we are waiting for a review from
+like our partners
+uh like from
+it's not the
+security audit it's a review first but
+then we will go ahead the audi we also
+improved our marketplace user interface
+we added deposits from different
+networks so we can deposit uh any
+kind of assets from
+different networks using octa's breach
+to pay for
+recurring payments
+um we also finished our white paper and
+economics so you can go to our website
+and browse search for
+for this
+and also you will find there are some
+instructions how to use a protocol how
+to use a marketplace
+and one more big announcements
+announcement that we developed the
+telegram membership board so if you have
+a public private
+not public if you have a private channel
+or group you can use our bots to
+subscribe to your content
+so please welcome uh to summarize all
+that updates we have a better version
+running on mainnet right now
+and if you have any business utilizing
+recurring um like payment model
+subscription model you're welcome to to
+the
+our marketplace our website
+uh to
+like check all of that i will show you a
+short very short demo how to look like
+right now there you can find the
+information let me share the screen
+please
+probably you can
+see it right now
+yep
+yep looks good ah okay cool
+this is our website everyoneviews.com
+here you will find
+marketplace link link to the docs
+there you will find the white paper
+link here and all the information about
+how the protocol works
+overview and then you will find
+how to use a marketplace as a service
+provider so if you want to accept
+recurring payments or for subscribers so
+all the instructions are here they are
+not
+like too large they are very simple
+instructions for telegram membership
+both linked to the boat so and so on
+please browse and
+yeah enjoy it
+probably
+someone you find useful information here
+another link is a contact to form to
+contact our team with any question and
+the most interesting part is the
+marketplace
+it's here i can
+[Music]
+click in
+[Music]
+and you will show
+uh we will see here a few cases we
+launched during the
+anniversary party it's like our kit
+private
+channels
+russian and english one
+yeah it's our like first users they
+already got the first feedback from
+our kit team and so you can also go
+ahead register your service and give us
+a feedback using our contact form so
+marketplace is a catalog of all the
+services registered here you can
+navigate to the service
+push subscribe
+and then
+for example it's in telegram
+use case you can put the telegram name
+here and subscribe to the channel
+receive the link and go ahead so any
+kind of business can be registered in
+the marketplace if just
+the only one
+like who i don't know it's not the
+condition but to the requirement you if
+you want to
+get a recurring revenue so based on
+subscription mode
+the flow is very simple you just need to
+go to the wallet tab deposit some gas
+universe and deposit
+some usd if you want to subscribe to
+some um
+to some service if you just want to
+register a service you need to some gas
+to do that
+one more um announcement
+right now here
+we will add after exchange uh probably
+in next two weeks and it will be only
+one button to deposit funds like usdt
+the iup and another stable coins and all
+the fees will be exchanged automatically
+so user will not be required uh do not
+require to
+deposit gas by himself so yeah and
+that's our like milestone after that we
+will go to the
+like public audience right now it's an
+announcement inside the community
+because they know how to use a ever
+wallet how to deposit gas and so on so
+during this weeks we are going to test
+all that stuff and then make a big
+announcement of our marketplace to all
+our channel and resources so if you have
+a
+some errors on the balance you can go to
+service tab a click register button
+and
+complete this form like
+found a category name
+period in which you want to get payments
+for price the period and the
+currency to whatsapp payments after that
+you will have been appearing in the
+catalog here and your potential
+subscribers will be
+um
+confined
+they can subscribe to our service and um
+yeah it's a
+it's an instruction how it works so
+also
+then you create a service um you've got
+the link this link you can put to your
+um
+like to your
+underground to any of your public
+resources
+and um
+and uh sorry forgot the password that
+account
+uh yeah and um
+yeah and to just uh got some subscribers
+from other uh kind of
+like resources
+yeah and our next steps again is to
+complete all the auto exchange stuff
+after that making the public
+announcements uh launch your talking
+sales also like private round and uh
+round one ever start
+and
+[Music]
+yeah so if you feel like your strategic
+support can be useful and profitable
+please also contact us on our forum
+and the main call is
+let's test it we are welcomed for
+everyone just to create a service try to
+subscribe uh put
+any ideas contact us so
+yeah it's some kind of finalization
+stage between the public announcement
+also
+um
+also you can test our robot
+here
+on average use for example this is my
+subscription i can equal start
+call show my active subscription and see
+that okay i have our kit private blue
+subscription
+but my link is already generated
+and i already joined this private
+channel so
+yeah we are like welcoming everyone to
+test all of that and let me get your
+feedback thank you so much
+great thank you very much sam thanks for
+sharing all that um everdues.com that's
+that's really cool uh so yeah
+everybody go to everdues.com test it out
+try it out um
+yeah and help make it
+a really great product
+does anybody have any questions
+for sam i didn't have a question i just
+wanted to say um i know you guys faced
+uh some tough questions in the actual
+community chat about the product and the
+service and you know the whats and the
+whys in the house and yeah just wanted
+to uh say you know congratulations and
+really really well done on you know
+handling that really professionally and
+stuff
+so thank you thank you
+yeah i think too is really interesting i
+think i will try to use it to propose my
+services uh
+into meteors because uh using grand
+bazaar i have his own limitations so
+i think i think i will test it in uh in
+a few days
+nice
+yeah
+that's great there you go
+yeah and the the website's nice too um
+ui it's just intuitive clean
+uh yeah thank you probably like it's um
+i just can't tell that
+um
+like our marketplace itself is very
+simple right now it's like
+more about user experience not about
+design but
+in some stages it will be improved
+uh so yeah but all the
+stuff all the payments are working fine
+deposits from error scale from another
+network networks all the
+subscriptions bots etc all works
+probably fine
+if you
+get any back please contact us so we
+will fix them
+okay great thank you thank you very much
+we have a message
+from eugene he wants everybody to
+remember to submit your nfts to the art
+show in washington dc on may 24th to the
+27th and we'll drop the link
+and we'll drop the link in youtube
+so
+okay moving on it's time for some
+crunchy crunchy ben's bits
+roses are red
+pickles are pink
+it's about that time again
+when ben makes you think
+i'm not sure what type of pickles you've
+been needing joe but um we won't dig too
+deeply into the last one uh yeah i'll
+keep it short and sweet because like i
+say we've
+taken it a bit easier this week with
+everyone uh having was so pretty last
+week uh there was a massive quiz from
+everkitt who just brought up there uh
+with the presentation on everdues i
+believe there were five rounds and
+fifteen thousand evers uh up for gramps
+uh surf light paper has released its
+fifth part so again if you if you're
+interested in the mechanics and what's
+going on with surf the road maps there
+do check that out another exchange
+listing forever uh bitmart that happened
+this week they're quite big to be honest
+i've definitely used them in the past i
+believe
+uh spartacats spartacus has launched the
+token launched on the sixth um it's
+going on over on uh the ever start
+so many other names here uh but ever
+start obviously go check that out
+uh
+sniper.finance is something i haven't
+read a huge amount into yet but it looks
+very new shiny and useful so i'm
+definitely going to go have another look
+at that soon
+this is good news um the everscale
+twitter account it's got that it's got
+the blue tick now yay
+i mean you know it is
+i'm sure i don't need to really tell you
+how cool that is
+and just to wrap up and i
+i think i mentioned it last week i can't
+remember when i actually posted it fully
+fully uh but yes our
+latest episode of never mind the
+coins is out where alex takes on uh mac
+and just so check that out please and
+there's also been an episode of everyone
+in the rumor mill with lots of kind of
+market insights and lots of news and
+lots of cool stuff about everscale going
+out into the wider world so yeah please
+check it out in support
+uh that's it from me thank you very much
+okay
+thank you benjamin
+uh if there's any questions on the call
+i don't say anything on youtube nothing
+from community i think that was a really
+short and sweet call
+man
+um i guess that's it guys and thank you
+very much for coming have a great rest
+of your week and see you next tuesday
+don't forget the dockercon yes yes and
+we will be spamming
+spamming all of you and joe uh just a
+word of advice from a british guy i uh
+try not to end the call by saying see
+you next tuesday some people might see
+an alternative thing that
+what do you mean what
+oh
+i can't spell it out but yeah i'll
+message you but sorry all right just a
+bad joke making me nervous here
+okay have a great week all bye

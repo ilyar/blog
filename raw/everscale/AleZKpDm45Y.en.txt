@@ -1,0 +1,1502 @@
+is that why everyone else was being so
+quiet a minute ago you were waiting till
+we went live
+i think we're just getting organized
+ready to start
+maybe in one minute some more people are
+joining in
+okay you can tell that i'm just eager to
+get going this week that's what it is
+are you singing ben or
+i can't hear you
+oh well i wasn't going to expose you to
+it but i mean why not why not let's
+practice me a little song that i wrote
+this morning
+how's that coming through i've got the
+original sound option turned on so
+otherwise it sounds very clinky clunky
+um
+full screen
+yeah we do
+this is an original song
+[Music]
+have you seen the dog with two eyes
+i asked
+ it up already sorry guys i mean i
+it up already sorry guys i mean i
+messed up already though oh i get all
+nervous let's do a song i know
+this isn't my song
+[Music]
+well fall is here i hear the yellow back
+to school ring the bell brand new shoes
+walking blues i climbed the fence now
+books and pens yes i can tell that we
+are gonna be friends
+cause i can tell that we are gonna be
+friends
+[Music]
+by the trees and we will rest upon the
+ground and look at all the bugs we found
+now safely walk to school without a
+sound
+safely walk to school without a sound
+feel free to interrupt me anytime joe
+though you want to get going okay yeah i
+think that's a good intro thank you very
+much
+thank you
+i think we're at capacity now we've got
+everybody here very cool so hi everybody
+welcome to the everscale community call
+and we have a lot to share with you
+today we talk about the nft uh the
+african nft marketplace that's going to
+launch a hackathon and a lot more
+uh and you've probably seen that um in
+the chats today uh the grand bazaar
+merchants collection was kicked off they
+announced it and they're releasing uh
+an exclusive collection of 3333
+a lot uh unique nfts cool number
+uh which give holders access to this
+collector's club which is really cool uh
+the merchants look awesome themselves i
+see that uh some people are already
+starting to gobble them up
+um
+so don't forget that they have this glb
+file format you could toggle on this
+view so you can actually interact with
+the nft see it in 3d move it around
+which is really cool
+and if we have uh yeah pavel here pablo
+smirnoff yeah hello if you want to jump
+in and say a few words about the
+merchants collection yeah thanks
+everyone and uh
+yes my name is pavel i'm a community
+manager at grand bazaar and as you
+already mentioned yeah our team just
+launched our the first part of this
+merchant collection that will includes
+uh 10 000
+merchants in future at this season we
+just launched 3
+33 merchants
+and this merchant will be something like
+our mascot that will appear in a future
+weekly news post twitter
+posts and other other stuff like that
+so
+this collection have a lot of
+interesting utilities such as airdrop of
+our future native token gbt
+grand bazaar features uh wetlands to
+collections from our uh launchpad
+section
+and as you already mentioned yeah
+this is the first collection based on
+every scale that provides jlb format
+and you
+in other words you can fully interact
+with your merchant with your nft and as
+one of the our
+community members
+mentioned today this is the first step
+to the everscale
+multiverse
+[Music]
+yep
+that's also my that's that's something i
+was thinking of as well very cool thank
+you for for sharing that um if you
+haven't seen it yet go into the chats go
+to grand bazaars social links check them
+out there's some really cool
+3d interactive nfts
+very cool
+um so also there has been some great
+activity in the event space recently our
+own alexander felitov ceo of everex was
+at synopsis and he spoke on a panel
+discussion about nft
+the past present and future i'm not sure
+if you want to share a few words about
+that alex or
+if you want to jump in
+i mean i think it was a nice panel it's
+obviously very tough market that we're
+seeing today in nft um the
+the uh
+kind of key key point was that you
+cannot just continue doing you know
+generative collections you've got to
+bring gamification you got to bring the
+utility aspect of your nft so the market
+is evolving to a more uh two more let's
+say
+more advanced forms than it was during
+the crazy you know 2020 2021 run so
+that's kind of a
+one-minute debrief of the key outcome
+cool yeah it was online event too so
+anybody can can watch it i think the
+streams are going to be on youtube do
+you know about that
+yeah i think so i think they will post
+that
+the calibri group
+who does the synopsis will post it
+on youtube
+very cool
+we also had brian c from broxas he was
+representing everscale at nft nyc
+and everscale's own mark feldman spoke
+at the unicom startup in bali
+he presented everscale to the audience
+created some buzz around flex
+and
+after the conference and panel
+discussions there was a blockchain
+startup competition where mark also
+opened up this second phase of the event
+so we've had some pretty good visibility
+over the month
+um i can
+probably assume that most of you are
+watching the charts like maniacs
+recently uh if you notice that btc
+bitcoin is up about six percent this
+week that's
+that's some positive news right maybe
+it's going to hit 24k soon depending on
+market sentiment
+amid you know
+the whole lingering worldwide economic
+turmoil and whatnot
+uh so things might start to turn around
+soon and on that positive note we can
+move on to some tech
+tech updates by pavel who would like to
+share some things powerful
+thank you john
+so i'll
+do a quick update so as
+many of you know
+that
+uh yesterday quite important
+um
+thing happened
+uh
+so we have we have now in mainland only
+one chart and we had 16 before
+um this is why it is important
+uh
+actually
+that
+decision
+uh was
+promoted uh for quite a number of months
+by the fire alliance uh because they uh
+uh
+said that uh at a current condition with
+a low load from on the network it is
+important that
+uh
+smart contract change when we have like
+chain of uh executions they uh if they
+pack in one block in one sharp then uh
+it moves much faster than
+when when uh those uh that chain of four
+contact executions is spread between
+different charts
+so they asked to do it because
+it will show
+much
+better
+latency for users and this will help to
+promote every scale
+so there were some
+discussions technical concerns about it
+but finally
+they were resolved and yesterday that
+happened
+um well this is the main
+change what
+we had
+uh during the week
+uh there was also
+okay it's not it wasn't may there was a
+kind of family
+on
+[Music]
+sunday on sunday uh where there were
+discussion uh was coming into about uh
+plans
+and
+i said there that this week there will
+be
+uh some main contributors to the scale
+will have a meeting
+about architecture and
+we will discuss there
+some uh some
+other important decisions one of them
+will discuss uh gas gas peace reduction
+and also we'll discuss and we'll discuss
+by the way selection as well so like uh
+when and how we should
+launch this session because we only have
+uh
+electronic slashing
+so
+i i think that as a result of that
+discussion
+we'll probably
+um
+release some notes about
+that and also the discussion will uh
+should
+result in
+priorities
+or what
+k contributors
+see
+for development
+development
+uh so it will end up in the roadmap
+because we have a number of updates
+which are under development
+um
+now going on in parallel but it is
+possible to develop to develop
+in parallel but it is impossible to
+implement them and to launch them on
+mainland so we should have some priority
+so after that we'll have much more clear
+road map on when we will get water on
+the front
+okay great thank you pavel thank you
+very much do you think you can come on
+um
+maybe
+to every call and give give some brief
+tech updates
+i just want to uh throw you into the
+fire and ask you to come on every time
+every time
+to get some tech updates
+yes i can again
+i hope that only i will do
+updates
+next time but anyway somebody
+somebody will be available yeah sorry i
+was out of the city today and was very
+bad connections
+no no problem i appreciate you coming on
+but vladimir is great too just so we
+have some tech updates that's live for
+the community so everybody can see
+what's going on they'd be great and uh
+open to asking questions i think that's
+ivan with the eye
+do you have a question
+about media involvement in the
+development of node
+i didn't hear your question sorry
+i i think i got
+a question about michigan how which is
+involved in mod develop
+is it correct
+i don't think his connection's very good
+yeah
+what about his involvement in technical
+okay
+i think i got to try so yes so michi is
+uh involved of course uh he is part of
+architectural committee
+but
+now he is involved more on strategic
+level rather than operational level
+uh we have um team leaders which exactly
+know what to do and they have their own
+scrum process with
+planning
+standups and
+review
+so each
+we have
+four teams inside the favorites
+and actually
+i think at some point they
+should come on
+community polls as
+uh well
+i i think that
+sometime
+several times participated
+at least sdk team lead
+victorina
+fantas she definitely was on community
+goals i think but probably
+on the next connection
+we can
+they can
+just
+do quick introduction
+i think it was also
+helpful for the community
+that's a good idea
+okay i hope that answered your question
+ivan uh we've got to move on the agenda
+here uh we have john keny here from the
+ever scale african subgov to showcase
+the community's first nft marketplace
+called amara it is a development project
+geared towards african culture and its
+content creators
+so please welcome john and we're eager
+to learn more
+thank you zero for giving me this chance
+to address the community
+um today
+the african uh everscale africa team is
+pleased to present the first complete
+use test
+since uh branding to evacuate
+without
+much ado i think i'll go to the parts
+they after maybe can have that in that
+do the actual presentation
+is it possible for me to share my screen
+you should have rights let me know if
+you can't
+okay
+okay great we see it
+you see it
+okay thank you so
+i'm just going to go briefly
+on what
+the mother is all about
+what the community has agreed on
+our philosophy
+and
+our target audience
+and obviously the projects that are
+going to be carried out within the mara
+itself
+so
+to begin with
+uh imara is a
+ever skill network
+initiative that is the african community
+initiative
+which intends to tap into the rich and
+diverse cultures within the continent
+and of course
+enhance
+everscale brand
+so
+our main part of the application is
+running on the blockchain on everscale
+blockchain
+apart on the website and part of the on
+the ever still
+network
+uh we are also using uh
+evos as the main
+currency that will be working within
+the mark
+so this
+is the first finished project
+we intend to
+launch it
+this coming month
+it's also the first project we are doing
+since the
+branding of everest
+we have carried out some research
+uh as we continue developing the
+marketplace
+and we have found out that
+we have very many participants in
+other
+ethereum based
+marketplace
+and as such
+they are very much interested in
+having a localized marketplace
+uh which they are ready to join and put
+in their products
+so of the features of imara um are
+slightly
+uh different from
+they are more less like what we have but
+they have some additional features which
+i'm going to spread
+spell out
+uh one
+the marketplace is
+uh
+targeting the
+african artists
+and defense of the art lovers
+and obviously the lft
+participants within within the african
+continent
+we also have a unique referral system
+whereby
+we have team leaders within uh
+for art promoters
+fans friends not just the
+creators of the content
+but we also you can also have
+a referral system whereby we have the
+promoters who will come in and set up
+a
+kind of a business structure
+with the referral code
+and uh
+on a living so it's more or less like we
+are building a a business whereby people
+can come in whether you are an artist or
+a creative or just just a business
+person you can just come in
+and have your own lineage
+and uh
+and from from from from the system
+uh the other uh unique feature we have
+is uh that we are targeting to
+uh have some kind of uh
+a team a thin based
+uh collection whereby we have
+uh a certain
+uh
+let's say a certain
+topic
+for a certain
+feature photography
+[Music]
+images to do with the
+landscapes
+we are looking at
+the wildlife
+we are looking at the national parks
+we are looking at the history
+of different countries like uh we have
+54 countries in africa so we can have
+sections that are dealing with
+individual countries and
+some of the proceedings that are going
+to be coming from
+those projects
+we will be able to assist
+the communities within
+we have philanthropic courses
+that target specific
+communities when we
+have topics related to those particular
+cultures
+and so on
+finally
+we have
+a road map that we have tried to
+[Music]
+follow
+we had
+the infrastructure creation
+then which we followed with the
+engagement of
+the energy enthusiast and
+on the social networks
+we have been able to interact
+with various uh
+participants within the nfte
+as we continue developing the network i
+mean i mean the the platform
+and that's why we have most of the data
+and
+obviously being inspired on what we need
+to do
+uh we have also been conducting
+[Music]
+uh
+this month and of course
+ongoing we will be
+still engaging the community on how they
+will they will engage with yamara and
+what kind of
+topics and
+and the projects that they need to do
+uh of course
+the next thing we are doing
+this coming month is
+starting on the marketing
+we have created the social pages
+we have done
+marketing posters we have also
+created different teams we have the
+marketing team we have the
+community support team
+we have the advertising and
+creative department we also have the
+trainers
+who will be carrying out the
+the training
+as as new participants join us
+so we are on the process of developing
+our uh
+social media platforms
+that will assist all these people
+to
+be able to engage in different levels a
+technical user user experience and staff
+that comes to the end of my presentation
+to add on to this
+we will be engaging with
+the javascript
+define alliance
+uh for
+assistance in the next financial year
+which we believe will begin on first of
+july
+to be able to
+finance some of the activities in
+marketing promotions
+and
+further development of our of of imara
+i'll give the this opportunity to that
+winduct to take us to the platform
+itself technically
+thank you
+thank you for giving me this class
+so
+i will run now
+my screen demonstration
+so you can see our wonderful marketplace
+the registration is very easy now we
+connect with
+every valid
+in our roadmap for also
+plan to add other reddits
+to the marketplace
+so connect now
+uh after connecting
+to the marketplace we can go to the
+we have by the way we have some
+nfts right now here
+uh as john mentioned
+uh we have started uh we launched it in
+product
+some weeks ago
+uh
+and one of very interesting things from
+our marketplace its referral code
+it's very i think it's the first
+marketplace in every scale with a such
+referral system
+uh what it means uh to be sure
+uh
+everybody who will register with your
+referral code
+you can write it here
+enter someone as a referral code by the
+way we expand
+profile
+profile fields too you can add your
+email instagram twitter and discord and
+these things are very important for
+artists because they want to share their
+social
+platforms like for example instagram or
+twitter where they publish some updates
+so you can enter here your
+some one referralcad or code and
+this member
+will get two and half percent of all
+your sales it's very good strategy to
+attract uh not only users but somebody
+who will work and attract more users to
+this platform
+so as you can see i fill my profile a
+little bit
+so let's uh we don't have a lot of time
+that's why let's go to the creation the
+creation is very easy too
+i will
+choose one of the images
+we have wonderful cropper
+why it's wonderful because
+you can see it's a square
+that means that all the images on the
+marketplace will be the equal size and
+it will
+it looks great
+so
+let's
+something like this
+we can choose the category let it be
+masks
+something like this
+we can create collection i have created
+some of them and then we press just
+click it
+it will
+ask to
+send some funds for meeting
+let's do it
+and the process of meeting of meeting is
+start
+we need to wait as always for some times
+to meet energy
+while we are waiting
+next i will show you that we also have
+auction logic on our marketplace and
+buying logic 2. i will show it later
+let's give us some time to meet
+after meeting it will be automated
+automatically to automatically reload
+the page
+so let's wait
+um
+so we start some of the data we store in
+ipfs uh we choose uh
+by the way i like the idea to store
+everything in chunks
+but in economically it's not very easy
+to calculate because images are
+different and so on that's why uh
+somehow it's not very easy to calculate
+the final uh inverse which we will need
+to store the image forever that's why
+ipfs is much
+better very end
+so let's wait
+for
+meeting
+just
+uh
+it's pretty fast i mean
+we just need to wait for
+transaction in every scale
+and for the
+loading all our data on ipfs
+so
+i can see that we successfully
+commenting
+let's go to the explorer page
+to find our nft i have minted now oh
+let's see let's go and
+look at the internet
+oh you can see that i'm the creator i'm
+the owner uh my collection and the
+address if we go now you can see every
+light
+uh we can see this energy and let's do
+it for example put on sale
+we can enter our price for example let
+it be
+five viewers
+oh sorry i will
+uh you can see my scr uh
+just a second you can see my uh valid
+just second i will do
+the full demonstration yes like this
+so
+let's put it on sale you can see that
+everything in smart contracts it's a
+magical sale
+payment is expected we use some
+notification system
+to make user be sure that everything is
+oh payment has reached
+and operation start pretty fast i guess
+uh we can withdraw from sale if we wanna
+let's do it too
+maybe i decide not to
+sell this wonderful item
+from transaction
+again payment is expected
+payment has reached and some operations
+that pretty fast i guess
+and let's put it just we can choose the
+by the way we can choose any date as the
+end or auction let it be
+july
+and enter start price
+will be for example three years
+again we need to sign
+because everything is about blockchain
+we can see in price
+time everything thinking blockchain nice
+confirmed transaction
+would it be possible to set up multiple
+prices because you uh like you could see
+from july 1st to the 12th it's going to
+be up for sale at this price but then
+after the 12th it's going to increase 30
+percent to this price can you yes we can
+set something like that
+yes we have uh when we go to nft we
+uh see
+the
+[Applause]
+date of the end and also the current
+beat
+now you can make a beat and you beat
+will be first
+so we have all history
+uh let me show you
+also we have searches system
+we can search
+as you can see it's pretty fast too we
+can search collections for example let's
+see my collection
+everything is loading from the chain and
+everything is pretty fast i guess
+uh
+so uh
+i can see my collections
+and
+um
+[Music]
+and so it's by the way we have a
+pretty search system where we can for
+example
+uh see only paintings or only street art
+on or only art and so on
+and different collection
+as you can see everything it is works
+nice and by the way we have we can sort
+it by price for example or just random
+it's some
+funny mode when you can run them
+sort your nft data uh yes
+so that's it
+guys girls everything is working you can
+go you create we currently we are
+testing more dsp testing we signed for
+if we will find some bugs we will fix
+them uh we use true nft standard of
+smart contract we're also looking for
+solidification by nft alliance and also
+will fix if uh to maybe to some standard
+uh
+uh and also we will add more uh valids
+like uh surf like um scale valid uh to
+make a user login
+um so i think it's sure but it's all uh
+and yes one of the interesting things in
+all this logic is referral code because
+it gives uh changes to somebody who
+cannot create some art but who can
+attract somebody who can create art uh
+so he can make money
+from it too
+so
+i guess that's all
+that is great that's an amazing
+presentation amazing project thank you
+very much for sharing it with us um
+the african continent is just so rich
+with unique cultures and art and now you
+guys are opening it to the world or at
+least you're bringing the world to all
+these
+beautiful
+creations that people are making and
+that's that's fantastic i'm really
+interested in the referral system
+with the code that you have created
+uh is there anything
+um in the pipeline or on the roadmap
+for additional benefits for people
+additional
+incentives to use this code because i
+imagine it sticks with the nft for its
+lifetime and it travels with it too
+right
+uh yes we are blending uh so by the way
+you can see i i add my website and it
+appears here i also can let's
+let's enter something like this um
+so you can see my instagram link appear
+when i
+uh
+let something like this
+uh
+about uh other futures yes uh also we
+can uh we are looking to implement uh
+some
+some methods to for example make some
+top tokens top collection maybe a user
+maybe we will we can do something like
+that user uh
+[Music]
+can uh buy a place to be in uh to be on
+the top to be on the top for example he
+wanna
+sell something fast he can pay us and
+place it on the top something like this
+or maybe
+maybe john will add something about this
+yeah maybe some
+oh sorry yes
+yeah i just wanted to
+to talk about the entire system
+uh this is very critical because of uh
+most artists
+not business people in nature
+the referral system also
+encourages the influencers
+the people who have got their masks in
+their social media pages
+be able to bring in their following
+to this platform
+and
+in this in the in the process
+so the levels of earnings is what we are
+currently working on but initially
+um
+we will have
+uh
+a certain percentage
+uh of the linking fees going to go into
+them and also part of the sale sale of
+this nfp income percentage will go to
+the influencers
+this is critical where when it comes to
+bringing masses and of course our main
+uh our main purpose is to bring a kind
+of a community
+a long-lasting community within within
+this space
+the referral system takes care of much
+of much of that
+thank you
+yeah by the way uh
+yeah by the way
+just for demonstration i create i login
+with another valid and
+then we'll paste my referral code and
+click save
+so
+i have done it and as you can see once
+you enter your referral code it's this
+input is blocked you cannot change user
+who will be your referral but it's
+working and for example if
+now you will buy or now show on
+my nft this referral user will get two
+and half percent of uh the price
+i sell
+my item
+on auction
+cool it also gives people uh who are
+using these referral codes to kind of
+become
+micro influencers in a way so
+the creators can actually seek out the
+top uh referral referral
+code users people who are
+really having success um
+getting some nfts sold
+that's right yes for example yes for
+example uh you don't know about your
+scale now but for example i know about
+your scale
+and why i need to waste my time to
+explain somebody how to go how to mean
+how to connect the bullet why i should
+do this but now with the referral system
+i know that for example i will attract
+some artist i will explain him about
+trevor scale how he can meet and so on
+and he will start to sell his beautiful
+paintings on this marketplace and i will
+know that uh for every sale i will go
+two and a half percent so i will uh so
+it will take some time for me to explain
+him but in in future i will get uh
+for end of my
+life
+uh i will get uh this two and a half
+percent from here
+for example
+great you guys are opening up some new
+opportunities here for people uh ben
+you've had your hand up you got a
+question or you want to say something
+yeah yeah i just wanted to uh give a
+brand of kudos to the guys i mean
+obviously um
+if you go back to uh 2017 and all the
+craziness back then there was a
+very new uh exchange launched called uh
+be nance or something like that and uh
+they had a very generous referral scheme
+and uh look look where they are nowadays
+so you know referral schemes make the
+world go round
+um so really great work um i wanted to
+know are there any plans to implement uh
+audio nfts
+on the platform
+uh what kind of snippets
+uh sound audio
+uh why not uh we can store uh
+it's a good
+it's an interesting uh we can try by the
+way maybe now uh because you can see
+that we have already discussed about mp3
+uh as we as we store everything
+uh in
+iphone data so why not we can store uh
+mp3 uh
+only thing uh which we should uh
+develop here is uh displaying and
+playing this audio here it's the only
+thing
+uh but we can store to be honest we can
+store any data
+mp3 empire and before
+everything to be honest
+it's the only question about displaying
+on the uh
+on the on the marketplace
+yeah excellent excellent stuff i mean
+obviously spotify have got a big
+platform for musicians and nfts plans
+coming out in a few months so you know
+be good to get ahead of the game and
+really uh work out what the kinks are in
+this system i think great work again
+thank you
+fantastic thank you guys you guys are uh
+launching the marketplace officially in
+early july i think right because that's
+when you start your
+communications
+to get people on board
+yes of course we will be sharing our
+our social media uh links
+and of course we will publish the
+uh launch with our
+in our telegram groups
+yeah thank you great thank you looking
+forward to it
+uh moving on the agenda we have the
+broxas hackathon uh broxas was recently
+uh no they recently hosted the elysium
+hackathon in belgrade
+um it was also an online event for
+people who couldn't travel or go there
+to location and it was the first
+hackathon with developers competing to
+win from the 30 000
+usd prize pool we have broxah
+ceo
+thank you
+i like how you're saying it about the uh
+in the past sense you know in past time
+that it
+was so actually it's uh it's planned in
+july so it will take place in belgrade
+yeah yeah so from 14th to 17th of july
+and
+this will be the first uh hackathon
+under this brand subroxas elysium
+and
+we have
+chosen several
+several tasks for this hackathon and
+it will
+consist of three tracks so the first one
+is a question excellence so meaning that
+uh the teams will compete in writing
+cross chain the apps that i use in
+october's bridge
+the second one is
+development for developers
+which will focus more on
+creation of different tool sets for
+developers member scale
+so which is uh no never you can never
+get enough of those tools and uh
+the more you have uh the easier
+it will be to onboard new developer
+server scale and the third one uh is the
+ux ui perfection uh meaning that we will
+also
+encourage people to create some visually
+visually appealing uh
+interfaces and applications that are
+using
+octo's bridge as well so you see that
+the main topic for this hackathon is
+october's bridge integration and usage
+of all of its capabilities
+like hidden bridge like uh
+[Music]
+integration with different networks
+and so on and so forth
+uh so
+we do not
+really uh expect uh
+too much from this hackathon so although
+nevertheless uh we see almost 30 people
+have registered already
+and
+there are still something like three
+weeks
+but the main objective now is to
+introduce everscale and process products
+to a serbian community first of all and
+also we have started recently
+the information campaign
+just
+across the local community and the
+concept of uh broxas elysium is that it
+will be
+let me name it migrating hackathons
+meaning that we will be selecting
+different geographies to host it uh to
+introduce more
+uh
+our technologies to local communities
+and uh led them tribe the fingertips
+how's it to program in the
+multi-threaded
+solidity and
+yeah or synchronous solidity
+uh
+yeah so all to all to get more uh cool
+projects uh to on boards on um
+uh on ever scale
+and uh now i see quite quite a good
+number of uh
+people who are coming from different uh
+big companies like epam like
+uh jetbrains like microsoft
+like in driver
+uh
+and a lot of others so uh the name
+expecting and
+then more or less 50 50 split uh between
+online and offline parts
+uh
+so i'm really thrilled to see what will
+be going on uh and
+we will do our best to to
+let people enjoy this hackathon
+and i hope that we will manage to repeat
+it at least quarterly
+uh
+because the more this kind of events you
+have
+the better
+and i also encourage uh
+all people from everscale also to come
+to register and also participate in this
+this event so the more uh interesting
+projects uh we will see during theirs of
+the better
+and uh also uh if someone is willing to
+help us with uh
+uh
+real-time support for participants of
+the hackathon during the days of uh
+of the event so you're welcome so and we
+are welcoming everyone so we will have
+actually uh the support into two form
+forms so the first one is offline
+support of course for
+those who are uh on site
+and we will also uh
+be looking for different questions and
+requests in the hackathon
+telegram chat
+for people to
+to be able to get the information
+and i also encourage
+current overscale developers to to
+create some nice articles and
+explanations on the stack overflow
+website where typically most of the
+developers are coming to find the
+answers so i just want to remind you
+that we have
+the dedicated tech our scale on stack
+overflow so please don't hesitate to go
+there and
+help others
+with their questions
+um
+yeah so
+that's pretty it's about about this
+great initiative thank you very much for
+sharing i like that uh this hackathon is
+not just limited to developers you're
+opening it up a bit more so
+for a wider audience more people okay
+yeah so it's it's a point of
+communication of uh networking so
+there will be the full day where we'll
+be
+just providing the information about
+their skill about
+the process products as well
+but this will be of course targeted
+first of all to developers but also
+there will be some people from the
+business network
+of serbia so and i personally agree
+already with several people who will
+come and
+just
+discuss provide information so quite a
+lot of opportunities to be there and to
+to network yeah
+okay thank you um a couple of weeks ago
+in the bronx's chat there was an ever
+dow cube airdrop 100k was distributed to
+active participants was that already
+done uh yeah
+okay so it's people who uh were very
+active in the everdao governance
+protocol right
+do you want to share any information on
+on that
+uh yeah actually so it was a
+fair fair uh reward to people who were
+participating on uh everyday activity so
+it was our own initiative so it's no way
+linked to
+decisions of
+labor scale governance of the fire line
+so it was purely brock's incentive for
+those people who
+were actively uh
+participating in voting on never down
+and
+helping us to test it out
+and providing available feedback as well
+and uh so i hope now most of the
+community is
+familiar with how to use everdel and
+what is it about and
+is having a look at it time to time to
+see what's going on there
+so as you may have seen so it's not only
+about uh
+putting you know a big stake
+to to vote but it's also about
+your real uh your real thoughts your
+real ideas so and
+each vote matters of course and we are
+careful tracking what's going on
+uh so please continue doing like this
+so it's really available for the
+community for the everscale at home
+agreed thank you
+thank you vlad for the update
+uh moving on on our agenda we have the
+marketing update um
+we have a face that's becoming more and
+more familiar around here his name is
+alex and he's going to be giving us a
+little update on marketing in everscale
+alex
+thanks joe
+yeah i will make a short presentation
+for that purpose
+let me share my screen
+here we go
+so
+like just a couple of shout outs of
+what's what's what's been what's about
+what we've been up to in june so first
+of
+all uh is a new publication in forbes
+and we managed to get an organic
+mention
+of our michael gord talking about
+bullets
+which was pretty nice
+uh the next thing that might be of
+interest is our
+continued work on
+point market cup
+michael you're kind of a robot right now
+i'm not sure about your internet
+was it michael
+yeah
+i think he tried to say something
+okay
+[Music]
+do you want or can you say something
+maybe he'll type it but you can continue
+yeah maybe so the next thing is our
+continued work on uh coin market
+michael i think i think you should
+probably type it out
+oh i think it would be better
+[Music]
+so
+on coil market cap we've managed to make
+a good spot on the first page of it as
+you can see with one of our articles
+featured
+also we've made a big update to the
+description of what is everscale we've
+updated the links
+we've updated the text
+we've updated the
+whole description
+and also we've listed uh
+a solid part of our ecosystem which is
+available to list including uh october's
+bridge including flat cube as a bags and
+as a talking spartacats ever starts and
+we're aiming to
+list more ecosystem
+tokens
+on coin market cap because it's adding
+value for everyone at that day
+uh
+and also following i think we've touched
+on it on the previous meeting there was
+an ido for reveland a kind of blockchain
+moba game which was pretty successful by
+the way it was uh like
+a little bit with the help of our pr and
+uh
+communication efforts but uh all the all
+the indicators were modding but the one
+was pretty high for the tokens and now
+it continues with another activity now
+in the nfc
+sales section of everstart here everyone
+can buy a mystery box from
+reveland which are which can be be a
+cheaper version of it like a normal
+mystery box and they're
+really rare mystery box
+the amount is quite limited so yeah
+hurry up if you want to get some
+limited heroes and revolut i think it's
+quite a good question personally
+uh
+and
+another thing as as june sorry it should
+be june i typed matrix increasing july
+but metrics will increase further on in
+july but
+at this point then christian june as you
+can see on this charts we've got a solid
+increase in the number of impressions
+we'll keep on
+you know high intensity posting making
+almost 200 posts per month and we've got
+a little but important raise in the
+number of subscribers here on
+everscale twitter
+as for our website
+everscale.network you can see that as a
+result of everything we continue growing
+steadily
+those slightly versus april but if you
+compare it with you know march you can
+see that the growth is fantastic and
+amazingly we've got this
+interesting split on uh geography of our
+users of our visitors to everscale.net
+as you can see
+indonesia occupies
+the third place here on this pie chart
+in the right
+which is really good good good good to
+know because it comes as a result of a
+really massive
+pr uh and communication program that we
+are doing for indonesia starting with
+our event on bali and then further on
+with
+uh many pr articles published there in
+indonesia so
+it's great to see the split
+and
+i think that's more or less it from my
+side
+awesome thank you very much for sharing
+does anybody have any questions
+there
+the growth looks good
+uh
+thank you alex um if nobody has any
+questions we can move on to
+general questions um
+alex would you like to
+jump in for an ever start question i'm
+not sure who else would be able to uh
+answer that here the question
+is uh
+an hour after they were listed on flat
+cube they sold their tokens and scammed
+regular users
+more than they swapped ever to usdt and
+withdraw them i've lost 20k evers
+would you like to comment
+oh
+honestly i don't understand
+the whole thing what what what i think
+i'm also not sure if i mean
+if
+if it comes to i don't know
+flat q functionality they're always a
+support and telegram chat where everyone
+can ask whatever question and receive a
+timely no help
+if it's someone calling someone a
+scammer i i don't know how can i command
+this
+i can say that that no one is scammer
+here so it's definitely someone calling
+someone a scammer that that definitely
+that's not true
+i think they're talking about uh ever
+start but i don't know so maybe if uh
+whoever is asking the question they
+could
+shed some more light on why they're
+asking the question and then maybe we
+can look into it
+other than that i don't know at least
+some more details about it because now
+it sounds like
+you know
+but ever ever start is definitely not a
+bad actor it's a launch pad that we're
+developing
+in our everscale ecosystem
+okay i have a note here that uh we have
+brian uh who would like to give us an
+update about nftnyc he was at the event
+earlier brian
+thank you
+thank you guys for having me um and just
+to follow up with what vlad said i'm
+going to be at the hackathon as well in
+belgrade
+um so i encourage everybody who can to
+attend and if you can in person
+definitely do it online
+uh we got a lot of um we have huge prize
+pools and it's going to be interesting
+to see all the all the work and kind of
+the new crop of um everscale
+developers and broxas
+colleagues and all the different uh
+people from different spheres networking
+um it'll be a great opportunity but yeah
+i was in um
+i was in new york city last week for ny
+uh nyc nft
+um
+and it was a very cool experience uh
+there were like thousands of different
+uh projects there
+a lot of different celebrities and a lot
+of people that weren't in the nft sphere
+came out and uh
+and got a got a taste for what it's all
+about
+uh
+we met i met with a bunch of different
+uh nft cool nft artists that i told
+about everscale and broxas and
+i think there well there are definitely
+a few that want to work with us and i
+think a lot are are interested in in the
+prospect so hopefully we'll be seeing
+some results from from that uh and i
+hope that in the in the future we'll be
+able to uh have a more solid presence at
+these kinds of events i know that
+they're doing one in london
+um i feel like the everscale team should
+definitely look into
+maybe putting a stand together getting
+speakers to speak at some of these
+panels
+because uh the awareness isn't where
+that where we want it to be at right now
+but when i talk to people and tell them
+about the
+technical capabilities of the network
+everyone is kind of
+everyone is on board everyone's
+interested um what we have the network
+is is unique in what it can do and i
+think it's really necessary right now
+and especially considering the the state
+of the market now is a great time to
+to push forward and to to get more users
+so that when things get revved up again
+we'll be in a prime position
+um but yeah it was it was a very cool
+experience um and hopefully uh we'll be
+seeing some some results from that and
+hopefully we'll be able to do more more
+things like that uh in the future with
+uh with more force
+definitely
+thank you for sharing your information
+brian have you been on the call before
+you seem like a new face
+no i haven't been on one of these calls
+do you want to did you introduce
+yourself do you want to say
+oh yeah yeah so i work for brock roxas i
+i'm a writer and i do uh community
+management stuff uh i wear a lot of
+different hats for for broxas but i've
+been working there for
+a year um
+it's been great and um yeah i'd love to
+i'd love to sit in on more of these
+calls and give updates uh if you guys
+would be interested and definitely
+definitely you're welcome you should
+definitely do uh i mean we should
+definitely do um
+an update while we're at the hackathon
+uh and maybe running up to it and then
+after we can do an after um a wrap up
+after the hackathon concludes and stuff
+yeah that'd be great
+uh maybe if the dates overlap or
+something uh we can do a quick live
+stream
+maybe somebody can
+live stream at the event that would be
+cool
+for sure great
+thank you brian uh we have one last
+question somebody wants to know
+who's selling ever
+who sells ever so many that price go
+down
+i don't know i'm not selling i've never
+sold are you guys selling i hope not
+better not
+i think that's it anybody have any
+questions on the call don't say anything
+so always a pleasure to see all of your
+faces and see you again in two weeks
+from now everybody we'll have a lot more
+to cover
+bye everybody have a nice rest of the
+week bye

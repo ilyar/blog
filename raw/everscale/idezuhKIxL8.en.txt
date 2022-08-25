@@ -1,0 +1,488 @@
+hi all
+[Music]
+my name is mithya garashevsk i'm cto of
+don labs a core developer of freetown
+network which is currently
+the fastest and most scalable blockchain
+in the world
+but the topic of my today's
+talk
+is
+some challenges building decentralized
+internet
+and i named it
+building decentralized internet and not
+just a decentralized application or uh
+or a blockchain decentralized
+is because
+we believe that
+it's not enough just to build a
+financial decentralized financial
+application or decentralized financial
+backbone
+um we believe that
+we have a problem of centralization of
+the internet today and um
+just give a brief example why do i think
+it's not such a good idea
+simply because
+the laws of evolution tells us
+that we would not be sitting today
+if if the evolution process would be
+centralized
+meaning
+people
+or species doesn't matter they tend to
+make wrong decisions sometimes
+and sometimes these wrong decisions
+are just deadly
+so imagine if the evolution
+where
+all this pieces would reach one decision
+i think this this business would live
+very very short
+time
+because simply because they would make
+her some wrong decision and they would
+be all dead
+so we need to allow
+this process where
+a lot of groups
+a lot of people species that reaching
+different decisions in a decentralized
+way
+and
+now
+how do we do that
+and of course bitcoin was the first to
+build
+such a such a network where
+where it allowed for the first time uh
+for
+people who joined the network
+to not need to trust each other
+and there is no point of trust in
+blockchain
+in a public blockchain and that's
+exactly why i think private blockchains
+are just meaningless just it's just a
+wrong branch of an evolution
+of the technology
+okay so
+if we have a trustless network
+so of course satoshi wanted this network
+to be financial
+uh
+backbone to to provide for trustless
+finance
+and
+in a developed this way all the way up
+to today
+but in parallel to this
+there is there is an internet right
+there is a larger internet there are
+where users
+are putting their data on they have
+applications that they're running right
+and this
+internet
+evolution
+it made just an opposite direction
+completely it just went to the opposite
+direction
+where it started to become monopolized
+by very few entities and i'm talking
+about google i'm talking about you know
+facebook and so on
+in this
+um this monopolization of course is
+wrong on in the market because like
+governments around the world are trying
+to fight monopolization all the time
+because the market becomes inefficient
+while in the internet it went this
+direction
+be and it went with this direction
+because every market actually if you
+don't regulate the market it will sooner
+or later become monopolized because
+simply because that's the motivation of
+the party the motivation of economic
+parts in the market is to grab as much
+power as possible in the way of revenues
+right that's what the enterprise is
+optimized for is making revenue
+same thing when you allow
+the internet
+um
+to develop like the businesses on the
+internet these businesses will will tend
+to monopolize in exactly like in any
+other market and that's what we are
+witnessing today so right so we have the
+internet which is a bad one of all the
+data and all the human knowledge which
+is monopolized by very few parties
+and i i don't think this is such a good
+development
+if you think about the evolution
+and process we described in the
+beginning
+so
+for that
+we thought okay so let's we have
+industrialized technology we have a
+technology like the backbone like the
+database and we can run an applications
+on this database now
+um and it's a it's decentralized meaning
+the parties don't need to trust each
+other so why wouldn't that be good idea
+maybe to put these applications that
+just just not just financial application
+but basically any application
+or at least some
+portion of this application which which
+requires that to put that part in a
+decentralized way
+on a decentralized network so
+what would we need to do to even
+technically to allow this kind of
+thing right so first of all
+it is it it must be
+the demand on this on this backbone is
+would be huge right because
+it um there are millions of people who
+are using internet today there are there
+are like millions of applications which
+which which the internet is is uh
+um is used for
+so what kind of requirements would we
+need to talk about here if we want if we
+want this i will share my screen now
+for a second
+and uh
+let's see i just put one it's not even
+slight
+um
+to do that
+so
+i put four kind of four properties of
+this of this back one
+it need to be
+fast it need to be secure it needs to be
+something we called
+valuable and sustainable
+available right sustainable
+um
+i will briefly go for all of this
+um and i believe that all of them are
+required
+right so
+so first of all it should be fast and
+fast of course is a kind of
+not precise word but um let's
+just break it up so it need to be low
+latency and by low latency i mean if you
+go to like social network and you
+refresh a page or you put a post you
+don't expect that you know um post to
+appear in
+in an hour
+or and even in 20 seconds you you like
+hit the button you wait one two three
+well that's it i mean that's more or
+less the span of user uh kind of um
+ready to wait for this to appear on the
+on the website so it should be really
+low latency stuff
+then it should have a very high
+throughput because like there are a lot
+of these users potentially who would you
+know want to do that simultaneously
+so
+we talk about let's say twitter
+right
+so twitter has like i don't know 20 30
+000 transactions per second just just on
+there on their feed
+around the world and uh
+and they on the high peaks like it can
+have to like what 60
+000 tps
+right
+and it should be infinitely scalable
+because if i want tomorrow to develop
+new application i can define i'm an
+entrepreneur or developer i wrote some
+application and there are millions of
+users suddenly want to use it like i
+wrote the tik tok or whatever and there
+are millions of users want to use it
+well this network should scale with that
+right so it should be like almost
+infinitely scalable because we don't
+know how many of this application would
+appear
+now then it should be really secure
+because if we don't do that secure and
+i'm not talking about only financial
+first it's a very bad like if you have a
+financial application which is not
+secure but even if i'm not talking about
+financial application
+just you know you're putting all your
+data and we know that
+right now you put all your data in the
+hands of like google or whatever
+and um
+and and we and of course that is exactly
+the power of the of their monopolization
+because like they have this data now
+they can use that data to sell your data
+basically and so on and so forth
+so user need to be in control of of its
+data if we want really to decentralize
+the internet
+in order to do that you need to be
+secure like there's no of course
+arguing about that
+what we call millable is is is something
+nasim taleb called
+scientific
+it's um
+it's basically what happens to
+um
+if you want
+this system to like say you want to
+upgrade this system
+right
+who is deciding what need to be upgraded
+and and should we put your code on it or
+not right if there are rules of the
+protocol um who decide
+how this rules changes if we need to
+change them
+and we need to change them to adopt
+simply for you know future growth or
+needs or bugs change whatever
+and if you look even at the bitcoin how
+they do that
+um
+the repository where bitcoin repository
+code is centralized today
+so
+presumably it's just it's just not
+it's just not decentralized enough of
+course there are like governance
+structures which are like community
+governance structures that may be
+decentralized
+um
+but until the point where you make all
+of it decentralized and also in such a
+way where
+um this decentralization kind of
+is upgradeable
+meaning if if tomorrow community changes
+the network should not stop and the
+network development shouldn't stop right
+so you need some kind of rules
+governance rules which would be which
+would be flexible which would be
+anti-fragile
+and the last thing of course you need it
+to be sustainable because if it's not
+sustainable nobody will support it right
+so if you if you have a validators on
+the network you have you have more
+miners whatever um right you need an
+economic system
+where um
+doesn't matter what happens
+it will always be profitable to to run
+your network uh of course if the users
+are there if the users are not there
+then
+yeah well
+nobody needs the network
+right
+and the last point is it should be
+sustainable in a way that where the new
+entrepreneurs
+like developers want to join the network
+do something on that it should be it
+should provide some incentive for them
+to do that
+and so i think that
+more or less this is the framework this
+for me
+this is the frame of for like to
+building
+the
+this decentralized internet now if you
+look today and just
+take that framework
+and apply it to any blockchain that you
+know
+today and you will see very quickly
+that
+there are no blockchain today which
+actually
+um
+fits all these points
+right so
+there is simply no
+no protocol today which allows for
+creation of decentralized internet yet
+and they all of all of the protocols
+they have like their
+good side their strong side something
+that they do really well like for
+example you like there is a huge
+community of developers on ethereum
+and
+you know they write a lot of solidity
+smart contracts
+more or less they all of course copy
+pasting but that's not the point so you
+have this a lot so they like
+the ethereum to teach us or
+taught us that you can you can write
+applications on the blockchain
+but um
+the network itself is just not
+scalable at all so when we thought about
+that framework um
+we thought that this is the design that
+goals that we have right so
+and of course i'm not going to talk now
+about how how we tackle that and that's
+not the point when you can check it from
+freetown
+node organs and technical papers and but
+there are
+of course all basically many blockchains
+trying to solve that
+problem
+um of like but
+again you need to talk
+about this whole complex of these
+problems because if you just solve one
+you will not build a centralized
+internet you may build decentralized
+finance yes but you won't build
+decentralized internet
+nor a backbone for decentralized
+internet um so for example you can have
+a very like fast blockchain fast meaning
+like low latency high throughput
+but if you don't have governance um
+which is which is decentralized and you
+don't have it's a sustainable economy
+then that just won't work
+now when we talk about our design of
+course with these goals
+we kind of
+it changes a lot the perspective of what
+you're trying to do for example like
+if you if you take one chain solution
+and you just built very fast chain but
+you will still have um scalability
+issues because it's not infinite then
+you can then you quickly realize okay
+you can build a very fine um order book
+uh kind of um decentralized exchange but
+that's about it and because you will hit
+the limit upper limit of your of your
+scalability which will be i don't know
+even few hundred thousand tps but then
+it stops so how would you do the next
+one if you do if a developer comes to
+you and say okay i have another
+application and i need another million
+transaction per second more or less
+what you're going to do
+[Music]
+so um
+[Music]
+so so we need this infinite scalability
+and the infinite scalability you can
+only build
+with well it's you can't even build it
+with sharding
+because you will build just
+um
+scalability but you won't you won't do
+that fast and because like if you just
+shard every all the time
+it won't be low latency for example
+so there are compromises in each step
+and if you think about security for
+example if you share it a lot
+and you don't have a consensus which
+which provides security guarantees which
+are you know
+built for sharding if you don't solve
+that the sharding the security
+guarantees for charging which is really
+hard
+then then you cannot have sharding
+because you won't have security right or
+you simply jeopardize the user security
+if you have sharding and i'm talking
+about layer 2 solutions for example and
+all that
+and you can build layer 2 layer 3 layer
+4 what you have today more or less kind
+of a solution but the problem is that on
+if you go for all these layers for the
+user and i'm talking web3 which okay so
+let's say layer one um network which
+provides security currencies layer two
+network which provides the scalability
+layer three now which which provides
+like a user interface we're going
+through this whole web three stack if
+you just connect all these pieces
+together
+if you hit a button
+it will take you like i don't know how
+much time like it's it's it's not you
+simply cannot
+you need to think of a system that would
+have all these components tied together
+in one kind of network
+layer one
+and because without that you you simply
+cannot hit all these design goals
+just they're very simple um kind of
+stuff right
+um
+then and then you have all this
+decentralized governance and in the
+economy in which i i don't even want to
+start to talk about now because we don't
+have time for that
+so
+anyway
+just for a conclusion
+this is the framework i'm thinking about
+when i'm thinking about like the next
+generation blockchains
+this was our design goals when we
+created ours and i think that you need
+to check every well i check every
+blockchain or every kind of
+infrastructure solution
+um in the blockchain space today against
+these principles and if it doesn't fit
+then i say okay fine it has a limited
+like scope of that or that which is fine
+i guess
+um but well our goal was to build a
+decentralized internet because we think
+that there is a problem with the current
+one
+thank you very much
+and you know see you again

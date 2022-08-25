@@ -1,0 +1,555 @@
+1
+00:00:00,240 --> 00:00:03,409
+
+hello everyone I'm Ben and this is the
+
+2
+00:00:03,409 --> 00:00:03,419
+hello everyone I'm Ben and this is the
+ 
+
+3
+00:00:03,419 --> 00:00:05,869
+hello everyone I'm Ben and this is the
+latest everscale news picked just for
+
+4
+00:00:05,869 --> 00:00:05,879
+latest everscale news picked just for
+ 
+
+5
+00:00:05,879 --> 00:00:08,450
+latest everscale news picked just for
+you the team has been very busy recently
+
+6
+00:00:08,450 --> 00:00:08,460
+you the team has been very busy recently
+ 
+
+7
+00:00:08,460 --> 00:00:10,490
+you the team has been very busy recently
+with active development reforms and
+
+8
+00:00:10,490 --> 00:00:10,500
+with active development reforms and
+ 
+
+9
+00:00:10,500 --> 00:00:12,589
+with active development reforms and
+community building so let's recap the
+
+10
+00:00:12,589 --> 00:00:12,599
+community building so let's recap the
+ 
+
+11
+00:00:12,599 --> 00:00:14,690
+community building so let's recap the
+highlights of the past week two minutes
+
+12
+00:00:14,690 --> 00:00:14,700
+highlights of the past week two minutes
+ 
+
+13
+00:00:14,700 --> 00:00:16,849
+highlights of the past week two minutes
+on the clock here we go
+
+14
+00:00:16,849 --> 00:00:16,859
+on the clock here we go
+ 
+
+15
+00:00:16,859 --> 00:00:18,950
+on the clock here we go
+there is a very important vote last week
+
+16
+00:00:18,950 --> 00:00:18,960
+there is a very important vote last week
+ 
+
+17
+00:00:18,960 --> 00:00:21,050
+there is a very important vote last week
+on a major economic reform on the
+
+18
+00:00:21,050 --> 00:00:21,060
+on a major economic reform on the
+ 
+
+19
+00:00:21,060 --> 00:00:23,570
+on a major economic reform on the
+network the reform includes a number of
+
+20
+00:00:23,570 --> 00:00:23,580
+network the reform includes a number of
+ 
+
+21
+00:00:23,580 --> 00:00:25,490
+network the reform includes a number of
+points for managing the network and
+
+22
+00:00:25,490 --> 00:00:25,500
+points for managing the network and
+ 
+
+23
+00:00:25,500 --> 00:00:28,130
+points for managing the network and
+increasing its capitalization the
+
+24
+00:00:28,130 --> 00:00:28,140
+increasing its capitalization the
+ 
+
+25
+00:00:28,140 --> 00:00:30,529
+increasing its capitalization the
+community voted almost unanimously in
+
+26
+00:00:30,529 --> 00:00:30,539
+community voted almost unanimously in
+ 
+
+27
+00:00:30,539 --> 00:00:33,170
+community voted almost unanimously in
+favor this means a new round of voting
+
+28
+00:00:33,170 --> 00:00:33,180
+favor this means a new round of voting
+ 
+
+29
+00:00:33,180 --> 00:00:35,569
+favor this means a new round of voting
+with more detailed proposals awaits us
+
+30
+00:00:35,569 --> 00:00:35,579
+with more detailed proposals awaits us
+ 
+
+31
+00:00:35,579 --> 00:00:36,770
+with more detailed proposals awaits us
+very soon
+
+32
+00:00:36,770 --> 00:00:36,780
+very soon
+ 
+
+33
+00:00:36,780 --> 00:00:38,930
+very soon
+also this week there are important
+
+34
+00:00:38,930 --> 00:00:38,940
+also this week there are important
+ 
+
+35
+00:00:38,940 --> 00:00:40,790
+also this week there are important
+changes to everscale's technical
+
+36
+00:00:40,790 --> 00:00:40,800
+changes to everscale's technical
+ 
+
+37
+00:00:40,800 --> 00:00:43,250
+changes to everscale's technical
+development that affected all teams in
+
+38
+00:00:43,250 --> 00:00:43,260
+development that affected all teams in
+ 
+
+39
+00:00:43,260 --> 00:00:45,110
+development that affected all teams in
+the ecosystem
+
+40
+00:00:45,110 --> 00:00:45,120
+the ecosystem
+ 
+
+41
+00:00:45,120 --> 00:00:47,869
+the ecosystem
+there will now be more product teams and
+
+42
+00:00:47,869 --> 00:00:47,879
+there will now be more product teams and
+ 
+
+43
+00:00:47,879 --> 00:00:50,630
+there will now be more product teams and
+as such more people responsible for the
+
+44
+00:00:50,630 --> 00:00:50,640
+as such more people responsible for the
+ 
+
+45
+00:00:50,640 --> 00:00:53,090
+as such more people responsible for the
+results before the final decision this
+
+46
+00:00:53,090 --> 00:00:53,100
+results before the final decision this
+ 
+
+47
+00:00:53,100 --> 00:00:55,130
+results before the final decision this
+idea was tested out and the feedback was
+
+48
+00:00:55,130 --> 00:00:55,140
+idea was tested out and the feedback was
+ 
+
+49
+00:00:55,140 --> 00:00:58,430
+idea was tested out and the feedback was
+impressive so expect a Quantum Leap in
+
+50
+00:00:58,430 --> 00:00:58,440
+impressive so expect a Quantum Leap in
+ 
+
+51
+00:00:58,440 --> 00:01:00,229
+impressive so expect a Quantum Leap in
+ecosystem development
+
+52
+00:01:00,229 --> 00:01:00,239
+ecosystem development
+ 
+
+53
+00:01:00,239 --> 00:01:02,990
+ecosystem development
+on top of this last week the boxers team
+
+54
+00:01:02,990 --> 00:01:03,000
+on top of this last week the boxers team
+ 
+
+55
+00:01:03,000 --> 00:01:05,810
+on top of this last week the boxers team
+introduced a completely updated everscan
+
+56
+00:01:05,810 --> 00:01:05,820
+introduced a completely updated everscan
+ 
+
+57
+00:01:05,820 --> 00:01:07,850
+introduced a completely updated everscan
+the team has improved the functionality
+
+58
+00:01:07,850 --> 00:01:07,860
+the team has improved the functionality
+ 
+
+59
+00:01:07,860 --> 00:01:10,190
+the team has improved the functionality
+of the previous version and added a new
+
+60
+00:01:10,190 --> 00:01:10,200
+of the previous version and added a new
+ 
+
+61
+00:01:10,200 --> 00:01:12,830
+of the previous version and added a new
+section so now there are more tools and
+
+62
+00:01:12,830 --> 00:01:12,840
+section so now there are more tools and
+ 
+
+63
+00:01:12,840 --> 00:01:14,210
+section so now there are more tools and
+information for working with smart
+
+64
+00:01:14,210 --> 00:01:14,220
+information for working with smart
+ 
+
+65
+00:01:14,220 --> 00:01:16,490
+information for working with smart
+contracts available for both developers
+
+66
+00:01:16,490 --> 00:01:16,500
+contracts available for both developers
+ 
+
+67
+00:01:16,500 --> 00:01:19,490
+contracts available for both developers
+and regular users and this next bit of
+
+68
+00:01:19,490 --> 00:01:19,500
+and regular users and this next bit of
+ 
+
+69
+00:01:19,500 --> 00:01:20,870
+and regular users and this next bit of
+news will be relevant to the first
+
+70
+00:01:20,870 --> 00:01:20,880
+news will be relevant to the first
+ 
+
+71
+00:01:20,880 --> 00:01:23,390
+news will be relevant to the first
+providers of liquidity to bridge users
+
+72
+00:01:23,390 --> 00:01:23,400
+providers of liquidity to bridge users
+ 
+
+73
+00:01:23,400 --> 00:01:26,270
+providers of liquidity to bridge users
+the next part of the bridge airdrop has
+
+74
+00:01:26,270 --> 00:01:26,280
+the next part of the bridge airdrop has
+ 
+
+75
+00:01:26,280 --> 00:01:27,469
+the next part of the bridge airdrop has
+become available
+
+76
+00:01:27,469 --> 00:01:27,479
+become available
+ 
+
+77
+00:01:27,479 --> 00:01:29,510
+become available
+you have about a month left to claim
+
+78
+00:01:29,510 --> 00:01:29,520
+you have about a month left to claim
+ 
+
+79
+00:01:29,520 --> 00:01:31,310
+you have about a month left to claim
+your share so go ahead well there's
+
+80
+00:01:31,310 --> 00:01:31,320
+your share so go ahead well there's
+ 
+
+81
+00:01:31,320 --> 00:01:33,789
+your share so go ahead well there's
+still time also as you might remember
+
+82
+00:01:33,789 --> 00:01:33,799
+still time also as you might remember
+ 
+
+83
+00:01:33,799 --> 00:01:36,289
+still time also as you might remember
+everscale celebrated its second birthday
+
+84
+00:01:36,289 --> 00:01:36,299
+everscale celebrated its second birthday
+ 
+
+85
+00:01:36,299 --> 00:01:38,030
+everscale celebrated its second birthday
+this year woohoo
+
+86
+00:01:38,030 --> 00:01:38,040
+this year woohoo
+ 
+
+87
+00:01:38,040 --> 00:01:40,730
+this year woohoo
+to celebrate this Milestone we created a
+
+88
+00:01:40,730 --> 00:01:40,740
+to celebrate this Milestone we created a
+ 
+
+89
+00:01:40,740 --> 00:01:44,270
+to celebrate this Milestone we created a
+collection of 4 000 anniversary nfts
+
+90
+00:01:44,270 --> 00:01:44,280
+collection of 4 000 anniversary nfts
+ 
+
+91
+00:01:44,280 --> 00:01:46,249
+collection of 4 000 anniversary nfts
+we would finally like to announce that
+
+92
+00:01:46,249 --> 00:01:46,259
+we would finally like to announce that
+ 
+
+93
+00:01:46,259 --> 00:01:48,649
+we would finally like to announce that
+all the nfts are available to claim have
+
+94
+00:01:48,649 --> 00:01:48,659
+all the nfts are available to claim have
+ 
+
+95
+00:01:48,659 --> 00:01:51,350
+all the nfts are available to claim have
+you seen this masterpiece yet and as
+
+96
+00:01:51,350 --> 00:01:51,360
+you seen this masterpiece yet and as
+ 
+
+97
+00:01:51,360 --> 00:01:53,569
+you seen this masterpiece yet and as
+always look out for all the useful links
+
+98
+00:01:53,569 --> 00:01:53,579
+always look out for all the useful links
+ 
+
+99
+00:01:53,579 --> 00:01:55,789
+always look out for all the useful links
+in the description for this video also
+
+100
+00:01:55,789 --> 00:01:55,799
+in the description for this video also
+ 
+
+101
+00:01:55,799 --> 00:01:57,590
+in the description for this video also
+don't forget to subscribe to the channel
+
+102
+00:01:57,590 --> 00:01:57,600
+don't forget to subscribe to the channel
+ 
+
+103
+00:01:57,600 --> 00:01:59,749
+don't forget to subscribe to the channel
+click on that little bell and give us a
+
+104
+00:01:59,749 --> 00:01:59,759
+click on that little bell and give us a
+ 
+
+105
+00:01:59,759 --> 00:02:02,090
+click on that little bell and give us a
+like it helps the channel grow attract
+
+106
+00:02:02,090 --> 00:02:02,100
+like it helps the channel grow attract
+ 
+
+107
+00:02:02,100 --> 00:02:04,190
+like it helps the channel grow attract
+more viewers and then we become bigger
+
+108
+00:02:04,190 --> 00:02:04,200
+more viewers and then we become bigger
+ 
+
+109
+00:02:04,200 --> 00:02:06,289
+more viewers and then we become bigger
+as a whole so thanks for being with us
+
+110
+00:02:06,289 --> 00:02:06,299
+as a whole so thanks for being with us
+ 
+
+111
+00:02:06,299 --> 00:02:10,340
+as a whole so thanks for being with us
+and I'll see you all next week bye
+

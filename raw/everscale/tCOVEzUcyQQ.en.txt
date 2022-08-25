@@ -1,0 +1,1240 @@
+all right i think we can start
+so welcome everyone to our 23rd weekly
+defy call
+of the free tone and we have
+quite an agenda today so we have several
+interesting topics to discuss
+uh so let me just go briefly through the
+agenda and then we will start so first
+of all so
+uh i would like to announce that we will
+launch the ethereum bridge stage 2
+contest so
+somehow we forgot about this and
+in fact we almost finished this
+and presented this on the demo however
+we need to still launch this contest
+because the next stage is also
+approaching where we will have
+the governance models and economics
+implemented
+next topic is a doom swap contest with
+fabrice today you're here with us so we
+will discuss this as well
+uh just a kind reminder on the polka dot
+bridge stage 2 contest so now it's
+voting time it's only 7 days left so
+guys please don't
+don't just miss this opportunity to
+check and see what guys did and what
+they submitted and
+this time i hope uh it will also be fine
+next we will shortly touch the external
+jurors involvement
+in the defy contest and uh finally
+i would like to devote some time to
+discuss back bounty programs uh
+for all the technical solutions
+developed within our sub-governance
+so i will start with the first topic on
+the agenda
+which is a ethereum breach stage two so
+uh just to remind so the second stage is
+named
+token transfer between two two
+blockchains
+and in fact it is a chained contest
+meaning that only the
+teams who has won any price place on the
+first stage for
+the implementation is eligible to
+participate in the second stage so
+actually this means that only brock's
+team is
+allowed to participate in this contest
+so i think it's fine if we
+make it with a short short term like one
+month
+i guess just to let us finalize all
+the things and make it
+polish it a bit as we
+have shown during the demo last time
+the bridge is now fully functioning of
+course it is uh the for only the first
+release and we
+have got a lot of feedback from from you
+guys and that's that's really cool
+so we discussed internally and uh that
+was really fine
+uh the most criticism we've got is
+uh that we still have some admin keys
+just to update contracts in the
+blockchain
+uh we have slightly touches during the
+demo but
+um let me maybe uh clarify this a bit uh
+deeper so to implement
+governance model it will take three
+something like three months
+of of work of the team and
+because it's not not that the easy the
+easy task
+and that's why currently we have of
+course some
+simpler architecture and it will go
+it will go definitely and
+after the governance model is ready it
+will become
+dually decentralized yeah like this term
+in
+in the free tone uh so meaning that
+uh all the bridge contracts updates
+uh from that moment will be controlled
+only by the voting by the
+relay network and
+guys are approaching this task already
+so i hope that they will be able to
+start
+in coming weeks so and now to
+finalize the second stage so we formally
+need to
+to run the contests and uh and apply
+this work
+uh we also run a minor
+bug bounty program so uh actually we
+didn't expect
+that much activity and uh i really
+appreciate this and
+we are still uh collecting the feedback
+and just
+grouping it so i just back a pattern
+that we
+didn't announce yet the results because
+there's so much information
+so i hope we will do this by end of this
+week definitely so
+nobody will will be forgotten i promise
+uh next thing
+that we would like to discuss today is a
+dune swap so uh
+fabrice uh shared with us the proposal
+so uh for this maybe you just make some
+intro
+and describe a bit uh about the
+partnership with dune
+so uh what will be the outcome of this
+contest
+yes so indeed i am part of the june
+community
+uh in january we had a
+vote on china in june
+on return on the to to decide
+that uh the two communities uh should be
+merged
+on the as part of the of this
+of this proposal there would there was
+the idea that there would be a contest
+to develop a swapper
+so that every dune token
+would be converted to friton
+crystal token so it's not really a swap
+in the same sense as the bridge between
+uh
+ethereum and friton it's not about
+having
+june tokens on return but to convert
+them
+as a to dune to freeton tokens
+so the the idea is to onboard
+the dune community inside the freetown
+community so of course
+that has started already there are some
+members that are already part of a few
+sub-governances and they are also
+involved in the in contests but to be
+completely included
+the the merger has to happen so i think
+that now we
+will really have to to to do that as
+fast as possible
+so what i did is i took a copy of the
+ethereum bitcoin
+bridge contest and i modified it
+to to fit for a swap with juno
+and so i submitted it on the forum also
+and so the first questions i got was
+about the bridge with tezos so
+so june is a fork of tesos
+but the technology especially the smart
+contracts
+are a bit different in the sense that
+the language
+for for dune is a
+much more powerful than the one of tezos
+so it's easier to write contracts
+on june that than it is on tesos so i
+think that
+we shouldn't try to
+to create immediately a bridge with
+tezos in this contest
+because it's i cannot estimate the time
+it would take
+and i can estimate the time it would
+take for you know
+which is a few weeks or something like
+that
+and and so i would prefer so it's my
+opinion of course
+to have two separated and the other
+reason is that
+to my knowledge there is not so much
+defy
+on tezos at this point they actually had
+a bug
+in the token wallet recently and they
+had to
+to to to clean it so
+so i think it's not that urgent
+to to have a blade with tezos so i think
+the two contests could be separated and
+the bridge with tasers can be done later
+and especially as the people from june
+have a better knowledge of this or they
+will be able to also
+compete in that contest so so i think it
+makes sense to have the two separated
+so that's for the introduction i don't
+know if well
+of course if you have questions i am
+here today so i welcome any
+questions and feedback on on the ideas
+to
+see how to to go forward now yeah thank
+you so much
+actually i have looked through a
+proposal and i have few
+few comments so um the first one
+is uh normally we have
+the contest split in several stages so
+the first one is the design and
+architecture stage
+where we just collect
+best architecture to implement this so
+and
+saying that this
+kind of tool will not be that
+that complex as a bridge one for example
+as a fully functioning
+bridge uh i think that the period
+to implement this can can be really
+shorter
+and uh and i don't really know if we
+need this
+stage now uh taking that
+according to the proposal that was taken
+by the
+main governance so the merger should
+just end in under three months
+so i don't know from which moment in
+time the counter has started
+uh so i cannot judge it
+by myself if it's feasible or not so
+maybe media
+who's here uh can just give a comment on
+this
+so uh what do you think um
+should we have some uh architecture
+stage
+at least even shorter one uh before we
+run the
+implementation i always prefer
+architecture stage you know
+yes yes so maybe what what we will do so
+we
+will uh run the architecture stage two
+two weeks contest
+just to collect some information because
+uh
+i bet there is no not so many experts in
+tesla's
+smart contracts here for now i hope that
+the number will grow significantly after
+the merger and uh
+this case uh in this case uh fabrice i
+invite you just to
+deliver this information to tell us in
+june development teams
+who will be participating in this
+contest and they will be writing the
+implementation
+so that they could come and participate
+and the more participants is better
+so uh actually uh and then we will uh
+launch one month in the implementation
+stage i think one month is more than
+enough
+for for this uh purpose uh and this
+this way i think we will cope within the
+time frame that was announced from the
+main governance
+the next uh point i will address
+is uh that normally before launching the
+contest so we preliminary
+talk to to a number of teams uh
+explaining
+uh what is this contest about and
+how it will be run uh what you need to
+do to participate
+just to ensure that at least several
+teams will come and participate
+and will you be able to do the same for
+june
+developers so i am not sure to
+understand
+who i should contact so clearly uh there
+is a team of
+origin labs that will be competing
+the other teams uh well i don't know
+i don't think that well they have to
+come from
+friton ecosystem i think so yeah
+in fact anyone can participate who has
+enough knowledge on how to do this
+uh so so uh if it's possible to
+distribute this information
+uh across june community that there will
+be such a contest
+so please guys come participate in the
+design stage and then implementation
+stage
+so uh you're welcome and uh
+taking the specificity of this contest
+so we will need to select i guess one
+uh winning solution that will be used to
+perform the transfer of tokens to the
+swap of tokens
+uh and it should be also dually governed
+so uh i sorry i didn't get the last um
+government i mean that uh this is
+the point where the huge amount of money
+will be transferred
+yeah and it should be uh con i think
+done under the control of some people or
+some reputable people
+from both sides and this also should be
+tackled within the architecture stage
+so how it will be done because this is
+not clear for me
+from from the proposal and
+last but not least we have
+done a lot of improvements in our
+procedural parts in the device of
+governance and
+i will share with you an example of
+recent contests uh how we do this so
+just briefly speaking it will mean we
+will just need to get rid of half of
+text from the proposal and just put the
+reference to the
+uh some specific documents which just
+summarizes all of these main blocks and
+that's it
+uh in all the rest yeah it's it's a nice
+proposal and
+if we just tackle these three points so
+it's fine
+one more thing is that uh asset will be
+funded from
+the main governance uh so we will just
+need to
+to write this specifically uh inside
+so and maybe we will uh formally run
+this
+under the main governance interface but
+the
+jurors groups will be from defy and from
+devex
+so yeah so uh i will do my best
+to just update your proposal uh
+this week hopefully tomorrow and just
+will
+drop the updated version uh in the group
+so to make everything
+so what i understand is that there will
+be a first contest of two weeks
+yeah so starting next week in some way
+uh
+for the architecture and then the the
+next contest will be the implementation
+itself yeah
+exactly as a result of the
+implementation can we
+do you think we can get something that
+every team will
+in some way deploy the solution on the
+network sometimes i don't know so we'll
+choose between them now yeah we will see
+this
+should be the uh outcome of the design
+stage
+so on how this should be done and this
+is why this stage
+is also crucial because uh it helps you
+to prevent a lot of mistakes in the
+implementation stage
+so you you will have several teams
+competing uh
+with the proposed architectures that
+will be tackling these
+governance issues it will be tackling
+this
+issue of how to this
+source code should be used whether it
+will be just one interface or
+multiple interfaces or whatever so
+i don't have the answer now but uh
+that's why we run design stage
+first actually yeah so uh
+and at the end so we will definitely
+achieve our objective
+okay guys do you have any questions of a
+breeze please
+yes i have questions about dune network
+and maybe about developers team indian
+network
+how many team you have and
+what we should do if you want to
+move with teams to frito network
+because we need a lot of developers and
+a lot of
+we want to create a lot of projects in
+our system
+so uh so there is the main team which is
+the origin labs
+who i am part of
+and i think that for the other teams
+i know at least two other projects
+that are on you know that are being
+developed
+one is actually already uh
+i've already been retargeted to return
+so i think that team i will contact them
+because of course
+they have both knowledges and for
+for everyone i don't know exactly what
+what they're doing right now
+[Music]
+at this point so of course
+june being a fork of tesos there is
+there are all the teams from the teso
+ecosystem but
+at this point it's not clear whether
+they are going to
+want to participate in this contest i
+mean they are focused on you
+know also so it's not clear
+what what's well the tech well the
+technology of tesos is uh
+if they know it they are able to use it
+for fortune
+so so they can be part of it but
+uh i can't tell uh if
+[Music]
+if they are going to participate so so
+for for the
+for the developers themselves uh i think
+there are only three small for a small
+team
+one big on two small ones uh
+in the in the community so uh one of is
+already part of return in some way
+right now so
+so i i don't know if it might reply your
+feels what your replies to your question
+but
+yes thank you thank you
+good any other questions guys
+three two one no thank you for breathe
+so and
+uh yeah we have one hand raised sanzor
+please yeah hello
+um i wanted to ask a similar question
+but not about
+the dev teams uh rather about some
+projects that are
+uh that can bring more publicity or
+pr or well other things that need to be
+attended in freetown as well as any
+other
+developing project in case we we have
+this
+merge uh we'll need to
+sort of unify the forces to
+to attract more people and to attract
+more user base
+and possibly to attract i don't know
+tess's user base as well
+and similar blockchains that are
+looking to have real use cases so
+my question is about the the
+non-development part of the community uh
+is it yeah can we
+what are the benefits that when we can
+uh
+have from this if you can comment on
+this thank you
+well the benefits are that i think that
+the
+the june community in some way is a
+complementary
+of the of the friton community
+uh they are very active indeed they are
+most of them are coming
+well that are coming above in texas
+and in the june community so i think
+that
+the the good thing with that is that
+there will be
+a bridge uh between uh also tesos
+on the on the on the earth or
+return and also um
+there are well they have uh
+well the community is very active and
+well they have a telegram a discord and
+all these channels as in freeton but
+they are from
+more from western uh europe european
+countries uh
+france also a lot of course
+tesos is a lot in france
+so i think
+i mean we already uh have uh
+have been who is uh uh
+very active in the freeton community now
+with uh
+what's our former uh uh well
+what's the name for that communicant
+well a
+technological evangelist so now he's a
+friend evangelist
+and and i hope that a lot of people like
+him are going to
+to come from the well of course there
+are validators also we had a lot of
+validators on
+on june so the dune validators are in
+some way easier to
+to run because they are less demanding
+than
+[Music]
+but some of them
+are very interested in becoming
+validators on return and so i think it's
+important also for britain to have
+more validators coming uh from this part
+of the world
+on the uh on well
+well right now they are waiting for the
+tokens to be on
+on friton so so they cannot yet well so
+i know that i have
+i have started to work with some of them
+on the roster the contest
+but uh but still uh we are blocked in
+some way by the
+uh by our tokens being on dune or not on
+friton
+okay thank you thank you for answering
+thank you febreze
+thank you
+any other questions
+no well done fabrice thank you so much
+for your feedback so
+uh as promised i will just provide you
+with my feedback
+soon soonish
+hopefully tomorrow a lot of things
+should be done
+uh yeah so but we will do our best to
+run this as soon as possible
+uh now let's move to the next topic so
+uh as i said
+bulka dot bridge team windex team has
+published a
+uh they think for the second stage to
+the
+governance interface and the voting is
+open for one week already
+so uh there are still not so many votes
+so i invite everyone who is on the
+jury team to participate and
+invest their time just run all the
+source code and check
+so seven days to go and the voting ends
+just a kind reminder next thing is about
+is to discuss the external jurors thing
+uh as you may remember it was couple of
+weeks ago when we
+discussed the possibility to attract
+external jurors from
+other sub-governances namely starting
+with devex subgovernance and
+to help us assessing the smart contracts
+part
+and finally i created the document
+that just establishes such an
+opportunity for us
+and it's very short actually but
+still it is something that needs to be
+tackled with uh attention
+yeah and i invite everyone just to
+review this document
+and uh if i missed something here
+and that you think it is important
+so please do not hesitate to just leave
+your feedback there
+or just you may write me directly uh
+and if it's okay so i propose to run it
+for voting tomorrow or month or on
+monday
+and uh in this case we will have
+the opportunity to attract the
+additional jurors starting from the next
+two contests which are namely
+uh stable coin contest and the contest
+for
+ethereum breach stage two so and
+we will already be enjoying the
+additional brains in our team who will
+help us to improve the quality of the
+solutions uh and
+uh last but not least topic on the
+agenda is um
+the one that i named back bound it's
+always this is a topic for discussion
+today
+and uh let me just ignite the intro and
+i would like to hear your opinions as
+well so we have a lot of
+uh highly complex technical solutions
+being developed within device
+subgovernance and
+this is something that really needs to
+be
+debugged definitely there is no source
+code without bugs you know
+and our main target is to make it
+as have
+as slow number of bugs as possible
+and as you remember normally in our
+technical context there is a last stage
+named
+security audit but before security audit
+will be performed uh i think it is
+will be a good idea to run a bug bounty
+program on
+any solutions that have been developed
+within the device of governance
+uh so uh i have for now no idea of
+what the prices should be or
+should it be recurring or maybe a fixed
+contest
+or should it last one week or one month
+uh
+i just believe strongly believe that
+it's something that we really need
+uh okay so i would like to to hear your
+opinions on that
+please raise your hands
+yes okay please you were the first
+um actually i'm thinking uh
+can you hear me yes yes yes please yeah
+i'm thinking
+um is it possible to make a bug bounty
+program
+like repeating every
+month or maybe every half of a year
+because usually in
+from a practice box appears
+not from during the starting period of
+using the software they are appearing
+from some
+time from time to time during whole
+life cycle of the software so what do
+you think about
+creating bug bounty repeating
+this program contests and
+assign such rewards
+that will make some
+we're broken the software and uh
+no economically effective
+i mean if some guy will find a bug
+for him it will be much easier faster
+and economically reasonable
+to report it instead of trying to
+make something wrong with the software
+this is my point
+yes i agree that uh backbone is
+something that's
+normally run or repeated
+in a repeated way and
+there is of course should be the
+different rewards
+for different severity of bugs
+meaning that for example if a guy found
+some
+zero-day bug within the
+the code and reported it so it should be
+dually rewarded
+because it really affects the whole
+ecosystem
+yes yes yes yes i have an idea
+i i want to attract uh
+immunity to the fake system
+where professional in a different
+back-bound program in different
+blockchain and the file system
+it's one of portfolio company of our
+member of house of governments
+and i think uh zorab can create intro
+with their team and maybe we can
+get any consultation from them and run
+program
+and for example in our program we can
+create a budget reward for it
+and we can use not only on crystal we
+also can use
+bridge bridge governance token uh texas
+governance talking and etc
+i think it will be very interesting
+because uh nobody know
+uh how many vista can uh
+will cost in in some months and maybe it
+will be big money maybe it will be
+nothing
+uh let's see uh but i think it will be
+interesting
+uh great budget from uh tom crystal and
+uh from uh
+project governor stephens yes
+sounds really really good i'm looking
+through it so
+it's very interesting one
+can i raise my hand yes yes so please
+please
+interface of zoom but i haven't seen it
+so so i raised my
+real end uh actually we had a discussion
+in the
+uh formal verification sub governance
+about the backbone t2
+and i was wondering if it would not be
+better for return to have just one bug
+bounty program for all sub governances
+instead of multiple ones because
+if i find them back somewhere then i
+have if
+i am i don't know too much about the
+sub-governances then
+i won't know exactly to which uh
+sub-governance i should go
+uh on the having just one uh
+ubuntu program for off-return where then
+uh
+the jurors can be this can decide all
+these speculatives about this subject
+then we will
+send the the the the
+well the email to uh
+these good subgovernance is sometimes
+better
+than to have multiple ones well i don't
+know if it is easily feasible but
+i think it would be better
+well at least uh
+there may be one touch point for
+such bounty programs and describing
+where you should go to participate in it
+uh speaking for free tone so we have
+actually different budget for different
+sub governances and
+there are uh a number of sub governances
+that are really developing something
+and who require some bug bounty really
+so this is devex then defiant and
+somehow some others but direction
+defines the most intensive ones
+uh so
+so if i understand this right so
+immunify will publish
+all our bounty program on their website
+right and yes um as rob
+told to us it's not number one in this
+market
+uh for three different uh boundary
+program uh we have
+different mechanics for it and they have
+a heightened community
+who are records of it and i think it
+will be a very very good stage
+from from outside uh starts work with
+immunity
+and we can attract uh
+hikers from the munich community
+sounds really good
+any uh other ideas guys please
+raise your hands and say something
+yes media please um hi um
+could you try to imagine
+could you try to say uh some what would
+be the size of
+over prizes in immunity
+system because i see the million and a
+half
+on the first place what do you think
+about
+our bug bounty programs in defy
+subgovernance
+which we can publish here uh i
+i think we can create budget up to 100k
+dollars
+in uh taunt and in governance token
+and uh because because uh
+we are not dealt now we need some time
+uh
+for freetown and for our project to be
+big and
+before we're not big it's uh i think
+it's it's it's maximum
+and it's not and it's program
+not only for one buck in one project
+it's a
+program for uh different bugs
+in our products
+okay yeah and average you see it is up
+to 50k
+normally so it's only on the first page
+the most
+lucrative ones but the majority has the
+maximum bound of 55 50k sorry
+what's wrong with my tongue today uh
+yeah
+and the figures should be really uh
+discussed so it's it's not
+the answer that we can give right now so
+uh
+yeah yeah sure let's propose and discuss
+so
+finally we will just find some something
+fair
+i i want to remind just we had several
+bounty programs in friton
+already so it was for the app uh server
+and the one for tons of uh
+and the prices there were up to 35k i
+guess
+so meet me you may know a bit a little
+bit better
+by the way mita how did they go so
+actually uh
+we're very happy with the results and
+maybe you can just uh propose to us
+suggestions on the back on the bug
+program on the backbone
+yeah we actually during the summer uh
+time
+and now with the rust cup we have a
+kind of bug bouncy running in parallel
+with the contest and it was very good i
+mean
+we there were some bugs found and we
+already have some bug found
+during this contest as well so it
+i don't know i had that just this
+experience
+so that worked well do you have
+something that you would like
+would make better if you had the chance
+so uh
+so for us to learn from you yeah well
+again in terms of no i think that
+again if you want to kind of we work
+with the same community that
+participate in the contest so they
+participate in the contest during
+participation they kind of figure out
+oh there is a bug here but it's back
+there they report the bugs
+and we we kind of pay them after that
+you know
+kind of running then we after the
+contest we kind of
+collect all the all the data and and
+kind of getting reward structure for
+that okay um
+just classifying the bugs during the
+severity and
+uh have a table you know with all the
+bugs with all the
+who reported them what the severity is
+and then kind of
+the prize pool is divided
+um i really don't know how to best
+organize that
+it can be organized in very different
+ways we can run
+we can have a ongoing
+bug contest as fabrice said
+uh in parallel we can run special
+contests for
+particulars like bugs to find bugs in
+particular
+solutions you know i don't think it's
+one conflicting another
+and of course you need to just
+account that you have four that you have
+like
+two in parallel or whatever so you
+should say that the one bug cannot be
+submitted into two or three more
+so on but other than that i don't know
+that's uh i think it's open kind of
+everyone should decide what's better for
+for particular i mean
+because different software different
+solutions have different
+probably ways to approach like the bug
+bounty program
+i guess um that's why i don't think that
+we just
+can have one program that covers it all
+for all the cases because there are
+several
+a few cases that are very kind of can be
+very different
+for example if you just run a bug bounty
+program for just general bugs and
+in smart contracts and in software
+and then you have the uh the validators
+contest
+it it it should you know
+people will not report the bugs in the
+general program because they won't
+think it fit or the requirements for bug
+reporting will be different
+and stuff like that so it for us it's
+still
+worthwhile to run a separate
+uh you know contest for the for the
+validator contest bug bounty for example
+okay nevertheless despite the fact that
+we may have a general problem
+can you somehow at least classify such
+bug bounty programs and
+at least say in advance and well
+not well maybe in advance maybe based on
+on the current experience
+for example we're we're like we report
+we're now releasing the security card
+that we have
+right and security card already we
+already released by the way several open
+source software tools for the security
+card in our repository i don't know we
+didn't really announce that but
+you can actually see that it's there um
+the security card now is ready to be
+shipped to the to the developers more or
+less
+and of course we need to run a bug
+bounty program but that's a very
+specialized very specific bug bounty
+program for this particular
+device with this particular libraries we
+want to look into particular things
+like there is a process that we
+developed for delivery of the car the
+men in the middle stuff they
+the the special security uh
+system of of uh ensuring that the cart
+uh cannot be tempered with over the
+whole uh
+not only delivery process but also
+manufacturing process
+and that is that is uh you know that
+that technology would definitely want to
+you know to test and hackers to find
+bugs and
+i don't again i think that we will run a
+special
+kind of bug bounty contest just for that
+because because again it's it's a very
+special thing there is it requires
+very special people to do that like
+people who can
+go and try to side channel attack the
+like the cart itself
+and uh you know what not like really
+it's not the same
+people who hug the like the smart
+contract
+it's a it's a different it's different
+people has different requirements
+it should be also different prices i
+think
+okay okay yeah and this is actually uh
+what i would like to to hear so um at
+least
+to kind of frame uh that
+we have backbone these programs i don't
+know
+for smart contracts back bounty for
+uh validator nodes back bounty for
+something else
+and uh there will be a four comprises
+starting you know
+for uh finding bugs in
+public interfaces like you know turn
+live or ton explorer or whatever
+so it will be from 500 to
+5000 for example and for finding bugs in
+validator nodes
+it will just give will give from 1 000
+to 100 000
+so um at least to
+facilitate and standardize kind of uh
+such contests so to have us
+definitely you can do that i said i mean
+definitely you can do that
+and definitely you can of course there
+will be like more i think categories but
+you definitely can
+formalize such a system smart contracts
+that a very specific category
+yeah uh which definitely is a critical
+for the whole system like
+bug in the protocol right the bargain
+virtual machine the bugging compilers
+the bug and like
+yeah you can specify these kind of
+things and run that forever
+in parallel but it doesn't cancel
+for me the specialized yeah yeah
+definitely definitely
+that's just that's all i said i mean
+yeah i just dressed in this because uh
+we see a lot of uh comments from the
+community that
+uh this or that prize is not fair
+yeah because uh because one contest has
+this price and this
+this contest it has another price uh of
+course
+it's always uh can be disputed and
+uh whatever but if we have a system that
+says
+that for such kind of contests we have
+the price fund from this to that
+it will be really transparent for people
+and they will
+understand all the conditions better
+[Music]
+well we are now working with andre
+election
+on on enhancing the draft four of the
+bftg
+where it will we actually like
+uh run a lot of like
+thought in into that um of how
+you actually price the contest
+price pull the contest like what how you
+calculate the price pool
+can you do that automatically like what
+should what the input should be to
+calculate that and so on and so forth
+and there is a solution like which we
+will propose on the draft for of pftg
+now i will publish it probably by monday
+where like you only need to kind of
+you only need to categorize what would
+you pay in tokus for the best possible
+solution to this problem
+and what is the time duration that you
+want
+to kind of have that solution win
+and from that we will construct
+everything else
+like all the rest of the contest price
+pool
+jury remuneration um
+the jury voting time everything will be
+like calculated from that now
+then since there are tags attached to
+each of the contests uh in bftg
+you then can kind of collect statistics
+for the particular tag on usually like
+what what are the parameters of the
+particular attack
+and we're we're talking about that there
+so actually like
+you can then parameterize text
+on base of this like the contest that
+you run and how successful they were
+because we actually can measure the
+successful
+the the success of the contest in
+reverse
+in like so
+then you will have like tags
+and usual price pool attached to them
+usual kind of the cost of the of the
+best solution on that
+attack and so on so you can kind of
+construct things
+and based on that of course they are not
+up you know absolute and you always okay
+definitely definitely this is just just
+just to give some reason original
+but you have a few but you will have
+some some stats you will have some
+some data attached to each of this so
+in a way that will kind of mitigate what
+people
+like say it's not fair or not fair
+whatever or
+time is not enough for whatever they say
+usually yeah
+yeah yeah right so of course it's it's
+again it's not some kind of rule that
+you cannot change but
+but at least you will have some
+guidelines and people will have some
+guidelines to look at this
+retrospectively and say okay so
+that's probably fair because it's in
+line with what you know most of the time
+with
+you know community pays for that that
+the results are good
+you know and good results means to have
+some
+you know submissions at least three five
+submissions for the contest
+and the results of the contest are
+usually in the high numbers of say
+you know uh the submissions
+marks jury marks then you can say okay
+so this was
+a successful contest and we run this
+contest contest constantly like
+in this tag and we have you know usually
+successful cons with this parameter so
+you can say okay you can say conveniency
+this is fair parameters because we have
+the stats
+okay okay fabrice you wanted to say
+something
+well i i just wanted to say that you you
+instead of attaching the prices to
+the software maybe you could
+attach it to the impact of the attack
+so for example you would have a an
+amount of tokens for
+if the attack is could block the world
+blockchain for example
+another one if can people can use it to
+steal
+tokens to people and on so forth
+you you could uh instead of saying well
+if it isn't live
+or in this place well any attack on any
+website that is used by the community a
+lot
+and that could be used to uh make people
+believe something or
+to do well to to take tokens from ex
+for example from extraton i think
+the the the idea is not that they can
+attack this software of this sovereign
+one this other software
+it's whether they can steal tokens
+whether they can block the network
+whether they can block one validator
+or well do uh targeted attacks
+uh uh i i would the the amounts would be
+different
+uh from that point of view instead of
+the software that it is being being
+attacked
+yeah i agree i agree i agree and we
+actually discussed this
+with our team that uh in fact
+the motivation for reporting the back
+should be enough
+for a guy to report instead of exploit
+so uh
+so yeah this is
+said truth yeah so and uh if there is a
+protocol which
+in which there are i don't know millions
+of dollars locked
+so and the guy finds a zero zero day
+evil
+vulnerability that he can easily exploit
+to just
+take out this money so he should be
+rewarded for not doing this since
+reporting it timely yeah so it's complex
+to a complex
+issue any other opinions guys
+three two one no very good
+now it's a time for open discussion so
+and
+[Music]
+one more topic that i didn't include
+actually on the agenda
+but i wanted to share some idea with you
+and just get your feedback as well
+uh what do you think if we try to
+insert a short just news digest
+inside our weekly call covering maybe
+some
+some most crucial events in the device
+here
+[Music]
+not only in free tone but also in
+ethereum and other networks
+uh what do you think about this
+yes it's it's one of the goals the fire
+alliance
+team because all funds have
+internal digest and we are talking about
+insight
+that we need to create combine combine
+digest and provide and
+i think we can do ignot responsible for
+your task
+okay yes and
+we will solve it in this format yeah i
+propose
+just a brief format uh maybe 10 minutes
+devote
+not more than 10 minutes during each
+call to
+just uh tell the the major news and
+explain uh
+why is it important actually because no
+no i think
+i think it's about text and links
+formats
+like like message telegram
+okay so we can just publish this
+in the group of the default yes
+okay okay
+any other opinions guys
+no okay then thank everyone for
+attending and
+i wish you a nice weekend and see you
+next week then bye bye
+see you next week bye bye bye
+bye everyone

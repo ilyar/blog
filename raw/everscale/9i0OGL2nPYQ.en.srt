@@ -1,0 +1,665 @@
+1
+00:00:00,080 --> 00:00:03,030
+
+hey hey every migos i'm ben and this is
+
+2
+00:00:03,030 --> 00:00:03,040
+hey hey every migos i'm ben and this is
+ 
+
+3
+00:00:03,040 --> 00:00:05,590
+hey hey every migos i'm ben and this is
+the latest everscale news handpicked
+
+4
+00:00:05,590 --> 00:00:05,600
+the latest everscale news handpicked
+ 
+
+5
+00:00:05,600 --> 00:00:07,590
+the latest everscale news handpicked
+just for you more liquidity is coming to
+
+6
+00:00:07,590 --> 00:00:07,600
+just for you more liquidity is coming to
+ 
+
+7
+00:00:07,600 --> 00:00:09,910
+just for you more liquidity is coming to
+everscale and well more opportunities to
+
+8
+00:00:09,910 --> 00:00:09,920
+everscale and well more opportunities to
+ 
+
+9
+00:00:09,920 --> 00:00:11,749
+everscale and well more opportunities to
+earn in the community not only by
+
+10
+00:00:11,749 --> 00:00:11,759
+earn in the community not only by
+ 
+
+11
+00:00:11,759 --> 00:00:14,390
+earn in the community not only by
+staking but by participating in bounty
+
+12
+00:00:14,390 --> 00:00:14,400
+staking but by participating in bounty
+ 
+
+13
+00:00:14,400 --> 00:00:16,150
+staking but by participating in bounty
+programs can let me tell you more about
+
+14
+00:00:16,150 --> 00:00:16,160
+programs can let me tell you more about
+ 
+
+15
+00:00:16,160 --> 00:00:18,790
+programs can let me tell you more about
+this two minutes on the clock let's go
+
+16
+00:00:18,790 --> 00:00:18,800
+this two minutes on the clock let's go
+ 
+
+17
+00:00:18,800 --> 00:00:21,590
+this two minutes on the clock let's go
+evelyn.app the new d5 platform and
+
+18
+00:00:21,590 --> 00:00:21,600
+evelyn.app the new d5 platform and
+ 
+
+19
+00:00:21,600 --> 00:00:24,070
+evelyn.app the new d5 platform and
+secured lending protocol is officially
+
+20
+00:00:24,070 --> 00:00:24,080
+secured lending protocol is officially
+ 
+
+21
+00:00:24,080 --> 00:00:26,390
+secured lending protocol is officially
+live it's a fully fledged dow which
+
+22
+00:00:26,390 --> 00:00:26,400
+live it's a fully fledged dow which
+ 
+
+23
+00:00:26,400 --> 00:00:28,870
+live it's a fully fledged dow which
+allows creating fund pools providing or
+
+24
+00:00:28,870 --> 00:00:28,880
+allows creating fund pools providing or
+ 
+
+25
+00:00:28,880 --> 00:00:31,029
+allows creating fund pools providing or
+borrowing various assets and of course
+
+26
+00:00:31,029 --> 00:00:31,039
+borrowing various assets and of course
+ 
+
+27
+00:00:31,039 --> 00:00:32,870
+borrowing various assets and of course
+earning interest on them developed by
+
+28
+00:00:32,870 --> 00:00:32,880
+earning interest on them developed by
+ 
+
+29
+00:00:32,880 --> 00:00:35,910
+earning interest on them developed by
+the svoi.dev team who also created
+
+30
+00:00:35,910 --> 00:00:35,920
+the svoi.dev team who also created
+ 
+
+31
+00:00:35,920 --> 00:00:38,310
+the svoi.dev team who also created
+everscale wallet which takes us nicely
+
+32
+00:00:38,310 --> 00:00:38,320
+everscale wallet which takes us nicely
+ 
+
+33
+00:00:38,320 --> 00:00:40,549
+everscale wallet which takes us nicely
+to our next point everscale wallet has
+
+34
+00:00:40,549 --> 00:00:40,559
+to our next point everscale wallet has
+ 
+
+35
+00:00:40,559 --> 00:00:42,150
+to our next point everscale wallet has
+added support for many important
+
+36
+00:00:42,150 --> 00:00:42,160
+added support for many important
+ 
+
+37
+00:00:42,160 --> 00:00:45,029
+added support for many important
+platforms of the ecosystem namely flat
+
+38
+00:00:45,029 --> 00:00:45,039
+platforms of the ecosystem namely flat
+ 
+
+39
+00:00:45,039 --> 00:00:48,229
+platforms of the ecosystem namely flat
+cube octus bridge gram bazaar wrapped
+
+40
+00:00:48,229 --> 00:00:48,239
+cube octus bridge gram bazaar wrapped
+ 
+
+41
+00:00:48,239 --> 00:00:49,990
+cube octus bridge gram bazaar wrapped
+ever and everstart
+
+42
+00:00:49,990 --> 00:00:50,000
+ever and everstart
+ 
+
+43
+00:00:50,000 --> 00:00:52,310
+ever and everstart
+it emulates the default ever wallet
+
+44
+00:00:52,310 --> 00:00:52,320
+it emulates the default ever wallet
+ 
+
+45
+00:00:52,320 --> 00:00:54,389
+it emulates the default ever wallet
+giving you choice about which extension
+
+46
+00:00:54,389 --> 00:00:54,399
+giving you choice about which extension
+ 
+
+47
+00:00:54,399 --> 00:00:55,910
+giving you choice about which extension
+you want to use
+
+48
+00:00:55,910 --> 00:00:55,920
+you want to use
+ 
+
+49
+00:00:55,920 --> 00:00:58,630
+you want to use
+it has 80 of the functionality so far
+
+50
+00:00:58,630 --> 00:00:58,640
+it has 80 of the functionality so far
+ 
+
+51
+00:00:58,640 --> 00:01:00,389
+it has 80 of the functionality so far
+with more compatibility coming in the
+
+52
+00:01:00,389 --> 00:01:00,399
+with more compatibility coming in the
+ 
+
+53
+00:01:00,399 --> 00:01:03,910
+with more compatibility coming in the
+future pi union a neo bank has issued
+
+54
+00:01:03,910 --> 00:01:03,920
+future pi union a neo bank has issued
+ 
+
+55
+00:01:03,920 --> 00:01:06,710
+future pi union a neo bank has issued
+easy pay an exclusive plastic card with
+
+56
+00:01:06,710 --> 00:01:06,720
+easy pay an exclusive plastic card with
+ 
+
+57
+00:01:06,720 --> 00:01:08,310
+easy pay an exclusive plastic card with
+everscale support
+
+58
+00:01:08,310 --> 00:01:08,320
+everscale support
+ 
+
+59
+00:01:08,320 --> 00:01:11,109
+everscale support
+it's available for all eu residents can
+
+60
+00:01:11,109 --> 00:01:11,119
+it's available for all eu residents can
+ 
+
+61
+00:01:11,119 --> 00:01:13,429
+it's available for all eu residents can
+be issued with four clicks has its own
+
+62
+00:01:13,429 --> 00:01:13,439
+be issued with four clicks has its own
+ 
+
+63
+00:01:13,439 --> 00:01:15,749
+be issued with four clicks has its own
+web application and soon it will be
+
+64
+00:01:15,749 --> 00:01:15,759
+web application and soon it will be
+ 
+
+65
+00:01:15,759 --> 00:01:18,390
+web application and soon it will be
+possible to buy and spend ever as easily
+
+66
+00:01:18,390 --> 00:01:18,400
+possible to buy and spend ever as easily
+ 
+
+67
+00:01:18,400 --> 00:01:20,390
+possible to buy and spend ever as easily
+as using fiat currencies
+
+68
+00:01:20,390 --> 00:01:20,400
+as using fiat currencies
+ 
+
+69
+00:01:20,400 --> 00:01:22,149
+as using fiat currencies
+if you want to order it follow the link
+
+70
+00:01:22,149 --> 00:01:22,159
+if you want to order it follow the link
+ 
+
+71
+00:01:22,159 --> 00:01:24,630
+if you want to order it follow the link
+in the description roxas launches the
+
+72
+00:01:24,630 --> 00:01:24,640
+in the description roxas launches the
+ 
+
+73
+00:01:24,640 --> 00:01:26,789
+in the description roxas launches the
+bounty program if you feel like you're a
+
+74
+00:01:26,789 --> 00:01:26,799
+bounty program if you feel like you're a
+ 
+
+75
+00:01:26,799 --> 00:01:28,950
+bounty program if you feel like you're a
+stephen king of writing guidelines then
+
+76
+00:01:28,950 --> 00:01:28,960
+stephen king of writing guidelines then
+ 
+
+77
+00:01:28,960 --> 00:01:31,109
+stephen king of writing guidelines then
+this competition is for you choose your
+
+78
+00:01:31,109 --> 00:01:31,119
+this competition is for you choose your
+ 
+
+79
+00:01:31,119 --> 00:01:32,950
+this competition is for you choose your
+topic from the list write a guide that
+
+80
+00:01:32,950 --> 00:01:32,960
+topic from the list write a guide that
+ 
+
+81
+00:01:32,960 --> 00:01:34,950
+topic from the list write a guide that
+even a granny could understand send it
+
+82
+00:01:34,950 --> 00:01:34,960
+even a granny could understand send it
+ 
+
+83
+00:01:34,960 --> 00:01:37,830
+even a granny could understand send it
+to broxas and the reward will find you
+
+84
+00:01:37,830 --> 00:01:37,840
+to broxas and the reward will find you
+ 
+
+85
+00:01:37,840 --> 00:01:39,749
+to broxas and the reward will find you
+the topics are categorized into three
+
+86
+00:01:39,749 --> 00:01:39,759
+the topics are categorized into three
+ 
+
+87
+00:01:39,759 --> 00:01:42,149
+the topics are categorized into three
+levels of difficulty and the reward will
+
+88
+00:01:42,149 --> 00:01:42,159
+levels of difficulty and the reward will
+ 
+
+89
+00:01:42,159 --> 00:01:44,230
+levels of difficulty and the reward will
+increase depending on how difficult it
+
+90
+00:01:44,230 --> 00:01:44,240
+increase depending on how difficult it
+ 
+
+91
+00:01:44,240 --> 00:01:46,630
+increase depending on how difficult it
+is some exciting news about the wrapped
+
+92
+00:01:46,630 --> 00:01:46,640
+is some exciting news about the wrapped
+ 
+
+93
+00:01:46,640 --> 00:01:47,910
+is some exciting news about the wrapped
+ever token
+
+94
+00:01:47,910 --> 00:01:47,920
+ever token
+ 
+
+95
+00:01:47,920 --> 00:01:51,429
+ever token
+wever is now available on ethereum and
+
+96
+00:01:51,429 --> 00:01:51,439
+wever is now available on ethereum and
+ 
+
+97
+00:01:51,439 --> 00:01:53,749
+wever is now available on ethereum and
+finance smart chain networks
+
+98
+00:01:53,749 --> 00:01:53,759
+finance smart chain networks
+ 
+
+99
+00:01:53,759 --> 00:01:55,749
+finance smart chain networks
+from now on users are able to send
+
+100
+00:01:55,749 --> 00:01:55,759
+from now on users are able to send
+ 
+
+101
+00:01:55,759 --> 00:01:58,389
+from now on users are able to send
+receive and manage their webers on these
+
+102
+00:01:58,389 --> 00:01:58,399
+receive and manage their webers on these
+ 
+
+103
+00:01:58,399 --> 00:02:00,310
+receive and manage their webers on these
+very popular networks which will of
+
+104
+00:02:00,310 --> 00:02:00,320
+very popular networks which will of
+ 
+
+105
+00:02:00,320 --> 00:02:02,310
+very popular networks which will of
+course greatly increase the adoption of
+
+106
+00:02:02,310 --> 00:02:02,320
+course greatly increase the adoption of
+ 
+
+107
+00:02:02,320 --> 00:02:04,709
+course greatly increase the adoption of
+the token and there's more integrations
+
+108
+00:02:04,709 --> 00:02:04,719
+the token and there's more integrations
+ 
+
+109
+00:02:04,719 --> 00:02:07,030
+the token and there's more integrations
+with other blockchains coming soon a new
+
+110
+00:02:07,030 --> 00:02:07,040
+with other blockchains coming soon a new
+ 
+
+111
+00:02:07,040 --> 00:02:09,510
+with other blockchains coming soon a new
+farming pair eupi
+
+112
+00:02:09,510 --> 00:02:09,520
+farming pair eupi
+ 
+
+113
+00:02:09,520 --> 00:02:11,990
+farming pair eupi
+and wever has become available on flat
+
+114
+00:02:11,990 --> 00:02:12,000
+and wever has become available on flat
+ 
+
+115
+00:02:12,000 --> 00:02:15,270
+and wever has become available on flat
+cube eupi is a stable coin pegged to the
+
+116
+00:02:15,270 --> 00:02:15,280
+cube eupi is a stable coin pegged to the
+ 
+
+117
+00:02:15,280 --> 00:02:18,630
+cube eupi is a stable coin pegged to the
+euro meaning that one eupi always equals
+
+118
+00:02:18,630 --> 00:02:18,640
+euro meaning that one eupi always equals
+ 
+
+119
+00:02:18,640 --> 00:02:21,030
+euro meaning that one eupi always equals
+one euro it's a great addition to the
+
+120
+00:02:21,030 --> 00:02:21,040
+one euro it's a great addition to the
+ 
+
+121
+00:02:21,040 --> 00:02:24,070
+one euro it's a great addition to the
+list of flap cube balls and that's all
+
+122
+00:02:24,070 --> 00:02:24,080
+list of flap cube balls and that's all
+ 
+
+123
+00:02:24,080 --> 00:02:26,150
+list of flap cube balls and that's all
+folks stay safe and look after each
+
+124
+00:02:26,150 --> 00:02:26,160
+folks stay safe and look after each
+ 
+
+125
+00:02:26,160 --> 00:02:27,750
+folks stay safe and look after each
+other don't forget to subscribe and
+
+126
+00:02:27,750 --> 00:02:27,760
+other don't forget to subscribe and
+ 
+
+127
+00:02:27,760 --> 00:02:29,510
+other don't forget to subscribe and
+leave a like to help our channel grow
+
+128
+00:02:29,510 --> 00:02:29,520
+leave a like to help our channel grow
+ 
+
+129
+00:02:29,520 --> 00:02:31,270
+leave a like to help our channel grow
+and you know helpfully spread the news
+
+130
+00:02:31,270 --> 00:02:31,280
+and you know helpfully spread the news
+ 
+
+131
+00:02:31,280 --> 00:02:33,430
+and you know helpfully spread the news
+reaching your audience sharing is caring
+
+132
+00:02:33,430 --> 00:02:33,440
+reaching your audience sharing is caring
+ 
+
+133
+00:02:33,440 --> 00:02:36,440
+reaching your audience sharing is caring
+bye
+

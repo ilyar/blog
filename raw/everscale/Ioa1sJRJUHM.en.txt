@@ -1,0 +1,1180 @@
+uh
+hello everyone hello
+[Music]
+the usual we wait for one more minute
+and we'll start
+i prepared some description for stage
+for stable coin contest
+in chat maybe somebody reads
+too near to the end of our meeting and
+i propose that you i will just give you
+some time at the end of the meeting and
+you will
+just explain
+what you wrote
+[Music]
+okay not so many of us today
+all right so let's start in any case
+so welcome everyone to our 25th weekly
+governance call of the defy group of the
+free tone
+and we have not that big agenda for
+today but still
+let's go through it so first
+and it's very important question so we
+need to schedule the payment session
+but i don't see much of governance
+members today
+attending the call and i think that we
+will do this
+uh in the in the chat uh alexander are
+you available tomorrow
+uh evening or to today evening
+which time is better for you to arrange
+the payment session
+um if you talk about me today i'm
+ready for all day or better
+in monday if not today okay okay
+today on monday brilliant uh i will just
+drop it in the payment chat and we will
+just
+ask everyone which time is better
+next topic on the agenda is a
+bitcoin bridge discussion actually we
+have touched it
+slightly uh quite a long time ago so now
+it
+it's time to discuss it again and
+approach
+to the launching of this contest uh i
+know sergey
+and shasha wanted to say for words about
+this so sega please
+hello yeah hi
+yeah yeah hello i'm sorry i need i need
+a few minutes because
+uh a lot of people in the room
+okay no problem i hope that we will just
+uh take this time
+alexander i propose maybe uh that you
+start with
+your proposal on staging so when you can
+just use this time to describe
+and explain yes because
+not so much
+define participants here i said it's
+more
+for recording and somebody will
+listen because that
+i will not explain what i offer
+in every stage
+we talk about contest stablecoin contest
+[Music]
+do this contest now
+everybody is so busy with
+dex contents bridges and
+other mechanisms and entity markets
+to now start this hype
+okay but uh stablecoin we really needs
+a free tone need uh and stablecoin
+and um was um
+hard decision how to share
+with stages and
+um here
+in the chat in in the draft documents
+um i suggest to have uh first
+four stages uh it's us
+we fold and recommend for
+every development every implementation
+yes
+we think that it's a good idea to do it
+in some stage
+for example info and here alpha version
+uh and uh most important in this
+version we did mechanism for
+stabilization
+stable coincidence itself and
+stabilization mechanism
+and testing environment
+for testing stabilization
+it will be price
+the stabilization important thing uh for
+your attention
+it's uh um i offer
+um one criteria for first stage
+uh to do um
+[Music]
+description uh that every participant
+uh needs to describe what they will do
+on the next first stage what they done
+on this stage will be do
+all the next three stages why because
+um okay i describe what
+uh we think possible to do on the next
+stage
+but uh if we looked to
+submission from design
+contest for stable coins it was very
+different
+uh submission very different mechanism
+and sometimes
+uh it's impossible to have some
+mechanism for example
+in the beta version next stage uh second
+stage
+i offered to do oracle's mechanism
+but for example for uh
+algorithmic stable coins sometimes it's
+doesn't mean they do it's a different
+way
+because that um we offer
+uh four stages uh second about oracle's
+third it's mvp
+a product where we have and uh stable
+coin mechanism stabilization
+and um oracles and
+all this connected and work together
+it's on the third stage and on the
+fourth it's finished product
+uh with um all the both ux
+and all voiting or dao digital
+generalized automation organization
+mechanism
+it's mean that very important on the uh
+last
+fifth stage uh stable code
+should be driven by decentralized
+mechanism
+if of course it's not type one stable
+coil take
+and this is all uh
+everybody needs to look attently read
+and suggest
+the but one
+very important thing
+for your attention it's as i said
+on the first stage we offer that
+every participant participants
+need to give their own
+road map for next stage and
+i recommend to discuss it's in
+jury group or in our defy group
+uh discuss those stages before
+the before they put their submissions
+in blockchain this is uh that
+very different from previous web video
+because
+uh that we need to discuss it's good
+idea or not
+that's okay okay uh
+actually uh i agree that uh we need
+some kind of milestones for
+for this contest so it probably it will
+be the same chained cost
+contest as we used to have for bridges
+for example
+uh uh yeah so we have meter raise hand
+so
+media please yeah well the architectures
+are
+very different at least from like our
+architecture with andrew
+is very different from like others
+the question is like okay so we um
+let's say we uh we do this you know
+uh proposal with the stages these stages
+will be entirely different from
+other participants what you're going to
+do with them next
+yeah that's actually the questions that
+i also had in mind so that uh
+uh i'm not sure if uh there should be
+three or four maybe
+only two stages uh so we don't unders we
+won't understand this
+and unless the first implementation
+is uh is done uh
+maybe maybe we can somehow try to
+uh tackle more generic
+stages for each you know
+each and also stable coins
+i don't know so the first version was
+manually uh
+stabilized price second version with i
+don't know automatic stabilized price
+and third version with
+with dao inside uh i don't know
+so we need to discuss need to think
+about this and
+maybe it's it's worth to uh
+i don't know actually i mean yeah media
+please
+i want to lower the hat
+okay okay i already did this i keep an
+eye on this
+uh yeah so uh so anyone please
+uh everyone have a look on this proposal
+and
+give you ideas in text or directly to
+alexander
+yeah i want to put some words here
+because i look to proposal and i have
+questions about
+about oracle's because oracle's is
+important part
+for all the phi ecosystem dexes
+knitting oracles stable core and ethanol
+oracles and i think
+that's a good idea set up
+contest for oracle's like independent
+contest
+not inside in stablecoin contest
+yeah and actually we had this in our
+initial defy
+uh roadmap that we presented to the main
+governance
+and yeah yes i think it's worth it yeah
+uh
+so maybe i will take care of drafting
+this proposal
+and so we will post it yeah
+we will actually like the the big part
+of our
+design for stablecoin is an oracle
+design so that will already cover
+part of implementation for us and we
+will
+you know gladly participate in that okay
+you can even
+make it make it draft yourself so if you
+wish
+oh the contest yeah yeah it's just for
+foreign
+yeah so please please do so and then
+we'll discard this
+because you have the actual experience
+and understanding of how
+how it should be and uh so yeah
+it will be a good starting point for
+discussion
+okay any other opinions guys
+yeah i looked at what alexander proposed
+and i think that
+the easiest thing is yes to combine
+maybe
+second and third stage uh the third
+stage which is finished product
+is i think at this stage it can be even
+optional
+because we don't know what would be
+implemented after the third stage and it
+can be
+changed in the future for sure and i
+also agree we should make it
+more generic and maybe we should uh
+exclude oracle's from alpha stage but
+again a lot of
+uh proposals that we've saw on the
+design
+they are heavily dependent on the
+oracles
+in my case means that uh stablecoin
+itself depends on the context for
+oracles
+if we don't want every participant to
+make his own implementation of the
+oracles
+so it's a good question to think about
+for everyone
+should we make this contest dependent on
+the oracle contest or should we try
+to generalize and make it more generic
+the healthy stage
+i agree okay good idea yeah yeah
+i really think that we will uh just face
+some
+teams con constraints so as we used to
+have
+uh for the dex contest uh that people
+cannot participate
+in both contests at the same time and
+there is not so many teams
+who are able to do this so probably we
+should prioritize
+oracle's contest first and
+right after uh runs the stable
+contest yes meter please yeah well
+the thing with with oracle's like um
+do we need to discuss the architecture
+of that first
+of course we do so we so the contest
+will include like the
+the architecture part should include or
+just implementation part
+as with june i think we can run a short
+architecture contest
+for just a couple of weeks and
+get some results because uh i think
+that's for oracle's
+part uh it's not more complex than the
+dex contest
+and uh arguably but
+for me like i of course prefer because i
+will participate in the architecture
+because i think i know how to like
+do that but uh you know and but that of
+course it depends on
+then how the contest should be drafted
+so if there is a
+first stage with a is there architecture
+then then i will just draft this part
+the contest and we'll be very proud yeah
+i think i think that's the right uh
+right step
+what do you think guys
+i as our pre prior
+experience shows that architecture
+contests they always give
+great insights for every other team on
+them green day stage so
+if we have time then it's always good to
+have an architecture
+before implementation okay
+then a deal good meet can you please
+draft the
+architecture contest for oracle yes sure
+yeah and we will discard this uh
+okay any other opinions
+no very good uh okay so
+now we will uh start with
+sergey report about the tony alliance
+news
+and then we'll also slightly shift to
+the bitcoin bridge discussion
+yeah hello everyone uh some news from
+uh ton audience uh
+we have near five funds uh
+ready to provide liquidity
+to our bridge visit
+to the
+system we have some requirements for it
+it's about security we did
+we had a minimum 10 conversation with
+different audit company
+who will already do it one of this
+company was in
+our last call munifi
+and also we have two companies already
+audit our bridge
+it's very difficult for them because
+it's not a
+simple case it's not about ethereum
+smart contracts it's a
+different new blockchain and we
+developed a lot of different parts
+of uh bridge on rust and there are not a
+lot of people
+who can we did harass components
+and i think we will work with them
+we will
+only in june and so i think
+i will call the media about
+how to do it not in june maybe maybe
+maybe in april um
+but yeah because because yeah because
+because on the on on the affiliate of
+course uh
+the initial members of valiants we can
+we can put uh some funds before we did
+but but of course it will be more safety
+for all
+do it after we did file
+yeah they do talk with sergey is mixed
+bytes they do audits
+i think that technically i think they
+can start earlier
+uh with mixed bytes our team will talk
+and about about audio on rust
+it's not it's not simple for them
+for sure and sergey do it i know
+i just talked to him okay okay maybe i
+should talk with him directly um
+okay it's about to edit and also we have
+a pipeline
+from uh four company uh
+ready to build different projects in our
+ecosystem
+it's a two big players from a fairy
+mecca system
+and one star's team who want to
+create decent decentralizations
+launchpad very interesting architecture
+we are talking with them and maybe it
+will be first company
+who will work with the valiants
+also we
+created bridge update on last
+on this week you know yeah on this week
+we discovered uh some
+issues and we fixed it it was a long
+presses
+and this is why we moved our listing
+continues
+up from this week to next week
+and so on i hope on next week we will
+create listing continuing swap we will
+put
+liquidity from both sides and
+we will understand what people from
+dex community will think about
+about our work about about
+all freedom because all the people don't
+know about return
+and it will be new and interesting
+how we will understand and
+about about return on texas it will be
+interesting experience for us to
+yes also we started creating uh
+content about about defined use from our
+funds
+and uh you don't know what did we put
+first yeah we are just finalizing the
+text and we'll publish shortly
+yes and because we have funds analytics
+i talked now about different members of
+the valyans we will set
+most important things and
+put content to our chats all come for
+freetown community
+so i think in next next call
+we will show something
+should we should we uh maybe
+um create some announcement for listing
+on uni swap for the freetown community
+so so they could
+yes for my side the best announcement
+is it will be linked to trading payers
+after listing
+okay okay but maybe people would like to
+you know just
+use this opportunity to just put some
+liquidity on the uni swap yeah alexander
+alexander please alexander
+sergey how do you think
+maybe maybe it's a little bit uh
+need to do later i mean about putting
+liquidity
+pool yes uh in uni swap
+i mean maybe it's
+you need to do after that we have decks
+on top
+i mean looks uh some people uh
+understand what is possible comes to
+free tone but
+they realize that it's possible to do
+trading uh
+in free tone with less yes
+they will do it ah because because we
+we want to set up uh some
+primitive farming mechanics and
+all providers liquidity will get some
+crystals but for getting it
+we will need install wallets
+and we need a discovery photonic system
+yes it's if we'll be farming it's a good
+idea
+yeah of course or without this of course
+yes yes
+because uh thank you
+a lot of liquidity how liquid
+independent liquidity
+and also some team who created decks
+have talked with us about
+liquidity for texas and
+our answer now will be ready to provide
+equity
+when decks will be ready
+we will test it in trading and
+we will create some some audit for its
+stuff
+and we will already provide up to 100k
+liquidity to all vexes
+who will really work
+okay very good thank you
+very good so again maybe you just uh
+explain
+in a few words on how teams
+should apply for this
+so should they contact you directly or
+maybe go to the site of tony lions to
+torque
+i'm i i i watching for fall their fold
+access for works
+and i so only
+uh meteor work but it's it's it's near
+to production maybe
+because it's it will be interesting
+experience start trading and so
+and so when um when we will
+when we will see uh radio rated x in
+production
+uh we will connect directly
+because because i know all teams who are
+working on the decks
+okay very good
+working very hard on that all the time
+we'll run today like a video session as
+i said
+to well posted and we will cover some
+additions which are not part of the
+contest already which was done
+some um like refactoring and
+optimizations but uh i think that
+yeah i think it's not long time before
+it will be ready
+okay very good
+uh any other any questions guys please
+to sergey on the
+uh it's an alliance announcement or we
+move
+next
+no very good uh okay so gay you also
+wanted
+just to ignite uh the discussion
+for bitcoin breach so please yes
+yes about bitcoin bridge uh
+i just remember about it
+[Music]
+maybe last week a week ago when i talked
+with one fund from south korea and
+we're talking that guys the main
+liquidity active now
+am i the only one who don't
+just please repeat your previous words
+because we didn't hear you
+okay uh are you hearing me yes
+right now
+i have conversation with one korean fund
+and we're ready to move a lot of bitcoin
+to liquidity infritone because we
+are like bitcoin i like freetown
+and they don't like ethereum
+and beautiful customers
+[Laughter]
+beautiful customers yes and
+and i and we have only draft
+and we have no team ready to implement
+it
+now but i think we should to run
+contest and maybe someone
+will will implement it
+okay okay uh at least there should be is
+a contest for design and architecture of
+this bridge
+because it will be different from
+ethereum uh as
+as far as i know and uh at least for
+this stage we will just test
+the how many teams are able to
+participate
+maybe we can somehow leverage the dune
+community as well
+with a talented developers and
+invite them also to participate uh
+of course they are now occupied with a
+swap
+contest but i think that idea is good
+uh meet them maybe you can also say a
+few words
+so if you plan to participate in this
+contest or maybe you know some
+someone who can participate
+um i i need to well
+let's let's first do the architecture
+yeah sure but but at least participate
+in the architecture
+yeah well yes and because we have now
+already teams
+for it for a contest uh maybe we can
+create a problematic article
+and uh uh updated on quantity graph
+bitcoin or another other partners
+and it should be a philosophic article
+about bitcoin
+about ethereum about friton and about
+wisconsin
+yeah definitely okay so
+uh who can prepare who can draft the
+this article
+maybe some guys from tony alliance can
+do
+uh maybe maybe yes maybe yes
+uh we will prepare with we will
+put it to my task list okay because i i
+i yeah we just
+very good
+okay any ideas on this topic
+nothing really guys be more active
+please
+i know that you are smart guys and you
+have your own opinions
+just don't don't be shy express yourself
+okay no no one wants to be the first one
+uh yeah i just just just uh to remind
+you that we have already
+draft for this contest ready for a long
+time so
+we just can launch it uh as soon as
+possible
+so let's drop the article and
+synchronize the launch of the contest
+together with the publication uh by the
+way uh
+guys from alliance uh have just uh
+published the first news digest in the
+definitive
+group so you can have a look on it
+in fact uh i discussed with them so
+there are
+so many news so it's it's so hard to
+choose which ones are the most crucial
+ones
+and uh this is just an experiment so uh
+i really encourage you to provide your
+feedback
+so if it's useful for you or not so what
+what you would like to see more
+or what topics should be covered more
+and i think it's versatile for all the
+community
+uh all right so uh just
+uh if we don't have any other questions
+uh just a kind reminder to all the
+jurors
+uh that there is a contest uh
+for dexes an index implementation stage
+one
+that ends in eight days and uh
+almost all participants has published
+the
+video demonstrations and
+please have a look on them and provide
+me with feedback if you need the ama
+session with participants
+because i didn't get any feedback from
+you so if you don't want
+okay that's fine don't let's not waste
+time of each other but if you do so
+please provide me for your feedback as
+soon as possible
+because i need to arrange this as well
+all right yes anzar please
+i have a question about not about the
+videos but about the dex contest
+uh might be sort of a noob question but
+still
+uh there's a there's this stage two
+stage three
+and stage four described in the road map
+of the
+uh of the stage one um
+contest so yeah i wanted to know if
+there's like
+a draft for the second stage or
+or something because it's it's a little
+vague
+in describing what will
+exactly the second stage be about you
+mean for the next contest
+yes uh well i i will
+just share with you my thoughts and
+maybe some
+some other guys have other opinion in
+fact uh we are right now
+in quite uh you know as you said vague
+environment so
+we don't know what will be exactly
+implemented uh on the first stage that's
+why there are
+all these milestones they are quite a
+draft ones
+and of course they can change over the
+time so uh
+we will have a look at which solutions
+will be the winning ones and also
+later discuss what will be the next
+stages for
+for this contest uh because
+as shows the practice uh everything may
+change very
+very quickly and if we have drafted
+some milestones that we currently see
+them assist
+so they may may change after the
+implementation stage
+this is pretty much what's happening
+with bridges
+so although we uh try to stick to all
+these milestones that were initially
+drafted we see that something
+shouldn't be done something should be
+added to that
+so i propose to discuss after this the
+first stage
+has ended yes i wanted to add that
+uh we are also we are looking at two
+things that the results
+of course of the first stage and they
+will
+might affect the
+draft of the second stage because we
+have to see what
+what were the we who were the winners
+the best
+uh approaches etc that's why uh it was
+very
+vague uh vaguely described
+in the document and the second thing we
+have to
+prioritize it with uh stable context
+because we
+again don't want to mix those contents
+together
+in terms of uh timelines we want them to
+be separate because we know there are
+several teams who
+want to participate in both so we have
+to prioritize
+uh and i think that the second stage
+will be
+right after the stable coin i
+implementation stage so we
+will have plenty of time to discuss it
+and
+sum up with the best possible draft for
+all the teams
+okay so yeah did i get can you hear me
+now
+yeah sure yeah did i get it right so
+first uh
+the voting for the first stage
+ends then there's some discussion time
+and
+some time for the stablecoin contest
+so that it doesn't get mixed with the
+with the stage two
+right and only then there is stage two
+for the decks
+right yes yes more or less i think so
+it's my proposal but
+that's how how i do it yeah we will see
+actually we will see so uh because there
+is also the oracle's contest that we
+discussed
+earlier and uh maybe
+we will decide that we should not wait
+for too long and
+announce the second stage as well uh
+but yeah so i think it's it's worth to
+to wait for one week to er for the first
+stage to end and
+[Music]
+then discuss it precisely okay
+okay
+what is the second stage that's exactly
+what anzuro asks
+like we don't have any second stage we
+didn't know
+we have amm which is okay
+which is kind of almost ready next week
+is that the amm should be the next stage
+yes it's the
+let's do it
+we can do it without them well according
+to the road map
+uh which i'm looking at right now that's
+listed in the stage one contest
+the second stage is uh devoted to
+complex liquidity pool mechanics
+third one is the complex automated
+market maker mechanics
+which doesn't really make that much
+sense to me
+at least i mean it's all like the
+advanced functionality of dex and it it
+doesn't look like
+a um like a big milestone that's
+like you reach and then something big
+changes
+so yeah i just wanted to know if if that
+whole thing uh listed in the roadmap
+section of the uh
+stage one contest is subject to big
+change
+which i suppose it is and uh yeah i just
+wanted to
+sort of have like timeline for the
+next month or so to understand
+if uh well to plan obviously
+to understand what's yeah and yeah i
+also wanted to
+um maybe maybe bring up um
+the topic of the criteria for for this
+first stage as well as for me personally
+uh i think they're not
+really it's
+they're not really like a set of
+criteria that you can easily match with
+with the results of the
+contest to with the results of the with
+the submissions that are
+made for this contest to understand if
+they match
+so it's really hard to for for them to
+it's really hard to understand if they
+match or not and it's really hard for us
+sometimes to understand as as
+participants if we match or not it's
+easy for like debuts okay yeah the bots
+are mandatory
+and uh there's uh some support for uh
+tip three tokens which
+yeah we discussed and it was uh slightly
+changed but yeah i just wanted to um
+to know if those um if more attention
+will be paid to you
+to make criteria more easy to understand
+yeah you have actually touched two
+topics here so the first one
+so uh refers to to the judging process
+yeah so and that's why uh i asked
+everyone to show and explain how the
+solution works
+because uh judges uh jurors
+will be assessing the work
+i hope everyone will assess personally
+but i hope that
+they will be assessing it fairly by by
+the spirit of the contest
+and the second uh topic is that uh the
+contest itself
+was formed uh like this because
+we had several uh approaches on the
+architecture and design stage
+that were not pretty similar
+uh in the implementation and
+guys tried to to make the contest uh
+in such a ways to cover all of this so
+uh
+maybe that causes sometimes uh some
+blurry points
+uh in in the text but uh if you have any
+doubts
+so you can you are free to just address
+your doubts to
+to jurors before they make the decisions
+so don't hesitate to do this
+i actually don't have doubts about
+jurors i just
+wanted to for the jurors to be
+to not be put in a situation where they
+don't
+um have more or less
+more lack or less exact criteria to to
+judge
+so just to make it easier for them to
+understand what
+and bring the most value to you to well
+to the community so we have the highest
+quality
+of course of course in fact uh
+when we are talking about some standards
+for
+judging of course in some time
+maybe it will come like best practices
+whatever
+but uh right now so uh each juror is
+independent
+and he has his own criteria on how to
+judge
+uh i personally know at least 10
+different approaches and how to assess
+different works
+because i i am a juror myself and
+in several sub-governances and i talked
+to the
+jury community and everyone just
+believes that this or that approach
+is most suitable to them but
+this is how decentralized judging
+works actually so we cannot impose some
+standards or whatever on jurors but we
+can recommend
+and uh and educate if them
+don't understand how to do this that's
+that's a whole
+whole whole big issue so that yeah that
+needs to be addressed and
+it is addressed systematically in
+different subgovernances
+yes alexander please
+um i want to edit about um
+jury for me how i understand
+um the biggest problem that
+everybody who come and white uh
+can see previous voting in one case it's
+not so good because he looks for another
+opinion and maybe stay
+no so independent
+i in our case how i understand what we
+to do obligatory to waiting and people
+stay comes and void it like voted before
+another participant before um
+when it was obligatory they don't do it
+nothing
+now they all working but
+working in the same way way like
+previous
+and i think if it will be possible
+in the future to do smart contract or
+maybe at least front end
+where not possible to see marks before
+the contest ends um
+it will be the same problem if it's
+possible to do
+[Music]
+to
+then you can see avoiding
+all voiding of all jury participants
+only then contest finished
+we can will be void
+only jury who understand
+mechanism and try to
+go deeper who didn't know
+who don't know will be put up
+abstain yeah blind voting yeah
+so uh it's one of one of the approaches
+uh i personally
+think that it is just one of approaches
+and
+it's uh not the best one not the worst
+one so
+uh it can work and cannot so we don't we
+won't know and unless we try
+and i think the
+major point here is we need to
+grow our best jurors so and educate them
+grow them motivate them to
+bring the highest standards of judging
+and
+that's the main point because you
+remember that when
+some time ago we just decided
+to to pay to jurors based on the amount
+of work they did
+so on how they they voted and
+some someone just voted for for one work
+and
+all others voted for all others and got
+the reward proportionally
+but it helped a little
+but at least now the jurors who
+invest their time to assess all works
+they feel that they're rewarded more
+fairly but i cannot say that
+it dramatically increased the
+quality of judging itself uh so
+i think that we can just elaborate so
+several hypotheses on how to improve
+judging
+and try one one after another and just
+find the right solution just with a b
+testing
+or something like this
+thank you okay
+uh in fact uh
+that's that's pretty it's for today so
+alexander just
+drop something concern
+[Music]
+bitcoin return to bitcoin
+questions bitcoin i remember that was a
+contest for anatomic swap
+and now i find it and looks
+it was uh about uh atomic swap with
+uh bitcoin uh and ethereum
+and with bitcoin and pretty good rewards
+and
+uh it had some submission and
+many discussion maybe somebody knows
+how it's finished do we have some uh
+atomic swap bridge with bitcoin or not
+why we discuss
+bitcoin
+yeah atomic swaps and and bridges are a
+bit
+different technologies and
+they are not even pretty similar to an
+implementation
+[Music]
+on the boss blockchain sites so i
+recently discussed with my guys
+on our otc solution for atomic swaps
+and the implementations that we current
+that we had uh
+several months ago for bitcoin swap
+so uh it doesn't seem so good right now
+already
+so and that's that's why we are working
+it and
+hopefully we will also
+show it show something in coming months
+but the main issue here actually there
+is a whole set of
+issues linked with atomic swaps uh so
+including privacy including uh
+how it should be implemented and uh
+in both blockchains on the client side
+should we use or not some
+of chain server sides uh
+there's uh a big bunch of questions
+arising from it uh
+yeah and also technologies don't stand
+uh just on one
+one place and so they also have
+progress and things change
+for example uh at that time so
+we were targeting uh
+signing transactions with hardware like
+ledger or trezor then remember exactly
+which one
+uh but for some reason there were some
+changes so
+that integration doesn't uh work anymore
+so it needs to be upgraded and so on so
+forth uh
+yeah so actually it's it's a good
+product and i hope that we will show
+uh some uh updated version soon
+uh from outside the place
+uh but it's not the breach itself so
+it's is this these are different
+technologies
+yes alex please
+you you say that you talk with your guys
+and
+they told you that this solution is not
+very good could you verify more on this
+piece
+i don't remember all exact technical
+stuff that they said
+so if you want i just will collect some
+feedback from them
+for the next call and just explain more
+in details uh
+what was going on there because they
+changed
+i think uh three or four frameworks uh
+to optimize the work of this atomic swap
+solution
+so it's it was not an easy game at all
+so uh
+that's why yeah i discussed with them
+please it would be very available yeah
+sure sure i will just make a note for
+myself
+what i uh i mean about bridge with
+bitcoin
+it's not the same that bridge with
+ethereum yes absolutely not
+not totally the bridge and yeah
+it's more close to atomic swap not
+uh the main issue here is that
+bitcoin doesn't work like uh like
+ethereum
+they are absolutely two absolutely
+different things in terms of
+uh so-called smart contracts there is no
+smart contracts in bitcoin there are
+scripts
+and i'm not a very you know proficient
+guy
+uh to discuss about scripting in bitcoin
+but
+i remember something from my tech guys
+uh were saying
+and uh it's always a nightmare to write
+scripts in bitcoin
+and i remember that
+for atomic swap uh
+it's htlc contracts and for the bridge
+there should be htlc not contraband hdlc
+script
+for bridge solution there should should
+be
+another approach which one i don't know
+because we don't have the architecture
+and design context we get
+so that's why we want to launch it
+good idea in this case good idea
+thank you welcome
+okay so uh i can i can like comment on
+yes please all right the problem is like
+um the implement it's actually like
+um it comes down to the
+very simple question how do you
+implement like escrow on bitcoin
+yeah and uh and there are some research
+in this area
+like including very recent research
+using this new
+uh shamir you know signatures
+that bitcoin just just implemented
+so there are ways to do that i i don't
+even know if we need
+well we do need a design stage
+definitely which
+should be based on this research
+that research that yes if you can share
+it so please
+uh everyone not this particular research
+i'm saying the
+general research of this
+problem in bitcoin um because i don't
+think we're going to invent anything
+absolutely for bitcoin currently so
+someone it's a research it's what more
+like a researcher work you need to go
+and to
+find understand what people are writing
+analyze that and kind of
+you know base your proposal on that
+maybe
+the only criteria here is that it should
+be
+uh acknowledged research so uh means
+it's not some article on the web written
+by someone
+without verifying that uh what what is
+written there is correct
+um but maybe some uh something there is
+actually a
+paper like which i see now coming 28th
+of february 2020
+for example on this uh using this new
+ecdsa scheme
+okay bitcoin so i just i just actually
+googled it so
+you can use it can you drop a link
+please in the description
+thank you so much
+okay uh so our agenda is over
+so if anyone has some other topics to
+discuss so
+now the time for open questions please
+okay sounds good okay in this case i
+thank you everyone for attending and i
+wish you a brilliant weekend and see you
+next
+week goodbye bye
+yeah goodbye

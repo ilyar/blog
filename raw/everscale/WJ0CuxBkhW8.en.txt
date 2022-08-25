@@ -1,0 +1,908 @@
+well because they like to go green
+and do you know why i'm talking much
+about island today
+because the first thing you have to
+learn about easy pay mastercard it's
+irish
+and to be more precise it has an irish
+iban
+so
+we are officially an agent to electronic
+money institution
+pfs
+which is regulated and authorized by
+central bank of ireland
+and
+i wanted to move on um
+to our session now and tell you a little
+bit more about pi union products
+uh i will see if i can share my screen
+so it's easier
+um
+to show than
+to talk on my fingers
+so let me see if
+you can see my presentation or not
+[Music]
+okay let's see can you see it now or is
+it just a blank screen
+just just a blank screen
+okay
+let's see if i can share it
+one more time
+let's try again
+maybe it will work this way
+or not
+it possible to see
+no yeah you know here you can sure
+you can see just my
+i can see all this here
+let me
+see why it's not working
+if
+i
+like this a little bit better
+or not
+can you see can you see it now
+no no
+no
+flinch
+okay yeah try one more time if it
+doesn't work
+it doesn't work
+we do it without
+sharing screen
+strange it just shows the blend spring
+and that's it
+okay
+so it's
+a bit pity
+not to show it
+um
+still
+not working
+okay sorry guys
+you cannot see it
+let me see
+which way we can do it
+i share this can you see something now
+um there is something the website yeah
+there is a white
+white screen on white screen yeah
+maybe
+uh can you maybe can you send it to me
+and i can share i'll try to share it
+if you can send it to me i can share it
+no problem
+let's see sorry guys
+so we will just
+go
+again i will send it to roman by
+um
+you're waiting
+yeah so it's sand
+um
+if you can go
+let me let me try to share it
+just a moment
+yeah
+here's it
+3 or something like this so i will just
+start talking about the
+pi union
+and
+once roman opens the presentation i will
+show you more details so we started in
+2014 uh with a simple idea that anyone
+in any country uh should get an easy and
+secure way to invest um and increase
+their capital by using crypto
+we worked for several years now and a
+team from different countries
+has been working under the pi union
+and we brought together different
+products and now i wanted to show the
+product portfolio what we currently can
+offer and then we will
+stop on and go
+and look into the easy play um
+mastercard
+no
+do you see it now
+i don't see the presentation
+no
+yeah and now you see
+it should be available yeah yeah now i
+can see it if you go to the page number
+five
+this is where we have all our products
+um and i was talking about
+um
+the investment platform and about where
+you can buy a rent properties using
+crypto and also we offer um an encrypted
+atm network if you go to the next slide
+um it gives you more information um
+where you can buy and sell crypto in
+cash uh using um our atm network
+uh and finally uh
+and the most important is uh the cryptic
+currency exchange xpi platform which is
+the next slide
+yeah and here we are talking about
+a licensed crypto um
+exchange um
+platform and also we are working on a
+hybrid acquiring our product this is it
+will give you uh the ability to pay for
+any product with the cryptocurrency
+and thanks to our public api
+the merchant can embed a window on their
+website with the ability to pay for
+goods according to a hebrew scheme uh
+the buyer pays in crypto and the seller
+receives funds in the field
+so
+this um these are two uh products are
+still being developed the integration uh
+of the mobile app and atm so you can buy
+and sell crypto uh in cash and also a
+hybrid acquired acquiring if you max
+if we move next um to the next slide
+uh we
+we can see the xpi trading platform and
+this is our existing uh product where
+you can trade bitcoin ethereum uh ever
+and of course a stable you stable coin
+european
+and
+um
+uh here if you go on to the next point
+uh
+we are talking about
+our
+service features this is where you can
+um
+have a public api and defeat gateway and
+of course you can top up uh your crypto
+wallet with the bank transfer or by a
+visa or mastercard and this visa
+mastercard can be issued in any country
+and if you want to withdraw your crypto
+you can do it to
+a bank account in euro in eurozone and
+the fee we charge is only one percent
+so
+uh let's move on uh to the main point
+which we are gathered together for our
+ama session it's an easy pay mastercard
+and we take a look at the new slide
+yeah
+so
+now i um i talked a little bit about our
+xp
+trade
+exchange platform where you can buy
+and sell crypto and ever of course
+and now we have our mobile app
+easy pay with the card
+so
+what do we have now and this is not a
+promise about the future but this is our
+real product this is when you go uh to
+the app store and you download our free
+mobile app
+and when you go through the ekyc process
+you can
+order a mastercard
+and once you've done and complete
+and completed onboarding process
+um
+you will go into your mobile app and you
+will have a european or as i already
+said irish iban straight away so you
+don't need to wait for it it will be
+available for you on the mobile app
+straight away but the actual
+plastic master card will arrive by mail
+within 14 days
+and i have to stress out that currently
+this product is available only for
+european residents
+and also
+we still include united kingdom here as
+well
+um
+so
+as you can see we have these two
+products the xpei web application
+where you can where we have ever
+integration and where you can buy and
+sell uh crypto crypto and we have um a
+mobile app with the mastercard
+mastercard
+so
+we understand that
+now we have this one non-optimized
+uh moment when in order to buy and sell
+crypto and ever you have to login to the
+actual web
+extension of the xpr trade and you have
+to do two separate registration to
+easily pay and to the exit rate
+so we are trying to solve this problem
+and offer a new improved product
+which will give you an opportunity to
+have your crypto wallets and balances
+and your
+mastercard in one place
+and we call it um easy pay
+web 2.0 product
+and we hope that this will solve the
+inconvenience um of logging to two
+different platforms and you will have
+all in one
+in one place
+so if you move to the next slide
+you can see him yeah so so this is our
+new version
+easy pay 2.0
+uh i hope we will be able to demonstrate
+it to you on the 1st of april so now
+it's already
+passed through our first mvp and we are
+testing it so this is how it looks like
+so
+from one side you can
+hold the cart and on another side you
+see all your crypto balances and you can
+buy sell crypto and use our bridge
+crypto to figure out and withdraw euro
+up to any iban
+and um when i'm saying to any iban of
+course i mean that the best and the
+cheapest way will be for you to
+withdraw ever if you use our easy pay
+mastercard
+okay so that's about what we have at the
+moment
+and if we move on to the next slide we
+can take a look at the um coming soon um
+features
+yeah thank you so
+yeah as i mentioned
+here you can see
+how the easy pay mobile app looks now so
+it's a it's quite simple uh simple um it
+has uh you can it will show you the eye
+button on top of the screen it has your
+card and a payment button
+so
+as i said um soon enough
+in april we will be able to demonstrate
+you an upgraded version where you can
+buy and sell
+ever just like
+a fiat using our new
+easy pay version 2 app
+we're also
+planning
+to introduce and
+um issue mastercard to
+cis residents so including moldova
+kyrgyzstan kazakhstan and of course
+russia
+this product this project is still
+ongoing and with the current
+situation uh it was a little bit delayed
+so we have to find new partners in the
+uh friendly
+countries to us
+and
+then uh we also have a possibility we
+will have a possibility uh to order a
+virtual card
+this virtual card
+option will be uh available with the new
+version when we upgrade it to easy pay
+2.0 version
+and as i already mentioned in the
+beginning where we have our
+at crypto atm
+integration
+uh we are also working on this where you
+you have your easy pay
+mobile app you have qr code which you
+can connect to atm and you have a
+possibility
+to
+top up and to withdraw um
+cash
+using your crypto wallet so you
+basically you can buy and sell crypto
+using cash
+okay so
+yeah if we move on to the next slide
+i just wanted uh to summarize and uh
+give the main information about the
+benefits of easy paycard
+uh sure this is the classic mastercard
+with the direct link to your crypto
+wallet and you will have a european
+iban without visiting the bank and it's
+important to say that we won't do any
+credit checks
+on you and
+you will have your irish ipad which will
+be available to you straight after the
+onboarding process has been completed
+well as
+any mastercard
+you can use easy pay for online payments
+or hotel bookings and atm withdrawals
+and separate payments
+it's quite universal
+and um i will go through the tariffs and
+um
+limits just
+a little bit
+later
+but the main thing to say is that
+um
+we have a very low fees on atm deposits
+because as i said we have a friendly atm
+network and
+um the withdrawal fee is 1.99
+and the foreign exchange fee is 0.99
+which is quite um competitive as i can
+uh
+tell you like for example if you travel
+with this card to dubai and you want to
+get a taxi from the airport to downtown
+you can use easy pay mastercard in any
+atm in the airport and withdraw
+dear harms
+paying just 0.99
+and i can assure you it will be cheaper
+if you just go and change 100 euros
+to
+your homes in the
+currency exchange shop
+and uh yeah sure we have ekyc which is
+done just in four clicks and in 15
+minutes we will go through uh the
+koic process in more details because
+i normally receive a lot of questions
+around this topic
+if you move on
+uh to the next slide
+uh we are going to talk about the
+benefits of the mobile app
+yeah roman
+don't sleep no no yeah
+just
+disconnect okay
+uh yeah here we go
+here we have
+a benefits of the mobile app as i said
+it's quite simple you can see it uh in
+the corner it has a payment button which
+gives you an instant step of payments
+uh you can
+send you can risk receive money quickly
+it also safe as we use a 3d secure
+online
+system
+and of course
+it's it is a reliable european
+mastercard contract plus mastercard
+and
+it's very easy as i already said to open
+an account
+we have a customer support available 24
+7 with all human english speaking
+guys and
+also another feature what we currently
+have it's a notification so for any
+transactions debiter credit he will
+receive
+an instant notification
+um
+on your mobile app
+and let's move on to the tariffs um
+because i think the
+question everyone has is how much will
+it cost
+so now the cost of the actual plastic
+card is
+9.99 euros
+and the service fee is 0.99
+per month
+so yeah it will cost you about 12 euros
+a year and that's
+mostly it because not every day you
+withdraw cash from the atm which cost
+you 1.99 euro and as i already explained
+explained before the foreign exchange
+fee is quite competitive and it is
+0.99 percent
+yeah i can show you this is the way how
+the card looks
+so
+the normal card
+and
+as i said all other
+transactions receiving money paying with
+your card online
+um
+checking the balances
+uh in the app
+or
+doing pin reissue everything is for free
+um
+okay so
+let's
+finish up
+with the last slide
+i wanted again to say how easy it is
+to get the card you just go to the apple
+store google play and download the free
+easy pay app
+you have to provide
+proof of it id and proof of address
+together with the quick selfie
+during the registration process and once
+onboarding is done you will have your
+ipad instantly and you have to wait 10
+days to get the card by post
+so that's the main things i wanted to
+tell you today about the mastercard easy
+pay
+and we can move to q and a
+session
+and actually i i did prepare a couple of
+more slides
+uh based on on your questions i've
+already received
+so uh roman if we can move to like
+and yeah and next one
+it has a lot of details and
+probably i will just spend time and
+explain it because
+i think that's the we have most of
+questions about um which documents do
+you accept which don't so
+let me explain so when we are talking
+about proof of identity
+we can accept passport we can accept
+national identity card
+driving license
+we can accept a resident card but it's
+only valid in the camp country of
+residence
+so what it means if you are currently
+living in spain and
+you show us a resident card from ireland
+that's not good so if you live in spain
+you have to show your residents hall in
+spain
+we also accept citizen card but only for
+british british citizens
+and there is also another way of
+guard the ah card but it applies only to
+ireland
+as uh i already mentioned uh pfs is
+regulated by central bank of ireland and
+they have more opportunities to
+do checks and accept these documents
+and
+in relation to a proof of address
+we also accept a lot of documents uh
+it's not only
+utility bills like gasoline electricity
+we we do provide the mobile
+phones
+bills
+we also accept
+car or home insurance policy documents
+we accept a government issued documents
+uh when you have a stamp and a proper
+pro pro looking uh government issued
+documents yeah we also as usual accept
+bank and credit card statements and um
+second identity documents mentioning the
+address
+declared during the creating the account
+so which it means if you have your
+identity card
+with the proof of address on it we can
+accept it if for
+uh proof of identity you showed us your
+passport
+so passport and
+identity card with the proof of address
+on it will be sufficient
+well
+the
+most important thing also you please
+make a good
+good photo of the document so it shows
+all four
+sides
+of the documents so it's just not top uh
+of the page
+um it should have your name um
+an address on it and for proof of
+address
+the document should be issued in the
+past three months
+i think that's the most important
+questions about kyc
+and another
+question i already got was about
+onboarding
+well
+when you upload all your
+documents
+using the phone
+it goes to
+some sub thumbs up
+kyc provider who will do
+checks for us
+and
+yeah roman you can move to the 19th
+slide
+because when all the checks are
+not done but when you uploaded all
+documents um using the mobile app
+you will see this verification uh start
+to screen
+and i think a little a lot of people get
+confused oh
+oh i cannot press any buttons here
+what should i do like what happened so
+actually it says here that you you have
+to wait 24 hours
+while we are checking your documents
+and that onboarding is under review
+so what it means
+that the documents you have submitted
+went to a sums up
+for checks
+and
+if the documents haven't been accepted
+automatically it will go to a manual
+check
+by our kyc officer
+and as we are talking about
+manual labor here we have to allow some
+time for the
+person to take a look into your
+documents and if something is missing or
+something is wrong
+the kyc officer will be in contact with
+you by email which you have provided
+during the registration process and he
+or she will advise you
+how to complete onboarding
+so that's the main
+things around kyc and onboarding
+process
+and yeah thanks thanks for your time
+and now i'm ready uh for more questions
+if we have
+um actually i've got the several
+questions from the community
+uh from the chats that
+uh been discussed uh so the first
+question that i market for for myself
+that
+uh when
+are you going to launch your products uh
+similar products in the united states in
+the asia regions maybe in latin america
+and other and
+um
+there was an additional question that uh
+if someone want to to cooperate with you
+or who they should contact
+uh yeah the first point of contact
+for
+every scale community is definitely
+myself
+i am in telegram and
+yeah you can share my contact details in
+telegram that's no problem i can assist
+you
+and in relation to other questions
+well about america and asia
+we don't have plans at the moment we are
+really
+working hard on extending our services
+um in moldova kazakhstan kyrgyzstan
+russia um
+so all all these uh countries and of
+course uh serbia and
+how you call the candidates to
+countries candidate countries to um
+europe
+so that's our main target
+uh the next question was uh
+uh i uh
+i i working only this mastercard and
+visa they have some plans for the union
+pay other
+other payment
+gateways
+uh yeah it's a good question i think uh
+looking at the current situation in the
+world
+but
+unfortunately it's currently it's only
+mastercard
+which we are offering and with the
+partners we are talking uh to now for
+the future
+it also will be a mastercard but just
+available for
+russia kazakhstan kyrgyzstan moldova and
+other countries
+so
+the question is it's only a mastercard
+at the moment
+and in the in the near future as well
+and and again this is as far as i know
+as far as my competence goes if
+yeah i can find out from the ceo if he
+has more plans to extend to america or
+asia
+the next question
+is i plan to integrate other fintech
+products as a farming and staking uh
+into your app
+uh
+the que uh the straight answer will be
+yes we have a lot of projects going on
+and
+i i don't know exactly when because we
+have other product managers
+responsible for
+those
+areas but the answer will be yes
+uh
+one more question uh
+how
+can you protect uh the funds against the
+fraud
+and cetera et cetera maybe some
+audit
+conclusion
+yeah sure
+for
+um
+as i already mentioned we are an agent
+to electronic file institution pfs who
+is actually issuing the cards and
+they do
+annual audit checks um
+on us how we accept documents and how we
+process
+all the transactions
+we also have our internal
+eml
+procedures where we
+monitor the transactions on a daily
+basis and if it
+if it has certain limits it highlights
+to us
+plus
+as i already mentioned we have a 3d
+secure online um
+system which which is secure to to use
+the cards
+online we always use a two-step
+verification
+and yeah that's
+probably not everything but
+yeah as i already mentioned simplicity
+and security these are our main
+priorities for the customers
+uh that's all what i have uh maybe there
+are questions from the participants of
+the
+discord stream uh guys
+raise your hand and ask the question
+yeah and as i said please feel free
+to get in contact with me directly on
+telegram
+and especially while you have you might
+have some questions around kyc
+procedures or
+any other questions and
+and even if you have any recommendations
+or comments about the current up uh
+mobile up we
+we are upgrading it and we are trying to
+make it as easy
+as possible to use for the clients so
+and your feedback
+is welcome
+uh
+yeah maybe they're shy a little bit yeah
+just let me see there uh there was a
+question uh in the chat that i've seen
+um
+the the most a question i think that
+answered because uh
+they asked more about the when you
+launch the
+your product in kazakhstan and other
+mothers in that you already answered
+this
+yeah uh so uh regarding the um
+regarding the why at least uh what
+will user could uh
+could could get how long should they
+wait
+uh in the white list uh do you have some
+channels for the update and of the
+updates uh where they can get the
+fresh information
+um
+do you mean a fresh information about
+the the cart or the new upcoming uh
+crypto wallet
+um cryptic countries i can say uh that
+in the country that will be available
+for them yeah and the countries which
+will we will be available yeah as um as
+uh i probably have uh forgot to mention
+that on yeah when the system crashed and
+i couldn't share the screens
+[Music]
+on the website on the pi union website
+we have
+a form to complete
+if you
+would like to express your interest in
+ordering easy pay mastercard
+and there is an um
+option to select the country where are
+you currently resident so the reason
+behind is so we can
+see
+your interest and it will go to the
+queue and once we have
+a card available in your country you
+will be the first
+to receive an update by email from us so
+you can use this form if you would like
+to
+register quickly and get the easy pay
+card if you are in the european union
+but if you are not please also complete
+it so we are know where you are and you
+can be the first to know once the
+product is available in your country
+but again as i said we are not talking
+about africa america or asia we are more
+focused on cis and countries
+thank you and uh maybe could you share
+uh the main uh
+the main uh
+social networks that
+community can subscribe maybe maybe
+there you bring some contest as well
+yeah because there are many interested
+persons
+and such activities
+okay yeah we mostly use linkedin at the
+moment
+but
+once
+we grow in our sales here we also have a
+page on um instagram and facebook uh
+it's not really monitored uh
+properly at the moment but
+it will be once we grow
+a little bit more but on the linkedin
+yeah we will we always
+make posts and updates about our
+products
+yeah yeah we probably can share in the
+telegram i can share
+more links so
+it's a it's easy to follow when just to
+talk
+sure we will share it with you
+yeah uh so i think uh
+there's no more question from the
+community that uh don't see ah yeah uh
+there's there is a comment from deepo he
+is asking that uh ios app uh
+uh is easy pay crash on the version 12.5
+can you please check it
+yes for for this please just you can
+send me a screen print
+where it has crashed so i can pass it to
+our it guys and we will help you and i
+said you can always contact me on
+telegram
+so i think that's all there's no more
+question from the community uh
+i just want to wish good luck you
+because this is very important i think
+that
+uh
+one from the mainly stone of the of the
+total uh our scale that we can achieve
+in the near future if we reach so many
+countries where the
+uh ever will be accepted as a payment
+method uh that will that will be amazing
+yeah thank you for your time again and
+yeah please feel free to contact me if
+you have any questions about our future
+markets or future products and i hope uh
+more pi union uh team representative
+will be able to run more ami sessions
+and answer more questions around our
+products uh yeah and this last question
+uh
+in which jurisdiction uh is your company
+located uh
+is the there will be uh is there no
+what
+will be there some problems to go on the
+[Music]
+this
+market
+uh middle asia
+markets
+uh because of because uh world
+situation and
+etc yeah
+as i said pi union
+is a big brand and we work
+different products are based in a
+different countries but
+one office where we have a dutch
+fund and when we are talking about
+uh upstable coin and how it's um
+guaranteed it's it's funded by the dutch
+authority so
+one company is registered in the
+netherlands for these purposes our atm
+network and everything what is connected
+to the air crypto atms
+it's also here in the netherlands
+um
+xpi trade um
+exchange platform it has a crypto
+license uh from estonia
+um yeah so it's quite international and
+uh
+yeah it's
+it it depends if you need more answers
+in a particular product you can again
+just text me and i will provide more
+information on our licenses and
+registrations
+okay
+i think yep
+he said yeah thank you
+uh
+that's all there is no more question uh
+thank you so much kate that you answered
+to all questions i think uh our
+community will be glad uh if you share
+uh the text uh
+text interview this is our
+content team uh i'll share your contact
+with them and they'll contact you soon
+as soon as possible
+and there will be a text interview this
+year thank you so much
+okay thank you guys have a good day yeah
+bye bye
+thank you so much

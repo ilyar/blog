@@ -1,0 +1,102 @@
+hi there i'm ben and this is a guide to
+wallets on everscale today we're going
+to start with the cornerstone of all
+blockchain usage the wallets but quickly
+first don't forget to like and subscribe
+this will help our channel grow which is
+good for everyone everscale is packed
+full of daps tools and cool features for
+developers and users so with so much
+choice sometimes things can get a little
+overwhelming so we decided to make a
+short series of videos to help you make
+the best decisions ever so in no
+particular order today we're going to be
+reviewing ever wallet eversurf everspace
+wallet
+scalewallet.com and moon stake wallet
+let's start with everwallet everwallet
+was developed by the infamous team at
+broxas who have fast become renowned for
+their work on everscale as a browser
+extension everwallet is designed with
+dapps in mind so flat cube decks bridges
+multisig wallets etc and securely
+protects user data with an encrypted
+local key store one unique feature is
+that when creating a wallet you can
+choose which of the popular smart
+contracts to use some other features
+include a transaction history overview
+generating keys in key storage creating
+and managing multi-sig addresses adding
+depots and sending messages and commands
+in the transfer comments
+next up eversurf is not only a wallet
+but an entire blockchain interface which
+provides access to wallet features and
+importantly d-bots decentralized bots
+which can perform powerful functions and
+enable next-gen dapps
+aside from deebots other features of
+surf include staking transferring tokens
+managing nft collections on-chain
+messaging credit and debit card at the
+token purchases directly in the wallet
+and one more killer feature surf users
+can order a special nfc security card
+which serves as a hardware wallet
+enabling multi-signature transactions
+without any need to store private
+information on devices we can't help but
+mention the everscale grant beneficiary
+everspace this is a cryptocurrency
+wallet developed by a member of the
+everscale community in order to carry
+out the functions necessary to interact
+with all everscale industries it is the
+first in-house wallet that net functions
+natively on ios and android which makes
+it fast and stable and one of the most
+interesting features is smart staking
+which means it can analyze all depots
+and help choose the most profitable and
+secure depool for you it also features
+four languages
+let's move on with
+scalewallet.com which was formerly known
+as everscale wallet scale wallet is one
+of the most popular everscale wallets
+available and is a browser-based wallet
+developed by the
+svoi.dev team which works as a chrome
+extension it has a lot of features
+already built in and the dev team are
+active in updating according to user
+feedback features of scale wallet
+include support for the most advanced
+version of tip 3 fungible token
+contracts support for the broxas token
+list compatibility with everscale
+mainnet and test networks and more and
+last but not least moon state launched
+in 2020 with the aim of creating the
+largest staking network in asia since
+then the user-friendly web and mobile
+wallets on both ios and android have
+grown to support over 2 000
+cryptocurrencies staking on the app
+however is limited to only the highest
+quality projects which includes cosmos
+tesos polka dot and of course everscale
+phew that was a lot to get through we
+covered the main wallets you can use
+with everscale reviewed their features
+and highlighted their usps before we
+sign off though a quick reminder
+choosing any particular wallet or
+product is your decision and you should
+always do your own research subscribe to
+everscale's youtube channel discord
+twitter and telegram all the links are
+in the description see you next time

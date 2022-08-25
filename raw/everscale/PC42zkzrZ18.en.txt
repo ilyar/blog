@@ -1,0 +1,1006 @@
+so if you can please everybody uh
+camera's on
+share all our faces with the world
+and we can begin
+groovy
+oh
+okay there's youtube
+all right
+okay welcome everybody there's so much
+to share with you today we have a great
+lineup of presentations
+and updates from the community about our
+partnership with bsn and much more
+broxas posted a last call to participate
+in their elysium hackathon which kicks
+off
+this week on the 14th it's going to be
+very exciting and there's no cost to
+join there's a prize pool of 30k at
+stake as well
+um
+also you can join in person or online
+and as vlad pointed out last time that
+you don't even have to be a developer to
+join there's a competition for designers
+as well
+so
+you have nothing to lose go check it out
+and we'll drop the uh
+okay
+so okay i know that many of you have
+been asking in the chats for some everex
+updates some developer updates from
+everex and i wanted to cover that
+quickly and mentioned that we have been
+really busy but for good reasons and
+we'll have
+a big update published on the 15th so
+stay tuned
+and additionally if you have not noticed
+yet the everscale news channel in
+telegram has now has the blue verified
+check mark and this will help prevent
+spreading any scammy or
+spammy content which is great great news
+everybody
+so let's kick off the call and moving on
+to the agenda we have the first speakers
+who are crypto rat
+they are a new grant winner from the
+everscale defy alliance and they are
+setting a new foundation
+for a web 3ai layer and you can also
+earn money by renting out your
+computational power
+so we have the core team here with us
+today that's andre igor and dimitri who
+will
+i think do a quick presentation and
+share with us some more information so
+sure sure let me start
+uh so i'll talk just a bit about our
+project and give you a short uh
+short primer to
+prepare you for our future content so
+first of all i want to talk about what
+we are not instead of talking about what
+we actually are
+so the most important part is that we
+are actually not a web-free project so
+we are we're not focused on crypto and
+we are not crypto experts ourselves so
+we come from ai background and we did
+like acid tone of air research of
+development of machine learning models
+in our lifetime
+uh so we bring a
+breath of fresh air into your ecosystem
+by focusing on classic web 2 businesses
+so we are building a software
+for people who build and deploy ai apps
+so basically we build
+we are building a cloud platform
+for data scientists so for people who
+like trains those neural networks which
+then i don't know apply masks for to use
+snapchat images for example
+uh and we sell our product to them for
+regular fiat money
+we provide them with the convenient
+interfaces to deploy their models to the
+cloud in a couple lines of code saving
+them devops costs and hardware costs
+and the only part where um
+decentralization technologies come in
+is our internal unit economics
+so uh our clients don't need to know
+ about crypto and they don't need to
+about crypto and they don't need to
+bother themselves with it
+and we use crypto and we use
+decentralized programming
+to enable better economics for ourselves
+so uh we could be completely survivable
+even in that
+web 2 working over traditional cloud
+ranging hardware on traditional clouds
+but we want to boost to boost our
+earnings and boost our own economy
+through exposing ourselves to cheaper
+hardware which is located for example at
+undervalued local cloud providers at
+your own homes and so on
+so
+we really think that uh the key to
+success
+in utilizing the web free mechanics is
+to expose yourself to conventional money
+as much as possible
+and to use them just as a tool
+to get better
+uh
+better economics for ourselves so that's
+what we do
+so um i can dive in for a couple of
+minutes into like any part of our
+project that you find interesting so
+please give me like some direction and
+then i will give you
+more ideas about what's to come
+okay um anybody can chime in anytime
+with questions uh but i have my first
+question is are there any incentives for
+the community to be involved or
+interested or
+what the community do here
+well
+the incentives for community are to earn
+with us so if you have a like
+really high-end hardware of uh like if
+you're for example have like a really
+small cloud of
+of yourself or you have
+a really powerful gaming or artist rig
+at home
+uh will provide you with the capability
+to rent it out for to us to run our
+computations and we will pay for that
+right now our
+unit economics allows us to pay
+at least twice as much as you would earn
+from mining that's uh that's the minimum
+that we target
+and we want to
+give
+like almost
+10 x to our top tier members who will
+provide us with long streaks of
+uninterrupted uptime
+okay
+well that's interesting
+uh
+what kind of rewards are given out like
+10 times what is it only in fiat will it
+be in everest or can you we think that
+uh since uh you're basically investing
+your time into our ecosystem you invest
+your gpu which you purchased for dollar
+for us dollars into our ecosystem we
+don't pay encrypt we pay well we pay we
+deliver our usd payments in crypto
+through stable coins but all our rewards
+are paid out in us dollars so we are not
+going to launch our own token anytime
+soon and we don't don't don't think that
+it's even needed at all
+okay
+um
+does anybody have any questions for
+andre here
+i haven't seen any okay is there
+anything else you would like to share
+with us
+well not really
+we will definitely
+publish our light paper which will
+describe how our better version will
+work in a couple of weeks
+and we are aiming to launch a beta
+where you
+would be will be able to join
+uh and earn money with us uh in
+september somewhere in september okay
+that's our target yeah that would be
+nice to see a demo
+like a dashboard uh see how it works
+what the user would see
+it will uh uh the demo will be deployed
+as a cross-platform of windows or linux
+app we should go which you will be able
+to install it will be a nice and pretty
+app mostly focused on
+a younger audience of gamers
+and that's it
+okay
+okay thank you for sharing if we have
+any questions then i'll uh i'll let you
+know
+you know um
+bring it to you guys okay
+maybe maybe something will pop up soon
+so okay moving on the agenda we have
+identic space they were another grant
+winner and they've recently released new
+quests we've already done some initial
+quests like installing a wallet
+um
+completing an exchange operation and
+things like that but let's see what else
+we can learn about and
+benefit from
+so
+is the identics team here
+i can't hear you i think you're on mute
+hear me yes i mean
+now
+let me arrange my screens to see myself
+in all of you
+uh
+it's a good to see
+you all again thanks for having me here
+the first time it wasn't much i guess i
+showed you working prototype
+on our stage server
+and today i'll show you a fully
+functional version of our product with
+the
+quests
+[Music]
+for on
+products on average scale blockchain
+and uh just to remind you what
+identicspace is in the first place so
+this is a project that offers a new
+crypto naive users to learn crypto
+technologies and web3 tools in a simple
+educative gamified quest form
+a user receives a task with estimation
+how much time it will take to get
+through it like usually it takes from 5
+to 15 minutes
+an idea on about the price or reward he
+can get from uh
+from this quest
+uh he can watch a video where someone
+gets through all the steps of the quest
+and reads the steps
+step-by-step guide or instructions with
+screenshots and all the necessary links
+and tools are there in the instruction
+and all the user has to do is to repeat
+what is written or shown
+using the web3 tools mentioned in the
+quest
+and during the quest will help users
+both from instruction with instructions
+and never sleeping support
+to understand terms and concepts and
+tools installation configuration and
+transaction and all this stuff
+a simple short task
+with a modest but real significant
+reward and cryptocurrency and the
+gamified approach to present complex
+information this is the concept of learn
+to earn that we promote in contrast to
+platform where users learn to perform
+similar monk actions uh not related to
+education and the repetition of which
+leads to an increase in balance but not
+in their experience and knowledge so we
+promote learning instead of playing and
+our clients are wipe three companies
+ordering or sponsoring quests for
+learning and preparing power users
+and uh our quest to educate new crypto
+new users turning them into power users
+not only with a set of personal data
+social networks and behavioral models
+but also with the setup rich web3
+profiles with experience reputation of
+knowing how to use web3 tools with high
+level of loyalty as clients to project
+contributing to the quest and this
+experience is confirmed by web3
+blockchain transactions to date we have
+developed two quests let me share my
+screen
+[Music]
+if i can do this
+um
+yeah desktop one desktop two
+i guess
+this one is good
+yeah i think you can see my screen yeah
+that looks good
+yeah
+[Music]
+so we have developed two quest lines
+with basic operations for training and
+boarding into polygon and neverskate
+blockchain
+and my presentation
+is dedicated to
+everscale of course
+so we start from the starting screen
+with the big button
+start the quest
+and uh
+then you go through and more on boarding
+scenario where the users
+who use your registers
+and receives the idea digital identity
+which is
+a unique
+uh
+identification
+that we
+which is created using the fsk
+blockchain so it is unique with the
+signature on blockchain
+and the wallet address and other
+information including quest experience
+rewards received behavior and so on are
+subsequently linked to this dit
+and during
+the quest user receives tokens and send
+tokens to
+so now i'm registering to
+a small capture needed to avoid
+bots
+since a while we had
+we had have we have had this crowd of
+bots
+trying to
+get our money
+for free so we have to include some
+measures
+against them
+so here we are on the menu screen where
+you can see that there is a scale quest
+line
+with the five quests uh
+yes uh with five quests
+ready to be passed
+beginning with our wallet installation
+i'll show you the simple walkthrough
+without registering and making the real
+transactions on the blockchain because
+user's actions are synchronized with the
+blockchain transaction so to save time
+we want to they wait for everything to
+be in
+registered in
+in blockchain and verified by our
+backend so here we see the instruction
+with screenshots
+and
+once we are through this we get the
+congratulations screen
+with the instruction what's the next the
+next step is connecting the wallet to
+identicspace
+it still asks me to do some additional
+steps to
+to get my social media accounts
+we connect the wallet to identicspace
+it says that i will get 100 experience
+and plus
+forever
+token
+[Music]
+short introductory introductory screen
+then we just connect our wallet to
+identicspace platform to a track
+transaction related to this to my uh
+blockchain address have a wallet address
+so we get through a simple signature
+process
+once we're there we can do more some
+more complex tasks
+with higher rewards
+let's me
+oh no i know
+so we connect identic space everything
+is okay we go back to the
+quest page
+and
+go through the instruction and say next
+and here we are
+with connection congratulations and
+promise to send forevers to my connected
+blockchain address
+and this is
+not a reward by itself but this is a fee
+needed to fulfill the next steps more
+difficult ones so the truth
+[Music]
+that requires
+money to uh
+to make a transaction like swap
+uh here you see we promised not only
+ever talking but also some
+one good talking this is a specifically
+created
+technical token to
+teach user to swap
+without giving the real value tokens so
+we created a pair of two tokens wingo
+and one go
+that
+used to
+give this practical hands-on experience
+of swapping and heading to liquidity
+pools and
+at the last step farming
+lp tokens
+so here one one more instruction
+to
+show users what to do to swap from one
+go to wingo
+and
+we consider it is made on uh
+on the
+blockchain on the flat cube
+platform
+uh here we have to add the wingo token
+to our wallet to see that we have it on
+our balance
+oh we go through it once again
+and
+here we are
+finally we are the third part of the
+quest and we can swap finally one token
+to another
+we open the usual flat cube
+swapping interface
+selected token
+we search for one go
+one go
+i have one thousand and one go
+usually we give it
+um
+and the window
+so i swap 100 to
+one go
+and
+i sign the transaction
+i paid the transaction fee
+yeah this is it
+we are dependent on the blockchain
+transaction oh no i forgot to put my
+password here
+sometimes it takes time
+waiting for a transaction and never
+scale blockchain usually it's a
+lightning fast but sometimes we can't
+even
+create the id
+waiting for transaction
+great
+result
+and we can go back to
+our
+quest page
+and
+say next
+go into the next
+stage first congratulations and
+some rewards and the next
+stage of the
+quest line
+liquidity pools
+here it might be
+more difficult because the
+quest is
+more complex than simply swapping
+user has you have to understand the the
+the model of first of of liquidity pools
+and we explain everything trying to
+take some metaphors from the real time
+not blockchain life
+uh
+explaining like it's like banking but
+different same same but different
+and then we begin some preparatory steps
+like adding the pools adding liquidity
+to rules adding tokens and finally uh
+going through this uh
+liquidity pool
+adding tokens and getting a liquidity
+pool token to further reform them on the
+fifth stage of the quest line
+so it might take some five
+from five to ten minutes more
+to show you
+uh all other
+remaining quests
+so i want to save our time everything
+works you can
+try after the presentation by yourself
+and get some cubes
+as interest from my liquidity talking
+farming
+to date we have uh 10 quests uh in total
+for polygon and uh everscale
+uh more than 500 accounts users
+went through every scale quest at least
+one at least once
+and more than 1700
+transactions
+on different
+quests were
+done by users
+so not many but well the the model is
+proved and the users are coming to our
+quest
+uh
+trying to
+this gamified experience of
+learning the blockchain tools and
+web3
+ways of earning by learning
+so that's it for the moment if you have
+any questions i would be
+i'd be happy to
+answer if i can
+uh
+also we
+submitted our code
+the open part of the code
+to github we can check it at
+identicspace github i'll share this link
+with you
+well that's it
+thank you awesome thank you
+thank you very much daniel i do have a
+question will you be implementing um a
+functionality to
+log into the platform without sharing
+user data
+this is where we began
+we wanted to give them a possibility to
+log in without sharing data
+and
+we got into troubles with it because web
+3 registrations it exists but it is uh
+full with
+abuse from the part of some abusive
+users and now we're trying to uh
+trying to fight with them uh by
+introducing some more
+personal
+approaches getting the personal data of
+for of at least twitter account
+and facebook account it might be not
+your real account but it it it makes uh
+the entrance to the uh
+quest
+more expensive
+to take more time
+to avoid abuse from uh from the
+from the side of those abusive users
+i understand so we are on the way to
+experiment with this web 3
+uh non-personal date registration but
+well it
+it is
+it is full of bad guys still what about
+logging in with a verified address
+with a verified address like a very very
+listed address
+thinking about this
+at the same time thinking about 2fa
+registration
+well there are some some
+some good things and bad things about uh
+either of uh options and who i tried to
+weigh
+everything you know
+we are giving rewards to users without
+getting kyc or whatever
+really personal information so it's like
+giving money for free
+and
+we have to
+we have
+to figure out how to uh
+to make our money safe and to buy real
+users not to buy but to teach real users
+and not the bots or
+some very
+smart guys smart assets that want to
+take out to take our money for just just
+because it is there yeah
+i understood are you guys doing any
+marketing for this because i'm sure a
+lot of people are you know googling
+every day how to earn crypto get free
+crypto and quests for crypto and things
+like that
+yes slowly but surely we were trying to
+do some marketing and uh
+every day there are some
+up to 100 new users who are getting from
+uh advertising
+from
+some advertising channels
+uh there are some difficulties on for
+advertising social media as you all know
+and
+[Music]
+we're thinking about some
+campaign uh
+collaboration campaigns with influencers
+but still we were in testing period we
+didn't want to get 1000 users at the
+same time and be just blocked by amount
+of users so we're
+slowly but surely going there
+yeah
+completely understandable yeah okay
+that's a fantastic presentation great
+project thank you very much for thank
+you
+thank you
+uh so we're going to move on to
+grand bazaar the team behind grand
+bazaar has been quite busy these days
+especially with the latest gleam
+competition update of the tip four
+standard and of course the new nft
+merchants that look super cool so lucky
+for us we have pablo smirnoff with us
+today to bring us up to speed
+hi pablo
+hello everyone i hope everything is
+correct and you can hear me
+yeah
+so that's great
+uh first of all thank you for invitation
+and today i'm gonna share
+several important news from the gun
+buzzer
+the first one yeah it's about the
+merchant nft collection and the second
+one is uh
+about the tip for nft standard
+i will start with the merchants
+um yeah
+i'm gonna can you let me
+the option to show you then you're still
+sharing your screen yeah i would like to
+share my screen
+daniel
+daniel you there
+we need you to stop showing this yes yes
+i'm there i'm trying to figure out how
+it is okay stop chevron i figure out how
+to pause the sharing but it doesn't want
+me to
+stop ah yeah here it is there you go got
+it i did it thank you
+so
+actually you can see the screen right
+yes all good oh that's great
+yeah
+our second bling glim competition was
+finished and after
+that all of the merchants were minted
+out so the last merchant was minted at
+sunday morning
+and
+at this time the floor price is about 40
+hours
+last weekly call i
+briefly told you about the merchant
+benefits such as airdrop of our future
+native token but i didn't show you
+[Music]
+in my opinion the core features that
+make this collection is
+more unique than other collections such
+for example
+it's jlb format yeah
+you can fully interact with your
+merchant
+and
+you have to click on the format here is
+gpg format just
+the command picture and here is a
+3d
+merchant uh in the future we will let
+this option the option to mint uh
+nft in
+glb format to every user
+yeah
+so from
+the start of the marketing
+campaign of the merchant nfts
+we increased our
+unique users from the several thousand
+to
+it's about 15 000 at this moment
+yeah
+and the second important news that i
+want to share with you is
+tip for nft standard when you visit
+grand buzzer
+main page or other page you will see
+this banner
+that tell us that we are completely
+switching to the new nft standard tip
+four and this is the first available for
+the all users tip for standard
+implementation in the world every scale
+like a system
+as you know our marketplace already has
+two collections largest on
+this standard it's scale banks and grand
+bazaar merchants
+they also preparing uh
+different features on this
+standard such as nfts taken and
+reward system and much much more uh
+moreover user collection in t4 standard
+will be on chain collections and it
+means that
+they will exist not only on grand bazaar
+but on
+other wallets or
+third-party services
+it's important to know that
+nfts on the previous standard
+are still displayed on our marketplace
+they still it's still available to buy
+or sell them
+but
+collections on the previous standard
+will no longer be able to be updated
+with new nfts
+and
+the tip for standard
+is made in partnership
+of it gold and nft alliance
+in the end of july we will publish the
+smart contracts
+so you can check every detail of every
+contract by
+your own
+so
+thank you so much that's all
+thanks for attention
+thank you for that presentation
+um do you happen to know the size of the
+glb
+size yeah no yeah
+one more time i'll show my screen
+you can check it there so there will be
+a format okay
+oh okay yeah
+in the card of nfc on our marketplace
+yeah
+cool
+thank you very much thank you i hope all
+of you already minted or purchased one
+of them
+so welcome to the grand bazaar family
+yeah
+thanks
+does anybody have any questions for
+pavel
+i don't see anything popping up
+no okay well maybe later on we'll have
+some questions
+thank you very much
+uh and next on our agenda we're going to
+be talking about our partner bsn zachary
+lee is with us today and he has an
+update
+about the blockchain service network
+so welcome zachary nice to see you again
+hi nice to see you guys
+uh okay i'll just give a uh two minutes
+quick updates on what where we're going
+and where we are on bsn
+and as you probably will some of you
+were already aware with
+the bsn basically is something initiated
+by
+chinese state it was called the state
+information center
+sic
+and they basically some state-owned
+government departments
+and they're they're running something
+called blockchain
+service network and average scale is
+actually one of their
+very important partners and we've
+already
+go live with one of the the product
+which is called the open permission
+blockchain
+and now we're working on the next one
+which is more exciting one it's called
+ddc integration and basically the ddc
+stands for the decentralized uh digital
+uh sorry this decentralized digital
+certificate which is basically just the
+equivalent of nft
+because the nft is
+a kind of a little bit sensitive in back
+in china so that's why bsn they adopted
+a new terminology called ddc
+and now
+thanks to the new standard which is the
+tip four and now we we have an
+equivalent of erc 721 on every scale so
+that's right now our team is working
+very hard on integrating
+this tip in 4.1
+with the current ddc
+specification
+so and and we've already have a lot of
+help and support from everex team
+and other teams on every scale community
+and now hopefully i think we can get
+something ready next week
+and
+for the ddc and once this up and running
+on bsn average scale network inside of
+china
+mainland then
+we we hopefully can get some real good
+top brand like ip
+and brands they can doing minting of rft
+or what we call the ddc
+on bs and our scale network
+and that would be a very important way
+to to demonstrate our
+wonderful thorough put and tps
+by the way so currently
+now that is quite popular for ddc in
+inside of china
+and one of this obb chain they freddie
+maintain over i think four million
+rft or ddc
+just in in june
+and but but due to the the low
+throughput and tps
+so that blockchain is already in huge
+country congestion
+and that's why we think it's a great
+opportunity to demonstrate our uh
+strength
+yeah so
+let's just wait and see whether we can
+we can do a a a better debut in china
+yeah
+okay that's all of it
+that's great
+it sucks for them but that's a pretty
+good for us
+um is there any do you
+currently have any conversations with
+any of these top brands in the pipeline
+are you scoping them out or has anything
+even started
+yeah okay yeah so it's actually not us
+to to tax based on all these top brands
+ips
+is actually all those um what's it
+called the like uh an empty marketplace
+just like opacity and foundation so like
+on global blockchain space
+so here we've already have a handful of
+uh
+a big nfd marketplace in china and they
+basically can connect it to any of this
+bsn ddc
+standard blockchain yeah
+so once we're ready and they finally
+have lots of this and huge brands and
+eyepiece
+uh piping up and queuing up just waiting
+for a
+better blockchain with higher throughput
+interesting very good keep us updated on
+that that's that's very interesting
+okay no problem
+does anybody have any questions for
+zachary and about
+bsn nope
+okay
+thank you very much we shall move on to
+everboard everkit launched a new service
+called everboard which is a snazzy new
+token exploration interface and we have
+alexandra here with us today to tell us
+more
+hi alexander nice to see you
+nice to see you thank you for
+opportunity to present everboard
+let me share my screen one second
+to see everything by yourself yes can
+you see this
+okay so uh let's start the development
+of a device service which will provide
+users with functional narrative
+analyzing every scale tokens as well as
+monitoring the asset portfolio was
+planned as a part of the ground received
+by the arrow key team from the fire
+alliance
+on july 8 the arrow key team presented
+the everboard service to the community
+which is made in the usual arcade design
+we are on the main page now and you can
+see a summary of all every scale tokens
+uh you can see data on gainers and user
+stops here per day new tokens trading
+volume how many tokens were blocked if
+you choose for example one certain token
+you can see historical graphs
+on several indicators the current
+looking rate information standard and so
+on
+also there is a favorite section on the
+website so you just can choose the token
+click here
+and it will appear on your favorite
+section
+here users can add tokens for easy
+tracking
+to find the desired token on the service
+you can use a search engine
+which is located right on the top uh all
+articles about uh tokens in every scale
+published by the everky team were
+implemented in this service
+so to find the list of articles will be
+renewed so users can be aware of
+up-to-date information
+the service will be updated so in future
+versions community members will be able
+to use
+a portfolio you can see here portfolios
+soon uh where the composition and value
+of assets will be displayed
+also on the website you will be able to
+see the display over every scalar system
+and including various indicators for d5
+projects and the rating system and i can
+say that very will be not only d5
+projects but just like projects of every
+scale at all
+by the way you can edit your own token
+on the ever board service to do this you
+need to fill out a form published on the
+arrow key telegram channel
+thank you for your attention that's all
+okay thank you very much for sharing
+that it looks great alexandra um
+is there anything else on the roadmap
+that you could share with us like for
+example are you guys maybe thinking
+about
+creating widgets or
+part of the website to implement onto
+for now i talked with our developers for
+now it's on the stage of discussion so
+uh for now our first stage next is about
+projects as i said about the fire rating
+and so on and i think right after it yes
+we will discuss favor updates but for
+now i can't say anything about it but of
+course the service will be updated
+cool it would be great to see it on
+other websites like news sites or
+whatever
+okay cool
+yeah great any questions for
+about everboard for alexandra i don't
+see anything
+okie dokie
+um and that's it for our presentations
+if anybody has any questions you should
+chime in now
+i'll check there's nothing in the chat
+so i don't think so
+um alrighty then thank you everybody for
+joining and it's wonderful to see your
+faces and have a great rest of your week
+see you guys in the chats
+bye guys

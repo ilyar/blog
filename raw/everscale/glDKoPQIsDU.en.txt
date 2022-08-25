@@ -1,0 +1,1313 @@
+hi nom
+hi have you tried the butter
+not yet but i have seen that it's
+working
+usually instead of
+um know
+putting a an alarm clock for
+the time of the zoom i just enter ahead
+of time
+yeah i can imagine i understand
+understand because there are some kind
+of
+gap on uh youtube
+uh there are there are missing
+recordings you mean i i just used to
+like
+listen pose like before i get sleep
+and i found that there is
+there are maybe three or four latest
+calls
+missing yeah actually it's uh
+because uh roman who who normally
+uploads
+them so had some issues with internet
+connection and
+as videos are quite heavy so
+he wasn't able to upload this on time
+but he started to to put it there one by
+one
+and hopefully they will soon all be will
+be there
+there was one call i guess it was 27
+or 26 that for some reason didn't record
+so unfortunately we lost it but all the
+rest should be uploaded
+all right let's start then uh actually
+we have some people here already and all
+the rest who didn't come
+it's their fault absolutely because they
+will miss an interesting discussion
+i hope uh let me
+go through the agenda and uh tell what
+we're going to discuss today so
+first of all i'd like to give some
+updates on the contests and
+then uh a short announcement about the
+cross chain meetup
+that will uh take place in moscow today
+and also i would like to discuss today
+uh the topic of uh
+decentralized lending so uh
+starting from the contest uh actually
+there is only three days left to vote
+for the polka dot bridge stage three
+uh and there are still uh still
+too few votes if if nothing at all uh
+so i not not no votes at all
+so that that's uh really discourages me
+and uh i hope the jurors will
+be able to finally put their votes on
+the submission
+and i hope that they are taking their
+time just to bet analyze the work
+if not uh so next time i will announce
+the next
+jury contest because we need some active
+members who
+are ready to dedicate the time to vote
+for for the submissions and they are not
+that many
+actually and yeah so
+we need to do something with the jurors
+activity
+uh if you have some ideas about people
+who can join us
+and help us make jury more active and
+involved so please do not hesitate to
+invite
+and i think i will prepare the proposal
+for the next time uh
+next announcement is about the second uh
+defy alliance meetup that is called the
+cross chain meet up so we are going to
+host a very interesting discussion and
+presentations
+by polka dots alana
+cosmos waves
+and freetown of course so and we will
+have a panel discussion
+uh about the future of cross chain
+interaction
+and some topics that will
+be arising and very soon like
+uh of course ethereum to zero
+again was postponed to 2023 but
+uh still uh one day it will come and
+as most of these uh chains
+they uh take the likability from from
+ethereum from current
+inefficient ethereum implementation uh
+it's one they may uh really affect them
+and there will be also some other
+additional interesting questions that
+will be discussed on this panel
+and we have good speakers today some of
+them will be offline some of them will
+be online so uh
+if even if you are not in moscow so do
+not hesitate to
+uh hop on on our online stream
+and take a look of what's going on
+and if you are in moscow so there is
+absolutely no chance for you to miss
+this right
+i think it will be very very interesting
+uh yeah so that's it for announcements
+and
+it's happening today it will start
+actually in
+two and a half hours in hype city near
+the moscow city
+so i can just one second i will tag
+once again the
+event uh in our defy group
+yeah i did this so uh if you want to
+to sign up or just take the link it's
+clck the for online translation if
+you're
+not speaking russian so uh
+yeah just hop on and listen because it's
+very interesting
+so let's
+go to the interesting part of today's
+call so
+uh unfortunately i didn't manage to to
+get some some
+speakers for today's call although uh
+i'm still trying to do so
+and got some guys from both
+centralized and decentralized platforms
+for landing
+hopefully maybe for the next next call
+or the call
+after so we will get some guests
+who will uh tell us more about the
+landing
+uh in the real world the crypto landing
+and actually uh there are uh two
+absolutely different areas that
+that we're going to discuss so the first
+one uh
+is called collateralized lending uh it's
+actually secured landing
+in other words that uh you use
+your own assets as a collateral to get
+some other
+assets that's pretty easy as it sounds
+and another more complex and more
+interesting topic is
+uh the unsecured lending uh which
+requires significantly
+bigger infrastructure and
+it will come in the later stages
+but we will touch this also as well
+uh so i would like to start
+from just giving some some insights on
+the market so
+uh on active players uh and
+who are currently uh in this market so
+i will start from centralized
+organizations and we will come
+to the defy ones of course and
+we'll just uh explain a bit about
+the how landing in defy world works
+uh if you don't i didn't dig into it so
+i found a couple of good articles
+to tell about this so first of all
+starting from centralized
+lending there are currently not that
+many uh big organizations and
+one of the biggest and the oldest one is
+of course nexon
+uh so they are currently more like a
+bank
+already and they even issue the
+credit cards uh and give some other
+products
+but still they are centralized
+centralized platform that require you to
+pass kyc
+and story of funds in in the custody
+so it's a custodial way but nexo
+actually played a very very good
+role in the market and showed how
+it can be done differently from the
+traditional banking
+and it's a big big thanks to them uh
+because they were
+pioneers of this area uh the next one to
+mention is a block fee
+that was hacked recently and you may
+have seen some news about this
+so the hackers stole
+stole some some millions of dollars from
+from the
+custody unfortunately because blockfield
+was one of the
+challengers for the fonexo and they were
+delivering very good and sophisticated
+products
+uh was a very good ui uh i hope that
+they will recover
+and they will manage to to over overcome
+this this crisis
+uh uh the one also worth to mention in
+the celsius network
+uh they uh started actually the first
+the first celsius model uh i remember
+when i was talking to them
+a couple of years ago when they were
+just starting uh
+they were already approaching the defy
+approach so
+kind of uh decentralized uh landing when
+they're
+or p2p landing actually uh
+it it was a bit different different
+pros and was used by nexo where an exo
+pro position themselves like a central
+counterparty where you
+you put your funds for deposit
+or take for credit
+uh and but now celsius actually
+evolved into yet another centralized
+institution that you can use to to
+borrow some funds
+uh of course this could not uh last
+too long when you
+when the defy started to evolve
+in the defy
+notion actually started to
+show up in news headlines
+in 2019 and then we started to
+to see the first purely decentralized
+protocols to to appear
+the first one uh is uh to name is of
+course uh
+eth land which is now famously known as
+abe so they actually created the first
+ecosystem smart contracts
+which was used to
+serve as a decentralized collateralized
+borrowing and lending platform they
+proposed
+they value the in three areas so first
+of all is of course uh
+it's a money market uh where the lending
+protocols
+uh this lending protocol that allows the
+creation of decentralized money markets
+that anyone from the world can access uh
+with the crypto assets
+without kyc without minimum deposits
+without any country restriction and
+anyone can earn interest on deposits
+that are done to the smart contracts
+uh second proposition was uh to the app
+builders
+and uh that will help differently apps
+to enhance the
+functionality and offer much much more
+features to the users uh
+i i can just name uh those like argent
+like not just save or instadep
+so uh they integrated uh other protocol
+uh with a smart contracts and now users
+of these platforms also can enjoy
+uh some london borough features and last
+but not least
+of course crypto traders so who really
+uh
+were seeking for some leverage
+to trades on the market especially
+when there is a high gross
+opportunity and they
+didn't want to sell the uh main assets
+so they
+could easily stake it on our and
+get so desired additional liquidity to
+trade
+uh yeah actually
+this was three key value propositions by
+other and
+uh speaking of use cases uh
+these were uh a bit bigger number of
+them
+so first of all uh users
+uh were seen of like a savings account
+which uh
+which was allowing you actually not to
+uh
+to make your funds work and get some
+interest on top of
+it and users were depositing funds
+in in the smart contracts and the assets
+were available to borrowers
+and uh albert
+designed the smart contract in such a
+way that
+deposits are always greater than the
+total borrow so
+actually uh there is
+almost almost of course there is always
+an opportunity but
+in the real world users
+will be able to withdraw their funds
+normally except for the situation of
+bankrupt
+so it's pretty much like traditional
+banks work as well
+so they offer a bit higher rate on the
+credits and
+a bit lower rate on the deposits and
+normally uh
+they should keep the resource that will
+allow to sustain a normal withdrawals
+operation
+by the busy clients
+next this case it was a traditional loan
+uh
+so when crypto users who are in the need
+of cash
+could use the protocol to borrow some
+usd stable coins
+uh then withdraw to them to the bank
+accounts through
+some some gateways or
+theater frames and uh then they could be
+used for
+different purposes from uh covering some
+pending bills and living expenses to
+some funding
+or business ventures and uh
+currently uh if you have a look on
+what uh lending protocols offer so the
+rates on loans are significantly better
+than the centralized counterparts
+just just for instance if you try to
+take
+a usdc loan from block fee
+it will offer it to you with the apr of
+setting
+roughly 16 and uh if you take it from
+others so it will uh
+be something like under five percent
+which which is a significant difference
+when you consider
+uh even all the transactional costs that
+may occur when you're interacting with
+decentralized application
+of course there is
+a specific use case that is more
+suitable for western countries
+which is called tax advantages when
+you need some liquidity and you don't
+have to sell
+actually your your basic asset because
+in case you sell it uh you have to
+report to tax inspection
+on the income earned and pay
+some taxes uh so in this case when you
+just
+uh stake it and take some additional
+money
+uh as as a loan so you don't have to
+to pay this tax it it
+makes may sound not really important
+for for most of countries but if you
+speak about
+citizens of usa or some european
+countries like germany or france
+so it is a significant benefit for them
+flash loans of course this is a unique
+feature that was initially offered by
+other that
+allowed smart contracts to borrow from
+the protocol
+without collateral and the only
+requirement was
+that they should pay the loan back
+within the same transaction block and
+thanks to
+the ethereum design which releases
+blocks
+uh well roughly roughly in 10 minutes
+if i'm drunk so uh it's well enough time
+to perform your operations
+and actually the flash loans were
+offered up to 25 000
+k dollars
+yeah maybe now they say even higher
+there is a lot a lot of information
+about flash loans and
+i remember that some of you already were
+asking about the the possibility to
+implement flash loans
+on free tone but unfortunately we cannot
+enjoy this because
+on friton blocks appear significantly
+far faster than one ethereum
+the next the next
+proposal is for smart contract wallets
+where the app developers who were
+responsible for creating smart contract
+wallets
+could also offer some lending services
+to the users
+and such wallets were aggregating the
+best rates from
+all known and audited lending protocols
+and users could easily select where they
+better deposit the the funds or withdraw
+the funds
+margin trading of course uh i will not
+just uh
+just just name it so everyone
+understands what this is and
+uh there are some two specific cases
+also
+that appeared with uh some decentralized
+learning protocols of the first one is
+the concept of yield bots
+um so this is a decentralized uh
+way of finding the better better
+place so it's an automated money
+management tool
+so it what it actually does it scans the
+best offering from the market
+compares and automatically moves your
+liquidity from one protocol to another
+so uh it's it's a very good idea and i
+hope that such
+thing will one day appear on the
+fritonica system because
+uh it actually shows that there is
+tremendous amount of liquidity and a
+very big
+number of successful market players
+that can compete with each other and
+this competition is always good for
+for the whole platform and another
+concept is
+liquidators so we also uh touch this
+concept a few times if i
+if i'm not wrong
+this is the way how uh
+leading protocols deal with
+margin calls when someone
+doesn't return the loan on time
+so actually uh it's as simple as selling
+as
+a basic asset as a discount rate to the
+market
+and those
+players those users who are called
+liquidators
+so they uh compete with each other for
+liquidating this position because if you
+get uh
+an instant exposure five percent to the
+market you can
+later uh using your arbitrary
+strategy so it's very good and this
+liquidation
+institute so uh is very good
+for all the lending and i think that it
+will definitely appear
+in native return protocols as well
+speaking about tokenomics
+and yeah just to mention that i'm now
+telling all this on the basis of other
+because it's one of the most advanced uh
+platforms that is dominating over the
+market like bitcoin
+on all the uh crypto markets but
+uh all other protocols work pretty much
+the same
+so they differ in some peculiar details
+and
+uh but uh generally speaking they are
+all very similar so uh about economics
+uh actually all other loans they
+have some uh 0.01
+of origination fee and 80 percent
+of this fee is used to buy uh
+other governance tokens from the market
+uh to burn its supply and organically
+push the price of this this government's
+talking up
+which which is quite a smart way uh and
+of these uh this origination fee
+uh goes to the referral program uh in
+its own
+uh referral fees uh so they're splitted
+between
+lenders and borrowers uh like 40 to 260
+and they are paid to the protocols
+that have integrated uh
+other for the users and
+users of these protocols can
+stake or borrow money and the protocol
+itself
+gets rewarded then we have
+so-called a tokens it's after
+other in compound for instance you have
+c tokens soft
+after compound uh so these are special
+tokens that are issued against
+your staked liquidity
+and this works pretty similar to
+robton that we are using uh in our
+solutions
+uh because sometimes uh
+it is easier for you to have a uniform
+tokens that you can build
+smart contract logic about
+and this talking station one to one of
+course uh ratio
+and uh you get rewarded in these
+tokens actually when you for example
+stake
+stake your your funds uh
+also our plans now to introduce some
+economics updates
+and uh so we uh we're all waiting for
+what it will be because uh like we
+learned from uni swap examples so
+the third version uh differs
+significantly from the second one
+and maybe maybe other will propose
+something
+something really new to the market uh
+i also selected other because it's one
+of the
+uh ones the platforms who offers the
+most wide variety of tokens that can be
+useful in
+london and borrowing uh it supports now
+more than 20 tokens
+uh its nearest uh competitor compound
+supports on the
+motor 3.8 so
+but the quantity of course does not
+reflect the quality here
+and we need to understand that other uh
+do this because it can actually
+uh yeah so and if we uh
+have a sneak peek on the default pulse
+and select the lending section so we can
+see that
+currently the lending market uh
+has a total value locked of 33 billion
+dollars already
+where other dominates with 27
+and uh actually there are not so many
+protocols
+who have more than one billion dollars
+locked they
+are actually six including also maker
+dao
+instadap liquity and alpha homora
+but uh alfajomora and instadep
+they are not uh independent uh in terms
+of liquidity so
+because instadep for example uh relies
+on
+a makering compound whereas alfa hamora
+relies on guinea swap and sushi swamp so
+and the liquidity is kind of mixed
+and the total number is also not that
+big so it's 27 of them on the divi pulse
+and most of them is uh under 30 million
+value locked so you see that they cannot
+compete
+in that sense to the market leaders
+yeah that's that's pretty it's about the
+market overview uh
+and what i want to discuss
+is uh how do we approach the lending
+uh in freetown so what should we start
+from
+and
+which contest should we host for uh for
+for the first
+uh iteration so who wants to to start
+these guys raisins
+nobody really
+all right maybe landing is not the most
+interesting part for the defying
+system of return
+no maybe we need to think about this
+yeah uh maybe i should start actually
+landing can be
+implemented in different ways of course
+and
+the most obvious the most understandable
+way
+is just copy our or compound
+mechanics and just port them to to
+to the free tone another another way
+uh is to attract one of the market
+leaders
+and discuss with them the pilot with
+with free tone when they could implement
+the mechanics themselves
+the third way is to think on how uh
+such lending and borrowing protocols can
+be
+uh reworked to benefit from freetown
+peculiarities like
+a fully decentralized nature and
+faster capital moving
+[Music]
+or maybe we can can as a force option
+uh think about serving
+uh some layer 2 solution
+for this protocols on free tom through
+the bridges for instance
+what do you think
+yes anzar please um yeah i think
+that as soon as we get to to the point
+where um
+where d5 is more developed in the free
+tone as soon as we get to
+working taxes and uh well
+working for some time bridges for for
+some more time and
+uh attract some more liquidity i think
+we can we can
+definitely start with with option one
+because
+that's practically what is happening
+with some of the taxes
+right now uh with uh
+where we just take something that works
+really well already and just sport it to
+free ton
+and use all the good stuff that is in
+freetown
+but i think that maybe
+yeah just now i i'm thinking that option
+one is is actually a lot slower
+than the option two okay the second one
+you told about uh just agreeing with
+this yes network cell on the partnership
+supports the solution i think
+the second option might be a lot faster
+but
+well it requires uh well someone who
+negotiates that to to sell free tone as
+the good solution for uh
+for landing yeah so
+i i won't really tell any new things
+uh now because i didn't really have time
+to to think
+a lot about that but i think the second
+so the second option is probably the
+uh the one that can be started like
+right now
+i mean it's it's it doesn't require
+to develop anything it just requires a
+good sort of
+like well it does require to to think
+through the
+the the the
+the good things that the the potential
+partner would get from that
+and how the free tonic system is about
+to
+to to benefit from that i think that's
+that's one of the uh that's the the
+option that
+can be chosen like
+today tomorrow or something like that
+yeah
+okay okay thank you by the way do you
+plan to support some margin
+uh instruments for your for your decks
+uh we have a lot of plans for future but
+yeah let's
+uh yeah well i think in the in due time
+we'll
+yeah but actually it's it's it's an
+obvious uh idea that
+lays just just on the ground because
+if you uh i i was on the
+definition uh conference the official
+hackathon conference
+a couple of days ago and there was uh a
+very good
+uh report from sergey gursky from
+uh uh
+how's this found it's called i forgot
+sorry uh yeah actually what's what's he
+told
+yes thank you thank you so uh he told
+the idea
+that actually uh triggered me to to dig
+him
+deeper in houses the current uh
+defy market works is that all the
+protocols are really
+tightly entangled so if you uh have a
+look
+for example uh
+at some exchanges so they are deeply
+entangled with credit protocols if you
+have a look
+on credit protocol they are entangled
+with the insurance protocols where nz
+parts
+uh rely on exchanges again to
+for certain reasons and uh it's kind of
+spaghetti market
+and uh it appeared
+not not for without not without reason
+actually and uh of course it's always
+worth to rely on some
+um some good solutions instead of
+creating your own one once and you
+better
+focus on your own business and take uh
+some good make some good partnerships
+with other protocols
+that will enhance your user experience
+uh and i think that this question
+uh will soon later appear in fritonica
+system as well
+uh because right now we see that we
+are kind of uh like wild wild west
+when everyone is settling their own
+ecosystems and
+we see which one will emerge faster and
+dominate the market but later
+the more products you have the more
+difficult it is
+to maintain them and one day
+you may decide that you want to focus
+and this is the point uh where
+you will start looking for some
+partnership and existing solutions and
+see uh who does better what
+and start integrating with them and uh
+thankfully
+uh on blockchain it's it's uh quite
+quite easy to do then in in the real
+world with all these kycs and
+all this stuff
+yeah sure about the margin trading i
+think
+we we probably what i'm thinking of now
+is sort of like a roadmap roadmap for
+d5 that is more global that like
+has all these milestones like
+okay in in like two months we have uh
+we'll have a bridge and a few taxes and
+like what else nfc marketplace
+already almost i think yeah i i think
+there's definitely a few solutions out
+there
+i didn't test them all but i think
+there's
+definitely going to be something working
+like this summer
+and having new users
+so like well
+nft is a different branch but still it's
+very
+it might be closely related to the taxes
+and to
+well movement of liquidity so
+yeah back to the roadmap i think maybe
+we should
+like have have it in advance to sort of
+plan and see uh when
+when those contests should be designed
+uh so that we when the when those little
+bricks
+or parts are ready we get right to that
+and start start building uh new stuff
+and start well advertising outside of
+the
+free tone because again i think that
+we would have like two or three times
+as many solutions and contestants for
+the
+contests and more well
+more and better products uh if we
+if we made the world if we if we
+told the world about how cool our
+contests are
+and how how easy it is to you to get
+into them and to
+to make some great products and to start
+stuff and to to win prizes
+so uh i'm i'm not sure maybe there is
+such a road map
+maybe i'm actually uh i
+remember that we have only one roadmap
+that was initially created
+at the moment of setting the device up
+garbage
+and i agree that maybe it is
+the right moment in time when we should
+update it actually
+and we could even run a small
+contest with some some small prizes
+for for those who could take the lead on
+that
+and create a well-done road map
+taking into account current market
+trends and the grounding
+why this or that
+movement should be done on this topic on
+the next one
+yeah why not
+yeah i think if if we make a contest we
+should maybe think of some way to
+uh to make it uh to make the product of
+that contest
+last so that we don't have
+a an outdated roadmap in a few months
+again
+yes i mean yes like to to make it
+like maybe a vested reward that
+uh for updating yeah yeah yeah so
+so there's like i don't know a committee
+for that roadmap or
+or a few or like a team that is uh
+responsible for updating it and uh
+well maybe with an analytics of
+governments uh or some other one
+uh to sort of analyze the current trends
+in the uh in a some in some
+sophisticated fashion so that
+for sure that this is the best that
+well this is like the the
+this is like the best data that we can
+present to the freedom community
+yes yes we understand where where we
+should move
+and to understand where uh
+where our products should be heading and
+to
+sort of advise to the teams that are uh
+creating stuff and defy where to
+where to move next and to properly plan
+and sort of well coordinate and partner
+in
+to make freetown as
+as attractive as possible for people who
+are looking to
+maybe move from ethereum or to people
+from
+who are looking for new d5 systems yeah
+and
+yeah i agree uh maybe it should be
+divided into two parts actually the
+first one is analysis of the current
+defined trends
+and some arising trends because uh
+what i learned from from that conference
+from definition is that
+actually there are some protocols that
+do not did not release yet
+actually and they may have some
+interesting proposals for the market and
+that are solving certain uh certain
+pains
+and uh another in uh based on this
+analysis
+so uh we can uh create
+a bit longer roadmap for for the for the
+freight on the ecosystem and
+see a bit further than few months
+so what will be going on
+okay thank you uh any other ideas guys
+please
+do not be shy we are all friends here
+well what one question what is the
+status for
+or oracle contest uh oracle contest
+is uh ongoing one
+just let me check so so when when is
+charging an implementation stage
+uh currently it's already in the
+implementation stage it's uh 20 days
+left
+so it's it will end on july the 8th
+and after that i think it will be a
+couple of weeks
+for for judging
+okay well so so basically i would like
+to
+prioritize lending protocol so create
+the contest and it should be very simple
+so we basically need
+to uh to put collateral in tone
+and to get uh usd or usdc or
+like or uh wrapped version of die
+so like this is quite simple it's like
+terra
+anchor protocol works so they put luna
+and get the usd so we can
+choose like three stable coins that we
+have dropped
+in uh in friton and just so the only
+prerequisite is uh
+the oracle because we need to to
+have the price of the tone to to get
+liquidated so
+and to prioritize it because i think
+that we need to
+so focus now on on building primary
+financial instruments
+rather than planning uh like long-term
+uh development because like so it's
+it it can be a waste of time so i would
+suggest to create prayer financial
+primitives
+first then go with uh long-term planning
+how we will
+um how we'll create new products because
+like i think that
+there is a problem in coordination so
+when the
+the couple of teams or several teams
+working on one
+uh on one type of product which is not
+like very
+uh you know very very productive so it's
+basically
+the best for the market so the market
+will choose
+the most convenient solution but in
+terms of the uh
+competitive competition with other
+chains it's like waste of time
+so basically i think that we need to
+create financial primitives
+for the first and then like decide
+probably we need
+to allocate some capital to the
+concrete team not like a contest
+uh for some products um
+very important for infrastructure and
+then like make contests for
+like um layer two uh products i mean
+layer two like not
+uh that utilized uh financial primitives
+rather than
+create the simple like swapping or loan
+or like deposit so like something like
+uh
+automated
+to be pestici done very soon
+in order to acquire new because like
+it's very
+uh it's very so what is landing
+basically
+it's the uh it's a tool to
+reduce the selling pressure on the tone
+so basically those who need liquidity
+will not
+sell token yeah will not send
+the the s the coin they will just put it
+as a collateral on take the short term
+liquidity in the entire
+usdc so this this is very
+um like it will have a good
+uh uh good effect on
+on on the price of stone so so basically
+the market cap
+of the whole ecosystem uh will will be
+um beneficiary of this
+so so i would i would suggest to do like
+to
+create the proposal very quickly and
+just set it up
+and to to be ready to test it when
+uh when the oracle is uh provided so so
+we can
+so we can have the the working product
+by that time okay uh in this case uh
+i i'm not sure that you will get the
+product by that time when the oracle
+contest is finished because you first of
+all need to integrate with this solution
+and understand how how it works and
+there can be different
+different implementations although there
+is one architecture
+so but still it can vary in
+implementations
+i agree that uh primitives uh
+are important but i disagree that we
+need to focus just on one solution
+because you never know which solution is
+better and
+uh in my opinion competition is good
+because
+you never know which exact protocol
+will uh will get
+more popular more stable and more secure
+and that's why we are discussing now so
+how we should approach this
+this thing and and when by the way you
+had
+a very good uh presentation on financial
+primitives
+an architecture of the financial system
+shown the first meet up of the fire
+lines
+maybe you can share it also here in defy
+group
+and we can also discuss this
+i what i would do actually is
+keeping in mind the oracle's
+architecture that is currently being
+implemented hopefully by
+by several teams i would
+run a short contest for two
+or three weeks for some
+uh landing architecture
+including the um
+peculiarity of free tone compared to
+ethereum for example and it shouldn't be
+with a big budget definitely but
+uh it can at least help us to collect
+ideas and select
+the better architecture from scratch so
+and not that like every team should
+think about uh
+inventing their own will
+yes ivan yeah uh speaking about
+like that we need to streamline
+implementation
+i'm sorry uh speaking about that that we
+need to streamline the implementation of
+financial primitives
+uh and uh i i i just uh
+think that they not really
+depends depend on oracle's because
+like oracle is a kind of a price
+provider right and you can mock
+it so we can kind of start
+developing this financial primitives
+assuming that oracle's are already here
+and
+replace the real oracles with some
+interface and as far as
+like these oracles will be implemented
+they will just
+like incorporate in the existing
+financial primitives implementation
+and so we can parallelize this uh
+yeah probably probably yeah
+so it will be just split into phases
+like the first phase
+is the implementation of uh financial
+primitives just a business logic of
+business logic of it assuming some uh
+kind of
+a mock-up mock of oracle and the second
+stage is just integration with uh
+with oracle solutions which will came up
+in in the nearest time it really
+uh you know my question is
+is oracle obligatory for lending and
+borrowing protocol
+or there is an alternative without using
+the oracle
+yeah there is an alternative to
+to put uh the risk of undeclared
+assets to borrowers to not to borrow
+splendors cylinders
+yes but it's basically not
+it's not a good path to to follow yeah
+so i i probably
+i will agree with ivan because like so
+oracle is like
+a microservice for for this for this
+product
+so it's like a service you can just mock
+it and create the whole logic
+just put a constant price of uh free
+tone
+as one or two or five as you like and
+just create
+the the whole object and and then when
+the oracle is
+is ready i think that the the team that
+will
+done the the best oracle solution
+will be eager to like integrate the
+oracle into your product
+so there will be some like synergy
+between two teams that are working on
+on two products so so basically
+because this team that is creating their
+oracle will be
+uh more likely interested in integrating
+into in
+spreading the usage and use cases of
+their own
+oracle solution so basically i think
+that we need to start
+um like soon to
+the solution uh so the the context of
+landing
+is quite it's not very uh
+straightforward like
+it's it's very straightforward in
+business logic but it is not
+straightforward in terms of the
+uh asynchronous uh nature of uh
+free time transactions but like i i
+think that
+in a month or in the months and a half
+that the solution will be ready
+without uh oracle pricing then we will
+work
+uh so i'm not really like these two
+teams will work
+on uh like making the final product with
+oracle
+thank you um so
+how would uh you see the next steps so
+in the end do we need the architecture
+contest
+because i remember and i agree with
+meters that we should
+because you never know maybe there is
+some genius idea
+lying just nearby you don't see it and
+this way we let people to
+to bring it to the surface or we just
+start with a simple implementation
+immediately and we'll see
+how teams has implemented this
+yeah well actually i have i have a
+little input on that
+uh that not that
+lending without without oracles
+is indeed possible and it it is not
+really
+so risky as you say so you you don't
+really need
+to put a risk on a on a loaner
+but you also can like involve some
+third-party insurance provider which
+will put some stake
+and earn rewards and some token and
+there is a project
+in in in ontology ecosystem
+i i'm not really remember it called
+weakness yes
+and there is also next mutual who does
+this
+yeah well yeah i don't know who will who
+will really do it but but
+the the the idea is just here in the
+ecosystem so
+well yeah just a note
+[Music]
+okay
+uh okay so i i still
+i see uh here some
+some questions uh a big number of
+questions actually so
+on how to do this so uh
+what i would propose is still
+run short short contest
+for not even uh as a well-detailed
+architecture but
+maybe uh a cell-like uh
+thought on how the landing in friton
+could be formal specification right
+informal specification yeah just maybe
+uh
+to create a fruitful ground for ideas
+uh for implementation and right after
+uh have provided to teams who would like
+to participate in the implementation
+contest
+uh because in any case everyone will be
+implementing their
+own architecture and we learned this
+from our past contests
+but if we can help them with giving them
+some
+some some information some alternative
+views
+on this on this issue uh it may
+result in better products
+do you think
+yeah that's good so we can like start
+with uh
+business logics uh essay or like
+specification technical requirements
+then
+and go into the implementation stage
+in this case uh i propose
+maybe i will draft this contest tomorrow
+and
+let's just launch it from monday and uh
+give
+one i think one week will be enough for
+such an insane
+and right after so we'll follow the
+first stage of
+implementation of the of the lending
+protocol
+by the way uh uh the what is the status
+for
+a state stone version uh talking contest
+it's launched actually and it will last
+for
+uh two months so it's 53 days left
+so uh it's it
+in it's in a structural uh
+phase or in implementation
+implementation so actually
+we discussed this uh several times and
+decided that uh to launch it
+right away so we just detailed the
+specification with pavel
+and now it seems seems okay
+and we will see the current uh
+what we will get from from teams
+actually okay right
+all right so we have five more minutes
+guys
+uh if you have any other opinions please
+please express yourself
+i i would i would kindly ask ignore to
+share
+his uh his you said presentation or or
+some maybe
+either a recording on financial
+primitives because
+i i i think that there are a lot of
+people in communities that are not
+really involved in finance
+and uh ignorance like
+background on finance will be really
+helpful for developers
+he already did this it's in defy group
+i pinned this to to the top
+because i remember there was a quite
+good introduction on the
+sequence actually of financial
+instruments
+uh that should be implemented it is uh
+the slide number four
+actually so the zero level
+infrastructure level
+and financial primitives and basic
+middleware then
+uh advanced uh middleware and basic
+financial products and finally some
+structured financial products
+uh this is yeah this is quite a quite
+quite nice
+thing to ground the roadmap
+okay uh
+i think that we have no more time for
+for discussions so
+uh just just a kind of reminder to those
+who joined us later
+so uh especially to jurors we
+have three days to vote for the police
+stage 3
+submission there is only one so please
+take your time and
+put your score on it in
+eight days we'll end the second stage of
+the freethrown decks implementation
+so if you are developing something so
+you still have time to submit
+and the voting will start in a bit more
+than a week
+and also there are 12 days late left
+for the self-sovereign identity
+framework implementation
+so also if it's the topic interested
+interesting for you so please submit
+and validate our oracle and staton so we
+already discussed this
+so that's pretty it for today and uh i i
+really thank you everyone for attending
+and uh
+i invite you to think more on the
+lending
+and what can be the lending protocol
+on friton native to freetown and
+let's launch the essay contest on monday
+to get some ideas
+so thank you everyone bye bye and see
+you
+in the meet up who's in moscow
+bye bye guys
+adios

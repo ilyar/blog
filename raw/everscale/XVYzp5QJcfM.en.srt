@@ -1,0 +1,715 @@
+1
+00:00:00,480 --> 00:00:03,510
+
+in everscale as well as the usual work
+
+2
+00:00:03,510 --> 00:00:03,520
+in everscale as well as the usual work
+ 
+
+3
+00:00:03,520 --> 00:00:05,749
+in everscale as well as the usual work
+chains for data processing there is a
+
+4
+00:00:05,749 --> 00:00:05,759
+chains for data processing there is a
+ 
+
+5
+00:00:05,759 --> 00:00:08,549
+chains for data processing there is a
+type of chain called a drive chain drive
+
+6
+00:00:08,549 --> 00:00:08,559
+type of chain called a drive chain drive
+ 
+
+7
+00:00:08,559 --> 00:00:10,230
+type of chain called a drive chain drive
+chains are a type of decentralized
+
+8
+00:00:10,230 --> 00:00:10,240
+chains are a type of decentralized
+ 
+
+9
+00:00:10,240 --> 00:00:12,789
+chains are a type of decentralized
+storage device in the everscale network
+
+10
+00:00:12,789 --> 00:00:12,799
+storage device in the everscale network
+ 
+
+11
+00:00:12,799 --> 00:00:15,190
+storage device in the everscale network
+at its core a drive chain is a work
+
+12
+00:00:15,190 --> 00:00:15,200
+at its core a drive chain is a work
+ 
+
+13
+00:00:15,200 --> 00:00:17,029
+at its core a drive chain is a work
+chain that is optimized so that it can
+
+14
+00:00:17,029 --> 00:00:17,039
+chain that is optimized so that it can
+ 
+
+15
+00:00:17,039 --> 00:00:19,590
+chain that is optimized so that it can
+store large amounts of data
+
+16
+00:00:19,590 --> 00:00:19,600
+store large amounts of data
+ 
+
+17
+00:00:19,600 --> 00:00:21,349
+store large amounts of data
+drive chains have special smart
+
+18
+00:00:21,349 --> 00:00:21,359
+drive chains have special smart
+ 
+
+19
+00:00:21,359 --> 00:00:23,590
+drive chains have special smart
+contracts located on them
+
+20
+00:00:23,590 --> 00:00:23,600
+contracts located on them
+ 
+
+21
+00:00:23,600 --> 00:00:25,509
+contracts located on them
+in order to store a file on a drive
+
+22
+00:00:25,509 --> 00:00:25,519
+in order to store a file on a drive
+ 
+
+23
+00:00:25,519 --> 00:00:28,070
+in order to store a file on a drive
+chain you need to deploy a file index
+
+24
+00:00:28,070 --> 00:00:28,080
+chain you need to deploy a file index
+ 
+
+25
+00:00:28,080 --> 00:00:30,390
+chain you need to deploy a file index
+smart contract which is similar to the
+
+26
+00:00:30,390 --> 00:00:30,400
+smart contract which is similar to the
+ 
+
+27
+00:00:30,400 --> 00:00:33,670
+smart contract which is similar to the
+index used on unix or linux this file
+
+28
+00:00:33,670 --> 00:00:33,680
+index used on unix or linux this file
+ 
+
+29
+00:00:33,680 --> 00:00:36,229
+index used on unix or linux this file
+index contains a certain information
+
+30
+00:00:36,229 --> 00:00:36,239
+index contains a certain information
+ 
+
+31
+00:00:36,239 --> 00:00:38,790
+index contains a certain information
+allows you to store and extract files as
+
+32
+00:00:38,790 --> 00:00:38,800
+allows you to store and extract files as
+ 
+
+33
+00:00:38,800 --> 00:00:40,950
+allows you to store and extract files as
+well as pay for the storage
+
+34
+00:00:40,950 --> 00:00:40,960
+well as pay for the storage
+ 
+
+35
+00:00:40,960 --> 00:00:43,510
+well as pay for the storage
+so what are the use cases well anyone
+
+36
+00:00:43,510 --> 00:00:43,520
+so what are the use cases well anyone
+ 
+
+37
+00:00:43,520 --> 00:00:45,910
+so what are the use cases well anyone
+can store anything on drive chains an
+
+38
+00:00:45,910 --> 00:00:45,920
+can store anything on drive chains an
+ 
+
+39
+00:00:45,920 --> 00:00:47,990
+can store anything on drive chains an
+example of a perfect fit for them is
+
+40
+00:00:47,990 --> 00:00:48,000
+example of a perfect fit for them is
+ 
+
+41
+00:00:48,000 --> 00:00:50,549
+example of a perfect fit for them is
+media storage for nfts
+
+42
+00:00:50,549 --> 00:00:50,559
+media storage for nfts
+ 
+
+43
+00:00:50,559 --> 00:00:52,630
+media storage for nfts
+also some of the first consumers of
+
+44
+00:00:52,630 --> 00:00:52,640
+also some of the first consumers of
+ 
+
+45
+00:00:52,640 --> 00:00:54,709
+also some of the first consumers of
+drive chains will be other work chains
+
+46
+00:00:54,709 --> 00:00:54,719
+drive chains will be other work chains
+ 
+
+47
+00:00:54,719 --> 00:00:57,590
+drive chains will be other work chains
+that are archiving old states
+
+48
+00:00:57,590 --> 00:00:57,600
+that are archiving old states
+ 
+
+49
+00:00:57,600 --> 00:00:59,830
+that are archiving old states
+so taking a closer look at how drive
+
+50
+00:00:59,830 --> 00:00:59,840
+so taking a closer look at how drive
+ 
+
+51
+00:00:59,840 --> 00:01:02,069
+so taking a closer look at how drive
+chains work everything starts with a
+
+52
+00:01:02,069 --> 00:01:02,079
+chains work everything starts with a
+ 
+
+53
+00:01:02,079 --> 00:01:04,950
+chains work everything starts with a
+dedicated scalable number of validators
+
+54
+00:01:04,950 --> 00:01:04,960
+dedicated scalable number of validators
+ 
+
+55
+00:01:04,960 --> 00:01:07,350
+dedicated scalable number of validators
+that store the associated data
+
+56
+00:01:07,350 --> 00:01:07,360
+that store the associated data
+ 
+
+57
+00:01:07,360 --> 00:01:09,590
+that store the associated data
+all the validators are selected using
+
+58
+00:01:09,590 --> 00:01:09,600
+all the validators are selected using
+ 
+
+59
+00:01:09,600 --> 00:01:12,230
+all the validators are selected using
+the delecta smart contract the
+
+60
+00:01:12,230 --> 00:01:12,240
+the delecta smart contract the
+ 
+
+61
+00:01:12,240 --> 00:01:14,710
+the delecta smart contract the
+validators commit to providing space of
+
+62
+00:01:14,710 --> 00:01:14,720
+validators commit to providing space of
+ 
+
+63
+00:01:14,720 --> 00:01:17,030
+validators commit to providing space of
+a certain size that meets the system's
+
+64
+00:01:17,030 --> 00:01:17,040
+a certain size that meets the system's
+ 
+
+65
+00:01:17,040 --> 00:01:19,510
+a certain size that meets the system's
+requirements on their disks and also
+
+66
+00:01:19,510 --> 00:01:19,520
+requirements on their disks and also
+ 
+
+67
+00:01:19,520 --> 00:01:21,590
+requirements on their disks and also
+commit to transferring this data within
+
+68
+00:01:21,590 --> 00:01:21,600
+commit to transferring this data within
+ 
+
+69
+00:01:21,600 --> 00:01:23,510
+commit to transferring this data within
+a certain period of time
+
+70
+00:01:23,510 --> 00:01:23,520
+a certain period of time
+ 
+
+71
+00:01:23,520 --> 00:01:25,990
+a certain period of time
+validators receive this data as a result
+
+72
+00:01:25,990 --> 00:01:26,000
+validators receive this data as a result
+ 
+
+73
+00:01:26,000 --> 00:01:28,390
+validators receive this data as a result
+of synchronization if the applicant does
+
+74
+00:01:28,390 --> 00:01:28,400
+of synchronization if the applicant does
+ 
+
+75
+00:01:28,400 --> 00:01:29,749
+of synchronization if the applicant does
+not meet any of these system
+
+76
+00:01:29,749 --> 00:01:29,759
+not meet any of these system
+ 
+
+77
+00:01:29,759 --> 00:01:31,749
+not meet any of these system
+requirements they cannot become a
+
+78
+00:01:31,749 --> 00:01:31,759
+requirements they cannot become a
+ 
+
+79
+00:01:31,759 --> 00:01:33,190
+requirements they cannot become a
+validator
+
+80
+00:01:33,190 --> 00:01:33,200
+validator
+ 
+
+81
+00:01:33,200 --> 00:01:35,510
+validator
+the data is stored in an encrypted
+
+82
+00:01:35,510 --> 00:01:35,520
+the data is stored in an encrypted
+ 
+
+83
+00:01:35,520 --> 00:01:38,310
+the data is stored in an encrypted
+format none of the validators are able
+
+84
+00:01:38,310 --> 00:01:38,320
+format none of the validators are able
+ 
+
+85
+00:01:38,320 --> 00:01:41,270
+format none of the validators are able
+to decrypt the data and read it all
+
+86
+00:01:41,270 --> 00:01:41,280
+to decrypt the data and read it all
+ 
+
+87
+00:01:41,280 --> 00:01:43,749
+to decrypt the data and read it all
+files are stored with multiple copies to
+
+88
+00:01:43,749 --> 00:01:43,759
+files are stored with multiple copies to
+ 
+
+89
+00:01:43,759 --> 00:01:46,310
+files are stored with multiple copies to
+ensure high reliability speed and of
+
+90
+00:01:46,310 --> 00:01:46,320
+ensure high reliability speed and of
+ 
+
+91
+00:01:46,320 --> 00:01:48,389
+ensure high reliability speed and of
+course availability
+
+92
+00:01:48,389 --> 00:01:48,399
+course availability
+ 
+
+93
+00:01:48,399 --> 00:01:50,149
+course availability
+to make sure that the validators
+
+94
+00:01:50,149 --> 00:01:50,159
+to make sure that the validators
+ 
+
+95
+00:01:50,159 --> 00:01:52,950
+to make sure that the validators
+actually fulfill the stated conditions
+
+96
+00:01:52,950 --> 00:01:52,960
+actually fulfill the stated conditions
+ 
+
+97
+00:01:52,960 --> 00:01:55,429
+actually fulfill the stated conditions
+the following things take place
+
+98
+00:01:55,429 --> 00:01:55,439
+the following things take place
+ 
+
+99
+00:01:55,439 --> 00:01:57,830
+the following things take place
+random sampling of fragments of stored
+
+100
+00:01:57,830 --> 00:01:57,840
+random sampling of fragments of stored
+ 
+
+101
+00:01:57,840 --> 00:01:59,990
+random sampling of fragments of stored
+files in which small chunks of
+
+102
+00:01:59,990 --> 00:02:00,000
+files in which small chunks of
+ 
+
+103
+00:02:00,000 --> 00:02:01,550
+files in which small chunks of
+information are queried
+
+104
+00:02:01,550 --> 00:02:01,560
+information are queried
+ 
+
+105
+00:02:01,560 --> 00:02:03,190
+information are queried
+deterministically
+
+106
+00:02:03,190 --> 00:02:03,200
+deterministically
+ 
+
+107
+00:02:03,200 --> 00:02:06,630
+deterministically
+disk occupancy checks by writing quasi
+
+108
+00:02:06,630 --> 00:02:06,640
+disk occupancy checks by writing quasi
+ 
+
+109
+00:02:06,640 --> 00:02:08,630
+disk occupancy checks by writing quasi
+random bits to the disk to fill the
+
+110
+00:02:08,630 --> 00:02:08,640
+random bits to the disk to fill the
+ 
+
+111
+00:02:08,640 --> 00:02:10,710
+random bits to the disk to fill the
+decledge storage space and further
+
+112
+00:02:10,710 --> 00:02:10,720
+decledge storage space and further
+ 
+
+113
+00:02:10,720 --> 00:02:13,030
+decledge storage space and further
+replacing these with client files if
+
+114
+00:02:13,030 --> 00:02:13,040
+replacing these with client files if
+ 
+
+115
+00:02:13,040 --> 00:02:14,949
+replacing these with client files if
+there is a request
+
+116
+00:02:14,949 --> 00:02:14,959
+there is a request
+ 
+
+117
+00:02:14,959 --> 00:02:17,750
+there is a request
+and data transfer checks with final
+
+118
+00:02:17,750 --> 00:02:17,760
+and data transfer checks with final
+ 
+
+119
+00:02:17,760 --> 00:02:19,589
+and data transfer checks with final
+confirmation of receipt from the
+
+120
+00:02:19,589 --> 00:02:19,599
+confirmation of receipt from the
+ 
+
+121
+00:02:19,599 --> 00:02:20,710
+confirmation of receipt from the
+customer
+
+122
+00:02:20,710 --> 00:02:20,720
+customer
+ 
+
+123
+00:02:20,720 --> 00:02:22,390
+customer
+if files are unavailable
+
+124
+00:02:22,390 --> 00:02:22,400
+if files are unavailable
+ 
+
+125
+00:02:22,400 --> 00:02:24,309
+if files are unavailable
+damaged or are not being transferred
+
+126
+00:02:24,309 --> 00:02:24,319
+damaged or are not being transferred
+ 
+
+127
+00:02:24,319 --> 00:02:27,030
+damaged or are not being transferred
+without any notice then the validator
+
+128
+00:02:27,030 --> 00:02:27,040
+without any notice then the validator
+ 
+
+129
+00:02:27,040 --> 00:02:29,510
+without any notice then the validator
+stake is reduced when a certain number
+
+130
+00:02:29,510 --> 00:02:29,520
+stake is reduced when a certain number
+ 
+
+131
+00:02:29,520 --> 00:02:31,350
+stake is reduced when a certain number
+of situations like this occur the
+
+132
+00:02:31,350 --> 00:02:31,360
+of situations like this occur the
+ 
+
+133
+00:02:31,360 --> 00:02:33,190
+of situations like this occur the
+validators who are responsible are
+
+134
+00:02:33,190 --> 00:02:33,200
+validators who are responsible are
+ 
+
+135
+00:02:33,200 --> 00:02:35,990
+validators who are responsible are
+eventually subject to slashing in this
+
+136
+00:02:35,990 --> 00:02:36,000
+eventually subject to slashing in this
+ 
+
+137
+00:02:36,000 --> 00:02:38,630
+eventually subject to slashing in this
+way a transparent and reliable system is
+
+138
+00:02:38,630 --> 00:02:38,640
+way a transparent and reliable system is
+ 
+
+139
+00:02:38,640 --> 00:02:41,030
+way a transparent and reliable system is
+built up where nobody is interested in
+
+140
+00:02:41,030 --> 00:02:41,040
+built up where nobody is interested in
+ 
+
+141
+00:02:41,040 --> 00:02:43,670
+built up where nobody is interested in
+not storing not transferring or lying
+
+142
+00:02:43,670 --> 00:02:43,680
+not storing not transferring or lying
+ 
+
+143
+00:02:43,680 --> 00:02:47,160
+not storing not transferring or lying
+about the data
+

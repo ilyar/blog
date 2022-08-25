@@ -1,0 +1,970 @@
+oh cinnamon
+good
+okay
+uh hi all uh welcome to our uh ama
+session uh this um
+this is our guest for today uh it's uh
+sergey pategan he is a
+team lead at the broxus
+and today he will uh tell us more about
+the future of products migration
+on the new tip
+3 standard
+closer game please can you
+tell us more about it
+yeah sure
+uh thank you for annotation
+um yeah so um in a few words uh next few
+days we're gonna have a very
+uh
+important uh
+process called migration
+uh basically it's about launching new
+token standard in the everscale network
+so which is uh also important it affects
+probably every existing product on every
+scale you know like bridge
+dexes uh
+wallets block explorers and so on uh so
+it's not only about updating the token
+uh but also about updating every single
+product that works with token
+uh
+probably will start
+tomorrow this whole process
+and i hope we will finish it's uh on
+tuesday
+if everything uh
+works fine
+so uh basically uh we will update the
+bridge uh it means that uh
+uh yeah so
+few words about the bridge uh
+it will be relaunched from the genesis
+you know uh so uh every single contract
+will be redeployed
+uh will have like new token contracts a
+new bridge specific contracts and uh so
+on
+uh which is uh also important we will
+publish the instruction for for example
+for our release what they uh should do
+to
+support the immigration
+it's not a
+complex process you know it's just a few
+few comments but uh our bridge release
+needs to support it
+for a regular user you know like a token
+holder everyone who has used the t uh or
+like
+btc uh
+we will publish for your special
+interfaces probably on bridge uh maybe
+decks maybe some other our websites
+and uh your token update will
+uh
+will be like automatic you know so you
+will just detect if you have uh old
+version tokens and uh since you have it
+we will uh prompt you to confirm the
+update all you need is just click button
+in your crystal wallet and your old uh
+let's say use the t will be burned and
+the new one will will be minted to you
+that's it you know so for
+a like regular user it's kind of kind of
+simple process
+another important thing is the farming
+when we
+made a farming like a half year ago
+we made it especially uh unupdatable and
+upgradable you know so the current
+version of the farming let's say can be
+stopped immediately okay uh so uh
+what we're gonna do we will set the uh
+reward speed to zero
+so there will be no uh new rewards in
+the current farming
+let's call it like old farming and uh
+after that uh
+there is a duration as i remember like
+four months or half a year maybe uh into
+this uh rewards
+you know like your current reward will
+be vested to you
+so until uh until end of this period
+you have to uh you know wait until it
+completely unlocked
+take it
+they they will be released to you in the
+old uh tokens you will update it as i
+said to the new tokens and
+that's it we also will launch the new
+farming instance with new pools so
+there is no problem for you to
+uh right after the update take out your
+liquidity from the current farming and
+uh deposit it to the new one
+uh so so yeah uh the farming also will
+be updated it's like first priority
+another thing is our decks
+uh since you know it works with tokens
+it also needs to be updated
+uh
+probably uh i i hope we will uh also
+finish it until tuesday
+uh
+so
+the instruction for the users who have
+like uh you know liquidity position uh
+in some pools uh will be released
+probably it will won't also be a complex
+process uh you just need to press a few
+buttons probably send a few cheap error
+scale transactions and that's it so yeah
+uh
+well uh what is a
+few words about the new token standard
+um
+first of all why it was uh made
+because we had an old token standard for
+a year probably and it works just fine
+there is there are a few reasons first
+of all there are a few like uh
+minor security issues
+uh they are
+uh
+they they are not lead to the uh steal
+of uh
+funds you know you can't lose your funds
+but uh they can lead to some kind of
+denial of service attacks you know when
+uh
+some malicious actor can like block you
+from performing operations with your
+token
+and
+it's not really good it should be fixed
+and the current version of the token are
+also
+unupgradable
+so you know we can't just uh
+upgrade all of them uh in uh
+in a few in a few minutes
+so we have to redeploy all the contracts
+all the network all the products
+uh another important thing is that uh
+the last year
+uh in aeroscale we didn't have like the
+common token standards like you know the
+erc20 in ethereum so every probably
+every team had uh
+their own standard like processor made
+their uh products with their own
+standards and labs use their own one and
+so on uh we finally uh
+found a consensus in our vision of a
+token standard
+so now uh you can see the the current uh
+the current standard on the ever
+everscale documentation website it is
+already public
+basically it will be used across all the
+teams across all the products
+so it means that uh it would uh
+there would be some kind of
+interoperability
+between products in every scale also you
+know every token will be supported by
+the
+let's say block explorer because for now
+it's a kind of complex
+process because everyone has its own
+token standard and uh
+so on so yeah it was like uh
+inevitable you know uh process we
+had to have uh the common token standard
+and finally we reached an agreement
+about it i'm really excited
+so yeah that's just a
+few words about the immigration uh why
+we should perform it also it's uh
+uh
+is you know we have a uh
+wrapped tone token in uh everscale
+and since we had the rebranding it
+should be a name to wrap ether and you
+know it's also impossible to
+just we can set a new name we have to
+update it uh
+all over the products we have to create
+the new token it will be called wrapped
+ever probably
+uh so yeah running is another reason
+yeah i think that it's more
+it's more uh
+more community
+[Music]
+uh waited uh the news that everyone uh
+was awaited
+and
+we we happy to hear that uh there will
+be a united uh standard for the
+yeah
+uh we have collected the um
+several questions from our community
+um
+let me let me
+read them uh
+what's new in this migration and why do
+we need this
+um
+i think that we already explained it
+yeah yeah probably we need a similar uh
+standard as a rc20
+uh are you going to publish instructions
+for this migration
+uh yes sure uh we'll publish instruction
+for every type of user you know what you
+should do if you just have uh
+you use the sea on your crystal wallet
+there is like one instruction what you
+should do if you are really in our uh
+bridge relay network it's the second uh
+instruction and uh you know what you
+should do if you are
+standing in unit swap uh version two
+wrapped on usdc pool uh it's also
+important question and we're sure we
+will
+publish uh an article about your just
+you know step by step instruction
+yeah just uh
+watch the boxes channels maybe
+brock's twitter will publish it to
+them
+cool cool
+uh
+is it related for the sort of smart
+contracts too
+uh
+well it
+depends on the serve you know uh
+so surf for sure uh
+can
+support this update
+and uh it's support for the new tokens
+uh
+probably i'm not sure because you know
+i'm not
+a developer
+of the surf wallet
+uh
+what are their exact plan
+but uh
+tom laps uh also uh participated uh i
+think that uh thank them very much uh in
+uh the
+development of this token standard so
+yeah probably in some form it will be
+supported in uh the uh surf wallet as i
+know uh there is uh you know uh
+probability that the
+uh exact implementation of the token
+wallet
+uh will be different between you know
+like broxas products and certain labs
+products like flex decks and so on
+uh the current standard is not about the
+exact implementation
+but about some core
+architecture patterns
+some uh core function names and so on so
+yeah
+you know uh i think that
+let's say the
+uh
+tokens which will be supported in uh
+crystal wallet
+probably will be supported in surf
+wallet too
+cool cool
+uh the next question is um
+can it might be repeated in the near
+future uh he mean about the
+immigration
+operation
+yeah yeah yeah that's that's a good
+question yeah uh i hope that
+we won't need it for a long time
+um the new migration uh you know for
+example as i said
+we
+have used the non-upgradable tokens
+and the new version is upgradable
+so
+if anything goes wrong yes there are
+also some security uh
+bug or something else at least we can
+update the
+implementation of the token wallets and
+uh you know it doesn't affect other pro
+products we don't need to redeploy
+bridge and so on
+and uh
+which is also important so we uh made it
+uh like um
+the current token wallet can be updated
+without the
+agreement from the owner you know you
+you have to uh confirm that okay you're
+ready to update your token wallet i
+think it's also an amazing feature it's
+about decentralizing
+and like the uh
+community governance of this uh whole
+process
+thank you for answering uh the next
+question is uh
+when you farming
+as soon as it's possible i hope next
+week
+next week okay
+[Music]
+uh so there's uh no more writing in uh
+questions uh so let's move on to
+the uh
+to the
+questions from the youtube
+um
+so
+the russian questions uh just
+let me translate them okay um the first
+question is uh
+will integration of uh selectors provide
+uh any new possibilities for
+for smart contracts uh developers or is
+it just something for off-chain
+developers
+uh
+well uh
+the internal logic of the smart contract
+it's about support them yeah let's say
+block explorers you can support any
+token which
+supports these function ids
+so
+i'm not sure about the new possibilities
+for you know on chain usage and also
+there are a few improvements in uh like
+uh the boxes implementation of the
+tokens for example uh as i remember uh
+there was no uh callback on the mint
+event
+and you know it was tough to integrate
+all the means oriented uh
+process in your decentralized
+application
+now it is uh way more easy to do
+you can just you know react
+every time someone means here a token
+and uh
+so the the i forgot about this point uh
+also like the on chain usage is a little
+bit
+improved
+the function id is maybe it
+it don't affect the on chain so much
+on next question is uh
+are there any plans uh on adding uh
+tvm cell parameter for view functions
+uh sorry what i mean by cell parameter
+i'm not sure
+oh let me clarify
+uh okay let's move to the next question
+uh
+so alex is asking uh
+so uh now i don't need to unwrap my
+errors am i right
+uh if you have like uh evers you know
+native currency on your crystal wallet
+you don't need to do
+anything
+they are not affected by the immigration
+if you have
+wrapped tom's token
+you
+have to update it
+to do this you need to unwrap your
+reptons receive errors and then grab
+them
+to the new token correct ever
+that's you know like two steps to
+upgrade your red stones
+uh next question is uh
+if i put uh
+uh there's regarding soon talking yeah
+if i put in some talking farming today
+so it's no will be lost and it will be
+forming at least for
+four five months
+uh
+i'm not sure about the
+exactly like system token with their uh
+their plans
+but uh yeah basically uh in uh the
+current farming
+you
+your inside entitled reward as i
+remember its name uh is uh vested over
+this period like four months yeah so you
+will receive the final part of your
+reward after uh four months
+uh what farming speed uh will be on new
+platform for uh for example uh
+w tone or usd player
+uh good question um i'm not sure
+uh
+i think that uh it will be published in
+our uh news channels like you know in a
+few days the new information basically
+will need uh to finish the
+migration and after this uh
+the new farming pools will just be
+launched
+as soon as possible
+maybe it will still stay the same i'm
+not sure
+uh could you provide us uh
+this uh the your token uh registry
+please
+how uh we could add our tokens there
+uh let me see the question uh you mean
+uh
+uh did give me a moment let me send it
+to you
+okay yeah i see uh if uh
+if you mean the token registry like the
+white list for tokens
+so
+this white list is located on the github
+and
+i think you can make a full request to
+it and probably it will be
+accepted there are still no you know
+like politics about accepting new tokens
+in this white list probably we will
+upgrade our interfaces
+uh to support
+uh like
+user defined white lists
+uh
+but uh but you you can try just to make
+a pull request
+it's uh in their boxes organization this
+repo with
+a token list
+[Music]
+uh
+it it became a difficult uh practice to
+use uh tom wallet plus play out for tip
+three operations instead of external
+call which calls tip three wallet
+directly
+via private key
+let me see
+uh i'm not sure that it's uh
+okay i see it became default practice to
+use some wallet plus plus payload
+instead of external call yes uh right
+in our
+uh
+current implementation it's like the
+only way to use the token it's called
+like internal call so you you have to
+use your basic accounts like uh your
+uh
+wallet to initialize the call to your
+token wallet
+so uh
+in the in the previous implementation uh
+it was implemented but uh as i remember
+uh it's uh
+never uh never used
+at least once um the
+whole it is also important to say that
+the whole standard the tip three it uh
+does not tell you which way of uh
+ownership you should use you know
+it's like that doesn't care about it so
+our token implementation uses the
+internal ownership and uh you know
+anyone if
+if there is a need
+can create a new token implementation
+with extra external ownership by private
+key that's uh that's okay
+these tokens still be uh
+will be supported
+like the
+block explorer for example
+you will see the token transfers and so
+on
+uh next question is uh what
+are your comments on the standard
+interface for default functions like
+transfer are not strictly
+defined and behavior is not defined
+well uh
+i can't agree that the behavior is not
+defined
+uh the
+idea about the current standard
+is that it implements like you know uh
+basic functionality for detecting their
+transfers or mint
+or burn operations
+the
+external method
+for example for initializing the
+transfer can be different uh it
+can
+depend
+on the
+uh implementation yeah as as i said for
+example you can have two different uh
+sub standards like the internal owned
+token wallet and external on stock in
+the wallet this uh
+this uh
+method for initializing the transfer
+uh
+can't be the same you know between these
+two standards because uh external
+ownership and internal ownership works
+uh a little bit
+different
+uh so uh
+the
+uh which is also more important here i
+forgot to say about it that we will
+release the so-called substandard let's
+say tip 3.1 or maybe i'm not sure to 3.2
+with exactly our current implementation
+like the internal ownership the uh
+external uh interface for initializing
+transfers and mint and burn and so on so
+this substandard will define the
+behavior as much as possible
+and uh
+and it will still be compatible with the
+general tip 3 standard
+uh when uh will the documentation be
+published
+uh
+okay
+i'm not sure what
+documentation uh is meant
+like the
+description of their standard tip 3 is
+already published on the everscale
+documentation website it can be found
+on the github also
+so
+i'm not sure what
+i think he meant he meant this yeah i
+agree that's he meant this okay
+where some custom parameters uh can be
+encoded in some logic uh logic like
+check users balance and contain original
+original context execution may be
+implemented
+uh
+let me read it yeah
+i'm not sure that i understand a big
+question
+right but let me try to guess
+the
+current uh implementation of the broxas
+standards
+standard uh supports the
+uh like arbitrary payloads
+the
+callbacks and so on so
+you can see for example the
+the example on the
+uh bridge smart contracts
+uh there are like uh this is a specific
+payload encoded and passed to a token
+transfer and then uh after the transfer
+is received
+the
+like receive callback is initialized so
+this way you can integrate tokens in
+pretty much any decentralized
+application
+i hope
+i answered the question
+yeah
+when any guidelines will be available
+already answered
+um
+next question is
+uh 214
+characters out of 200
+there are no
+urls i think it's about youtube chat
+ah
+strange yeah uh will the token
+architecture change in the new standard
+previously a user created a contract for
+each token uh this gives six transaction
+per swap and a time
+of about
+seconds i will use the swap time
+decrease
+uh
+okay yeah great question
+i think that
+the new implementation
+does not
+decrease the amount of transactions you
+know there is still uh internal
+ownership which requires you to send an
+additional transaction from your wallet
+to the token wallet and uh so on so
+probably the new
+architecture the new implementation uh
+don't uh
+don't decrease the swap time for example
+i think it's uh on the you know like uh
+it requires some uh network uh changes
+to
+uh m to make this uh
+like for example swap time less
+on next question uh
+the key application of everscale bridges
+and decks already work with the
+charging standard of
+fungible tokens there are no other
+applications like flakes flex exchange
+then what
+will the change of the standard give
+developers in the entire scale project
+uh also a good question first of all i
+i'm not agree that
+there are no other complex applications
+and another thing that the
+like common token standard
+uh
+allows us
+for example to provide a better
+onboarding for a new teams
+uh it allows uh the
+the the more simple development of the
+new products you know when there is uh
+only one common token standard and there
+is no need to research uh
+every uh every product available
+so uh it's like
+uh it's extremely important to have uh
+like a common token standard for the
+whole network and uh be sure that uh
+every product
+will be using
+it
+um
+now you can transfer token uh tokens if
+uh
+everyone's wallet conditionally has one
+chord a hash this is a this is a
+monopoly on the code
+uh
+in the new standard uh will the
+situation remain the same code for all
+cases
+uh
+well uh if i understand the question
+correctly
+uh yes
+the whole architecture is based on the
+simple
+simple principle
+that uh the token wallets
+uh can exchange uh messages only in case
+uh they have the same code hash so yeah
+basically it's like uh
+the main rule of the whole token
+architecture
+uh how to see uh what the ever tokens
+locked in the bridge are invested in
+because there are no or achieved not uh
+in everscale to make such requests
+uh will the new standard help investors
+visit
+disease okay let me
+read it again
+uh
+well uh
+you can always uh check uh
+the
+uh connected strategies you know and uh
+how much tokens are delegated
+to every strategy on the uh ethereum
+side uh you can just uh you know since
+the vault and the strategies are open
+source you can just uh verify how many
+tokens are invested
+in in every connected strategy uh i
+don't think that so you need to like are
+hypnot and you don't need to make these
+checks in every scale
+or just use the ethereum side
+uh when will tone bridge will be updated
+uh as i said uh i hope uh we will end
+the update uh
+until tuesday so like the
+next week yeah i'm sure
+next week okay thank you
+uh what is your price target forever
+bridge for one year from now
+can we just skip this question
+yeah then
+uh there is no financial
+advice exactly yeah
+uh could you implement automatic on
+chain methods to add user are created
+tokens to your registry please so
+could use their tokens inside brooks's
+wallet and send them to dex
+to sell them for example
+uh it's a good question
+let me try to ask
+for example
+you can remember how
+talking lists
+work
+on the ethereum uh there is like a
+standard a so-called token list uh
+invented by uniswap long time ago
+and uh there are like a lot of uh token
+lists uh across the network uh
+and uh like the main one uh is uh
+controlled by the unis wall it's uh
+kinda small you know maybe less than 100
+tokens
+and it's um it's important to keep it
+small uh there is always a risk for
+example of uh
+phishing let's say you know if i'm
+talking about unchain method to add user
+created tokens uh what if uh
+someone adds like a thousand new usdc uh
+tokens you know
+uh it's uh
+we will have a
+huge mess after that so it
+this process always
+requires some manual checks you know
+some security checks
+i'm not sure that it
+can be done completely automatic
+so probably for now uh this process will
+remain the same
+uh and if you want to add your token
+uh
+well at least uh you have to create a
+pull request
+and uh wait until it confirmed
+unfortunately i i i just don't know the
+other way to do it uh securely
+thank you for answering
+uh there are three more questions uh it
+seems like uh
+you're going to update the breach and
+token first and only then uh the new
+uh
+dex decks yeah decks
+uh okay uh yeah yeah
+i think uh
+we haven't started yet but most likely
+we'll uh make it this way like uh
+the bridge and the tokens
+it's like the
+basement also for decks so yeah we have
+to upgrade them uh at first
+uh will there be a redeployment of the
+bridge including from the ether side
+uh yes yes uh the
+uh answer uh is yes because it's
+we have uh thought about
+uh you know the redeployment without
+affecting the current
+uh
+ethereum and polygon you know and so on
+uh
+smart contracts and unfortunately it's
+uh
+impossible in our understanding
+so yeah we will also uh upgrade
+deploy like new instances for
+every single contract that
+exists right now
+uh how will the bridge functions during
+the
+this time and what tokens
+versions will it support
+uh
+basically i think uh there would be some
+uh
+like black uh blackouts you know a few
+hours i hope of uh
+when the bridge will be disabled
+we will also publish the exact uh
+information
+uh
+a little bit later so uh
+after that we will try to you know
+redeploy the bridge as fast as possible
+it's a little a little complex because
+uh
+it
+does not uh
+depend on us only
+also like a lot of relays
+have to update their relay nodes
+uh to support the new version of the
+bridge until uh
+until this uh
+intel won't be uh functionable
+so uh
+i i think that's uh
+in a few hours
+the the new bridge will be redeployed
+and after that like
+every every other product will be
+migrated
+uh the last question is uh the old uh
+tip three uh
+standard has been audited by proven the
+team
+uh has a new standard already been
+audited
+by whom what company who is there who
+who is going to make algae yeah
+uh
+yeah it's an important question
+uh for now the new implementation has
+been uh reviewed by uh like the boxes
+uh
+small team of security specialists
+and they fixed a few a few few important
+issues as i know
+uh the
+like uh public audit made by let's say
+preventer or nil foundation
+uh will be
+available uh
+later
+yeah it's it's extremely important i
+agree
+for now there is now like a public audit
+for a new uh token implementation
+so uh
+there's ah
+anton is asking when dexada
+uh i'm not sure i think
+we should add some more people to this
+conversation uh
+i'm also interested uh i think at least
+uh after the immigration
+so
+uh
+the last question is
+what is the owner of the pool
+will input all lp tokens in the black
+hole
+and
+he cannot
+move the old liquidity to the new
+standard what should he do
+okay
+it's also an important question
+the
+uh so for now the liquidity provider
+tokens are controlled by the decks
+itself
+and we are aware of a situation like
+this when they're
+like full creator
+have sent
+lp's
+tokens to the black hole
+probably we will update
+the old version of the bridge
+uh
+it's uh
+it will update it in order to achieve
+the control over the lps
+uh after that probably will burn the uh
+liquidity provider tokens locked on the
+black hole and uh
+means uh the same amount
+uh to the like pull creator so after
+that uh
+it will be possible to uh
+like withdraw your liquidity
+from the old decks uh exchange it to the
+new standard and uh put it back uh to
+the uh decks
+i'm not sure the exact process
+uh
+but uh
+we are aware of this situation and uh we
+will also publish some instructions in
+our channel
+uh
+one more question does it matter who
+owns the ownership or
+or of the root
+contract
+well uh it depends uh on the
+you know like the use cases for your
+token
+uh
+for example you know it's like a good
+practice
+to uh send the ownership to the black
+hole if you don't need it you know let's
+say you have a fixed supply token so it
+always makes sense uh
+it doesn't work for uh every uh
+scenario
+let's say our tokens uh owned
+by the
+bridge
+so they can be minted each time the
+uh
+person
+uh move
+the funds from the ethereum to the error
+scale
+so
+actually yes
+it matters it matters and
+depends on your use cases
+so i think that that was the final
+questions there are no more questions
+from the community
+so uh on this uh note i i suggest to
+finish this ma session uh i just want to
+say the big thank uh for the sergey that
+he came and
+uh explain and tell more our community
+about the future immigration uh thank
+you so much
+i appreciate it thank you yeah have a
+have a nice
+day evening
+okay yeah

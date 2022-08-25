@@ -1,0 +1,4253 @@
+hello everyone
+and welcome to
+the first broxxos elisium hackathon so
+that takes place in this beautiful city
+of belgrade in serbia so it's a pleasant
+lovely sunny day outside but we
+preferred
+to stay inside this day because it's
+very hot
+so before we start so actually just a
+few words uh about the hackathon and
+about uh how it will be going on so
+today is uh the day when we will tell
+you about the
+everscale which is a network we are
+mostly building our products on we will
+tell you about
+our own products and what broxus is
+what we are doing and who we are
+next we will have uh two presentations
+uh
+specifically for developers explaining
+how uh their solidity forever scale
+works actually and what's the difference
+with the ethereum one for example
+and uh
+last but not least we will tell you
+about the architecture of the octus
+bridge which is our focus product uh for
+today's hackathon
+uh so uh we will make a break in between
+so uh somewhat about 3 p.m
+just for you to have
+snacks and also communicate with each
+other and
+we are also uh looking into uh
+completing all the teams for hackathon
+until 5 pm today so please if you don't
+have the team yet so
+or
+you don't understand what you want to do
+or maybe otherwise you have your own
+idea and you need some team members so
+don't hesitate to add to our discord
+server and
+communicate with others so uh those who
+are offline so we have anthony here so
+who is
+completing all the teams and so if you
+have any doubts please feel free to come
+to him and
+and
+yeah this site decides whatever
+uh so um we are opening this hackathon
+so this is a pleasant day with uh uh
+opening presentation about uh the
+everscale network um
+this is a blockchain of the fifth
+generation
+uh which was developed uh
+more than two years ago
+with um
+oppa uh it's not working
+um
+yeah so it was developed uh more than
+two years ago uh by a group of
+institutionals who decided to create a
+network a blockchain that really uh is
+able to face the difficulties that
+appear in
+nowadays especially you all remember all
+these cases with ethereum with solana so
+when uh even a few applications a few
+high load applications could stall the
+whole network so and um
+those uh initial members of the network
+so they did tremendous work uh to polish
+everything and build the most scalable
+network to date so for now so it's uh
+the fastest uh i'm not afraid of saying
+this the fastest network uh to date
+uh so
+uh we have made a really sorrow test uh
+the real-time test uh on the network
+last year so where we had 400 validators
+stressed with extreme workloads with uh
+different slashing mechanisms and and so
+on and so forth so and we managed to
+break the world record with 50k 54k 1054
+000 transactions per second sorry
+uh this is today's uh
+actually what solana is pro has promised
+but it never reached this this figure
+also everscale supports of course the
+touring complete smart contracts and we
+have compilers in solidity and c plus
+plus so most of the evm developers so uh
+can
+much easier on board to
+programming forever skill
+it has a lot of uh
+use user features a lot of
+configurations that allow network to be
+really scalable it allows creation and
+creation of uh custom work chains uh i
+will speak about this a bit later
+with custom set of configurations and
+even its own set of validators
+and uh last but not least so uh the
+transaction fees on the network is
+extremely cheap and
+it will be even cheaper in future thanks
+to a new consensus and new
+uh
+upgrade of node software that's coming
+in a few months
+yeah so you can see here so actually uh
+how everscale is built
+it has a master chain that serves as an
+index
+for
+blocks that are finalized in the work
+chains and the number of these work
+chains
+can be extremely big and also each work
+chain can also chart in almost
+infinitely so you can see the
+uh
+scale up to which it you can
+shard it's 2 to power of 60 it's
+theoretical estimation of course
+there is no such uh
+application in the world that will
+require such such workloads but
+uh even theoretically so we can uh
+reach the uh throughput of 1 million tps
+and
+thanks to everscale architecture so it
+can scale the workload linearly so
+meaning that if you add more throughput
+you just add new validators and the
+network starts working more and more
+productive
+um and also of course so uh as soon as
+network uh splits so uh it means that uh
+each heart operates independently until
+it's merged back and even if anything
+goes wrong with one specific shards the
+all the smart contracts deployed in
+other charts they can easily continue to
+work
+everscale uses the bft
+proof of stake consensus
+now so and we plan to migrate to even
+more
+uh advanced uh
+soft majority uh fault tolerant
+pos consensus soon so currently uh the
+new upgrade for node software has been
+developed in this very moment and
+hopefully we will see it within a couple
+of months
+and it will give us even more stability
+and the possibility to scale the network
+even more
+and
+actually how the network works it works
+is that you have independent validators
+so anyone can raise this validator he
+just needs to ensure that there is a
+minimum stake of something like hundred
+thousand uh
+evers which is a native currency of uh
+of the network pretty much like uh other
+is the one for ethereum
+and uh so but uh it's not obligatory to
+do it yourself because
+the fancy feature of the network is the
+usage of specific smart contracts called
+depools that allow you to collect money
+from the audience and
+you just need to provide the minimum
+stake for your validator and all the
+rest to grab from from the community
+uh and these depools later
+they are transferring your stakes to the
+central smart contract called elector so
+which then runs the auction for for
+validators
+uh currently there are over 200 of live
+validators and the number is count is
+growing uh daily so and uh
+yeah so actually with our efforts uh on
+promoting our scale also in asian
+markets especially in on the middle east
+we are seeing a lot of newcomers a lot
+of new validators uh coming into the
+network so
+hopefully so uh we will see a lot of new
+offensive projects to appear on every
+scale after this hackathon
+also what
+we have focused on doing since the very
+start of the network is to make it very
+well connected to all other existing
+networks because we clearly understand
+that uh the majority of the developers
+especially blockchain developers are
+currently uh working on evm chains
+especially and on the new generation
+chains like solana polkadot near and
+certain others
+and
+we have selected the most popular ones
+and have created bridges to them so you
+can see just a number of networks that
+are connected ethereum goes uh by
+default of course we it's not even
+specified here but it was the first
+bridge uh built to ethereum but also we
+enjoyed the british polygon phantom
+avalanche bnb milk comedy cardano tezos
+so and uh
+two more bridges are coming to solana
+and to near
+uh and uh
+we are making this uh connectivity in
+such a way that uh developers can
+continue doing the the apps on any of
+the preferred networks but as soon as
+they need the cross chain uh
+feature for the
+business processes or for the
+functionality so they can easily use uh
+octus bridge and error scale on the on
+the back end
+to
+reaches with a really really minimum uh
+cost
+uh also it is governed in a
+decentralized fashion so meaning that
+there is no single uh vector of attack
+on the network uh and uh it is quite
+difficult now to to
+to
+almost impossible to reach
+the
+70 plus something percentage of control
+over the network to
+to
+anything you want with it so it's almost
+impossible
+uh
+just a few figures uh to show you about
+the network uh so we
+uh
+come into a new record on the network of
+800 000 uh accounts live accounts that
+are working on the network and uh
+i just posted uh the previous record of
+maybe a one or so week ago so you see we
+are almost uh grown by additional 40 000
+and hopefully we will reach 800 000 by
+end of next week
+there are uh 38 million of ordinary
+transactions so i'm specifically
+indicating this because these are
+transactions created by the uh smart
+contracts and by users who are doing the
+transfers or purchasing some nfts or
+doing they think on in different games
+uh because there are a lot of also
+ordinary uh
+service transactions like tick tock
+transactions that are
+helping contracts to function and if we
+count those so it will be uh over 120
+000 20 million of transactions actually
+uh reached on the network
+uh as i said more than 200 uh validators
+uh now here and 54k tps throughput
+uh we have officially launched the
+mainnet in uh back in may 2020 so we are
+more than two years in production and
+recently we have celebrated
+the two years of everscale uh in
+indonesia so we have uh had a great
+party over there so
+i really expect the next year so and
+everyone please come so also to we have
+a lot of cool stuff going on on
+our celebrations
+and
+what i have said so the transaction cost
+for
+running anything on everscale is
+extremely small so even now so you can
+see that the ordinary transaction costs
+you less than 1000
+of dollar
+so
+speaking about the features i mostly
+covered all of them so just
+let's move further
+um
+as i said our scale has appeared as an
+answer to the existence problems of the
+blockchain and of uh the web3 in general
+so because we have seen a dramatic
+growth of interest in
+blockchain development on different
+networks but unfortunately uh
+you remember so there is something like
+uh
+post ethereum uh distress
+older distressed some disease on this
+screen shown um a lot of people have
+suffered from the high commissions and
+it was almost impossible to use the
+network and uh a lot of developers have
+started thinking about moving to some
+layer 2 solutions
+or maybe to some
+new new networks but
+the main problem that we have seen is
+that lots of
+existing
+blockchain projects
+have started pretty much typically like
+um
+any other startups also they gathered
+the money so they started aggressive
+marketing promising a lot but in the end
+uh the technology is really struggling
+to follow their promises
+and uh on everscale actually we
+preach
+a different approach and uh we first
+build and promote
+and uh this allowed us to build a fully
+functioning ecosystem of defy and nft
+it allowed us to bring the excellent
+connectivity to other networks and let
+developers to easily migrate to
+everscale
+and you can see that
+now almost any of existing applications
+can easily fit within uh error scale and
+benefit from its crocheting connections
+um now let's speak a bit about the
+ecosystem so what's going on actually so
+who who are all these people who are
+actually on their scale uh this is this
+terrible slide just to show you um
+a bit of a small piece of ecosystem
+actually the major project so they're
+quite a number but
+i would like all just to highlight the
+category so we have a lot of focus on
+gaming and nft and
+by the way it's really a strong focus on
+gamify and meta versus here
+and we expect a lot of new solutions to
+appear we have a lot of games that are
+currently being developed or integrated
+with every scale so and we expect really
+really a good uplift after the
+integration is finished of course the
+fight so
+well
+liquidity is a blood of any blockchain
+ecosystem so and of course we have
+started from defy so we have uh fully
+functional exchanges we have uh
+uh bridges we have wallets with three
+connectors and all the stuff we have
+landing protocols we have launch pads
+uh so i can continue and continue so
+quite a rich system for any need of a us
+developer
+a lot of
+tools and different services that are
+currently integrated with everscale so
+not obligatory they're doing really
+something big on chain but they also
+support the native currency and tokens
+of the network in their own solutions uh
+there are even some serbian names by the
+way you have you can see them here so
+and maybe you could see the trucks of
+papousti uh driving in the streets
+with uh our brandon
+as well so uh there was a partnership
+with those two companies last year
+a lot of media partnership of course so
+that we have started last year
+as i said we first built then we started
+the promotion and we have a strategic
+partnership with coin telegraph so you
+can also see that they are one of the
+key media that has partnered with the
+listing hackathon as well
+we have reached a lot of tier 1
+exchanges now so you can see them here
+so two recent editions are huab and
+kucoin that have listed uh ever
+uh
+it was maybe two or three weeks ago so
+now they are doing this natively and uh
+most probably they will also support uh
+some of everscale unique features as
+well
+and of course some
+coin ranking services so all the major
+services that you may think of so have
+already supported server scale
+uh a bit of focus on maybe on key
+products uh so it's a lot of text here
+so and all the presentations so they
+will be available on our discord
+afterwards so don't don't worry so that
+you cannot read it now so but
+uh just want to
+show you that a lot of uh good and uh
+well designed applications exist now on
+our scale so that you can inspire from
+most of them are open source by the way
+so when you can
+go to github of the major developers and
+inspire with a source of code and how
+you should write your applications and
+so on so forth uh and also
+a lot of things of course are coming and
+are not shown here but just join the
+communities forever scale to to learn
+more
+um i will focus now maybe a bit uh on
+the key
+uh
+blocks that uh make everscale alive now
+so and so that attracts the most of the
+community attention so um first of all
+everscale is decentralized from uh
+groups routes to to the very top meaning
+that uh its architecture is
+decentralized its governance is
+decentralized everything is neutralized
+even tokens
+and
+every dow that was launched a few months
+ago so uh
+made the decentralized governance real
+so uh for now we have uh more than 80 of
+uh proposals uh important proposals
+deciding uh what will be the future of
+the network that has passed uh some a
+number of them that has not passed so
+and uh in order to vote or never doubt
+so you actually need to lock a certain
+stake that will be equal to the number
+of your votes and that uh lets you as a
+community member even if you have a
+minor stake but you can also
+express your opinion and also affect
+the
+solution on certain proposal
+uh in future so what we are planning to
+do is um
+create a liquid staking protocol that
+will allow you
+to
+simultaneously uh stake your uh
+errors within the pools so getting some
+rewards for it so money will be working
+for for you
+and at the same time the tokens that you
+will get in return so of course they
+will have also some additional value and
+uh one of the features will be the
+opportunity to vote on everdel so and
+this will radically increase uh the
+amount staked
+in this protocol
+by the way it's already open source so
+we have published in open source just
+recently so
+didn't update the presentation
+uh next we have a lot of excellent
+connectivity tools for development
+of web applications and
+standalone applications
+you have a constellation of different
+wallets that support
+in a bit different way uh
+but all of them generally provide you
+with opportunity to easily connect to
+the network uh using uh the approach
+pretty similar to like uh
+a web3 of metamask does
+yeah you can do a lot with this thing
+you can send different payloads you can
+call contracts you can deploy anything
+so
+quite a lot of stuff can be done with
+this
+about the breach so uh
+we will talk a bit uh later so it's not
+only october's bridge that exists on the
+network so we have a lot of uh well a
+number of uh other bridges that are
+currently in an experimental stage and
+uh
+they are being developed also to target
+specific networks like tezus or cardano
+and uh those networks uh
+and teams from those networks will soon
+be able also to
+join the everscale community
+next we have uh at least
+four or five dexes existing on our scale
+so the largest one is a flat cube
+developed by bruxus but also we have the
+flex developed by everex team so it is
+the order book based uh
+decks pretty similar to serum on solana
+and uh the guys are doing the last
+polishing before the public release so
+now they are in the late beta
+uh i really hope that they will succeed
+with it
+and also a number of other indexes that
+you can benefit by joining their scale
+uh also uh we have quite a number of nft
+marketplaces
+and grand bazaar of them is the largest
+one
+and
+well quite a number of
+artists and content creators are now
+joining and also speaking about nft
+and our target uh expansion to gamify
+and metaverse so we are now
+uh have uh finally uh approved the
+upgrade of the nft standard it's called
+tip four tip four point one two and so
+so for different purposes uh and uh we
+will also expand it beyond uh just pure
+uh
+nfts that store some some pictures so
+which is of course is 99 of application
+now for nfts but we're looking a bit
+behind this and uh we will also expand
+the standard to cover the needs of
+different applications like tokenization
+different assets like insurance uh
+certificates uh like the
+decentralized name services and so on so
+forth so quite quite a number of
+applications that will be included in uh
+nft standard
+um we have launched uh
+two or three months ago the uh official
+launch pad for
+everscale it's called everstart that
+allows you to
+launch your product and also collect
+some initial funding
+for now it works in a semi-moderated uh
+way but later it will migrate to dao
+based approach and
+decisions on which projects to list are
+never down or not so will be taken
+through them so already uh five projects
+has launched on the uh ever start so
+it's it's a small number but uh it's a
+beginning humble beginning
+and uh so we expect really a lot a lot
+of newcomers to launch soon
+uh
+uh also uh everscale is not only about a
+crypto and nft so it's important to
+understand that this network can really
+withstand the workloads of the
+traditionality businesses and one of the
+applications that we are currently
+negotiating actively with different
+countries is the deployment of different
+cbdc mechanism actually on uh on our
+scale which includes not only the
+currency function but it also includes a
+lot of security controls a lot of
+permissioning and so on so forth
+and uh
+everscale is capable of fitting
+with a needs actually because you can
+imagine the amount of transactions that
+are done in the real world with the fiat
+money so just
+only visa generate something like 20
+ktps on average
+with a big one it was something like 55
+even wrong
+during some world championship
+championship
+and uh so actually visa can wholly fit
+within every scale now
+uh yeah so there are some some features
+that already exist in every scale that
+are capable of
+and useful for cbdc deployment
+um
+let's speak about the community and
+contribute main contributors to ever
+scale so actually
+we have started as a company from the
+eastern europe and of course the
+majority of the community initially was
+from there
+but
+since the
+end of 2020
+already so we have started the rep
+expansion to asian region and now we
+have a really strong community in korea
+in vietnam and malaysia in indonesia now
+we approach in japan and
+in any case uh really building a strong
+partnership with local players
+uh and
+in europe specifically we have uh
+now a really strong partners who are
+developing never scale for european
+countries so it's only a start for
+europe and uh so we intentionally
+decided to learn to run this hackathon
+here in belgrade because we
+have broadcast headquarters here and
+also we
+really enjoy uh how you guys are doing
+here in serbia and nearby region
+uh and we of course having our plans uh
+a further expansion to all around the
+world we have communities also from
+mexico from canada from the u.s but then
+still not very big so and the majority
+of communities are coming to the
+eurasia continent
+uh so
+let's speak about the main contributors
+who are making uh the key products
+forever scale so i will start humbly
+with with the process with my company
+so we are
+initially the defy developers who are
+focusing uh on creation of useful
+functionalities for uh
+proficient place professional players on
+the market and for traders
+uh
+so and uh with the launch of everscale
+so we are also focusing on building the
+basic layer of defined for structures
+that can be later used
+by anyone
+we will have a dedicated presentation
+for brooks about broxos and our
+technologies
+come in the next so i will not stop here
+the next one is everex uh who which is a
+company who initially developed all the
+node software and uh
+this is something that's uh
+really crucial because those guys made
+almost impossible and have created uh
+implemented actually all the things from
+white paper of everscale they are one of
+the main visionaries and
+developers of ever cloud
+software that now allows to any
+developer enjoy the graphql connection
+to everscale with this without any
+additional charge
+i.t gold is one of the principal
+developers of nft infrastructure and we
+have alex with us today from i.t gold so
+one of our mentors
+so
+guys are doing a lot to popularize nft
+uh in on a scale so they have launched
+not only uh grand bazaar but they also
+made the open source framework for nft
+marketplaces and uh
+for everyone to easily build
+new ones for specific use cases so you
+can see just a number of
+uh
+the most popular ones like third place
+which tokenizes the real uh art and
+chess nft in the partnership with fide
+so uh the official nft marketplace of
+international chess federation
+um
+neil foundation uh as a techie guys who
+are doing a lot of audits and
+a lot of frameworks for testing for of
+every skill uh
+i think it best says for them they they
+github so just go go to the github slash
+new foundation so you will see a lot of
+things that they are doing and
+they are really
+really deep into the technology
+uh ever gaming uh so uh used to be the
+group of people who uh have collaborated
+about the promotion of gaming and
+e-gaming esports in nevada scale so now
+they have launched their own brand
+and uh you can see quite a number of
+people that have already joined
+the
+everscale community
+and we have a number of professional uh
+esports teams one which has recently
+relocated here
+so they they're really cool guys
+and they have a lot of things to come so
+a really big roadmap so just uh feel
+free to follow them
+uh pokertown so is one of uh
+the largest uh poker
+clubs on telegram so counting thousands
+of players and
+always live so they were one of the
+initial
+projects that supported our scale and uh
+integrated
+it
+behind the curtain and so now you can
+easily play forever so in poketown and
+uh they're playing also to expand with a
+number of different games
+uh and uh recently we have moved towards
+uh launching of everscale foundation
+which is uh the
+institution that will officially
+represent our skill behind
+uh the major uh
+behind governments and represent on
+different uh
+conferences so and uh all of the
+promotion stuff will go under they
+control so um
+there are six initial members of
+everscale foundation all from this
+industry with the vast experience and
+network so uh who will bring a lot of
+value and you can see also that we have
+selected people uh from different
+regions to better represent our scale in
+them so we have people from europe from
+north america from latim from asia uh
+from from middle east uh
+so those guys uh i actively uh
+promote another scale now
+within big uh funds and big investors uh
+explaining directly the benefits of
+error scale to
+to countries to governments and so on so
+forth so and
+definitely you will see them
+uh
+much more later
+uh
+a few words about the roadmaps of what
+actually everscale uh we'll be doing the
+in the nearest future so we are right
+now here so you see that uh
+here are some major points that we have
+done but quite a lot is to be done yet
+so uh
+uh including the update of our uh
+consensus protocol about the update of
+uh
+creation the possibility and the builder
+for dows on everscale so actually
+you already can now
+benefit from the dow deployed by
+roxas team so
+you can take the sources and deploy your
+own one but we want to make it much
+easier for projects to
+benefit
+also we
+are planning to
+i'm sorry
+to expand more on gamified metaverse
+projects
+on the decentralized fund protocols on
+nft bridges and quite a lot
+so uh
+it's important to understand that uh on
+a scale so you don't have a single team
+that's developing everything
+you have a lot of passionate uh
+communities a lot of patient developers
+who are focusing on developing their own
+business and are doing this in ever
+skill way decentralized
+uh with strong focus on community uh
+drilling approach
+open sourcing uh most critical parts and
+all this in everything so this is
+something that really differs the
+everscale community from most of the
+other blockchain projects
+just to highlight maybe a few things
+that
+are going to come
+in the nearest future so first of all is
+the smft consensus
+that
+will allow us to
+bring even higher stability and
+scalability of the network and reach the
+sub second finality of all blocks
+uh it will also help us to reduce
+the gas fees at least by an order
+of magnitude
+uh
+closer to the end of the year we will
+switch to the dynamic guess
+and so it will also mean that
+the uh
+dynamic gas rebalancing but even with
+this approach so it will be much much
+better than on ethereum
+uh higher protocol
+highest throughputs uh of course goes
+without saying so we even don't cover
+now so the existing throughput are never
+scaled so and maybe you guys will help
+us doing this uh ram protocol actually
+has uh landed already and uh so now it
+allows you to
+uh
+enjoy the guaranteed delivery of
+messages within the network so uh
+i'll take you guys uh we'll talk about
+how
+the network is functioning uh
+once the low level so later
+and a lot of other things actually
+also what we are focusing on this year
+is uh adding first of all the evm work
+chain so it will allow uh existing
+projects that are currently working on
+other chains
+to
+easily hop on the error scale and
+benefit from the connectivity it it
+offers of course it will not be as
+productive as a native ever scale but at
+least it will be a transition place that
+will allow you to
+without any
+specific upgrades of your software
+easily deploy the existing contracts on
+our scale directly and also the drive
+chains which will offer you a very very
+cheap uh storage and uh
+it will help us to go further towards
+the web free
+approach that we are preaching so
+actually uh the big idea behind
+everscale is web free which is uh
+make
+the everscale actually a new internet so
+allow you to deploy websites uh in a
+decentralized way uh to access any
+applications from any part of the world
+so and all of this done uh securely and
+and with a good speed
+and drive chain is one of the uh core
+pieces that you need to do this with the
+chip store so it will be kind of uh ipfs
+but this is a truly on on-chain stuff
+um in terms of nft and gamify and
+metaversion we are
+focusing now to
+build the sdks that will facilitate a
+lot the
+life of developers and help them uh
+create new applications without hassle
+of integration with the blockchain
+thinking about the specificity of calls
+and all of this
+and uh this will allow to create to
+create a lot of new applications and get
+a new partnerships
+uh as for the for the defy so actually
+we have uh finished the creation of the
+basic layer of the defined
+infrastructure for now
+and uh now we are moving to more
+advanced uh protocols so uh like
+derivative protocols like improved
+landing borrowing protocols
+and all the stuff that you can see now
+in the presentation i
+i just want to specifically highlight
+this one uh where is my pointer
+come on here it is so which is a ssi
+that is currently being developed by a
+team of named identics
+so maybe they will also join the
+hackathon
+and those guys are doing
+the things that will
+affect the lives of each of us
+so and actually this is something that
+has started already in europe uh when uh
+all the data controlled by you and you
+can easily uh control the level of
+information that you give to anyone for
+example if you need to come to the
+website uh that sells i don't know
+alcohol so and the website requires you
+to prove that you are adults so it just
+needs the binary answer so yes or no and
+this protocol actually having the
+connection to the verified credentials
+provider so actually get this answer
+directly without disclosing any other
+information so no more cookies no more
+tracking nothing so
+finally so you can benefit from
+the the real privacy
+and also for to
+boost all this development so uh
+the real novelty that was announced on
+the celebration of everscales in may is
+the creation of error fund so the
+investment structures that will be uh
+choosing uh
+projects that uh go into ever skill and
+bringing the value to every skill and uh
+directly investing into those projects
+and helping them developed with a
+networking with a pr resource and a lot
+of stuff so if you have good ideas and
+you have a lot of uh
+things that you can bring to every scale
+so this is definitely the place for you
+to go
+um so that's pretty easy time i hope
+that you didn't sleep i didn't fall
+asleep this morning so uh and this is of
+course the peak of iceberg and uh i can
+talk about our scale for hours and uh
+but this presentation was to give you
+the uh
+oversight what's going on and whatever
+skill is about
+uh so now we have some time for other
+for questions so please uh feel free to
+raise your hands and and task anything
+about everscale so if i can i can answer
+okay
+so one second
+for people to hear you
+so
+someone from our discord community with
+the nickname uh
+grind and find okay ask the question any
+plans for the decentralized messengers
+on a protocol
+yeah actually so we have uh now at least
+one team that is uh building the
+decentralized messaging protocol so now
+recently they have
+presented the mvp of the uh
+kind of emails on built on never scale
+so and
+the proof of concept
+went very well
+uh but the ambition is to create the
+universal protocol uh
+that covers all kinds of messaging
+including the instant messaging
+including the audio and video streams
+and all that kind of stuff
+they should have been speaking here to
+today with us but unfortunately
+the main speaker felt sick so i i hope
+he will recover soon uh so but maybe for
+next uh hackathon or maybe for an m
+session so he will come to tell more
+about this
+okay
+okay guys uh so if you uh are shy to ask
+questions directly now so you can always
+come to me and ask privately so i'm here
+all the day
+uh so and now i'm i give the floor to
+the next speaker so to brian who is our
+uh community manager
+uh
+so
+okay so he needs five or more minutes
+okay so um in this case so let's make a
+short coffee break now uh just for five
+minutes for brian to prepare and so we
+will move on
+thank you
+[Applause]
+um
+hello guys so we continue uh please get
+back to your seats and
+we have our next speaker uh ready
+so please meet gr brian so he is a
+master of the world for broxus and also
+he is our community manager so he will
+tell you about uh what actually broxus
+is and about its products what we are
+doing so and how
+all this stuff works
+yeah uh first off thank you vlad
+o captain our captain uh he's our
+fearless leader and uh we've done a lot
+over the past i've been working at boxes
+for about a year and a half
+and we've been able to achieve a lot and
+it wouldn't have been possible without
+vlad and a lot of the other team members
+that we have here so
+it's great seeing familiar faces and
+it's also great seeing some new faces as
+well
+um just in lieu of an introduction i
+want to
+talk a bit about
+this event uh this is an important day
+an important weekend for all of us um
+our first hackathon um as the bronx's
+team and our first real conference type
+event uh and so we chose elysium uh when
+we were talking about
+um how we wanted to theme this uh this
+hackathon we thought it would be great
+to
+uh involve some kind of roman theme
+considering that uh serbia is kind of a
+cradle of a lot of uh roman empire
+emperors
+um and there's a uh the the aeneid um
+which is a book about the founding of
+rome
+uh
+in that in the enid uh aeneas the hero
+of the journey he has to go to the
+underworld to talk to his father before
+he's allowed to actually get to italy uh
+as and as part of that journey
+he goes to the underworld and his father
+shows him
+all the future heroes of rome
+um
+so the idea kind of
+philosophically about this hackathon is
+that we are looking to find and identify
+the future heroes of broxas and the
+future heroes of the everscale network
+um because we all believe in in where
+we're going we're proud of what we've
+done
+and uh we're excited to bring more
+people into the fold more people who
+believe in web3 more people who believe
+in defy
+and have and defy as a means of um
+ameliorating a lot of the problems in
+the world a lot of the financial
+problems in the world the imbalances and
+what have you
+um so without further ado let's get
+started talking about uh
+the biggest platforms that we have our
+constellation of d5 platforms that
+have really made a big impact in the
+everscale ecosystem but also in d5 as a
+whole
+uh i feel like and i feel like a lot of
+us feel that uh these platforms are are
+benchmark platforms
+um and one of the key things i mean in
+in my uh personal experience i've
+followed a bit of an errant star in my
+uh career i've worked for a number of
+different blockchain and cryptocurrency
+projects and something that always
+frustrated me was that
+a lot of projects go after
+they'll identify
+an audience first they'll identify a a
+way of making money first without
+putting the work in to build that
+foundation uh that foundation of solid
+technology
+and so what really attracted me to
+proxis uh and something is that i share
+with with the team and that i'm proud of
+is that it's always been here it's
+always been technology first you build
+something that really works first and
+then you move on and you tell people
+about it and people are ready to believe
+in you because you believe in what
+you're building and what you've built
+so to get started
+a little bit about the broxas team
+we call it a cutting edge blockchain
+solution laboratory um it's about three
+years old
+uh we started around the same time as
+everscale was launched
+uh and the idea at the beginning was to
+bring in the most talented people in d5
+um
+an emphasis on developers coders people
+who can build that vision that we had
+and could translate that potential that
+was in d5 that so often gets missed by
+other developers into something that was
+practical and into something that
+everybody could use because that's what
+d5 was supposed to be about
+uh we're going to talk i think there's
+uh we've shown some slides here about
+and vlad mentioned it uh p-e-t-s-d so
+post-ethereum transaction stress
+disorder um basically it's a it's a joke
+but uh
+it isn't
+tenable to have very very high fees very
+slow uh transaction times what we're
+trying to do is make finance available
+to everybody so
+if finance if defy is only going to be
+available available to very wealthy
+people it's just not going to work
+the way that this is possible is because
+it's built on the everscale network
+which vlad just talked at length about
+um so given that everscale is the flash
+is the fastest blockchain
+around
+and can scale toward uh to fit any
+project
+um that makes it that gave us the
+technological foundation to do what we
+wanted to do with um with these
+different with our our dex platform with
+our bridge platform with our wallet and
+with all the other platforms that we
+build wouldn't have been possible
+without that underlying solidity that
+underlying basis
+so a bit about our philosophy i just
+kind of mentioned this but um
+we're committed to to transparency
+decentralization
+and
+creating solutions that are efficient
+that are easy to understand that are
+sustainable and that anybody can use
+um and in the end where we're going is
+uh we we said the first slide says web 3
+is not not as far away as you think um
+yeah that's that's what we're aiming at
+web 3 complete web 3
+and not just for
+technically savvy people but for
+everybody because it's something that
+the that the world definitely needs
+right now if we think back to when uh
+bitcoin itself was founded it was
+founded on the heels of the 2008 um
+recession um
+and so i feel like i think a lot of
+people feel that uh there are a lot of
+companies in the space that have kind of
+lost their focus on that original
+promise um that was here in this space
+and one of the great things about brox's
+at least from my perspective is that
+we've never lost that focus
+and so i found that inspiring
+so our big platforms this is the
+constellation of uh of
+our
+flagship platforms first is access
+bridge
+vlad talked a bit about access bridge
+it's a unique platform uh
+people who use it
+they're all uh i mean we've we've grown
+a solid user base based on how efficient
+how easy it is to use and the problems
+that that it solves so vlad talked about
+um
+the the problems with defy the the uh
+trilemma right so what's the trilemma
+trilemma is that a d5 platform can't be
+all three things that it needs to be
+right it has to be scalable it has to be
+secure
+and what was the what's the third thing
+decentralized right yeah so scalable
+decentralized and secure most platforms
+can accomplish two of those things but
+uh
+up until now essentially there hasn't
+been a platform that's been able to
+solve all three you can be scalable
+and secure but you can't be
+decentralized or you can be one uh two
+of the others and not one of the the
+remaining one
+so to start with octus bridge
+basically what it does as vlad explained
+it does uh crosstalk cross chain
+transfers for people and applications
+yeah oh so yeah so
+the bridge token price is just dollars
+total value uh value locked in is 75.12
+million um sorry about that octus is a
+cross-train solution that allows you to
+work not only on the token level but
+also with arbitrary data and smart
+contract callouts um basically what that
+means is that the everyday user can use
+it right but then also and it's an ideal
+solution just like uh the everest
+everscale network is scalable to any
+kind of project you're running this too
+is scalable to uh in the sense that it
+it fits the needs of the individual user
+but also these bigger projects and the
+way that that works is because it is
+truly decentralized
+it's organized and governed by a dow
+it's rocket fast
+it's
+as vlad was explaining we've had uh
+we've done tests where where we've
+proved that everscale is the fastest
+network in the industry it's almost free
+transactions i believe are
+uh 0.0 um
+i think it's it's less than a penny so a
+fifth of a penny uh
+multi-network um so the big the big
+feature here is that it is connected to
+some of the uh
+the biggest networks in um in
+cryptocurrency and in d5
+and then it's scalable obviously
+which allows us to not only um
+have all the network networks we have
+now but we're also working on bringing
+in more
+um so we're still pretty much at the
+early stages in this in this project we
+already have a big user base
+you can uh check out the numbers here
+um 27 relayers so the relayers are those
+who verify the transactions
+they're all spread out in different
+locations around the world and we also
+have security protocols in place
+if they
+were to
+do something that
+was against
+the broxas or everscale philosophy
+they could be slashed the rewards taken
+away and etc
+so ultimate network interop
+interoperability for your blockchain
+ecosystem
+a lot of a lot of these projects uh
+that
+come out right away uh let's say you're
+you're on a smaller blockchain like um
+like near uh relatively smaller
+blockchain like near um and you're just
+launching out as a project near is a is
+a chain that we're going to be adding
+soon um it can be very difficult to get
+the liquidity you need uh for in order
+for your your
+your startup or your your project to
+take off uh and reach other users and
+function in the way it was designed
+with the octus bridge it opens up a very
+easy way to transfer liquidity at a very
+low price and very quickly so that
+solves that problem
+expansion
+in a similar note
+this is a gateway to all these other
+blockchains
+payments you can accept payments from
+one blockchain to another
+and in a convenient way
+i mean if you want to do this without a
+platform like this you're going to have
+to go through five or six gateways that
+you have to pay here here here you
+paying along the way super inconvenient
+and not practical
+um invisible
+upper ability uh so
+we have another slide that's coming up
+so i'll talk a bit more about it then
+but basically it's the idea that we just
+have one innervate interface the
+octus bridge interface um or you can
+take the api and put it into your own
+platform
+and have your own single interface but
+it takes care of everything behind the
+scenes
+and you can just transfer whatever coin
+you want to add
+and then
+a swap pair will be added to to octus
+bridge and um everything is taken care
+of so it makes it much easier
+both for the user and for the bigger
+platform
+uh and be part of the story this is a
+call out to you guys uh as people who
+are going to be working on different
+platforms on um
+on everscale with broxas
+this is the chance we're on the verge of
+of going
+very far in this industry uh and so now
+is now is the time to to make your mark
+here um to contribute to
+decentralization to contribute to web
+three
+uh and to contribute to a team that uh
+has very very high sites
+so architecture and security um
+obviously this is part of the the web 3
+dilemma and so this is something that we
+we've taken seriously since day one
+the
+architecture is comprised of all the
+best uh solutions that are currently out
+on the market
+we've looked through everything and we
+we pull together uh the best practices
+um those include audited urine vault
+contracts
+that are used to manage liquidity
+and then
+we have
+checked
+the contracts with the nil foundation
+team which vlad talked about as well
+to make sure that they are reliable they
+won't fail um security we brought people
+in uh to audit um all of our platforms
+uh the octus bridge has been through a
+number of audits and uh we've also
+looked around the industry to um i'm
+sure all of you are aware that
+there are a lot of problems that happen
+in d5 platform fails people lose money
+everything like that so
+one of the key things key parts of our
+research was studying these platforms
+how they failed where the vulnerability
+was and putting in preemptive measures
+so it wouldn't happen with us
+safety our storage contracts have built
+in tools in order to prevent withdrawals
+that will deviate from the average
+plus we have guardians in place so
+guardians are people who are monitoring
+the transactions that happen on the
+bridge
+and so if they'll see something unusual
+they'll flag it and they'll
+check it out to make sure everything is
+okay
+invisible bridge technology so i touched
+on this before but essentially
+the underlying mechanism will allow any
+project to send liquidity from any
+connected blockchain to the bridge
+so these tokens can be transferred to
+the bridge and automatically added along
+with additional swapping pairs
+we've just added another update to the
+bridge that has brought in
+all the biggest token lists from
+the most popular
+dexes
+uh and blockchains and uh allowed bridge
+users to transfer them among all the
+different connected uh bridges so it's a
+very cool feature if you guys haven't
+checked it out i recommend you you do so
+relayers we talked about this before so
+i'm not going to dwell on this but
+they're spread out around the world
+these
+this is part of that that
+decentralization thing which is very
+important to us so not only do we have
+relayers that are separated um
+in different geographical locations and
+disconnected from each other
+but we also have a backup system that
+checks to make sure that these
+relayers are not acting in bad faith and
+if they are acting in bad faith uh
+they'll be slashed and there will be
+repercussions for it um eventually we're
+gonna have uh we're gonna have more than
+100 relayers right but
+uh there will only be 100 relayers that
+will be able to verify these
+transactions at a time
+which actually improves the security
+because it randomizes it a bit
+and doesn't give power more power to
+a specific relay or a specific
+individual
+there you can see the uh the currently
+connected blockchains obviously uh
+everscale is one of them as well so
+we have seven right now and then we're
+we are in the process of adding solana
+and near um two other very very large
+uh blockchains um and you look at all
+the different projects there solana near
+solana especially is one of the bigger
+nft
+so
+this is going to open up a lot of doors
+a lot of different possibilities for
+for everscale
+and for broxas because
+that will bring in
+um it's diffic it can be difficult uh to
+do to create nfts launch nfts uh launch
+gamify projects on platforms that are
+not equipped to handle the huge load
+that that kind of thing brings in like a
+game
+is uh that carries a huge load with it
+everscale is is the network that can
+actually handle these things and so once
+we've opened these gateways to these
+other networks it'll it'll uh
+inspire an influx of new users to to
+ever scale
+so the tokenomics here
+distribution we've got 65 percent uh of
+the bridge token
+in farming for four years
+twelve percent it goes the roxas team
+eleven percent is under the everscale d5
+alliance
+and there's a twelve percent uh pre-sale
+um the bridge token itself that is
+uh what enables the dow to work so
+with the bridge token you stake a
+certain amount of it you can become a
+relayer you stake a different amount
+that's the maximum but if you stick a
+different amount you'll be able to
+participate in
+in voting on different proposals on the
+the bridge platform um and so that's
+important too uh we want um this
+platform to
+reflect what the industry actually needs
+and so the only way to really do that is
+to make it actually decentralized and
+give people everyday people the chance
+to
+influence how this
+platform's going to work what what needs
+it's going to meet for users and
+where they want it to go in the future
+uh like for example what network they'd
+like to see next added
+rewards
+the changing of farming speeds all that
+kind of stuff
+so here's a qr code
+to take you to the actus bridge if
+you're interested
+give it a scan
+this is also going to be up on the
+discord as vlad mentioned so you'll have
+a chance to check it out there
+a road map
+quarter three of this year where uh
+we're going to be adding solana
+quarter four near
+um
+the first quarter next year we're doing
+the b2 uh b2b referral system then an
+nft bridge
+b2c referral system and then cross chain
+oracles similar to what
+chain link does
+but this is all going to
+make the platform much more formidable
+but also bring in a lot of new people
+not a lot of new users
+all right so next is flat cube our decks
+flat cube uh it's the biggest the
+premiere decks on the everscale
+blockchain
+we've got over uh
+over 80 80
+different tokens that you can exchange
+there
+and it was built by taking all the all
+the best features of these bigger um
+dexes like uniswap
+uh and bringing them into um into
+everscale where they can really flourish
+um along with
+the same thing goes for for flat cube uh
+that goes for
+uh the octus bridge in terms of how fast
+it is
+um how easy it is to use
+um and then also we have a ton of
+farming and staking opportunities with
+really high aprs
+that have helped us build up a really
+solid user base of people who are
+passionate about using it and who
+believe in it uh in the long term
+so the basic function is asset swap
+cross pair swaps and multi-sig support
+um in figures like i said over 80 we had
+24 hour hour volume is two and a half
+million transaction speed less than two
+seconds so i challenge you guys to find
+uh find a dex that has a faster one and
+then transaction cost is all right so
+it's uh
+three cents i believe
+swapping is very easy
+i'm sure some of you have used it before
+but all you have to do is connect your
+wallet select a token select an amount
+and then just make a swap
+the thing that you need on our end to
+use it is the everwallet and that's
+going to be the next thing i cover but
+one of the key parts of the flat cube
+decks is the wrapped ever token so
+wrapped ever allows
+us to interact with tokens from other
+networks on on this dex decks
+and it's
+made with a
+tip 3.1 token standard
+and it's it can be exchanged one for one
+with uh with ever it's a very easy
+process of exchanging it and once you do
+that you'll open up all the
+possibilities that the dex has to offer
+the problems that we see the problems
+that we see this is this is referring to
+other dexes on the market right so
+current market problems um
+a lot of miners and mining pools can
+obtain obtain previews of transactions
+while confirming and validating them on
+decentralized exchanges that kind of
+violates the whole idea of
+decentralization
+we don't need the miners and
+mining pools shouldn't have uh
+a strong grip on power they shouldn't
+have that much of a grip on power
+true decentralization
+it's very hard to come by in d5
+a bit of an oxymoron but uh
+everyone's still striving for that that
+true decentralization uh but the way
+that a lot of these platforms are set up
+they're not actually decentralized
+and then of course transaction speed and
+fees
+so there nobody's got us beat
+this is just an example this is uh
+this is what gives people p e t s d
+so you look at the low
+gas fee it's over 200
+average 222 high 222. that's not i mean
+if
+the way that d5 is talked about
+it's a replacement for this out-of-date
+banking system that's not a replacement
+for any kind of banking system that's
+something that's not sustainable
+on everscale it's
+200 less so
+that's something that people can
+actually work with
+so our solution flat cube
+total value uh locked into the platform
+of assets is over 3 33 million
+token payers 83 farming pools 15 plus
+volume over the past 24 hours is uh
+close to 3 million
+and then the highest apr we got is uh
+uh most recently 113 percent um which is
+huge uh
+so
+we've got over uh true 200 validators um
+and these are our different uh
+our different partnerships and where
+we've been covered in the media
+and
+these are our different uh communities
+our social media pages that you guys can
+can check out for more information but
+that's where you'll find all the latest
+updates from from us
+privacy and reliability
+so there's no registration no kyc you
+don't have to jump through hoops like
+you would with a lot of other exchanges
+no front runs
+the way that everscale was designed it
+makes front runs impossible so uh
+collusion between miners that kind of
+thing um
+that that's not a possibility
+which is a great thing
+uh no cookies so
+we're very much
+on the side of uh
+the privacy of the individual
+so you don't have to worry about us
+tracking your data or selling it to
+someone else it's all safe there tested
+and trusted it's open source so
+if you don't believe it head to our git
+book and our github and
+check out check out the code and
+everything for yourself
+we have faith in it and that's why we
+make it open source and not a lot of
+people do so
+in terms of the auditing we've been
+audited a number of times um and that's
+uh something that still goes on because
+it you know you don't just get audited
+once you don't get um
+checked once as the platform evolves as
+as we get more people we have to be to
+know that we can handle um the bigger
+workload and so that's a constant
+process
+but that's something that we do
+regularly knowledgehub
+so for our newcomers
+as i said before we're trying to make
+this as easy for people as possible so
+that the the average person who doesn't
+know much at all about um cryptocurrency
+or defy they can just go and kind of
+intuitively understand how to use the
+the platform
+in addition to that we've written a
+number of different materials um guides
+we've made videos uh all explaining how
+this works and all trying to smooth
+smooth out the process of people
+onboarding onto the platform and
+realizing how they can use it to their
+benefit
+so this is a breakdown of the dex yield
+farming
+total figures total
+value locked in is over 33 million we've
+got over 15
+farming pools uh the apr rates are
+they're a bit out of date here um but
+they're still very high
+uh and this was um i think taken a
+couple maybe a month ago or so so some
+of the statistics here are are out of
+date a little bit but this does give a
+good uh representation of the
+opportunities that are there uh the the
+farming opportunities are very very
+healthy the pools are very healthy we
+have a lot of people participating in it
+um and then they get rewards
+in uh through our vesting system
+so
+for those looking i feel like people are
+always looking for
+the new the most advantageous place to
+to participate in yield farming because
+rates change all the time this flat cube
+is still among the best in the industry
+in terms of what the way you're going to
+get rewarded monetarily but also the
+safety that comes with it
+so flat cube decks token and farming
+program builders um
+what what this means what this refers to
+is that uh
+users can create their own tokens
+and organize swaps with other assets
+and then also create their own farming
+pools
+so this is a very cool decentralized
+idea puts power in the people's hands
+they
+this kind of opens the door for
+community
+induced growth um and for
+uh the platform to better reflect the
+wishes of the community if there's a a
+coin that someone wants to add there um
+it's all possible uh and that's thanks
+to the dow and thanks to the way this
+was set up
+so we also have a dex api
+which will allow other platforms to
+integrate our decks into their um into
+their platform
+it's super easy
+here we've got if you follow the qr code
+it'll take you to dexata.io which is a
+collaboration with cardano where they're
+using um
+our flatcubedex
+api to build a cross
+cross-chain bridge between um cardano
+and uh
+and flat q and the everscale network
+the cube token so the cube token is what
+uh facilitates the uh the dow that
+governs the flat cube platform
+there are special rewards when you stake
+cube to boost your regular farming
+returns
+um
+using cube allows you to get the the
+most out of yield farming using cube
+also
+because it is the way that you
+participate in the dow
+that allows you to influence
+how the the platform is going to change
+if you want to see a change or if
+someone else brings a proposal that you
+agree with you stake your cube you vote
+on it and then the platform can change
+if it gets enough uh get enough votes
+um
+then you can also stake your cube to to
+get rewards uh you're rewarded for
+boosting the liquidity of the platform
+uh so and up here you can see the uh the
+initial
+distribution of the cube token and then
+the dow monthly emissions um this stuff
+you can check out uh on your own i don't
+want to bore you too much with it uh but
+we have a healthy amount distributed to
+farming and another healthy amount
+distributed to liquidity um and those
+are very important for the the long term
+the longevity of the platform uh in
+order to keep these farming pools as
+healthy as possible
+cube token price chart so this was taken
+i think
+about a month ago as well
+the price is down as prices are down
+across the whole industry but
+you can this gives a good idea of um
+of the growth that it experienced uh
+while while not being uh listed on uh
+major exchanges this is like all organic
+growth um there's a definitive utility
+in the token um and a utility that
+people have recognized and are trying to
+capitalize on um so this is just the
+beginning these listings are going to
+come soon um we're still moving forward
+at a very fast pace so
+there's going to be more to be said on
+this front
+here's a qr code to check out flat cube
+if you are of the mind to do so now um
+if not definitely check it out later
+and a road map so uh quarter three of
+this year um we're going to introduce
+cube staking the dow is going to be
+fully developed fully launched uh
+for the next quarter we'll have gouges
+listing for v cube
+uh the next the first quarter of the
+next year boosted farming custom white
+lists uh then limit orders cube buyback
+and burn cross-chain swaps and marginal
+trading so these are some really big
+things that are going to change the
+platform add a lot of new possibilities
+there so
+we have a lot to look forward to
+now everwallet uh this is the skeleton
+key to the everscale ecosystem
+by that
+it means that it opens all the doors all
+the different platforms uh that operate
+on everscale uh the everwall is your
+essentially your passport to use these
+things um
+and to take full advantage of everything
+that we have going on here
+so it's the premier wallet for the
+everscale blockchain it's not the only
+wallet but it's the one that
+accomplishes the most um
+you can uh
+do fast transactions with minimal fees
+and access to all the the apps in the uh
+in the everscale ecosystem just in one
+application um it works on uh
+mobile desktop etc uh i think uh
+everyone that uses it finds it very
+comfortable and very versatile
+and we've we've had more than uh 35 000
+installs and that's organic installs so
+um this thing uh it's not being pushed
+as this new platform this is people have
+recognized the need for it
+by using other
+dapps on the on the everscale network uh
+and
+this is yeah so that's a that's a very
+uh significant number and something that
+um i think is indicative of a positive
+trend that's going to continue
+as this as our
+products continue to grow broxx's
+products continue to grow but also the
+everscale network continues to branch
+out
+and penetrate into different markets in
+the world so
+fast and easy access to your assets
+it's available on all your devices you
+get multi-sig wallets
+rocket fast it works with ledger has hd
+wallet technology secure and par and
+private
+a huge part of the ecosystem
+um external dap compatible
+we're going to bring out nft support
+with it soon that's something vlad was
+talking about uh where we are working on
+uh on developing our nft offerings and
+um
+obviously the the everwall is going to
+be key to allowing that to happen and
+then also uh another big thing we're
+working on is allowing uh bank card
+credit card uh purchases forever to make
+it that much easier to to buy it
+in just in your in your wallet
+for developers uh we've got a in-page
+provider
+so this is a web3-like interface forever
+scale provided by the ever wallet
+browser extension
+and with this you'll be able to do a
+number of different things including
+packing and unpacking cells decoding
+transactions events messages local
+execution of messages sending internal
+and external messages and then
+subscriptions to contacts state contract
+states and transactions and and there's
+a lot more so if you are a
+developer this is something and you're
+when you you're looking for
+to try and integrate this to your
+platform this is something you should
+definitely check out
+now and last but not least uh our team
+um we got the founder sergey
+uh vlad our captain uh and then the rest
+of these guys stars i believe sergey is
+going to be
+giving a speech later and
+a few i think there might be another
+another person giving a speech
+but anyway
+these people the whole team is spread
+out all over uh all over the world i'm
+from america
+we've all been brought together by
+sharing sharing a common vision
+obviously having experience having
+know-how
+everybody i feel confident in saying
+that everybody i work with is not only
+passionate about what they do but
+they're they're competent they know
+exactly what needs to be done and how to
+do it and if there are questions we've
+got leaders that help us through the
+process so uh it's been a pleasure for
+me to work here for over a year and i
+hope that that
+our great relationship continues moving
+forward
+thank you uh this is a qr code to our
+discord server where
+we have our most uh you'll you get all
+the news there but also we have a pretty
+active community that's that chats they
+make memes that are pretty funny um so
+definitely check it out if you get a
+chance but thank you guys
+[Applause]
+hello
+thank you brian so excellent speech uh
+actually guys so i i really encourage
+you to add to all this code server
+because uh all the main communication
+about the hackathon will be going on
+there
+and uh also please do not hesitate to
+contact any of the personnel here just
+to add you to the group of hackathon
+to meet with your mentor so to discuss
+with
+other participants to form your teams
+and all that kind of stuff
+uh so we just a kind reminder so we are
+planning to
+finish forming teams by uh 5 p.m bill
+great time today uh so please add at
+least a couple of hours before so right
+now
+uh yeah so uh i was thought there are
+some questions uh actually um
+yeah on this course so uh brian can you
+maybe read them out yeah yeah can you
+show me
+so outside of the well uh known wallet
+decks and bridge platform that you guys
+have created what other projects um does
+everscale i think he means boxes what
+other projects does broxus work on
+yeah actually i slightly touched this
+before so uh besides broxah there are
+quite a number of other contributors who
+are doing uh
+the stuff
+so uh not to name everex who is doing
+the
+all the basic layer of infrastructure
+like node software and
+different libraries for developers they
+also develop in the flex they would
+order book based recently uh you may
+have seen that docker uh has announced a
+partnership with overscale in terms of
+gauche which is a decentralized git uh
+actually built on the replica of
+everscale network
+we have
+some games going on here some like the
+race like pile blocks like pokertown
+street bosses
+and a lot of others so there are quite a
+lot of casual games going on now
+uh we have a number of ft marketplaces
+so developed by it gold team and
+a number of others so well just id gold
+uh as the biggest so but there are quite
+a lot of more niche
+marketplaces
+um
+quite quite a number of stuff is going
+on actually so there
+and then uh there's been a lot of talk
+about how well suited everscale is for
+gamify and metaverse projects why is
+that the case what makes everscale the
+ideal blockchain for those kinds of
+projects um actually uh the answer is
+just if you have a look at the recent uh
+incidents that networks experienced with
+launching such a gamified project like
+steppen uh or before cryptokitties if
+you remember it so what went uh
+not really well for ethereum uh so
+actually every scale thanks to infinite
+sharding so it's capable uh to scale uh
+momentarily to withstand the workload
+that it's required
+and currently so uh
+no game has generated the workload
+that's never scale is not capable to to
+do with
+yeah i would just add uh i mean people
+talk about uh or have talked about
+solana as the ethereum killer or as the
+solution to ethereum um because it was
+going to be able to handle more uh
+transactions a higher load but then uh
+people started migrating to solana and
+solana's down all the time now so uh it
+doesn't really work out um that way uh
+that i don't think they're capable of
+taking on not just them but a lot of
+these networks are not capable of taking
+on that kind of load because they're not
+built the same way but
+um
+can you list three killer features of
+your project that make it ahead of
+competitors what are the competitive
+advantage that you feel most confident
+about
+um
+i would say maybe it's it's not
+something sericular features so actually
+this is the whole philosophy that we
+preach and so we first really uh well
+study what people need so we uh take
+careful uh
+customer research and look what other
+others are doing so what challenges
+they're facing
+uh after that we think
+so uh think of how we can uh overcome
+those limitations that are causing the
+problems now and
+also we think about the problems that
+may arise in future so uh just to give
+you an example so as a recent you may
+have seen so i also highlighted in my
+twitter thread
+um that uh a number of hacks of d5
+platforms has drastically increased over
+over the last uh few months so and the
+first uh obvious target for them are
+bridges because uh bridges contain a lot
+of liquidity on the walls
+and uh they are
+such
+really rich targets for hackers
+but
+in the architectures that we are
+developing security is on the first
+place actually so when we try to think
+of any possible scenario how the hacker
+can
+try to break in into the bridge and how
+we will make the funds secure
+so and that's pretty pretty much
+the approach as we preach across all of
+our development the first try to think a
+few steps ahead
+before we're doing something so we make
+the reliable systems and uh they may not
+be the fastest in development like us
+because a lot of projects are doing
+faster
+that's true but
+then they suffer so and
+we are developing on a bit slower pace
+but we're trying to build solutions that
+uh are really really uh expensive to
+hack so
+no reason to do this
+do you have any plans to migrate uh to
+other chains
+um
+probably the question is about adding
+new chains yeah i think uh
+yeah so we have actually plans and uh
+the commercial strategy for the octus
+bridge for example is adding the most
+valuable chains uh to connect between
+each other so there is absolutely no
+reason for us to
+roll up to i don't know some minor chain
+where there are no developers no
+development activity and those ones were
+selected uh actually because they had a
+lot of developer activity going on a lot
+of liquidity a lot of interesting
+projects that uh
+sooner or later phase limitation of the
+homegrown network and then they need to
+scale to other audiences so and so forth
+and as i showed uh on the slides uh
+devoted to uh connectivity and to cross
+chain actually i strongly believe that
+the cross chain is the future because uh
+of course there is always a preference
+for developers so some someone likes
+rust someone likes solidity someone
+likes ethereum another one like sneer
+but in general so if they find the uh
+fit between the
+the the proposals that they are doing
+and the customer needs uh sooner or
+later they will need to grow and they
+will be standing actually and um
+the architecture of october's bridge
+allows to deploy the bridge in a new uh
+evm network within a day
+but there's absolutely no reason for us
+to do this until we fully cover all
+those networks that's already in place
+no more no more uh
+when will we integrate oh uh when will
+you integrate nft um nfts to your ever
+wallet
+uh it's currently in progress so um
+within a couple of months i think
+so uh actually this is something
+what
+metamask did so when a lot of our
+customers were asking us to add a
+display of nfts but the main
+reason why it took so long uh here is
+because
+our wallet now is infrastructure product
+actually so it's not a customer product
+uh
+this and uh we need to think
+a bit uh far far beyond uh
+of what will be going on and what how
+the our wallet will be evolving actually
+and uh nft displaying uh
+is just one of the features that uh
+constantly added to the error wallet so
+also we will we have the network scanner
+called everscan so everscan.yeah
+it will also contain
+the possibility of viewing nfts and not
+only pictures contained in nfts but
+as i said so all the other stuff like
+metaverse regions
+inventory
+i don't know what else so a lot of stuff
+so as it will be that
+um another question sorry i'm new to the
+ever to ever scale
+uh like sorry
+no welcome uh daniel um what is the
+benefit for me to become a relayer
+uh
+relayer is uh okay so
+on never scale so uh you have validators
+so validator gets the reward
+for validating the network obviously so
+it's something like gives you
+annualized something like 11 percent
+or so
+and uh for october's breach so we also
+have those validators sculpture layers
+so actually real layers and it's very
+important to look into the tokenomics of
+the bridge in this case our layers get
+the half of all the rewards that bridge
+has generated
+and as the layer number is limited so uh
+you can imagine that they're
+making uh much more money than the
+regularistic stakeholder although you
+can use your bridge tokens to stake
+on the bridge to get a part of reward
+so but to be relayer it's it's quite
+expensive so it's a hundred thousand uh
+bridge tokens which is uh something like
+half a million dollars uh nowadays and
+uh
+that's why we are carefully selecting
+the layers
+that will add not only money but also
+the value and the reputation to the
+bridge itself
+that's why we are constantly in in a
+discussion with big liquidity providers
+with a
+big and noticeable market players so who
+will be happy to see on the list
+but also relayer is a great
+responsibility and you really need to
+take uh to make sure that you have that
+your hardware to run the re-layer
+and good internet connection
+yeah so
+for you uh for for error layer so it's
+of course not only about being
+money generating stream but it's also
+about the reputation so because we
+position bridge as a really secure
+cross-chain transfer uh
+tool
+everscale is cool but not uh still not
+well-known blockchain so how do you plan
+to get more exposure
+actually that's what i said
+so we have started the
+first
+massive marketing campaigns in asia
+somewhat end of next year so it's only a
+few months have passed but we already
+see a lot of gaining gaining from that
+region a lot of grossing in the
+community
+uh so and in asian regions so we focus
+now on south korea and indonesia but we
+haven't planned
+additional marketing campaigns in japan
+and
+malaysia
+and also planning to expand furthermore
+across the world so now we are testing a
+lot of different hypotheses uh the
+product fits
+so try to look into the messages that
+are really appealing to people
+especially nowadays during the crypto
+winter when everyone is down so
+everybody's set so we need to somehow
+find
+this right words for people
+um next question uh what are
+cross chain oracles
+crossing oracles is
+a concept that we are currently uh
+developing so it's it's in r d stage
+um actually what uh
+bridge does so it actually listens all
+the networks that it's connected to and
+this way uh layer nodes can also operate
+like oracles
+because you can subscribe to certain
+data that you need to transfer
+to get from different chains and this
+way
+bridge serves as a
+ultimate decentralized oracle
+but
+as we clearly understand how much
+responsibility it will
+put on us
+we first want to
+carefully
+look into how everything works for
+example in chain link and all the other
+oracles
+and
+propose the system that will
+deliver the reliable on chain data for
+the needs not only of users but also for
+the apps and uh different smart
+contracts applications and
+this is not an easy task but
+we it's
+prioritizing our roadmap so i hope that
+we'll see some kind of mvp
+this year
+are there any more
+questions
+i don't
+know
+um so uh someone has asked uh vlad if
+you could give us an update on any uh
+road map achievements
+uh yeah uh actually really
+not not not long ago so we have released
+one of the biggest
+updates for the breach recently it's
+called the merge
+and what it does so it's works in
+junction with a
+universal bridge technology so universal
+bridge lets you uh transfer any token to
+any other network for example if you
+have a token on i don't know an
+avalanche and you need to get it on bnb
+uh so you can uh already now transfer it
+without any limitation meaning that we
+support all tokens
+uh but you will get the
+robbed token with a prefix oct
+for octus
+in the target network and for just
+imagine if you have uh your own tokens
+already on different networks um
+and you want
+them to easily convert to one another so
+that's where the merged technology uh
+comes in place so it allows you to
+indicate the specific uh tokens in
+different networks that are basically
+the same so for example if you have
+tether
+on ethereum and on solana uh so this is
+pretty much the same tether yeah so just
+of course there are some peculiarities
+but basically this is the same
+entity issuing it and uh
+you want to indicate that it is the same
+token and in this case um it works a bit
+differently so uh for universal bridge
+tokens so how it works you actually have
+the one input stream so with your tokens
+that are
+put on the world in one network and then
+it is a bridge who controls the emission
+of this derivative some other tokens so
+on the other network
+but for the merge tokens so actually
+there is a new configuration in it that
+indicates the link between tokens and
+now you will be able to uh
+withdraw tokens on the target network
+only if they are contained in that world
+at the end of the line
+and this technology is is really
+interesting and cool because uh it will
+allow uh projects actually to control
+the emission from one place
+for example if you have
+some
+some dao
+deployed in in any other network so that
+is controlling the
+the token so you can issue enough tokens
+and rebalance them between networks
+uh
+there is a new feature coming soon so uh
+we have quite a lot of updates coming uh
+with the pro prominence solana
+integration um so um
+if we uh
+get on time so uh we will also add the
+possibility to uh universal uh smart
+calls transferred between any other
+chain so meaning that you can call on 1d
+app in one chain the smart contract in
+total another chain so it creates such a
+tremendous amount of opportunities for
+you
+i'm not sure if it will release in this
+specific release but it will definitely
+come
+and of
+course we
+are constantly working on improving the
+security so and uh
+there are quite a lot of improvements
+that
+are not
+well
+interesting for a common user but
+they are sounds really
+important for developers
+so uh
+we have also recently uh
+added
+a whole bunch of documentation
+about the octus bridge to make it easier
+to integrate with
+okay so enough walk to the bridge
+for the flat cube for example we have
+recently added a
+stable curve
+to to our decks meaning that you can now
+deploy uh pool liquidity pool with a
+curve pretty similar to what
+curve does the girth project does so
+means that you can
+swap stable coins with a really slow
+slippage uh almost zero um and it was
+something that was so so badly needed on
+the scale and now we are working also on
+the triples uh
+meaning that you can have liquid pools
+with multiple tokens
+yeah so
+quite a lot is going on just keep
+subscribe to social media
+i think that's that's all the questions
+we've got so far guys maybe you have
+some questions here in the audience
+offline
+don't be shy please
+okay uh in this case so i propose to
+make
+another break now uh just to have some
+snacks so and uh after that so um
+uh
+maybe let's in half an hour so uh
+we will have the start of our technical
+uh presentations so uh
+alex from i.t goats who will tell about
+the solidity
+on our scale so it's quite interesting
+topic and
+there is a number of there are a number
+of contributors on our scale who have
+wrote
+an excellent guide
+of how
+ethereum developer can easily hop on
+to our scale and also
+another uh presentation
+that is coming by sergei pateken who is
+our lead
+blockchain developer
+uh is about uh how october's breach
+really works and how you can integrate
+with it and you can how you can benefit
+from it
+okay
+thank you
+[Applause]
+yeah it's 3pm so we will have some
+burgers
+we are moving further so we have
+alex
+okay hello yes yes hello everyone my
+name is alexander i am member of it goal
+team
+i am happy to be how i am happy to be a
+part of mentors team
+so
+what we talk about
+we talk about everscale it's a fast
+cable it's very good network and it's
+very young network and we will talk
+about uh
+develop developer experience in
+everscale
+we talk about most important points for
+developing smart contract or for
+how to interact with everscale
+when you build off chain application or
+web like application
+so
+if you worked about every skill
+development
+uh
+maybe you listen uh everyone is a file
+yes it's a unix way
+in every scale we we have
+our own way it's everything is smart
+contract
+uh what's means
+you can send tokens
+in every scale without smart smart
+contracts i
+you need to
+call smart contracts if you want to
+interact with the other scale
+network
+investigator present
+multi-trading and distributed
+programming features
+which can help to be a fast secure and
+scalability in one time
+uh scale a systemic network
+20 years ago
+most big part of program was synchrony
+clicks
+what this means all program was executed
+step by step and computers idle
+while
+while response
+so
+but in this time currently all program
+is most threat
+i think music trading it's a future for
+blockchain and for every scale it's
+already done
+you still have dynamic sharding
+it means we increase threshold count if
+we have load network and merge it back
+if it's done
+so
+next feature is severe scale it's paid
+storage
+uh two years ago we i have a
+big problem in community it's about uh
+blockchain size yeah
+in this timeful note of ethereum i think
+it's uh
+two terabytes and
+binance machine more
+how to scale
+sync to
+not so
+to be big so big it's paid storage
+uh
+every scale smart contracts uh pay a
+rent to network
+for
+this site with this size
+it means all this means no for example
+if i want to
+create tokens uh main tokens maybe in
+coin and send to thousands or many
+addresses i pay on the network field in
+every scale i pay not only network fee i
+paid storage view
+it
+can help to future
+this mod
+and it's very very important part of
+every scale
+we have uh
+we need to have uh tokens on all smart
+contracts in network
+so in every scale has proof of state
+validation
+i think many current
+many news network have proof of state
+validation
+ethereum will have proof of state
+validation
+uh it's not now but uh
+it's not news but uh
+uh all you know all you need to know uh
+if you
+have proof of state relation we don't
+need to wait uh several blocks
+for
+fourth in the state if we see blocks its
+mean state already differentiate that
+so
+about a smart contract
+every single smart contract this means
+we can
+ask addresses in every scale from
+explorer and
+take
+a state
+it can be non-exist state this means
+this
+account or addresses it's the same
+not use it
+and don't not have balance not have
+not have smart contract to deploy it we
+can have a
+unit state it means somebody maybe you
+send
+several error errors to this addresses
+but not deployed contract to this
+addresses or
+maybe the status was frozen and
+destroyed
+so frozen
+it's about paid storage if we deploy a
+smart contract and don't pay it uh
+fee yes and if this contract
+uh this country will be freezing frozen
+um
+frozen contract to store
+two years as i know but every scale is
+new network and i know only
+several cases when small contract was
+frozen we cannot throw them contract we
+have this procedure but
+it's don't use it
+often
+so an active active smart contract is
+one contract that we can execute
+right now
+so
+what about asynchronic material of every
+scale
+it's a big part and most important part
+for developers so
+let's see
+diagram but i see mistake in diagram but
+okay so uh first part of uh execution
+smart contract it's message
+message at its job what we need to do in
+uh
+blockchain what we can't change its
+message
+we create matches and send to blockchain
+it's external in message
+all the interact with the blockchain
+starts with this message
+message create a transaction
+it can be one transaction
+for external
+in message so it's transactions
+transaction is its execution of this
+message
+uh for example you want to send coins to
+another user or you want to increment
+the counter its message and transaction
+but
+when transactions are cuted
+that can be
+create many different can be many
+different
+messages
+it's not transaction it's messages
+it can be zero messages or you know
+hundreds messengers
+messengers it's another job to in other
+smart contracts it's
+internal messages message messages that
+are created
+by transaction
+so and every message
+create our own transaction and own
+transaction can create another message
+we have a graph it's direct graph we
+have a root and direction
+and this graph can be
+bigger
+for example we tested
+chains that have one million points
+it's it's very long chain execution of
+all of points
+was more than one day it's so long
+but it it was meant one million of 15 by
+one messages
+so uh what's the problem with this uh
+shaman
+uh first difficult to calculate gas fee
+uh we have a long chain uh every message
+hand can create another transactions
+every transaction need to paid
+user ever
+and it was a big
+big change
+so
+we can't calculate how many errors you
+need to pay for
+for full full transactions all
+transactions
+uh usually we use uh
+usually we take more errors that i
+needed that we needed because we can
+prediction how many errors you can use
+we can use maybe i don't know we need to
+use two errors for
+all chain but users send five flavors
+and we
+return change uh when
+transaction chains is chain inspected
+so
+uh save a second problem uh if we have a
+exception for example we create messages
+that create transactions message
+transactions long long away and we have
+exception in the middle
+i don't know we haven't got we have
+exception in smart contract
+what
+we need to do
+we can special bounce and balances
+messages that
+can create
+full back transactions
+but it's hard for development
+we can use callback message
+we can use many different uh
+actions for for the solute for solutions
+this problem but uh
+but it's hard yes
+i synchronics regime it's more difficult
+for developing than synchronic
+development
+when you
+uh when you deploy smart contract you
+need to think how it will be
+how it will be used and
+what you will be do if something
+wrong
+so
+and uh most uh i don't know
+most important uh most often uh actions
+that you did
+and when
+a smart contract
+uh call another smart contract for read
+his statement
+variables
+for example yes
+you need to check
+how many tokens
+have
+how many tokens on wallet or who is
+owner of nft
+if you
+read
+the information chain you have a
+transaction to
+you have transaction to nft for example
+or
+swap
+okay you have transaction for nifty or
+swap payer for get a price
+and
+you can you
+get receive from
+from
+supplier isochronic six
+uh
+if something changed in this time
+because it's async mod
+you need to
+think about it when you develop a smart
+contract
+so what about paid storage uh as i say
+uh
+smart contracts uh
+pay a storage sphere
+we can calculate how many storage fee we
+will pay it one year to year or or
+on different period
+but
+if of course if
+storage speed not changed
+for network
+so
+and when we
+deploy a smart contract every time we
+store a
+part of adders on smart contract
+addresses
+for storage sphere
+because storage fee
+is changeable
+not directly it's changeable
+chargeable every time when smart
+contract executed
+but
+good practice if you don't use the smart
+contract you will destroy it and take
+back
+errors that stored on the smart contract
+okay
+i think all you need to know is this
+time
+when you deploy a smart contract you
+need to
+you need to send
+a few errors i don't know
+0.1 neighbors or smaller to smart
+contract and
+it can help to
+store this contract one year and now
+uh for uh
+faculty members we sent sent i think how
+to calculate storage team
+and uh proof of state validation oh i
+don't know what uh what can i say
+more about proof of state
+i don't
+speak about proof of state and proof of
+work was different
+but best
+best thing about proof of state it means
+every scale we produce blocks every
+second
+and faster sometimes so it means every
+second when you
+take a block you know that finalization
+already done
+this mean you can
+use that data for
+for you for users
+if you buy something or
+you take it
+when block is reduced
+so
+and about shutting technology
+two years ago
+two weeks ago we have a minimum
+16 shards in mainnet
+and we
+down minimum shards to one
+no
+two year to two week goals and it uh
+network
+a little faster after it
+but
+if
+if network have been cloud maybe
+all of them want to
+to do something in every scale
+we have
+active sharding technology it means
+validators split a lot between
+by addresses by mask
+between together
+and
+it can help
+help us
+produce the block by one second
+and
+it's very fast so
+uh okay
+when we develop smart contract we need
+to interact with smart contract for you
+from ui ux or
+something else i don't know maybe
+backhand it's maybe a custodial
+non-custodial services
+first you need to use
+everscan or airlife it's blockchain
+explorers
+it's a different blockchain explorers
+they show one blockchain overscale but
+you can see
+but you can work with this
+explorers use a different protocol for
+everscan it's rest type it's work fast
+and simple and for every life is graphql
+use graphql you can take more
+information but
+as a graph of data
+but it's not needed uh often
+and you can use
+products that you that you want
+so and for ever scan we have a special
+path for
+token players as as i know and
+another information about
+tokens
+so
+every live present information about
+blocks transaction accounts
+and and other but how to interact with
+this blockchain you need to
+get account data from blockchain
+but
+you can't read uh account fields here
+from account in smart contract you can
+read uh smart contracts fields
+microcontroller state from uh
+from everest or real life you can only
+read account state
+for
+use account state you can
+you need to own
+you need to use the card yes it's
+averaged
+provider but i need to take back
+okay what about data structure structure
+in either scale
+in the first case you need to use the
+messages
+have a
+we have
+external messages is its message that
+produces user to smart contract from
+external world
+we have internal messages message its
+job
+that one smart smart contract send to
+another smart contract it's interact
+interaction with a between smart
+contract
+and we have external out messages it's
+like a log in ethereum
+so
+external out messages produced smart
+contract but we
+don't have this nation
+so
+when we use messages so when if you want
+to change something in your scale you
+create external in messages
+um you can
+read the eternal messages or
+but usually don't need it i don't know
+no usually it's not needed
+accounts search wallets
+accounts it's smart contract
+you you can uh
+if you will read documentation you can
+read accounts you can read smart
+contracts it's the same
+uh
+all interaction with smart contract
+uh started usually from wallets
+as i say uh
+everything is smart contract you can
+send errors without a vote
+and vote is smart contract
+and
+i think 90 percent of user either scale
+have multisig wallet because it's a
+standard wallet for every scale
+and it's it's good because
+we can
+update
+wallet user can update
+your own voters for
+other custodials either the
+new case or change case it's more
+security
+no but i think
+90 persons world have won only one
+custodial
+so uh
+if i want to interact with blockchain i
+need to send message to vote
+and vote
+approximate this matrix
+and send volt in cent errors
+with payload to
+two smart contract
+usually
+usually this message it measures two
+volt user
+and these transactions have
+errors and have this nation another
+small contract for example you want to
+change
+you evers to
+uh
+i don't know two
+years
+two tokens for example you send errors
+you you send message to your vault
+and vault uh processing this message to
+a swap contract
+and vote added
+some errors for example five flavors for
+gas fee
+as asgas team
+and take it back
+when transaction is finished
+okay
+transactions
+as i say transactions is a
+fact of executions of messages all
+transaction has methods that
+produce this transaction and
+out message that created
+in transactions it can be zero messages
+out messages or you know
+or many message out outs and blocks all
+messages transactions pack two blocks
+and
+i think you don't work with blocks
+because it's not needed in the us in
+scenario yes he's
+not
+if he uses decay it's hided for you
+okay
+for
+smart contract call
+i think you need to install ever wallet
+yes it's uh
+process
+world
+if you install it generate it for us
+take some errors if you want to develop
+needfnet you can write mentors and we
+send errors for development to you add
+in page provider it's
+part of
+developing uh ecosystem
+uh you can use it for developing for
+in your backend or front-end
+and and
+if you use uh
+language uh
+different language maybe
+java or
+i don't know rust or something else you
+can use every sdk
+we have binic for this decay for many
+images
+thanks
+so much questions
+okay
+okay thank you alex uh guys do you have
+any questions about uh
+smart contract so feel free to ask alex
+is a professional
+he's also a developer
+okay take your time so just eat you
+might have covered it in your speech
+just a second when were
+asynchronous smart contracts first
+deployed it was after
+the ethereum network was released
+so when when were
+asynchronous
+smart contracts first developed
+okay if you want to develop smartcon
+you need to how to deploy it or no when
+when was it uh
+like it's it's hard it's of course it's
+uh harder than uh ethereum development
+because it's uh we need to think about
+all execution of smart contracts always
+all exceptions
+it's more harder but it's more
+interesting when you when you it's like
+uh it's like multi-trading development
+and
+synchrony developing in uh i don't know
+on java.net
+python and other languages
+uh
+yes many currently languages already
+have synchronous like coroutine on some
+scales every scale it's asynchronic
+language
+from start yes
+of course you can write smart contracts
+that
+will work
+synchronically and change only state of
+this smart contractor it will work us at
+anyone
+but if you
+create a
+product a big product you need to
+use main smart
+check
+state uh
+it's it's hard yes it's harder
+so was everscale the first network to be
+asynchronous from the start
+it's the first
+i say that everscale is a good network
+for start developing in isanix mode
+because we have
+many tips and tricks how to
+how to
+how to be how to create secure program
+yes because if we create asynchronic uh
+if if we
+call smart contract inside blockchain
+yes we have big chain we need to think
+how to
+how to make it secure when transaction
+is finished uh how to beat
+many many questions we have when we
+program maternity and many of them
+already
+have already solution or
+samples in every scale
+for example it's uh
+tip
+tip 43 it's uh
+ever skill standards uh
+if you will work visible scale you can
+read about the standards they already
+have solution how to
+create uc
+20 tokens how to create a
+nfc token endeavor scale
+for scalable mod for security mode
+how to
+store it how to change it all of them
+you know
+we have solution for all of them
+and so does that give developers more
+flexibility with what they can do
+is that why ever sk does that add to
+like the scalability of everscale that
+you can kind of adapt it to
+to other
+um
+other needs i guess
+what you got you need for
+adapter
+okay um
+yeah of course we have
+i say i say another of course uh you can
+uh
+okay we have a big task okay i have
+example we have a big task yes uh in
+ethereum we have uh
+uh
+in all of the network and every scale 2
+we have a gas limit for action
+yes
+and it's this gas limit it's
+not big because it's a part of attack to
+network yes
+dos attacked the network
+and
+when we programming tower scale in ice
+chronic regime we have many small
+contracts small it means they have uh
+it's like uh developing in necro system
+uh you have many micro system that uh
+interact together that can send messages
+ask the messengers that uh that store
+you own data in in her state it's like
+microsystem if you uh develop
+microsystem uh it's the same
+i think
+oh no no i think it's true it's it's the
+same
+so uh
+in this case
+no uh already i say about uh mint one
+million nft in every scale when from one
+transaction
+it's it's it's was one uh in transaction
+but it's uh create one million in other
+transactions that that uh executed in
+blockchain
+uh
+it's uh
+it's in and all of nft have a unique
+data
+for example uh you can do it in their
+home
+thank you yeah thank you
+hello hello can you tell us some about
+future evm
+uh blockchain on every scale
+uh how will it be inside every scale
+okay we tested work chains
+we have a two chain in every scale now
+is master chain and work chain
+but uh master chain not for
+not for users because in masterchain we
+have a big
+gas fee for all the patients it
+network for validations of course you
+can use it but
+i i don't think that it's
+need for you
+and the work chain is working zero it's
+our
+uh
+main our main work chain when we
+deploy all our small smart small
+contracts
+uh
+in
+last summer
+we have
+raskop it's a special event in universe
+scale
+with
+we have another network and have 10 word
+chains
+all our chains can have another
+different uh rules for gas sphere for
+storage sphere uh
+this varchan can have another rules for
+for virtual machine for example one
+version can have ton build tbm
+and
+and what you want yes we can we can have
+uh up drive chain for store data for
+example our way it's up another
+blockchain for store uh
+store uh files yes for nft and
+you know
+for everything
+uh this version was
+a high value for execution but low value
+for storage uh
+in this time maybe not this time maybe
+next month
+uh we will test that uh interaction
+interaction with between the chains for
+example version zero or chain one it's
+different chain it can be different uh
+main token
+it's not like it's scalability we can
+multiply if you if you want
+for different case
+yeah so basically uh evm workchain is
+just yet another chain with its own uh
+set of rules
+so it will uh have the same set of raw
+similar to
+classic ethereum for example so it's
+having the same virtual machine but
+after the transactions and blocks are
+issued on this worksheet so
+uh the final state is written in the
+master chain
+so
+it works pretty much like uh well polka
+dot should work
+so actually every scale is the
+polka dot but the real one
+and better we all weight it yes
+but for example in this time when you
+use a smart contract we have addresses
+that have two parts it's
+a blockchain id and address part
+and when you program smart contract we
+you use zero bar chaining this time but
+you can
+and you can set one or two over chain id
+okay
+okay this comes from a programmer that's
+not a blockchain programmer but um
+because we're using asynchronous
+computing here is there a hazard for
+a double spending thing and if that
+happens how do uh
+the validators how do they act when
+something like that happens you know
+because you have errors non-stop who
+actually pays that fee and something
+like that happens and it's been written
+on the blockchain already uh how do we
+track back to that and actually
+uh make sure that everything is all
+right
+okay well double spending
+uh double spending attack hits attack
+when we
+produce
+one message twice and the
+user paid twice uh augustine or
+users that send twice
+user
+execute twice one operation for av scale
+if we talk about programming yes we have
+a pragma time
+it means
+message that user sign
+will be executed only one time
+so if we use this pragma if we don't use
+the magma
+we have a problem but
+yeah yeah
+i was asking because you know uh that
+would actually take time for validators
+and that would impact performance of the
+network you know so that because it has
+to be rechecked or uh who will actually
+have to pay that fee because p is very
+cheap but still you know
+there is more
+more than one you would actually have to
+process it yeah
+okay maybe
+okay we have a ram protocol
+it's
+already tested on uh
+on the felder network or will be tested
+a in
+uh it's already on in main ideas uh all
+messengers have a
+unique id
+and will be
+produced by logical time
+okay thank you good questions
+anything else guys
+don't hesitate to ask
+no really
+come on i see you want to ask something
+okay
+so do we have some online questions
+no okay uh thank you alex uh excellent
+presentation uh so guys and uh again so
+for those who are flying
+on in the belgrade and uh or online
+looking for the stream don't hesitate to
+ask questions again come to our discord
+uh so you see the qr code on the screen
+and
+so there's also always someone who can
+help you to answer any any question
+about everscale and programming on it
+okay uh so we uh in five minutes we will
+have our next speaker uh so
+let's make a short coffee break and
+come back in 5-10 minutes thank you
+okay guys we're ready to continue so
+please take your seats uh
+those who are here offline take your
+chairs and those who are off online
+please get back to your monitor or cell
+phone uh so uh now we will have sergey
+patakin who is the lead blockchain
+developer uh in brooksus uh so he will
+tell us about uh the architecture of the
+octus bridge and the way how you can
+integrate and benefit from it
+guys can you put sergey on screen please
+this is the presentation but don't see
+sergey
+so you say something
+yes one two three one okay we hear you
+perfect
+okay we here but we don't see you
+for some reason
+uh
+i don't know what to say on the live
+stream we see you see okay
+uh so the floor is yours please
+enjoy
+uh yes
+okay so let's move on uh thank you vlad
+uh yeah my name is uh sergey i am the
+team lead in boxes even though i don't
+have this beautiful t-shirt
+uh so uh
+i'm gonna tell you a little uh technical
+information about the octus bridge
+my
+slides are called coctus bridge
+so it's
+more even about the workshop than the
+lecture
+uh i want to
+tell you about the doctor's bridge
+architecture about the smart contracts
+so it's a technical talk
+and
+my my my main goal is to explain
+doctor's bridge uh
+to the developers
+uh so um you can use this uh
+as an infrastructure layer for building
+your own cross chain application which i
+think is amazing this is the next big
+thing
+maybe the current big big thing so
+i'll show you some examples also
+like the uh production examples which
+we're using on a daily basis
+uh
+say a few few words about our future
+plans
+uh yes so uh don't hesitate to ask any
+questions please
+feel free to interrupt me if something
+is unclear for you
+alright so okay
+let's move on
+uh i hope you can see my slides
+so in a few words uh let me remind you
+what is octa's breach
+first of all from the product point of
+view this is a
+well-known handy uh
+tool for transferring fungible tokens
+from one network to another
+mostly from
+some evm to the error scale
+but you can also use it for transferring
+from one evm directly to another evm so
+there is a rich functionality
+from the technical point of view this
+thing uh the actual bridge has nothing
+to do with the token transfers
+specifically
+the protocol itself
+provides
+the both way
+message transfers between every scale
+and any other connected blockchain
+right now we have uh connected the evm
+compatible networks there are plenty of
+them
+for now you can use ethereum finance
+smart chain polygon phantom avalanche
+milka amada
+but
+there is no actually problem to build uh
+to to connect non-evm compatible
+blockchains such as salana or nir
+and
+i know that uh some some of us are doing
+the research and maybe um
+you you will hear some some news about
+it in the closest future
+uh so yeah as i said the octus breach is
+about transferring arbitrary messages
+from one network to another
+it is maintained by the special actors
+which are called relays
+so if you're familiar with the chain
+link for example these are pretty much
+the same uh these guys this relays
+are in charge for confirming the fact of
+the event
+so
+they they are re-elected which is
+important for now every single week
+which is also important uh it is
+decentralized and anyone can become a
+really all you need to do is to have a
+stake in the
+bridge tokens uh and uh
+after that all you need is to run some
+software which is called relay node
+uh it is open source uh you can find it
+on the proxis github
+uh so uh and so that's it here is the
+magic right now we have the
+decentralized uh way to transfer
+arbitrary messages from one network to
+another
+and uh what is personally my favorite
+thing about october's bridge is that it
+it is not about the token uh transfers
+or something it is uh from the beginning
+it was designed as an infrastructure
+layer
+so
+uh literally anyone any developer can
+connect to the octus bridge and use uh
+its capabilities for its own
+decentralized application
+or which is even more important any
+developer can uh
+use the
+uh
+some sdk uh which is already available
+to extend the current bridge
+functionality
+for example the cross chain fungible
+token transfers is implemented but the
+nft token transfers are not well there
+is no problem for any developer to write
+just a few contracts on the everscale
+solidity
+uh connect them uh to the bridge i'll
+just i'll tell you how to do it a little
+bit later and that's it now you have
+your own cross chain functionality
+so this is actually as i said my goal is
+to explain to you how to
+extend current
+current functions
+and build your own cross chain
+applications
+so
+okay let's move on also a few few more
+uh words about the cross chain
+applications why should you even care
+about them
+uh well uh like uh not so long time ago
+we had one network ethereum of course
+and all the users were using it all the
+liquidity was concentrated on it all the
+apps were launched
+only on ethereum right now the situation
+is different there are plenty uh
+plenty um
+blockchains
+uh like evm compatible non-vm compatible
+solana near cosmos hubs uh i don't know
+polka dot and so on and the users and
+the funds are distributed around all of
+them
+uh and for example right now when you
+are launching a decentralized
+application you should answer yourself
+question which network you should use
+right let's say you want to launch your
+application on ethereum but you should
+keep in mind that it is for example
+expensive sometimes
+uh but uh for example has the largest
+user base but you also have different
+networks let's say binance smart chain
+which is not so expensive but way less
+uh secure
+so
+um and uh by using the uh technologies
+like an octopus bridge you can launch
+the uh that's your decentralized
+application
+uh
+in a way which allows you to for example
+connect users from any other blockchain
+actually it it's not even so important
+which blockchain you're using to launch
+your uh product like as a whole network
+users from any different network can uh
+use your app
+for example through the octus bridge
+right the most like well-known examples
+is of course token transfers which are
+already implemented and available as an
+open source and so on
+you can also imagine nft transfers
+like cross chain nfc transfers
+another good example is the cross chain
+dial for example in october's bridge we
+we have the dao
+and you can create a proposal as usual
+but which is interesting you can specify
+not only the
+everscale actions because the error
+scale is like a whole network for the
+dow but you can also specify
+the i don't know phantom phantom action
+ethereum action finance smart chain
+action all into a single proposal and uh
+because dao is itself connected to the
+octus bridge these pro these actions in
+case the proposal is uh accepted uh this
+will be transferred uh to
+to these evm networks and executed in
+them so for example you can i don't know
+build the product with the vaults in
+every single network and
+rule them all from the single point
+which is amazing i think
+another good example also my my favorite
+is the reputation systems
+uh for example you can create the
+application let's say in ethereum or
+every scale which consumes the octaves
+bridge the
+all the data about some actions uh in
+different networks for example you can
+consume the list of uni swap trades for
+a specific address or
+compound liquidations
+or dow votes and so on and by using this
+data you can build a trunk trustless
+transparent and provable let's say
+credit score
+right and uh for example issue and nft
+which says like the credit score is 7
+out of 10 because of i don't know bad
+liquidations history and this nft can be
+transferred
+to a different network by using this uh
+nft cross chain bridge and uh this uh
+new nfc can be used for for example
+under collectorized loan
+i don't know in uh polygon
+uh so yeah as you see this is an amazing
+this is extremely scalable you can
+create as much applications
+as you want you know it's even hard to
+imagine every single case
+okay so
+i think i have answered the questions
+why why do we why does it matter
+right
+uh so
+right now let's move on to the technical
+details
+the theory uh which will help you to
+build your cross chain applications will
+octa's bridge
+so if you are familiar with the
+development
+uh then it will be
+pretty especially with asynchronous
+development it will be easy for you to
+build the cross chain applications
+because the model itself uh
+is pretty close to the event callback
+model i think it's just well known for
+most of you
+so basically all you need
+is to specify the pair where the
+first element is the target event and
+the second one is the callback which
+should be executed
+uh in case the target event uh
+exists i mean what was emitted for
+example
+uh so we can discuss on a high level the
+cross chain token transfer
+and basically uh this is just a two
+event called back pairs
+uh where for example in case the deposit
+event occurred in the polygon
+like the user have deposited 10 usdt
+well in this case the callback will be
+mint 10 10 uh synthetic usdt in the in
+the error scale right so that's it
+uh and pretty much the same uh with the
+opposite direction in case user
+has burned
+the
+this 10 usdt well the callback in
+polygon will be to release uh usdt from
+the vault
+that's it i think it's it's it's an
+extremely simple model actually
+uh so
+a few words about the terms uh this uh
+event called back pairs are specified as
+a separate smart contract so there is no
+like huge centralized configuration
+somewhere on a github
+all the configurations are just uh smart
+contracts on the everscale network you
+can deploy
+them yourself like no problem
+uh these configurations are also like a
+pretty standard smart contract so
+they're already developed by us you can
+just use them most likely you don't need
+to develop your own custom configuration
+contracts
+so just
+feel free to use
+ours right out of the box
+but one important thing that's to avoid
+the potential
+ddos attacks uh you can't create as many
+configurations and expect relays to
+maintain them uh for now uh dao bridge
+dao
+needs to approve every single
+configuration
+which basically says that okay release
+now you're
+uh responsible for maintaining this uh
+event callback
+pairs maybe we will get rid of it later
+or maybe not i'm not sure right now
+it is it works this way
+uh so
+uh okay uh well this is this was the
+basic theory right now we can move on
+uh separately to the evm to ever scale
+pipeline and after that i'll
+tell you about the everscale to evm
+pipeline which is pretty much the same
+but has a few important differences
+so uh
+okay let's let's move on
+uh so as i said uh
+we are talking about the event callback
+model
+and every single target event uh let's
+say from the polygon
+uh
+it should be represented
+as a separate smart contract which is
+called event contract in our terms
+uh this is extremely lightweight
+simple and cheap smart construct
+so
+someone should deploy it usually user
+deploys it for himself and basically
+what does it mean
+uh that event contract stores all the
+data about the target event like the
+content of the event i don't know
+transaction hash block hash and
+stuff like that
+uh so after
+after the event contract is deployed
+relays
+uh
+basically need to
+uh compare the exact event in the
+polygon and the events representation uh
+in the form of event contracts and in
+case everything is is fine everything is
+the same all the details block hashes
+and so on
+uh is the same then relay just
+sends every single relay sends
+the special confirmation message
+so
+interesting thing that in every scale it
+is possible to implement
+the contract base itself
+model
+that's why relays don't even have their
+wallets they don't even have their
+errors to spend on a guest
+event contracts pays themselves for
+confirmations or rejects
+uh and uh
+yeah
+this is also like an amazing thing about
+the error scale and uh once uh the some
+threshold is reached then the callback
+is executed so that that's it it is
+it's that simple
+uh so um as i said uh we have the
+configuration contracts and they're used
+as a factory for event
+contracts that's it
+uh so uh
+let's say uh in case of the regular
+token transfer cross chain
+uh the
+callback contra contract implements the
+mint functionality and
+it
+sees the details from the event contract
+it sees that okay
+the 10 usdt was locked on the polygon
+so it means that i should mean 10 usdt
+to this user like that's it uh i hope i
+hope it's it's clear how to implement
+the evm to ever scale
+uh
+pipelines also i'll tell you about the
+everscale to evm pipelines which means
+that it should be clear for you how to
+implement evm to evm pipelines this is
+also an amazing thing you can
+create the crosschain applications and
+your user don't need even to know about
+the ever scale
+you don't even need to have a wallet or
+something
+you're just using these two pipelines
+and uh now you're connecting to evm
+networks amazing feature
+uh so yeah a few words about the
+everscale to evm
+pipeline the only difference everything
+is pretty much the same the only
+difference is that relays don't send any
+messages to the evm as they are doing by
+sending messages to the everscale
+this is as you
+as you know
+it may be pretty expensive because of
+the network fees let's say in ethereum
+uh so what the relays are doing instead
+they're
+storing uh some signature which is made
+with their private key uh to their
+they're putting the signature to the
+event contract on the everscale side and
+uh
+the public key of the relays unknown on
+the polygon for example there is a
+special smart contract which stores this
+uh public key and you can ask it let's
+say uh who signed this payload was it a
+relay or not
+so oh and that's it since you have the
+signatures and you have the payload you
+can uh send them to some let's say evm
+polygon vault
+and the vault will check that these
+signatures were made by the
+actual relays and if everything is
+correct if
+the threshold is reached and so on well
+then the vault will release the
+usdt uh to the user so uh that's it as
+you see it is reliable and uh pretty
+cheap uh i mean from the economy point
+of view there is no struggle for relays
+from uh sending uh regular transactions
+to the evm uh networks
+uh okay so i think we can
+move on from here so yeah let me just uh
+clarify once again the
+most common uh octus bridge pipeline
+the cross chain token transfer
+so as you see uh it can consists
+basically from two pipelines
+one is uh
+ethereum to every scale where user locks
+the world uh they use the t on the world
+which leads to the target event
+and uh
+this target event leads to uh minting
+usdt synthetic usdt
+uh on the everscale and uh burning this
+usdt leads to releasing them on the
+ethereum world so you know
+that's it i don't know i don't even know
+what to say because it is extremely
+simple pipeline and you can create your
+own customize this one
+and it will work
+just the same
+so all the contracts also are open
+source of course we're using a gpl
+license
+so uh the evm volts contract is
+basically the fork of y iron with two
+walls uh which is uh
+which allows us to
+uh
+earn yields on the locked funds using
+strategies and so on and you can also
+see the
+callback contract who who is responsible
+for minting
+usdt tokens on the error scale side
+so that's it you can uh imagine the same
+functionality with the i don't know nft
+token transfer or for example
+transferring uh oracle's events from the
+ethereum let's say chain link oracle
+events
+uh which uh will lead to creating the
+decentralized oracle network on the
+error scale
+you know without even changing knowing
+uh about all this uh bridge and
+everscale and so on
+uh
+so that's it
+uh okay uh let me
+yeah yeah let me move on a few more
+things like as i said uh configurations
+are already implemented just use them
+rather out of the box
+uh event contracts are usually uh looks
+the same
+they're all like standard only in case
+there are a few cases when you need a
+custom event contracts basically when
+you need a data mutation inside them but
+this is like complex and rare scenario
+so
+most likely you don't need to implement
+this event contract yourself
+and it means that basically all you need
+to implement is just one contract which
+is responsible for the callback logic
+on every scale and one contract which is
+responsible for callback logic on the
+evm side
+so uh yeah that that's it all these
+contracts have uh the standard interface
+you can uh see for
+for details in our repos i think it is
+like
+uh
+not a complex task to implement this
+contract
+um yes so uh
+that's it this is a pretty small
+workshop
+i hope
+i was clear and if you have any
+questions please feel free to ask
+thank you sergey
+do you have any questions guys
+okay we have one online question
+probably
+um so team rubicon asks uh sergey if you
+had to single out
+uh the key advantage of octus bridge
+over other bridges what would you single
+out first
+uh i would say that
+the key advantages as the design which
+is not about the specific
+action like token transfer or anything
+else but the design is about the
+infrastructure layer literally anyone
+can implement any cross chain logic by
+using octagon bridge so uh this is you
+know
+as simple as implementing uh i don't
+know
+solidity uh
+defy application so there is a no uh
+no bottleneck no complex uh
+questions all you need is just to
+develop a few contracts connect them to
+the actors bridge and you're ready to go
+your cross chain decentralized
+application is done i think it's it's
+amazing
+nice uh i have a question
+i think in the last update to the bridge
+uh that was announced
+um
+we said that uh we're adding time stamps
+um
+on real for relayers and that this was
+going to pave the way for uh chain-link
+oracles to be
+uh integrated into the um into the brit
+into the octus bridge
+is what uh
+a what's the big benefit of adding
+timestamps and then what benefit would
+uh
+chain link oracle's
+bring to the bridge
+uh yeah let me
+answer separately for these two
+questions first of all about the bridge
+updates uh for now uh when you're uh
+transferring the events uh to the let's
+say every scale right uh you're passing
+uh we're passing a lot of data but we're
+not passing the exact timestamp of the
+event and uh for example most likely uh
+you don't need this let's say in case of
+the token transactions you don't care
+when the deposit was made right uh
+it can be made one hour ago or uh to two
+months ago well it still means that you
+need to means 10 usdt
+to the user in case of the
+[Music]
+oracle network it matters because uh you
+have to know uh
+you know when this price was uh
+submitted to the network uh you have to
+build uh how to say sequence of these
+dots right you have to know that okay
+this price was before that price and to
+do this you need to understand the
+timestamp of every single point so
+that's why we need um to add them
+otherwise we can't uh create this robust
+uh
+oracle network
+uh so i hope i uh answered your question
+and the second one about the
+you know cross chain oracle network
+itself i think this is an amazing uh
+feature we definitely needs uh
+for it in the every scale ecosystem uh
+all
+well-known uh defy applications such as
+i don't know compounds maker
+uh every every other uh relies on the
+uh oracle networks because it's uh
+insecure to rely on the unchained price
+feeds such as i don't know unit swap of
+course you can use uh time weighted
+average price but uh anyway uh
+there are cases when you need
+the
+um oracle network and we will also need
+it on the error scale to build every
+type of the
+financial applications
+so we can build our own chain link we
+can you know build the architecture and
+stuff and develop all of this but i
+think it's just an amazing feature that
+we did we don't even need to do this
+since we have the arbitrary uh message
+channel we can just consume the
+channeling data uh pass them to the
+error scale and here it is without any
+uh complex development we have our own
+decentralized and secure oracle network
+uh so i think it's it's it's inevitable
+right to build the complex uh defy
+applications
+thank you great
+thank you guys
+any other question about the how
+october's bridge works so maybe how you
+can integrate with that
+nobody wants i won't say so okay
+thank you sergey so um
+okay guys let's uh have in this case uh
+a short break five minutes so we uh are
+finishing uh
+the presentation of our tracks for
+tomorrow and uh
+uh please don't go too far away so uh
+just a few minutes so we will present
+the tracks and examples of tasks that we
+expect from you on the hackathon of
+course those tasks are not closed
+list
+in fact you can invent your own task and
+what you believe the most uh important
+uh we just want to inspire you about how
+how it will be
+what will be useful
+okay thank you so much
+okay guys thank you for patience we just
+need couple more minutes uh to finalize
+all the examples and get all the mentors
+online
+uh we want to uh introduce
+them to you
+uh so meanwhile so i just want to maybe
+say a few words about the
+organization part
+uh so tomorrow we start at 10 a.m uh
+belgrade time so uh in this very room so
+we will organize the working places uh
+so please come
+with your laptops uh so just to start co
+programming for those who are remotes so
+of course you can also come
+so
+actually two of our mentors are already
+here so one you know already alexander
+from it gold another one is alexander
+hemsoff who is uh also leads a
+blockchain developer from brooksus
+uh so uh also we have two people who are
+connecting now uh
+so they will also guide you
+uh plus uh i want to remind you that uh
+we have an excellent chat on discord and
+uh we hope the have the whole our team
+uh uh
+there so if in case you have any
+question
+uh anything you want to ask about
+integration with bridge about everscale
+about how to write smart contracts uh
+any question you you face so you can
+always ask
+it's there so
+just add uh to the uh
+discord server so you had the qr code
+link back there
+and also ping our moderators to give you
+the role just to add you to it into the
+hackathon chat
+so see you in two minutes so
+with the tasks
+thank you
+and
+all right so we're in place finally
+okay so i will say a few introductory
+words about the
+hackathon tracks so what we are going uh
+you're going to do tomorrow
+we have decided this time that we will
+would like to focus on three tracks
+one of the tracks is
+focused on the tooling
+or developing for developers letting
+other developers easily create the
+products uh based on everscale and
+noctus bridge technologies
+uh uh the second track is named
+christian excellence so uh meaning that
+we will be judging uh how interesting is
+the idea behind
+this
+cross chain uh applications that you
+will develop
+so
+the more creative you are so the more
+unusual cases you will think
+so the better so uh we will not judge
+here for for interface part so it can be
+a console program or purely smart
+contract that you can just call
+and we have the sword track named uh ui
+ux perfection uh
+this is pretty much the same as crosston
+excellence but uh here we will be more
+focused on the visual part uh of your
+application using the octus bridge
+technology so it can be
+some some game something so actually
+guys uh have prepared for you uh some
+ideas of applications that you can
+develop
+so uh now i'm giving the floor to
+alexander
+so he will
+now present what they have generated
+this one
+okay
+for first track development for
+developers
+we write
+for example these
+tasks tasks
+first is a
+simple
+factory for creating
+which work to create
+your own dao
+so
+second is
+some
+sdk bindings
+for nicotine
+library
+um for example
+you can create buildings for python or
+go
+so
+next is
+sdk for octus bridge or flat cube
+whatever you want and
+some
+maybe
+it can be
+[Music]
+some examples for using
+[Music]
+octus bridge or fluid cube
+for
+external solutions
+uh so
+and next is
+for
+ui ux
+perfection track and
+our example
+is a
+widget
+widget constructor
+which allowed to specify
+what type of tokens you
+want to
+receive
+in every scale
+and
+from
+which
+networks
+and
+configure
+some rules and
+it
+must generate some
+javascript code
+which you can
+include in
+into your
+application
+so uh
+last track is cross chain
+excellence track and
+for example
+you can create
+some
+cross chain swap
+[Music]
+so you can
+swap tokens
+in
+you can send transactions
+from metamask and
+swap will be performed
+into
+on flat cube and you receive tokens
+[Music]
+in
+eom network
+so
+for example second task is
+similar but uh
+ah okay
+so we have
+hide and breach
+technology
+included in
+october's bridge it allows to
+swap
+it allows to
+receive
+errors
+when you send
+different tokens from
+other networks
+it will
+automatically swaps
+two hours
+and the
+second task is creating smart contract
+which
+[Music]
+which perform swap to
+a special token on every scale when you
+you
+send
+tokens
+from
+across the bridge to this contract
+so
+that's all
+yeah thank alex so uh these are just
+examples so of what you can do with our
+technologies so in case you uh think
+about some idea that you have on your
+mind so uh or maybe you have several
+ideas that you want to develop but you
+uh
+don't know which one to choose so don't
+hesitate to contact
+anyone from our team so
+and consult so we will advise so what
+looks more promising
+uh
+so uh we also have decided to prolong
+that information until end of the day so
+because some of people has asked
+to add
+some of the colleagues as well
+so
+you have time until end of the day to
+form the team so let's point it like uh
+midnight
+belgrade time today uh and so uh
+tomorrow 10 a.m again here in the same
+place so we are waiting for you to start
+officially the hackathon if you have any
+questions so please raise your hands
+or maybe there are some online questions
+okay no more questions okay thank you
+for your patience guys i'm really glad
+to see you here so and all the ones that
+are online with us today so i wish you a
+good luck and
+definitely the victory tomorrow
+uh so uh please come enjoy take get fun
+so enjoying our growing never scale and
+lotus bridge family thank you so much
+[Applause]
+you

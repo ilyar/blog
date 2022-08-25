@@ -1,0 +1,965 @@
+1
+00:00:00,160 --> 00:00:02,790
+
+hey hey friends i'm ben and this is the
+
+2
+00:00:02,790 --> 00:00:02,800
+hey hey friends i'm ben and this is the
+ 
+
+3
+00:00:02,800 --> 00:00:05,269
+hey hey friends i'm ben and this is the
+latest ever scale news picked just for
+
+4
+00:00:05,269 --> 00:00:05,279
+latest ever scale news picked just for
+ 
+
+5
+00:00:05,279 --> 00:00:06,070
+latest ever scale news picked just for
+you
+
+6
+00:00:06,070 --> 00:00:06,080
+you
+ 
+
+7
+00:00:06,080 --> 00:00:08,549
+you
+everdao new decks listings of the ever
+
+8
+00:00:08,549 --> 00:00:08,559
+everdao new decks listings of the ever
+ 
+
+9
+00:00:08,559 --> 00:00:10,870
+everdao new decks listings of the ever
+token and updates for loads of everscale
+
+10
+00:00:10,870 --> 00:00:10,880
+token and updates for loads of everscale
+ 
+
+11
+00:00:10,880 --> 00:00:13,509
+token and updates for loads of everscale
+products along with some airdrops four
+
+12
+00:00:13,509 --> 00:00:13,519
+products along with some airdrops four
+ 
+
+13
+00:00:13,519 --> 00:00:15,669
+products along with some airdrops four
+minutes on the clock let's go we'll
+
+14
+00:00:15,669 --> 00:00:15,679
+minutes on the clock let's go we'll
+ 
+
+15
+00:00:15,679 --> 00:00:17,510
+minutes on the clock let's go we'll
+start with the grants programme one of
+
+16
+00:00:17,510 --> 00:00:17,520
+start with the grants programme one of
+ 
+
+17
+00:00:17,520 --> 00:00:20,070
+start with the grants programme one of
+the most important initiatives for us to
+
+18
+00:00:20,070 --> 00:00:20,080
+the most important initiatives for us to
+ 
+
+19
+00:00:20,080 --> 00:00:21,830
+the most important initiatives for us to
+help the community understand the system
+
+20
+00:00:21,830 --> 00:00:21,840
+help the community understand the system
+ 
+
+21
+00:00:21,840 --> 00:00:23,830
+help the community understand the system
+better we've launched a new page
+
+22
+00:00:23,830 --> 00:00:23,840
+better we've launched a new page
+ 
+
+23
+00:00:23,840 --> 00:00:26,150
+better we've launched a new page
+dedicated to grants where everyone can
+
+24
+00:00:26,150 --> 00:00:26,160
+dedicated to grants where everyone can
+ 
+
+25
+00:00:26,160 --> 00:00:28,550
+dedicated to grants where everyone can
+easily find all the information all
+
+26
+00:00:28,550 --> 00:00:28,560
+easily find all the information all
+ 
+
+27
+00:00:28,560 --> 00:00:31,029
+easily find all the information all
+previous grantees the rules and how to
+
+28
+00:00:31,029 --> 00:00:31,039
+previous grantees the rules and how to
+ 
+
+29
+00:00:31,039 --> 00:00:33,590
+previous grantees the rules and how to
+apply for a grant we're always looking
+
+30
+00:00:33,590 --> 00:00:33,600
+apply for a grant we're always looking
+ 
+
+31
+00:00:33,600 --> 00:00:35,830
+apply for a grant we're always looking
+for new projects and developers and
+
+32
+00:00:35,830 --> 00:00:35,840
+for new projects and developers and
+ 
+
+33
+00:00:35,840 --> 00:00:37,990
+for new projects and developers and
+we're here and ready to help onboarding
+
+34
+00:00:37,990 --> 00:00:38,000
+we're here and ready to help onboarding
+ 
+
+35
+00:00:38,000 --> 00:00:39,910
+we're here and ready to help onboarding
+into everscale
+
+36
+00:00:39,910 --> 00:00:39,920
+into everscale
+ 
+
+37
+00:00:39,920 --> 00:00:42,630
+into everscale
+ever jews a grant recipient building a
+
+38
+00:00:42,630 --> 00:00:42,640
+ever jews a grant recipient building a
+ 
+
+39
+00:00:42,640 --> 00:00:44,709
+ever jews a grant recipient building a
+subscription payment service platform on
+
+40
+00:00:44,709 --> 00:00:44,719
+subscription payment service platform on
+ 
+
+41
+00:00:44,719 --> 00:00:47,029
+subscription payment service platform on
+everscale is ready for private alpha
+
+42
+00:00:47,029 --> 00:00:47,039
+everscale is ready for private alpha
+ 
+
+43
+00:00:47,039 --> 00:00:48,150
+everscale is ready for private alpha
+testing
+
+44
+00:00:48,150 --> 00:00:48,160
+testing
+ 
+
+45
+00:00:48,160 --> 00:00:49,990
+testing
+currently they're looking for businesses
+
+46
+00:00:49,990 --> 00:00:50,000
+currently they're looking for businesses
+ 
+
+47
+00:00:50,000 --> 00:00:52,229
+currently they're looking for businesses
+who already use a subscription-based
+
+48
+00:00:52,229 --> 00:00:52,239
+who already use a subscription-based
+ 
+
+49
+00:00:52,239 --> 00:00:54,950
+who already use a subscription-based
+model or are wanting to implement one
+
+50
+00:00:54,950 --> 00:00:54,960
+model or are wanting to implement one
+ 
+
+51
+00:00:54,960 --> 00:00:57,110
+model or are wanting to implement one
+and who can battle test the model to pay
+
+52
+00:00:57,110 --> 00:00:57,120
+and who can battle test the model to pay
+ 
+
+53
+00:00:57,120 --> 00:00:59,270
+and who can battle test the model to pay
+for subscriptions by depositing from
+
+54
+00:00:59,270 --> 00:00:59,280
+for subscriptions by depositing from
+ 
+
+55
+00:00:59,280 --> 00:01:02,150
+for subscriptions by depositing from
+everscale ethereum polygon finance smart
+
+56
+00:01:02,150 --> 00:01:02,160
+everscale ethereum polygon finance smart
+ 
+
+57
+00:01:02,160 --> 00:01:04,469
+everscale ethereum polygon finance smart
+chain or even fear and of course manage
+
+58
+00:01:04,469 --> 00:01:04,479
+chain or even fear and of course manage
+ 
+
+59
+00:01:04,479 --> 00:01:05,830
+chain or even fear and of course manage
+their subscriptions using the
+
+60
+00:01:05,830 --> 00:01:05,840
+their subscriptions using the
+ 
+
+61
+00:01:05,840 --> 00:01:07,910
+their subscriptions using the
+custom-made telegram bot
+
+62
+00:01:07,910 --> 00:01:07,920
+custom-made telegram bot
+ 
+
+63
+00:01:07,920 --> 00:01:10,789
+custom-made telegram bot
+many users of everscale used to use and
+
+64
+00:01:10,789 --> 00:01:10,799
+many users of everscale used to use and
+ 
+
+65
+00:01:10,799 --> 00:01:13,429
+many users of everscale used to use and
+love everscale wallet the chrome browser
+
+66
+00:01:13,429 --> 00:01:13,439
+love everscale wallet the chrome browser
+ 
+
+67
+00:01:13,439 --> 00:01:15,830
+love everscale wallet the chrome browser
+extension however the name was a little
+
+68
+00:01:15,830 --> 00:01:15,840
+extension however the name was a little
+ 
+
+69
+00:01:15,840 --> 00:01:19,030
+extension however the name was a little
+bit confusing with so many others so to
+
+70
+00:01:19,030 --> 00:01:19,040
+bit confusing with so many others so to
+ 
+
+71
+00:01:19,040 --> 00:01:21,270
+bit confusing with so many others so to
+distinguish it we're happy to announce
+
+72
+00:01:21,270 --> 00:01:21,280
+distinguish it we're happy to announce
+ 
+
+73
+00:01:21,280 --> 00:01:24,310
+distinguish it we're happy to announce
+it's been renamed scale wallet the old
+
+74
+00:01:24,310 --> 00:01:24,320
+it's been renamed scale wallet the old
+ 
+
+75
+00:01:24,320 --> 00:01:27,109
+it's been renamed scale wallet the old
+domain for og users will remain active
+
+76
+00:01:27,109 --> 00:01:27,119
+domain for og users will remain active
+ 
+
+77
+00:01:27,119 --> 00:01:28,789
+domain for og users will remain active
+for a little while yet
+
+78
+00:01:28,789 --> 00:01:28,799
+for a little while yet
+ 
+
+79
+00:01:28,799 --> 00:01:31,350
+for a little while yet
+and also it's worth noting a scale
+
+80
+00:01:31,350 --> 00:01:31,360
+and also it's worth noting a scale
+ 
+
+81
+00:01:31,360 --> 00:01:34,550
+and also it's worth noting a scale
+wallet already supports the new tip 3.1
+
+82
+00:01:34,550 --> 00:01:34,560
+wallet already supports the new tip 3.1
+ 
+
+83
+00:01:34,560 --> 00:01:37,670
+wallet already supports the new tip 3.1
+tokens and ever wallet emulation cube
+
+84
+00:01:37,670 --> 00:01:37,680
+tokens and ever wallet emulation cube
+ 
+
+85
+00:01:37,680 --> 00:01:39,429
+tokens and ever wallet emulation cube
+token launched on the everstart
+
+86
+00:01:39,429 --> 00:01:39,439
+token launched on the everstart
+ 
+
+87
+00:01:39,439 --> 00:01:42,469
+token launched on the everstart
+launchpad to huge demand it was such a
+
+88
+00:01:42,469 --> 00:01:42,479
+launchpad to huge demand it was such a
+ 
+
+89
+00:01:42,479 --> 00:01:44,389
+launchpad to huge demand it was such a
+success that they exceeded their hard
+
+90
+00:01:44,389 --> 00:01:44,399
+success that they exceeded their hard
+ 
+
+91
+00:01:44,399 --> 00:01:46,710
+success that they exceeded their hard
+cap by nearly five times
+
+92
+00:01:46,710 --> 00:01:46,720
+cap by nearly five times
+ 
+
+93
+00:01:46,720 --> 00:01:50,789
+cap by nearly five times
+at 12.5 million ever instead of 2.45 the
+
+94
+00:01:50,789 --> 00:01:50,799
+at 12.5 million ever instead of 2.45 the
+ 
+
+95
+00:01:50,799 --> 00:01:52,469
+at 12.5 million ever instead of 2.45 the
+total amount gathered during the token
+
+96
+00:01:52,469 --> 00:01:52,479
+total amount gathered during the token
+ 
+
+97
+00:01:52,479 --> 00:01:54,950
+total amount gathered during the token
+cell was even burned the cube token is
+
+98
+00:01:54,950 --> 00:01:54,960
+cell was even burned the cube token is
+ 
+
+99
+00:01:54,960 --> 00:01:57,350
+cell was even burned the cube token is
+already available on flat cube decks and
+
+100
+00:01:57,350 --> 00:01:57,360
+already available on flat cube decks and
+ 
+
+101
+00:01:57,360 --> 00:01:59,190
+already available on flat cube decks and
+the farming rewards on the decks will be
+
+102
+00:01:59,190 --> 00:01:59,200
+the farming rewards on the decks will be
+ 
+
+103
+00:01:59,200 --> 00:02:01,830
+the farming rewards on the decks will be
+distributed in cube instead of ever from
+
+104
+00:02:01,830 --> 00:02:01,840
+distributed in cube instead of ever from
+ 
+
+105
+00:02:01,840 --> 00:02:04,550
+distributed in cube instead of ever from
+now on in our last episode we told you
+
+106
+00:02:04,550 --> 00:02:04,560
+now on in our last episode we told you
+ 
+
+107
+00:02:04,560 --> 00:02:07,429
+now on in our last episode we told you
+about w ever being available on ethereum
+
+108
+00:02:07,429 --> 00:02:07,439
+about w ever being available on ethereum
+ 
+
+109
+00:02:07,439 --> 00:02:09,669
+about w ever being available on ethereum
+and binance smart chain well first bit
+
+110
+00:02:09,669 --> 00:02:09,679
+and binance smart chain well first bit
+ 
+
+111
+00:02:09,679 --> 00:02:13,030
+and binance smart chain well first bit
+of good news the mexc exchange enables
+
+112
+00:02:13,030 --> 00:02:13,040
+of good news the mexc exchange enables
+ 
+
+113
+00:02:13,040 --> 00:02:16,790
+of good news the mexc exchange enables
+deposits and withdrawals of erc 20w ever
+
+114
+00:02:16,790 --> 00:02:16,800
+deposits and withdrawals of erc 20w ever
+ 
+
+115
+00:02:16,800 --> 00:02:19,670
+deposits and withdrawals of erc 20w ever
+now and number two ever can be bought
+
+116
+00:02:19,670 --> 00:02:19,680
+now and number two ever can be bought
+ 
+
+117
+00:02:19,680 --> 00:02:22,470
+now and number two ever can be bought
+and sold with fiat on changely
+
+118
+00:02:22,470 --> 00:02:22,480
+and sold with fiat on changely
+ 
+
+119
+00:02:22,480 --> 00:02:26,309
+and sold with fiat on changely
+more trading opportunities than ever hey
+
+120
+00:02:26,309 --> 00:02:26,319
+more trading opportunities than ever hey
+ 
+
+121
+00:02:26,319 --> 00:02:28,150
+more trading opportunities than ever hey
+also don't forget brock's has launched
+
+122
+00:02:28,150 --> 00:02:28,160
+also don't forget brock's has launched
+ 
+
+123
+00:02:28,160 --> 00:02:31,270
+also don't forget brock's has launched
+an airdrop of bridge and cube tokens for
+
+124
+00:02:31,270 --> 00:02:31,280
+an airdrop of bridge and cube tokens for
+ 
+
+125
+00:02:31,280 --> 00:02:33,509
+an airdrop of bridge and cube tokens for
+all participants who transferred their
+
+126
+00:02:33,509 --> 00:02:33,519
+all participants who transferred their
+ 
+
+127
+00:02:33,519 --> 00:02:35,750
+all participants who transferred their
+webers to ethereum and submitted their
+
+128
+00:02:35,750 --> 00:02:35,760
+webers to ethereum and submitted their
+ 
+
+129
+00:02:35,760 --> 00:02:37,110
+webers to ethereum and submitted their
+applications
+
+130
+00:02:37,110 --> 00:02:37,120
+applications
+ 
+
+131
+00:02:37,120 --> 00:02:39,110
+applications
+the broxas team is working around the
+
+132
+00:02:39,110 --> 00:02:39,120
+the broxas team is working around the
+ 
+
+133
+00:02:39,120 --> 00:02:41,270
+the broxas team is working around the
+clock and right now they're developing
+
+134
+00:02:41,270 --> 00:02:41,280
+clock and right now they're developing
+ 
+
+135
+00:02:41,280 --> 00:02:43,990
+clock and right now they're developing
+the universal bridge mechanism for octus
+
+136
+00:02:43,990 --> 00:02:44,000
+the universal bridge mechanism for octus
+ 
+
+137
+00:02:44,000 --> 00:02:46,710
+the universal bridge mechanism for octus
+bridge letting users send liquidity from
+
+138
+00:02:46,710 --> 00:02:46,720
+bridge letting users send liquidity from
+ 
+
+139
+00:02:46,720 --> 00:02:48,949
+bridge letting users send liquidity from
+any connected blockchain to another
+
+140
+00:02:48,949 --> 00:02:48,959
+any connected blockchain to another
+ 
+
+141
+00:02:48,959 --> 00:02:51,910
+any connected blockchain to another
+without any need to add tokens manually
+
+142
+00:02:51,910 --> 00:02:51,920
+without any need to add tokens manually
+ 
+
+143
+00:02:51,920 --> 00:02:54,390
+without any need to add tokens manually
+if you're a blogger or an influencer you
+
+144
+00:02:54,390 --> 00:02:54,400
+if you're a blogger or an influencer you
+ 
+
+145
+00:02:54,400 --> 00:02:57,589
+if you're a blogger or an influencer you
+can participate in the 100 000 bounty
+
+146
+00:02:57,589 --> 00:02:57,599
+can participate in the 100 000 bounty
+ 
+
+147
+00:02:57,599 --> 00:03:00,949
+can participate in the 100 000 bounty
+program by broxis just make a review of
+
+148
+00:03:00,949 --> 00:03:00,959
+program by broxis just make a review of
+ 
+
+149
+00:03:00,959 --> 00:03:02,869
+program by broxis just make a review of
+the universal bridge on video and
+
+150
+00:03:02,869 --> 00:03:02,879
+the universal bridge on video and
+ 
+
+151
+00:03:02,879 --> 00:03:04,869
+the universal bridge on video and
+publish it to your youtube channel the
+
+152
+00:03:04,869 --> 00:03:04,879
+publish it to your youtube channel the
+ 
+
+153
+00:03:04,879 --> 00:03:06,630
+publish it to your youtube channel the
+rewards will then be distributed in
+
+154
+00:03:06,630 --> 00:03:06,640
+rewards will then be distributed in
+ 
+
+155
+00:03:06,640 --> 00:03:09,270
+rewards will then be distributed in
+bridge tokens to 100 bloggers after
+
+156
+00:03:09,270 --> 00:03:09,280
+bridge tokens to 100 bloggers after
+ 
+
+157
+00:03:09,280 --> 00:03:11,910
+bridge tokens to 100 bloggers after
+thorough evaluation of course taking all
+
+158
+00:03:11,910 --> 00:03:11,920
+thorough evaluation of course taking all
+ 
+
+159
+00:03:11,920 --> 00:03:13,830
+thorough evaluation of course taking all
+these announcements into account no
+
+160
+00:03:13,830 --> 00:03:13,840
+these announcements into account no
+ 
+
+161
+00:03:13,840 --> 00:03:16,630
+these announcements into account no
+wonder our tvl is growing fast we're
+
+162
+00:03:16,630 --> 00:03:16,640
+wonder our tvl is growing fast we're
+ 
+
+163
+00:03:16,640 --> 00:03:18,550
+wonder our tvl is growing fast we're
+ranked number two on defile armor
+
+164
+00:03:18,550 --> 00:03:18,560
+ranked number two on defile armor
+ 
+
+165
+00:03:18,560 --> 00:03:20,550
+ranked number two on defile armor
+amongst the fastest growing blockchains
+
+166
+00:03:20,550 --> 00:03:20,560
+amongst the fastest growing blockchains
+ 
+
+167
+00:03:20,560 --> 00:03:24,070
+amongst the fastest growing blockchains
+thanks to cube listing and wever updates
+
+168
+00:03:24,070 --> 00:03:24,080
+thanks to cube listing and wever updates
+ 
+
+169
+00:03:24,080 --> 00:03:26,550
+thanks to cube listing and wever updates
+and lastly don't forget to vote on gov
+
+170
+00:03:26,550 --> 00:03:26,560
+and lastly don't forget to vote on gov
+ 
+
+171
+00:03:26,560 --> 00:03:29,750
+and lastly don't forget to vote on gov
+2.0 proposals on everdao they include
+
+172
+00:03:29,750 --> 00:03:29,760
+2.0 proposals on everdao they include
+ 
+
+173
+00:03:29,760 --> 00:03:32,229
+2.0 proposals on everdao they include
+many important votes on partnerships and
+
+174
+00:03:32,229 --> 00:03:32,239
+many important votes on partnerships and
+ 
+
+175
+00:03:32,239 --> 00:03:34,630
+many important votes on partnerships and
+ecosystem mechanics to encourage
+
+176
+00:03:34,630 --> 00:03:34,640
+ecosystem mechanics to encourage
+ 
+
+177
+00:03:34,640 --> 00:03:36,869
+ecosystem mechanics to encourage
+participants all voters for the latest
+
+178
+00:03:36,869 --> 00:03:36,879
+participants all voters for the latest
+ 
+
+179
+00:03:36,879 --> 00:03:39,430
+participants all voters for the latest
+proposal received a cube air dropped
+
+180
+00:03:39,430 --> 00:03:39,440
+proposal received a cube air dropped
+ 
+
+181
+00:03:39,440 --> 00:03:41,750
+proposal received a cube air dropped
+continue to vote to earn more tokens
+
+182
+00:03:41,750 --> 00:03:41,760
+continue to vote to earn more tokens
+ 
+
+183
+00:03:41,760 --> 00:03:43,990
+continue to vote to earn more tokens
+that's all for now folks stay safe and
+
+184
+00:03:43,990 --> 00:03:44,000
+that's all for now folks stay safe and
+ 
+
+185
+00:03:44,000 --> 00:03:45,990
+that's all for now folks stay safe and
+look after one another and don't forget
+
+186
+00:03:45,990 --> 00:03:46,000
+look after one another and don't forget
+ 
+
+187
+00:03:46,000 --> 00:03:47,589
+look after one another and don't forget
+to subscribe and leave a like here to
+
+188
+00:03:47,589 --> 00:03:47,599
+to subscribe and leave a like here to
+ 
+
+189
+00:03:47,599 --> 00:03:49,509
+to subscribe and leave a like here to
+help our channel growing you know help
+
+190
+00:03:49,509 --> 00:03:49,519
+help our channel growing you know help
+ 
+
+191
+00:03:49,519 --> 00:03:51,509
+help our channel growing you know help
+us grow bigger than ever see you next
+
+192
+00:03:51,509 --> 00:03:51,519
+us grow bigger than ever see you next
+ 
+
+193
+00:03:51,519 --> 00:03:53,920
+us grow bigger than ever see you next
+time
+

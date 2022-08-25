@@ -1,0 +1,425 @@
+1
+00:00:00,320 --> 00:00:05,030
+
+the sm ft protocol and security
+
+2
+00:00:05,030 --> 00:00:05,040
+the sm ft protocol and security
+ 
+
+3
+00:00:05,040 --> 00:00:07,030
+the sm ft protocol and security
+the soft majority fault tolerance
+
+4
+00:00:07,030 --> 00:00:07,040
+the soft majority fault tolerance
+ 
+
+5
+00:00:07,040 --> 00:00:09,509
+the soft majority fault tolerance
+protocol is the core of the everscale
+
+6
+00:00:09,509 --> 00:00:09,519
+protocol is the core of the everscale
+ 
+
+7
+00:00:09,519 --> 00:00:11,669
+protocol is the core of the everscale
+network it's a variant of the
+
+8
+00:00:11,669 --> 00:00:11,679
+network it's a variant of the
+ 
+
+9
+00:00:11,679 --> 00:00:14,150
+network it's a variant of the
+proof-of-stake consensus model with
+
+10
+00:00:14,150 --> 00:00:14,160
+proof-of-stake consensus model with
+ 
+
+11
+00:00:14,160 --> 00:00:17,670
+proof-of-stake consensus model with
+major tweaks everscale has both sharding
+
+12
+00:00:17,670 --> 00:00:17,680
+major tweaks everscale has both sharding
+ 
+
+13
+00:00:17,680 --> 00:00:20,150
+major tweaks everscale has both sharding
+and multi-threading meaning all
+
+14
+00:00:20,150 --> 00:00:20,160
+and multi-threading meaning all
+ 
+
+15
+00:00:20,160 --> 00:00:23,509
+and multi-threading meaning all
+validator nodes are divided into groups
+
+16
+00:00:23,509 --> 00:00:23,519
+validator nodes are divided into groups
+ 
+
+17
+00:00:23,519 --> 00:00:25,670
+validator nodes are divided into groups
+the smaller the groups are the bigger
+
+18
+00:00:25,670 --> 00:00:25,680
+the smaller the groups are the bigger
+ 
+
+19
+00:00:25,680 --> 00:00:27,990
+the smaller the groups are the bigger
+the risk of validators colluding and
+
+20
+00:00:27,990 --> 00:00:28,000
+the risk of validators colluding and
+ 
+
+21
+00:00:28,000 --> 00:00:30,790
+the risk of validators colluding and
+sending false blocks but not with the
+
+22
+00:00:30,790 --> 00:00:30,800
+sending false blocks but not with the
+ 
+
+23
+00:00:30,800 --> 00:00:32,870
+sending false blocks but not with the
+smft protocol
+
+24
+00:00:32,870 --> 00:00:32,880
+smft protocol
+ 
+
+25
+00:00:32,880 --> 00:00:36,389
+smft protocol
+the smft protocol requires every block
+
+26
+00:00:36,389 --> 00:00:36,399
+the smft protocol requires every block
+ 
+
+27
+00:00:36,399 --> 00:00:39,270
+the smft protocol requires every block
+sent to the network to be verified
+
+28
+00:00:39,270 --> 00:00:39,280
+sent to the network to be verified
+ 
+
+29
+00:00:39,280 --> 00:00:42,389
+sent to the network to be verified
+first a thread collater i.e the
+
+30
+00:00:42,389 --> 00:00:42,399
+first a thread collater i.e the
+ 
+
+31
+00:00:42,399 --> 00:00:44,790
+first a thread collater i.e the
+validator proposing a new block
+
+32
+00:00:44,790 --> 00:00:44,800
+validator proposing a new block
+ 
+
+33
+00:00:44,800 --> 00:00:48,069
+validator proposing a new block
+sends it to all nodes of the work chain
+
+34
+00:00:48,069 --> 00:00:48,079
+sends it to all nodes of the work chain
+ 
+
+35
+00:00:48,079 --> 00:00:51,110
+sends it to all nodes of the work chain
+then some nodes of the work chain called
+
+36
+00:00:51,110 --> 00:00:51,120
+then some nodes of the work chain called
+ 
+
+37
+00:00:51,120 --> 00:00:53,270
+then some nodes of the work chain called
+broadcast protectors
+
+38
+00:00:53,270 --> 00:00:53,280
+broadcast protectors
+ 
+
+39
+00:00:53,280 --> 00:00:55,750
+broadcast protectors
+ensure that the block has been sent to
+
+40
+00:00:55,750 --> 00:00:55,760
+ensure that the block has been sent to
+ 
+
+41
+00:00:55,760 --> 00:00:59,189
+ensure that the block has been sent to
+51 of validators and send this
+
+42
+00:00:59,189 --> 00:00:59,199
+51 of validators and send this
+ 
+
+43
+00:00:59,199 --> 00:01:01,430
+51 of validators and send this
+information to the master chain the
+
+44
+00:01:01,430 --> 00:01:01,440
+information to the master chain the
+ 
+
+45
+00:01:01,440 --> 00:01:03,990
+information to the master chain the
+validators then randomly choose a number
+
+46
+00:01:03,990 --> 00:01:04,000
+validators then randomly choose a number
+ 
+
+47
+00:01:04,000 --> 00:01:07,030
+validators then randomly choose a number
+of verifiers which have to verify that
+
+48
+00:01:07,030 --> 00:01:07,040
+of verifiers which have to verify that
+ 
+
+49
+00:01:07,040 --> 00:01:09,750
+of verifiers which have to verify that
+the block is correct and then also
+
+50
+00:01:09,750 --> 00:01:09,760
+the block is correct and then also
+ 
+
+51
+00:01:09,760 --> 00:01:12,789
+the block is correct and then also
+submit the proof up to the master chain
+
+52
+00:01:12,789 --> 00:01:12,799
+submit the proof up to the master chain
+ 
+
+53
+00:01:12,799 --> 00:01:15,030
+submit the proof up to the master chain
+the chance of slipping through this kind
+
+54
+00:01:15,030 --> 00:01:15,040
+the chance of slipping through this kind
+ 
+
+55
+00:01:15,040 --> 00:01:18,070
+the chance of slipping through this kind
+of multi-level check is minimal all
+
+56
+00:01:18,070 --> 00:01:18,080
+of multi-level check is minimal all
+ 
+
+57
+00:01:18,080 --> 00:01:20,710
+of multi-level check is minimal all
+validators trying to ship a false block
+
+58
+00:01:20,710 --> 00:01:20,720
+validators trying to ship a false block
+ 
+
+59
+00:01:20,720 --> 00:01:23,270
+validators trying to ship a false block
+or those who don't report this behavior
+
+60
+00:01:23,270 --> 00:01:23,280
+or those who don't report this behavior
+ 
+
+61
+00:01:23,280 --> 00:01:25,910
+or those who don't report this behavior
+will be heavily punished by having their
+
+62
+00:01:25,910 --> 00:01:25,920
+will be heavily punished by having their
+ 
+
+63
+00:01:25,920 --> 00:01:28,230
+will be heavily punished by having their
+stake slashed
+
+64
+00:01:28,230 --> 00:01:28,240
+stake slashed
+ 
+
+65
+00:01:28,240 --> 00:01:30,469
+stake slashed
+the probability of an attack being
+
+66
+00:01:30,469 --> 00:01:30,479
+the probability of an attack being
+ 
+
+67
+00:01:30,479 --> 00:01:33,030
+the probability of an attack being
+successfully performed requires the
+
+68
+00:01:33,030 --> 00:01:33,040
+successfully performed requires the
+ 
+
+69
+00:01:33,040 --> 00:01:35,590
+successfully performed requires the
+majority of nodes to be malicious
+
+70
+00:01:35,590 --> 00:01:35,600
+majority of nodes to be malicious
+ 
+
+71
+00:01:35,600 --> 00:01:37,670
+majority of nodes to be malicious
+because it's impossible to calculate
+
+72
+00:01:37,670 --> 00:01:37,680
+because it's impossible to calculate
+ 
+
+73
+00:01:37,680 --> 00:01:40,630
+because it's impossible to calculate
+which node is going to become a verifier
+
+74
+00:01:40,630 --> 00:01:40,640
+which node is going to become a verifier
+ 
+
+75
+00:01:40,640 --> 00:01:43,270
+which node is going to become a verifier
+the best strategy for all validators who
+
+76
+00:01:43,270 --> 00:01:43,280
+the best strategy for all validators who
+ 
+
+77
+00:01:43,280 --> 00:01:45,510
+the best strategy for all validators who
+want to keep their stake intact is
+
+78
+00:01:45,510 --> 00:01:45,520
+want to keep their stake intact is
+ 
+
+79
+00:01:45,520 --> 00:01:49,910
+want to keep their stake intact is
+therefore to be honest the smft protocol
+
+80
+00:01:49,910 --> 00:01:49,920
+therefore to be honest the smft protocol
+ 
+
+81
+00:01:49,920 --> 00:01:53,350
+therefore to be honest the smft protocol
+thus makes everscale comparable only to
+
+82
+00:01:53,350 --> 00:01:53,360
+thus makes everscale comparable only to
+ 
+
+83
+00:01:53,360 --> 00:01:54,389
+thus makes everscale comparable only to
+bitcoin
+
+84
+00:01:54,389 --> 00:01:54,399
+bitcoin
+ 
+
+85
+00:01:54,399 --> 00:01:58,119
+bitcoin
+in terms of security
+

@@ -1,0 +1,796 @@
+put recording on
+yeah so once again there is a
+free condex implementation stage 2
+contest that is ending
+tomorrow so and there is still no
+submissions uh which is surprising for
+me
+uh so i kind of yes yes please
+we're kind of participating there is
+some noise
+so with your signal
+um i'm saying we couldn't participate
+because we didn't have time to
+participate in that contest
+unfortunately okay that's a pity
+and and as for all others i see sway dev
+team here so will you publish your
+submission guys
+yeah as usual last moment okay
+okay just please don't wait until the
+very last moment so i don't think that
+it really will create some advantage to
+other participants but
+uh you may miss your moment uh okay
+friday time is the best time to work
+with the submission
+yeah yeah i remember before i delete
+this we all know what is this
+oh sorry i thought it's uh it's uh it's
+a stable coin
+i don't know maybe yeah yeah okay yeah
+we will submit something yeah
+what time is it ending tomorrow uh i
+don't see online live let me check on
+the easy votes
+um it's 12 o'clock utc so it's like 3
+a.m saturday
+oh okay full day tomorrow okay
+yeah but we have it we have it written
+that just
+need to yeah make a submission okay fine
+thanks maybe maybe we can
+yeah please do please do because the
+more we have the better
+and uh by the way uh those of you who
+visited the cross chain meet up in
+moscow
+so maybe hearing that
+for example cosmos and tender means so
+they have
+not released their decks yet so actually
+so
+the speed at which we are moving so it's
+fascinating they
+we already did the bigger progress and
+the whole project
+for four years of course they have some
+their own peculiarities of their
+architecture and so on so forth but
+still uh we have at least ten decks
+that's operational now
+which is fascinating uh okay let's let's
+move on for
+for contests uh we launched the uh
+london and borrowing se
+uh so which is aimed to
+better understand of possible and
+impossible mechanics
+on london and borrowing and comparison
+to those
+existing protocols on ethereum
+so what is the difference what can be
+imported
+what can be reused what cannot and why
+so uh
+if you feel yourself capable so please
+participate and
+the more ideas we collect the better
+will be the
+specification of the implementation
+contest
+uh next uh the free terms of sovereign
+identity framework stage one
+uh is ending in five days so uh there is
+also no submissions yet um
+uh vladimir kanin maybe you have
+uh some updates if there are any teams
+who will be participating
+yes i certainly know that the two or
+three teams will participate
+as far as i helped
+one of them and two or three two or
+three i know hope three
+which i know and probably we spread some
+information in the ssi community
+they strongly believe that one and two
+submissions more which i don't know yet
+but they will do okay
+yeah all of them asking what's the best
+strategy to
+to to apply that for the last minutes or
+not so i say
+it's much better to apply a few days
+prior or a few hours pray or at least
+not the last yeah just in case if they
+uh
+right difficulties so you can just
+forward them to me it will help
+so no problems and also i
+kindly ask you to discuss with them uh
+the ama session so because ssi is
+something
+quite new to us and it would be great if
+they can
+present their works uh especially there
+are not so many works expected
+so probably it will be good do you mean
+priority ending or
+during the submission no no no no no
+after after the submission period
+is ended of course of course uh so
+and to facilitate jurors work so we will
+invite them to to present their wounds
+yeah next uh there were two more active
+contests which uh oracle contest and
+testaton
+contest they there is still enough time
+uh
+21 days and 46 days accordingly
+so nothing to say here so there's still
+a bunch of time
+uh okay so let's move to the next topic
+of today's agenda
+uh there is actually two updates
+from from our site uh from the brock's
+site first of all and from freeton defy
+line site
+so the first one is about the ethereum
+bridge uh
+we are approaching actually the
+implementation of a dell model
+and uh it will use the native
+bridge governance token and so it's
+named bridge
+for simplicity uh yeah and uh
+just i will briefly explain uh how it
+works and
+sergey will uh dive a bit deeper into
+the
+uh economic part so actually uh
+we analyzed uh all the popular dao
+models that are currently being used in
+uh
+especially in fritz on uh sorry in
+ethereum
+network and we try
+to take the best parts of it
+so actually what is bridge talking uh
+about you will need this
+of course if you want to become a relay
+a relay
+if you remember it's a special note that
+checks and transfers the value uh
+from one network to another so there can
+be
+at maximum 100 relays in one epoch
+and they are competing with each other
+at the
+elect a kind uh auction so uh
+with the stakes so those
+100 with the highest stakes will be
+elected for the next
+epoch and epochs they last for one week
+to facilitate this uh there will be a
+separate interface
+for staking that can be used not only by
+relay
+nodes of course but also
+by regular talking owners and
+these tokens can be staked there and
+those tokens that will be staked there
+and only those
+will be eligible for dividends
+participation
+uh the liquidity that is uh controlled
+by the breach
+will be used as we explained a bit
+earlier
+in the low risk protocols
+like other like compounds and on
+freetown site
+we're also thinking about something
+similar and
+as we expect on a monthly basis the
+earned dividends from these protocols
+will be withdrawn
+and distributed between the bridge token
+holders that stake them in the special
+interface
+the difference of the relayer and the
+regular
+bridge token holder uh will be that
+for relayer he should
+lock his take for a period of at least
+one month this is
+needed for protection from the
+bad guys and in case somebody layer
+starts behaving in a
+bad manner so he will be slashed and his
+stake will be
+also redistributed among other bridge
+talking holders
+uh we will also create
+at least two pairs one with a
+double tone and another one with double
+btc
+at tons for payon especially this is
+needed for those who would like to
+purchase this token either for
+participating in in the relay network or
+in just for staking purposes
+uh as for the dividends part uh
+so fifty percent of it will be
+redistributed
+among relayers proportionally to the
+stake and 50
+will be uh distributed among all token
+holders
+bridge token holders uh so this is
+uh a good reason to be a relay actually
+yeah and
+that's that's where we expect a good
+competition
+and also that's why we believe that
+the token uh price will be organically
+pushed up
+and this is a good economic economic
+tool
+so again i will i will give you the word
+in a while uh another announcement is
+that
+uh we are very very close to agreement
+with two big protocols
+from ethereum network uh
+i think we will announce them quite soon
+so they will appear of course in the
+bridge and
+the tokens can be easily ported through
+the bridge from ethereum network
+and also they will help us with lots of
+announcements and
+attracting the the audience
+uh yeah so now now sergey is your turn
+please yeah yeah uh so say about
+about bridge how it will be work uh
+during
+near to one month uh it will be on the
+deep five token
+yes and uh yes and we will launch
+farming program
+with uh bridge token and uh vietnam
+double farming
+and when we will finish audit
+our dow contracts uh we will move to
+full dao with relays
+we got new eight relays
+it's uh different funds who bought
+talking on our private round
+and also good use for community
+we will create some tokens to airdrop
+between users who was earlier
+testers in bridge and users
+who work in dex
+and i think i will launch
+uh first liquidity liquidity pool today
+uh bridge and baton
+and without any farming it's only sunny
+for fun
+yeah and then
+we'll finish how do we did and we will
+launch bridge like
+now with eight independent relays
+i think it will be a big
+stone in uh in the fire in phoenix
+system
+uh because i explained bridge model to
+a lot of different people fans
+and defy gamers and uh
+it's like i would say um
+your finance placer and btc in one model
+and it's uh it's fresh
+and and uh a lot of and i think we will
+attract
+more than 100 million rapidity up to
+september
+and uh end of eighth i would like a
+system
+will will be visible on
+the fire landscape
+thank you sergey yeah and uh
+what's what's important is that
+we do not plan actually to launch the
+dow as sergey said before the security
+audit is over and uh we already
+mentioned that
+there was the first uh round of security
+audits that
+uh inspected our current source code and
+you may have seen some updates coming
+uh around the bridge when we upgraded
+the bridge to the second version
+uh so we fixed some some bugs that were
+found by auditors
+and uh hopefully after the second uh
+second round we'll
+take much less time because
+guys already familiar with our source
+code and
+it will be easier for them to to inspect
+it
+yeah and uh also that's why uh we
+decided
+to combine the third and the fourth
+stage of the bridge implementation into
+one
+so uh i think i will push to the draft
+of the contest
+uh either today or tomorrow uh because
+we actually decided
+not to uh split
+it into two to two stages uh
+of the distribution of relay
+responsibilities and
+uh economics and slashing and rewards
+but rather combine it into one
+and make the bridge operational faster
+uh yeah i think that's pretty easy
+about the bridge again maybe if you have
+something else that
+soon soon so yeah yeah yeah we will uh
+we prepared a big pr company uh with a
+lot of announcements with partnership
+different protocols
+with bridge launch tokens
+and some interview and
+it will be public okay alex please
+hi guys sergey hi um can you
+explain a little bit more i didn't
+understand about
+eight relay notes it will be
+you go to um production when
+will be eighth notes then no no no about
+about it
+notes you have already
+no no no no it's it's a it's it's
+different topic uh
+if you want to become uh relay notes uh
+you need to put 100 000
+bridge tokens
+yes on stake uh in in private sale one
+token
+was two dollars and it's uh two hundred
+thousand dollars
+and eight different funds bought tokens
+and uh they will be in just relay
+they participate in this round and you
+have yes
+yes yes yes yes some private
+uh company person
+[Music]
+private uh some some company from the
+file yarns
+and some private funds one fund
+one fund from from china one from from
+switzerland
+and uh it's it's it's it's a big story
+yeah
+it's interesting i understand thank you
+yes
+yeah and actually so uh we will put
+uh sergey said some uh bridge tokens in
+the
+the free circulation uh of course so
+that uh
+anyone willing could purchase it
+and also we will uh run an airdrop
+among those users who helped us in
+testing
+in uh experiencing the first versions of
+our products and
+indicating at some difficulties at
+errors
+and trusting us with the liquidity and
+yes and also we will uh put somewhere
+drop in
+the vice of governance members and defy
+jury
+and in defy aliens
+yeah and uh also i i want to uh
+add that sergey just maybe said this
+slightly but actually our farming
+contract
+is currently being upgraded so that it
+can now support
+the multi-currency farming meaning that
+if you
+put your lp tokens to the farm
+uh you actually get rewarded not in one
+currency like double tone but rather
+in several ones and we will direct
+uh some portion of this bridge tokens
+also to our farming programs
+and uh people who are staking their
+liquidity so
+they will also get some of these tokens
+um one more question about airdrop or
+something else for jewelry
+etc
+[Music]
+how better to use these tokens it will
+be some depools
+or it's more about no it's not it's uh
+to model i will i will launch trading
+today it
+uh of course our airdrop will be not not
+today
+i think i think as the big liquidity
+pulls we will stop on next week
+and uh it will be possible to buy bridge
+talking or to sell british talking
+all you can join with uh
+another people from the face of
+governance or another people who will
+get their job
+and it will be possible to launch
+some relay notes if you will be able to
+join
+uh like the pool you mean
+yes that's maybe like like
+like the pool we do not actually have um
+the pool kind of staking when several
+people can participate to fund
+the relay note yet maybe we'll think
+about this in future
+but if you have some good relationships
+with people who you trust
+so you can just combine your tokens to
+run
+the software and maybe multi-sig
+wallet like yes yes yes why not why not
+by the way
+uh it's a good solution if you have
+multi-sick wallets controlled by several
+people
+so uh you can put your tokens just in
+one
+place and use them to to run the relay
+mode and this is exactly what we were
+saying about
+[Music]
+i think couple of months ago there was a
+lot of questions
+so how people uh could become these
+relay nodes and at that moment of time
+uh we didn't have the clear picture
+because we were in the
+very deep market research so when trying
+to
+understand how the mechanics and
+economics will look like
+and now we found this solution and we
+checked it with
+some some market leaders so if they
+are interested in this and
+i think this will be some novelty to the
+market and that will
+attract attention to the whole free tone
+okay uh very good uh
+any other questions guys please
+how do you gonna promote it over the
+market
+it's a game please i think it's your
+turn
+yes i i closed private private round so
+it's
+uh and
+and it was totally oversell because
+i have more for more funds that we have
+slots in relays
+about about about promotion
+our pr manager in brooks australia she
+will prepare
+some describe and document and
+she will spread it in community and
+of course it will create some
+publication and uh
+any member from our community who want
+to help uh
+can join us in this yes of course and we
+also have some already some questions
+from from journalists
+asking for some questions but i think
+that we will
+officially announce about this uh later
+this week
+after the first round is formally closed
+and yeah after that we will
+see a great greater flow of newcomers to
+the free time
+yeah thank you
+by the way speaking about the contest
+guys uh if you are a jury
+in defy so you are eligible to judge
+also the
+browser extension contest in the main
+governance
+so uh i already pinged you in the
+morning
+but just to remind you again that please
+go and vote there is only one day left
+and there are a whole bunch of good
+solutions i i really enjoyed that
+this contest it overcame my expectations
+and we've got
+a lot of good working products good
+extensions
+and this is in principle uh very good
+for
+the whole ecosystem so please go and
+cast your votes to those who you think
+deserve it
+yeah there is a 21 submissions third of
+its the
+the some mistakes or
+copycat or even even duplicated
+each other but never mind the half of
+it's very interesting and i'm
+already in the middle of the process of
+it
+very good very good please because i
+really liked it
+i could not vote because brock's team
+also participated with its solution
+but i really can mention that there are
+some
+very decent solutions so that have the
+uh a good implementation and deserves a
+place in the market absolutely
+by the way by the way isn't it most
+active the contest in the freezer i mean
+the contest with the development of the
+code or something probably you
+glad or probably media no isn't it the
+most active
+or in 21 submissions
+not sure not sure because uh there were
+quite a number of developer contests and
+uh if we remember the uh
+buildings to town sdk uh i think
+it was a bigger number actually
+but they were written different
+languages of course um
+and maybe there were some good contests
+for devops
+engineers so uh but but yes this one
+is very good and fresh so i really
+enjoyed it
+anyway anyway it's one of the most
+active
+hands if it's about the chrome extension
+i mean the browser extension
+so it's about the end user solution
+absolutely yeah
+it's one of the uh i would say
+one more proof that we need end user
+oriented solutions right
+not the terminal the command line
+solution yeah
+of course the more interfaces are better
+because people
+but actually uh i i am thinking about
+having some good website
+where you can find all of this solution
+because right now uh
+all of them are quite uh
+quite unknown to a wider user because
+the
+there is no one website where you can
+find all of them
+uh oh no let me comment it's actually
+free tom or
+it should be a catalogue and it should
+be pavel it should be
+of course it is almost there so
+and by the way you know we uh
+roma ron they made a couple of times
+request for cards because in order to be
+placed in cataloging you to
+create your card with wording explaining
+what what the solution is about
+with a link to your website or whatever
+you want
+and they got only a few uh replies so
+okay you know i've never seen i've never
+seen this by the way
+can they kill me please yeah yeah we
+will we'll do it
+one more or not so the idea is that uh
+i i literally go to different teams and
+say guys prepare your card
+for the catalog so you you will be on on
+the
+my website and the link on your side so
+absolutely absolutely
+i want to do this just ask them to to
+contact me and yeah they don't provide
+by the way
+because we've never known about this by
+the way
+there's some some issue in the
+information flow i think
+okay we'll talk with roma today again
+yes please repeat
+uh okay okay very good and by the way um
+i triggered one interesting discussion
+uh i
+i took personal responsibility for this
+it's about
+the payment link standards uh actually
+i think that our ecosystem is uh
+well grown enough to discuss such
+questions
+and uh as there are uh already more than
+a dozen
+of uh wallet solutions in the market
+supporting freetown
+um i prepared a draft of of the standard
+it is very similar to vip 20 and 21
+and it it's focused uh only on
+payment purpose as the most frequent one
+and
+it's very very close and similar to the
+bitcoin payment links and ethereum
+payment links but
+uh taking uh the account some free ton
+uh possibilities we already had some
+discussions with
+with some people from community but if
+you didn't have a chance to have a look
+on it
+and uh either say that it's good so
+maybe provide some comments
+uh so plea please it's a tip five it's
+on the forum for it on the torque so uh
+just have a look and if you have some
+solutions that rely on
+[Music]
+on the transferring tones i think it
+will be
+very good for all of us to support one
+standard
+be universal um
+yeah a minute of self-promotion ended
+thank you
+uh yeah that's pretty from my site for
+today so if you
+have some some additional topics to
+discuss so just raise your hand
+i just launched uh
+pool very good
+bridge tokens and with and
+so now it's possible oh call community
+to start
+brilliant let's go
+yeah yes yes please
+have a little question just another
+historical contest
+basically uh i i i think
+it should be addressed to meet you but
+maybe someone else
+can answer so uh
+did if if looking to cut the specs
+through a few formulas and
+in this formulas there are parameters uh
+like we need to kind of participants
+need to define
+by themselves or experiment with it and
+this this variables include for example
+the
+the word for the oracle
+uh the like basic reward they also the
+feed like price feed ram
+which is kind of an obvious and as well
+as
+several else like for example magic
+constant a
+which is like a uh maybe a speed of
+of growing reputation for oracle but but
+whatever
+uh maybe some someone uh
+already like uh uh
+get get some kind of uh um
+kind of good values for that to to make
+to make uh
+first experiments because like uh
+maybe someone can share how
+how to evaluate them
+it's a place here
+um sorry i didn't get the question i
+didn't think it was for me
+yeah i i'm asking about oracle
+kind of contest it's based on another on
+paper and yes
+there are some constant variables like
+hard to kind of determine
+and to make like experiments with
+current
+kind of smart contracts which i want to
+like test
+against the real price feeds uh i
+just just asking for maybe you know some
+kind of
+good values for start for example
+a reward time frame
+for example how fast should the elector
+run
+the coming trivial phase for example
+no i i don't because it's need to be
+like tested and uh
+so it's up to the you know
+up to the implementer okay so it's
+inside the contest okay right
+yeah like we didn't we didn't run the
+test
+simulation on that so you know
+try
+okay any other questions guys please
+yeah it's also quite unclear where
+should we
+like get where should how how
+the knots are minted because like
+it's not in a paper uh i suppose or
+maybe i
+read it bad leave but like
+oracle's receives reward in knots but
+how
+uh how kind of they
+why not just english just a smart
+contract
+and uh there is a reserve
+which which you trade against in the in
+the
+like there is an auction right or where
+it means the tokens in the auction
+so um somewhere there
+is it is it an auction for what like i'm
+i'm supplying the price fit and
+now i need to kind of buy for that price
+of what
+um it's in the paper fine okay
+i need to just just thought through
+because like i stopped on the auction
+what auction like
+i'm not trading i'm just like supply
+there isn't there is an auction that
+determines the
+final price of the of the knot
+of it not to turn conversion and so
+like you participate in this auction to
+to if you want to get
+like the tokens so that's where the
+final price is determined
+but the details are in the paper
+you can read it yeah they got it they
+reach
+they reach balanced price based on
+previous medium price like okay
+yeah i i got it maybe maybe
+maybe i got it okay thank you
+very good
+something else guys please
+okay seems now uh by the way uh
+tonight uh at 7 p.m moscow time we will
+be distributing the reward for the
+police dot stage 3 contest
+and this is just a kind reminder for
+those who are custodians just please
+be online to sign the transaction
+so uh that's pretty from our site so and
+traditional three two
+one no questions okay guys thank you so
+much for attending for today uh
+let's talk again as usual you know in
+one week
+so and have a nice weekend
+bye bye thank you bye

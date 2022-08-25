@@ -1,0 +1,431 @@
+all right so there is a defy
+contest which just finished on sunday
+which is a decentralized exchange
+contest
+now we took part in that and the
+solution that we are going to show now
+is a part of this contest now we don't
+want
+this to anyhow put us in any advantages
+position
+with respect to other contest
+participants
+so i want just to mention to the jury of
+this contest that you should not take
+this demo as any kind of
+advantage you should give all the other
+contests participants
+the same chance to explain to you what
+their solution
+is and what the benefits there might be
+i
+went through the solutions very briefly
+there are six of them
+so five uh on top of tonlap solution and
+i didn't find any solution that would be
+similar in terms of architecture so if i
+would
+i would not present today but since i
+didn't then
+i'm taking this freedom to present this
+solution that's all the disclaimers i
+wanted to make
+let me start the demo
+okay we'll start from my part and then
+nikita will present
+another part and then i will explain a
+little bit about
+why this is cool
+so this is a serve which supports the
+bots
+and i have a little debot here
+which is called flex debot flex devote
+is the bot of flesh exchange
+that we have created and there are some
+tip three tokens that i have listed here
+in this debot and let me trade with some
+of them
+so i choose snack and i see here
+order book of this token so i can see
+who is
+buying selling and what price they're
+doing that
+all of that i think it's pretty familiar
+to anyone who have ever used in exchange
+let me buy some tip three tokens so let
+me buy this
+i like that so 40 tokens on zero one
+price
+let's buy 20 of them
+and yeah it says me that it will take
+some money
+and it would return some back from my
+wallet and will return some of them back
+sending message and the the the order
+has been sent
+we just of course need to update the
+book to see if we
+have it will take time but i will
+explain later
+what time it takes to do
+okay here we go it done so that that i
+just voted
+20 tokens eating my tip 3 balance change
+from 10 to 30
+tokens arrived to my wallet i can
+sell some of that now let's sell some
+amount that's an
+eight nine let's do it nine and
+well what the amount i would sell let's
+say 0.2
+and for how long i want this to be
+active this order
+i can put you know two hours and
+yeah let's let's do that oops
+my ugly face we just wait for a message
+to be executed on the devnet
+it's actually several messages which is
+sent out and okay
+so this this message has been sent out
+when it will be accepted you will see
+okay here we go it's landed meaning that
+the ownership of my wallet now has been
+transferred to
+the order book contract but just
+remember
+that phrase i will explain what it
+really means and what's the difference
+this is it we sell you can see here we
+have
+eight tokens to sell 0.2 we just
+created an order in the order book so
+okay that's kind of clear i think
+right so i want to say that the order
+itself
+when it arrives in executing into the
+order book it executes it's
+in a single block it's extremely fast
+and it's also settled immediately so we
+are
+executing and settling in one block
+that's why it's called flash
+exchange but i will expand on that later
+and now
+let me switch that to nikita and nikita
+will show
+how to list your token on that exchange
+okay hi everyone i will
+create you token in devnet
+i will use talking debot it's
+it's here let's start it okay
+now i need to enter public key for my
+account
+let's copy it
+okay um
+that's something that it's an interface
+that's not been yet implemented but
+uh in the very near future you will be
+able to
+yeah we will be able to choose actually
+you won't need to copy that from
+anywhere
+let's meet new token
+give it the name flash
+exchange
+token okay
+and flex
+it's just a symbol for my token no
+dismantles here okay
+and total supply will be one million
+tokens okay for now i need to transfer
+at least five native tokens
+to token root address
+then we will continue
+with the bot okay
+let's check the result of this transfer
+it's in progress let's wait for a few
+seconds
+okay i've returned to the bot and then
+yes did you center it yes let's uh
+again repeat okay now we need to sign
+this message to deploy talking root
+control
+to the network message sent let's
+wait for transaction okay and last step
+my token was created but we need to
+upload a wallet code
+let's approve it again
+sign this transaction
+yeah so we'll create an address and then
+we yeah it's done okay
+okay just
+the public key again
+okay let's and now i can
+show you that i have this token
+uh not only this i have one more test
+talking
+and now i need to switch to
+a flexed bot i think now you need to
+list this token
+into the into the flex exchange okay
+let's start it let's restart to
+reload it and start
+this is my public key
+uh yes i want so we need to deploy a
+flex client now
+so we need to send some money i guess
+right
+of course it's a work in progress it's
+an mvp don't use it live
+and there is a lot of enhancements and
+refinements and refactoring that is
+going on right now
+okay
+[Music]
+now we need to sign deploy message
+okay the next step to initialize
+configuration
+yes
+okay now i need to add
+to deploy trading pair for my new token
+let's go switch to
+[Music]
+talking debate and copy the address of
+my
+tip yes of the root
+contract yeah that will be automated in
+the future
+we need to send more tokens to this to
+this
+root address to mint more tokens
+enter manually
+to do it right now to transfer
+some tokens too
+to the root contract
+okay
+done okay great
+great let's
+update the list
+of trading pairs
+yeah here we go oh yeah put some tokens
+on sale please
+no problem
+yes current account
+and how many tons for example
+sometime
+to initialize my token wallet
+for exchange okay what's next
+please very clearly we need to wait a
+little bit yeah for
+the message to be delivered okay yeah
+a little more
+okay great
+[Music]
+grant tokens
+okay grant
+grant by address and enter manually
+copy from here
+okay how many tokens to grant for
+example
+ten thousand yeah something like that be
+large
+need more maybe fifty
+okay i see let's confirm
+oh great now
+i'm ready to sell what should i do
+just so maybe i need to update my
+at least let's try i want to sell
+you should obtain balance okay you need
+to update this
+data start
+i will copy my
+public key from my main account
+mm-hmm uh this
+yeah let's see balance
+set this correct and then let's sell
+for example 35
+nice key
+nikita is now selling our flex exchange
+token please don't
+run to binance with that
+yet i would say
+okay i need to update
+update order book yeah okay
+here you go give me the screen please
+okay i want to buy some
+so i've just started my
+my d bot and i have flex
+i like that but i don't have tip three
+wallet yet so
+i need to deploy one my account
+let's put it five tokens to maintain it
+and let's wait until it will be done a
+couple of seconds
+yeah and uh-huh
+please wait a little we should wait
+little
+yeah it's done balance zero so now i
+want to buy this token 35 000
+i see someone is selling for one i think
+it's a good price let's just do that i
+want to buy
+let's say 500 of this and yeah
+that's 500 tons
+which will be deducted from my account
+and you know
+and the tokens will be supposed to be
+mine
+let's see
+and of course it's a demo so
+something went wrong i guess
+so yeah just message didn't so let's
+retry it
+it's done all right let's us uh
+wait a little for the execution
+actually for update not the execution
+yeah it's done
+so it's it's you can see here it's 34
+500 so it's actually
+executed already now we just wait for
+the message for the account update
+the exchange is actually being processed
+so now we have 53 balance 500 that's it
+so last thing i wanted is to show you
+what's so significant about that in our
+view so let me share another screen
+and just explain how it actually works
+and what's the difference between that
+and any other implementation
+what you have been witnessed is the
+first i think distributed
+order book and the thing is that
+this order book doesn't work like a
+usual order book on the blockchains but
+that you see which has failed
+every time it has been tried because the
+order book can be very large
+and the operations on order book are
+very hard
+to do so usually all the blockchain
+projects that try to do the order book
+contract failed
+and they will fail even on town and
+doesn't matter where
+they will just fail you cannot create an
+order book in a smart contract
+doesn't matter how fast is your
+blockchain
+because it can have millions operations
+iterations over a table and you just
+cannot do that
+it will be painfully slow it will not
+work in a large scale it won't be
+scalable
+so what we have created as a distributed
+order book
+meaning what happens really is you have
+an exchange route and it works very
+similar to in the same principles and as
+we're promoting
+all the time in tip three tip two and
+now this flex
+so we create a tip three tone pair which
+has a
+special code and then it deploys
+a price contract for every price that
+you want to sell to
+and this price contract is a separate
+contract it doesn't have
+a single order book it has just one
+price
+and this price is searchable by hash
+so it's retrievable from the database
+extremely fast to the client side but
+the client side is actually operating on
+the order book
+there is no single order book on chain
+every price
+is separate in this price what it does
+is when
+someone is putting for example sell
+orders and when the buy order arrives
+it immediately executes it instantly is
+a flash
+execution what you have learned probably
+from flash on ethereum
+well it does it legally meaning that
+it's it arrives and it immediately
+settles in one block and it's done
+and it's cleared from here so no more
+when all the prices are executed
+inside the price the contract destroys
+itself
+so when you search by the hash in the
+database you will only see the contracts
+that has been deployed meaning there is
+some trading in there so you see the
+order actually order book
+immediately just by contract that is
+deployed on chain
+so you can immediately retrieve the the
+order book and the whole logic of the
+exchange is actually distributed
+between the on-chain smart contracts and
+off chain lite clients meaning sdks
+that potentially has a almost unlimited
+scalability
+it can withstand whatever the blockchain
+can withstand
+so i gave examples some
+extrapolation examples on the speeds
+that it can have
+like if we have um on on the whole
+blockchain if we can withstand the
+million operations per second
+on average that means automatically that
+this exchange
+will work in the speeds of centralized
+nyse exchange new york stock exchange
+kind of speeds it has never been
+achieved before
+it can work as fast as and faster
+actually
+than binance why faster because the
+settlement is also
+embedded the settlement is immediate of
+operation
+right because on like on stock exchange
+you usually wait for like 24 hours
+before the settlement actually happens
+so you have a trade but then the
+settlement takes time
+here you have a trade and the settlement
+immediately in the same instance
+so that's all i wanted to share and of
+course again it's a work in progress
+there's a lot of things we need to do
+yet
+it's a very first iteration of
+implementation and i would like
+personally to thank
+andrew jogen for c plus plus contracts
+of the exchange
+itself and uh michael we should go for
+for
+debots and nikita for tip 3d bots
+and raman and the surf team for
+the surf course support of the of the
+bots
+and the sdk team which by the way this
+runs on the special sdk engine release
+candidate we
+had to change the sdks to support this
+the tip three token that we're using
+here is a special token it's of course
+already published it has this allowance
+operation
+to transfer the control of the tip3
+wallet to the exchange so
+yeah other than that thank you very much
+thank you everyone
+great work

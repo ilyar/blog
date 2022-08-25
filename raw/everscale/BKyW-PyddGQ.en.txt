@@ -1,0 +1,1391 @@
+oh
+hello hi everyone
+pavel and alex
+hi
+hello
+so i guess we have about six speakers
+one two three four six
+i think everybody's here
+no waiting for vlad
+alex
+you look quite serious
+as if you're trying to solve the
+blockchain trilemma right now
+yeah you're really dark you're like
+running
+yeah
+serial killer pop up behind you
+so waiting for massive
+well i guess we can certainly i mean
+most of the people are on call yeah
+waiting for one win for vlad mazlakov
+okay
+yep
+okay
+yep we could start actually it's gonna
+be
+uh
+a lot of stuff to cover so hi everybody
+and welcome to a very special ever scale
+community call we have with us today
+some of the top technical minds leading
+development for the everscale network
+and just a reminder that 1 000 evers are
+up for grabs for the best 10 questions
+and it's not too late to participate
+just be sure to
+uh write your question with the hashtag
+evascal and just underscore dev
+underscore meeting so we can find your
+questions
+and since we have a lot to cover today
+because we also have another ama uh with
+roxas everex and d5 alliance in one hour
+let's just get started right away kick
+it off with our first speaker and that
+is mr
+pavel pigolovko with the serial killer
+in the background
+he's going to be giving us an
+introduction to the network development
+organization
+so pablo
+yes hi everyone
+it's nice that you joined
+us uh tonight or today
+depends on what what what place of the
+earth you are
+now
+so um i think there were many questions
+in the community regarding what's going
+on with core development and
+what
+happened what changes we had with us
+because we
+had
+a mixture on any calls before and now
+nietzsche is more focused on
+uh
+gauche as you probably uh know
+so i would like to start from
+exploration what is going on inside
+everyx
+and
+we performed we actually developed a lot
+of stuff which hopefully
+we use as users or
+developers or
+other community members
+so
+finally we come at the point where
+we have now
+uh
+a number of very
+important projects
+and each project now has a dedicated
+development team and each team has its
+own team lead
+so when
+the robot was formed and that later on
+there was uh one man
+again as you know who was uh responsible
+for all
+uh
+uh design this was
+all product design
+decisions
+and
+uh
+it worked
+somehow in the beginning and actually it
+works well so we delivered another
+delivery
+wanted to deliver other very important
+products like sdk compilers
+but
+it is impossible for a single person to
+manage
+efficiently
+all
+those streams
+so finally we made internal decision to
+make
+each project
+as a
+fully fledged separate team which
+focused only
+on that project with the lead with the
+team
+for each project
+so what we can now we have now ever
+known
+the most
+probably probably the most important
+company because
+the network itself then we have uh
+a sdk
+slash cloud uh infrastructure which
+which is called uh evernote platform
+[Music]
+so
+then we have
+compilers
+your famous compiler
+again probably some of you
+use
+so those those are three uh core
+streams which everything's
+[Music]
+doing
+each
+team
+uh
+needs of
+[Music]
+before
+but they're not
+[Music]
+so they have separate streams and they
+could have
+okay that's it pavel thank you very much
+uh for the overview i'm sure we're going
+to learn a bit more um
+with the other teams in the following
+ama and
+after a few more announcements and down
+the line thank you and when we have some
+questions
+please uh stick around so i'm sure that
+there are some specifically for you
+and so we will move around move on to
+the
+second speaker and that's lava blanco he
+is the team lead of evernote is just
+mentioned by pavel and he's going to
+give us some node development highlights
+so
+slava
+if you could please turn your camera on
+that would be great too
+can you can you hear me yes
+it's a little loud where you are
+would it be possible to kind of go into
+a quieter corner
+uh yeah basically behind the
+team meaning our team
+basically uh
+we
+have to follow
+different ways of
+some kind of
+different ways of thinking so we have to
+develop
+and at the same time we have to
+listen for community
+for
+some kind of
+ideas and many complaints about
+about the network so
+can you hear me okay
+yeah yes i can hear you
+that's good
+so uh we
+are going to
+and actually we do
+some combining of our internal plans and
+some ideas from community to get some
+straight directions
+to the future and to
+get a good product
+in the end of
+our road
+so
+that is our common understanding how we
+should
+how we should do
+okay do you have anything else you'd
+want to share or maybe pavel wants to
+jump in here
+yeah i think uh you can you can just
+briefly
+explain what streams uh you have
+internally in the team uh regarding smft
+concerns about ramp uh
+and so like
+so
+inside the team there are a number of uh
+very important projects which are going
+on
+so later on there will be a presentation
+of an architectural committee and the
+process what
+which was already set up so not team as
+well as other teams for teams they work
+or they work
+following
+communities needs it's not like
+we do it
+as internal process now because it's
+fully transparent
+we have uh k members who
+also provide a lot of input uh for
+directions where we should go
+and what should we do so
+if you
+a little bit uh
+disclosed
+uh what are you working now
+yeah yeah of course so
+basically last last times we discussed
+this community about some items that is
+really interested for the uh
+to move our blockchain towards to the
+future so we found some cases like
+multiple work chains and some
+[Music]
+other items like
+drive chain functionality to
+store the
+[Music]
+files
+using the blockchain
+blockchain mechanisms actually
+so
+we had several meetings with community
+guys and
+set up
+setup activity with a team
+to prepare some good plans
+for
+to
+to achieve
+some reasonable results within
+reasonable time
+uh with some steps that can be
+monitoring with uh with the help of
+community so we'll prepare a plan
+and we'll review this community guys and
+then we can
+follow the development steps
+so exactly the topics that we should
+follow with the
+multiple chain items the drive chain and
+the
+slashing mechanisms
+inside the work chain or sorry inside
+the blockchain
+so
+i think that we had a lot of a lot of a
+lot of questions to discuss but maybe
+this video is the most important thing
+yeah let me
+file a little bit
+so slavo was talking that about
+the fact that those priorities like
+blockchains and flashing they were set
+up by a community
+uh we had our
+own agenda as you know we are
+not not team focused on delivering uh
+features uh what were mentioned in white
+paper which
+is probably already almost a year from
+now
+was published
+uh
+but uh community
+members of the skill community uh on
+architectural committee
+uh said that okay we need this and these
+features uh delivered a sub
+so some features were
+got less priority and those features
+which
+as well mentioned they got highest
+priority
+so
+as as of now
+there are two
+most
+wanted uh features uh
+multiple watch support multiple chains
+and uh which by the way includes uh
+messaging between world chains as well
+and uh another feature is slashing for
+validators which you can perform their
+digits
+other
+uh
+bottoms actually there's nothing
+always important in
+roadmap
+you cannot say that
+some part of that roadmap is not
+important
+but
+it is
+implementation uh and go into production
+it will be in stages
+uh so
+uh
+ram ram which long
+long time weighted ram uh it will be
+uh
+open source
+as we discussed
+this week
+and it is
+it did already for a couple of months in
+tests
+system can take some time and
+quite honest unpredictable amount of
+time to take so that's why
+we decided not to
+develop it in a hidden way because
+we'd like to convince you also to
+provide some opinion on that and
+probably provide some help with finding
+bugs so it will be uh open source by the
+end of this week
+so the same situation with the first
+uh
+part of smste
+upgrade
+those who should be available by the end
+of this week
+um
+yeah
+we have a fully capable team for deliver
+all features
+mentioned in the white paper
+of course there should be some
+implementation uh fluctuations in
+implementation dependent fluctuations
+but we are fully on track on what was
+planned a year ago
+okay great
+thank you for elaborating
+thank you very much and from here we're
+going to move on to ekaterina pantas and
+she is the team lead of evernote
+platform and she'll be discussing the
+platform and cloud development
+highlights katarina
+hello everyone
+i
+will i will share my screen now
+uh
+not sure exactly what to say
+but
+i will go along my presentation
+okay i will tell you about the
+development cycle of the evernote
+platform team
+uh which actually exists for
+three years already and
+uh nothing
+changed that much so
+at first we collect requirements
+we have different sources uh to collect
+requirements it's uh like
+uh community telegram and
+private messages with uh developers of
+the community
+and also we collect requirements from
+our
+partners
+and projects we work with
+such as serv life
+flex broxus
+and
+so on
+and
+then we
+validate this hypothesis that
+users want
+say sometimes someone wants to implement
+some great feature that
+they they're sure they're really great
+and uh we do not take features in
+development immediately we go and i go
+and ask
+developers if they need it or they don't
+and many features were
+rejected or trashed this way so
+then
+we prioritize
+features
+and
+then we develop them
+development is a process that itself
+consists of many
+um
+phases that i will not
+explain here
+document release and collect
+customer feedback
+and do the next iteration so
+this is
+all about development cycle
+i think i can use this opportunity to
+tell you about the roadmap
+of our products
+uh evercloud now is going to release the
+dashboard
+together with reliable end points and
+authorization support
+in the dashboard you will be able to
+register in the
+and get your credentials to access the
+api
+and also um
+we know about the problem about
+balancing
+among the
+network endpoints because we didn't
+provide uh
+availability sla for each of them
+um
+now
+and we understand that this is a problem
+for users who do not
+i use sdk to access api who wants to
+work directly with api it's a problem to
+implement balancing
+and
+we decided to
+release this reliable endpoints and we
+will balance on the backend on our site
+and these endpoints will go
+uh these endpoints users will receive
+after the registration in the dashboard
+and also
+they will receive authorization
+credentials
+um there will be
+ways to authorize with project id
+with a basic authorization with secret
+and
+later we will add support for gbt tokens
+and this authorization will become
+mandatory by september 22 so in one
+month and i think uh i hope we will
+release dashboard this week
+um
+so
+this is the like nearest
+uh future
+and also in parallel now we develop
+token api
+um the reason why we were not developing
+it
+didn't uh haven't started developing it
+earlier
+is because there was no standard for
+tokens and
+um
+we wanted
+the community to
+standardize it so
+now we have a standard but this standard
+tip31 is also not
+a complete standard actually we
+implement api on top of
+uh tip 3.2
+which is not uh
+accepted i think but
+brooks has already
+have its description in the github so
+because tip31 is it covers only
+transfers standardization not ownership
+and stuff like that
+so
+we will release token api on top of tip
+to
+standard
+uh
+and then we will add project analytics
+to
+the dashboard
+it will uh project analytics means the
+api usage of the project so
+uh projects will see uh what requests
+they do how often uh how often they meet
+limits and
+stuff like that and later we will um
+start calculating uh
+query costs and based on that those
+costs
+we will add access limit policy
+um
+and
+later we will when we do some analysis
+based on api usage we will
+introduce some subscription tiers and it
+will be of course freemium model
+so the free subscription
+if you have low uh requests uh
+lower number of requests you
+may use free subscription and if you
+have higher
+number of requests of course you will
+need to buy
+a more
+costly like subscription
+and in terms of another
+features that we plan to implement
+its nft api
+um
+also because the standard was now in the
+process of accept acceptance
+um
+so
+this is it for ever cloud
+uh priorities and roadmap and sdk
+roadmap is shorter
+we plan to
+introduce based on the feedback of
+developers we want to
+duplicate upkid and introduce another
+web3 like contract package
+in some time i don't know maybe a couple
+of months
+um it will be like web 3 the js
+libraries
+so it will be more
+convenient for developers to use
+also the engine will be removed from
+sdk it will be first duplicated now
+um
+because surf team wants to develop it uh
+separately
+and
+also sdk
+binary became pretty big so it's a good
+idea to remove the engine from
+from it
+and later
+i don't know when but we will
+release sdk 2.0
+and probably will make it more modular
+because uh some users say that
+having two megabytes binary with wasm in
+the web is a problem
+i personally think that's not a problem
+because
+the main
+crypt
+like products that use sdk are either
+working extensions or in mobile or in
+desktop or in the backend and
+not very
+often sdk is used in the web
+like
+you know on the in the page like itself
+so
+um
+i'm not sure like maybe we will not do
+it modular but maybe we will like we
+continue this uh hypothesis
+testing um
+and here is the short road map for
+uh se
+we plan to
+increase test execution time it has
+already in
+oh i mean decrease test execution time
+of course uh we already decreased it two
+times in the last version
+tests around two times faster now but we
+plan to decrease it more
+uh hopefully to reach the same uh speed
+as in ganache
+um
+and also
+we will
+introduce new features with
+snapshot creation and revert
+uh it was also required by
+contract developers
+well next thing i want to say
+that we are now hiring and we need
+front-end developers
+for our dashboard
+and we need qa
+release engineer
+and pipeline engineer and technical
+writer or developers who can write
+documentation so
+because amount of work is in prison and
+we need to grow our team
+so if you
+some of you want to join us
+then
+message me
+and we will
+appoint some interview
+um
+so
+i think i will stop my sharing now
+yeah so this is basically it thank you
+great thank you very much for sharing a
+presentation and also being uh very
+transparent and how your team handles
+the development cycle it's very
+interesting um also the road maps maybe
+we should have a dedicated presentation
+an ama once the dashboard is ready
+cool uh thank you katarina stick around
+for any questions that might come your
+way next up we have a boris ivanovsky
+he's the team lead for tool
+and he's going to give us some
+highlights on the smart contract
+developer toolkit
+yeah hi there um
+i've been doing this for three years by
+now and
+blockchains have been renamed repeatedly
+and
+uh
+it has been rebranded
+back and forth but as the strategy has
+not changed
+they are committed to
+jail tools to
+make blockchain a development platform
+basically that's
+something which
+nobody had done before and
+this is blockchain i believe it's it's
+possible
+we have released over 60 releases of
+compiler
+we
+have not had any critical bugs
+for the duration of the
+deal clip
+timeline and
+we are going pretty fast
+i believe
+everybody on the school already knows it
+so
+if you have any questions
+okay
+we have pretty good news
+from the open standpoint
+second
+okay sounds good uh short and sweet so
+please stick around for us if there's
+any questions that you might be able to
+answer
+thank you
+um
+next up on the andrenda we have uh
+vladimir but i don't think he'd be he
+was able to make it so we'll push him to
+the end in case he comes up
+uh so moving on let's go to the team
+lead at broxas and that is sergey
+pottekin and he's going to talk to us
+about what broxas does for development
+of the everscale network
+yeah hi guys do you hear me well yes
+yes so um let me start unfortunately i
+don't have such a beautiful presentation
+as a katarina so i'll just tell you
+about few ongoing uh developments in the
+bronxes
+uh so uh let's begin uh first of all uh
+as many of you know uh last week we have
+released the new major version of the
+lock lift framework
+uh for those who
+who are not familiar with it this is
+basically the hard hat for every scale
+which allows you to develop and test and
+deploy your smart contracts on the every
+scale network
+it was
+upgraded
+you can see the release notes probably
+on the github there are tons of new
+features such as let's say tracing uh
+visual debugging
+uh and
+many many more new configuration
+typescript support
+and
+way more
+so
+also as you know uh we have uh placed
+the hackathon last week in the belgrade
+unfortunately i wasn't able to visit it
+but as i know
+it was amazing
+and we have received tons of feedback
+about this new version the developers
+were happy we fixed some minor bugs so
+uh all of you are welcome to join us to
+use the lock lift it is completely open
+source
+uh
+also uh
+probably there will be a separate uh
+release blog post uh in the boxes medium
+so uh okay let's let's move on also
+uh we have uh
+pretty much finished the
+new uh block explorer
+you can find it on the beta ever scan
+so basically it has
+the functionality which the current
+error scan has
+and much more for example
+uh i'm happy to
+say that we are finally finished the
+contracts verification
+so um first of all right now you are you
+are able to verify all your solidity
+error scale smart contracts as i know
+this one is dow root of the error scan
+so as you see the
+uh code is verified the api and so on
+also you can use
+this amazing feature such an executor
+probably you're familiar with it if you
+have ever used the etherscan you can
+read the details directly from the
+smart contract or you can send some
+messages to the smart contract
+extremely handy feature
+uh
+so uh yes
+probably it will be released in a next
+few weeks maybe maybe uh
+earlier we still have to finish the
+light theme and few
+few minor bugs let's say
+uh yes uh so uh this this will be a
+replacement for the current everest con
+uh block explorer uh also we have
+released an amazing developer feature
+which is called debugger as i know there
+was no uh similar projects in the ever
+scale
+right now it is it can be found on the
+ever btmio probably it will be uh
+migrated to block explorer or some other
+product i don't know uh we still have to
+found out uh by using this you can
+literally debug every single uh smart
+contract transaction in the every scale
+you can see
+let's say the uh
+all the op codes that were executed in
+the action phase you can see this stack
+on the right
+so you know right now it is a lot easier
+to debug your uh reverted transactions
+if something went wrong uh maybe
+it also will be implemented in a form of
+i don't know uh
+idea
+extension or something
+uh so yeah also feel free to test and
+give us your feedback we really
+appreciate it
+another important thing uh that's as you
+know the
+uh on the last week there were a
+performance test of the everscale
+network and
+many users ask us about how can they see
+the stats
+the current load the short stats and so
+on so let me remind that
+we are contributing to our public
+monitoring error address dashboard
+so you can see the
+[Music]
+like sharding stats the tps stat block
+time elections and
+so on
+also
+right now we are working
+on the
+everscale network
+project
+which is basically the implementation of
+the uh
+adl uh layer
+uh and
+this is kind of infrastructure project
+you can use it on
+i don't know every single uh
+project you are working on so you can
+implement yourself some kind of flight
+note or the full node for every scale
+process
+is already using it in the ton indexer
+project for example so as i know it is
+already
+working and it's been tested but uh
+there are still some major issues which
+uh
+have to be uh fixed
+uh so uh
+probably uh
+definitely i forgot to
+uh i forgot about something or and i
+don't have that much time so if you have
+any questions ask me or feel free to
+join our next broxas mea session
+thank you
+great thank you very much sergey uh it's
+very interesting and for sure elysium
+was definitely an excellent initiative
+by roxas so thank you for sharing all
+that and the dashboard as well please
+stick around for any questions that
+might come your way
+and we were going to have uh vladimir
+mazlakov a member of the architecture
+committee who was going to talk about
+the architecture committee
+but i believe
+he's on an important call and povel's
+going to step in for him and just give
+an overview so pablo
+yeah
+yeah yes do he well
+yes
+hello
+okay great
+so as i already mentioned
+as i already mentioned
+uh
+since we already
+migrated to rask node which was the
+first major
+kpi
+and promised from
+rx
+clubs
+we
+now priorities uh dependent on business
+and actually it should be
+oldest
+because
+every scale
+ecosystem
+uh despite the fact that there are a
+number of teams and they do their own
+projects but at the end we are in a
+competitive environment
+so we should look around we should see
+what's going on in
+going on in other blockchains and
+we should do as a community
+business in a way
+uh that
+we should uh
+try to get the best projects and uh to
+get the most developers attention and
+most developing team attention
+so
+that's why
+there was a push strong push from
+community from key members
+to
+create such mechanism where we
+actually
+assess what priorities should be
+should be
+done in first place and what
+can we
+at the end
+that architecture
+are formed and we
+it consists uh actually it is a
+semi-open
+group of people because
+we
+it's not it's nothing to hide
+from us uh
+actually all developing should be open
+source and clear for all our members
+of the community
+but of course if we invite everybody
+from the street then we'll it will be
+not possible to discuss quite complex
+technical stuff
+so that's why uh
+that those meetings they are a little
+bit limited
+and participation they're
+limited only to 2k members
+of the network
+uh as solano mentioned before
+now priorities which were set up
+by the
+that committee
+were focused uh on
+work chains uh the lever of work chains
+with messaging between them
+and flashing for
+validators
+we assume that that committee will
+be also the place to discuss not only
+uh north development but also
+development of some 4k
+projects uh our network to
+discuss some
+some integration issues which you could
+have
+as
+well
+um
+well
+what else i could add
+if you have any questions please
+okay great thank you very much
+sorry let me interrupt you i just forgot
+to say that um boxes is also working on
+an extremely long weighted task the
+ethereum virtual machine compatible work
+chain integration
+um as you understand this is not an easy
+task because there are so much uh
+breaking changes uh in the node itself
+in the protocol of course uh so uh
+this task is still uh in kind of
+research mode uh we're working on it uh
+and so i hope there will be uh more news
+uh like in the future
+thank you
+great thank you very much second
+so let's move on to the q a section as a
+reminder the 10 best questions will be
+awarded a thousand evers split between
+you guys and they'll be selected after
+the meeting so if you're a winner you'll
+be contacted uh privately
+so uh for the speakers um if you feel
+that there's a question you can cover
+please don't hesitate to just jump right
+in
+so
+we've been collecting some questions
+and the first one is from alexi and he
+asks a question about storing data in
+the blockchain
+i've read about a storage fee to
+maintain only the data that is needed in
+this case what happens with transaction
+history please explain
+how
+storing data works
+perhaps the drive chain team
+is also here
+[Music]
+sorry it is alex
+hello
+it was alexi
+kobsitsky
+is he ready to
+listen to the answer
+oh i'm sure he's watching watch me on
+youtube
+oh okay then uh so um
+the thing is uh blockchain doesn't
+actually store all the transactions
+it still stores
+hash codes
+[Music]
+of the transactions
+to verify that they have
+really taken place
+all the history all the messages all the
+previous account states uh are stored at
+the validators and web servers
+maintainers description
+actually they could be gone in a very
+short time
+it's a matter of goodwill to maintain
+such bases
+the thing which makes it
+precious that you have hash that proves
+that
+the chain has not been broken
+but
+the
+account states and the history of the
+transactions is a huge
+bonus to the development and to the
+actually using the blockchain
+and
+that's basically
+how it works
+i think the question is uh was not about
+transactions itself but the question was
+about
+account
+the fact is that uh all addresses in
+every scale network
+they
+like they are smart contracts and they
+have uh accountability
+and uh
+as it is designed from the very
+beginning
+uh when once you have not enough
+balance of ever on on
+that account and
+account was triggered by some
+transaction
+then it could be freezing
+it could become frozen
+then it is changed for a cache of its
+state
+and that uh
+substituted by
+uh by special state and that mechanism
+allows
+for a user to restore
+this that account
+so from my perspective it is a great
+mechanism because if you
+uh of course if you don't care about
+your accounts then why we should care as
+a blockchain where we should store it
+forever for free and once that account
+becomes frozen you have time to reverse
+things and
+come and
+upload back
+your account
+in a state
+what uh it was before it was frozen
+that's why uh hash is frozen to that
+address uh that's why hash is stored
+uh as a data for that address
+so
+from my personal view it is a great
+mechanism
+right well in
+theory right it is but in practice you
+remember uh
+the amount of
+pain we have
+experienced by restoring one of the
+first accounts
+right it can be restored now
+the tools have
+options and command subcommands to help
+you with restoring the accounts but
+the device is not to
+get it to the state
+and to have a minimal amount of
+minimal balance on the
+account
+to keep it
+active
+because
+it's
+not really a
+delightful experience to
+get your account unfrozen it can be done
+but
+it's not
+really a vulcan park
+it should not be often because if you
+don't care about your account then why
+why we'll chase it here
+yeah yeah
+of course
+okay makes sense
+uh like i say i hope that ans
+answered your question uh moving on to a
+question from victor lee uh
+how to get into your ecosystem where is
+massive marketing for everything like
+game fi
+excluding
+poker um
+i'm not quite sure if there's
+uh
+room to really address this question as
+it's more of a developer focused
+[Music]
+yeah i think um you and this can be
+taken into the ama session this is i
+think more
+more of a
+question yeah sounds good okay so if
+italy your question will be answered in
+about 20 minutes um
+okay next one
+uh
+for more widespread use it would be good
+to establish bridges between ever and
+fiat are there any plans in this
+direction some kind of plastic cards
+i think we do
+have such solutions uh who would like to
+jump in here
+[Music]
+for sure we have
+but when we say
+say about regions between fiat and
+crypto it is not on blockchain level
+it's done not only it's done on
+application
+and even even surf has it uh
+so other applications also have it
+uh and there's a section i think on the
+website how to buy
+uh everest how to buy other tokens
+so this is quite standard
+yep and i believe there are more
+solutions right on the
+in the roadmap too
+um
+okay moving on so currently social web 3
+is being talked about a lot and several
+new social web 3 projects are emerging
+and most of them are in the evm network
+will it be possible for everscale to
+create a social web free project built
+on the everscale ecosystem
+i think there is such a project
+i think it should be introduced
+shortly
+as far as i know
+there are two projects one focused on uh
+open email
+so when everybody can connect to
+uh
+through sdk to
+every scale and to use it as the email
+transferring
+weekend and
+another
+project is for open messaging
+and for from my perspective
+every scale has a perfect
+architecture for exactly the
+full-size solutions
+because of its scalability
+okay
+thank you pavel
+uh
+todd asks
+is anyone looking at developing dao's to
+form a business other than govern
+everscale tour company in serbia
+restaurant somewhere wedding photography
+and so on
+uh it would be fun to use everest to
+invest in something brick and mortar and
+get dividends in ever very interesting
+question
+i think this is also joanna i think it's
+a question to the team on the call
+really maybe we could save that one also
+okay
+unless somebody wants to check it
+yes i raised my hand i can briefly
+comment about this that
+uh as you know we present
+uh some new project forever scale on
+hackathon
+and in this project we are planning to
+integrate dao for holding tournaments um
+it will be special tournaments
+um dao for different roles uh tournament
+associations uh game manufacturers
+because it's game project gamers and so
+on and we will integrate dao
+actually as this
+member ask about that's why yes
+for example our project
+uh planning to do it so that's it
+thank you
+thank you okay um so todd i know that
+your answer was kind of uh your question
+was kind of answered but um stick around
+for the ama i'm sure we're going to dive
+deeper into it and give some more
+information there
+um
+and so we have another question dear
+everscale devs i'm curious on how
+everscales game 5 works does it have any
+connections with the new concept metaphy
+and p2e do you have any features
+implemented to recognize metadata
+um in the everscale blockchain network
+and what is working what is the working
+mechanism of metaverse sdk and features
+of it
+heavy question
+um
+yeah this is one of the years what uh
+the fire land alliance actually
+has uh that in order to grab
+a business team
+in some important areas uh we should we
+can create a simple way
+so a boring way by creating
+sdk
+for specific topic
+so
+atk for meta versus is also on
+development and
+i'm not sure
+about status of it i don't have that
+determination uh i think
+some
+somebody from the fire lines can
+comment on that but i know that
+definitely it is underdeveloped and it
+is a good idea
+to
+help on board projects
+yes thank you pablo
+okay if nobody else wants to jump in
+there we will move on
+um
+there is okay
+next question there are currently about
+200 validators in the network the
+magister ludi program will end soon how
+global governance plans to support and
+expand the decentralization of the
+network
+this is actually one of the topics for
+the upcoming ama session
+that's uh
+yeah
+okay
+uh alex number two uh
+yeah eske
+hof i cannot pronounce your name
+correctly
+um let's make some notes to carry these
+questions over
+um okay next moving on according to the
+white paper emission of ever should be
+stopped will this point be completed how
+and when
+yes this is almost not funny but this is
+proposal number five that will be
+present in the dma session in six
+minutes
+as you can sense it will be quite
+important but the short answer is yes
+one of the proposals that will be put up
+on board and that everything is to stop
+a mission and stop to instead come up
+with a fund
+uh with a fund to compensate validation
+cool
+okay
+thank you alex uh bitcoin bridge schedu
+scheduled for q4 2022 is everything
+going according to plan will it be
+integrated into octaves bridge or will
+it be a separate solution like ada ever
+roxas team
+yeah yeah
+let me um answer
+uh so um
+right now uh i can say
+uh do we have plans uh about adding
+bitcoin direct support i mean like
+native support to the octus bridge
+uh since uh there are ongoing
+integration of the solana into the
+actus bridge and there is a chance uh it
+is still the research phase that uh
+maybe we will uh
+integrate the near blockchain
+uh so uh
+i'm not sure that uh it will be
+integrated into the octus bridge
+uh so um i don't know we'll see maybe
+maybe someone else uh have something to
+say
+you know since uh if there will be the
+business requests uh about the
+integrating bitcoin because as you
+understand this is extremely complex
+task it is possible after all
+uh but uh
+you know it's like a huge task
+so yeah well they can add to this um
+just a couple of senses i know there was
+a us-based team out of new york called
+architect that was interested to explore
+uh
+the
+bitcoin bridge was ever scaled
+but i don't think it's in development
+yet i think they're still kind of
+talking to the technical team on the
+on the you know architecture and specs
+that's what i know but we might want to
+double check i'm sure somebody in the
+brooks team is also in the loop on the
+discussion
+okay we have time for one more question
+and that's from ann fono
+in evercloud api usage when some
+projects loaded others may be affected
+in some way an api may get degra
+degraded
+degradated
+uh will there be an update for free to
+use api in the future to get fast
+response time without using dedicated
+cloud deployment
+um
+yes
+actually now uh in the cloud api we use
+the same database for real-time data and
+for analytics
+requests and this is not right so we
+plan uh
+in the nearby future to move
+collections queries
+to a separate analytics database and
+to
+uh expand the existing
+api uh that will allow to interact with
+blockchain so users will have to migrate
+to the new api
+if they want to interact with the
+blockchain it's called blockchain root
+query
+and if they want to perform some
+analytics they will use collections
+and
+also when we will have authorization and
+query cost calculation analytics queries
+will post
+more
+so users will be able to make those
+requests not that frequently so
+this all will
+lead to the better api response time
+perfect thank you katarina so that
+concludes our everscale bi-weekly meet
+with all our special top speakers thank
+you very much for coming and stick
+around for the network reform ama with
+proxis everex and the d5 alliance
+starting in two minutes
+thank you guys
+bye
+thanks bye bye

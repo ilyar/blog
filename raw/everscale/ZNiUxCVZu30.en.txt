@@ -1,0 +1,1850 @@
+hey
+now do you see me yeah
+cool
+oh cool hi guys
+okay yeah so do you hear me
+we do yeah we yes we
+[Music]
+nice perfect
+let's just wait for a few more people to
+show up
+okay
+hello
+hello hello how
+doodly
+just waiting for some more folks
+where's mita
+where's
+alex
+let me dm a few people
+sorry for the malay folks just need a
+couple more people to come
+hang on
+almost there sorry for the delay
+you
+all right looks like we're going to be
+without technical updates today uh me to
+just uh
+uh explain that he's not going to be
+here so i think we'll start without them
+which will actually shorten the call so
+make it a little
+a little quicker which i think is fine
+all right so uh hi everybody welcome to
+everscale community call number 94. uh
+besides the um
+uh usual that we have which would have
+been technical updates and uh also we're
+certainly going to have ben's bits we
+have uh
+some really really interesting stuff
+today so we have uh metaverse project
+that we're going to talk about
+uh we have uh two
+brand new everscale startup competition
+winners uh that uh are joining us to
+talk about their projects and both are
+really really interesting uh and uh yeah
+so i guess uh let's go ahead and get
+started now normally we start to call
+like i said with an introduction uh to
+the latest technical updates but i just
+got word from mita that there
+are none so
+um we're gonna hop right in and start
+maybe with um
+let's call it a sociocultural experiment
+uh that's being created by a gentleman
+that goes simply by the name of dadar um
+dadar is uh an independent metaverse uh
+designer uh an artist
+and he's working alongside both
+everscale and freeland i think we all
+remember freeland i know a lot of people
+have been asking questions what what's
+up with them uh we're going to find out
+now
+uh and they're going to create the first
+metaverse metastate mvp on our
+blockchain
+so data
+if you're ready you can start us off
+please go ahead
+nice so thank you for having me and
+this social cultural experiment is not
+mine it's a freelance uh
+one one moment so ah yeah do you see my
+screen
+we most certainly do
+yes perfect so uh this is not my project
+this project was found by uh
+uh creators of uh mr freeman so if you
+heard about uh freeland uh you must uh
+already knew about mr freeman in all
+those
+episodes
+and if you want to understand the mind
+uh
+behind the freeland you you must see all
+those
+videos about
+our modern way of life
+and since
+2018 i tried to build a
+game um a platform so we can build uh
+the real freeland as it was said in uh
+in the episode seven uh it doesn't exist
+in english but you can watch it on a
+russian channel
+uh with subs and this is where uh mr
+freeman says uh
+that he gave uh he gave us a hint to to
+build a new world and this hint is a
+game
+as he said this way
+yeah so and for me it was uh uh so
+obvious that we need to gamify uh
+the governance because i'm
+i'm working as a designer uh since uh to
+2012 and uh i already working for uh
+some startups and i know how the
+gamification of companies work and i
+think we can't give me
+the governance and uh freeland is this
+it's something where we can uh
+uh merge with the meta versus games dao
+and all this new kind of stuff uh on our
+on different blockchain and this is why
+i started to build it for for them i
+tried to build some stuff on
+on top of in rail
+engine but it was uh quite difficult
+because it
+it wasn't well adapted for a web
+so i tried to to to search other uh
+stuff other uh plugins that i can use to
+build this and this is where i uh i run
+into uh ready player me and this is uh
+this is a project that exists since uh
+last year i guess uh and this is
+something that we in the web3 we we want
+to see uh
+uh this is where we everyone can build
+can make their own avatar uh
+thanks to
+to face recognition you can make a
+a photo of yourself and uh plotting into
+that and
+after that this platform can make you
+your own avatar and uh even you can
+build your own
+so you can see uh this way all my other
+avatars
+and when i found that i thought that it
+was uh some it was a
+revolution
+because everyone can build
+their own identity and
+explore other worlds and you can
+discover all apps uh like vr chat live
+all this uh all those projects are uh
+working well uh the avatar that you see
+right now here i use it uh i i made it
+with a
+red player me and connected it with an
+image so actually it plugged it to obs
+and uh
+and this is uh all the all the choices
+here right now this is uh thanks to
+radio player me and animes and this is
+where i'll also i discovered mona and
+mana this is for me is a real revolution
+in meta versus because this is uh this
+is uh
+the place where everyone who know how to
+use unity uh can build his own space and
+uh since the beginning of this year they
+started an event called um
+the renaissance of the meta of the
+metaverse just let me show you that
+so yeah that was an event that started
+in first january and uh finished at uh
+the end of the month and i
+many designers uh so amaya was um
+using their um
+their platform to build our own
+metaverse so uh
+there is all uh kind of materials that
+you can explore it just uh click on it
+and you're you're welcome
+on that
+so there is no sound this is this is a
+metaverse built by uh
+uh attends
+one one second there is just uh many
+dairy yeah
+no problem
+yeah uh so
+you can explore any of them and
+my uh
+so there is my tests i tried to build a
+freelance
+an mvp of real and something that can uh
+actually
+work as freelance and
+the results was pretty good
+so here we are this is uh i call it in
+that
+freeman gallery
+so in all the stuff are interactive i
+can uh i i
+can talk to mr freeman
+if it would work yeah i can talk to him
+and he will uh i can
+go to his channel thanks to to the link
+uh all
+all the stuff uh we call it artifacts
+and they are working as
+hyperlinks in the standard web so any
+image i can i can attach it to
+an enft and uh people can just buy it
+and uh when you buy all the
+any of uh nfcs or from freeland uh all
+this money will uh
+go to build the freeland uh
+and uh today you can actually own your
+own uh
+passport and print them
+uh if you go to this link
+here you can be you can buy the
+freelance passport and uh
+after that you can
+just
+fulfill um
+[Music]
+how to say to fulfill a formula to ask
+for printing of your prior passport and
+the nfc that you have a will be burnt
+and you will receive another nft
+also the new
+[Music]
+digital version of your passport and all
+of those metaphors can be accessed with
+a special token so i can uh make this
+world accessible only for uh
+for
+for those who have the passport of
+freeland
+and this is it was just an experiment so
+for those who are
+um
+are already both uh their passport on
+every scale they will uh
+also have access to it but actually
+there is no enough people to
+um
+to to do that there is only uh the grand
+bazaar team who are on it so you can uh
+buy uh the the passport on every scale
+uh on grand bazaar but actually it's
+pretty difficult to to exchange your uh
+this uh uh um every scale token uh uh
+and to ask the printing and uh actually
+um
+the developers from every scale are
+talking with developers from mona to
+make bridges so this is something uh
+that's already on
+on rails
+um and uh
+yeah this this was just a test for me
+and uh when i saw that
+it works uh i try to make other stuff
+like my own metaverse for me
+and this is uh
+this is also another experiment i call
+it the international metastation like as
+international cosmos station
+yes
+and here
+here i just look at
+first moment yeah so and here we are we
+can see all those projects that i
+support that i think they kind of change
+the world and if we connect uh all of
+them each other we can uh do something
+more but just uh money and so you can
+hear uh see a grand bazaar on our other
+hsa nfc like a partner
+of
+a
+xl x ever labs
+or ever ever labs
+nice okay so uh this is you you you can
+uh
+access to all those
+sites
+from this metaverse so there is a ton
+labs or i will rename it uh
+to everex
+so in
+this is how it works
+it's freaking cool as hell
+it's awesome yeah
+this is uh the missing part of a
+metaverse because everyone uh er when
+somebody talk about metaverse they talk
+about meta about facebook about
+all those big companies but
+we need to understand that metaverse
+will
+have to say
+it's uh it's possessed by people who
+build it so if you let those big company
+build their metaverse you will uh
+so you will be centralized you will you
+will not be able to guard your identity
+for you but
+mana this is an alternative that we need
+to ipod
+it is it's
+hosted with epfs so i can mint this
+metaverse and all those uh information
+all those uh image are actually uh
+already on uh on epfs and all those
+textures uh uh
+also they
+they are already on epfs and uh in
+theory no nobody can uh destroy it or
+censor it
+the only only problem here is just that
+it's uh it's hosted by a mona gallery
+itself and if somebody wants to attack
+by ddos
+the mana gallery it will not be accessed
+uh and this is something on what they
+are already working
+and i think every blockchain every uh
+every yeah every blockchain must to
+start to build something like this and
+the beauty here also the beauty of
+monoverse is that it is uh enter
+inter
+operable so i can build uh this
+metaverse and uh those herbs that you
+see this is actually portals and i
+um if somebody already minted his
+metaverse on the on the blockchain i can
+access it through that i i
+didn't mean to my metaverse uh for now
+because i had some issues i
+i that i actually repairing but
+i think this in a in the end of this
+week i will mean that and i will be able
+to to connect this metaverse to others
+and like uh
+yeah i connected this this materials to
+another genesis gallery this is a
+gallery of uh mona uh this is not that i
+built so this is it was it was built
+by the team itself
+at the beginning
+actually i can't return because
+they're
+they're not connected uh
+that
+for the moment but i can visit another
+metabolism and this is how we uh
+how we can uh
+build in worlds infinitely and without
+borders
+so uh this is uh this is it yeah it's
+it's fantastic uh mike drop you did
+that's awesome absolutely awesome and of
+course we immediately have questions um
+so uh joanna i thought you had one
+i did i did have a question but he ended
+up answering it okay when i was reading
+but i'm also
+curious
+because i checked out the mona and it's
+it's f you know it's based on ethereum
+and so how how can we use
+evers in this if it's if we're using
+their servers
+technology yeah yeah and just um so the
+team of our grand buzzer are already
+talking with
+uh with mana so they can build a
+bridge but uh in in the car of a mona if
+you go to the
+to their sites about
+they talk that
+they try to build a
+blockchain agnostic metaverse so
+they don't eat on top of ethereum just
+because it is something that is
+used everywhere and actually i can mean
+or on ethereum on or on a polygon at
+this moment so i hope uh the grand
+bazaar team and uh team from mona will
+uh
+will do their best to build the
+the connection to everscale that's it's
+really fantastic i love this so much so
+if if everybody has a passport we could
+just come in and kind of contribute to
+the to our metaverse
+uh yeah if you if you buy a uh if you
+buy the freelance passport you
+contribute to building a freelance
+metaverse and all of those metaphors
+that will be connected to freeland
+because the the core idea of freelance
+is that anyone can build their his own
+world and the passport must
+give the
+users their own possibility to to vote
+to and uh make a
+rules uh
+between each other and this is why we
+also try to uh we will work with another
+uh startup that uh called your justice
+they trying to build also a thing with
+um
+liber land but this is a actually a
+social network where everyone can build
+their own jurisdiction and this is uh
+something that we can implement into the
+passport and then
+implement onto
+onto metaverses and try to make mvps of
+a new society
+very cool very cool thank you
+yeah welcome absolutely ivan question
+yeah a few questions uh the first is uh
+how much of your real body is in the
+field of view of your camera because we
+see that you're like uh may make some
+gestures with your hands uh so does it
+mean that you have your all your body
+and field of view in the camera
+actually no i'm not that rich to buy uh
+accents accents it's uh it's a full body
+tracker that's
+that costs uh
+three or four thousand dollars uh i
+don't have enough money for that but i
+got enough money to buy uh
+an iphone uh x like uh with a
+face tracking uh to for to to be able to
+use
+the ir kit and a
+hand tracker call it motion lip that i
+bought for a
+hundred dollars and i just connected all
+this stuff into the animes and then uh
+this is uh this is how i can move my
+body
+okay so you're connecting your device to
+some existing software uh
+right
+yep
+yeah great
+just just yeah just wondering how how
+did you make this gestures and then you
+connect this all to obs so that it uh
+displayed on your avatar right
+yeah i just uh i connected uh
+animes and uh it's it's
+[Music]
+just sending data into obs and uh this
+is how i can uh
+this is not the perfect tracker because
+like as you can see uh when i i try to
+to move my arms out of a range of my
+tracker
+hands are just
+stretching up
+and doing weird stuff
+so yeah
+yeah that's it and also you're sharing
+your screen this is so made by obs so
+you don't really need to request to
+share your screen right
+yeah
+yeah the second question is is much like
+about pro project about technological
+side uh you mentioned apf ipfs and
+i i didn't really dive into the
+technology but i heard that it's not
+really stable it needs like you to
+maintain some node which will keep all
+of your data and if you disable this
+node all this data
+there is some risk that all this data
+will be lost unless someone is like
+requesting it over and over again so
+it's like a torrent
+like
+if you remove your seed node like uh
+your
+your data is
+not not available anymore right
+yes this is because and this is why
+there is other solution like pinata
+this is a solution for a pfas to pin uh
+different kind of data and
+i forgot how it called uh i already
+talked about that with
+one of the developers from amana and uh
+he said that just i'll try to to
+to sh
+to watch what he
+uh responds to me and this is horrell um
+so yeah i talked with him about that and
+he said yeah nft storage they they pin
+data through uh
+through a nifty storage and if you
+if you go there you can see how it works
+and uh
+yeah this is this is just another couple
+of code
+on top of epfs
+i i don't i can't say much about the
+technical uh
+aspect of that because i'm a
+much more uh like a designer uh yeah
+yeah
+and maybe maybe you know how much it
+costs to for example to store one
+megabyte like for
+some
+[Music]
+it must be free i know that
+in pinata
+there is a pricing tags
+uh but there is a
+freemium version and
+yeah you just
+you
+yeah i can't say much more about that
+just
+all i know is that it's
+all this stuff is done by protocol labs
+and um
+this is uh
+if you want to know more you just
+you just kind of go to here there uh
+git and uh watch
+how it's done okay okay okay got it i
+just trying to
+like find the some some points on how
+can we with our technology with our
+like plans to create like forever
+storage called like uh drive
+chain if i'm not mistaken how how can we
+jump in uh to whatever stuff with that
+because it seems to me the drive chain
+can be a forever
+the
+uh storage for all of the metaverse
+combat
+yeah this is uh for me i guess this is a
+good question and this is why uh there
+is uh
+there was some issues with a
+synchronization between avatars uh in uh
+mana versus but uh
+for now it
+kind of works so you you
+you can you can host your own metaverse
+and
+call your uh your friends so to talk
+with them
+in it and
+sometimes uh
+synchronization of a voice and uh
+placement of avatars is isn't really um
+accurate but it works so yeah i can't
+say much more about that but i i hope
+we will uh
+to just uh
+fix all issues that are actually uh
+here
+thank you very much
+you're welcome thank you uh we have a
+question from ben
+ben please yeah just uh two quick
+questions for you but a uh first one is
+all this uh compatible with vr did i see
+on there
+uh yeah it will actually it's uh
+compatible only with a desktop uh
+browser uh the second
+the second step will be uh mobile
+devices because uh much more people have
+a mobile there rather that uh via vr
+headset but yeah hey they it's all they
+they telling us that it will be done but
+first first thing first
+yeah of course of course and second
+question for you uh can you do the
+macarena for us with your avatar
+he depends is uh
+he doesn't really uh
+uh nicely synchronized with my head but
+i hope
+in
+in the future i will uh
+try to dance
+the in the most accurate wave
+again okay
+challenge accepted then awesome thanks
+buddy great stuff thank you very much
+uh darkwing go ahead
+uh yep just a quick question amazing
+presentation i just wanna ask
+does the engine of this project uh have
+some sdk or methods or
+the ability to integrate for example
+ballots i mean
+payment in errors or something like this
+buying canals and
+so on
+uh at this time uh you got the
+documentation of how we build on uh on
+on this uh the docs uh dot mona dot
+gallery uh but uh forever
+this is why i called
+grand bazaar to
+uh to
+to to reach
+mona's developers to
+to develop
+this
+this possibility but at this time all we
+can do is that i already implemented
+that in the for three months gallery if
+we go to
+to the center
+right here
+so i can just take
+uh so if i click on the mf coin i will
+uh
+uh i will run to the flat tube and this
+is where i can exchange my ever
+and
+for now it works it works like that but
+i i hope in the near future we will be
+able to exchange
+directly into metaverse between uh users
+uh okay great yes i mean maybe uh is
+there some documentation to develop some
+plugins
+yes
+for now you have a two sort of
+documentation is the documentation of
+mona uh right there
+you don't see it
+sorry my my screen is uh
+i i i opened i opened
+up ah this yeah sorry this is just my
+screen is uh
+changing without my permission uh so
+yeah there is documentation right uh
+where is
+uh
+i
+so when you when you go to mona you can
+click uh this way build a space and this
+is where uh they they talk about how to
+how to use their own template so there
+is a template of unity you just download
+it and try to to make your own stuff
+inside or if you want to make exchanges
+directly between users i think it's most
+interesting to
+reach ready player me
+and
+try to talk with them on discord and
+they have a documentation
+about
+uh support here
+this is
+i i don't remember where it is but they
+have a documentation
+uh ducks yeah this way unic area so
+there is all uh
+all documentation that you can see
+it works with a unity and in real and i
+guess if you
+if you ask them you can
+you can find how to implement maybe the
+uh ever scale wallet uh into the
+avatar uh interface
+okay yep maybe there can be some gs
+scripts for unity
+in to and integrate them in your unity
+um
+new world and then maybe we can
+call them
+from your space yep thank you
+you're welcome
+adar thank you so much for that
+presentation i think we're all very very
+impressed and i think there's a lot that
+can be done with it so listen
+that was fantastic absolutely fantastic
+thank you for having me
+our pleasure
+okay uh let's uh go to our next
+presentation so uh we actually have um
+two
+new everscale startup competition with
+uh winners with us we had two last week
+uh we're probably gonna have a couple
+next week as well
+uh but the two that we have today with
+us is uh piggy fi
+and also demeter gift so we'll start
+with piggy five by the way i absolutely
+love this thing every time i every time
+i say it it just brings a smile to my
+face
+um so i'm gonna read exactly what piggy
+fight does um
+so
+um it allows people in africa to borrow
+stable coins at zero interest and at
+very low at a very low collateralization
+ratio so here with us is uh
+and forgive me if i mispronounce your
+name is it olawafemi is that correct
+follow femi
+oh hi hello um
+okay
+i want your hand
+right so we we have our family and we
+have uh joseph emmanuel um gentlemen
+welcome whoever wants to start first
+please go ahead
+so um oluwafemi is not yet at the moment
+they will join us we proceed um but
+there is paul alademiji on the call so
+he would really want to start the
+presentation
+by all means please go ahead
+all right grace uh thanks for having us
+ron and the rest of the team
+uh so i'll just go ahead to share my
+screen
+uh where i go through um some
+uh
+like where i go through basically what
+pdf is and
+what we're building and what problems
+we're solving
+so um just to clarify can you all see my
+screen
+yes we're here
+okay awesome awesome all right so um
+what is piggy five
+basically piggy fi um is an application
+on a platform that solves money problems
+for africans so uh what are these money
+problems we're talking about
+so first of all sending money within
+africa is very difficult uh most of the
+uh current alternatives which are the
+incumbents like swift western union and
+monogram they're very slow and they take
+a long time for you to get your value
+and they cost a lot of money and require
+a lot of documentation uh a lot of the
+newer platforms are heavily linked to
+banks so as a result you know maybe if
+you want to send money to different
+african countries you can only send
+within maybe
+nigeria to ghana or a total of about
+four or five countries and then um
+because of this a lot of africans have
+resorted to you know sending money using
+peer-to-peer channels but most of these
+peer-to-peer channels have been very
+informal and offline so that means they
+go meet you know a
+money exchange dealer on the street and
+then they hand them their currency and
+then that dealer facilitates the
+exchange to a different country so the
+problem with this is that it's very uh
+it's it's it's very uh it's prone to
+fraud
+and then because you're dealing with
+someone who you don't know at all
+there's a lot of security risks involved
+and it also takes a very long time the
+second problem that piggy fi is solving
+relates to saving money within africa so
+in africa as
+i don't know if you guys are aware but
+we have some of the highest inflation
+and evaluation rates in the world uh as
+you can see in the chat below you can
+see that and nigeria zimbabwe and a few
+other countries have inflation rates as
+high as 17 percent uh zimbabwe as you
+can see has 107
+so as a result of this a lot of people
+don't like saving in their local
+currencies they prefer saving in a
+foreign currency but there's very few
+applications that allow people uh solve
+these problems so what piggyfire has
+done is that we've built
+a convenient way for people to be able
+to save and send money within africa
+i'm just a brief about our solution so
+what we do is that we use the blockchain
+uh to enable first of all easy and
+automated
+peer-to-peer transfers within and
+outside africa secondly saving in u.s
+dollars to protect against inflation and
+defamation as i explained and then
+thirdly the infrastructure that we're
+using to enable this we're going to be
+releasing it as a suite of api and
+developer tools for businesses and other
+people who want to enable you know
+crypto exchange or crypto to fiat
+exchange to be able to use it to um
+apply it within their websites
+applications and other uh platforms
+um some of people need bigify as we
+showed here like there's a lot of
+use cases where piggy fi can be used and
+all over africa a lot of people ask for
+these things we actually you know uh
+went across twitter and then found a lot
+of people asking
+about you know sending money uh being
+able to you know access money in
+different countries
+but i don't want to waste time with that
+so i'll just take you through some of
+the features of pdfi as well as our
+architecture so uh pigify has a
+peer-to-peer currency conversion for one
+uh apart from that also we also allow
+you save money your local currency which
+is us dollar by facilitating it using uh
+cryptocurrencies such as cusd cellular
+dollar and busd uh
+binance usd um then apart from that as
+well you can also send money and receive
+money across africa from even outside
+africa to within africa then apart from
+this uh as i mentioned earlier we're
+going to be releasing
+our api as a suite of developer tools
+so let me quickly explain uh the
+technology and how that peer-to-peer
+system works uh it's a bit complicated
+but i'll just try to simplify it and i'm
+sure everyone will be able to understand
+so in the center of everything basically
+is a global p2p api so what this p2p api
+does is that it enables uh people who
+want to exchange money to be able to
+access these fonts through vendors so
+vendors are individuals or businesses
+who provide liquidity to the platform
+and liquidity in this sense is um cello
+dollar or busd so in an instance where
+someone in america let's say user a
+wants to send money to user b which is
+me in nigeria what user it does is that
+he funds his piggyfi wallet with um
+uh usd for example since he's in the
+united states of america and then piggy
+fi smart contracts then matches of the
+piggy fi api matches that
+user with a vendor who has busd and then
+that vendor after receiving the funds
+that is the hundred dollars that user a
+wants to send
+that vendor's liquidity which is locked
+on the p2p api platform is then
+subtracted from
+using rpd5 smart contracts and then
+after it is subtracted the value that uh
+the uh vendor uh
+the value that was subtracted from the
+vendor's amount which is hundred dollars
+is then reflected in user b's account so
+this means that user a um uh the vendor
+who had provided liquidity on the
+platform
+out of the liquidity that the vendor had
+provided would be taking say hundred c
+usc from that liquidity and then
+provided it to user b so on user base
+and after he has received the funds by
+the time he wants to exchange it for his
+local currency which is naira he also
+looks for a different vendor who
+provides this time around naira to busd
+exchange and then this vendor is able to
+you know we subtract the amount from
+that vendor and then provide the higher
+equivalent to the user b in nigeria um
+don't worry by the time we're explaining
+the demo uh when we're giving the app
+demo you'll be able to understand it if
+it's better but basically we are using
+our liquidity providers to be able to
+provide you know end-to-end exchange of
+currencies from one particular country
+to the other
+um i'm going to briefly go through the
+market and then
+also some of the current competition
+in this space uh so the market size
+basically we have um 14 billion dollars
+in uh intra-african remittances as well
+as there's a huge number of mobile money
+users in africa
+uh then some of the current competition
+of course as i mentioned earlier uh we
+have the uh informal p2p channels that a
+lot of people use this includes um some
+of the burrito changes and a system
+called the hawala system so the problem
+of this is that it is prone to fraud as
+i said earlier and then a lot of it is
+also very manual and is used for money
+laundering then other systems such as uh
+western union and uh
+swift wire transfers are very slow and
+uh they actually cost a lot of money
+some of the modern fintechs have tried
+to use crypto to solve this problem but
+a lot of them still rely heavily on
+banks while we rely on our p2p system
+and this p2p system gives us certain
+advantages such as being easier to scale
+and also being censorship proof so
+because it's the decentralized system uh
+you know the government or banks or
+other regulatory bodies can't easily
+shut it down because they would have to
+you know rely on the white so
+before they can shut it down they'll
+have to shut down you know multiple
+nodes or multiple p2p uh accounts which
+will prove to be very difficult then
+apart from this also we're also lowering
+the entry barrier to crypto because
+people who use piggyfi won't need to
+connect their wallets except for the
+liquidity providers if i want to send
+money to my brother in kenya i don't
+need to know how to use crypto at all
+um our revenue model basically we're
+going to be charging on transfers and
+savings as well as the api itself and
+then we have a very very comprehensive
+go to market strategy that involves um
+social media marketing email marketing
+and also acquiring vendors through
+offline uh channels which includes
+direct contacts and partnerships with
+telegram groups where there's a lot of
+as i said earlier this
+p2p exchange happens informally in very
+many channels offline so what we're
+doing is that we're putting this onto
+the blockchain and we're going to be
+taking some of those vendors who
+currently operate in telegram groups and
+offline channels and we're going to be
+putting them online through pd5
+um
+some of our milestones uh we developed
+the initial proof of concept last year
+and we've set up a core team and we've
+won several hackathons uh with this idea
+including zen hackathon we currently
+have a partnership with zend which is a
+yield aggregator uh for defies in
+nigeria or in all over africa then uh
+apart from this we also won harmony
+hackathon as well as the african
+different prizes of cello uh for this
+quarter one we're currently developing
+the alpha version of the pdf platform as
+well as the global
+peer-to-peer api which is going to be
+released in quarter one uh latest by the
+end of april we should have something up
+and running and during that time we're
+going to be supporting our currency
+conversions between naira and the usd as
+well as remittances into nigeria
+uh then in the future we're going to be
+branching out into other african
+countries as well
+our team consists of
+as i mentioned earlier femi who i think
+is with us right now then aloha femi is
+basically the uh blockchain developer he
+has years of experience in blockchain
+development and uh
+he before he joined uh pdf before he
+started pd5 uh uluwa femi was the
+founder of a
+fintech startup which processed over 500
+000 dollars in customer savings and had
+more than 20 000 users
+joseph emmanuel is a full stack
+developer uh bosses me manube is our
+ui designer i called meiji i'm a product
+manager who
+helps with uh basically managing the
+whole project building up the community
+and trying to get our alpha to at least
+a v1
+so um up next i'm going to get emmanuel
+who is a full stack developer to give a
+brief demo of the pdf application so you
+can see how it actually works
+for the user
+absolutely thank you thank you paul
+emmanuel
+yeah hello me
+yes yes we can hello okay i can't seem
+to share my screen right i think i'm
+disabled oh uh just uh paul can you stop
+sharing
+all right
+i think you can now
+[Music]
+facing my screen
+uh no not yet
+oh there it is yes now i can yep
+okay um
+uh
+one second
+i'm trying to navigate
+okay yeah um so
+this is the
+um version one for the piggyfi platform
+um what we have here is what the
+customers or clients will see when they
+log into their piggify app and you can
+see um the person can basically decide
+to phone your wallet and what that means
+is that like um depending on the country
+the person is they might not have u.s
+dollars so that's why we are
+relying on like
+um
+cryptocurrencies like cusd stable
+currencies like cusc to like um make
+that happen so when they click on phone
+volume what happens is they pick the
+amount they want to phone say 2000 error
+when they proceed to the next page
+they can like it tells them oh you're
+about to fund your order with five
+thousand or five thousand is like the
+local currency for nigeria and um if you
+tell them the equivalent and usd that's
+about
+878 usd
+um you
+click on confirm so what this is is um
+it's showing them
+that they are about to like connect to a
+vendor so the system will automatically
+connect them to like a vendor that can
+satisfy their order and the vendor is
+supposed to like provide them with the
+um dollar equivalent of that amount they
+are trying to fund so if i'm saying if i
+want to fund my wallet with 5000 error
+the vendor is going to provide me with
+like um eight usd to my wallet so when
+they click proceed um it waits and i can
+transfer so it shows me the account to
+transfer
+the money to locally so i can transfer
+basically the factor on to the vendor
+locally
+and once that is done
+it takes me back to like my dashboard
+where my funding my account has already
+been funded and with that i can
+basically fund my savings
+you can pick um what
+how long you want to save the lock the
+phone with us for
+and
+how much you want to lock with us so
+what happens is on the back end when you
+click proceed it
+then locks the phone for like as long as
+you want it to be locked for and you get
+like roi you get like interest rates
+based on that duration and settings that
+we've provided
+um i believe this is supposed to be like
+a quick brief demo so i'll stop here and
+wait for questions
+i'm sorry yeah yeah you're ready oh okay
+yeah um
+that's it you're ready for questions
+yeah yeah
+um okay um
+i have one
+um i think i may and forgive me i'm not
+a technical person or maybe i
+i'm trying to sort of understand
+wherever scale fits into this
+do you want to take the question
+hello anyone
+yeah
+i i guess i'm trying to understand
+it's a fantastic presentation a great
+idea and um it would benefit
+the african community greatly
+i guess i'm maybe it's just me i'm i'm
+kind of uh lost as to where ever scale
+or
+formerly free time fits into this
+hi can everyone hear me yes hi okay i
+was muted i wanted to speak
+yes go ahead
+okay all right so um the way do we add
+global b2b
+um works is that um
+we support like different blockchain
+like currently now we only support like
+cello and um busting right in order to
+provide liquidity we can provide
+liquidity in any any stable currency
+um irrespective of the blockchain right
+so right now we will integrate cellul
+and
+and um venus finance matching which we
+might be using right so forever scale
+that's the same thing we are going to do
+so the idea of the global ptp is like to
+power liquidity like
+um across africa to accept americans so
+we we are more concerned about like you
+know
+what are blockchain that we are going to
+integrate
+the the cost of transaction and
+the speed
+in order to like um perform the
+transactions also important so for any
+because for youtube api we're going to
+be offering it to of that blockchain
+startup that needs to provide liquidity
+for your customer right so for any
+blockchain startup that wants to build
+whatever skill and
+one of the reason why i'm not sure if
+paul like expansion on that vehicle that
+we are doing the global hdb platform is
+because in africa what realizes one of
+the biggest barriers to engine
+for blockchain is because um quite a
+number of people are struggling with the
+concept of understanding using metamasks
+trustworthiness gas fees and all of
+those things right so one of the
+advantage of the private api that we are
+building is that if a blockchain startup
+wants to build today and they want to
+accept like any token on ever skill as
+um as a form of payments what our global
+p2p api can do is they can directly
+convert their fiat to that token you
+know stable currency or any like talking
+on that blockchain without having to go
+through the
+metamax um
+trust wallets understanding of gas flow
+right so that that is how ever skill
+fits into this project
+okay so so basically you're just using
+the platform as a as a as a back end
+i don't get a question for you
+you're using it as a backend because
+basically it's just a fast blockchain
+where you can make the transaction go by
+a lot quicker is have you already
+implemented the
+uh uh ever in your
+project
+not yet because we are not done
+with um building the
+uh p2p blockchain api once we are done
+in order to add like a different um
+blockchain is like going to like easy
+just to deploy the smart contract on the
+blockchain
+okay understood
+all right thank you very much uh
+do you have anyone just
+um just to just to mention as well um
+one of the reasons we're also looking to
+integrate other blockchains including
+everscale is that um because this api is
+being released to several companies
+there might be other uh maybe partners
+of everscale who are looking to you know
+integrate payments within africa and as
+a result of this um instead of them
+having to build their system into and
+they can actually plug into uh piggy
+fry's api and then with this uh p2p api
+they can accept payments um easily
+within africa so it's um your
+your partnerships with other companies
+can actually be uh much more effective
+you know within africa for payments
+rather than
+having to start from scratch
+um and they would be so so be a conduit
+like uh but essentially it would be
+because what we're doing is we're
+transferring money right uh through the
+blockchain
+so if somebody owns evers ultimately
+what they are going to want to do is
+they're going to want to convert them
+into some sort of fiat currency correct
+exactly
+so
+um
+okay all right thank you i understand
+thank you very much uh does anybody have
+any more questions
+thank you very much uh
+please uh is it aloha for me is that
+right
+oh yeah yeah yes okay i i was i was so
+nervous about pronouncing your names
+alawafami uh
+emmanuel joseph thank you very much uh
+everybody great presentation i
+appreciate it
+uh let's see let's go to we have another
+competition order it's a demeter gift um
+demeter gift um and i'm gonna i'm gonna
+quote this is a fun and transparent
+auction for nfts that focus on charities
+which is
+nothing's better than charity excellent
+so
+we have steve tyson with us
+hi steve pleasure to have you it's all
+yours take take the mic
+can you see my screen
+yes we can
+great
+[Music]
+so hello everybody uh my name is steve
+um i'm one of uh
+the people in the the media gift team um
+the media gift is a gift with a story
+and when we did some research we found
+that charities are very important in our
+society they are the organizations that
+help
+uh things going on they help like people
+that for example have like very
+a lot of difficulties but also very
+important research
+and what we
+found in our research also with
+charities for example in south africa
+for hiv
+they said that because of kobe 19 it's
+pretty difficult to really collect money
+in in the right way and also to make it
+more fun
+so that's also the reason why we started
+our research we found like a couple
+problems and four major problems says
+that the process of the donations is not
+always very transparent it's very
+difficult to
+uh
+make like a payment infrastructure and
+donations
+create a lot of administration and one
+of the last thing is that because of
+over 19 at that time it was very
+difficult also to start like events like
+charity auctions events to also to
+engage
+your uh your donators and that's the
+reason why we started the media gifts
+and the immediate uses the the power of
+the blockchain infrastructure to create
+the most easy transparent and fun nsa uh
+charity auction on web3 because our
+thing is that we want to go uh to engage
+the donators but also make them more fun
+and also create events for charities on
+their own platform
+so a little bit in a nutshell our
+protocols that donate as they can make a
+wallet so
+they can connect their wallet under the
+media gifts so we already collect
+connecting already
+a couple wallets one of those also like
+every skill what you can do is that
+people can donate nf days uh to the
+charities and people they can bid on it
+and that means that the highest bid that
+money will go directly to the charity so
+the great thing about this is that you
+have a better peer-to-peer
+system
+in a more fun way and this money can go
+to the charity wall wallet directly
+so there's not a lot of
+organizations in between
+and this
+gives us a more transparent way because
+we also know that for example like
+governments but also pharmaceutical
+companies sometimes they double
+the the donates the donations and this
+is most of them also like a tax-free
+donation so that's also very interesting
+if you can make it more transparent for
+the governments
+and when you uh want to buy as a charity
+for example like equipment you can also
+show to your donators where you have to
+spend where you spend the money into it
+because you can directly buy the
+equipment for example also with our
+protocol
+so the next thing is that uh what we
+want to do is that with uh the nfk by
+donation so if you donate a special nfc
+you also can bid on us and we also make
+our own nfcs for example for the hiv um
+so you can also see a couple of them
+here
+so amazing things here um donations is a
+it's a big thing and we also started
+like in the past that's very powerful
+people that also donate a big big amount
+but we also see for example like events
+like elton john that uh
+yeah create like all events to also to
+collect money
+and what we want to do in um the media
+gifts is that we also making like an api
+that can be plugged in in like for
+example like social media accounts so
+that means that when you go
+to that
+to that event you can donate directly
+and then goes to that charity event for
+example like the auction event which is
+very very interesting
+and
+maybe one thing in this time now is that
+we also see that we really want to help
+people directly so you also see for
+example like in the
+the big thing and this time
+that we really want to support do
+support people in ukraine and we also
+saw that for example like 60 61 000
+people
+also uh booked like an airbnb stage to
+help these people directly and on the
+other way we also see that there's a lot
+of scammers behind here that people they
+yeah want to scam people
+um
+about the thing which is really really
+bad so when we can make this more like
+accessible but also more in a secure way
+we can help people directly and it also
+can help to protect a lot of people in
+this kind of way
+so the next thing is that also we make a
+more accessible for example to also join
+children into there be because maybe
+they don't have money but so cool is
+that if you can make your own nsa for
+example like an art or a song you can
+upload it in our platform and people can
+bid on it you are then a part of the
+whole ecosystem without spending any
+penny
+and
+what we are doing here is that we
+creating the bridge between the four uh
+171 billion dollar charities for
+something in the u.s in combination with
+already a full 40 billion market about
+nf days and we are bridging these two
+major things in a fun and more
+accessible way for charities
+so what we can do we can help the
+donators to make it transparent
+destination everywhere at any time also
+involve processors we also can help
+society by also creating like new
+projects it's because it's very
+very accessible for everyone to start
+like a project and on the other way we
+can help charities to give them like a
+good payment infrastructure to start
+very nice events and also get like money
+directly and help them to invest in an
+infrastructure
+so
+our benefits is that what what i said is
+that also organizations and former they
+can for example double the amount but
+the more interesting thing here is also
+that a lot of governments they have like
+a tax-free donation and if you can show
+with uh with our system that you have
+done a donation you can show directly
+to the to the to the text organization
+that you have done this donation so how
+cool is it if you can do directly your
+text free donation
+so we have like a part of it so we also
+working now on several grants and the
+great thing is that also we help already
+we already in in in contact with
+organizations that maybe can use our
+platform and behind everyone uh several
+big awards uh and we also are occurring
+in some
+accelerators here to also to help and to
+scale our projects which is really
+really interesting
+so a part of our demo um this is our
+video where we explain a little bit
+about how the media gear is going we
+also changing our design so this is the
+old design but the new design is already
+live
+at first we go to the website
+demetergive.com
+when you're on the homepage you can
+connect your ever wallets
+if you don't have an account you can
+easily create an account to connect
+when you're giving the permission
+it will connect and show automatically
+your funds overview
+when you went to create an auction event
+as a charity
+you created events by giving the title
+end dates
+ever wallet address
+amount goal
+and the logo link
+also there is an extra option to
+generate a plugin
+after creating the event the event will
+be shown on the auction event page where
+you can see all the events from the
+charities because you have selected the
+generating plugin you will automatically
+get an html file as a plugin using this
+html file the organizer can set up the
+event on their own website
+where users can donate nfds or crypto
+punks and bid on it
+for each auction event you can donate
+nfds
+crypto bugs or bids on one of the nfts
+on the auction event page
+so
+when we donate an nft
+we have to fill in all the fields
+when this is done the smart contract is
+created
+this means that the nft is donated to
+the charity auction event
+the great thing is that because of the
+plugin
+all the donations and bits can be shown
+directly on a website from the charity
+for bidding you can only place a bid if
+it's higher than the current bid
+so when you pick it
+it'll make connection with the ever
+wallet
+[Music]
+when the bit is higher than the current
+bid your bid will be accepted and shown
+on the page
+[Music]
+because we are a big fan of crypto bunk
+we created a special way to donate
+crypto funds directly to the charity
+auction event
+which works the same way as donating
+another nft
+[Music]
+when the event is finished
+and you have placed the highest bids the
+smart country will then be executed
+automatically
+so this means that the charity receives
+the amount and you the wonderful nfc
+[Music]
+besides that
+you can easily pair
+[Music]
+and swap tokens
+would you like
+yeah so here you can see a little bit
+how we integrate it and um what's what i
+also want to
+say is that because of our plugin we
+also can help a charity organization to
+directly start an event on their own
+website because of our plugin and at the
+moment we are with five people crossover
+the netherlands germany and bangladesh
+and my background is also that i haven't
+started in uh healthcare where we also
+raised over five hundred thousand in
+non-diluted funding with grants
+and we also see that this can be have
+like a huge opportunity especially in
+this uh in this time so well thank you
+for your time
+sorry couldn't unmute my foot thank you
+very much steve that's very interesting
+um
+i i um i have a question i have a couple
+um so i i it's kind of like a
+it's kind of like a change.org with
+something that's actually actionable
+not just
+not just baloney
+where people just sign stuff and it
+doesn't mean anything but here you can
+actually donate something but i do have
+this question so uh so if i do so i can
+create an nft i donate that nft to a
+charity of my choice could that
+possibly be construed as a security
+uh
+what sense
+in that it's an nft but what i'm really
+doing is i'm making a donation right um
+now the charity aspect of it might um
+negate the security aspect of it but uh
+the or the securities aspect of it but
+here really it is we're talking about
+like anybody looking at it from uh
+regulatory point of view might look at
+it and say okay well they're donating
+money right yeah so what would be like
+do you know how
+have you researched the legislation
+behind something like that um
+how how a regulatory body would look at
+it yeah i think that's a good question
+but i think that's like for all the
+blockchain projects for example in the
+netherlands they close a lot of
+change but if we see for example in
+wyoming in the us they're also changing
+the regulatory laws and there so i think
+we are like in an industry that is
+changing really really rapidly of sort
+of context there but i think it's a good
+question i think the most important
+thing is that we know that for example a
+lot of donations are now are not
+transable so we don't know for example
+where the money is going through so i
+think this is a big big adventures and i
+for example also like in politics where
+a lot of people want to support their
+own parish so
+if you can make them more transparent um
+is to make it more accessible for
+everyone if you don't have money you can
+donate your own nfc
+for example with your creativity
+[Music]
+something with a lot of things in there
+but we also know that chicken in the egg
+all the time
+yeah and maybe even uh yeah and because
+it could potentially any nft could
+potentially rise in value
+so okay you answered my question yeah
+absolutely
+does anybody else have questions for
+steve
+ben
+hey steve uh yeah really really great
+product buddy um i really like it uh a
+very simple question do you have a
+website at all am i missing it i was
+just googling but um
+i didn't find that either i didn't find
+one either
+demeter is the it's a uh an old goddess
+yeah yeah yeah
+yeah it's it's a demeter gift i believe
+it's demeter
+it's the mediagive.com and actually we
+also bought the new domain name the
+mediagivescoin.com
+because we are also looking in to start
+our own coin in 2024 something which we
+are now in association with a lot of
+parties that are helping us with good
+advice but uh the website is the
+mediagift.com
+well you can do that on everscale now
+you can see you can do that right now
+i have to say that the mediagive.com is
+uh now some wallets are accessible but
+uh we have to say we we did some pilots
+so every skill was a pilot but we also
+did some uh pilots with auto wallets and
+what you're doing now in the coming
+months is to integrate all these wallets
+together
+yeah
+so it's like upping and running all the
+time
+understood
+yeah and you said you were working with
+a couple of um groups like uh crypto
+chicks was it yeah exactly so we also
+like uh get approval to to go in the
+crypto checks accelerator which is
+really cool because we think also we
+need more women in uh in the technology
+and for example like we have more fifty
+percent of our team is women uh it's a
+friendly issue fashion you cannot join
+today but uh yeah so we also go in in
+that part
+thank you very much steve thank you very
+much
+does anybody have any more questions for
+steve
+all right all right before we get to
+youtube questions we're going to go
+right to our final segment um all right
+i got it i have like always been i got
+to read it okay so it's uh from
+marklings yeah
+uh our bombastic british bullhorn ever
+scales uk brother like no other none
+other than ben himself smack us upside
+the head with your bits buddy
+that's a very visual image and put your
+hand down
+and put your hand down by the way
+it's more fun smacking you upside the
+head with my bits while i've got my
+hands up yeah yeah yeah it's a bit
+long-winded there right bits for you
+guys uh right so straight into it there
+have been a few uh cool updates on surf
+this week uh one of which i really liked
+which i tested out yesterday uh you can
+now kind of basically buy directly get
+uh gift cards for over 5 000 different
+vendors through surf with your ever and
+uh again there's kind of uh some of
+those issues ron was touching on it it
+kind of it's a nice way to keep the ever
+in the ecosystem whilst also keep it
+flowing and i think it's a really good
+initiative um obviously they're in beta
+phase at the minute but do test it out
+uh there was an announcement on the news
+channel yesterday and it's very cool way
+to save up for some christmas presents
+as well i think that that might be what
+i've been looking at it for
+uh
+next up we also had uh one of the d5
+alliance members was interviewed in
+forbes or had a couple of comments in
+there no less so that's definitely some
+really good publicity there guys well
+done on that
+uh the indian sub-governance the
+community voice sub-governance and a
+couple of the other uh sub-governances
+which are kind of winding down
+activities have uh returned some of the
+uh funds they had remaining to the giver
+account over the past couple of days
+which is a really good thing obviously
+so uh you know kind of out with the old
+in with the new moving on with the
+initiatives
+uh speaking of new initiatives i i
+really like this one uh scouting grants
+so uh
+uh basically if you've seen the
+everscale grants program
+well you might think oh damn i don't
+have a startup myself but i do know
+someone who does well now you can get
+paid just for kind of introducing them
+you know you do that little golden
+handshake thing and there's there's you
+know an incentive available for you so
+what you're waiting for brilliant
+and last but not least on my list of
+course i was going to read a little
+something but i might actually just
+share a quick little clip i managed to
+find one clip from this week's never
+mind the coins which i don't think
+is x-rated at all so
+share sound and here we go can i get a
+little thumbs up or something can we all
+see that
+yep
+yep aces and hopefully we'll be able to
+hear it as well give him my track record
+though we'll wait and see that's such a
+good idea though that old dvd thing
+where you watch it and then you're like
+just touch the corner just touch the
+corner i'm waiting it's been five
+minutes you're still here
+you're betting on which corner it's
+going to be yeah
+there we go so yeah it was a lot of fun
+that was the oh that was the only
+g-rated part of it that was pretty much
+out of 33 minutes of recording about the
+only 20-second individualized joke i
+could find which wasn't uh mentioning
+something slightly inappropriate for a
+lunchtime uh work or work meeting so but
+yeah it was a lot of fun and we covered
+so much news i realized like if you feel
+like there was anything in kind of
+february the first couple of days of
+march that you missed in the crypto news
+you know catch it up 33 minutes
+a few jokes few laughs
+um
+going back to what steve said we had a
+good uh crypto chick representation with
+amy and dion playing against eugene um
+yeah who
+didn't do too good of a job of
+representing us sir that's been out
+there but you know i'll let him off
+because it's eugene and we love eugene
+so yeah if you haven't left a review or
+you know all that kind of stuff anything
+you can do really helps and yeah thank
+you everyone that's my bits for this
+week thank you ben thank you very much
+uh roman has his hand raised vermont i
+think he you did have a
+quick thing that you wanted to tell
+everybody right
+uh
+yeah exactly uh i just want to uh to
+make a short announcement that we
+launched the form
+every scale community feedback form that
+everyone can report
+about bags
+about the current problem in the
+ecosystem
+[Music]
+you can suggest your marketing offer or
+any help you want or you can find the
+job or in the
+companies in ecosystem uh just filled
+this form uh
+this announcement
+was posted on the
+on the everscale unused uh channel
+and it will be uh reposted every single
+week so
+you're welcome to any your feedback
+thanks
+thank you ramon you heard him
+all right uh well we have uh two
+questions on youtube and uh technically
+one of them's been answered but i'll
+voice it just for the sake of this call
+uh what about the freeland passport nftn
+upper scale blockchain i believe that
+was addressed uh very clearly by dadar
+and the second is there are nfts on sale
+uh
+on grand bazaar is it possible to have
+some more information i don't believe we
+have anybody on the call from grand
+bazaar here but i guarantee that they
+will uh watch this video and they will
+respond if you
+need you can dm me directly and i'll
+write uh here
+at uh yoast
+three
+just dm me and i'll get you in touch
+with the right people so
+so that's it
+any more questions any more comments
+just just a question to roman d about an
+issue i'm still block it on to
+the russian everscale community just
+because i tried to share links to the
+for freelance
+so happened to me too yeah just just uh
+pm me uh in the chat and i'll unblock
+you because there are a lot of spammers
+unfortunately
+okay okay it's happened to me too even
+i've been blocked
+everybody thank you so so very much for
+coming uh excellent presentations very
+interesting and global i love global the
+more the barrier and uh
+i guess uh
+as per my usual have a great rest of
+your week i have a wonderful weekend and
+we will see you back here on tuesday
+same time next week
+thank you bye-bye thank you
+bye-bye
+bye

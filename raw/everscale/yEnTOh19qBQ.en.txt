@@ -1,0 +1,1570 @@
+and we're going to hear about the new
+surf app for desktop so i hope everybody
+enjoys it but before we begin i'm going
+to do my usual boring repetitive uh list
+of call etiquettes so if you're not
+i don't know if you're not running from
+a tornado
+uh
+diving for scallops can you please turn
+your cameras on give us a bright smile
+uh please save your questions until each
+presenter is finished with their
+presentation
+please use the raise hand feature and
+zoom to ask a question and if you're
+joining us on youtube
+uh there's a comment section you can
+leave a question we'll get to it at the
+very end of the call and just as a
+friendly reminder this call is
+english only so
+let's begin uh let's start with
+technical updates like we usually do
+media if you're ready go for it
+hi
+well
+so uh as you know we have updated
+created the network uh
+with a new
+cumulative update
+which is uh which is a lot of uh a lot
+of
+stuff uh a lot of changes a lot of fixes
+and
+you know sort of things um we're waiting
+for the
+network to
+kind of upgrade itself to the to the
+like acceptable numbers like over 95 or
+something
+and as usual it goes quite well it's um
+goes very fast uh until like 90 percent
+or something and then
+there is this 10 percent of people who
+just don't give a
+i don't know it's uh all sorts of
+strange numbers strange versions that
+they're running with their notes like
+node version 14 by wearing 22 and so on
+so 53
+so on and so forth
+so you always have this 10 lazy percent
+that's why we have a
+soft majority voting mechanism where we
+should have having that mechanism but we
+don't but anyway
+so um
+so we will wait
+in the meantime
+um we're checking on the like on the
+devnet
+um
+the next
+kind of switch
+of the configuration parameters which
+will enable
+all these
+wonderful features that are in this
+upgrade so um
+it's kind of a two-step process
+including compression but also many
+other things
+and we're also working on copyleft
+instruction as well
+um
+so it's in testing now
+and the copyleft instruction requires
+certain upgrades to the
+to the configuration parameters of the
+network which
+which need to be done
+in a certain particular way
+that's
+like it's complicated tiny things that
+should just work
+uh like 100
+because if they don't
+they have problems with networks so
+that's why this is like
+this does take time because it takes
+time to verify and check them a lot
+um so that's really
+that's really
+the thing once we upgrade it
+of course i will you know we'll write a
+list of things
+in particular that that has been
+upgraded
+yeah there's a lot of versioning
+mechanisms and dna versioning mechanisms
+and a lot of versioning mechanisms but
+we need to get through this mess
+once it's for all
+um
+another thing that we are busy doing now
+is we have finished the delector smart
+contracts
+and now we are
+working on supporting the smart
+contracts on the node
+and we hope to
+roll out this actually quite soon during
+april we will move to
+in the devnet we will move to the new
+uh
+completely new
+uh election
+kind of procedure in the network
+um
+and uh
+yeah so that's um i think that's that's
+all from me if you have any question
+please be sure
+do we does anyone have a question we
+don't see hands raised but please
+if not
+okay
+thank you very much mithia
+let's go to our next presenter
+we have alina
+who's the chief operating officer of
+swoy.dev
+um she's here to talk about everland
+ever lend as in lending not ever land um
+sorry it's
+have trouble pronouncing it sometimes
+everland uh you
+might recall she mentioned it on last
+week's call um there were
+several announcements in the chats and
+now we're gonna
+hear all the details and in case anybody
+has technical questions she's also
+brought her colleagues uh her cto and
+and also an advisor so yeah alina
+welcome if you're ready
+tell us all about overland
+yeah
+uh hi ron and hello everybody i'd like
+to show you a little presentation about
+our of our project and i will share my
+screen now
+[Music]
+hope you can see it yep
+uh
+well
+here
+i will start from showing you our
+product
+you can go to the website and
+check it out
+uh here we have the
+lending platform
+i recorded the
+screen for you so we can save time for
+presentation because
+um
+it takes time to
+load some
+operations so to make it more quickly
+i'll show you the video but you can go
+to the website and check
+everything by yourself that everything
+works exactly like in the presentation
+uh well about our product um
+we have lending platform where you can
+borrow and land
+assets
+first of all you go to the platform you
+connect your wallet for now ever wallet
+or ever scale wallets are
+available you can
+sorry
+yeah
+as you can see on the video you can
+choose to connect to wallets for the
+example i chose our wallet the wallet
+created by our team you can go to the
+website of our wallet
+rescale wallet and install it
+it's
+google chrome extension
+if you use google chrome
+uh
+so yeah this is how you download it
+for the website and then you go to back
+to the platform connect your everscale
+wallet and
+create an account
+to do this you have to have 10 errors on
+your account
+uh at least
+to create an account cost less but
+some parts of payment
+will be
+back on your account
+after
+creating
+so here we have transaction
+describe it
+accept it sign it password
+and yeah
+here we have created account
+since that moment you will see uh all
+the information about your account here
+all about all information about total
+values like total supply and total
+borrow here
+they are relevant this is the fresh
+video and here you have the
+table with all the needed information
+like uh
+supply b bureau b supply balance
+available for you and your debt this
+table is about your account
+so let's try to borrow some usd team
+to do so
+you have to
+you have to supply uh some assets first
+for example uh whoever it's
+wrapped ever
+to get them you can go to the platform
+every scale token wrapper
+connect wallet
+and wrap some errors for now uh this
+platform supports ever wallet only
+this is why we updated our wallet
+so
+you can go to
+uh to extensions
+and drew and turn off ever wallet
+after that moment
+when you press
+connect ever wallet
+your everscale wallet will be connected
+this is how our simulation works
+it can be turned off in the account
+settings enable overwatch emulation
+but to wrap your tokens you need this
+function
+so after you wrap some tokens you go
+back to the platform
+and you supply some assets
+press supply
+we have a waiver here
+and we press
+supply after wrapping our errors
+supply here you can see available
+balance of your wallet for a supply
+we press supply we confirm the
+transaction oh sorry
+and
+then supply request sent okay
+if you have any troubles feel free to
+reload page
+because sometimes it needs some time to
+to upload all the information
+after it's uploaded you can see
+that available balance
+is changed now we can borrow some assets
+here you can see available
+available amount for you
+here we have 1.5 usd team because
+not
+to
+all the amount you supplied you can
+borrow
+assets just for parts to keep it safe
+well so here we borrow some usdt confirm
+it
+okay okay okay
+and after that
+when all information will be
+uploaded you can see
+brand press springfresh table
+so now we can see
+that uh your debt is one usdt which you
+can repay any moment
+and you can see your weather balance
+here is your account rank your
+collateral oh sorry
+i need some
+to upload borrow
+amounts
+sorry guys
+okay so uh sorry
+yeah yeah here will be your borrowed
+amount one usd team your your supply
+here your collateral
+uh also we have
+risk
+information about your account
+because since you borrowed some
+assets you have two
+ways of moving forward you pay back your
+debt
+and percentage any moment you want
+uh
+and we don't have time limit since your
+collateral is enough uh to pay your debt
+and to pay your
+uh
+percents you can
+feel free to use received assets
+uh here you can see risk meaning that
+you borrowed quite
+a lot
+according to your collateral
+and if your risk gets up to 100 percent
+your loan become available to
+liquidators
+we have this function and any users can
+become liquidator if they see risky
+risky debt
+uh which which was uh
+100 risk
+they go to your
+to this
+page and they pay your debt
+uh they get collateral according to this
+debt
+and they get eight percent about that so
+they can earn some on that
+uh well that's pretty it uh so feel free
+to use our platform his working platform
+uh we launched on 18th of march
+and uh we're happy to share with you
+information that
+we also launched token sale at the same
+time as we launched our platform
+and if you press to token page
+you get
+right
+here
+and here is all information you need
+about our token
+uh this is the token of existing working
+platform
+for now we have limitations
+uh not more than
+as i can remember for now 200 usd you
+can borrow
+because
+we still test it on community and to
+keep platforms safe for everybody we
+decided to keep limits
+uh also what is important to note that
+right now our platform goes through
+formal verification by the community we
+just passed through the first stage and
+uh
+moving to the next one we launched the
+platform before the end of formal
+verification but as i said
+uh we
+uh we have limits for uh
+essence amounts
+uh so here on the page of everland
+land token you can see all the needed
+information about how the platform works
+about the distribution of land tokens
+here is our start sale 5.5 percent of
+token total token supply
+lock-up periods and best things and what
+gives you token ownership
+also you can see our telegram channel
+twitter and medium we publish all the
+relevant information
+there about the project and if you want
+to buy some lan tokens you just press
+here and you will be sent to the ever
+start page platform
+our product project was the first one
+project zero as we say uh on this
+platform
+we
+very close to
+uh to
+our soft cup amount
+this is launchpad system
+so
+if we
+get to
+softcup you depos you you're not buying
+latin blend tokens like direct amount
+you invest some efforts
+into our project and when the
+final
+date comes
+uh it's it will be in three days on the
+31st and the 31st of march
+you will get uh tokens in the mount
+according to your part in the whole pool
+uh yeah so i think that
+oh it is very important to say that the
+purpose the idea of our token is that
+the community decides um
+the future and
+kind of the present of the platform
+because
+it will be those systems so many
+questions will be
+brought to the community and talking
+holders will decide for example what
+indicators will be said uh on the
+platform of what limitations we have
+what next stages we will have and
+everything else what is also important
+to note that um
+our
+token have some um
+features like um features we plan to uh
+make feature for liquidators
+token holders will have priority in
+liquidation process so they have they
+will have
+more chances to earn on the platform and
+also it is important to note that um
+to
+to list a new asset on the platform if
+you want to do that you have to pay
+the
+fee and this fee will be
+in land tokens and this fee will be
+burned so this is how we plan to reduce
+total amount of tokens
+it is also very important to know that
+we plan to have uh
+different
+uh
+farming programs
+and other activities for the community
+i'm sorry if it was too long so many
+things to say
+uh
+please feel free to ask any questions we
+are open to them here or in our social
+media if you're not ready yet
+thank you very much alina excellent
+presentation we do have a question meter
+yeah it doesn't work on brave
+browser i cannot connect my wallet
+so i couldn't try it then
+brave brave browser
+yep
+yeah
+like it does nothing and i'm clicking on
+ever wallet to connect and just just not
+responding at all
+yeah braves like kind of a secure
+browser it's more secure than you know
+chrome or anything like that it's
+often used okay
+uh here we have andrei with us he is our
+cto jd we have something to say about it
+now or we should check it a bit later
+because i'm not sure if we tried in this
+browser
+we'll check it later
+okay okay okay okay thank you yeah i
+cannot i cannot yeah i cannot check
+because this is the only browser i use
+to kind of put this with the crypto
+stuff and
+it's chrome based so it should work but
+it's it has a little bit more
+restrictions
+but i'm using that for you know roxas
+products
+and that works so i know that wallets
+like the but it's called ever wallet
+works
+okay thank you very much we didn't face
+this before but we will check uh for
+sure and improve what we can hear
+and and i had a question i uh you said
+what was the limit in usdt
+the power 100 for now
+for now
+200. yes
+because we tested
+200.
+200 to 100 of course it's 200 for now
+we test it a lot but still it can be
+different on
+a lot of people and we decided to to
+keep this limit until we
+have the end of formal verification as i
+said and
+until this kind of testing period will
+be over
+understood understand thank you very
+much
+any other questions
+if not okay thank you again for your
+presentation wonderful interesting stuff
+um
+our next presenter i think just uh i'm
+sorry i'm sorry ron i'm so sorry ron uh
+to interrupt you yeah thank you very
+much for the time uh i see that we don't
+have questions by now but as i said
+we're online on our social uh networks
+and uh we had a session in english last
+week but
+we had people who asked to tell more
+about the project in russia in russian
+so we plan to do on a session in russian
+as well
+with our technical director of course
+and just join our social network and
+keep updated and we will we will have a
+session in russia for sure thank you
+very much sorry
+no no worries um and just for english
+speakers i'm a basically ama and ask me
+anything
+um all right elena thank you yes sorry
+just just one just
+this one thing you you have a cross site
+trackers on your website also which we
+usually
+trying not to do these things
+uh as a as a community
+kind of
+deadline i don't know
+no
+usually we try to avoid this
+is you can have an analytics
+based on the blockchain activity of your
+users you don't really need
+those trackers and i don't use
+uh
+like web3 websites which has anything
+which which provides any information
+back to the server
+and all these trackers are blocked
+anyway but but i don't think you should
+have them in the first place
+yes sorry but we don't use the intercost
+you do
+no
+yes you do
+[Music]
+check it can we get can we get like uh
+we will check it again right or we
+should get any which information
+so we we just
+uh okay we connect google tech manager
+but uh
+nothing
+yeah exactly but you do it
+yeah but it connected without ig so
+it's not loading anything
+yeah i know but still
+okay
+okay for thank you for requirements
+um
+thank you everybody for your attention
+thank you
+okay
+let's move on uh our next presenter well
+i don't think needs any introduction at
+all it's joanne from mrx my colleague
+uh let's talk about the surf desktop app
+which obviously
+i can't resist and
+be shameless and say i'm
+100 behind it i support it because
+frankly hey you know we're uh we're all
+in it together so
+yeah joanne
+hi thank you thank you for that
+introduction um i want to share my
+screen
+uh
+i only have one monitor here so i gotta
+pick wisely
+um okay can you see
+okie dokie great
+great
+so uh ladies and germs i've got a quick
+presentation for you today and i know
+rowley has been waiting since 2020 so
+let's get on with it um
+i'm thrilled to present to you
+the new
+well the first version of the surf
+desktop app which is fantastic
+if you don't know surf is the most
+trusted episcopal browser for defy and
+nft
+remember that
+um
+so you can see that it has all the
+features and functionality that you love
+about surf mobile and the web version
+it's got a clean and slick interface you
+know the easy123 setup and per usual
+uh
+the surf team sends you a small amount
+to
+deduct
+initiation fee
+which will deploy your wallet your your
+smart contract
+so there's no setup fee no costs this is
+a free
+wonderful browser
+and for those of you who enjoyed the
+comfort of the web version you'll
+appreciate that the desktop version
+even more because it offers a bigger
+viewport and of course it's more secure
+in order to get here you'll have to go
+to
+the website but right now the link is
+not
+not on the main page of surf so you have
+to go to eversurf forward slash
+download and then you'll find your way
+here
+uh
+so you can go down and pick your
+operating system
+your processor and download it and
+enjoy
+very simple
+um unfortunately we have to say goodbye
+to the web version of surf soon you know
+it no longer meets the need the the
+views of unfortunately it's great
+yeah yeah but i
+it i i used it a lot so
+you know i'm sure others used it too
+but it's not uh fast enough it's not
+secure enough so we're going to replace
+it
+um with at the desktop client
+uh what else so
+shortly the surf team will be pushing
+out a guide on how to install the
+desktop version of surf
+uh just to ensure that everybody
+regardless of operating system can have
+a smooth experience
+um
+and i'd like to highlight here
+beta testing opportunity for beta
+testing
+if you want to be a beta tester which is
+highly appreciated you can just scroll
+down to
+one experiment
+go here
+jump into join the community drives to
+telegram chat or you can just use qr
+codes to go whichever way you want to go
+and
+your feedback is very valuable
+you can help make surf a really awesome
+product which is going to stick around
+for
+ever
+and uh
+more communications will come after this
+short presentation all in in surf
+channels and on everscale channels
+following this announcement and
+if you have any more
+if you have technical questions
+uh
+about the details then you should jump
+into the surf chat on telegram
+um
+before i close it i'd also want to kind
+of
+plug
+that the um
+strategic round of the
+cell
+is ending soon so if you want to jump in
+with uh
+if you've got like over 100k evers you
+could jump in for the token price at 20
+cents
+um or you can take advantage of
+no threshold just you know buying
+buying in at whenever um but the price
+is a bit higher at 30 cents
+and this stage is going to end on the
+30th
+um
+and that's about it
+just a short fi fyi and everything
+happening
+should we also mention that uh maybe
+there are uh certain terms that could be
+discussed for institutional investors
+for the sale
+mm-hmm
+um from what i understand uh you know
+institutional investors who might want
+to bring in um
+larger amounts
+maybe dm me directly and we can talk
+about that and figure something out for
+you
+absolutely
+joanne
+petition
+any questions
+i don't see any hands raised
+no pretty simple
+pretty simple cool download it try it
+yeah download it try it uh ever.surf
+forward slash download but of course um
+yeah i know
+you guys try to get the website up and
+running before the call today but you
+know it's kind of last minute so it'll
+be it'll be working and yeah it'll
+it'll be on it soon
+all right yep
+let's move on um let's go to kate
+uh from pie union uh who's here to talk
+to us about easy pay um spelled
+differently i forgot if it's like one's
+i i z i pay i believe
+i'm sorry if i'm
+but uh they've been making a lot of
+really good noise in the community chats
+uh i think a lot of people saw the
+announcements and now we're gonna hear
+about it firsthand so kate if you're
+ready i'm gonna pass a microphone to you
+please tell us about easy pay
+yeah hi everyone and thanks ron for
+introduction
+so
+let's start um i will share the screen
+so you can see who we are and we will
+jump to uh easy pay
+products also
+so um i'm from pi union we have a lot of
+um
+crypto products um to talk about
+but now i'm going to focus on
+easy pay
+so this is um ever scale friendly
+mastercard
+uh which if you are interested after my
+uh presentation you can either
+leave
+a message here on our website or just
+go directly
+to our website and if you have a
+smartphone you can use apple store
+google play to download our free
+app
+and get the easy pay card straight away
+so
+let's see if
+you can see my presentation can you see
+it now
+yes we can yeah okay so just um again
+this is how it works uh you download
+quite a simple to use mobile app
+you go through the kyc
+verification
+and once once onboarding is done um you
+will receive
+a mastercard
+by post um
+to your home address
+so let's see uh the benefits
+easy pay card can bring to your
+community
+so
+it's a basic it's a classic mastercard
+with a direct link to a crypto wallet
+you will
+get your european i ban without visiting
+the bank
+straight
+in the
+mobile app after the verification has
+been done
+uh you will see it just here on top of
+the screen that will be your
+most likely irish iban
+and then
+once um you receive the card you will be
+able to use it
+uh pretty much everywhere for online
+payments hotel bookings atm withdrawals
+and yeah you will enjoy the three
+separate payments and low fees for atm
+withdrawals and foreign exchange is
+quite low as well if you compare it to
+other banks card
+so as i said it's a simple and quick
+ekyc on boarding with four clicks we are
+using a sums up kyc provider
+which
+where you will have to download your
+proof of address proof of id and make a
+selfie uh to do the onboarding we don't
+do any credit checks uh on you so it's
+just simply to verify that
+you are who you are you are on the
+passport or
+your id card and that you have an
+address in europe plus united kingdom
+and then you can receive
+um your card
+if we take a look at the mobile app
+as i said it's quite a simple and easy
+to use
+we
+use a safe 3d secure for online payments
+and you will also receive
+a notifications to stay on track with
+your spendings
+and we also provide a customer support
+24 7.
+so this is our
+uh easy pay cards uh and easy pay
+application
+i also have to mention that we have um
+an
+xpi uh crypto exchange platform which
+looks like this uh
+here it's um here you can
+um
+buy and sell um every and other
+cryptocurrency you can see here
+it it has a market order and limit
+orders so you can also top up um
+your wallet via
+visa and mastercard and through the wire
+transfer
+you can buy sell of ever and convert
+crypt to fiat and fiat to crypto
+via our up
+which is developed on tip3m
+blockchain
+and um
+this is as you can see this is only the
+web version we don't have a mobile
+version yet
+so what we are working on now
+trying to optimize uh the use of the web
+uh exchange platform and
+easy pay card we are working on uh
+introducing a new easy pay version 2
+application it will look like this it's
+already in the
+testing stage
+so
+it will have the possibility to order
+your easy pay card here and it also have
+all your crypto wallets um on this side
+so
+by doing this we will combine and solve
+the problem of
+uh logging in into two different
+platforms um
+and
+you don't need to do it
+second registration so it will be
+everything in one place
+so you as i can say you order your card
+you buy sell crypt and you use our
+bridge crypto to fiat withdrawal up euro
+to
+any iban
+so that's um quite
+i hope i will be an easy uh product to
+use um compare maybe to our web version
+which is more
+focused on professionals this will be
+quite a simple um
+an easy
+application for people who likes quick
+payments and don't want to miss the
+opportunity to pay with crypto
+um
+so that's
+about
+the easy pay and just to summarize i
+wanted to let you know
+on our deadlines and roadmap so as i
+mentioned we already have the web
+version of xpi trade where you can buy
+and sell
+crypto and ever
+and just i would say in two months we
+are already on final testing stages uh
+we will present you an upgraded uh easy
+pay version of
+the mobile app where you will be able to
+buy and sell and use ever just
+like a fiat
+i would say give us two months and it
+will be ready while you
+upload the existing version and wait um
+for your easy pay cards we will get this
+um upgrade to you
+and we also have
+an online banking cryptocurrency support
+and in quarter three we are working on
+um getting a virtual cars um
+ready as well
+and the final thing uh we are working on
+the mobile app and atm integration which
+will offer you the possibility to sell
+and buy
+ever or any crypto in cash
+so that's um
+yeah and uh probably yeah the most
+important part is how much does it cost
+to get the easy pay card
+it is uh 10 euros
+and the service fee is only 99 cents per
+month
+the rest is absolutely for free we don't
+have any hidden extra costs as i
+mentioned we offer free separate
+payments you can receive money for free
+pay and use your cards any way you want
+shops restaurants booking hotels
+um
+yeah
+um ordering statements pin reissues so
+that's that all is free of charge
+um
+if
+you are interested so just
+uh can download the easy pay application
+have your id
+or passport or driving license um to
+hand together with the proof of address
+in european union plus a united kingdom
+and we do accept a different kind of
+proof of address it's not just utility
+bill or bank statements it could be also
+a mobile phone bill it could be a letter
+from the government
+car insurance health insurance policy
+so that's uh
+quite a long list and as i said you also
+have to make selfie
+and
+once the registration is done
+uh in 10 working days you will receive
+the card by post
+so that's um
+[Music]
+probably it and if
+you have any questions
+i will
+glad yet to
+i try to
+order your card
+because i'm i'm european citizen
+but uh the kyc process and i passed i
+have cards like from crypto.com i can't
+even show you if you want
+that i have it so i i could pass
+verification there
+but uh
+i did i couldn't pass your kyc it's um
+because i leave my kind of uh
+you know residency is in one country and
+i live currently in like i have an
+address where card should arrive in nara
+in another country
+and um
+yeah you know it's just stuck so i
+cannot use your card
+uh
+if if you have if you provide the
+passport so yeah you cannot provide an
+id of one country and a proof of address
+in another country that doesn't work but
+if you provide a passport and then proof
+of
+address
+which is written on their
+id or if it's a bank statement or
+something i i did i did provide i did
+provide i did provide the residence
+permit where they're written on that
+it's on residence permit which is the
+address is written upon but you're not
+accepting that
+i know was what was the reason
+no reason just proof of address they
+want proof of address and
+uh
+another question which you
+uh
+[Music]
+that's another issue which you
+said right now is that you cannot give a
+eu passport or id and address in any
+other eu country but
+sorry but it's a bit strange
+it sounds like straight because there
+are a lot of people who leaves you know
+no no no no it's
+you know we can accept any passport it
+could be a russian passport
+no problem ukrainian passport but you
+have to live in european union yeah but
+you but you're not you're not accepted
+you're just you know i'm giving you the
+resident permits in one country european
+country
+i have a residency in two european
+countries i give both of them and but
+the address where i'm currently right
+now located is in another european
+country but you're not accepting and i
+have a proof of address here but you're
+not accepting them
+now that that's strange if uh you know
+can i yeah i can is it media
+yes
+i can i can check it for you i will ask
+our kyc guys what is that
+[Laughter]
+but you know in general i mean in
+general if everyone that cannot pass kyc
+should run to you i mean i don't think
+it's a very scary
+it's just like um we use as some
+substance yeah kyc provider they do um a
+lot of like
+i would say 50
+of checks are done automatically and
+then just a final
+click on the button is done by the kyc
+officer
+because you know the system can make a
+mistake and
+we've seen such a thing so you have to
+be sure that the person is you know
+provided all correct documents
+but behind we have a kyc officer who
+does uh check everything manually and if
+there is an issue and the system doesn't
+accept it they
+send you an email requesting alternative
+documents they did but i don't have
+alternative documents in that respect so
+what do i need so they what do i give
+them
+that's the situation right the situation
+as i said if it's
+the matter of id please provide a
+passport
+my passport is israel is really possible
+it's okay yeah it uh passport could be
+from any country it doesn't matter yeah
+but what is the the issue is not for the
+passport with my id the issues with the
+address
+because the address is from different
+country right
+yeah
+it should be the address should be in
+european union so it isn't european
+union it is but in different country and
+then the idea is issued
+then you have to provide your israelian
+passport
+but again kate sorry
+very strange okay
+did i get you because yeah yeah if um
+you cannot provide uh an id from one
+country um
+and then uh proof
+yeah yeah i can yeah
+so here we go we cannot tell this
+please finalize a sentence you cannot
+provide any passport from let's say
+let's say israel and the residential
+ship in in any other european country
+no you can you cannot
+you can't you can but you cannot provide
+an european id from one country
+and
+proof of address
+on another european idea from another
+country
+isn't that
+a little bit strange you know
+in european union we can travel and live
+in different countries that's the full
+point
+i have two i have two resident permits
+and two different european countries so
+i could receive these permits in two
+different european but i cannot receive
+a card
+[Laughter]
+yes the the matter of having you know if
+you you cannot provide two different id
+cards
+you also have to have your passport so
+that's
+i think you're not asking for well
+you're not asking for a passport but
+well anyway i think it's strange
+but still
+to have a and
+for instance i have all the german
+passport as well but i now registered in
+portugal because we
+relocate our company to portugal from
+russia so is it possible to show you or
+to give to provide you with my german
+passport and leave portuguese
+residential ship which i have
+yes and on this residential uh
+cart do you have an address where you
+live
+sure it's not a card it's not the
+certificate of registration in in
+portugal yeah that that's perfect
+doesn't matter
+that yeah that's perfect
+it works
+and then another question i wrote into
+our chat is what about the automatic
+exchange of information as you know all
+the banks in europe
+are
+exchanging
+information about
+clients where bank accounts in different
+countries what about
+your irish underwriter
+uh we have here we have a license we
+have an
+we are an agent to electronic money
+institution which is an irish bank yeah
+it's um pfs
+yeah and they are regulated uh and
+certified by central bank of ireland
+so that is why they provide an irish
+iban
+okay
+and what which bank is it by the way in
+ireland
+it's called pfs
+pfs
+so and what
+is this pf
+s bank
+a participant of this automated exchange
+information system
+with a central bank of ireland
+yeah i think it's it's a part of eu
+eugenia i think they are
+they're obliged
+yes i understand but you don't have a
+direct account with uh bfc
+bfs basically i think you do because
+they provide you with the ibon as i hear
+right you're providing the i ban so
+yeah it's normal bank account i think
+got you thank you okay so
+it's actually it's very um
+thing line how you call it
+it's a
+bank account is one thing especially for
+tax purposes so it's also some uh
+good hints for you let's say if
+for the tax reasons at the end of the
+year you have to provide all your bank
+accounts
+when you have easy pay
+you have i ban
+which
+officially is not a bank account and you
+don't need and you don't need to report
+money on your easy pay account
+okay so
+no
+that's i know for sure so
+you you cannot uh hold with there are
+limits you cannot have like 150
+uh on your easy pay account
+for tax evasion yeah but
+uh we have uh limits you can check on on
+the website um
+which you can hold on the cart
+but that's that's the point it's not a
+bank account it is um
+you can call it an account
+you have um i ban
+but the difference for the tax man
+uh yeah you you don't need to
+uh report uh money on your easy pay
+is it really uh
+sure is it certain i think you do i
+think it's not that you don't need to i
+think that the point is i mean you do
+need to
+you know you do need to give information
+a little bit
+the point is that they don't get they
+don't give information on this account
+because the limits right
+which is also our question about media
+because i
+you know again personally i wouldn't
+evade taxes on the european cards anyway
+that's a bad thing the problem is if you
+have a residential ship in other country
+you have to be reported in those in the
+country where you're
+indeed leave
+rather than
+where you have your passport issued
+yeah but you will have proof of address
+that's why they ask for proof of address
+i think
+just to simplify things guys uh i mean
+um unless i'm mistaking the phrase
+you're looking for cases a neo bank um
+so it's very similar to revolut it
+sounds it's
+not a fully functioning bank account but
+it has basically all the working
+features of
+uh yeah i probably wouldn't encourage
+tax evasion
+i i have another question on on uh like
+so so first so you can so you said that
+you can have a russian passport for
+example or ukrainian passport and uh
+well for ukrainian is not a problem at
+all but you you can you could have a
+russian passport and the proof of
+address in any european country which
+could be just electricity bill
+and uh and and the bank and you would
+open the account
+correct yeah no problem i i have a
+russian passport i live in the
+netherlands um
+but you do have a residential resident
+permit in
+so or you just need to provide a proof
+of address
+you just need to provide proof of
+address i'm just living here it doesn't
+matter if i have a residence permit or
+on which
+kind of
+grounds i'm here yeah that's good to
+know that's good to know
+okay
+yes
+uh sorry if you have more questions i am
+in uh
+everscale community and you can send me
+okay can you send can you send me your
+your telegram i will as another question
+i have do you do you planning to do the
+white labeling of this card
+uh yes we do
+okay so then we then we should talk
+when we should talk
+okay we will it will be for europe for
+europe but yeah it's a it's on our
+agenda
+uh okay
+and the same of course applies for the
+mobile app once we have our crypto
+wallet uh and the card in one place yeah
+which we call easy pay 2.0 you can have
+the app as a white label as well so you
+you don't really need to have easy pay
+card you can have just easy pay app
+where you have all your crypto wallets
+and then you can link any card to it
+so it's also um an option
+no no i'm more interested in invite
+labeling the the current related
+services and connect to another wallet
+for example if possible and the vice
+versa
+yeah okay what about a uk resident
+residence
+are they can we can we um right okay so
+i apologize right um
+first of all like i said at the
+beginning we need to use the raised hand
+feature i'm gonna start insisting on
+that please if genny with all due
+respect um but
+yes but please go ahead and this is the
+last time
+yeah
+okay
+kate thank you very much obviously it
+was very interesting uh obviously there
+are a lot of things that uh
+i have my own questions i'm not gonna
+voice them here i think i'm gonna i'm
+gonna dm you myself because there's a
+there's a lot of potential here um i did
+want to say um joanne you did have your
+hand raised was your question answered
+uh
+no but i just had a really simple
+question i just want to know if i could
+pay the card fee in the service fee and
+ever or does that have to be fiat
+that's it uh for for now it is a fiat
+here now it's in euros okay
+but it's interesting question yeah
+to think and yeah guys again thanks a
+lot uh for questions and
+uh i'm really interested in the feedback
+and because we are here for you trying
+to uh develop everscale products
+together so
+any ideas for product improvements are
+very welcome as well
+thank you well that's what this is all
+about it's all about the exchange right
+we talk about community this isn't a you
+know corporate conference or anything
+like that you present we ask we go back
+and forth we're all friends
+it's the way it works and i also saw at
+one point ben you had a question or
+has your question been answered
+and i i spoke in turn in low with my
+hand my friend
+okay
+all right okay thank you very much again
+let's underscore the fact that this was
+a cool
+cool presentation a lot of
+a lot of marbles sort of rolling around
+in my head and i have to think to myself
+what what other what other
+questions i'm gonna have but um yeah
+very cool thank you kate thank you for
+coming um okay listen uh
+ben kind of a segway right there it's uh
+time for our closing segment so hang on
+um i don't know if this one's gonna be
+one of my best but i'll try our creative
+uh nuestro maestro always snappy never
+slow here to tell us things that we
+don't know ben's bits go for it brother
+yeah you downplay yourself buddy that
+was beautiful right i will keep it
+snappy as ever and i'll be honest my
+head's been very much busy with uh
+something this week uh so maybe a bit
+short i may miss one or two things so
+sorry if you've been working on
+something and i haven't picked up on it
+uh but the bits i have seen so far there
+are a bunch more tokens uh which have
+been made available on everscale wallet
+so again tokens going across the
+functionality of the wallets brilliant
+as well as the aforementioned uh serve
+token sale and lend token sale i don't
+believe it's a sale but you've also had
+cube token which is launched this week
+uh pokerton had a really cool tournament
+again i think there was like three
+thousand ever in prize pool which is
+pretty cool for a very low entry uh
+poker tournament amongst the community
+uh there was another grant accepted by
+the everest girl grants programme
+identics.space
+very cool haven't had much chance to
+look into it uh our lovely joanne did a
+very cool marketing ama with nikita from
+the d5 alliance on what day are we on
+today god i hate daylight savings friday
+friday it was wasn't it yeah of course
+so if you didn't see that there's a lot
+of cool little questions maybe some
+things you've been wondering which got
+answered
+and
+i said i've been rather busy so like i
+say if i've missed a few things
+but
+let's make sure i share sounds
+here we go 30 seconds of your time to a
+teaser to tease you can everyone see
+that yeah
+aces right my my personal favorite out
+of these so i bet you can't guess what
+the answer will be folks
+who once disappeared for nearly three
+months
+was located in a forest where he'd had
+been isolating with a llama named
+brother rainbow
+and when asked
+and when asked to return to his post
+replied
+you don't understand
+i'm a slave my time is not my own my
+body is not my own
+and kept repeating in a cracked and
+tearful voice that he needed to please
+the leaders
+was that one shay guevara
+so there you go yes i was particularly
+proud of this game uh this week our
+middle game was called sunny or shay and
+uh yeah i mean justin sunset had a
+pretty crazy life so yeah i'll be
+releasing it in a couple of hours
+basically i'm literally in case you
+couldn't tell i hadn't put the de-esser
+on that bloody clip then so sorry for
+all the yeses uh but that's my bits
+thank you everyone and uh yeah catch you
+soon
+thank you ben thank you very much
+that was fun
+yes it always is
+okay uh
+yeah uh look so
+i think we we don't have youtube
+questions but there was uh one question
+that was written then let me see if i
+can find it here um right so
+uh
+person writes um
+regarding the everscale roadmap uh
+that's on the website um
+is it going to be edited or is this the
+final version and if uh it is going to
+be edited when
+and the second part of the question is
+it seems that only the first portion
+of that roadmap has been uh executed
+and um i gotta i got an answer for you
+so first of all yes it will be edited um
+and if you recall when we were first
+having this weekly call and presented
+the roadmap it was said that all of the
+dates and timelines on it are to some
+extent arbitrary
+and that
+it will you know
+eventually become more and more succinct
+more more
+filtered
+and the
+individual responsible uh for that road
+map and for the everscale website wants
+you to know
+that in the
+uh
+near nearest possible future the
+community is going to see changes in the
+roadmap the page is going to change
+they're going to highlight what's been
+done and what's in progress so
+essentially don't rely on what you see
+on the site right now um it's um
+somewhat ambiguous so i hope that
+answers your question so it's already
+scheduled it's in the works
+and we don't have any other questions
+and if nobody else has any and michael
+still has his hands up uh but i think
+that's because he forgot to put it down
+uh
+we're done and thank you everybody for
+coming leanne
+i believe
+who does oh alina yes yes yes yes please
+i'm sorry sir okay
+just wanted to mention that during the
+call
+uh we checked the brave browser as mita
+asked and
+our wallet works pretty well
+i don't know what other additional
+restrictions you maybe have
+on your in your browser but if you just
+download
+brave browser and
+uh add our wallet there all works well
+i don't know what's gonna be
+can i share my screen please guys
+you can
+all right
+uh here you go
+you see this is your this is the okay so
+let's relaunch
+okay
+[Music]
+i click i'm clicking on that right now
+yeah but but do you have this extension
+insole installed
+in your
+yes
+i'm using that all the time
+you see this
+button here
+yeah can you reload the page
+nothing
+i don't know this is so weird i have the
+same i can share my screen and
+everything works
+okay maybe we should check this in the
+i can send you the error
+yes please crystal crystal wallet is not
+a function
+[Music]
+okay thank you very much i think we can
+keep discussion in dm because
+we need additional checkings
+thank you for the time sorry to
+interrupt
+oh sorry
+my microphone
+thank you very much uh yeah i mean uh
+yeah i think it's just a little thing
+that could be fixed right i'm sure of it
+thank you very much everybody listen um
+we had a great call i promised a great
+call we had an awesome call and
+i i usually write questions down as
+people but there are just too many i
+can't even i have to go back and think
+and i'm going to dm people with
+questions because i have
+quite a few
+but i'd say this was uh fantastic so
+everybody thank you for coming thank you
+for your presentations thank you for
+your questions have a wonderful rest of
+your week have a great weekend and
+see you next tuesday we should have some
+more really really good presentations
+then as well
+great kate please send me an dm

@@ -1,0 +1,1375 @@
+1
+00:00:00,000 --> 00:00:02,149
+
+hi everyone it's ben here with you today
+
+2
+00:00:02,149 --> 00:00:02,159
+hi everyone it's ben here with you today
+ 
+
+3
+00:00:02,159 --> 00:00:03,590
+hi everyone it's ben here with you today
+as you remember from our previous
+
+4
+00:00:03,590 --> 00:00:03,600
+as you remember from our previous
+ 
+
+5
+00:00:03,600 --> 00:00:05,670
+as you remember from our previous
+episodes we've started a series of
+
+6
+00:00:05,670 --> 00:00:05,680
+episodes we've started a series of
+ 
+
+7
+00:00:05,680 --> 00:00:07,670
+episodes we've started a series of
+tutorial videos explaining the
+
+8
+00:00:07,670 --> 00:00:07,680
+tutorial videos explaining the
+ 
+
+9
+00:00:07,680 --> 00:00:10,390
+tutorial videos explaining the
+ecosystem's various details today we're
+
+10
+00:00:10,390 --> 00:00:10,400
+ecosystem's various details today we're
+ 
+
+11
+00:00:10,400 --> 00:00:11,990
+ecosystem's various details today we're
+going to take you through why you need
+
+12
+00:00:11,990 --> 00:00:12,000
+going to take you through why you need
+ 
+
+13
+00:00:12,000 --> 00:00:14,070
+going to take you through why you need
+an everscale account and how to set it
+
+14
+00:00:14,070 --> 00:00:14,080
+an everscale account and how to set it
+ 
+
+15
+00:00:14,080 --> 00:00:15,990
+an everscale account and how to set it
+up please don't forget to like and
+
+16
+00:00:15,990 --> 00:00:16,000
+up please don't forget to like and
+ 
+
+17
+00:00:16,000 --> 00:00:18,230
+up please don't forget to like and
+subscribe this will help the growth of
+
+18
+00:00:18,230 --> 00:00:18,240
+subscribe this will help the growth of
+ 
+
+19
+00:00:18,240 --> 00:00:20,950
+subscribe this will help the growth of
+our channel so let's get started first
+
+20
+00:00:20,950 --> 00:00:20,960
+our channel so let's get started first
+ 
+
+21
+00:00:20,960 --> 00:00:23,029
+our channel so let's get started first
+let me remind you everscale is a fast
+
+22
+00:00:23,029 --> 00:00:23,039
+let me remind you everscale is a fast
+ 
+
+23
+00:00:23,039 --> 00:00:25,189
+let me remind you everscale is a fast
+growing next generation blockchain
+
+24
+00:00:25,189 --> 00:00:25,199
+growing next generation blockchain
+ 
+
+25
+00:00:25,199 --> 00:00:26,830
+growing next generation blockchain
+driven by the ideology of
+
+26
+00:00:26,830 --> 00:00:26,840
+driven by the ideology of
+ 
+
+27
+00:00:26,840 --> 00:00:29,189
+driven by the ideology of
+decentralization in addition to near
+
+28
+00:00:29,189 --> 00:00:29,199
+decentralization in addition to near
+ 
+
+29
+00:00:29,199 --> 00:00:31,429
+decentralization in addition to near
+instant transactions with minimal fees
+
+30
+00:00:31,429 --> 00:00:31,439
+instant transactions with minimal fees
+ 
+
+31
+00:00:31,439 --> 00:00:33,590
+instant transactions with minimal fees
+everscale offers a multitude of income
+
+32
+00:00:33,590 --> 00:00:33,600
+everscale offers a multitude of income
+ 
+
+33
+00:00:33,600 --> 00:00:35,350
+everscale offers a multitude of income
+opportunities within the blockchain
+
+34
+00:00:35,350 --> 00:00:35,360
+opportunities within the blockchain
+ 
+
+35
+00:00:35,360 --> 00:00:37,590
+opportunities within the blockchain
+before you dive into web3 though you
+
+36
+00:00:37,590 --> 00:00:37,600
+before you dive into web3 though you
+ 
+
+37
+00:00:37,600 --> 00:00:38,869
+before you dive into web3 though you
+should create your own blockchain
+
+38
+00:00:38,869 --> 00:00:38,879
+should create your own blockchain
+ 
+
+39
+00:00:38,879 --> 00:00:40,389
+should create your own blockchain
+account which would mean getting a
+
+40
+00:00:40,389 --> 00:00:40,399
+account which would mean getting a
+ 
+
+41
+00:00:40,399 --> 00:00:42,150
+account which would mean getting a
+wallet address where you'll be able to
+
+42
+00:00:42,150 --> 00:00:42,160
+wallet address where you'll be able to
+ 
+
+43
+00:00:42,160 --> 00:00:44,709
+wallet address where you'll be able to
+store your evers an everscale account is
+
+44
+00:00:44,709 --> 00:00:44,719
+store your evers an everscale account is
+ 
+
+45
+00:00:44,719 --> 00:00:47,029
+store your evers an everscale account is
+an everscale address containing a wallet
+
+46
+00:00:47,029 --> 00:00:47,039
+an everscale address containing a wallet
+ 
+
+47
+00:00:47,039 --> 00:00:49,510
+an everscale address containing a wallet
+smart contract this smart contract can
+
+48
+00:00:49,510 --> 00:00:49,520
+smart contract this smart contract can
+ 
+
+49
+00:00:49,520 --> 00:00:51,590
+smart contract this smart contract can
+receive coins from other wallet smart
+
+50
+00:00:51,590 --> 00:00:51,600
+receive coins from other wallet smart
+ 
+
+51
+00:00:51,600 --> 00:00:54,310
+receive coins from other wallet smart
+contracts store and transfer them you
+
+52
+00:00:54,310 --> 00:00:54,320
+contracts store and transfer them you
+ 
+
+53
+00:00:54,320 --> 00:00:56,389
+contracts store and transfer them you
+can transfer coins and tokens to any
+
+54
+00:00:56,389 --> 00:00:56,399
+can transfer coins and tokens to any
+ 
+
+55
+00:00:56,399 --> 00:00:58,470
+can transfer coins and tokens to any
+address but if the smart contract is not
+
+56
+00:00:58,470 --> 00:00:58,480
+address but if the smart contract is not
+ 
+
+57
+00:00:58,480 --> 00:01:00,869
+address but if the smart contract is not
+deployed correctly your coins or tokens
+
+58
+00:01:00,869 --> 00:01:00,879
+deployed correctly your coins or tokens
+ 
+
+59
+00:01:00,879 --> 00:01:02,470
+deployed correctly your coins or tokens
+might be lost on the everscale
+
+60
+00:01:02,470 --> 00:01:02,480
+might be lost on the everscale
+ 
+
+61
+00:01:02,480 --> 00:01:04,070
+might be lost on the everscale
+blockchain the address of the smart
+
+62
+00:01:04,070 --> 00:01:04,080
+blockchain the address of the smart
+ 
+
+63
+00:01:04,080 --> 00:01:06,149
+blockchain the address of the smart
+contract deployment is not random but is
+
+64
+00:01:06,149 --> 00:01:06,159
+contract deployment is not random but is
+ 
+
+65
+00:01:06,159 --> 00:01:08,310
+contract deployment is not random but is
+calculated based on the smart contract
+
+66
+00:01:08,310 --> 00:01:08,320
+calculated based on the smart contract
+ 
+
+67
+00:01:08,320 --> 00:01:10,950
+calculated based on the smart contract
+code and user data such as public key
+
+68
+00:01:10,950 --> 00:01:10,960
+code and user data such as public key
+ 
+
+69
+00:01:10,960 --> 00:01:12,710
+code and user data such as public key
+therefore different types of wallet
+
+70
+00:01:12,710 --> 00:01:12,720
+therefore different types of wallet
+ 
+
+71
+00:01:12,720 --> 00:01:15,429
+therefore different types of wallet
+smart contracts have different addresses
+
+72
+00:01:15,429 --> 00:01:15,439
+smart contracts have different addresses
+ 
+
+73
+00:01:15,439 --> 00:01:17,030
+smart contracts have different addresses
+some of the most popular everscale
+
+74
+00:01:17,030 --> 00:01:17,040
+some of the most popular everscale
+ 
+
+75
+00:01:17,040 --> 00:01:19,990
+some of the most popular everscale
+wallet smart contracts are safe multisig
+
+76
+00:01:19,990 --> 00:01:20,000
+wallet smart contracts are safe multisig
+ 
+
+77
+00:01:20,000 --> 00:01:22,950
+wallet smart contracts are safe multisig
+setcode multisig surf bridge multisig
+
+78
+00:01:22,950 --> 00:01:22,960
+setcode multisig surf bridge multisig
+ 
+
+79
+00:01:22,960 --> 00:01:25,190
+setcode multisig surf bridge multisig
+wallet everscale ecosystem wallets are
+
+80
+00:01:25,190 --> 00:01:25,200
+wallet everscale ecosystem wallets are
+ 
+
+81
+00:01:25,200 --> 00:01:27,830
+wallet everscale ecosystem wallets are
+available on different operating systems
+
+82
+00:01:27,830 --> 00:01:27,840
+available on different operating systems
+ 
+
+83
+00:01:27,840 --> 00:01:30,469
+available on different operating systems
+making them very handy thus depending on
+
+84
+00:01:30,469 --> 00:01:30,479
+making them very handy thus depending on
+ 
+
+85
+00:01:30,479 --> 00:01:32,710
+making them very handy thus depending on
+your preferences you can choose a
+
+86
+00:01:32,710 --> 00:01:32,720
+your preferences you can choose a
+ 
+
+87
+00:01:32,720 --> 00:01:35,749
+your preferences you can choose a
+desktop wallet such as ever surf an
+
+88
+00:01:35,749 --> 00:01:35,759
+desktop wallet such as ever surf an
+ 
+
+89
+00:01:35,759 --> 00:01:37,429
+desktop wallet such as ever surf an
+app-based wallet on your smartphone or
+
+90
+00:01:37,429 --> 00:01:37,439
+app-based wallet on your smartphone or
+ 
+
+91
+00:01:37,439 --> 00:01:40,710
+app-based wallet on your smartphone or
+personal device ios or android such as
+
+92
+00:01:40,710 --> 00:01:40,720
+personal device ios or android such as
+ 
+
+93
+00:01:40,720 --> 00:01:43,270
+personal device ios or android such as
+surf again everwallet or everspace or a
+
+94
+00:01:43,270 --> 00:01:43,280
+surf again everwallet or everspace or a
+ 
+
+95
+00:01:43,280 --> 00:01:45,030
+surf again everwallet or everspace or a
+browser extension wallet like scale
+
+96
+00:01:45,030 --> 00:01:45,040
+browser extension wallet like scale
+ 
+
+97
+00:01:45,040 --> 00:01:47,510
+browser extension wallet like scale
+wallet or everwallet before we get into
+
+98
+00:01:47,510 --> 00:01:47,520
+wallet or everwallet before we get into
+ 
+
+99
+00:01:47,520 --> 00:01:49,350
+wallet or everwallet before we get into
+the details of creating an everscale
+
+100
+00:01:49,350 --> 00:01:49,360
+the details of creating an everscale
+ 
+
+101
+00:01:49,360 --> 00:01:50,870
+the details of creating an everscale
+account i'd like to say a few words
+
+102
+00:01:50,870 --> 00:01:50,880
+account i'd like to say a few words
+ 
+
+103
+00:01:50,880 --> 00:01:53,109
+account i'd like to say a few words
+about security as this is highly
+
+104
+00:01:53,109 --> 00:01:53,119
+about security as this is highly
+ 
+
+105
+00:01:53,119 --> 00:01:54,950
+about security as this is highly
+important if you want to keep your funds
+
+106
+00:01:54,950 --> 00:01:54,960
+important if you want to keep your funds
+ 
+
+107
+00:01:54,960 --> 00:01:57,510
+important if you want to keep your funds
+safe so before funding your new
+
+108
+00:01:57,510 --> 00:01:57,520
+safe so before funding your new
+ 
+
+109
+00:01:57,520 --> 00:01:59,109
+safe so before funding your new
+everscale wallet it's important to
+
+110
+00:01:59,109 --> 00:01:59,119
+everscale wallet it's important to
+ 
+
+111
+00:01:59,119 --> 00:02:01,270
+everscale wallet it's important to
+remember that the seed phrase of 12
+
+112
+00:02:01,270 --> 00:02:01,280
+remember that the seed phrase of 12
+ 
+
+113
+00:02:01,280 --> 00:02:03,590
+remember that the seed phrase of 12
+unique words associated with your wallet
+
+114
+00:02:03,590 --> 00:02:03,600
+unique words associated with your wallet
+ 
+
+115
+00:02:03,600 --> 00:02:06,310
+unique words associated with your wallet
+is the only way to restore your account
+
+116
+00:02:06,310 --> 00:02:06,320
+is the only way to restore your account
+ 
+
+117
+00:02:06,320 --> 00:02:08,150
+is the only way to restore your account
+in addition to the above when you create
+
+118
+00:02:08,150 --> 00:02:08,160
+in addition to the above when you create
+ 
+
+119
+00:02:08,160 --> 00:02:10,710
+in addition to the above when you create
+a new wallet a set is generated that
+
+120
+00:02:10,710 --> 00:02:10,720
+a new wallet a set is generated that
+ 
+
+121
+00:02:10,720 --> 00:02:13,270
+a new wallet a set is generated that
+consists of a public and private key the
+
+122
+00:02:13,270 --> 00:02:13,280
+consists of a public and private key the
+ 
+
+123
+00:02:13,280 --> 00:02:15,589
+consists of a public and private key the
+private key is used to sign transactions
+
+124
+00:02:15,589 --> 00:02:15,599
+private key is used to sign transactions
+ 
+
+125
+00:02:15,599 --> 00:02:17,270
+private key is used to sign transactions
+in other words transactions with your
+
+126
+00:02:17,270 --> 00:02:17,280
+in other words transactions with your
+ 
+
+127
+00:02:17,280 --> 00:02:19,430
+in other words transactions with your
+coins and tokens and the public key is
+
+128
+00:02:19,430 --> 00:02:19,440
+coins and tokens and the public key is
+ 
+
+129
+00:02:19,440 --> 00:02:22,070
+coins and tokens and the public key is
+used for authentication now you're aware
+
+130
+00:02:22,070 --> 00:02:22,080
+used for authentication now you're aware
+ 
+
+131
+00:02:22,080 --> 00:02:24,470
+used for authentication now you're aware
+of smart contracts ecosystem wallets and
+
+132
+00:02:24,470 --> 00:02:24,480
+of smart contracts ecosystem wallets and
+ 
+
+133
+00:02:24,480 --> 00:02:26,309
+of smart contracts ecosystem wallets and
+security it's time to move on to
+
+134
+00:02:26,309 --> 00:02:26,319
+security it's time to move on to
+ 
+
+135
+00:02:26,319 --> 00:02:28,790
+security it's time to move on to
+creating an account it's straightforward
+
+136
+00:02:28,790 --> 00:02:28,800
+creating an account it's straightforward
+ 
+
+137
+00:02:28,800 --> 00:02:30,949
+creating an account it's straightforward
+just follow a few standard steps the
+
+138
+00:02:30,949 --> 00:02:30,959
+just follow a few standard steps the
+ 
+
+139
+00:02:30,959 --> 00:02:33,270
+just follow a few standard steps the
+same for every everscale ecosystem
+
+140
+00:02:33,270 --> 00:02:33,280
+same for every everscale ecosystem
+ 
+
+141
+00:02:33,280 --> 00:02:35,190
+same for every everscale ecosystem
+wallet the setup of each of the wallet
+
+142
+00:02:35,190 --> 00:02:35,200
+wallet the setup of each of the wallet
+ 
+
+143
+00:02:35,200 --> 00:02:37,030
+wallet the setup of each of the wallet
+options involves the following standard
+
+144
+00:02:37,030 --> 00:02:37,040
+options involves the following standard
+ 
+
+145
+00:02:37,040 --> 00:02:39,750
+options involves the following standard
+steps 1. download and install an
+
+146
+00:02:39,750 --> 00:02:39,760
+steps 1. download and install an
+ 
+
+147
+00:02:39,760 --> 00:02:41,350
+steps 1. download and install an
+application corresponding to your
+
+148
+00:02:41,350 --> 00:02:41,360
+application corresponding to your
+ 
+
+149
+00:02:41,360 --> 00:02:43,350
+application corresponding to your
+operating system such as a smartphone
+
+150
+00:02:43,350 --> 00:02:43,360
+operating system such as a smartphone
+ 
+
+151
+00:02:43,360 --> 00:02:45,430
+operating system such as a smartphone
+browser extension or web version of the
+
+152
+00:02:45,430 --> 00:02:45,440
+browser extension or web version of the
+ 
+
+153
+00:02:45,440 --> 00:02:47,350
+browser extension or web version of the
+wallet
+
+154
+00:02:47,350 --> 00:02:47,360
+wallet
+ 
+
+155
+00:02:47,360 --> 00:02:51,509
+wallet
+select create new account
+
+156
+00:02:51,509 --> 00:02:51,519
+select create new account
+ 
+
+157
+00:02:51,519 --> 00:02:53,589
+select create new account
+read the decentralization policy and
+
+158
+00:02:53,589 --> 00:02:53,599
+read the decentralization policy and
+ 
+
+159
+00:02:53,599 --> 00:02:55,350
+read the decentralization policy and
+accept it
+
+160
+00:02:55,350 --> 00:02:55,360
+accept it
+ 
+
+161
+00:02:55,360 --> 00:02:57,350
+accept it
+create a pin code or password for quick
+
+162
+00:02:57,350 --> 00:02:57,360
+create a pin code or password for quick
+ 
+
+163
+00:02:57,360 --> 00:02:58,450
+create a pin code or password for quick
+access to the wallet
+
+164
+00:02:58,450 --> 00:02:58,460
+access to the wallet
+ 
+
+165
+00:02:58,460 --> 00:03:03,190
+access to the wallet
+[Music]
+
+166
+00:03:03,190 --> 00:03:03,200
+
+ 
+
+167
+00:03:03,200 --> 00:03:04,949
+
+write down the seed phrase that's shown
+
+168
+00:03:04,949 --> 00:03:04,959
+write down the seed phrase that's shown
+ 
+
+169
+00:03:04,959 --> 00:03:07,350
+write down the seed phrase that's shown
+to you or find it yourself in the
+
+170
+00:03:07,350 --> 00:03:07,360
+to you or find it yourself in the
+ 
+
+171
+00:03:07,360 --> 00:03:10,530
+to you or find it yourself in the
+security stroke seed phrase options
+
+172
+00:03:10,530 --> 00:03:10,540
+security stroke seed phrase options
+ 
+
+173
+00:03:10,540 --> 00:03:12,229
+security stroke seed phrase options
+[Music]
+
+174
+00:03:12,229 --> 00:03:12,239
+[Music]
+ 
+
+175
+00:03:12,239 --> 00:03:17,110
+[Music]
+top up your wallet account with ever
+
+176
+00:03:17,110 --> 00:03:17,120
+
+ 
+
+177
+00:03:17,120 --> 00:03:19,270
+
+activate the wallet
+
+178
+00:03:19,270 --> 00:03:19,280
+activate the wallet
+ 
+
+179
+00:03:19,280 --> 00:03:21,190
+activate the wallet
+and that's it deploy this wallet smart
+
+180
+00:03:21,190 --> 00:03:21,200
+and that's it deploy this wallet smart
+ 
+
+181
+00:03:21,200 --> 00:03:22,710
+and that's it deploy this wallet smart
+contract to the address for further
+
+182
+00:03:22,710 --> 00:03:22,720
+contract to the address for further
+ 
+
+183
+00:03:22,720 --> 00:03:24,789
+contract to the address for further
+token management it's a one-time process
+
+184
+00:03:24,789 --> 00:03:24,799
+token management it's a one-time process
+ 
+
+185
+00:03:24,799 --> 00:03:26,470
+token management it's a one-time process
+which is performed if there are funds on
+
+186
+00:03:26,470 --> 00:03:26,480
+which is performed if there are funds on
+ 
+
+187
+00:03:26,480 --> 00:03:28,710
+which is performed if there are funds on
+the balance of the wallet do kindly note
+
+188
+00:03:28,710 --> 00:03:28,720
+the balance of the wallet do kindly note
+ 
+
+189
+00:03:28,720 --> 00:03:30,470
+the balance of the wallet do kindly note
+that if the activation process has not
+
+190
+00:03:30,470 --> 00:03:30,480
+that if the activation process has not
+ 
+
+191
+00:03:30,480 --> 00:03:32,789
+that if the activation process has not
+been completed you can only receive ever
+
+192
+00:03:32,789 --> 00:03:32,799
+been completed you can only receive ever
+ 
+
+193
+00:03:32,799 --> 00:03:34,470
+been completed you can only receive ever
+to your balance but you won't be able to
+
+194
+00:03:34,470 --> 00:03:34,480
+to your balance but you won't be able to
+ 
+
+195
+00:03:34,480 --> 00:03:36,470
+to your balance but you won't be able to
+send them in the eversurf wallet
+
+196
+00:03:36,470 --> 00:03:36,480
+send them in the eversurf wallet
+ 
+
+197
+00:03:36,480 --> 00:03:38,309
+send them in the eversurf wallet
+activation is automatic and possible
+
+198
+00:03:38,309 --> 00:03:38,319
+activation is automatic and possible
+ 
+
+199
+00:03:38,319 --> 00:03:40,070
+activation is automatic and possible
+without spending your tokens with a
+
+200
+00:03:40,070 --> 00:03:40,080
+without spending your tokens with a
+ 
+
+201
+00:03:40,080 --> 00:03:42,390
+without spending your tokens with a
+d-bot so you get an active wallet almost
+
+202
+00:03:42,390 --> 00:03:42,400
+d-bot so you get an active wallet almost
+ 
+
+203
+00:03:42,400 --> 00:03:45,270
+d-bot so you get an active wallet almost
+instantly isn't that great other wallets
+
+204
+00:03:45,270 --> 00:03:45,280
+instantly isn't that great other wallets
+ 
+
+205
+00:03:45,280 --> 00:03:46,789
+instantly isn't that great other wallets
+have a deploy button that you use to
+
+206
+00:03:46,789 --> 00:03:46,799
+have a deploy button that you use to
+ 
+
+207
+00:03:46,799 --> 00:03:48,949
+have a deploy button that you use to
+deploy your wallet smart contract they
+
+208
+00:03:48,949 --> 00:03:48,959
+deploy your wallet smart contract they
+ 
+
+209
+00:03:48,959 --> 00:03:51,030
+deploy your wallet smart contract they
+activate it when your account is
+
+210
+00:03:51,030 --> 00:03:51,040
+activate it when your account is
+ 
+
+211
+00:03:51,040 --> 00:03:53,030
+activate it when your account is
+registered and fully set up you're ready
+
+212
+00:03:53,030 --> 00:03:53,040
+registered and fully set up you're ready
+ 
+
+213
+00:03:53,040 --> 00:03:55,350
+registered and fully set up you're ready
+to buy ever to transfer them to your
+
+214
+00:03:55,350 --> 00:03:55,360
+to buy ever to transfer them to your
+ 
+
+215
+00:03:55,360 --> 00:03:57,110
+to buy ever to transfer them to your
+wallet you have several options when it
+
+216
+00:03:57,110 --> 00:03:57,120
+wallet you have several options when it
+ 
+
+217
+00:03:57,120 --> 00:03:59,429
+wallet you have several options when it
+comes to buying ever you can use one of
+
+218
+00:03:59,429 --> 00:03:59,439
+comes to buying ever you can use one of
+ 
+
+219
+00:03:59,439 --> 00:04:01,350
+comes to buying ever you can use one of
+the centralized exchanges such as
+
+220
+00:04:01,350 --> 00:04:01,360
+the centralized exchanges such as
+ 
+
+221
+00:04:01,360 --> 00:04:02,750
+the centralized exchanges such as
+gate.io
+
+222
+00:04:02,750 --> 00:04:02,760
+gate.io
+ 
+
+223
+00:04:02,760 --> 00:04:05,429
+gate.io
+mexc.com at bitmart we'll be listing on
+
+224
+00:04:05,429 --> 00:04:05,439
+mexc.com at bitmart we'll be listing on
+ 
+
+225
+00:04:05,439 --> 00:04:07,509
+mexc.com at bitmart we'll be listing on
+the 16th of may uh please keep in mind
+
+226
+00:04:07,509 --> 00:04:07,519
+the 16th of may uh please keep in mind
+ 
+
+227
+00:04:07,519 --> 00:04:09,509
+the 16th of may uh please keep in mind
+that it's not safe to store your crypto
+
+228
+00:04:09,509 --> 00:04:09,519
+that it's not safe to store your crypto
+ 
+
+229
+00:04:09,519 --> 00:04:11,670
+that it's not safe to store your crypto
+on centralized exchanges as a general
+
+230
+00:04:11,670 --> 00:04:11,680
+on centralized exchanges as a general
+ 
+
+231
+00:04:11,680 --> 00:04:13,509
+on centralized exchanges as a general
+rule of thumb so after buying it's
+
+232
+00:04:13,509 --> 00:04:13,519
+rule of thumb so after buying it's
+ 
+
+233
+00:04:13,519 --> 00:04:15,350
+rule of thumb so after buying it's
+better to transfer your crypto out of
+
+234
+00:04:15,350 --> 00:04:15,360
+better to transfer your crypto out of
+ 
+
+235
+00:04:15,360 --> 00:04:17,189
+better to transfer your crypto out of
+the exchange immediately as an
+
+236
+00:04:17,189 --> 00:04:17,199
+the exchange immediately as an
+ 
+
+237
+00:04:17,199 --> 00:04:22,629
+the exchange immediately as an
+alternative you can use changely.com
+
+238
+00:04:22,629 --> 00:04:22,639
+
+ 
+
+239
+00:04:22,639 --> 00:04:25,990
+
+or go to octusbridge.io transfer usdt
+
+240
+00:04:25,990 --> 00:04:26,000
+or go to octusbridge.io transfer usdt
+ 
+
+241
+00:04:26,000 --> 00:04:28,390
+or go to octusbridge.io transfer usdt
+from ethereum polygon or binance smart
+
+242
+00:04:28,390 --> 00:04:28,400
+from ethereum polygon or binance smart
+ 
+
+243
+00:04:28,400 --> 00:04:30,390
+from ethereum polygon or binance smart
+chain to your account and swap together
+
+244
+00:04:30,390 --> 00:04:30,400
+chain to your account and swap together
+ 
+
+245
+00:04:30,400 --> 00:04:32,629
+chain to your account and swap together
+on flatcube.io the main decks of the
+
+246
+00:04:32,629 --> 00:04:32,639
+on flatcube.io the main decks of the
+ 
+
+247
+00:04:32,639 --> 00:04:34,870
+on flatcube.io the main decks of the
+everscale ecosystem perhaps the easiest
+
+248
+00:04:34,870 --> 00:04:34,880
+everscale ecosystem perhaps the easiest
+ 
+
+249
+00:04:34,880 --> 00:04:36,790
+everscale ecosystem perhaps the easiest
+way to buy is directly with a credit
+
+250
+00:04:36,790 --> 00:04:36,800
+way to buy is directly with a credit
+ 
+
+251
+00:04:36,800 --> 00:04:39,830
+way to buy is directly with a credit
+card and ever wallet and eversurf
+
+252
+00:04:39,830 --> 00:04:39,840
+card and ever wallet and eversurf
+ 
+
+253
+00:04:39,840 --> 00:04:41,270
+card and ever wallet and eversurf
+these are popular everscale apps that
+
+254
+00:04:41,270 --> 00:04:41,280
+these are popular everscale apps that
+ 
+
+255
+00:04:41,280 --> 00:04:43,590
+these are popular everscale apps that
+combine the features of a white chatroom
+
+256
+00:04:43,590 --> 00:04:43,600
+combine the features of a white chatroom
+ 
+
+257
+00:04:43,600 --> 00:04:46,230
+combine the features of a white chatroom
+and dapps launch environment if you
+
+258
+00:04:46,230 --> 00:04:46,240
+and dapps launch environment if you
+ 
+
+259
+00:04:46,240 --> 00:04:47,749
+and dapps launch environment if you
+check our previous videos there are more
+
+260
+00:04:47,749 --> 00:04:47,759
+check our previous videos there are more
+ 
+
+261
+00:04:47,759 --> 00:04:49,749
+check our previous videos there are more
+info and there's also a surf's own
+
+262
+00:04:49,749 --> 00:04:49,759
+info and there's also a surf's own
+ 
+
+263
+00:04:49,759 --> 00:04:52,310
+info and there's also a surf's own
+channel congratulations you've created
+
+264
+00:04:52,310 --> 00:04:52,320
+channel congratulations you've created
+ 
+
+265
+00:04:52,320 --> 00:04:54,550
+channel congratulations you've created
+your own account and now you are a proud
+
+266
+00:04:54,550 --> 00:04:54,560
+your own account and now you are a proud
+ 
+
+267
+00:04:54,560 --> 00:04:56,950
+your own account and now you are a proud
+ever holder you're part of a dynamic
+
+268
+00:04:56,950 --> 00:04:56,960
+ever holder you're part of a dynamic
+ 
+
+269
+00:04:56,960 --> 00:04:58,469
+ever holder you're part of a dynamic
+fast growing and technologically
+
+270
+00:04:58,469 --> 00:04:58,479
+fast growing and technologically
+ 
+
+271
+00:04:58,479 --> 00:05:00,469
+fast growing and technologically
+advanced ecosystem thank you for being
+
+272
+00:05:00,469 --> 00:05:00,479
+advanced ecosystem thank you for being
+ 
+
+273
+00:05:00,479 --> 00:05:01,590
+advanced ecosystem thank you for being
+here and
+
+274
+00:05:01,590 --> 00:05:01,600
+here and
+ 
+
+275
+00:05:01,600 --> 00:05:05,360
+here and
+i'll see you in future episodes
+

@@ -1,0 +1,2021 @@
+foreign
+hi everyone
+hi
+i'm
+so
+silently
+we are waiting blood i guess
+it looks like
+some problems
+a lot
+yes waiting for us
+great guys sorry sorry for a delay so
+i had some emergency on my provider site
+and had to
+really switch to the mobile
+setup
+uh okay hello everyone
+we will not wait for a minute even uh so
+welcome everyone our 51st uh weekly defy
+governance goal
+so we have quite an agenda for today and
+uh
+yeah sorry to jump in and just interrupt
+your discussion so what we're saying
+is
+nothing
+there
+okay
+okay very good so uh actually
+we have quite tight agenda for today and
+um
+we have
+two ama sessions today and one contest
+discussion
+uh so
+let's let's begin
+so first of all let's start with the
+contest update traditionally
+so we have the text contest voting stage
+uh coming to its end and uh so there are
+the three and something days left so
+please do not decide until the very last
+moment and
+make sure to vote for those we will have
+the flex
+presentation today and
+to discuss
+sorry um yeah so uh to present uh the
+solution uh for this contest and maybe
+some other teams uh will wish also to
+prepare uh at least a short demo of the
+solution to help jurors make the
+decision
+um
+okay and uh there is also one day left
+for the free terms of sovereign identity
+framework stage two to submit
+so if anyone is willing to participate
+in this contest so please do not put
+aside again for the very last moment so
+there are still no uh
+no submissions in there so but i hope
+that we will have some
+um yeah so that's it actually for
+contest updates and uh we will discuss a
+decentralized launchpad uh contest today
+but a bit later so uh and now let's
+directly jump into flex ama media please
+yeah um so just share the screen yeah i
+don't know but i will not present like
+there
+you see other sites who will present i
+think
+the solution i will just say just to
+remind everyone what what is flex really
+and what's the challenge in there
+so the flex is the
+is the first
+decentralized order book exchange
+on friton
+and it also
+um
+the
+um like
+the only decentralized order book which
+also made in distributed computing and
+distributed programming which means that
+all its contracts are completely atomic
+meaning there
+there is no central
+hashmap of anything
+in
+um in flex now
+so after we built
+the um
+the order book itself
+we have also added
+the the pools now it's important that
+by the way can you please mute whoever
+is not talking
+things
+um it is important that um
+you know that that the exchange will
+have a liquidity pool right
+so because we have a
+order book
+we don't need to have a liquidity pool
+as an exchange i mean i just want to
+remind everyone that liquidity pool
+as working as an exchange solution is
+just
+just something proposed by vitalik
+buterian to avoid
+the
+um
+the limitations of the like other
+blockchains where you could not do
+properly
+order book like if they
+if they to use the the liquidity pool as
+an exchange
+is a hack really it's not what you would
+do if you wouldn't have limitations of
+the you know other like other
+blockchains have so because like if you
+traditional exchanges are not liquidity
+pools traditional exchanges are order
+books and there is a reason for that
+actually not one
+and not two reasons for that
+and if you want to provide the liquidity
+there are separate mechanism for that
+which called market making right you
+have usually you have like like nasdaq
+or nyse like exchange uh which is an
+order book exchange which can produce
+like millions of transactions per second
+and
+more or less right on on this order
+books and uh if you want to provide the
+liquidity you need to like be a market
+maker you create your own like market
+making pool like algorithms and all so
+on and you can use different strategies
+different algorithms for maintaining
+your pools you can have an investments
+that that you know come to your pool
+from different sources
+and you can pay different you know
+whatever fees on top of that so it's
+really flexible structure where
+everything is separated like in in in
+blockchains like in solutions like
+ethereum you have uni swap which you
+where you cannot do all of these things
+so you cannot have strategies you cannot
+have all the order book like
+what order books gives you and you also
+cannot have liquidity pools on top of
+liquidity pool because like this is the
+liquidity pool
+itself
+so the flaxes is more traditional in
+terms of
+its architecture as an exchange because
+freetown
+and particular like in in general and
+uh distributed programming in in
+particular allows you to do such things
+now you can use the whole free tone as a
+database and that's what flex is doing
+so i think today presentation
+again and this is one aspect of that
+this is a back end right and well i
+already explained that once so just
+repeating that now we added the amm so
+there is the today's presentation will
+contain an amn to the pair which and
+anyone can create as many you can create
+as many market maker pools as you want
+and you can create an amm and market
+pool on top of that with any rules
+whatsoever and so on you can create
+mechanics like uni swap token
+for example listing
+over the liquidity pool
+over
+the
+order book decentralized order book like
+flex and and we will continue to work on
+this
+and um there is a there is a project
+that i i think already promotes on the
+last community call which is my my
+podcast
+which is which i'm starting which
+actually will be
+a
+lounge pool and that's why i'm actually
+very interested in the contest that i
+didn't know that you're going to launch
+about the liquid about the yeah lounge
+parts and large pools
+um we would i would very much like to
+participate in that because actually
+that's what i'm doing right now so i'm
+we're actually you're more than welcome
+you know that's great as usual
+i think that's an unbelievable
+coincidence i really didn't know
+anything about it yeah yeah and by the
+way i i'm really uh
+just challenging all the dex teams to
+also participate in the ideal contest
+because uh actually it is something that
+uh is complementary to the decks itself
+and um
+yeah it's the next logical step at least
+yeah so anyway so so so for example i'm
+going to start this the podcast which
+will be actually launch pool on top of
+flex exchange
+but with a separate set of smart
+contracts on top of some amm which will
+be configured to accommodate the the
+lounge pool which again something you
+cannot do
+with the regular uh like um you know
+liquidity pool type of exchange like you
+as well
+um well it's at least that's very hard
+to do
+i'm not saying maybe maybe you can but
+it's really hard to do
+um
+so so this is one aspect of that and the
+other aspect of that
+is the interface
+all right so today we're going to show
+you the graphical user interface not
+only the what you call the bot user
+interface but i want to say a few words
+about this interface
+um this interface is actually
+the bot
+it is true
+real debug
+running in a browser in a technology we
+call and it's described in white paper
+technology is called pipes
+and this thing allows you to actually
+take debot actions make pipes out of
+that and wrap it into the normal kind of
+what you say normal web page but this
+web page is actually it's a it's a it's
+a package
+which which which executes in basm
+and and that packages you can it's a
+standalone package you actually you can
+download it from anywhere you want like
+you can take it on cd-rom i don't know
+usb drive
+and or in distribute any way you want
+and then you just open it in the browser
+and it will start to execute the sdk
+with engine
+debugs and on top of these debug it will
+execute locally
+the
+the web interface and you will see that
+you have actually familiar just web page
+but i just wanted to you to understand
+that i want to judge us also to
+understand and actually like go and see
+it
+that it's uh
+it's a completely like it's there is no
+web page really there is no web server
+involved it's all debug technology from
+the beginning till the end okay and
+okay
+now switching to no switch
+[Laughter]
+of course this is just the mvp so back
+on the on the interface side we will
+continue to work on that but i think you
+get you will get the idea sergey the
+floor is yours thanks
+thank you media for the introductory
+rewards
+and
+i'm happy i was especially honored today
+to make a presentation on behalf of the
+flex team
+the other team members may
+correct me or it's something i forget to
+highlight
+here
+we have today
+present
+as i saw apart from media here andrew
+flex contract developer
+uh michael fleck's debut developer and
+nikki the board browser developer
+and this only part of great developers
+from our team
+okay um and here's we have uh i just
+shared this interface as you already
+know
+now the flex is um
+distributed order book and
+traders communicate with it
+with the help of flags deport
+so this debate can be accessed both from
+the the browser itself or we did
+here a graphical user interface for
+traders uh which is
+available currently available at flex
+console
+so meet already mentioned that um
+basically whenever you
+load the bundle to your local machine
+all transactions are executed locally
+and doesn't depend on the so at least
+address
+so basically
+we need to keep it in mind
+uh
+let's go to the interface see what's
+currently available here
+uh first we've got a
+network switch and
+the interface currently works with both
+magnet and div net
+and next to it
+we see a
+trade pair switcher
+there are not
+many uh
+pairs in
+maynet at the moment but we see some
+pairs that we created
+uh
+for demonstrations especially call them
+testosterone
+just to discourage people to
+spend real money on these tokens
+at the moment
+so for each trade pair we have
+three
+major areas the first area is the charts
+area then we have
+the order book and recent trades area
+and finally we have a buy and sell areas
+where traders can buy or sell the first
+token in the in the trade pair
+there are also a couple of useful links
+available
+i just want to mention it the first is a
+link to a help
+document in flex
+so it's a general inscription for
+newcomers what is flex what can i trade
+on flags how to buy and sell and so on
+and
+it will be updated
+[Music]
+when we add or update all features
+so let us return here and the other
+useful link is get serve so
+basically
+for users
+who don't get sf a wallet yet
+an accounting search is required for
+trading on
+on the flex exchange so
+it's provided
+as well as a useful reference
+let's see more details to specific areas
+so
+for
+this two tone pair
+in my nether
+[Music]
+we have an auto book with manually
+posted orders
+by
+let's say individual traders
+orders for cell
+highlighted in red
+and all those
+biodoes highlighted in green
+we see that
+no
+a horizontal horizontal bar is
+proportional to the value
+in the order set this price level
+that is the amount multiplied by price
+so we see that
+overall
+value in sell orders
+uh uh much higher than in buy orders and
+the overall
+market for this token looks a little
+bearish
+not
+too much transactions there is
+some of them but
+we can see here a depth
+chart
+price history for this token
+not much for the candlestick chart
+will show this chart
+[Music]
+and demonstrate a
+demonstrated another pair
+later in the demonstration
+so
+let's try to
+make transactions in flags in this order
+book
+assume i want to buy a few tokens at the
+best market price and i see that the
+best market price here is around point
+one
+uh tone
+per typically token so
+i can just
+click this price uh to how to fill the
+buy order fields i don't want to buy
+i think three tokens is enough for me
+i press the buy button and be now being
+redirected to the softboard
+let us go through authorization
+i we cannot see that you know that right
+oh because there's only one screen
+i see probably i need to stop shay here
+and uh
+yeah
+it's unlikely because it's interesting
+to to see both interfaces
+ah yeah well
+okay let me share
+the new interface but
+it's um anyway you can try yourself so
+kind of
+get the same experience
+share your entire screen
+entire screen
+yep
+let's
+yeah can you see both screen yes yes we
+can so we have flex debot and both
+trading yeah
+exactly great
+so basically we have some
+information messages
+clicking
+that i understand
+[Music]
+actually i can't make a buy here i need
+to send some tokens
+at my client
+i was trading too intensely probably
+uh today to spend
+all tokens
+send me your address i'll send you to
+some tokens
+uh
+here's my internet i can
+okay we realized
+that i have more
+just maybe stop sharing to send well let
+me stop sharing for the moment and i
+said some toys some tokens yeah
+uh
+in just a moment
+them
+i think
+they will arrive soon
+probably i'll close this instance and
+reshape the screen again
+so let's try one more time
+by testing
+you see if you don't have a
+flex client deployed
+and
+the bot will
+[Music]
+ask you to deploy the client first
+but i am happy to have the client deploy
+they hopefully enough balance
+okay now it's okay
+uh you see that uh
+this bar will cost me 1.8 tons so the
+bot
+adds a
+one and a half token
+uh on top of the total sum
+uh just ensure
+that all transactions will be executed
+and on your spot unused part will be
+returned later so i'm happy to continue
+here
+let me confirm transactions
+so currently uh i initiated an external
+message that
+was sent to the
+flex client and it initiated a chain of
+transaction within the board but
+we need to look here this amount should
+change first after i buy
+the deal will be done oh we see here
+it was uh 8 38 and out 8 30
+uh
+five so my three tokens has been
+purchased and
+the report will report soon as well if
+you don't have
+if the tv balance on your wallet is not
+updated you you can just press update of
+the book and we see it changed
+the amount
+on my tip latest
+the
+balance has been increased so basically
+we just executed a transaction best
+available market price here
+again just to point out something that
+you cannot do the liquidity-based thing
+right you cannot do that you are not in
+control of your price this is important
+very important definition of the order
+book because many strategies are based
+on this on how you analyze the actual
+order book in liquidity pool you don't
+have order books nothing to analyze you
+just execute whatever price it is
+in in just you know one divided by
+another
+okay
+yeah
+and uh you see a currently the bot is a
+kind of waiting uh for
+all the pipe chain being processed where
+am i planning to make this process
+more synchronous uh to provide feedback
+faster it is possible and
+it will improve the user experience but
+um yeah but it's also important to
+mention that as you as you could see the
+transaction itself on the order book was
+was almost momentarious like once the
+external message arrived
+boom it was executed the rest of
+transactions are just basically all
+sorts of um
+after the fact transactions you already
+got your tokens but there are several
+transactions that we need to
+track
+and these transactions relate to
+announcements of this trade to some
+other uh contracts like imm for example
+basically we have a and
+notify that broadcast or all subscribes
+uh all these events that happen on
+flex
+uh okay so now we just
+saw an example of
+transactions with the manually placed
+orders so i just want to go to devnet to
+see more examples
+you can change the network
+uh
+on the new network uh internet we have
+more
+different uh token paths
+because a lot of testing goes over here
+and
+first
+what i want to show is the
+earth token
+impervious storm
+so basically what's going on here is a
+trade debate is
+make some trading
+with itself
+so we we have here
+some price history the price is
+fluctuates here
+we have candlestick chart so basically
+um
+[Music]
+this is an interval chart and
+we see the results of the trading in
+in particular interval of time here it's
+half an hour we see if we click on the
+particular interval we see all the
+details of trading high low or open
+close prices and the
+closing price is below the open price we
+have a red candle
+if we're closing prices above the open
+we have green
+candle on this kind of things
+so basically in the
+in the upper right corner we see the
+volume of trade for the interval as well
+a bit of interactivity uh on the
+other book we don't have a
+a large auto book here because the the
+boat con
+trades with itself all the time so
+whenever the orders appear they
+uh
+they have been traded
+almost momentarily there is some trade
+history that's a lot we're not going to
+trade with the board let's
+let's it enjoy itself
+i
+i prefer uh to demonstrate you another
+very important uh example is the
+demonstration of trading with amen
+so
+media already
+discussed it automatically
+there
+a question from the audience so uh uh
+why when buying at the price of
+0.10001 the cheaper books at 0.1 and
+0.05 were not filled first so um
+can you comment on this please as well
+because there was no debot or any um
+like program that executed that strategy
+on this order book
+and if if you want to fill if you want
+to create a strategy over order book you
+need to have an algorithm which executes
+the strategy so you can for example make
+a like a like a just a server program
+for example you can make also a
+automatic program that you will see now
+but you can have a like a solar program
+which would monitor the prices of the of
+the
+um
+of the book
+and execute whatever strategy you want
+and you can
+fill order you can you know whatever
+like execute whatever strategy you want
+over the over the order book
+just because it's totally atomic the
+order book itself doesn't have logic you
+need to create a logic on top of the
+order book if you want to do anything
+but you can do anything you want
+basically yeah sure
+okay thank you yeah the price is atomic
+object
+on flex and uh but the flex debot has
+the entire autobook
+known
+so basically we can
+trade with specific prices or
+basically the
+uh
+flex debate level we can create
+more complex
+orders not just buy and sell but for
+example at a specific price specific
+volume but
+like
+market orders when i want to buy a
+certain amount of tokens at best market
+price and the price is in the autobook
+available and they both just
+buy start
+buying at the best price and go up to
+them
+on the other book so we're planning to
+realize
+market orders
+and
+you see
+it's possible to make
+the bots smart and smarter smart i
+realize different strategies so
+basically whenever you have the
+audiobook available for you
+you can
+[Music]
+just implement various uh algorithm
+on the debate level and it's not only on
+debt level as you can see with imma it's
+also can be on the smart contract level
+so you actually don't but of course you
+need someone to
+to like um well the the trades are going
+to ping your
+smart contract to execute whatever logic
+you want and we have a possibility to
+implement it already to have that
+notification so you can subscribe to
+notifications with your whatever smart
+contract you want
+and you get notifications about every
+trade so you know so your smart contract
+will actually know the whole order book
+and what happens to it and it can be
+triggered by these trades as an events
+and then you can implement any logic you
+want and you also can do it off chain so
+like with through the points
+so anything you want
+thank you let's move on
+so here we see the autobook of
+posted by automatic market maker what uh
+imma
+mm contact does
+it
+uses available liquidity from its pool
+uh to place buying cell orders
+sorry just a moment
+here so the book
+you see
+uh
+because i i see this list of traders
+sorry
+i just want to show you the audible
+it uses liquidity in its pool liquidity
+of
+tp tokens and
+of terms for example or any other pairs
+uh to make market orders around the
+recent market price
+so whenever we are trading with a man it
+uh
+executes the deal and after it it
+cancels previous orders and
+post new orders around the new market
+around the recent
+price
+and we can see that
+i will demonstrate you that it is not
+not a static
+or the book but it's a dynamic
+of the book
+let us
+make a transaction say
+let us make the same transaction
+yeah and
+currently it's deployed
+and tested in devnet
+but
+just for the matter of
+saving
+some turns
+but
+it can easily
+be deployed in mynet as well
+let us repeat the same
+transaction side by
+the best market
+price by three
+tokens
+i want to buy three boosts
+again
+being redirected to the bot itself
+authorization
+hope we now balance here
+confirm transaction again i i saw this
+message and we need to see what will be
+happening
+with our price contract so
+we initiated teaching your messages and
+we see that it has been changed there is
+two
+vehicle
+and it means that i saw my expect
+information from the debate that
+everything completed
+yeah and we see that
+[Music]
+just
+fix
+three
+tones with the latest price so currently
+the
+amim constants previous orders
+and it should
+post new orders
+around the
+latest
+market price so
+i hope we'll see a new the book
+with the orders around three yeah we
+have
+uh
+the best
+buy order
+is
+price 2.5 the base
+uh sell the enterprise 3.5
+uh we have uh with a
+step of 0.5 we have
+a new order book
+so i'll update my my yeah
+yeah
+i have four tokens used to be one i
+bought
+four boost
+three
+boost tokens
+so basically here we see a demonstration
+of trading with a mm and
+at the moment
+the
+am own
+provides liquidity
+uh to the
+mm pool but basically we also um
+a liquidity depot will be available soon
+so any liquidity provider
+can
+will be able to contribute uh
+[Music]
+to provide liquidity to the pool to own
+some
+and share rewards from trading on flex
+anyone can actually launch their own
+pool as well they can launch your own
+pool and uh and get a subscribe based
+communication service and create a
+different logic mmm or you know imma
+which you control with your money with
+your liquidity with your providers and
+on top of we will provide some
+contracts like template court contracts
+on top of the
+amm and on top of flex which are which
+will be related to
+like
+templates for launching your own
+liquidity pools and
+governance tokens on top of this deep
+liquidity pools and so on and so forth
+but that's next stage
+okay yeah i think thank you guys
+basically um it's all that i was
+planning to show
+as demonstration i don't know media do
+you want to say anything about
+governance talking for flex
+oh well as i said there will be
+governance talking for flex and we're
+working on that
+right now
+and there but there will be also like a
+old template model for
+governance tokens that you can launch
+with your token because there is a logic
+which already
+includes in flex which are wrapper
+logic so you can basically wrap any
+token you wanted to the flex tip 3 token
+tip 3 talking to the flex tip 3 token
+and you know
+trade it on there but also we'll provide
+you with some templates of how to
+launching your your like governance
+tokens on flex and uh and all things
+around that
+okay okay guys we are running
+off time a bit thank you very much let's
+see thank you so much for presentation
+so let's maybe decay five minutes for
+questions
+and uh
+if there will be too many so we'll just
+move them to the offline part
+and uh yeah so any questions guys please
+yes no please
+yeah um
+maybe it was already said i'm sorry
+uh but
+how can you okay so for example i
+swapped some tokens on uh
+flex um
+how can i if i want to send them
+manually
+to someone else um how do i get them
+into how do i control the deep free
+tokens manually
+aside from using the exchange you you
+you there is a there is like a tip 3
+token debot which you can use to control
+your tokens
+that's not a problem but you have to
+remember that once you're trading this
+the wallet
+is you're surrendering the control to
+the exchange
+so like the tippery token wallet that
+you have on the exchange is controlled
+by the order book
+so therefore
+um well
+one of the contract price contract of
+the order book i would say this one so
+you cannot really do anything while
+you're trading but of course you can
+withdraw tokens once they are on their
+wallet
+once you're not trading meaning
+and
+just to make sure you can only uh buy
+and sell four tons right you can't no
+between three two you can
+yes you can here you go we have for
+example uh
+pairs of the
+uh
+different kinds of pairs
+yeah you can you can you can trade
+between
+three and tone and between g3 and t3
+any more questions
+yeah
+alexander please
+i know i finished
+hello
+guys uh
+uh can you explain a little bit more
+about this
+solution with uh installation
+um
+this devote interface with sdk
+i mean
+what's interesting
+this is is this mean that
+for example on my pc and windows i
+um download and
+ins
+did installation through except for exit
+file for example and after that
+um
+i can
+use um
+any browser yes
+and it will work directly through the
+bot with blockchain and it's not need
+something more like
+browser extension etc etc exactly you
+only need a browser with wasm
+that's all
+um
+what's about future if we
+will use the linux macintosh or ipod
+even for mobile
+it doesn't matter but uh how you will
+install its own ipad for example this
+there is you just need a bundle it's not
+an exact it's just a bundle that that
+your browser opens and you can actually
+down you will be able like if you want
+you can download this bundle even from
+blockchain
+like you can place this bundle on the
+blockchain you can open a wallet on your
+like in in the browser some
+wallet extension or whatever and just
+download that bundle there are many ways
+of how to distribute that bundle
+no at least i see two ways
+uh um
+download and install like um
+software with uh yes
+yeah you can no you
+you don't need a browser extension for
+example on ipad i'm not sure what i
+catch how to use on ipod yes i mean it's
+ios for example it doesn't matter as
+long as the safari browser is okay
+supporting
+you just open that bundle in safari
+browser and that's all you can open it
+up from the local
+like machine right
+okay
+thank you of course there are like the
+bundling itself we didn't do uh of
+course but uh but it will be like you
+you you will be you can for example pack
+everything together you can make a like
+an ios application which would include
+the bundle in the browser altogether and
+you just open that application it will
+open the browser and
+end open the bundle for example you can
+do many things
+as long as like you you there's like
+hundreds of way how to distribute this
+bundle
+um to your machine
+okay without the need for any kind of
+web server
+good idea
+okay guys let's move on alexander
+is every single year for you
+yeah
+uh yeah we have one more hand so we have
+time for one one more question and let's
+move on elena please
+yeah hi everyone we have question from
+heart criteria from the contest
+uh what uh guys what does what uh
+mechanisms uh for maintaining liquidity
+order book users in the system you have
+that's what that was the half of
+presentation it's imm
+that's the mechanism of the liquidity
+providing
+automated market maker is the liquidity
+pool
+so you kind of can put liquidity into
+market maker right now it supports like
+you need to put both both ends of the
+liquidity like of the
+pair
+in the future you can make
+different logics on top of that it's
+completely flexible
+pardon my
+no pun intended you wanted to say this
+definitely
+but this is exactly the amm that we just
+that you just see on your screen is the
+the order book that you just saw how
+it's uh
+re-rearranged itself it's this is the
+liquidity providing mechanism
+okay and what about maintaining users
+like because as i remember it was the
+part of the idea of having this third
+stage like
+maintaining users
+like staking like farming like these
+mechanisms there are no staking or
+farming mechanisms in in in that
+solution right now so that was that that
+isn't the part of the
+of this uh solution currently as i said
+there will be like
+we will work on that but the next stage
+right now there are no governance tokens
+or like liquidity things but you can you
+know you can connect liquidity providers
+can uh
+share the profit of the automated magic
+model
+trades on flex and
+uh earn some profit on spreads and
+it's just shipped to liquidity providers
+like it's like in any any
+exchange real exchange not liquidity
+pool
+you have
+the flexibility of building
+on top of one exchange you build myriads
+of
+different solutions and these solutions
+can include you know whatever you want
+liquidity farming
+uh staking whatever governance whatever
+you want really and anyone can do it on
+the same pair
+so you don't need to build it you don't
+need to hardwire it like to your
+particular liquidity pool which supports
+particular pair you can create
+solution for particular pair
+and you can create many solutions
+liquidity solutions liquidity pools
+taking farming one one pair so you can
+have one pair and have like 10
+different uh farming mechanism on top of
+this pair
+or combination of pairs
+or combination of liquidity
+okay just just to be sure because it was
+a hard criteria for this contest this is
+why
+we promoted the connector to that so you
+can
+you know connect your own
+thing
+but again if you want to deduct points
+on that that's fine with us
+okay guys so sorry to interrupt so we
+really need to move on because uh we
+have not so much time left so thank you
+for questions and opinions
+yeah if there are any other questions so
+so please do not hesitate to ask
+guys directly in the chat so and let's
+move on
+so actually uh we have uh guests here
+who i will just explain a bit about the
+decentralized launchpad
+contest
+just let me ping them
+just to let them know that uh
+i will invite them so i see a man right
+here
+yeah uh just before uh i will give a
+word to ramon so
+who represent one of the teams uh that
+will also be
+participating in this contest already so
+they already know this
+so um
+and they will tell a bit about
+their project
+in future and we have also several other
+teams who have already
+uh
+announced that they will participate in
+this contest so uh
+this is something new so nobody has seen
+this already so for four guys from 40
+foot so it's also a novelty so actually
+uh what this contest uh
+is about and how it will be structured
+so traditionally we will start with the
+architecture and design uh stage
+and
+one of the
+new points here that were not
+previously in our contest is a
+requirement to
+maximize the reusage of the already
+existing solutions
+so i even put this in the hot criteria
+so uh because uh actually
+this is something that we need to really
+motivate because we have already created
+a really really
+well developed ecosystem and we want uh
+each new contest to be relying on those
+solutions that have previously been
+developed
+uh motivating
+on its own so uh the developers of those
+solutions to maintain them and
+get
+some demand for these services and
+whatever
+uh yeah so actually what the launch pad
+is about if you don't know so actually
+this is a decentralized way of launching
+a new projects with crowdfunding
+uh however as you may know so when at
+the
+era of icos there were quite a lot of uh
+scammy projects that
+actually didn't
+uh
+really deliver and they just took the
+money of investors and went away so this
+is not the case that we will tolerate
+here actually and this is why
+we uh
+put here some requirements for
+the control of the liquidity uh
+through the vesting and through the
+consensus of investors uh for
+uh releasing the next trench of the
+vesting to to the project and the
+ability also to uh withdraw the funds if
+the project didn't uh
+achieve uh the kp the next milestone kpi
+and the investors uh at least will get a
+part of the money back
+uh
+also what is in this uh contest is
+actually about uh
+mainly the architecture of how the
+system will will be built and we also
+insist that the system should be purely
+on chain
+so meaning that uh all the interfaces
+and off-chain parts should be
+supplementary and do not affect the
+core functionality of the launch pad um
+and
+they can help they can add some
+convenience but if we take out all the
+off-chain parts and all the interfaces
+uh you should be able to uh
+really do everything you need with this
+launchpad only through
+i don't know a ton of cli calls
+yeah and also uh there should be a draft
+of uh a platform roadmap because what we
+learned from the decks uh is that
+actually many things can change and
+different teams sees the development of
+such platforms uh in a different way
+and this is good actually because we can
+collect some feedback so we can collect
+some information and improve the
+implementation contest and make it more
+universal
+to let
+more people come and join the contest
+and of course it should be purely
+decentralized so including censorship
+resistance distributed management
+i have some kind of dao in mind but
+maybe the team can propose some
+different ways
+of
+decentralizedly
+managing
+this project uh so uh i will post the
+link to this document together with uh
+with the forum uh publication to the
+chat right after the call so everyone
+can
+have a look on the content description
+and participate in discussion for sure
+so uh
+i personally believe that we will be
+able to do this by monday and
+launch this contest on monday already to
+not just put this aside for a long time
+so but if there are some uh critical uh
+[Music]
+disagreements between the community so
+it may take a bit longer but
+i
+really uh
+ask you to do everything for us to
+launch this contest next week
+uh yeah so uh and now uh roman who is
+representing the 40-foot
+project so will tell us a bit more about
+uh about themselves and uh maybe also
+say a few words about what they are
+doing actually and why they decided to
+to go for free time with the project so
+roman please you can share
+yes uh thank you woody's love
+hi guys
+i try to share with you some slides
+from my presentation i think it will
+help me to structure the skull
+can you see it
+yes yes we can
+great
+so
+i want to start with a couple of words
+about
+my background because it's important
+since 2006
+we involved in multiple projects around
+digital banking solutions
+so we launched in 2006
+the company which calls mfm
+it's a big
+aggregator of business traffic from
+banks pension funds
+[Music]
+insurance companies
+now it's
+they aggregate more than 2 billion sms
+per month they're working in russia and
+other countries
+so the next project was ida mobile where
+we focus on developing white label
+digital banks
+our first client in 2011 was think of
+bank
+we did develop
+ios and android
+mobile bank for this
+bank and after that uni credits as a
+general concrete bank more than 25
+future dell banks are working on our
+white label solutions
+uh
+later we launched our own
+new bank which
+calls instabank
+and after three and a half
+years of operations i moved from
+traditional finance to
+crypto so
+since 2017
+i'm working on project which calls
+trasta rasta.com
+this is a solution which combines
+benefits of
+different cryptocurrencies with
+traditional payment infrastructure think
+about trustwork
+crypto debit card
+definitely you know crypto.com wirex
+paying so
+the same service you can
+get her with trustra and
+the idea of launchpad
+came to me
+when we see the huge
+demand of
+listing different kind of tokens and to
+provide them
+crypto to fiat gateway and
+later
+wait a second
+yes
+so
+and currently we face with booming of
+personal investments and
+defy markets and also we inspire of
+a story of
+axa infinity and mobox
+currently we see that
+several
+similar
+projects well-funded projects are
+starting on this way and
+we think what we can do
+for it and
+as ladies love said
+current
+currently everyone uh thinking about
+[Music]
+launch pads and tokenization as a
+fundraising mechanism but
+we focus on tokenization of existing
+assets like in-game currencies
+and
+[Music]
+our value proposition
+divided for
+two directions the first one
+we can help
+different projects to
+be funded through
+tokenization but
+the main idea of 40-foot launchpad is to
+provide trucking as a service for game
+dev industry
+and
+our i think unique value proposition is
+uh trustra and swipe looks so
+like
+these two projects uh the first one i
+founded in 2017 and uh now trustra
+operates in european economic area in 31
+european countries we have more than uh
+120 000
+users
+and swipe looks this is a project
+which i
+invested in
+this is a b2b solution like
+mercurio in the coin maybe you know it
+so this is equipped to fiat gateway
+for merchants
+and
+i think that we can use these two
+products these two assets to
+provide unique value proposition for our
+projects so to start working with 40
+food they automatically
+have
+the option to be listed in these two
+cryptochild gateways
+uh also the idea
+for
+promoting and
+for marketing is to develop our own
+social mining platform which we try to
+acquire influencers and pay them in
+tokens
+in our project tokens which we are going
+to launch
+as i mentioned before we have two
+directions
+the first one
+we are going to help to fundraise
+[Music]
+money
+to
+the new projects and in
+this case we are going to
+have uh like very typical monetization
+like participation in
+pre-sale
+stage and
+most of our competitors work in the same
+way like dow maker so they don't charge
+new projects
+for consulting or
+development so they
+get some
+liquidity on initial stage and
+sell it after the
+on the stage where
+the token sale stage
+so the same with us uh in this way we
+are going to uh
+make money on it and
+but the uh main idea is to
+recognize existing uh in-game currencies
+and
+this idea is much uh
+interesting for us because in this case
+we will get
+pure uh
+utility token nobody will say that this
+is security so this is pure utility
+token which
+can be distributed free of charge
+inside the game like uh
+in game currency
+and in this
+option we are
+going to
+make money on commission on transaction
+commission
+we already have the first
+like portfolio project which calls
+investmaster this is a mobile first
+game for crypt
+for like
+for people who are going to become an
+investor so you have two options here so
+you can choose
+different kind of
+shares or different kind of crypto
+assets we provide real
+market prices in this app and
+we make
+battles between two different person or
+between
+you and community so you can
+develop your own investment portfolio
+and stop a period of time like one hour
+one week or one month
+and
+after this period of time
+you will see who
+make
+more
+percentage
+money on
+portfolio projects and
+who make more so
+so this is a way how to to define the
+winner
+and uh this game
+is going to be launched from the
+beginning of november
+this year and this is the
+first project where we're going to use
+our mechanic of tokenization
+in game currency
+uh also
+we have a lot of a lot of
+big
+projects where we know
+founders or decision makers this is the
+list of companies
+where we have direct connect with the
+brain
+and
+[Music]
+this is the way how we're going to
+develop our go to market strategy
+so currently
+we are in a custom development phase and
+we try to receive feedback
+and this feedback is really very
+positive
+as i mentioned before uh the idea is to
+provide trucking as a service for
+game dev companies
+so currently based on our
+customer development phase we can say
+that these companies they extremely
+focus on their existing business they
+extremely focus on holding their
+existing needs and
+they also heard about axa infinity they
+also
+understand the potential of such a big
+opportunity as a play to earn model
+but they don't have enough time and
+resources to understand better what does
+it mean and how it will work
+so our idea to
+provide this token as a service model to
+gain depth and
+save their time and
+help them to launch it
+much faster and much easier
+uh
+good thing that
+we have had a motion company so good
+emotion that you
+this is a big
+outsourcing company in kiev and my wife
+she's a co-founder of promotion
+it means
+that we can instantly
+get
+best developers in our projects and we
+can
+have unlimited
+development resources so codemotion
+it's top
+rated upwork
+developer so you can check they have
+very big volumes
+in ukraine and give their number
+two or number three
+i guess
+and they also i i'm talking about upwork
+the platform and
+also they have very good reputation
+there and
+this uh
+estimation
+for
+developing and launching mvp
+for launchpad and social mining platform
+so our idea is to receive
+this amount of money as a grant from
+blockchain
+from freetown and
+i think that in a couple of months
+we couldn't be live
+uh so we have two co-founders uh
+uh dmitry vysovsky uh he's
+working as the cto in this project and
+uh
+he's quite a famous guy because
+currently
+uh he made an exit from his uh
+company profit era profiter this is a
+big
+like
+data
+analysis
+company for
+retailers and
+fmcg market
+he made a very good exit last year
+and
+he has strong experiencing
+artificial with artificial intelligence
+his data mining and
+his data science
+as i
+mentioned before i'm a fintech
+entrepreneur
+i have
+good track records
+and
+also
+most not most but all previous projects
+since 2006 was uh work from uh with
+digital banking or theme tech sphere
+uh
+also uh andrea bramov
+is also on this
+call
+uh he uh join us as a product owner and
+currently
+uh he helps us to
+develop a
+40-foot platform and
+i think
+andre could help me to answer your
+questions
+yes thank you guys yeah yeah maybe just
+just comment so uh
+really as a team of romance
+has come to defy lines initially so uh
+with a discussion about the potential
+grant so we recommend them to
+participate you know a
+launch pad contest that we were
+preparing at that time
+so uh
+and i really believe that it's a good
+synergy between uh
+between the teams
+uh yeah so if you have any questions so
+please raise your hands
+guys we will be able to answer for sure
+yes alexander
+please alexander you're mute
+ah sorry hello roman
+um
+thank you for your presentation um
+i have a question i met only one time
+worth entity in your presentation
+for my opinion
+game dev
+and cryptocurrency in gaming
+maybe it's equal or even more
+possibility an opportunity to use entity
+tokens uh through game on game
+multiverse and maybe on this
+second way
+as usually
+currency like uh
+d3 or erc20 i mean
+uh
+fundable tokens
+uh why and
+what do you think in the future about
+entity
+cross gaming
+crown fighter launch finding
+i do understand my question yes a good
+question
+yes yes andrew may ask you to help me
+yeah sure
+hey everyone
+regarding the nft tokens we
+totally understand its potential at the
+moment we are at the start of our path
+of
+building
+uh the launch pad and currently we are
+very excited with the play to earn boom
+which as you may know
+is currently happening
+so
+at the start i believe we will start
+with the crowdfunding functions
+but um
+but nft marketplace and
+nft integration to in-game
+processes will be
+definitely present in our roadmap
+but it won't be i believe it won't be
+the first step we need to take
+okay thank you and for now can you give
+some example for example one game
+existing game and you
+uh talk with them about use your
+launchpad uh
+for what reason for example they have in
+gaming currency and you
+said them that okay
+uh let's it will be cryptocurrency and
+you start use uh
+this cryptocurrency how
+uh in-game cards or what a launch pad
+for what reason
+yeah yeah you are absolutely right i
+can't give you the exact uh exact titles
+but our partner dmitry who is absent on
+this call unfortunately
+uh at the moment
+he is
+held in the customer development with
+the
+big and middle game game dev studios
+like playwrights comma games and so on
+and so on
+and the use case
+is the exact you've mentioned so they
+have their own currency they have
+their game launched and
+uh
+bringing some audience and we propose
+them to tokenize their in-game currency
+and make it digital asset
+so big companies they are waiting for
+good examples good use cases
+to follow
+and
+currently we focus on
+small
+projects like
+investmaster
+who wants to
+launch the game
+with existing talking
+definitely
+playrix will wait for a while
+we'll check
+how it works
+and
+i think that we already have
+success stories like ax infinity
+who do it
+and
+it's a matter of time when we
+see maybe next year the boom of
+transformation from uh
+existing in-game currency to tokenized
+game currency
+also
+maybe
+you checked the
+last news about apple so they
+have to
+[Music]
+after the
+decision of the core
+they have to allowed
+uh
+projects with cryptocurrencies
+to use crypto
+in in
+the
+in-app
+crypto
+what's the biggest challenge
+you see in
+this
+idea
+i see at least two challenges it's just
+about gaming monetization and how we
+will do after that they stay
+cryptocurrency use cryptocurrency for me
+it's a little bit harder
+uh to do monetization for game and sex
+the second challenge it's
+uh payment for transaction for guess
+if when we use inside of game uh
+cryptocurrency
+uh on all blockchain it's pay for gas or
+the fees
+what challenge did you see in this
+business for me it's big to challenge at
+least
+uh in fact
+roman do you mind if i answer the
+question yes sure
+go ahead okay
+uh
+so the challenges
+you've mentioned they are already
+sold by a couple of games
+that already utilize platoon model for
+instance qinzi
+arena
+and
+a couple of others that are being
+launched right now
+so
+uh
+these are no big deals at least as we
+see it now we may be wrong
+you know
+um
+the biggest challenge i see but it's
+from the business perspective not from
+the technical one
+the biggest challenge is to
+you know find the first
+uh
+game from the
+big game game industry
+who
+who would like to
+tokenize its game
+and after that it will be much easier to
+find
+projects to who would like to work this
+way
+yes exactly but we have one
+already yeah thank you for your answer
+thank you
+i have a question uh
+so you want to bring the in-game
+currency outside of a game
+to
+crypto infrastructure but
+who would buy it and for what reason
+you basically you know if it's an
+in-game currency it's used by gamers
+inside the game when you bring it out
+what's the purpose
+i mean it doesn't have any use case
+outside of the game
+what would be the purpose for for people
+to buy it at all i of course
+a lot of players would want to sell it
+you know to
+to basically get uh you know fiat
+currency for it but who would buy it
+it's about monetization
+we already seen a lot of use cases where
+in-game assets try to
+solve in the real world for real money
+without any tokens
+and
+i think
+it's a question of amount of liquidity
+in this game so
+think about
+like airplane
+miles
+like a airflow miles
+so you can use this uh
+um
+mile to upgrade your
+ticket but also you can
+book a hotel or use it in a different
+way the so this is the question of time
+and uh the amount of liquidity in game
+liquidity
+but what would be what would be the use
+case with air miles
+you know you have a party that accepts
+these miles uh in exchange for uh
+discount for a ticket
+uh what what kind of use case do you see
+for uh
+let's be very specific like uh
+what kind of use case do you see
+[Music]
+you you you can uh see war gaming uh
+industry and uh
+you can
+buy different kind of uh
+in-game assets uh in real world
+the same mechanics so
+why
+do you need to
+spend time to
+develop your profile
+in a game when you can buy it
+and
+this is the case
+another
+sorry roman another case is
+that we want to make the games
+uh
+current i don't know classic mobile
+games
+do not allow you to
+earn money
+while a play-to-own model
+allows
+gamers to earn money to earn crypto and
+withdraw it
+so it's
+uh
+the the question you ask it's the basic
+demand question
+so if the gamers
+will be able to earn on crypto they will
+they definitely want to buy more of it
+and
+uh one more import important notice is
+that
+current in-game assets
+or in-game currency the games have
+do not have to be converted one to one
+ratio to
+the creator
+to the token they will launch with us
+so it should not be one-to-one ratio and
+it doesn't mean that
+the demand will be zero
+and the demand
+always come from the new players in
+every area in the industry but if you if
+you want to convert
+existing game
+strategy to play to earn strategy it's
+one thing
+but but
+this is like different business but if
+you just if you just tokenize uh a
+in-game currency
+that doesn't create
+because this the play play
+foreign model uh it's it's very simple
+to understand how it works
+and why it works but uh
+what you are doing is a little bit
+different
+i think i think you you kind of missing
+that some parts to your strategy
+in my humble opinion
+of course i believe we are not since uh
+the thing we propose it's a joint task
+between the game and our launch part
+so we give the payment infrastructure
+and tokenization
+procedure
+and they will have to develop in-game
+mechanics so we won't develop in game
+mechanics play to earn
+mechanics
+for them
+this is
+their business and this is their
+obligation to do this
+our obligation is to launch the token
+and
+provide liquidity and give them the
+payment infrastructure
+so it's not
+the one it's not one business it's two
+businesses and they are separate
+but providing liquidity would be would
+be a challenge
+it looks
+the way it looks to me right now
+i believe we can discuss it in chat
+later on yeah yeah absolutely yeah
+because we are already out of schedule
+so
+yeah
+sorry
+one last remark please please i will
+share with you some examples of how it
+is already done
+uh in some gay play to own games so
+it will be easier to understand
+yes better to use existing use cases the
+based on
+the results of our customer development
+phase we see that
+it's quite understandable and
+i guess
+game companies they're waiting for such
+a solution
+because it's quite simple and the token
+is a service it's
+[Music]
+what exactly we can offer them
+okay
+yes thank you guys uh let me just uh let
+one last question so from azor and uh we
+already need to rope up actually
+yeah
+it's too interesting to discuss so uh
+guys don't want to let you go
+yeah it's a very interesting topic
+really um just one quick question for
+you guys um andrei drummond how many
+hours a week do you play games
+[Music]
+honestly i'm not playing games
+i do financial services and
+i'm staying on like
+payment
+and
+if you had to
+crypto exchange
+yes yeah thank you very much no more
+questions or rahman is doing business
+and i'm playing games
+so
+he's paid to play games yes
+yeah yeah i
+i have two colleagues who are
+very experienced in this area
+so we divide our expertise for two parts
+andrew
+yeah platoon really catched me so i play
+a couple of
+the games and do it rather regularly
+okay thank you thank you guys so uh
+on this uh
+good question so i have to wrap up our
+discussion so thank you guys really for
+coming to us and
+uh we had so few time to discuss and it
+was one of the most interesting uh
+meetings in my personal opinion
+so uh yeah so if you guys have some
+other questions to ramana and andrew so
+please feel free to ask in the default
+chat so they are there so and just ping
+them and ask your questions and uh by
+the way uh what i wanted to say is that
+you see how differently you can
+approach the launchpad
+question that's why i deliberately
+wanted to see them at our default call
+because the guys are building the
+launchpad specifically for the gaming
+projects
+and
+you could think about
+all different applications of different
+launchpads for different industries even
+for real products uh maybe create kind
+of kickstarter for real products on the
+free tone network so it will be also
+really really some something fascinating
+uh yeah so
+i thank you everyone for coming and i'm
+really sad to wrap up this meeting but
+we have to do this so and see you next
+week at the same time
+in the default chat and our weekly
+device call
+so i wish you a pleasant weekend and
+say goodbye
+bye bye
+thank you guys thank you for inviting us
+bye

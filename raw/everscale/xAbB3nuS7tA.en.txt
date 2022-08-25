@@ -1,0 +1,2104 @@
+livestream i'm not that good
+how is everyone
+real life
+now you have to do it oh here we go well
+well i've been learning mr bojangles
+[Music]
+i don't know if anyone can actually hear
+that by the way
+it's coming through
+oh there me foreign
+[Music]
+that old soft shoe
+and that's all you get folks
+there we go how's that for an intro to
+the call
+as well the on splashing for me
+pub music
+[Laughter]
+oh that's not nice
+why not
+what not what what did i say wrong
+nothing
+he said
+feels good
+i used to play the classical guitar my
+parents couldn't afford a piano so they
+got me a classical guitar
+face saving too
+those pianos
+[Music]
+all right let's wait a few minutes we're
+still a little short and light so
+we try to uh buy a full sized piano for
+dionne a while back because she plays uh
+quite well
+and uh she got all the way to the uh
+ladies house which was pretty much two
+cities over so a good 40 50 mile drive
+and they realized this thing weighed
+what was it maybe
+i don't know
+300 kilos and would have smashed the
+suspension so they tried to drag it a
+little bit gouged holes in the ladies
+floor and then had to give up
+so
+yeah so they just left with their tails
+between their legs i'm sorry
+good delivery planning
+oh wow
+on the stream
+you just got called kurt cobain
+yeah yeah
+[Music]
+we're starting off lively today
+awesome
+well let's see um
+[Music]
+i guess we can start yeah i think so
+okay
+welcome
+everybody uh thank you for coming to
+everscale community column number 91.
+um we only have a couple of
+presentations today but they're um
+they're chock full of information really
+packed so we're gonna have
+we're going to have a lot of info today
+despite the fact that we're
+you know not uh you know diversified uh
+as we usually are which i think probably
+is a good thing
+uh just a little bit of call etiquette
+for anybody that might be viewing us for
+the first time uh please turn your
+cameras on uh please save your questions
+until each presenter is finished and use
+the raise your hand feature in zoom to
+do so
+uh for our beloved youtube guests please
+write your questions in the youtube
+stream and i see there's already one
+uh and we'll get to it at the very end
+of the call
+and as a matter of formality uh the call
+is the is conducted in english only so
+let's go ahead and hop right in uh
+technical updates are first as always
+mita you can start us off
+yeah
+well we're still not
+not delivered the update to the network
+it takes a little longer because
+it's a little bit uh complicated
+because the changes we are going to
+introduce are breaking changes
+and
+the problem with that
+is it's not only breaking changes in
+terms of the node it's also breaking
+changes in terms of the sdk and all of
+that which follows
+and that means that
+we kind of need to find a way
+to
+kind of gracefully
+change without breaking
+everyone's applications out there
+so
+and the problem with that is that
+unfortunately
+the previous design didn't accommodate
+for any extension extensions it wasn't
+extendable it isn't extendable at all
+so like
+someone who designed that didn't think
+that the design would never ever need to
+be
+extended to anything like that's the
+final design this is as great as it gets
+and so on and so forth you know that
+drill
+so well apparently it is not so
+it's need to be upgraded
+and
+with many things
+current upgrades and the future upgrades
+so anyway
+this is there's a lot of internal kind
+of
+discussions how to do that properly
+were conducted in the end we kind of
+settled on something it's not yet fully
+implemented and there's also because it
+involves also the transition plan
+for for the sdk and you know the
+applications the users involves all
+these applications that runs
+and serves like tens of thousands of
+users currently
+and you cannot just go lightly about
+that because of the like you know
+user experience should not be
+such that you open applications suddenly
+stop working
+so um yeah so
+it will take
+a little bit more time i'm not sure how
+much
+um
+hopefully
+maybe this week
+if not next week but
+working hard on that
+um
+it was to all test that like all the
+changes that we wanted we all did it
+like what's all chat tested the new
+instructions there are five of them
+five or six of them
+they're all working they're all have
+been forwardly tested there are some
+upgrades that um
+apart from that that's also are
+important to create security upgrades
+but um
+so this is the status
+currently
+about that
+um it's not that critical but
+still
+so the another thing is that
+um i think
+there was a uh
+was released a
+road map forever scale
+um
+i think yesterday something
+so this one
+and i just want to kind of comment ask
+me to comment on several things uh which
+relates to what ever x is doing and
+everex's new name for tone labs if we
+didn't know
+so
+yeah
+we have a new logo as well thanks john
+and
+so yeah so let me comment on this part
+of the of the roadmap
+maybe
+so first of all
+in terms of
+um some of the dates
+provided here are kind of and we got a
+lot of questions uh in several chats
+some kwpc chats as well
+or like um
+the the flex is listed on q3
+[Music]
+um well i can tell you that dance is
+listed in q4
+well while obviously
+this is just um
+just things that probably i said and and
+um
+you know instead of when you put a
+roadmap right you cannot put soon there
+that's really unfortunate
+so i think they just they just
+multiplied whatever i said by by a
+factor of three
+um
+and you know if you want to give a
+commitment then that's probably what you
+need to do and that's the problem with
+dates and the road maps right because
+you as i'm telling you right now nobody
+simply nobody
+the hell knows when these things will be
+delivered okay this is a true state of
+the development of anything which is a
+little bit more complicated than
+you know
+than three
+lines of code
+so um
+but in
+like so there are no
+real dates
+but um when you
+press to make an assumption then the
+best strategy you could uh
+you know choose in order not to be
+hold accountable is just to multiply
+everything you say by some factor of
+whatever
+you choose the factor
+right three four five whatever so that's
+what you see here more or less
+and uh the things that are in delivery
+in q1
+is like something that has already been
+done more or less
+i think well at least i'm talking about
+our our stuff like whatever
+um neverexes
+is
+uh
+you know responsible for
+so when you see here flex q3 no flex is
+not coming it's q3 it will come much
+much sooner than that
+but i just wanted to kind of so don't
+don't panic there's a lot of people go
+back to why
+why why q3 plex no no flex is not coming
+into you q3 so don't worry but
+just to be on the safe side it's it
+states q3
+so that's one thing um
+i wanted to say
+another thing is um that so
+like bottom line many of the things that
+are that are
+uh stated here will come much sooner
+than it is stated here but for the for
+the for the safety of the kind of road
+map
+they're they're just there's even more
+time
+right
+um
+okay so um i just want to comment on few
+things the
+um
+[Music]
+the decrease in gas
+that it says up to 100 x there will be a
+decrease of gas that's for sure this
+quarter i'm not sure it will be i'm sure
+it won't be 100 x
+and uh the reason for that is
+because you need a whole other range of
+technologies
+to
+support economically the scalability of
+the system
+so um
+so
+in order to do that you need really the
+dynamic gas season which is listed in q3
+um
+because you cannot because without that
+you cannot start new work chain and
+without starting a new work chain
+you anyway there is a limit of
+scalability in one word chain anyway
+right there just physical limit of the
+of the blocks that you can transmit over
+the network currently
+and so
+if you make it hundred x smaller the
+fees you will end up
+in salon a situation
+um of course not exactly in salon
+situation because i think we can sustain
+like more gps on one work chain
+but still it is very close to salon
+situation where it costs nothing to to
+spam the network and if it costs nothing
+to spawn the network someone will come
+and spam the network
+all right
+so you need it in dynamic svs so there
+is a trade of somewhere so the gas fees
+will decrease but not by not by 100 100
+ticks
+i mean that's one thing
+um then
+like um
+then there are some other things that i
+want to mention for example there's new
+things that you see and they got the
+questions about that so there's a gauche
+git on chain source holder
+and this is a new project we're doing
+and it's it's um it's a git basically on
+chain and it's mentioned in the white
+paper actually so we're just executing
+white paper
+and i also want to comment i heard
+somewhere someone said
+that
+not the white paper won't be like won't
+be
+the everex part of white paper
+won't be
+necessarily fully
+developed well that's not the case in
+our from our perspective
+everything that is written technically
+in white paper talking about technical
+part of the white paper
+is
+in the plan or is already been developed
+so it will be developed fully because we
+don't have currently no we i don't have
+any problem with specs like all the
+specs
+we believe are solid
+and uh need to be done
+um so and that's really for for us the
+road map there is nothing new in terms
+of the ever ox
+uh operating system there is there is
+nothing new that um maybe some things
+are actually missing in this roadmap
+that we are going to do
+but because their roadmap shouldn't be
+that detailed but we are still on track
+to implement everything that white paper
+is talking about one of the things white
+paper is talking about is git on chain
+guitar is an extremely important for
+many many many aspects that i don't want
+to learn to touch just for the security
+of the network first thing like we are
+right now with every not only we like
+not only ever scale like every
+blockchain is holding its repositories
+on some centralized git repository
+owned by
+microsoft or gitlab in general right
+um
+and this is a huge problem this is
+really a really huge problem it's a
+security problem
+and and it is it is uh
+the centralization problem who decide
+what the the repositories the
+centralized repositories they all they
+always have one
+owner
+a single person who owns them and and
+that is that is a huge problem in the
+decentralized world of course so we need
+to fix that and and several other things
+so we're working on that
+we hope to show demos sometimes in may
+so yeah so that's um that's the
+questions that i got about this ones
+um
+there are other questions i think that
+ron would put
+me there
+yeah i did you can answer them now
+at the end of the call oh yeah i'm
+already talking about about the roadmap
+so can you use drivechain as database
+no you can use blockchain as a database
+drive chain is for storage like it's
+it's storage so drive chain is listed in
+q4 and actually and in fact i think this
+is correct timing
+because drive chain is is
+not yet been implemented but of course
+we are definitely planning to do that
+um never never uh the questions about
+never ever and never there is a tip
+three stable coin expansion stated here
+i'm not going to to because it's a part
+of defy alliance
+and uh uh actually questions to defy
+alliance so um
+not even defy alliance but i think defy
+some governments because they run
+this ever-never
+stable coin contest so i don't know vlad
+maybe we'll be able to
+yeah i think they're actually going to
+talk about it
+okay from my perspective uh that that's
+all questions i got if you have any
+questions about our parts basically ever
+os is is what uh everex is doing
+most of it except for the key snark
+protocol which already been implemented
+by new foundation team and will be
+uh this quarter we will try to push that
+into into production
+um and other than that
+flex of course which which is which is
+coming and decentralized fund management
+protocol maybe because like it's one of
+the protocols has been presented by kwpc
+so i can answer on that as well thank
+you very much
+um we do have a couple questions uh
+michael first
+yeah i'm just wondering whether you can
+share that into the telegram group
+there's a jpeg so that we can circulate
+it on socials and i think more
+importantly to the
+uh to the investors and our ecosystem
+doctor
+sorry to interrupt i will share the
+presentation with all these materials
+into the group
+let's build the pdf
+awesome
+okay ivan you have a question
+isn't it necessary to have drive chain
+uh running
+for doing the this gauche
+stuff or dry chain is not needed here
+why is it earlier than drive
+drive chain is not necessary drive chain
+is only necessary for storing binaries
+yeah i know a lot of people storing
+binaries in git git
+but git is not built for that in general
+you can do that because like you can
+store everything anywhere and you can
+store files and file system right so
+yeah so in order to store binaries you
+will need to drive chain and we are
+going to enable the storage of the
+binaries in gauche but when the
+direction will be ready beforehand you
+won't be able to store
+binaries
+and how how do you expect the uh like
+size of uh
+repositories for example everex
+repositories in gosh
+um
+like
+it's um
+the gosh maybe it's not the time to talk
+about that maybe we'll have another
+session on if you want on on the
+architecture of gosh
+but uh
+the single contract can store
+without any problem after up to 200 2
+500 uh
+lines of code
+around that number 3000 something
+because it's compressed so um so because
+we don't see this
+like these rarely see files which are
+more than that
+you can usually store them in just one
+basically message
+so
+we don't we don't see any problems
+actually one contract can accumulate
+more than that but yeah no but several
+messages i'm talking about one message
+okay
+and thank you for your question ivan uh
+we have a question from michael cabana
+excuse me frogger
+michael
+yeah hi guys uh mitch i would like to
+chase back the issue about the dark
+rules uh the last time we spoke uh it
+was the 10th of february the approximate
+date of their launch what's the current
+status would you mind telling the
+audience thank you
+yep the dark rules have i think passed
+by now formal verification stage
+uh it has now been integrated into
+websites we will release the interfaces
+to dark posts this week so you can start
+in because i got some some inquiries
+about that so you can start uh
+integrating your whatever applications
+you have with dark tools so you can
+you know show them status of them in
+your application
+and once these front ends for their
+tools will be ready
+then you will be able to like
+you know use them basically just
+we're working on user interfaces the
+dark tools already
+okay cool thank you
+all right thank you
+uh ivan if you have another question go
+ahead if not can you put your hand down
+thank you all right uh let's move on uh
+we have uh michael gord obviously with
+us who's already introduced himself uh
+from gda capital um there were a few
+questions in the chats about the status
+of
+the uh
+ton startup competition which now is the
+everscale startup competition so michael
+uh we'll go to you for for all the
+details please
+yeah so
+we
+just finished um
+about a week and a half ago the
+uh registration we had
+about 275
+teams that that registered
+which was about 50
+50 projects
+everything from
+nft marketplaces defy tools
+kind of social tools
+not all built on
+every scale unfortunately but but quite
+a bit
+um the three teams that and we've had
+we've had it judged by
+um
+[Music]
+by the gda capital team the td5 team
+uh nikita uh from preton and then
+another
+um
+another investment group uh jane euro
+capital
+um we have prepared
+um
+a communication to the market for
+medium
+that
+uh highlights
+um what we uh suggest as
+as the three winners then two
+uh honorary mentions uh if anyone in
+this group wants to
+um
+wants to see the full selection
+i'm happy to share it and uh and if you
+guys can or if anyone can uh
+can complete the
+judging um you know in the next 24 hours
+then we could perhaps
+uh
+release it
+uh wednesday or thursday as opposed to
+today but
+we're getting quite a lot of
+messages
+from devpost which is the the platform
+we used
+um
+about when uh the winners are gonna be
+on it are gonna be announced so so we
+would like to get it out
+um
+the three
+the three uh products that
+um
+that uh that we have uh currently
+uh got as as the three winners are
+uh convo space
+which is
+a social app that
+is actually cross-chained so it
+integrates into several other
+blockchains as well
+and that
+that allows you to have all your
+conversations in one place with one line
+of code
+um so that was pretty cool and the other
+two let me just
+see the names
+um the other two are
+dream base
+which uh is a
+nft
+or actually dream base is a
+platform focused on the africa audience
+to be able to
+have
+a community and an nft ecosystem around
+music and around writing
+so
+any
+writing can actually be
+uh minted as an nft
+on the platform
+um
+i thought it was pretty cool and then
+the third is demeter which is a
+an nft
+charity
+auction platform in marketplace
+all three of these projects actually
+have
+quite
+quite built out
+teams and technology so
+um i think that it's it's quite possible
+that they continue
+um and what i would suggest as a
+follow-up to
+to this
+competition
+is
+um is us linking this to a
+um ever scale accelerator that can
+perhaps
+um work with these
+uh with not necessarily all of them but
+work with some of the groups that we
+think
+um
+are marketable and that we can we can
+scale
+to get to the point where they they're
+able to you know close their seed series
+a rounds and and become marketable
+um and i think that would also result in
+quite a lot of
+of publicity if we introduce a kind of
+early stage accelerator to
+uh ever scale accelerator to markets and
+then that some of these teams start to
+start to enter the accelerator
+i think it would also present a way to
+generate some cash flows
+that could be reinvested into
+into the network and that kind of ties
+into the crystal handshake
+program that is
+um for more established businesses i
+think this this uh like a an early stage
+accelerator kind of fills the gap in
+um in getting projects from
+[Music]
+uh from like this this very early
+unfunded stage
+um
+that you know a three-month program kind
+of thing five-month program where
+um it's an accelerated way for them to
+raise their first you know one to five
+million bucks and then
+uh and then to
+to be able to deploy that further into
+uh into scaling to get to the point
+where they can access the crystal
+handshake program so that's that's one
+suggestion that i have to move forward
+uh in addition i think that uh whether
+we do an accelerator or not and i'm
+happy to uh to hear all of your
+feedbacks and i'm also happy to kind of
+champion the putting together of it
+um i think that it might be worthwhile
+for us to
+follow up with
+um
+any of the relevant teams that
+are building on everscale so that
+ideally
+whether we are like formally working
+with them in an accelerated capacity or
+not i think it's in our best interest
+for
+as many of them as possible to come to
+like introduce to the market
+their um
+uh like you know that they have that
+they're building on everscale and why
+um i think also be great if
+if we can kind of leverage this to
+expand the number of nodes
+um so those are kind of thoughts on on
+what i would what i would do with the
+um with these now like 275 people that
+are
+are are
+you know somewhat in the
+um
+[Music]
+in more or less capacity in the
+everscale ecosystem
+and to continue to bring them in further
+um and then also we got uh
+we had about 25 000
+uh views on the website the top 10
+startup website which i think is pretty
+good with with no paid ads just uh just
+organic
+um yeah so that's that's kind of a
+summary of
+of the
+of the numbers from the
+from the event and then my my
+suggestions on what we should
+follow up with uh specifically the
+accelerator the uh like having a node
+program
+um
+and
+you know further bringing these
+organizations like new startups into our
+ecosystem
+yeah absolutely fantastic
+i actually had a question for you is it
+possible to get uh one or all of these
+folks maybe
+to come on next tuesday's call
+yeah yeah that's a really good idea i
+think that it's you know good publicity
+for
+for all of them it'll give us a good
+indicator especially the three winners i
+think for sure um i think it'll give us
+a good indicator of whether there are
+serious projects that want to continue
+uh if they are you know if they i mean
+if they are open to coming and
+presenting then that is
+a level of additional credibility that
+you know they're serious and that we
+should invest more time into them so
+yeah that's a that's a good suggestion i
+i'm happy to uh put that in motion and
+maybe maybe it won't happen like all of
+them next tuesday but maybe the next
+yeah yeah no no no you can be uh we can
+be bringing them in
+yeah no pressure um just dm me
+all right yeah we'll do any any other
+thoughts
+anybody have a question anybody have a
+thought
+i guess not
+michael so
+awesome um
+yeah people think that um or don't
+object and think it's
+uh it's not a bad idea
+i'm happy to
+over the next uh week or two
+uh put together some branding around um
+what an accelerator like early stage
+accelerator might look like
+um
+that uh that we can perhaps
+um
+bring
+uh a cohort from
+from this into and kind of think about
+how to how to take it to market
+but that was the
+yeah pardon sorry i cut you off sorry
+someone have a question
+yeah actually al alex does
+yeah michael thank you very much the uh
+my question is you started answering
+already is about the next steps uh like
+what's coming next uh from you guys
+you started answering about the
+accelerator
+and will there be like the second uh
+hackathon
+already under the everscale brand
+yeah yeah well definitely we're gonna
+totally shelve the top ton startup brand
+and the next the next one we do in in
+this startup competition capacity will
+be um will be focused on everscale
+uh with new upper scale branding
+um
+the initial
+like plan we came to market with this
+was that
+we use this as a
+as a launching ground to set up an
+accelerator and kind of roll businesses
+or funnel businesses from
+startup incubation to acceleration to
+uh getting through pistol huns getting
+to the crystal hands program so
+um
+so yeah that's unless anyone objects um
+that's that's the next step for us
+um
+i'm happy to uh to share progress on it
+uh next week or the following week and
+if any of you want to participate in
+any capacity and an accelerator that
+would be
+that would be welcome
+um and then similarly um
+nodes and uh and further bringing them
+into the ecosystem so um i think wrong
+suggestion of
+of uh of them presenting here to see if
+they're see how serious they are
+is is also good um
+so that that's on the
+on the startup competition i guess i'll
+pause now if anyone has any other
+questions or comments or or feedback
+um
+i have another suggestion that i'd like
+to bring up with everyone or thought
+uh does anybody
+i don't i don't think there's any
+objection i think it's a great idea
+um all right awesome so i'll start to
+i'll start to put together
+um some material around that
+um and then my other
+uh suggestion i'd like to bring up so
+um
+we have
+uh
+participated in some quite large
+activations or i should say like full
+brand full enterprise brand integrations
+of protocols
+um where essentially the protocol
+like buys the licensing rights
+for
+a sports team or for a musician or for
+some iconic asset that has you know the
+more fans the better
+um
+where from the um sports franchise or
+from the musician's perspective they're
+thinking about it in terms of how do i
+raise sponsorship
+like how because because they're not
+thinking about the nft
+value or like the value of the data on
+the blockchain um
+so it's it's it's really skewed
+economics in in my opinion and from
+from uh what i have like directly been
+involved in it's been
+an enormous return on investment
+um for for the network in in the sense
+that they're they put some uh cash or
+tokens or consideration
+uh on the table
+uh and it results in
+uh in a market cap increase that is
+significantly larger than the amount of
+cash that was put on the table so it
+kind of becomes free
+um and just to go back for a sec these
+sports teams or musicians think in terms
+of sponsorship
+uh they don't understand nfts whereas
+for us
+we think about this in terms of how do
+we bring activity to a blockchain how do
+we bring nft's usefulness users uh
+awareness scale et cetera
+to uh
+to a blockchain so it's it's quite a lot
+of arbitrage that they're thinking about
+it as sponsorship and we're thinking
+about it as
+buying data buying and buying nft rights
+um so i have a couple
+um
+couple groups that like sports sports
+teams and
+musicians celebrities that that we've
+been we've been talking to you about
+this
+um that i think every scale would be a
+really good fit for
+um so and it was a positive wonder if
+anyone has any
+any suggestions but i think we have just
+the thing
+i think we have just the thing i'll dm
+you separately
+awesome yeah because my thoughts here is
+that we've got like
+quite a
+um there's there's quite a lot of
+quite a significant treasury that is you
+know
+with a mandate to
+uh invest into
+bringing adoption
+um and from we've done a couple of these
+before that have have been like a really
+positive roi
+um and i think that if we do do you know
+one two then
+the
+notoriety and the public awareness of
+the everscale blockchain
+will start to
+start to accelerate a ton so yeah ron
+i'm happy to
+to chat after this and
+include you and
+it calls with these groups and uh
+see uh see what we can do
+yeah i'm i'm gonna uh if you don't mind
+i'm just gonna form a small group uh
+with you and a couple of people that
+that i'm with and
+i'll toss uh my idea in there
+perfect
+can i ask another quick one well we have
+michael
+active um of course
+michael i just know i also know just
+couple of weeks ago that you guys uh sj
+capital have a metaverse subsidiary saw
+it on twitter quite a few times forgot
+the name but it's something like meta
+versus averse group yeah another group
+are there any synergies with the uh
+whatever scale that you've been thinking
+about or not really maybe oh yeah for
+sure
+yeah for sure so so metaverse group is
+is uh is vertically integrated in the
+metaverse real estate market so it owns
+a portfolio of lands
+is building experiences on the land so
+um
+we're doing a we're doing a like a
+commercial district a fashion
+fashion district we're going to have
+shopping
+like shopping centers we've got a stage
+for concerts we've got an art gallery
+for
+nfts
+this is all in decentralens that we have
+have been building but we own uh land
+across
+um across about a half dozen other uh
+other popular metaverses uh sandbox
+omnia space with the voxels world etc
+um
+so
+um the two
+two synergies that that i see
+uh and and i should i should add that
+metaverse group as an organization the
+intention and and i only uh like uda
+owns owns only a minority in that now
+it was basically acquired by tokens.com
+which is a public speaking company that
+i am very keen to
+get into the uh
+into the crystal hands program and
+actually did verbally commit and then uh
+long story short took a while and
+and now it's now it's time in limbo but
+um but that would be really good and
+still is definitely
+um low hanging
+but the objective is uh to take it
+public and that it is not a venture
+capital um so it's it's focused on more
+um like the majority of the portfolio is
+decentralized sandbox which we can
+generate yields from take the company
+public and
+um you know have uh have an roi
+separately uh our our plan is to
+launch a
+metaverse fund
+uh called meadowverse ventures um
+that
+uh that is
+that fills the gap of
+being able to invest into
+uh into equity into tokens and into
+um
+more uh
+you know experimental metaverses
+uh newer metaverses i could say
+um we have uh
+we have some interest we're really
+looking to close on the lead right now
+um
+but uh i am
+uh confident that
+that will have it live
+um for
+q2
+um
+so yeah the two the two synergies that i
+see
+is
+uh one we are doing a
+uh no we decentraland is doing the
+metaverse fashion week uh on our estates
+in
+in the fashion district
+uh meadowbrook fashion week is gonna
+have activations from 28 of the biggest
+retail brands in the world
+um
+i i think you know many of which if not
+all of which uh
+are our name brands that that we've all
+heard of
+um and it's gonna be so there's gonna be
+like uh
+um you know a runway a bunch of
+a bunch of stores with luxury brands
+that have nft wearables
+um
+and uh and a bunch of side events
+uh so
+so
+um you know decentralize on ethereum
+unfortunately for
+forever scale but i think that
+it would still perhaps have value to
+have an activation
+for everscale
+uh during this week and some some like
+you know to either have uh an art
+exhibit um as a side event or to have
+a side runway with um with designers we
+can really be flexible in
+in what we do um we have a stage we have
+an art gallery we've got uh conference
+sensors that that we can
+that we can leverage uh for free it's no
+uh no cost to us
+um
+so
+so so that's that's one like doing
+activations uh on on our lands
+um
+and then two
+is that i see that
+uh on the roadmap there is
+um there's
+metaverse um
+plans for for the everscale blockchain
+so uh certainly as
+metaverses are being built on everscale
+uh that of course there's lots
+yeah there are there are several
+from korea as well potentially
+yes
+all right
+that's
+good stuff man
+really good stuff does anybody have a
+question for uh michael regarding this
+michael
+awesome
+thank you so very much
+you're on me
+um thanks thanks for watching that and
+just before we move on um one i wonder
+whether you have any any ideas about uh
+synergies with the metaverse group or uh
+or perhaps we could take it offline if
+uh if you'd like to brainstorm together
+yeah i think yeah but let's let's take
+it offline um uh let's let's connect and
+uh i think there are several people that
+we can uh actually uh form a group
+around and uh who have very good ideas
+we also we also just for uh for context
+for everyone
+we did
+a
+virtual metaverse summit
+last week yeah last week 10 and 11. uh
+we had 4 000 people register
+and i believe nikita and and someone
+else from forever scale i can't remember
+hill uh we're on panels um there was
+2000 people that actually
+actually watched um 400 to 600 people in
+any channel
+in the audience in any panel
+um so that's pretty cool we'll do more
+of those
+good actual stuff excellent stuff thank
+you
+thank you very much just uh blowing away
+here
+michael thank you as always
+oh
+and your internet connection is awesome
+okay let's uh let's move on to our
+second presentation so uh we have uh
+well
+the vlad of all vlads as i referred to
+him from broxas
+um hey he's got a lot to talk about a
+lot of updates
+i'll let you do a number not a lot but a
+number a number
+uh yeah so let me maybe uh take it from
+from
+on the scale roadmap here so um
+just let me share it
+[Music]
+yeah yeah so a few questions also
+concerning the development of different
+sections and how the the roadmap was
+built
+actually
+so
+it's not an easy task to build the
+roadmap of a decentralized network
+because
+you need to talk to a lot of people uh
+from different uh
+well sub governance is here but
+community sub communities
+i don't know what world is not uh
+prohibited now
+you know scale i don't know i don't know
+yes uh yes uh so what we did actually we
+talked to a lot of people and
+gathered together the vision
+of the development of
+uh different streams
+in every scale
+the terms uh are approximate as media
+said so you cannot just
+make it for sure so when
+typically in
+i.t development and specifically in the
+blockchain development
+it's it doesn't work like this so if you
+can't do it faster you typically don't
+wait and do it faster but uh
+it
+sometimes it happens that the deadlines
+shifts and
+that's that's always
+worse than
+specifying the much later deadline and
+doing it faster actually
+uh so yeah uh this is actually the
+direction where we
+would like the everscale to go in this
+year and it's it's quite a lot and
+i personally know not so many uh
+other blockchains
+of our level who
+have moved significantly further than us
+and
+of course they have some much
+uh lot has disappeared i think
+yeah okay i was hoping it wasn't me i
+have a scale but i'm also speaking about
+it yeah
+you disappeared you disappeared for
+about 15 20 seconds
+sorry sorry sorry you were saying that
+there are not a lot of uh blockchains
+like ours uh but and then you can
+yeah i'm saying that not so many other
+blockchains who are
+more advanced in terms of ecosystems
+than us
+and certain things that
+will appear on our scale so
+hopefully they will appear uh
+first
+and uh
+in terms of communication and marketing
+so this is the year when we are going to
+fix that and finally uh make the solid
+and streamlined marketing for for
+everscale and projects in it
+uh i'm also speaking about boxes so
+because this is
+our priority for this year not only
+deliver
+good products but also
+tell about them uh in a loud voice and
+yeah
+saying about the about them across the
+world so uh let me maybe comment a few
+few things on the roadmap as well
+especially what concerns them
+defy sub governance
+so uh there are several contests that uh
+uh
+going to to finish so the first one is
+the ssi framework so it's
+one of its stages stage 3 has just
+finished and there were two teams
+actually who delivered very good
+implementations and
+i am really keen to see
+[Music]
+they move further and deliver better
+uh better results and
+with community of one team
+uh leaded by stephan gasuni so we will
+uh host the ama session in his channel
+crypto s7
+where
+more than 4 000 subscribers and
+this is one of our first experiences of
+speaking to external audiences and
+external communities and
+we will
+start to do this regularly
+so
+not only internal ama sessions but also
+attracting some some guys from from
+outside
+uh
+so and if you have any ideas of such
+communities where we can we can
+be speakers and uh run an ama session so
+please you can thank me or nikita so uh
+let's arrange this of course so and
+we will put a really good focus on this
+uh next thing is tips three tips three
+stable coins expansion this is not only
+about uh never stablecoin which
+definitely will will move further the
+only thing that we will need to address
+and discuss uh this thursday
+is uh
+the funding
+of balance mechanism of never i will not
+suggest what to put the things now so
+we'll keep it to thursday uh mita and i
+i'm really uh
+expecting you to be there so let's
+discuss this on thursday
+uh
+yeah
+next in terms of defy primitives so this
+is a decentralized fund management
+protocols tokenization frameworks and
+much
+bigger
+number of bridges bridges to
+major ecosystems that will facilitate uh
+the transfer not only of liquidity but
+rather also uh
+making everscale a hub for cross chain
+applications
+this is not an easy task
+as you may have seen from the work
+wormhole exploit and some other exploits
+that happen to bridges
+across the blockchain universe
+so but
+i'm sure
+that
+there is a solution and we will find it
+uh speaking about uh
+roxas bridge specifically so as we
+announced in our roadmap
+we will be adding at least three new
+blockchains which are
+avalanche
+tron and solana
+so and we will be doing this
+hopefully really soon
+maybe some other blockchains will also
+come this year
+uh
+also a good point here on is on
+alliances uh like cardinal system
+alliance and texas ecosystem alliance
+and maybe some other blockchains will
+also come
+and
+we are now experimenting with
+such
+such way of expansion of heavy scale
+when we find a really strong player
+in in the system of other blockchain and
+we try to find to find the pain points
+of their communities and
+help the communities with with other
+scale
+for the benefit of the scale of course
+but also for the benefit of those
+communities
+uh so right what is happening right now
+so as you may have seen uh so we have
+the
+uh
+for the moment uh one will reach from
+cardano to every scale but soon it will
+be uh bidirectional
+uh the cardano-oriented decks uh but
+this is not not the
+priority to have the decks for cardano
+users but
+rather this uh
+is an added feature so a sergey set on
+the mx session
+so and
+yeah so
+if you're interested so you can
+listen to it once again
+uh yeah so uh and also there is a very
+nice point i'm really uh positive about
+is a gamify and metaverse uh
+stream that it's it's really
+modest now so like gamify pilots and
+metaverse sdk
+but uh there are a lot of things
+standing behind those two points and i
+think that uh and i'm sure that we will
+see first experiments to appear
+uh
+already
+maybe in a month or two so when
+this is just the beginning and
+more points will appear on the roadmap
+as
+as we move further and
+it becomes more clear and obvious what
+to do um
+yeah so uh this is
+some some comments on the on the road
+map um
+next thing i wanted to talk about is the
+uh migration to a new standard of
+fungible tokens which is named tip 3.1
+so that is happening right now so um
+for several days already brooks team is
+migrating all its products to new token
+standard
+and uh
+the most part is finished already so
+especially the part concerning the
+blockchain
+smart contracts
+liquidity
+and all of this stuff
+so uh now it is a
+stage where we
+uh upgrade our front ends and uh also
+uh
+test all the stuffs are only
+uh so and
+i have seen certain uh activity in chats
+people
+start panicking so please don't panic
+so you remember this from the
+hitchhiker's guide to the galaxy so
+you need a towel and uh you always need
+to remember don't panic
+never
+uh so actually what's going on um so we
+are testing everything so that's why we
+are not stopping
+the farms yet so but uh definitely we
+will announce uh
+in advance uh when we are going to stop
+that
+but uh this will not happen uh earlier
+then we have the new dex front-end
+deployed
+so all of this is just
+first for the safety of your funds and
+for
+convenience
+of the transfer because
+the process of
+moving is extremely easy so you need
+just to take your funds out of the decks
+go to the next new decks uh you will get
+the window saying that you can upgrade
+your tokens and you upgrade the tokens
+and do everything in reverse order
+that's it so it's very easy
+uh and for uh custom tokens that are not
+issued
+by our products
+so we will we are preparing the
+instructions most of the instructions
+are already in place uh so and we will
+be definitely publishing them
+at the right
+so just please please have an eye
+on our groups and
+channels
+so we will inform you
+at the right moment what you need to do
+uh no worries absolutely it should be
+about
+the
+[Music]
+mythical uh permanent laws that that may
+happen due to immigration this is not
+true this can happen only in case if
+someone starts making some big exchanges
+at this very moment but it's unlikely
+because
+we have warned
+all
+major
+token holders that we must wait at least
+until the end of the migration
+and also uh once again so broxis will
+stay stand with its own liquidity in old
+pools uh liquidity pools and farming
+pools until the very end and
+until all the people degrade just to
+help stabilize the exchange rates and
+help to avoid the potential
+permanent laws
+so just please please stay calm and
+don't panic
+uh so everything
+goes as planned so
+there is a slight delay uh on the
+publication of new version of ever
+wallet to the chrome store
+so we are expecting it hopefully today
+and guys
+i hope we'll finish all the tests also
+today
+so and if everything goes as planned so
+already tomorrow we can start uh
+publishing all the instructions and
+announce all the migration
+of liquidity opened
+uh there's also
+some teaser that
+our major products the bridge and the
+swap will receive new names following
+the rebranding process of error scale
+and also we had
+a strategy session
+[Music]
+a couple of weeks ago
+where we have chosen uh
+a great new names and so we for
+over those in those two weeks so we were
+checking all the trademarks you know and
+uh the mains availability we were
+preparing
+uh all the social groups and whatever
+so and uh
+uh i hope that we will be able also to
+announce the new names this week uh
+but but no promises
+uh so now
+uh yeah so uh now now we have a hell
+amount of work to update all of our
+guides and
+move them to new domains and so
+that's not easy so
+the team is working uh all week just to
+structure everything and make all the
+documentation and tutorials uh much more
+into much better interlinked and
+in general we really aiming to
+radically improve the quality of the
+documentation and
+support materials for our products
+so it if you miss something in our
+current guidelines whatever so please
+don't hesitate to
+say this in chat so because we are
+collecting all the feedback and
+definitely to help us to prioritize
+um yeah so uh
+this is about the tips three one
+migration and uh
+this uh this migration will also unlock
+a lot of
+further development for us
+because we were waiting for it uh to
+happen
+and uh
+let me maybe
+shortly say her was about what we are
+going to do in this this year so
+you may have already read
+uh
+our
+roadmap yes so this is the first time we
+publicly announced it
+and
+there are some great ideas that
+we really believe
+will be
+bringing a lot of value to the whole
+network
+so speaking about bridge of course
+which is our flagship product so this uh
+not only support of new chains and uh
+new tokens uh first of all we will have
+the much
+more facilitated token list mechanism
+so we it's not in place yet but we're
+only
+making its architecture and thinking
+about this but uh definitely this year
+it will appear
+all for the sake of
+much
+faster boarding of new projects
+next is
+the thing that is called unchained
+reputation which is can work really
+in line with development of ssi
+frameworks on everscale and this is
+something
+you may have
+seen in different analytical reports
+saying that
+dows
+should
+now function in a different way so not
+only by the amount of your state but
+rather on your involvement uh based on
+your involvement and reputation in in
+managing dows
+and uh
+this this is something we have in our
+minds and
+uh our guys already proposed uh some
+mechanisms on how this unchained
+reputation can be
+implemented based uh on your activity in
+other downs
+uh so and
+once
+we describe it
+and be ready to publish so i think that
+it deserves
+really
+a separate
+presentation of the call
+also one one more non-trivial feature of
+the bridge is that uh
+all the layers nodes uh they keep uh
+they serve the well full nodes actually
+for blockchains that are connected to
+them and uh such um
+data set
+can be used to provide uh some data
+to to the blockchain to any connected
+blockchain actually so and
+this means that the bridge can become
+itself a very very very strong oracle so
+and this is something we really
+were liking especially in the device
+segment but also this is something uh
+that can
+be proposed to to other protocols
+uh and uh last but not least is a nft
+breach so the song long waited uh so and
+we
+actually have discussed with several
+teams already on how they envision this
+nft transfer between different chains
+this is not a very easy task
+because you need to think about
+different
+situations different use cases
+uh
+of transferring nfts
+based on where the content is stored or
+how the nfd is structured but
+all of this uh really uh
+currently is blocked by the uniform nft
+standard pretty much like for the
+fungible tokens what we have now
+so we
+are hoping that by end of february some
+of the major uh nfc developers so they
+will agree on certain standards
+so that can be used just to integrate
+into the bridge as well
+uh speaking about the swap uh the the
+major update it will receive this year
+uh is its own token and
+the dow so that will be
+managing the basic parameters of
+of the swap
+including uh
+curves uh including uh
+fees for
+for different kinds of polls including
+different updates and so on so forth
+but also uh
+this means that
+the the the decks will get much more
+diversity in terms of uh and
+possibilities in terms of exchange uh we
+were thinking also about a kind of
+otc or p2p
+mechanism
+for a decentralized exchange so with a
+really
+low or
+totally no slippage
+uh so but
+there is no still
+strong position on how to do this and
+also uh
+as we are waiting for the appearance of
+landing protocols uh in every scale
+network so
+uh hopefully we will be able able to
+also offer some marginal trading
+uh so speaking about the error wallet uh
+quite a lot
+will appear there and the major things
+that we were
+asked
+so many times i cannot even count so
+this is the collectibles so you can
+finally see your nfts in the wallet yay
+so this is something
+that exists in metamask for for a long
+period of time already
+so and uh it will appear here as well so
+and
+once we
+uh get the uniform cnft standard
+also a good thing uh it's a good
+announcement that finally finally we've
+got a lsql application in ledger life so
+it is still
+in the developer mode so if you are
+willing to test it so please just turn
+the developer mode on you will see the
+error scale app
+and now we are doing the security audit
+so that is required to publish the
+application
+in production
+so and this is really crucial because
+most of the institutional investors they
+prefer hardware wallets to store their
+keys
+and uh
+in fact we have the support for ledger
+uh
+for more than a year with
+decathlon so and hopefully we will be
+able to use it in our wallet finally
+uh so as soon as this
+is publicly available
+uh also what we uh would like to improve
+uh in uh ever wallet is so we we get a
+lot of uh
+good really good feedback from from our
+users uh concerning ux ui
+of the wallet and we are carefully
+listening to it so
+some things definitely will change
+making the wallet even better and this
+concerts not only the
+ui part for users but it will also
+concern
+the
+interfaces for developers so making uh
+it's much easier to connect the
+transport to your dm
+uh
+also uh one more thing that is also long
+awaited by the community is a custom
+token lists so this will be something we
+will add both to the error wallet and to
+to the swap
+and this thing this
+custom token list will be managed
+by different
+[Music]
+groups and reputable organizations so
+so there will be definitely a community
+list that will be managed
+in the everscale repo
+so uh and
+to add your tokens there you will need
+to make the pull requests there so as
+usual
+and there will be also uh some lists
+managed for example by uh
+kwpc so who as we discussed uh some time
+ago that probably some tokens of the
+projects that will be launching on flags
+will also appear on
+on our swap
+and just to make
+it possible for users to see this token
+so there will be a custom token list
+that will be
+doing this and that will manage
+basically the pc team
+and a lot of other stuff so i will not
+read out all the roadmaps so if you're
+interested so uh
+please go to to our medium so there is a
+good article explaining and everything
+in detail so just not consider it out
+your time
+i just decided to name a few things that
+i personally think are the most crucial
+ones
+and um
+these things
+really really matter a lot for us and
+for for the team because we
+really
+do care about the products we we do and
+we really want to hear your feedback as
+well
+um
+yeah so uh this is about
+the roadmap
+uh um sergey uh wants to say a few words
+so so he had some ideas on how we can uh
+make the the scale governance even
+better so sergey please
+i think he uh i think he may have uh
+left
+so
+that's okay
+okay so uh i i will just maybe uh in
+this case uh jesus
+so so uh
+defy alliance uh is now preparing an
+additional um
+proposal for some uh things that can
+help us make the blockchain governance
+even better
+and uh
+so hopefully we will release it this
+week
+yeah so and
+you may have heard about some points uh
+at the
+russian ama session
+that we hosted uh last week
+uh together with sergey
+uh so uh but also of course we'll
+publish it officially
+[Music]
+on the forum
+probably we will host another english
+ams session this week so we just have
+not decided on the time yet
+on thursday on friday so please
+keep an eye on on our groups
+so
+yeah
+i think uh that's all the major updates
+and
+i hope you don't forget
+too many information in my head
+it's a lot of information but uh uh it
+it's kind of like a
+you know if a movie lasts for three
+hours but it's the godfather
+you don't miss a beat it's something you
+want to listen to so that is a lot of
+information to digest but it's a lot of
+very very useful and good information i
+didn't even have a chance to write down
+the questions that i had but i'll i'll
+ask that individually ldm you like okay
+fantastic by the way uh um i absolutely
+empathize with your uh rebranding
+situation you're not alone my friend
+there's a lot of that going on
+yes it's a pain it but but it's a good
+pain you know so this is something i
+don't know about poor forwards yeah i
+don't know about that but okay
+thank you vlad thank you very much does
+anybody have a question
+yeah
+excellent thank you so much
+all right i think um uh normally we'd
+have our closing segment ben spitz but
+then um he wrote in the uh zoom chat um
+he's not with us today he has a very
+important appointment that he has to
+attend to so we're going to skip that
+and see him next week
+and i think we could just go and write
+to questions so let's let's start with
+youtube there's only uh well there's two
+one and a half um
+what about rust cut prices mita uh
+somebody asks hey everybody what about
+rust cup prices i
+i don't know exactly what um that means
+but maybe you do that's uh yeah i do
+that we're waiting for uh as i said the
+plan is to to release uh dark pools as
+an intermediate um kind of solution for
+that
+which uh i commented on the beginning
+the status
+and uh that's that then the decision of
+the governments when and how it in
+practice will be
+kind of distributed we're building the
+tools so
+the tools
+already now on the front end is missing
+and uh if you want to build a front end
+by the way you're welcome to do so we
+will release the interfaces to the
+contracts
+and uh so you can do that
+um
+other than that we're building the
+electric smart contract as as a plan
+goes and uh
+once it has been developed and validated
+verified
+uh we're going to replace the
+electrosmart contract with the delector
+smart contracts it's a big big big
+change actually in terms of like the
+whole architecture of everything
+and then because that will deprecate
+electro and it will deprecate the pulse
+as well
+so it's a it's a huge change to
+to the to the kind of
+underlying
+blockchain infrastructure in terms of
+staking
+yeah it's a very good change as well
+so um
+no more elections
+and stuff like that no more stress to
+the network
+liquidity fuel everything supported and
+one that's like a
+huge
+underlying technology for all the defy
+infrastructure as well
+important so yeah but um and it's
+simplification actually
+believe it or not
+so as every good design
+should actually simplify things so yeah
+but but before it's done then there is
+an intermediate solution
+that's it basically
+okay thank you
+um and uh the second question i think
+it's been partially answered but i'll
+ask it for the sake of announcing it uh
+will there be a separate q a session for
+the ever slash never monetary system
+um glad we can we can do that at any
+time yeah so i think that we will uh
+have discussion about this on thursday
+on the defy sub governance call so if
+you're interested please please come and
+feel free to ask questions
+there you go yeah all right
+we can do the separate session
+afterwards if you if you if the
+community feels it's necessary it's not
+the problem again there is a there is a
+published
+design of that for a year already
+so
+it's like um
+[Music]
+it's very simple system so actually not
+nothing too complicated to compare it to
+what media is doing
+right now with the network
+no it's not very it's not too simple
+system because it's still there there
+are degree auctions there there is there
+are some subsystems yeah but
+the concept itself is really easy to
+understand
+yeah it should be easy i would say this
+way yes i have already
+for me what what i consider easy
+sometimes than
+[Music]
+just people coming to me and saying oh
+it's very complicated okay
+it's because you're a rockstar media not
+everybody doesn't braxton i don't think
+because of that but anyway let's keep
+this point
+right we have uh we have a few questions
+that were written to us um so let me
+sort of run through these really quickly
+and then we can we can uh disperse uh
+the first question is how is the project
+with uh uh the company kamaz going um
+the answer to that is that uh we're
+they're expecting a mvp in march that's
+not set in stone but that's the
+that's the uh protracted goal
+um
+can you please uh share any news
+regarding the contest uh for the
+development of a voting solution with
+uh zero knowledge proofs yes i can
+um and i will
+paraphrase it um now so
+um
+so there's good news um the
+uh voting protocol implementation
+contest is finished um
+no foundation uh presented a vote say uh
+what's called vote saver protocol which
+basically and they had an ama by the way
+about it which you can find uh in the
+chats
+there was a two week long
+q a discussion between the judges
+uh and it pretty much got settled within
+the sub governance chat itself
+uh
+the
+jurors pretty much got their questions
+resolved and the result is that there's
+now a mass scale
+voting
+setup
+that can preserve voter privacy
+now the next thing is they're awaiting a
+good ui ux
+and they are waiting for our first use
+case
+that's that's the hard part as always
+right so um
+voting uh something like this is a major
+major
+undertaking it's not uh you know a meme
+or
+something like that it's very
+complicated uh but
+i'd like to note that um eugene morozev
+is heavily pushing a use case in the
+united states
+through the american blockchain pack pac
+which uh basically means uh uh
+political um
+uh
+action committee right i believe that's
+what pac means yeah it's like super pac
+it's a political action committee so who
+knows maybe that that'll be our first
+use case maybe something else but
+essentially it's
+um
+it's moved quite a bit so there's an
+actual solution out there um we have uh
+another question uh give me a sec here
+so
+right so regarding the same contest why
+were there only two submissions
+um i don't know
+uh because the only two people only two
+teams were were able to make submissions
+this is not an easy contest
+uh i mean you're literally
+you know changing uh
+like miti likes to say you're changing
+paradigms you're changing the way uh
+voting works this is um
+you know
+this isn't uh you know uh
+as easy as uh you know uh
+making uh
+postcards or something this is a this is
+complicated work and uh the follow-up
+question of that is uh uh the contest
+guarantees one million evers to the
+winner well i mean um ask yourself what
+would a i don't know a major world
+government uh dish out
+if they were
+a good world government uh for changing
+voting protocols how much money would
+they put on to something like this
+billions of dollars i mean i think uh
+not only is it fair i think it's um
+if there's a solution that actually
+works and gets implemented
+by golly it's uh it's cheap
+cheapest ever the history of mankind so
+um i think that's
+i hope that answers your question and
+one final question
+um
+which team will make the lending
+protocol for the road map um
+lending isn't to lend money i'm assuming
+nothing
+yes yes yes yeah who's gonna
+keep an eye just on you so i'm not sure
+if i can disclose the team
+so but
+if
+the guys want so they will present the
+works themselves
+so uh for some reason so uh we didn't
+manage actually in the different device
+of governance because there were not so
+many submissions
+and not so many interests
+for doing this although this is
+something
+i personally believe a
+really interesting and challenging topic
+of making the
+credit protocols uh on blockchain uh
+because
+i used to do something similar in past
+and it's it's extremely
+interesting and there's a lot of
+very fancy mass
+and
+other stuff but
+hopefully they will make the
+announcements
+not sure about terms but i hope that it
+will happen this
+month
+okay
+well
+as i said only two presentations but
+a lot of information to digest um so
+with that uh last call for your comments
+three
+two
+one have a wonderful rest of your week
+have a wonderful weekend we will see you
+on tuesday we already have some stuff
+lined up maybe as we discussed earlier
+with michael gourd maybe we'll have some
+some interesting project winners coming
+to speak about what they're going to do
+with
+the everscale startup competition so
+thank you very much for coming
+goodbye
+thanks all bye bye cheers

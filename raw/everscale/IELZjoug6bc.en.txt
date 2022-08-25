@@ -1,0 +1,924 @@
+okay
+let's
+wait one more minute
+uh so i think that we can start yeah so
+um
+today uh i would like to present you
+guys uh there's a denise uh cleaning uh
+zachary uh they are representative from
+chinese embassy
+um
+they will tell you more about our uh our
+as a project ever scale our explosion on
+the chinese market
+and
+they they will answer you all questions
+regarding their future plans what they
+are going to do there uh how they are
+going to promote their scale
+and cetera so denise this is work for
+you you can start
+we can't hear you
+no no
+no
+it's still now
+we can't hear you
+this is some technical uh
+technical problems let's wait
+yeah now we can hear you
+hey guys can you hear me yeah yeah we
+can hear it
+create something yes
+okay so shall we start
+uh
+let me perhaps
+uh
+share the screen with the presentation
+so
+yeah
+basically just a few words about
+us about myself
+so uh my name is dennis i'm from uh
+venture frontrunner capital we actually
+invested in everx which is the core
+developer of
+everscale and i'm in charge of
+asia business development at our fund
+so
+basically i have been helping uh ever
+scale
+uh since
+uh
+well i think for a year and a half
+already and
+basically my health was focused more on
+china so i helped average scale build
+the chinese community from scratch
+and
+basically i can say that this is already
+kind of work of
+one year so we actively started
+in january 2021
+so last year
+and
+yeah so as you
+as you may know uh recently
+our
+funding proposal was approved so
+first of all thank you so much everscale
+community for that uh we very appreciate
+your support and uh
+yeah so keep uh we keep working on uh
+promoting everscale through on the
+chinese market so
+i know that um well frankly there were
+some different opinions on
+chinese sub-governance or chinese
+community whether we are
+the suitable team for this and uh in
+order to address these concerns uh we
+decided to
+uh
+we decided we decided to have this ama
+to answer
+uh your questions and yeah just to tell
+you guys what what what we're planning
+to do
+um
+yes so uh we also have um
+another co-leader of our chinese
+community uh lee or zachary his english
+name i think
+many of you are also familiar with him
+so he's also in a call and he'll help me
+answer some questions so basically
+uh
+i'm more in charge of strategy and
+promotion and lee is more in charge of
+technological part he actually has a
+team of developers
+in cine
+and
+yeah so
+let's
+let's tell more about this a little bit
+later so in general our proposal is that
+uh we uh like we want to keep uh
+promoting everscale in china so we are
+actually the team that will handle
+everything connected with everscale in
+china
+and we truly believe that within one
+year china can really become the largest
+market for ever skill one is largest and
+uh there are several reasons for this
+first of all the chinese still is big
+market for china for
+a blockchain for crypto
+despite all the restrictions etc
+and
+still very huge market
+a lot of
+trading volumes uh through d5 platforms
+which are not touched by regulation uh
+huge metaverse market and what is most
+important since everscale is a
+uh layer one solution
+uh
+in china actually
+uh
+around
+50 or 40 of all the web 3 developers are
+located in china
+so for
+layer 1 solutions actually china is a
+very very large market
+um
+just a few words of what we have done so
+far so uh we uh well basically the last
+year was kind of a preparatory year for
+us we we haven't pushed more on
+promotion part and did mostly um on the
+infrastructure so we
+established our
+ecosystem chats in telegram and wechat
+we uh had several
+um promotion articles just to kind of
+touch the grounds and we also uh had a
+promotion campaign one year ago which
+was pretty pretty successful
+actually we uh
+uh thanks to this campaign we increased
+number of users to 5
+5 000 users in telegram
+but basically now we don't have all of
+them so this is kind of a challenge that
+i
+would like to discuss further um and
+another important thing that we
+integrated with bsn so
+uh
+who don't know what bsn is bsn is
+actually the chinese
+blockchain platform backed by the
+chinese government
+which is actually the only way for
+global
+public chains to legally enter the
+chinese market and be compliant with the
+chinese law
+so this is kind of the strategic partner
+of our scale in china and we are looking
+forward to
+leverage
+this partner more and more um
+of course the integration with psn was
+pretty long
+but actually this uh also allowed our uh
+developer team
+uh with lee as its leader to get uh
+hands-on experience on every scale
+because this is something that we are
+really proud of
+uh because china i think apart from
+russia or ukraine or belarus
+communities uh china i think is the only
+community which really has
+uh web3 developers who can code in
+everscale who have hands-on experience
+there so this is kind of another driver
+for growth
+uh but still a lot of challenges so far
+uh the main challenges i mentioned that
+um uh
+that uh our community is not that
+vibrant it's not that active uh after uh
+the promotion event that we had a year
+ago uh
+not very many users are actually still
+in the community many of them
+many of them left
+and that is why kind of our community
+currently is pretty passive
+um that is why
+this is kind of the main challenge i
+would say uh to make uh to activate the
+chinese community to make it vibrant so
+i would say that for this year and
+specifically for the next 10 months this
+is kind of the the main challenge and
+the main task and of course we're going
+to focus kind of here like a very high
+level i would say that our uh
+in the next year we will focus more on
+promotion we will focus more on
+community engagement
+basically one of the reasons why the
+retention is so low because uh there are
+not so many features
+like
+i would say
+in global community there is not that
+many features but for chinese community
+there are
+practically no features that they can
+use because nothing well there are a few
+applications translated
+into chinese
+and um
+many of the applications kind of they do
+not have mobile version which is also
+not very user friendly
+uh for the chinese users etc and
+of course this is kind of this is bad if
+we want to retain our users
+um
+and we want to do more um on bsn because
+bsn uh is basically the source of uh use
+cases that we were talking some so much
+about uh
+a year ago and during the whole time so
+lee can
+later kind of comment on the use cases
+because currently after we finished the
+integration with bsn
+we already got some
+uh inbound uh requests from chinese uh
+large brands platforms to
+uh
+build something together with ever scale
+kind of nft marketplaces uh some digital
+assets solutions etc so this is of cour
+of course kind of a opportunity for us
+uh yes this is about bsn yes i
+perhaps uh if you if you want to comment
+just a few things yes
+okay yeah
+yeah so just add some extra point on
+that on the bsn integration yeah as
+dennis mentioned
+uh currently the the average scale
+bsr network
+which we're trying to integrate with the
+bsn standard nft equivalent standard
+which is called ddc
+and this is quite popular at this moment
+in china because as our
+as we know in china
+the nft is still a little bit sensitive
+at the moment because lots of people
+doing this
+money for launderings and etc and that's
+why the bsn they adopt another name a
+toilet alternative name called ddc
+decentralized digital certificate yeah
+and we are using every scales nft
+protocol to integrate with their ddc
+standard
+which is a little bit hard because our
+our scout ft standard is different from
+other like ethereum
+721 and double one double five so it
+takes a few it takes us a few quite a
+lot of time at the moment but then once
+we integrate together then
+we would maybe we can even
+promote our
+own ift platform and there's already a
+quite a few companies which they own ip
+intellectual properties and arts
+they they come to us and asking when and
+how they can
+migrate their
+ads and and like graphics and images
+onto our network
+yes back to you dennis
+yeah thank you thank you so much lee
+yeah just
+bsn is a very kind of very powerful ally
+for us and we want to leverage it more
+and more
+um in general i would say that uh in
+terms of promotion we will focus more on
+two
+two main audiences the first one is
+crypto traders which we kind of
+undermined uh in the broken in last year
+and for them we will have well special
+amaze we will
+have well some moderate airdrops and
+basically arrange contests for them
+kind of
+best
+best trader contest etc in cooperation
+with crypto media tier 1 chinese crypto
+media
+and of course exchanges so chinese
+exchanges are still one of the largest
+exchanges in the world so
+uh we also want to uh increase our brand
+awareness
+for them
+yeah so
+uh
+but also
+but but also another in another pretty
+uh
+pretty important kind of i think uh
+the most important uh audience for us is
+of course developers chinese numerous
+developers uh
+web3 developers and for them
+we would have also technical amas we
+would uh translate most of the
+educational materials kind of first of
+all tech documentation
+secondly
+uh webinars and we will make webinars
+for the chinese developers to
+increase awareness among the chinese
+tech community and of course have
+tech
+hackathons uh tech contests etc
+and qls so influencers this is also kind
+of the most important part here
+yeah just um
+these are the kpis for one year
+but uh
+basically i think that it would be kind
+of more practical approach to discuss
+our first
+stage so uh the plan for two months
+because actually uh the funding that uh
+the community kindly uh has kindly
+provided to us this is for two months to
+kind of prove that we can uh use this
+funding in a wise way an effective way
+to
+get some result
+so
+basically
+there are four
+major directions that we want to do
+first of all
+try to revive our communities
+try to
+uh
+attract new users uh to the to the
+telegram chats to twitter
+and uh
+actually make them make them more active
+through amaze first of all
+uh the most important thing is to work
+on messaging because uh previously we
+were not kind of pretty sure it wasn't
+clear what was the motive what was the
+value that everscale can bring to the
+chinese users so currently we do we know
+what it is basically this is more kind
+of uh connected with d5 products with
+wallets so something connected with my
+money because of course kind of we we
+must be honest so
+for the chinese the most important thing
+is to well how to make money and
+this is kind of this reality of course
+kind of the decentralization and
+technical uh
+parameters kind of technical advantages
+are also very important for um
+for the community as well but the main
+kind of motive is of course kind of the
+monetization
+so
+we will uh correct our messaging
+uh
+we will translate and
+create a few uh educational materials
+for developers and just try to kind of
+promote them and see what is the result
+and we want to start
+collaborating with qls with a
+micro influencers
+in china uh another major thing is bsn
+tech contest so as i mentioned bsn is a
+very powerful ally and this is one of
+the things how we can leverage him
+uh basically they arranged technical uh
+contests for developers um and we
+uh we can be part of it uh
+basically it works like there is a
+contest for
+uh several teams who code on everscale
+and uh kind of this much
+looks like hackathon on everscale but
+with bsn branding
+and with of course bsn communities for
+developers so this is i think one of the
+first
+good steps that we can make in terms of
+brand awareness among developers and
+yes would be looking forward to see the
+results
+still very interested and
+kind of
+expecting to well kind of intrigued what
+would be the results of
+the contest so in general here you can
+see kpis and basically just to kind of
+um remove all the fears that you have
+kind of that we do just i don't know a
+few amaze translate a few articles and
+we're gonna get like uh 165
+000 hours just for this no actually this
+funding is for achieving these goals so
+if we
+make a three amaze for example and we
+see that the goal isn't achieved
+so we try to do something else with this
+funding that we have because basically
+this funding is for achieving these
+goals so yes this is
+um
+this is our kind of position
+so
+um
+yeah
+basically that's um
+that's about
+our plan so
+i would love to hear more questions from
+you guys
+uh because i know you have many of them
+during the voting you had many many
+questions
+so critics also please welcome would be
+happy to answer
+uh yeah thank you denise for your
+wonderful presentation uh there's a few
+questions from all community members
+they collected uh during these days
+uh
+yeah the first question is uh are you
+planning to participate or launch uh
+hackathons for developers
+uh you mean participate so no no
+no
+well it depends because uh participate
+um
+uh it would it would make sense to
+participate in hackathons as a
+co-organizer
+uh because obviously hackathons are not
+necessarily devoted to ever skills so we
+in order to promote our skill we need to
+kind of bring the agenda of ever scale
+and
+educate
+participants how to um
+how to code on every scale and that is
+why i would say that a bsn tech contest
+is kind of the first attempt for
+such hackathons but in the future we'll
+have many of them but they would require
+additional resources because
+well
+we anyway we would need to partner with
+some
+existing uh tech communities uh we we
+know already all of them and
+medias for example yes but in general
+this is something for the future
+for starters it's be a center constant
+contest we would kind of touch the
+ground test it and see how it goes
+lee if i
+i know you would also have a few
+thoughts about hackathons
+please feel free
+um
+if lee is with us so if not because i i
+know i know that lee is also on another
+ama so he's kind of a pretty busy guy uh
+so if he's not with us so let's just
+skip to
+another question okay
+uh the following question is uh could
+you tell us more about the bcn uh
+partnership uh
+maybe yeah you you could share us this
+current status what what they are doing
+and
+et cetera yeah but basically uh well of
+course uh
+about b uh s for bsn uh lee is kind of
+he has more knowledge on this i can just
+tell you um in a
+kind of very high level and then when
+lee returns he can kind of uh elaborate
+on more details but in general i would
+say that bsn well as i mentioned bsn is
+a the only way for global
+public chain to get
+into the chinese market
+they are supported by uh the chinese
+ministry of
+information technology
+by
+union pay which is the paying system i
+think many russians know uh know this
+paying system
+uh
+now
+uh
+and by
+chain mobile
+um and uh yeah so basically uh they are
+operated by the team called red date and
+they have a lot of resources in terms of
+gr in china so uh
+already
+around uh well more than 20 public
+chains like cosmos near fedora deserts
+now already
+um already participate in
+in evers in the bsn so basically there
+are kind of two platforms one is opb
+that we have already integrated with
+this is basically kind of um
+a platform to
+uh
+kind of the this is the back end based
+on everscale
+that
+allows uh
+chinese users to basically use it
+because uh since uh
+any crypto related stuff tokens are
+prohibited in china so
+we would need to
+to make some amendments make it make
+some changes in the current um
+ever skilled network
+to
+to be able to comply with the changes so
+we have already did it so we've done it
+already integration was successful so
+now basically any chinese developer can
+use everscale to
+build uh
+depths
+and everybody in china can use it
+without vpn without anything
+um
+yes but but now we plan to integrate
+with ddc as lee already mentioned ddc is
+a kind of an analogy for nft in china
+and this is a kind of huge market so
+basically now all the
+um all the requests that come from uh
+chinese companies thanks to bsn uh they
+all coming regarding this ddc project
+because this is a very hot topic lee if
+you're with us perhaps you can also
+comment on this
+yes yes
+um okay and the other things i can just
+add a few points of
+what's happening in china at the moment
+um
+for
+for the uh for the current nmt because
+in china at the moment the the only
+regulated or only thing
+allowed in china is to
+sell like doing initial sell like the
+the the first uh first market not the
+secondary now you only can
+you can sell the the nft
+as the how to say that now you can only
+only do the initial offering
+you can you cannot resell it yeah you
+cannot resell it in china because at the
+moment the regulation is not clear it's
+not
+finite yet that's why
+there are lots of platform they're doing
+and ft selling
+at the moment and they
+they're doing this on top of a virus of
+different
+semi-decentralized blockchain so this is
+the blockchain within inside of china
+and they're not global and they're not
+public
+and so we cannot call them decentralized
+but they're still selling this nft and
+there's a
+hundreds of thousands of viewers on
+south sold in china every day
+and there's some so many
+nearly all of the the intellectual
+property
+companies
+and even those um
+territories tourist companies
+and this heritage company
+they're selling these rt gadgets and
+and
+[Music]
+souvenirs like digital souvenirs like as
+an mt at the moment so we cannot ignore
+this huge market at the moment that's
+why there's so many companies
+approaching us and asking when
+the bsn average scale network could be
+online could be alive
+and with the ddc
+standard ready
+yeah so that's what's happening in china
+i just i give you you can give back guys
+a rough idea
+yeah so
+in general this is a very kind of this
+is the
+very
+uh
+credible source for us to expand in
+china because they have all the res all
+the resources all the connections so
+basically this is very
+very important for growing in china
+yeah i see that alexander a lot of wants
+to add something alexander
+yes thank you guys very much for the
+presentation i um
+the question i have is that very much
+like the plan the current plan that you
+presented
+what are the resources that we currently
+have in china i understand of course
+that we have lease team which is a few
+developers right what else could you
+elaborate a little bit on the resources
+that we have in china now in terms of
+community developers
+yeah
+um
+well if we if we divide the community
+into two groups uh developers and kind
+of crypto users and just in general
+community
+uh which works on promotion on
+engagement etcetera
+we have
+well i know that this word is kind of uh
+became abusive word uh in everscale but
+we have chinese subgardens
+uh which has uh eight people and uh
+basically
+uh
+four of them
+are focused on promotion and community
+engagement
+so uh
+currently we plan to
+uh do the promotion uh
+uh
+well basically using uh
+using our resources that we have so
+these people who have experience in
+so they are all chinese they have
+experience in blockchain projects in
+china they helped us so far
+uh since the very beginning
+we are also actively looking and
+currently interviewing
+uh several uh candidates for um our
+marketing uh team as well
+to help us with a promotion on twitter
+ama etc
+uh to help with qls so
+yeah basically we will increase the team
+um
+and
+yes so this is kind of the core
+the core that we have in general we have
+um
+community in telegram which currently
+has
+a thousand two hundred people
+uh none of them are active unfortunately
+but
+yes still we kind of have this is the
+starting point uh in wechat we have
+around
+around a half thousand
+uh users as well
+and developers so we have community of
+uh 75 developers in uh wechat
+also not not all of them are active but
+still kind of i would say that uh 20 20
+percent are
+20 of them so we can work with them we
+can communicate with them we can invite
+them to the events and this is something
+that we can work with but of course as i
+mentioned before um
+the main challenge for us in to increase
+the community and to revive it to make
+it more vibrant and active because
+currently the main challenge and we want
+to be kind of 100 percent honest with
+you that uh the retention is very low
+and the the community is not the type of
+so
+yes that's something that we're working
+on
+okay
+roma any any other questions yeah yeah i
+think that was uh full answer
+uh
+i have no question no more uh
+just from my side i just want to wish
+you guys good luck and i hope that
+everything that you
+you have described in your plan uh will
+be realized as soon as possible because
+communities uh where is quite believe uh
+in the chinese market
+and we need uh more representatives of
+uh
+here yeah
+yeah we will be working on this and
+yeah basically currently now the the
+main challenge is to get as more users
+as possible so yeah we
+we've done preparative work but
+currently
+we will start with promotion and scaling
+so yeah thank you thank you so much
+thank you
+can i ask
+you
+uh yeah but well yeah you can
+think of your presentation it
+was uh
+very
+full about uh full new information for
+me a lot of new information for me and i
+have one question did you try to
+promote
+this project in another chinese social
+network like webo or qq or only in
+wechat
+um
+yeah well thank you so much for the
+question um
+basically
+so current situation in chinese the
+following that even wechat is not very
+appropriate source for promoting some
+crypto related stuff
+and um
+basically we
+are currently dividing our
+social networks on
+developer focused and crypto focused
+crypto focused is twitter and telegram
+and maybe discord but discord mainly for
+developers uh wechat is mainly for
+developers so because we cannot
+bring up any crypto related stuff there
+vapor and
+qq is something that we
+we had uh qq and vapor accounts and we
+did some stuff there we
+uh
+posted a few articles etc but in general
+it's not the main sources usually
+uh for crypto blockchain uh
+project so if you consider for example
+near as a benchmark because near the
+global
+uh public chain which is which has very
+decent attraction in china they do not
+have vapor or they do not develop it
+very
+very very much
+so that is why just
+to focus
+we prefer to focus on several
+the most effective sources the most
+effective channels in china which is um
+which is uh
+wechat for uh for developers yes
+actually here we which are discord for
+developers and twitter
+and uh telegram for uh crypto users
+is that full answer
+i think so
+great great alexander
+alexander
+yes i have another question um as you
+guys saw jsnft got together with grand
+bazaar got got essentially funding for
+the full-fledged launch of jsonft.com uh
+together with international chess
+federation and hopefully it will be
+quite large and massive
+how long would the integration with the
+china gcc standard nft standard take
+uh to enable china also to join in
+properly around chestnut.com
+it's maybe a question to leave he's
+still with us
+what's the best estimate on the
+integration uh at the moment i think i
+think the guys from our acts they're
+helping us and he did offer a lot of
+help at the moment so we're still
+reading through all the the standard
+requirements from uh from the ddc from
+the bsn because the the
+the standard is actually strictly from
+ethereum so those
+which similar serum those blockchains
+which have the similar
+background of ethereum they're very easy
+to to integrate but not for us
+so we're still doing the the other
+seminars and question answers with yes
+in a moment so it's i think we're
+looking forward to
+to have the integration
+ready
+in one month i think yeah a month
+would be uh would be the estimation
+yeah
+perfectly thank you very much that's
+good timing
+yeah nice
+yeah and about uh chestnut um for china
+so basically yes this is also something
+that we can bring to the chinese users
+as well but in general this is kind of a
+hypothesis so we
+need to test it and uh see how
+uh
+whether it will be popular among chinese
+users because as you as you know
+chinese users well usually
+chinese
+have their own chess
+and they
+pretty much different from the original
+chess
+and um
+yeah so basically perhaps uh there could
+be kind of some
+other
+uh reasons to
+well not to be uh well for this topic
+not to be so hot in china but we will
+test it anyway i think that's a good
+thing
+okay
+any other questions guys uh because well
+i
+i've actually heard that there are there
+were a lot of questions during the
+voting so a lot of guys kind of were
+pretty skeptical about the chinese
+community so
+perhaps if
+you have any questions
+i think that uh they were a little bit
+misleading because of chinese subgardens
+and now it's not sub governance as as i
+told you
+uh yeah
+yeah uh i would say that we need to
+rename ourselves to i don't know to to
+which uh other kind of we can we can
+call ourselves the chinese dao
+which is kind of very uh very
+appropriate for the chinese uh community
+um
+or i don't know chinese embassy
+anything
+chinese representatives so we need to
+think how to rename ourselves but in
+general yeah
+would be happy to keep working
+yeah yeah there's a great work guys
+[Music]
+i just want to wish you good luck and
+keep doing great great job yeah
+thank you thank you roman thank you alex
+thank you everybody for joining us
+we'll keep working
+yeah so there's no more questions just
+want to say everyone uh good luck and
+goodbye and if there is any help we are
+here

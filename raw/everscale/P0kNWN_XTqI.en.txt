@@ -1,0 +1,680 @@
+cheers
+hi alex
+is pablo going to join
+oh your audio is very low
+oh wait hello hello hello hello
+hello
+hi everybody
+alrighty
+i think maybe eugene you might have to
+mute
+getting some weird feedback
+okay
+so good day to everybody i hope you're
+all enjoying the summer and uh
+kind of a modest appreciation of the
+market over the past few days just a
+little bit notably a bitcoin and of
+course ever has been going up a bit
+which is exciting so maybe we will not
+have
+a winter this winter
+so
+let's look at the agenda and i'm going
+to hand it over to our own pavel mr pvp
+he's got some strategic updates to share
+with us
+so pavel if you're ready
+yes
+hi everyone
+we had
+i don't know
+fifth uh strategic meeting now they're
+called
+strategic meetings not uh architectural
+ones
+uh last
+thursday and we'll have it's this
+thursday as well
+so there was a presentation of
+smft consensus how it works and
+specification and code
+very least
+for actually they were open source
+and now
+uh
+i mean different developers in our
+system they can join testing and they
+can
+see
+see how it works
+uh this is the first
+actually this is the first phase of uh
+releasing of smft
+consensus
+so there will be more updates but i
+think this is
+probably most important at the moment
+because
+uh
+it was underdeveloped for more than a
+year and
+it is a big
+chunk of code to be honest
+so the same story happened with ramp
+it
+also was
+released in public so ramp
+uh
+ram software is
+almost
+uh ready for production i hope so
+because it was interest for quite a
+number of months
+uh coming to network called rfld
+uh
+now validators they have plans to
+launch
+the
+rfld network
+with ram and do
+community testing
+so will be interesting to see how to
+work because before that one leverage
+made uh test for ramp
+uh protocol
+so those are two major
+advances in in development and now they
+are open for everyone
+so now you see that everex
+who was doing
+stuff during that
+year
+not only
+patching
+not for
+some minor updates but also was working
+on
+significant
+updates which were
+announced in white paper
+what else um
+also
+probably long waited uh update for
+multi-signature contract started last
+week
+actually the first version of new
+multi-signature contact was released
+if
+you probably don't know
+multi-signature contract was written
+before even the launch of network
+and this is a great contract i think
+because as far as as now due to phone
+modification there were no any problems
+with it
+but uh it was
+now
+since compiler
+uh
+got
+30 updates
+since that time
+uh the code was which was written more
+than two years
+i don't know two and a half years ago it
+is not compatible with the current
+compiler so this is
+just
+uh just
+in the input update there are some
+additional
+features will be added to
+multi-signature contract
+for example they will be protection from
+replay
+uh
+we which means the message to much
+signature
+should include signature of the
+addressee
+so
+they will not be possible to replay the
+message for one contract
+for another contact with exactly the
+same custodians
+which is again not the back of the
+contract it's a logical uh
+uh
+logical issue which was not envisaged uh
+when it was designed in first place
+uh
+yeah so that got it for the test
+and hopefully
+after some audits will be released in
+couple of weeks
+this is all folks for major updates we
+had
+oh great that's a lot of updates thank
+you pawel
+does anybody on the call have any
+questions
+anything they'd want to ask
+just raise your hand i don't see
+anything
+okay maybe later on maybe from the
+community we have a call
+thanks pavel
+so we're going to move on the agenda to
+the new academy website so we have
+eugene here joining us um he and the
+academy crew have been working hard on
+the academy website
+and they've also added some interesting
+features and he's here to share more
+cool
+hello hello can you see my name yes i
+can
+okay so this is a very brief update um
+the academy website received a lot of
+comments from people some positive some
+wishing
+for certain changes
+and the main criticism of the website
+was the difficulty we had with
+rebranding it was very hard to
+do something with more than 30 videos
+that we have we had on the website uh
+which mentioned freetom
+and uh i have to admit we were unable to
+clean it all up so uh just too time
+consuming to complicate it so what we
+did is we created the brand new website
+at the moment and you see the address in
+its chat
+uh it is
+nft.everscale.academy.explorer
+and in fact this is a full-blown
+marketplace uh nft marketplace what we
+decided to do is to work with a very
+different concept than before
+uh we took uh only uh directly relevant
+courses uh and added some new ones
+particularly from government blockchain
+association the standard course uh the
+first module we already have that they
+teach
+and um we decided to simply uh
+offer them for sale either through
+direct sale or through auctions
+and only the courses that deal directly
+with blockchain
+so at the moment what you see is an mvp
+uh we have i believe um alex here on the
+call who was a major contributor
+to this and essentially
+we are a standalone platform platform
+right now
+so um we will be working to improve uh
+this in the near future uh by adding
+courses by adding functionality
+but essentially uh the mechanism has
+changed uh there's no uh mention a
+single dimension of freetown anywhere uh
+addressing the comments that we received
+and we
+expect and just to remind everyone uh
+the academy is
+one of the oldest existing english
+speaking groups
+in our community
+it has not missed a single weekly
+meeting since it started
+yes we worked there every wednesday
+at 11 a.m new york time
+and the audience of academy is very
+broad today it includes people from
+about 11 countries
+so uh we encourage of course people come
+take a look at mvp provide us with
+further comments
+and we will be back when the site is
+fully functional um at the moment uh
+we're working on essentially the
+initiatives of the members there's no
+community support
+uh we found whatever activities uh i
+needed ourselves at this time
+and uh
+we hope uh for the foundation support at
+some point in the future alex i don't
+know if you wanted to add something
+briefly to what i said yes
+i can add something uh
+so
+as you know
+me is a part of the academy and
+team of developers have an experience
+especially in nft
+we are currently developing
+a little number of projects
+in nft fair
+and yes uh after discussion with
+academic members we have this wonderful
+idea idea uh
+by the way
+uh
+this website
+is
+this website doesn't use any
+uh content management system it's fully
+uh made with react and
+typescript and so on
+and we have yes we have this wonderful
+idea that courses can be an nft and
+users can pay for this nft
+and buy access to the course
+all the user can
+uh mean
+or users can enroll some courses and uh
+then mean uh
+certificates
+uh as uh previously we have some core uh
+which we can integrate with the academy
+so we have done this now and now yes
+when development process to
+to finish
+some updates according to academy
+specific like uh certificates and so on
+um that's why
+yep
+we are in progress
+thank you i think i think that's all yes
+and back to you joe
+okay great uh yeah so rebranding yes
+we're no stranger to rebranding and
+that's
+it's not an easy thing to do but
+congrats to you guys on that the website
+looks really cool um the idea for nft
+courses is also
+awesome so i'm uh wondering
+do you have like a kind of a referral
+program in place are you building
+something like that are you going to do
+something with royalties and maybe
+people can earn points and redeem for
+forever courses
+yes
+thank you yes
+thank you for asking that let me start
+alex on you
+basically the in addition to doing a
+brand new website the the academy now is
+in the process of developing its
+economics
+which will be based on a number of
+interesting concepts such as a
+reputation of uh teachers such as the
+reputation of students
+um such as teamwork
+and uh rewarding people for
+bringing useful uh
+members to the team and a number of
+other initiatives uh that is yet to come
+um including some very advanced concepts
+that frankly we looked up
+in some of the other
+friendly partner
+initiatives in the educational space
+alex you wanted to add something
+um
+joe asked about as i understand your
+asked about the reference system
+i guess we will think about this too
+because we have
+we have already uh as you know uh have
+an experience with uh creating a
+referral system for marketplaces
+and maybe we will take this idea and
+rebuild it according to academy model
+data and so on but
+yes we can do it for sure because we
+have already did it
+but
+how will we do this for academy maybe it
+will be referral system only for
+teachers maybe on the for students i
+think that we will discuss uh later
+yes thank you
+okay great
+well that's very interesting and
+definitely look forward to that when you
+guys can share more information there um
+and looking forward to when the website
+is also
+functional
+that's cool too
+yep we'll be back to report on that yeah
+great
+okay so
+next up on the agenda is the everscale
+white paper of deutsche
+so we have a familiar face in the
+community who spent a good chunk of her
+time translating the entirety of the
+everscale whitepaper into german so
+here it's like vilcomen marin
+if you're here
+hello everyone can you hear me hi yeah
+hi
+hi so my name is maharan berlinga thank
+you for letting me speak today i feel
+very honored a little bit about myself
+i'm german born and started working as a
+high fashion model back in 2016.
+since then i worked and lived in 11
+different countries during my travels i
+learned way more than i could ever learn
+in any school i worked for social media
+company and studied economics and
+physics
+the first time blockchain caught my
+attention was back in 2014
+when my former classmates
+brought it up
+and
+discussed the topic of bitcoin and its
+use in gaming industry since then my
+interest in bitcoin grew and eventually
+i became an investor myself and started
+trading
+and i have to mention thanks to bitcoin
+covered 19 pandemic and its lockdown
+weren't that bad however due to two
+years in lockdown and it's many
+economical and
+social social consequences i decided to
+leave europe and settled on mexico
+since blockchain saved my life once
+already i
+as a resource of income i decided to
+dedicate
+more of my time to it not long after
+arriving in tulum a local crypto club
+caught my attention and this beautiful
+life can be it happened eugene morozov
+was a speaker that day it didn't took
+long to figure he was the most competent
+speaker that day and it turned out to be
+true as well
+um so that's also how my story with
+everscale began we exchanged context and
+i became a student and one of my first
+tasks was of course to read every scale
+white paper and since i'm a native
+german speaker i naturally translated
+technical language to make sure i
+understand it myself
+so while i was at it why not translate
+it all
+so then i also learned quickly meteor
+approach differs a lot from any other
+white paper i've read before
+among many concepts that caught my
+attention was web free
+and the impact it will have on our
+economy
+democracy and society
+overall i was very impressed by the
+technology media described and its
+implementation by your community that
+built the network
+on the translation itself
+from a technical translation perspective
+this work presented a few challenges
+for example
+i was confronted with many terms that
+couldn't be translated to german easily
+or not at all
+i had to adapt and decided to keep
+english originals or to conjugate them
+when needed
+additionally i decided not to translate
+quotients to stay closer to the original
+meaning and i'm convinced my german
+fellows are well enough educated to
+understand them
+i had to change a few remaining mentions
+of tom to ever except when mentioned in
+historical context
+during the whole process of a little
+over four months i learned more and more
+about every scale
+network and figured there are little to
+non-german speakers which surprised me
+and has to be changed
+so the concept of learning through white
+paper translation changed and i decided
+to use the translation to popularize
+everscale technology among german
+speakers which by some estimates are
+around 150 to 7 170 million
+next i intend to build the
+german-speaking average scale community
+starting in zurich switzerland where i
+lived the past three years i plan to
+bring in my classmate olynyon who is a
+best-selling german author as a writer
+and content creator
+through my other personal connections i
+plan to engage eso media my social media
+experts and the quincy dash co has
+public relation firms with clients like
+forbes fox news bbc the times and many
+more
+another step is spreading the word
+within my global social network which i
+built over the six
+last years including investors
+celebrities manager managers agencies
+and even social media companies
+and the complete and to complete my
+presentation i need your help to spread
+the word
+if you know any friends or colleagues
+especially in the technology space who
+are german speakers please send them the
+link thank you for listening and i'm
+ready for any questions you might have
+fantastic that was lovely
+does anybody have any questions for
+martin
+no well maybe later on but wow thank you
+very much for your contribution um and
+it's exciting to know that you're going
+to be building a german community um
+that's that was my remaining questions
+after knowing that he had translated the
+white paper you know can you send it to
+your circles but in fact you're planning
+on actually building more communities so
+that's amazing thank you very much
+um
+so if there are any questions for you uh
+i'll send them your way so please stick
+around maybe there are some german
+listeners and they want to reach out to
+you
+thank you
+yeah thank you very much for joining
+and i hope to see you around much more
+so next up we have the bsn integration
+update we have zachary lee who's leading
+the chinese community
+hello and he's going to give us an
+update on the bsn integration
+yes yes
+uh sorry for my uh current situation i'm
+actually in the car
+yeah and
+okay so but that's gonna be a very quick
+one because at the moment we we uh first
+first of all there's some very good news
+because our ex has helped us helping us
+and they've already given us fully
+support
+and we've already have the latest
+version
+of the the the
+every scale note
+deployment script so we've we've just
+got that last week and we're pushing
+very hard to bsn technical team to help
+us to deploy this
+which is the latest uh version of the
+network
+and on bsn uh blockchain which is called
+guang the
+blockchain and we've already have the
+domain name ready
+which is the gygy.life
+and hopefully we can have some very good
+news for next week because they promise
+they're promising us that they're going
+to deploy the latest version this week
+and then we will do the we'll rerun the
+stress stress testing
+as well as the ddc which is the nfd
+equivalent
+programs on top and hopefully we can get
+this everything ready and they will
+announce the official
+uh go live like official release of the
+guanyin blog
+as well as the ddc integration
+okay okay that's it yeah that's all the
+updates
+okay great thank you very much zachary
+um if we have uh any questions then
+we'll send them your way so stick around
+unless anybody wants to jump in now any
+immediate questions for the integration
+nope
+okie dokie thanks zachary
+um so we shall skip on ahead to the
+grand bazaar uh presentation
+so we have something exciting for the
+creators collectors and some
+reward seekers we've got pavel smirnov
+here and he's going to share what grant
+bazaar has been up to
+hello hello everyone uh thanks for
+invitation today and yeah i got free
+news free updates from grand bazaars
+that i would like to share with you
+the first one we our team have launched
+the grant program especially for the
+creators
+for example if you have any kind of idea
+of nft collection you can suggest
+and
+will help with realization for example
+if you like the
+suggested idea of the collection will
+help with design of the collection
+development
+promote it on our community on every
+scale community
+launch this collection on lounge pad
+section on our
+marketplace and
+we will share 50 from the collection
+sale
+uh sale income
+uh
+the deadline of the for the ideas is 20
+august 23 so if you have any idea we can
+help with realization
+the second update we successfully
+launched
+the second rascal game collection
+minting page is
+already located on a launchpad section
+uh 54 nft cars are already minted and
+the current trade volume is about 5 000
+ever and a health
+uh
+one of the most interesting feature of
+the second collection is that the team
+implemented the fully animated version
+of the game
+the first collection was available only
+via telegram bot but now you can
+check the race
+in life
+[Music]
+and
+everyone who own merchant nft will
+receive
+ever back in form of cashback for
+minting
+rascap game nft
+and here is our last
+news our new features that we
+implemented
+it's called
+rewards
+and
+joe can i share my screen of course
+one moment
+uh
+can you see
+my screen yeah great
+uh if you click on settings
+uh you will find the rewards tab here
+and
+this stuff available only for those who
+own merchant nft and
+this type will store
+your rewards in ever for
+for example for different events and
+for example if you
+as i mentioned every merchant holder
+will receive 50 ever in form of cashback
+and it will uh
+locate it there
+and you can anytime withdraw
+cashback from
+from this
+tab
+by clicking with your fonts
+so
+that's all thank you
+awesome great
+everybody loves rewards in here it's
+really easy to get it
+thank you
+uh anybody have any questions for pawel
+about
+grand bazaar and their current updates
+don't see hands uh maybe we've got some
+community questions roman is there
+anything um
+coming through
+uh no there's no question from the
+community no questions before this time
+oh
+well stay curious everybody
+okay so uh i think that wraps it all for
+uh this
+every scott everscale community call um
+so stay tuned and we've got
+stable coins um and games and payment
+solutions to look forward to uh next
+next week now since the calls are all
+bi-weekly
+so
+then thank you everybody for coming and
+see you next next tuesday
+bye everybody goodbye

@@ -1,0 +1,815 @@
+okay
+hello everyone
+yes hello hi hi
+all right traditionally we wait for one
+more minutes and after that it will
+start
+all right let's start
+so welcome everyone it's our 37th weekly
+governance call of the defy group for
+the free tone
+and today we have quite a short agenda
+and
+because lots of contests are in progress
+and
+in the voting stage and there are no
+actual topics for discussion uh big ones
+so uh let's run through the agenda in
+this case and
+i will start with the contest update uh
+actually
+three uh contests uh
+that are hosted by the device of
+governance are currently in the voting
+stage so the first one
+is uh free tone lending uh and borrowing
+essay so we have seven works uh
+submitted to this contest so and uh dear
+jurors please
+uh spend some time to read them out and
+cast your votes the next one is the free
+tons of sovereign identity framework
+uh stage one which has uh
+five days yet to vote uh and
+the voting ends on one
+day is it so it's actually
+i don't see it in the face probably it's
+not somewhere on tuesday
+and uh also we have uh the dex
+implementation stage two
+finished uh and is currently also in the
+voting stage so
+there is huge amount of work for jurors
+so please
+uh don't don't wait until the very last
+moment
+i would like also to remind that uh the
+dune swap contest that
+is funded by the main governance
+has defied jurors as a jury
+actually so i also
+put the notice about this in the jurors
+group and
+uh if you hear me as well uh please
+go to the god.rt
+to have a look at only one submission by
+fabrice
+so we had to extend the voting actually
+because no one came except
+for one juror but it's not enough to
+collect the quorum
+so uh you have four more days to to vote
+please
+please schedule the time accordingly uh
+the next topic is about the
+coming farming updates uh as you may
+have heard that
+the proposal of the defy alliance has
+been approved and
+we have some big news coming so sergey
+are you here yeah sure okay
+yeah okay about uh farming farming
+program
+uh i think we will launch it not on
+friday because we need
+to test some new mechanics like double
+farming
+we had two different
+tokens protocols who were ready to part
+their liquidity and governance token and
+now we're in test mode when we finish it
+we will launch
+new farming and we will update
+bridge and decks for it
+so what we will do uh
+first of all we will continue our
+program for
+two three months for uh standard players
+uh like udt bitcoin ethereum and etc
+uh also we will launch new pairs
+with frags and uh stable euro studies
+and uh we will launch some standard
+pairs without return
+like uh bitcoin usdt udt frax
+and and etc because we want to test
+we will try to attract new auditory from
+uniso because change
+cryptocurrency standard in unison
+in town swap will be less than unisop
+and also we
+will launch two pairs with bridge bridge
+tokens
+and uh i hope in months
+maybe maybe more uh we will have some
+new project
+some new project with native tokens and
+we will put some liquidity to this new
+project
+it's about it's about our farming
+farming mechanics
+uh and uh in a few days
+we will get a lot of announcement
+and of course we will we will share it
+about about uh dexter's it's a
+very strong power for
+for prices because for example if you
+watched uh yesterday for for prices
+uh some funds and
+and some and some traders who will join
+to
+our farming program uh started to buy
+tokens
+and uh it's a huge impact for price and
+hold on
+and and it will stabilize i hope it is
+the last price
+and uh and the fate it will be too easy
+going going to market cap
+and etc
+sergey stabilized on this price or go
+down and stabilize where it was before
+i don't know how do you think let's see
+it's market
+but but if fans are buying tokens for
+and farmers are buying tokens of course
+we will put it forward to to repeat the
+programs
+and for it we will buy
+motor kits and so i think a price
+yes we'll believe i'm sure
+now minimum price on the future
+definitely let's hope on this
+yes thank you again um
+i do have some questions guys on this
+please
+raise your hand and ask
+okay uh seems no sergey also wanted to
+um discuss a bit about the device
+services
+uh future device services contests uh so
+again
+maybe you can say a few words about this
+as well yes yes about future devices
+okay now we have uh bridge we have
+a top swap and i hope another taxes
+will launch too and
+what started congress for safe for
+credit protocols
+but the fica system uh
+have a lot of different services with
+insurance
+and uh different
+graded deposit mechanics and etc
+and now for example brooks have no time
+to
+push new services and
+we we need to spend some months to
+finish and bridge and dao
+and dex and
+we need we need to to involve
+a lot of different from from our
+community and
+if you have ideas and ready to implement
+it please
+share your concerts because
+big defy ecosystem it's not only for
+operation tax it's uh dozens and dozen
+different services
+yeah guys please please uh propose your
+ideas on what future device services can
+be because
+if you remember from the presentation of
+ignat uh
+all the bridges the access and even
+landing protocols
+so they are just the basic layer of the
+of the infrastructure and
+uh in this case uh if we want to move on
+to the next level of financial
+instruments and
+defy services uh we need to be more
+creative so if you have some ideas on
+your minds please
+share your thoughts don't don't be
+silent
+because we are here to build the
+ecosystem together
+okay um yeah i also
+wanted to to say that
+some of you may have already seen the
+article that
+brocktos has published on on its medium
+page about
+how the bridge version well actually
+it's version three but
+uh so let's say breach to to o
+will work with the implemented dell
+model so it's a kind of sneak peek on
+what will going to be going on uh it is
+still in the development
+although it's coming to its end
+at least on the smart contract site and
+we are now approaching some interfaces
+that will appear and
+some people already started asking some
+questions about
+how the staking will work how the
+revenues will be distributed among token
+holders and so on so forth
+so please uh read through the article
+and
+there are most of questions answered
+already and
+if you have some some additional things
+so please come to the ton bridge
+testing group and ask them we will add
+some information to this article as well
+uh i personally think that
+the solution that uh will
+soon be born so it it's very very
+elegant and
+uh very interesting it will be able to
+maintain
+the new level of uh decentralization
+and uh supports the liquidity inflow
+from ethereum first of all
+okay so um that's pretty from my site
+uh so if you have some some other topics
+to discuss so please raise your hand
+and and i will give you the floor
+okay three
+two one okay yes alex
+yeah hi everyone and what about the
+context for extensions
+uh the contest for extension actually it
+is not
+uh hosted by the device of governance uh
+and i already spent some time on the
+weekly free tone governance call
+so it was a very good contest indeed
+and we had a lot of interesting
+submissions there
+but uh due to uh
+not really big involvement for certain
+jurors
+there was quite a big polemics about how
+to interpret
+the results of this contest uh
+[Music]
+we discussed this openly in the in the
+group
+and decided that for the sake of
+defining winners uh
+we will uh not use
+votes of those jurors who didn't vote
+for all
+works actually although there is a new
+polemics raised
+afterwards and
+some other members so they resisted this
+position so
+uh first of all we need to make the
+calculation for both cases
+and i already asked the contest stats
+group to do this
+and we will present the results
+of this calculation both results so the
+original one
+uh according to us if uh all
+jurors vote will be counted and the new
+one
+uh when some votes are put aside
+and then we will uh decide what to do
+actually so it's it's a tricky point
+actually because
+there is some ambiguity in in the
+contest terms
+uh on how to tackle to those voices
+uh for example which are not
+qualified enough so for example they
+consist of two words only
+and uh although the contest terms do not
+uh prohibit uh to count such such votes
+although the juror uh will not get the
+the reward but uh still the the result
+of his uh
+votes may be counted uh
+so i think that first of all we need to
+calculate both scenarios and after that
+so uh discuss once again
+yeah please okay thank you
+hello everyone sorry about this question
+what more
+uh alex please raise your hand
+about this uh contest i'm sorry if you
+in our topic i may ask questions yeah
+just
+let's finish with this question first
+thank you thank you
+i mean um
+you said that discuss it many
+discussed about this extension contest
+in open group where you mean not a defy
+group yes
+and i'm not sure what i uh catch what
+problem it was uh
+i first understand that not so much uh
+juries vote but more or less like
+half of jewelry avoided yes yeah
+actually uh so
+jurors activity and responsibility is is
+really
+um a tricky point now so
+and we discuss it since free tone was
+established and
+we'll continue discussing it for a long
+long time often
+actually some jurors
+really invest their time and analyze
+each
+each work uh very diligently
+uh some others they just hop on
+to the voting train in the very last
+moment and
+throw some random random votes
+some simply don't come to the contest
+and this is uh this is bad actually for
+for the
+performance of the whole community uh
+how to improve this is a good question
+and
+uh there is no direct answer to this so
+this can be
+elaborated only by the experiment uh
+so we already tried for example in the
+device of governance to
+increase number of jurors we try to
+increase the reward of jurors
+we try to inform them timely and
+it seems that
+in this specific case of the crystal
+wallet extension
+[Music]
+contest jurors were not aware of their
+jurors
+and this is a systemic problem
+of litification to jurors i'm thinking
+about
+how to solve this and
+maybe someone can take care of
+reminding them and really say thanks to
+alex novikov who who took the flag and
+went to pinging everyone uh
+asking to vote and also he collected a
+good mma session
+so actually there was a group of
+participants
+and jurors uh organized by alex and
+where they can freely exchange their
+opinions
+and there is kind of holy wars happening
+now
+so i i'm looking through my fingers like
+this
+into this group because uh there is a
+minefield actually
+uh now and also there was a discussion
+earlier this week on the weekly
+governance call
+that happened on tuesday of the main
+governance
+uh where we discuss this topic as well
+okay thank you i understand i'm i'm
+not know why i'm not in this group but
+okay
+i avoided i try i tried to do it uh
+one day maybe like seven hours
+and it was really hard because
+um testnet doesn't work
+and it will be one more case
+and i i used a real tone crystal
+but in some cases it was not possible
+literally
+a hundred million of different factors
+affecting jurors
+but uh i think that the main problem
+here is transparency
+uh because uh from participant side
+uh i cannot say that there was a weak
+transparency because
+everyone who wanted uh they provided the
+demos they uh answered all questions of
+jurors
+who tried to ask them
+and from jurors side it's it's a silence
+so which which i personally don't like
+and uh if jurors
+face some problems they need to say
+about this and discuss this
+and uh i'm thinking on how to improve
+this in
+the device of governance for instance uh
+to trigger these discussions maybe some
+ama sessions is a good way
+but uh i personally
+not always can
+just take the lead on scheduling them
+and moderating them
+so maybe if someone can can uh
+raise a hand and help me with this i
+will be really grateful
+and especially in such contests where
+it's not only defy
+yes yes exactly
+thank you yeah uh alex novikov please
+yeah um
+strange that alexander what is not this
+group because
+i invited everybody to take part in rama
+station and
+as a result we had most of the
+participants
+and all like
+jury members didn't come so
+it's strange okay anyway and actually i
+wanted to say
+about the discussion
+for particularly voted jury
+personally i am a jury
+member who didn't vote for last
+several participants last several words
+it was actually technical reason because
+uh i prefer to vote in the last moment
+because i don't like when
+somebody could go through my voting
+and like make the same
+so i just don't want to give the chance
+to wait
+uh because of this i prefer to vote in
+last minute and also
+sometimes it could happen that
+some facts about admission could appear
+for example it could
+appear that some submission is
+stolen or wrong with your eyes or
+something like this
+and because of this time i prefer to
+vote like last uh
+couple of hours and this time actually
+i did it in the previous week because
+the
+contest had to finish
+week before and i started the world
+i go through all submissions because i
+did armor
+i had all marks in my excel file
+and some their problem was
+when contest was prolongated they
+changed my key because i am a member
+of my government and d5
+and before it was 1k and in after they
+prolonged
+they changed my key and i didn't
+i didn't have any idea what's wrong i
+just came
+like two hours before the
+milestone and i couldn't
+vote and i was troubleshooting because
+this
+simple idea that they changed my kids i
+just didn't get to my mind
+and because of this i was struggling
+with this i checked balance i checked
+everything i almost
+disassembled my computer like after that
+everything
+and i was looking what's wrong and
+at the end i discovered that
+i had to use other k and then
+easy walls program that i'm usually used
+for
+i just couldn't pass it and
+that's all and it didn't work as well
+because
+the key was changed and i had to do this
+manually in the last minutes and just
+because i technically
+didn't time to put all my marks
+on the system so it's like a technical
+issue
+definitely yeah and actually i would say
+i want to say that we have
+it's not forbidden to vote particularly
+actually we have this methodic to
+calculate the
+jury reward that allows jury to vote
+for some works not
+as i said is a transparency so if a
+juror uh
+did this so he preferred or uh was
+unable
+to vote for all submissions so please
+just say about this explain to to
+to participants because uh when there is
+uh
+some abstract jurors who do not uh
+explain the motives and put some some
+marks uh
+on submissions and some sometimes
+weird comments so uh there is a really
+good question from the participant so
+what the hell is going on
+guys come on i spent my time i
+created the work i submitted it and now
+you are just
+ruin my work by uh
+for what so i don't understand and there
+is a silence for madison
+this is uh one of the systemic problems
+that need to be addressed and solved
+actually so uh i don't have
+the solution for this now and i think
+that nobody thinks
+but at least we can uh form some
+hypothesis
+and and try to test them in the coming
+contests
+uh so for example uh
+the presence that the ama session for
+jurors is obligatory
+yeah to get the reward uh can we
+test this why not yeah so in this case
+uh
+at least jurors will understand uh what
+is going on and what the submissions are
+about
+uh on the other uh
+is it possible for example to draw a
+juror to change the vote
+not now of course yeah because the
+contract doesn't allow this
+but uh sometimes when juror uh didn't
+understand
+and he hurried to cast the vote
+and later on he just discovers that his
+uh score
+was wrong and he wants to change it but
+he cannot
+so uh this is also another another
+thing that in my opinion should be
+changed because
+uh unless the voting period is over so
+uh
+it's not criminal to change your vote
+actually maybe it's it's it's
+uh not to post the votes uh uh
+until the the very last moment uh
+i mean i mean to analyze the votes in
+the contract
+uh but i don't know how to do this
+actually yeah because
+the voting contract is uh
+it is developed uh by tom labs and
+there are several versions and i
+personally don't
+know everything about the latest version
+except that it exists but how it looks
+like
+nobody knows actually
+yeah we need two technical
+[Music]
+solutions so we should allow
+jury members to change their walls
+and we should implement something like
+wikipedia
+to hide walls until the end
+and after the voting period finished we
+could check their law
+that hiding votes until the variant is a
+solution actually
+the possibility to change your vote
+is is a solution maybe a solution i
+don't know because
+uh it may bring some additional problems
+that we don't
+are not aware right now and this is a
+complex discussion that
+uh comes uh outside of just one
+sub-governance
+you know because uh this is a problem
+that appears
+here and there uh each time when uh
+there is some ambiguity in the context
+uh yeah thank you alex uh alexander
+uh as for contest results they are
+legitimate
+but they are not finalized yeah so so
+actually they will become finalized as
+soon as the contest starts group
+uh calculates them and
+after three checks they are approved
+so also excuse me actually i wanted to
+add
+the stuff i tried to explain it during
+governance meeting but i think it was
+very
+quite very clear yeah sorry
+for this i was downside so first of all
+i think it's a bad practice to invite
+jurors from different sub-goers and this
+particular contest
+was the most complicated contest because
+we had
+jurors from three different
+sub-governances as a result
+as i understand jury from
+they are not technical person and they
+are
+assessing and evaluating like user
+interface
+like guys from direct sub governance was
+evaluating the code the code structure
+how it is
+built like this stuff and the guys from
+device upgrades was evaluated like
+how it is compatible with three tokens
+and all defined stuff so
+three groups of jurors was evaluating
+and having different
+stuff and i think that's good
+that's actually good because it provides
+you the diversity of opinions
+and uh in my in my opinion the future if
+you have some professional jurors
+specializing on this and that so that we
+are coming to
+uh you will have different views uh on
+the same contest
+and in this case you will get the more
+weighted uh
+score so because the solution may be
+technically
+extremely interesting but it's unusable
+by the by the
+audience that yeah and but we we can't
+compare apples with
+like oranges we should cover apple with
+apple
+why not we can both fruits
+both fruits yeah and it really depends
+on the on the on
+how you will use this uh
+yeah so uh there was another question
+from the audience uh
+uh alexa yeah i have i have yeah i'd
+like to add for the contest
+one of the reasons why uh some jurors
+couldn't vote for
+all uh submissions was that the contract
+ran out of gas
+and uh when i when i found out it i just
+sent
+like 10 tons to the contract so they can
+continue
+yeah it's it's a good point uh actually
+uh guest monitoring
+is is a tricky point because
+[Music]
+if you may remember some time ago when
+mr shopkin was spamming
+the voting system with his fake
+submissions
+all the gas that was submitted to the
+contract
+was burned out in any case that's why
+now the interface group which is
+responsible for deployment of contest
+contracts
+they do not put excessive amount of the
+gas uh
+the vote itself costs extremely a small
+uh small chunk of the balance so it's
+something like
+uh 0.01 uh tom
+if i'm not wrong and
+typically uh 0.3
+a ton is way more than enough to
+for an average contest but in case you
+see that
+there is uh an issue with the gas yeah
+and it's it's displayed in the voting
+interface
+as well uh it's highlights in red
+if it's if it's slow uh so just
+please drop few few pennies
+there to to cast your votes no no need
+to
+you know just transfer 10 tons or
+something like this
+half a ton is is already a big amount
+so it's actually not not that expensive
+contract uh
+that requires you huge amount of gas uh
+on the other side when there is a big
+amount a big number of submissions and
+you have to uh provide
+lots of comments as well like you
+remember this contest
+uh what it was
+where we had over 100 submissions uh
+yeah so it will require a certain amount
+of guests of course
+and uh normally uh i tried to to monitor
+this
+this situation and just top up the
+contracts before they ran out
+but sometimes it happens that uh i i
+miss this and so
+just please if you face the situation
+drop your penis
+and to be able to cast your votes and if
+you just add something on top so the
+community will be grateful to you for
+this
+i don't think that's half a ton worse
+anything
+for for all of us
+okay uh thank you guys uh ander you have
+some other
+question there yeah it was a question
+about the
+about the um uh
+decentralized exchange stage stage two
+um
+last time when when the contest finished
+i think we had
+something like a series of presentations
+yes yes exactly will we have something
+like this
+uh actually i wanted to ask all the
+participants who are present today and i
+will ping them
+as well uh directly to provide
+some some short uh short presentations
+or uh
+some video recording i would prefer this
+because we have don't have uh
+too too many submissions so it's uh if
+only four
+if i'm not wrong and
+uh for jurors it will be really grateful
+to see them so uh so what you really
+implemented
+uh if you provide some comments on uh
+which points of the contest terms
+uh all the if hot criteria met if soft
+criteria met
+you can provide some uh comments on how
+the solution works and how to deploy it
+correctly and so on so forth
+but unfortunately for some reason uh the
+period for voting is very short
+uh i thought that we will uh put
+something like two weeks at least
+and uh now i see that uh probably
+it is actually two weeks it's still
+eight days for voting
+so if you provide your video demos
+with comments uh by i don't know uh
+by by monday it will be okay for jurors
+to look through them and
+decide um on what scores they will cost
+okay okay yeah makes sense so just a
+video with uh with like an overview of
+the solution and
+yeah yeah pretty much like we did last
+time so uh
+doing ama session for such a complex
+solution in my opinion
+is a bit of overkill in case
+there will be a lot of questions from
+jurors uh maybe we will
+uh just create the group
+just to to ask all the questions uh from
+from jurors directly uh or maybe
+even if there are some typical questions
+so uh we may create a short summary of
+answers to them
+okay thanks welcome
+so those videos will just be posted in
+like the d5 group
+yeah just post them in the define group
+uh
+with the hashtag next stage too you know
+so for to too easy to find them
+okay thanks
+okay welcome welcome
+good any other topics guys please
+three two one
+good okay thank you everyone for
+attending today and
+uh keep an eye on the group so there
+will be some news
+uh coming closer to the end of the week
+and see you next week then same time
+bye

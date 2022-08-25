@@ -1,0 +1,1139 @@
+all right there we go youtube started um
+and since meech is going to go first
+anyway so okay let me um so not to waste
+time let me start
+uh yes
+welcome everybody to everscale community
+call number 100
+100.
+yeah hooray um congratulations to
+everybody it's uh
+it's been
+just a absolute pleasure to host these
+calls for as long as i have and it's
+it's you know it's an honor every week
+it's an honor uh and just shy of our two
+year anniversary which is coming up
+which we're going to hear about in just
+a in just a few minutes um
+we only have a couple of presentations
+today and then i have two quick
+announcements that i want to make um so
+we're going to keep it sort of light and
+fun today
+uh first just the regular uh call
+tidbits uh please turn your cameras on
+and please uh save your questions until
+each presenter is finished with their
+presentation and use the raise your hand
+feature in zoom to do so if you're
+watching us on youtube please leave your
+questions in the comment section we'll
+get to them at the very end of the call
+and of course the call is always
+conducted in english so like i said i
+had a couple things i wanted to say but
+uh word of warning to everybody nita is
+only going to be with us for a few
+minutes today he's got a run so i'm
+gonna let him start right away with
+technical updates and if you have
+questions that he can't answer on the
+call uh just write them in the chats and
+i'm sure uh you'll get your answers
+there so nita if you would kick things
+off
+hi um okay so we'll be quick we have
+started to introduce a new version uh of
+the node to the blockchain this is the
+update that i were talking about
+uh last time
+and uh
+this includes the
+the
+kind of fix for
+corrupted
+um
+state
+which we currently have on the main net
+as well it's not a particular problem
+because um
+[Music]
+well because
+it's it's it's red it's like very hard
+hard to reach that corrupted state part
+and
+and and because we fixed it so
+so it has been tested on the devnet
+together with that
+um this new version is introducing
+compression
+um and uh just by virtue of upgrading to
+this new version we don't need to turn
+that on it will turn on automatically
+when
+it's just the network the more nodes we
+introduce basically then the network
+will
+start
+slowly migrate into a compression
+traffic version
+um so you can see that there is about
+eight percent of the network already
+like at seven percent of the network
+already in
+running this note we're slowly slowly
+upgrading that
+now
+um we cannot upgrade we cannot just
+release the upgrades because um
+this fix it goes to the whole depth of
+all the
+all the cells in the
+in the state
+and in order to do that the network may
+stop for about 40 minutes in some
+to just to kind of
+copy everything it needs
+uh and therefore if we just introduce it
+and everyone will upgrade it once the
+network will stop for some time which we
+don't want to do
+for that
+the upgrade will be slowly introduced to
+different validators i will write you
+guys so someone will write your gym will
+write you and ask you to upgrade the
+node and you will upgrade the node and
+then we will go and so on and so forth
+so we will just reach out until we kind
+of upgrading
+something like uh you know 70 percent of
+the network
+like that and we will release the
+that the general upgrade so
+um
+[Music]
+again it's it's um
+rarely happens but
+but that's that's the only way really to
+do that
+and um yeah we'll just do that by the
+end of this procedure the network will
+run
+the version
+which which has
+almost everything we wanted on this
+stage before we move to
+next kind of
+updates on the roadmap including
+decreasing the gas
+and and introducing ramp
+but before we can do that we need to
+go for this stage and introduce these
+fixes move to
+certain
+things and did
+[Music]
+upgrades and so on and so forth so uh
+um so yeah so
+[Music]
+that that that process started and that
+will take some time but i hope by the
+end of by then by next week
+the majority of the network will run
+this upgrade and the network will be
+upgraded and we can move to the next
+things
+that's basically all from me
+okay thank you me too very much uh if
+anybody has questions for me to uh ask
+them now or hold your piece until the
+chats because media has to jump off the
+call does anybody have a question raise
+your hand if you do
+nope okay thank you guys see you next
+time
+yep see you next week
+okay duke um so now uh i have a couple
+announcements to make uh so the first
+one is the
+two proposals for growth phase three
+that we talked about last week
+were taken to a vote to ever doubt and
+they passed
+which means
+that we're going to be preparing
+proposals for initial members and for
+partners
+and taking those to a vote based on
+evaluation so
+like i mentioned in last tuesday's call
+we're going to be doing this in batches
+because uh well frankly just because
+there's just so many
+that we can't we can't do it all at once
+uh so we're preparing the first batch as
+we speak
+uh that should
+be able okay so fingers crossed uh
+hopefully the first batch will go to a
+vote uh this week
+and then from there every week
+thereafter for you know give or take
+about a month
+and we should get through it uh which
+would be which would be great so
+uh for initial members right um i
+encourage you to please uh dm me direct
+message me
+with a summary of everything that you've
+done throughout your tenure uh on
+everscale forever scale uh and uh if
+possible uh try to keep it to one page
+uh like in a you know it doesn't even
+have to be a google doc you could just
+dm me and um and telegram at ron milo uh
+but uh if it must be two pages let's
+keep that the maximum because uh when it
+comes to proposals
+we really don't want to deal with like a
+giant monstrosity of a document the way
+i would probably do description links
+description links description links
+simple as that
+uh if you are a partner
+then
+your uh proposal is going to be based on
+links to the forum where your original
+proposal was
+because that's where your entire history
+is that's where all the communications
+happened
+and
+basically
+if
+you do want to add something before we
+take whatever you have on the forum as a
+proposal to a vote
+i encourage you to do that today
+like as soon as humanly possible uh so
+if you just go to where your original
+proposal is scroll all the way down to
+the very end hit the blue reply button
+in the forum and just you know just say
+you know what you've done um you know
+what you know and provide evidence
+obviously that it's not just about uh
+saying it it's about proving it so links
+are definitely a prerequisite
+and uh yeah
+if you have any questions again just dm
+me and i'll you know try to get back to
+you as soon as i possibly can
+um so that's it for uh announcement
+number one
+announcement number two
+um
+i'm a little sad to say
+uh but uh this is going to be the last
+week that i host
+uh the weekly community call and it's
+fitting that it's symbolic that it's
+exactly at 100.
+uh i'm going to be passing the torch to
+some very excellent folks we know quite
+well to ben
+and to joanne who are going to i don't
+know either co-host or maybe one
+does one week one does it anyway
+they'll decide how they do it uh and
+believe me i am not going anywhere this
+is my home
+uh i simply have uh several projects
+that i'm deeply involved in right now
+including one that i just took on and i
+have to focus a hundred percent of my
+time on that uh so it's not that i want
+to leave
+it's that i have to right um but again
+just from hosting the call and of course
+if they ever invite me back to guest
+host i'd be happy to do it and maybe uh
+once the projects that i'm talking about
+but not mentioning right now uh actually
+become what they're supposed to be then
+i'll come back not as a host but as a
+presenter which would be an honor for me
+and it's been an honor for me to do this
+i've had so so much fun but uh right now
+i need to focus on what i do best which
+is uh the business side of things not
+necessarily the community management
+side of things so thank you all so so
+much for allowing me to do this it's
+been a pleasure
+um and uh joanne ben you guys are going
+to be up next week so
+it's up to you now
+so
+yeah
+so i love everyone just so that you know
+we love you oh i love you guys hey again
+um i'm just moving from one room to
+another room staying in the same house
+i'm never going anywhere you're always
+welcome back you're always welcome back
+thank you so much
+it's a big word
+sure
+um you know you couldn't beat me with a
+stick to get out of every scale it's
+what i love
+um
+anyway uh let's get to presentations uh
+up next we have uh let's see is vlad
+with us what are you there yes
+excellent so vlad is going to talk to us
+about the vlogger bounty program uh it
+was posted in the chats if you've seen
+it
+uh great if you have it you're about to
+learn about it
+uh but basically if you're
+uh
+somebody who's good with vlogging
+vlogging smogging clogging whatever
+uh
+if you're good with youtube social media
+you can earn some tokens so vlad why
+don't you tell everybody about it
+yeah i guess
+uh thank you ron for for being so for
+this two wonderful years of running this
+community course
+you're doing this really great and uh so
+i hope that you know we're not missing
+you at all
+so and
+i'm really
+curious to see what projects we are
+doing and
+what we will come with
+so
+yeah about uh
+the blogger campaign so um a few things
+to be named first uh
+this specific bounty campaign is just
+uh a minor thing uh of uh much bigger
+process that we are currently uh running
+so
+running for some
+some time already so uh you all know
+that we
+are always struggling to to market uh at
+the scale uh and it's a product on level
+skills and since maybe uh several months
+uh in defile and so
+we
+are applying some enormous efforts to to
+change this trend and
+make
+everything much
+widespread and
+widely acknowledged
+and
+in doing this so you see a lot of
+twitter mentions about telescale as a
+red free army performing like hell and
+by the way if you are not
+in there yet so please subscribe to
+wordpress army i definitely recommend
+you
+and
+uh so and also
+some specific products like broadcast
+products that we uh are doing so we also
+apply some marketing efforts to uh
+attract more more more uh community more
+liquidity
+and uh through october's bridge to to
+make the network uh more
+popular in general
+so and uh in doing this so
+we decided to start forming the
+big
+funds so that will be
+devoted
+to
+boosting the ecosystem
+of
+first of all of our products and
+of ever skill
+so uh and this font was announced by
+sergey recently
+so and
+it's now formed of cube tokens and
+bridge tokens which uh well cost
+something
+at least in the market and a lot of
+people are really allowing them
+but we also
+will
+attract the additional partners who will
+increase this fund and uh
+help us boost the whole eventual
+ecosystem
+and as a first step in doing this so we
+allocated a certain amount of money so
+this is quite a decent amount of money
+uh to uh vlogging or video blogging
+campaign uh or conquista i don't know
+how to say it better so we want to make
+uh
+a small feature small but very important
+feature of the orchestra's bridge
+reviewed by as many people as possible
+around the world so we are targeting for
+your understanding so at least 100
+videos
+in different countries
+so in different languages
+that we can later use to
+popularize and educate
+new common people and explain this to
+partners and to project and uh all these
+kind of stakeholders
+and uh to do this so we're located
+if i remember it correctly so it's
+something like 10 000 bridge tokens for
+uh as a direct bounty for uh for
+bloggers and also 1000 bridge tokens as
+a referral reward for those who will get
+those bloggers
+done
+uh
+they their job
+and
+we will assess each video uh that
+will be submitted to us just on the
+scales so from zero to one hundred so um
+millions at one hundred is the best
+videos and uh those uh who make the best
+videos they first of all they will get
+the maximum
+reward so if i remember 12 sums like 100
+uh
+bridge tokens per video
+and uh also for a selected one so we
+will
+we are considering just making some more
+longer contracts on promoting our video
+our functionality and our products and
+especially uh not only for broadcast
+products but also for everscale
+in general because uh through this
+campaign we will also
+make a wider filtering of uh
+which producers
+of this video content perform better and
+who have the better community and uh
+reach the higher uh performance
+uh so and in this way we are really
+willing to break the trend and
+make the self-sustaining uh marketing of
+our schedule so that's
+just pretty
+compliments clear
+yeah it is it is
+and the bridge tokens are up by the way
+is that it
+yep okay vlad thank you very much who
+has a question if you do raise your
+hand we do have a thumbs up and that's
+excellent yeah very very cool excellent
+i wish i was a vlogger
+maybe this is your secret project no no
+unfortunately it's not but uh you know
+maybe one day maybe when i'm like 65 or
+something and i retire
+who's going to watch me anyway thank you
+very much vlad um all right let's go to
+our next presentation uh so
+i mentioned uh
+last week that this year's anniversary
+party on may 7th which happens to fall
+on a saturday by the way so there's no
+excuse not to come
+uh is going to be done in an ever scale
+metaverse
+if you remember a couple maybe a few
+weeks ago we had a guest presentation
+from daydar
+who showed us kind of a rough design of
+what that might look like now it's nice
+and polished it's actually beautiful the
+work done is
+really amazing and i know joanne
+contributed quite a bit to that with
+ideas and everything else i'm in the
+chat looks great but
+i want everybody
+everybody to be at this metaverse
+anniversary party uh but to do that
+you're gonna need some instructions and
+know exactly what you need to do so we
+have the sort of how where
+uh what and when uh presentation for
+that so i guess i don't know uh who
+wants to start joanne or dadar
+i'll do a bit of an intro and then
+yeah however data wants to pick it up
+from there maybe you want to show
+something
+that's cool
+um but thank you for the introduction
+and yes the party's coming up very very
+soon and everybody has to join and it's
+very very simple to join so you have no
+excuse
+we all know you have a computer so
+you're going to be there
+anyway
+so um just a few days away
+or a couple weeks whatever uh it takes
+place in the mona metaverse which is
+really awesome and it's very intuitive
+which is great
+um
+the bit of a point point to make out
+there is that every scale is not yet
+integrated with mona for the time being
+so right now it's f-based but we can
+very easily temporarily bridge you know
+some things by linking content within
+the metaverse to another platform so for
+example if uh you want to claim some
+ever nfts um we can link them inside the
+metaverse and you click on it and it
+drives you outside to maybe grand bazaar
+for example
+and uh the link to joining the actual
+event will be shared the day of before
+the party starts
+and a tip is to use chrome because there
+has been a lot of issues with uh safari
+users i'm pretty sure it only supports
+chrome based so
+keep that in mind and sorry for those
+who are safari
+fanboys or girls
+um the event will be free to join of
+course there's no wallet initialization
+fee
+you don't have to buy a bottle to sit on
+a table or anything like that
+it's very simple and you can literally
+just jump in you click the link and you
+can jump in um the interface will be
+very familiar for people who have you
+know grown up playing quake
+doom wolfenstein unreal and games like
+that they don't use the id software they
+use uh mona uses unity game engine but
+if you play those games then it's gonna
+feel like like home just jumping right
+in um after you click and enter you can
+basically just walk around and start
+exploring with the keys or the wasd keys
+spaces jump and shift is run and it's
+really easy to figure out there's a few
+little buttons down below where you can
+just click one of them and design your
+avatar
+it's stored once you make it so you
+could just exit it
+you don't have to save anything it's all
+super intuitive and easy um
+maybe maybe this is one of the things
+that data can show off if you want to
+like
+design your own avatar
+um
+and i'm pretty sure that i could just
+make like a really quick walk-through
+document right before
+um
+yeah that would be great
+right right before you know click on
+this this is but really if you just go
+to mona dot gallery you could just start
+out and
+you're in it you pick a space and you
+could just be in it it takes a bit to
+load but once it's there you're in and
+uh you know if you played those games
+from back in the day
+it's really just
+you know like the back of your hand type
+of thing
+and i'm also say uh yeah i also wanted
+to say um we'll have some appearances by
+some notable community members of the
+everscale ecosystem to talk about some
+things we'll have some nft giveaways
+somebody had already asked about beer
+and yeah we're gonna give it
+and there's gonna be some music and
+dancing and if you want to promote your
+project like if you're if you're doing
+something in every scale and maybe you
+want to show off something that you've
+made or you want to talk about a project
+then just
+ping me and we can talk about how you
+can get involved with it maybe you can
+have your own like booth or a space or
+or
+some asset like we have a dj table and
+things like that maybe you want to add
+something else and showcase some of your
+stuff
+we could talk about it
+um
+yeah and
+i am of course
+very confident to say that the space
+looks awesome like it's better than i
+could have imagined dater did
+a magnificent job with it and um full
+credit to him on that for sure
+he's the metaverse guru here and um
+yeah i'm really excited for everybody to
+experience this space that he created
+hands down it's the best so he's also on
+the call right now he's the funky
+looking dude he looks way cooler than
+all of us
+and if he wants to say anything then
+it's all yours theater if you want to
+jump in
+hi hi there
+uh so let's jump into it directly um
+can you see yeah nice so now you can see
+i'm in the space
+uh and you can join it i just uh dropped
+the link into the
+um
+the zoom
+and uh you can join me in this way and
+it will be a little bit laggy because i
+have zoom i have uh
+um obs and uh this kind of stuff so
+please don't take it too
+um
+too hard so um yeah when you come here
+to here you can see my second avatar who
+here who will explain you what is uh
+what is going on
+i have some issues with the yeah
+nope
+yeah there we go
+so i can i can place any anybody in this
+uh in this place it can be joe it can be
+bad a
+alexander so anyone i can i can replace
+this avatar by
+however you want oh hi there
+so i don't know who is this um
+but he can you can join me and
+explore all that
+that world with me uh
+about the music it's a little bit uh
+difficult to make uh the metaverse with
+a good sound and without interference uh
+when we speak so uh for now um we can
+join the same music by taking those uh
+um headphones and uh just click to the
+link and uh it can be any uh any of uh
+music uh so you you we will um
+we will choose the the music for us uh
+i think uh with all the community uh but
+for now i just uh
+made a house music launcher
+i just linked it a house music launch
+for now
+uh so
+there
+there is some canvas i can place this
+way anything you want uh
+even if you want a second metaverse for
+your business or uh or these those
+things i can't join i can link your
+other metaphors to this uh
+to this door or
+this one
+so there will be just three three
+different
+doors
+and
+this way the same thing
+it can be a portrait of the of
+of ever scale
+and when we come to here uh we have yeah
+we have some avatars who's dancing uh
+there are just a few of them uh but i uh
+i recommend you to to make your own
+avatar and uh
+and you can integrate it
+right here and even make uh
+make them interactive so there is uh
+i think you guessed her
+with this
+um
+he looks like a little yeah
+i think he will recognize the the
+the
+the the person
+and so yeah yeah you can just uh
+look at all the
+all this stuff i i i hope it's not too
+much um
+glowy uh i guess i have another avatar
+here he's not alterative actually but uh
+yeah if you have any uh
+any idea what i can
+integrate here as i'm on your uh
+i i i will integrate you eat
+whenever you want a
+barman this way ah even
+if we we talk about the champagne so i
+made a little um
+artifact here is not yeah so this
+champagne is right here yeah i i did not
+uh
+write uh many think about that so
+there there's still some uh work to do
+but uh i guess we have the the most part
+the the biggest work is already done
+so i guess it's just
+up to you to to join and see how it
+works and
+propose
+whatever you like
+yeah it looks great it's perfect thank
+you i don't think it's too glowy or
+anything like that i think it's spot on
+you did a great job
+yeah it's really cool i have an issue
+with my headphones so i did not hear
+anything um
+said it's really cool
+we said it's really cool and it's not
+too bright or glowy as you said it it's
+cool it's really cool
+ah damn it
+uh
+okay
+yes yes i i can hear you finally sorry i
+have so many uh application that's
+running in the same time so i have also
+some issue with my headphones uh so i i
+did not uh heard
+what did you say so can you repeat
+please yeah i just said it's really cool
+yeah it's good it's great yeah
+absolutely
+okay thanks
+um so so i have a so um uh uh joanne you
+said so uh chrome browser but we can use
+like brave which is yeah right okay
+right
+um yeah just uh maybe yeah just like a
+one pager of instructions uh just like
+you know especially like i'm not a gamer
+yeah i don't know
+i don't know which partners do what uh
+there are some buttons that you can use
+like for example running because you
+walk around it's really slow but you can
+also run but it's not
+shown in the in the ui so that's
+something that would i would definitely
+need to pick out and show you
+like it has to be a visual guide yeah
+yeah something like that yeah exactly so
+just and then of course i would
+encourage everybody to go to and i
+dropped the link that uh uh that they
+are put in which is uh
+uh
+yeah um
+that's a long link it's in youtube and
+it's in the zoom chat and go there and
+and do that and i'm gonna do it and
+do it this week so you can sort of you
+know so you're not awkward you know uh
+so so when you first come to the party
+you're not gonna be the guy that's like
+trying to figure everything out like
+figure out everything
+figure it out ahead of time uh michael
+uh you have a question please
+yeah hi everyone
+um how are you man sorry i just i'm
+doing well i just i'm wondering if you
+have the
+land uh economics and
+and if you
+um
+have
+gone to market yet with
+for investors to buy land and people to
+build on
+on the land and stuff
+well it's a bit different because we
+don't own we didn't build mona we're
+using their space and we've created a
+space on mona this is um
+it's not our
+metaverse we've designed our own
+metaverse on top of mona so it's not
+something to bring to investors or uh
+buy and sell land or anything like that
+but we can utilize it we can promote
+things within it within the space like
+after we have our party we can redesign
+some things and showcase
+every scale
+episode community projects or products
+or anything like that
+um
+but i i don't imagine us buying and
+selling land within this
+if you want the mona is like a wordpress
+bar for the meta versus and we can sell
+and buy uh meta versus uh on the open c
+uh
+and those uh the spaces are sell by uh
+uh by mona but is owned by an artist so
+uh in uh
+in theory i can mint this space actually
+is not minted once it's minted i cannot
+change any uh artifacts uh
+um
+besides uh the canvas the canvas i can i
+can change whenever i want but once it's
+minted i can sell it and uh this uh but
+it's that's not it not mean that um
+the space is owned and managed by the
+the person
+it's owned by the person who bought that
+that space but it still can be managed
+only by the person who
+who
+who built that so i think it will be uh
+fix it soon uh because i think it's
+just normal when you buy a space you can
+manage it
+um
+you you will be able to manage it by
+yourself
+sounds good
+oh
+anybody help else have a question
+no
+thank you mike thank you dadar thank you
+joanne uh
+um
+in case you don't know uh there's also
+another conference that's going on uh
+it's gonna be in bali at the same time
+now it's more of course it's not so much
+uh
+specific to the
+uh anniversary of everscale but it's on
+the anniversary and are gonna be some
+really uh cool people there uh and i
+guess uh roman
+uh you wanted to say a few words about
+what that is uh yeah uh hello everyone
+uh just let me
+share my screen
+here
+yeah uh so
+uh their event team is working hard uh
+on the everpoint conference uh 2022
+um
+that is going to happen uh on the may uh
+six till the may
+the sixth uh seventh
+um on the body
+uh there will be a very interesting um
+conference uh and anniversary i can say
+uh
+we are going to uh celebrate uh
+it's
+offline uh on the on the best island uh
+in the pacific ocean i can say yeah so
+their big uh agenda uh for for those
+days uh there will be um
+there will be a very cool
+uh
+cool welcome uh from indonesians in the
+airport
+um
+yeah
+there are uh for the for the next day
+there will be
+uh many um panel discussion we are going
+to uh discuss the and nft trends
+metaverses
+uh there will be a cool speakers from
+community from non-community
+uh special guests of course
+and as usual there will be
+like coffee
+breaks networking uh for the community
+and non-community
+guests
+uh yeah
+uh as you can see there
+uh
+the sponsors from there uh defy lands
+um
+the location uh was choose uh
+on the body uh
+in this
+hotel
+um
+let me show you
+yeah
+this hotel uh will where we will be
+presented uh
+on the volume
+um
+[Music]
+uh
+what's else yeah regarding the tickets
+uh there will be uh three types of
+tickets
+there will be vip tickets ticket
+for the special guests
+it includes the visa transfer hotel
+all access to the all events and
+there will be
+after party
+on the presidential viewer
+for the base
+ticket
+it includes visa or transfer hotel and
+access to all events and we have a local
+uh ticket uh for the participants uh for
+the as far as i know that there are many
+validators uh in asia uh who are ready
+to join us
+as a local uh guest
+uh
+yeah there you can find the uh answer on
+the questions um
+if you have a question regarding the uh
+event on bali
+just contact me and
+i'll provide you all information because
+the uh current website uh still
+will be almost ready uh in
+one hope to
+today's uh we are planning to launch uh
+uh presale on the tickets so there will
+be a special form that you can submit um
+you you can submit and uh be added to
+the waiting list uh
+of the of the ticket uh in in in in this
+in this tickets yeah
+uh
+so
+that's that's pretty could be pretty all
+yeah
+okay
+thank you very much sounds very very
+cool
+uh thank you
+uh let's see
+does anybody have any questions i know
+there's a question on youtube we're
+gonna get to youtube questions in just a
+minute here uh there's nothing from zoom
+okay thank you vermont we're gonna go to
+our final segment of the week
+uh
+okay hang on
+a podcast superhero by night a weekly
+call daily ever bugle reporter by day
+the sly solo scat man himself then ben
+smits go ahead bro
+i like it that was very uh off the cuff
+right um yeah
+a few things for you being very busy
+this week so i'll start with i was in
+paris blockchain week last week uh which
+was a very cool kind of thing um we're
+speaking to some very interesting people
+who are going to be taking a close look
+at the tsos bridge in particular when
+that comes forward so
+fingers crossed for that
+um so apart from being very very busy
+with that i've managed to uh troll the
+columns and find out what's going on
+around here uh some quick ones there's
+been surf have been doing their light
+paper uh updates there's four parts of
+that that's out now uh everdoc network
+the main website has had some updates
+there's a couple of typos on there for
+whoever's kind of in charge of that so
+ping me if you want me to spot them out
+for you um huge news which i'm sure most
+of you saw ever and flat cube are in the
+top uh top five growth for tv total
+value locked in
+decks which is awesome really
+it's got some great attention
+uh speaking of great attention uh
+kryptmak mac
+what a guy he's doing some awesome
+content for us so if you haven't already
+maybe make sure you're supporting that
+guy you know he really is um championing
+our course and helping us reach a much
+wider audience at the minute a really
+really cool guy as well having a few
+conversations with him
+uh right so a couple of slightly bigger
+ones oh sorry on the note of flat cube
+um i heard a rumor and i don't speculate
+too much yes i do i speculate a lot and
+but i heard a rumor maybe that there is
+was was is up to 48
+abr aby available on a stable going pair
+over on flat cube
+so those of you are into you can define
+i mean i don't need to tell you what how
+awesome that is
+uh trade view um i i know our friend
+roman had a little hand in getting this
+set up there's a really cool uh
+competition going on over on trade view
+uh you don't have to pay anything to
+enter basically if you're familiar with
+trade view you go on there you put your
+price predictions your charts you know
+kind of speculation your ta and stuff
+and essentially if you speculate on it's
+either
+uh everscale solana luna and a couple of
+others
+um and you get closest to the prediction
+by may the seventh hey who the thoughts
+today may the seventh there's a lot
+going on that day
+um but yeah you get closest to the
+prediction and you'll win a prize
+brilliant
+and final one uh this only just went out
+in the news channels but but this is a
+lot of fun uh sparta cats hey what's
+going on there um king meowdis he seems
+an interesting character
+and i've seen a couple of things going
+on behind the scenes alex doing a cheeky
+little grin there i can see you uh yeah
+you're intrigued by this one too um but
+yeah they're doing some very very
+interesting things it's definitely
+different so that that's going to be
+very cool keep an eye on that one
+um i think off the top that's all my
+notes for today guys so if i've missed
+anything apologies i will try and
+include it next week if it doesn't crop
+up before then thank you very much thank
+you ben that was excellent wonderful
+thank you all
+snappy snappy
+never do that
+i'm a i'm a bore um
+we have a question for dadar uh and
+joanne uh from crypto cryptstar crypto
+uh
+uh how can we reserve a vip table at the
+metaverse party
+uh reserve uh for now we um we can't uh
+but i think uh the
+the ability to sit down at a table will
+be come soon
+uh by i guess uh reserve you can maybe
+buy an nfc and uh after that that nfc
+can
+uh can make you
+be able to see it maybe i don't know i
+think it will be possible but for now
+it's not
+there's your answer but that would be
+cool like i get a vip table or something
+like that like i have some sort of a
+sponsorship program that would be a
+very good idea yeah i forgot to say
+about uh
+the feedbacks and new features i just
+dropped another link to the zoom um you
+can submit uh your feedback to mona and
+uh the most liked
+feature will be developed
+at the at first
+time i think uh in uh it's called mona
+dot
+uh
+koni no sorry i i i can't eat that
+yeah
+yeah right so i think the whole
+community of everscale can just uh come
+to come to it and ask for integrating
+every scale maybe it will be integrated
+faster
+i'm pretty sure we do have some people
+working on integration um i think
+constantine is heading that up
+but um
+yeah i think if we have
+more demand then we might get
+higher up on that to-do list their
+developers are pretty stretched right
+now too moon aside yep
+okay
+thank you
+very very much everybody uh
+i guess uh that's
+all i see in terms of youtube questions
+right now and if we don't have any more
+i actually think now is the record and
+we just said it 43 minutes on the call
+uh listen i love everybody so much thank
+you guys so much for allowing me to do
+this it's been an
+honor a privilege uh and yeah again just
+let's keep let's make sure we we're
+clear on this i'm not going anywhere
+you're just not gonna see my ugly mug
+every week that's about it
+um
+thank you uh
+come back next week same time same
+channel
+and meet the new hosts that are gonna do
+a way better job than i did because
+they're well they're just better looking
+what can i say
+have a great rest of your week thank you
+thank you

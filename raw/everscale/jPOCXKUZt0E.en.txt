@@ -1,0 +1,969 @@
+hi everyone
+so let's just wait one more minute
+then we'll start
+hello everyone
+hi
+okay
+let's begin
+so welcome everyone it's our 53rd weekly
+defined governance call
+so we have a very interesting agenda for
+today so and
+hopefully
+some discussions so
+so we will start traditionally with
+contest updates and then switch to the
+next topics
+uh so
+actually we have uh
+two contests uh which are currently in
+the voting stage the first one is a
+decentralized launch pad architecture
+and design
+that uh there are three days left uh to
+vote so and so there are a lot of uh
+good demos prepared by the participants
+and uh some of them are joining today to
+answer the questions from jurors if any
+but
+hopefully hopefully we will have some
+discussions about the distress in spite
+and the second one is the free tone dex
+implementation stage three which was
+prolonged once again because we didn't
+collect the quorum uh but hopefully now
+i see that there are at least 10 votes
+for each submission and that means that
+we have a quorum finally
+and in four days the voting ends and
+then we will move to the uh
+distribution of prizes so which is very
+very good for the participants
+uh the contest of three tons of
+sovereign identity stage two uh has
+ended uh congrats to winners and uh the
+payouts for this contest and for the
+oracles
+was performed uh
+late last week
+so
+finally the prizes just found the happy
+happy owners happy winners uh so
+congrats again uh so and uh
+what's next actually so we are waiting
+for the finalization of the dex contest
+so which is the last stage of the
+uh freeton dex contest and then we will
+move further to the security audit of
+the solutions but it will not be done in
+this specifics of governance but rather
+in format one
+so i really appreciate
+wait you guys would have developed the
+solutions for this contest to
+go to the formats of governance and ask
+them to to
+run the audit and i will also help you
+with this
+uh uh as for the free terms of sovereign
+identity stage three uh the contest is
+currently in the preparation and uh
+hopefully uh some draft will be
+published next week so currently
+uh everyone who can do this the uh
+in lisbon at uh different exhibitions
+again so
+uh i myself and this time stayed at home
+but uh there are some freaking good
+written agents working in the fields
+uh so and so once they are back so we
+will be able to finalize the third stage
+of the free transfer ssi contest
+uh for the decentralized launchpad so
+after the
+architecture uh is selected so we uh i
+personally didn't have a chance yet to
+deeply look into submissions and
+it's still
+this pleasure wait for me for tomorrow
+uh but i believe that there are some
+good and interesting approaches so when
+we may select several of them for the
+implementation stage
+so we will discuss this next week
+definitely
+do you have any questions
+at this point
+on the contest updates please
+three two one nothing okay so let's move
+to the next topic uh this is something i
+personally was asked frequently so uh
+and
+the
+most of questions uh started appearing
+over
+last i think three weeks
+so the question is simple how do i get
+uh
+into the
+tone swap official token list
+uh
+it is not an easy question frankly
+speaking because uh we have
+some uh commitments before uh liquidity
+providers the future
+providers who are coming to freetown and
+we negotiate with different projects uh
+and at the same time we do not want to
+overwhelm
+the interface so uh we have prepared the
+official procedure
+on how a project can get to the tonsil
+so uh just to make a long story short so
+uh i will not read out the whole
+document so uh it will be shared right
+after that if i call
+um
+there are some conditions actually uh
+for for a project to appear in the
+official list
+uh we the least will be limited so there
+will be
+no more than uh 50 uh projects at at
+that time so this is pretty pretty
+similar to what uni swap does
+and we are gradually moving towards uh
+having a fully scalable dow photon swap
+that will uh later uh take decisions on
+which project to write list which one uh
+not
+uh so uh that means that the room is
+limited actually in this list and uh
+you will need to comply with certain
+requirements for of your project which
+uh
+well to make a long story short it is
+the project should be live uh and it
+should provide enough liquidity and
+activity to the transform
+uh
+all the rest is just lyrics and uh
+there are some just reasonable points so
+i think i'm sure that you will uh read
+it in the document
+and the form uh
+for
+application of pro of projects is uh
+already created so it's just simple
+google form
+where you provide a generic information
+about your project and
+if you have any questions so we will
+create a dedicated uh contact group
+so and
+we have gathered a group of
+uh experts who will assess your project
+and decide on whether or not
+it should be on the list
+uh there's there will be a competition
+between projects so meaning that this uh
+not a one
+time task to get on this list and so you
+must maintain your project you must
+demonstrate the activity uh in the town
+swap
+and the best of the best projects will
+stay on the list
+later on so
+we
+may add additional token lists that will
+be maintained by reputable uh
+institutions in the market uh again this
+is not nothing new
+this is uh pretty much how uh major
+projects uh major indexes operate in the
+market meaning sushi swap unisport
+pancake and others
+so uh there will be customized token
+lists that you can connect to the decks
+for your audiences and of course
+you can already create your
+liquidity pools
+and so on so forth and just get a direct
+link for your audience if you want them
+to trade on the
+on the transfer
+time to time we will be revising uh the
+projects that are currently operating on
+the turn swap
+and
+we may uh ourselves approach the project
+if you see it it's been successful and
+we may decide to include it on
+ourselves uh so
+that's that's pretty it's so it's it's
+it's that simple
+so uh
+i will ask guys to just roll out the
+announcement and you will have the all
+the links to the documents and
+you can ask any questions please feel
+free
+to myself or here in the defy group
+so i i expect a lot of questions please
+raise your hand
+really yeah okay yeah please alex
+uh yes
+what advantage
+uh will be for the project will be
+received uh on transform i know it can
+swap and
+the famous of the project is
+a big advantage to another project but
+what maybe other advantages uh will be
+for the product which be
+at least feed rewards or some i don't
+know maybe marketing marketing and so on
+yeah
+actually
+thank you thank you for the question so
+uh it's it's very easy so uh currently
+turn swap is uh
+the decks with most of the liquidity so
+uh within the free tone network and if
+you if your project wants to be a part
+of this likability and wants uh to be
+visible uh in the
+on in the swap and in the
+farming section as well
+uh so uh
+he needs to be on uh what listed on the
+official token list uh moreover for uh
+some projects that uh
+have a very well done business model and
+uh
+which have the audience
+the such projects can contact uh defy
+lines
+in in frames of the crystal handshake uh
+program and get also the co-farming
+funding uh that will uh just
+boost their um
+liquidity inflow and as a value for the
+users
+uh but this is should be done and it's a
+separate process uh the main thing is
+that
+we apply currently a lot of efforts for
+promoting tone swap
+across not only uh
+free tonica system yeah so we also
+approach a lot of different media and
+top leading media meaning that we want
+to put ton swap
+on the same page as uh
+major major decks from other blockchains
+uh and if you get listed there so uh it
+means that you will be visible to
+all this newcoming uh
+audience and liquidity and so on so
+forth and of course if you uh want and
+you have some special projects you want
+some co-marketing or whatever so yeah
+please you can always
+contact me and my team and
+we're open for discussion
+thank you very much and it can be
+every project with
+which
+has strong technical background
+strong technical marketing
+[Music]
+good audience
+good business model so we will just uh
+can you mute please because i hear
+myself
+uh yeah this is this the main criteria
+for us is that this project should be
+really something that is demanded by the
+audience
+because there is no reason uh to list a
+project just for the sake of listing uh
+the main reason is that we want uh taunt
+swap to be
+live
+and actively used
+because this is good also for our
+liquidity providers who start earning on
+the exchange commission uh
+this is also good for the project itself
+because because it becomes more liquid
+uh
+and
+yeah in general this is good for all the
+free tone because we popularize
+different projects
+who
+are successful within the free tone and
+we will also highlight those as that
+are growing really fast
+thank you very much thank you welcome
+welcome
+who's next
+yeah yeah
+sorry
+sorry okay
+okay another questions
+uh okay so no questions in this case so
+i'll ask uh my guys just to distribute
+the announcement and you will find all
+the links to to the procedure itself and
+to the application form so it's it's
+very easy so actually and just
+uh
+make sure to fulfill the preconditions
+for what listing and then submits your
+application so we are not very
+bureaucratic the only thing is that uh
+part of the of the
+of the listing team uh
+is uh the device uh are members of the
+development team of the trump swap so
+and uh
+typically we will collect as
+applications until the first day of the
+next month
+and then process all the applications
+all together
+within a frame of two weeks so
+hopefully we will see first listings the
+early next next months
+okay so let's move on
+the next topic is a decentralized launch
+pad tma session so uh
+i gave the opportunity to jurors and
+participants to to discuss in one place
+uh so we have created a dedicated group
+so where only the participants and
+jurors are present
+and uh participants so uh
+preparers very very good demos so and i
+really appreciate this and thank you so
+so much for
+with your productivity and
+responsiveness
+and uh now let's just move on if if any
+jurors are here and they have any
+questions to participants so please
+start raising your hands
+uh and just for the sake of of the
+format so let's start
+going
+submission by submission so submission
+number one
+which is just let me open the contest
+just give me a second
+the interface is not that fast
+all of you guys is the first submission
+just raise your hand
+maybe it will be faster
+okay so presented i guess
+sorry
+not presented i guess
+uh probably not presented okay
+so uh this is actually the submission of
+40-foot
+project if i'm not strong
+uh yeah it seems like this
+does anyone uh
+have
+any questions so let's at least fix them
+here so raise your hand please
+but we don't have anyone who answers
+them right so what's the point
+okay okay in this case so just drop the
+questions uh in the chat
+so uh
+okay no one
+uh
+the second submission is uh
+there is no contact information in here
+in the submission itself
+and no naming for launchpad
+uh yeah i'm here from the submission on
+a submission to sorry
+okay jaroslav nice to meet you okay guys
+do you have any questions to your slav
+please
+three two one no okay there's love your
+work is clear and clear now
+but but but i definitely expect that you
+will start getting some questions closer
+to the voting deadline that's typically
+how it works so just be please be aware
+and
+just in the last day of the submissions
+submission voting
+uh normally it happens the jurors start
+voting in the last day
+okay thanks okay okay thank you uh
+the third submission is uh the killer
+rail podcast yeah amity is here so guys
+if you have any questions to meet here
+so uh some of you may have already even
+participated in the in this
+event that they hosted uh earlier this
+week
+so if you have any questions please read
+your hands
+again
+no no one okay
+media everything is clear for guys i
+hope so like i did uh killed like half
+an hour and just trying to you know put
+a video on and
+brilliant
+brilliant okay okay thank you so much
+let's go to the first one mvc of the
+centralized launchpad uh is the author
+is here
+there's also no contact information
+inside of the page um what maybe instead
+of just going one by one maybe we will
+ask anyone is anyone have any question
+about yeah absolute mission
+good good good question long time now
+just don't see anyone having any
+questions
+yeah
+so every submission is completely clear
+there are no questions whatsoever you
+see
+absolutely
+okay
+in this case so uh let's just move on so
+uh
+yeah thank you so much
+and look um
+so uh let's move to the questions that
+uh
+ilya has posted in the defy group so uh
+actually i'm not sure that i i will be
+able to answer uh all of them because uh
+sergey uh who was willing to participate
+unfortunately didn't manage to to do
+this because he's
+deeply in the meetings in lisbon
+so let's let me try it
+tell us about the burning of three
+billions when how all at once uh
+actually
+when
+uh
+definitely this year so uh
+how so we didn't decide yet but maybe
+mita can propose because he has already
+uh have some ideas about how to do this
+because typically these either send into
+some
+address
+that will never be used uh but maybe
+media can propose something additionally
+so good to have him here
+meet him
+in terms of burning tokens
+yep turn to increase three billion
+return crystals
+[Music]
+yeah well we can like
+there are a few things we can do i think
+we can send it to
+[Music]
+to an address that will have a smart
+contract
+that
+then
+will have no like and then make a set
+code to the smart contract which will
+delete the keys and uh
+and that will be provably
+like uh address where
+the tokens will you know will not be
+able to be returned like if you read the
+code
+like it should be burner burner smart
+contract that's what basically i'm
+saying
+so anyone can
+you can see that this code cannot be
+executed to withdraw any money from
+there ever
+okay i think that's the kind of probably
+the only way to do that on free time
+right so we create a locker contract
+burn our contract that burner contract
+and and we publish the code should be
+really simple everyone could see that
+and we deploy this code
+there can be funky stuff done with the
+address like um you know
+you can
+i don't know play with it with the code
+to make a hash like i don't know nicer
+and
+yeah because i will ask the question i
+will answer the question why not just
+simply to send it to zeros well because
+these are system smart contracts and
+nobody knows
+who
+had maybe the key from this address just
+didn't deploy it on the deployment of
+the network like you
+it will be much harder to prove
+that this is impossible because like you
+need to go into read the specs of the
+whole blockchain to see if it's
+impossible or not
+um
+but um
+but you know um
+yeah here
+this one is much clearer because there
+here's the code read the code
+that that's that's the address that's
+the code it doesn't happen yeah
+absolutely absolutely
+yeah we can mine some some nice address
+so we actually uh have a tool for just
+mining some beauty
+beauty addresses
+our github as well
+so uh
+we can just adapt it
+after the the contract is ready so we
+can just run it for i don't know one
+week
+and see
+[Music]
+if we manage to at least mine a good
+nice looking address
+uh but it's not important that's all so
+you can have some
+any address almost so just but with the
+right contract deployed on it
+thank you media so um
+the second question is that the fire
+alliance announced its goals to bring
+creton to the top hundred uh is a
+timeline for this goal year and five
+yeah actually this is uh our ambition
+until the end of next year uh to enter
+the
+top 100 of coin market cap
+by valuation
+and uh to do this so there are a certain
+amount of work needs to be done and and
+enough
+liquidity
+locked in the network because such
+liquidity will mean that uh there is a
+life interest for ton crystals and
+this can just push the uh
+the token price up and also help us to
+[Music]
+improve the valuation of the project
+currently uh
+we are at the
+260 some place
+if i remember it well maybe something
+changed but at least we are in the top
+300 which is very good
+uh and yeah
+earlier this week we finally got the
+official valuation of
+our
+of our project by coinmarketcap so that
+was a challenge
+uh so yeah the answer is uh uh until the
+end of next year
+uh explain the motivation for potential
+startups and partnerships to move to
+free free tone um
+that actually
+really depends uh on
+uh on the project itself so on how they
+perceive the network
+but typically when we uh are doing the
+business development so we are saying
+about the uh hot
+hot features of friton named like this
+so i mean the speed and low gas fees and
+also scalability
+and all other things that we put in
+uh inside the new brand name
+but also this this means uh that
+uh we are talking about the ecosystem
+that is currently uh
+being born and a lot of patients
+community members
+uh that are expecting those projects to
+appear here and
+the
+the main thing here is that uh
+not everything is
+just attracting projects uh only by some
+rational reasons they also see uh
+look at the popularity of the protocol
+they see at the market in the force
+about what is written in media about
+what is said by the community members so
+uh
+not everything depends purely on on our
+business development you know that means
+that
+you as a community member can also do a
+lot a lot to attract those projects just
+by going to the uh to their sites
+to the uh official chat groups and uh
+just
+discussing about the the
+why free tone is great so and uh if you
+are here so probably you are convinced
+so just just think about what convinces
+you that three thousand grant
+and uh probably this is the same reason
+why other projects will come here
+so uh
+yeah so i hope i managed to answer maybe
+sergey will just add something next week
+by the way he uh already said to me that
+he's ready for an ama uh a regular ama
+session next week so uh if you have any
+other questions so please prepare them
+for the next weekly call
+uh
+when will you do farming the boat uh
+well
+that's a question so um
+we have quite a limited capacity now so
+because as you may know we are
+strongly focused now on uh rolling out
+the missing features of the
+friton bridge and
+to evm networks uh there is still a lot
+a lot of work to do and we uh
+unfortunately have uh quite tight
+schedule and our roadmap
+strongly planned until the end of the
+year
+uh and i'm not sure that we will be able
+to even approach this task this year but
+on the other hand we all of our
+contracts are open sourced so and if
+you're willing to help us with building
+such a deport so yeah free to do this so
+please
+uh
+will the crystal wallet support the bots
+uh not likely because uh crystal wallet
+is not a chat client uh like surf for
+example so
+you already have debug support in the
+serve so feel free to use it please
+uh
+stepan comments have shared information
+about the financial system of the bridge
+if there is anything else to say we will
+listen with pleasure
+we are currently preparing the light
+paper of the bridge
+i hope that we will be able to release
+it soon so it's not a full white paper
+like like
+a
+philosophical document about the mission
+of the bridge but it's
+a document that concentrates on how the
+breach works and and why
+uh
+it it will be success successful and uh
+it also contains some uh
+highlights on how the economical system
+works so
+i think that stephan shared with you
+uh almost
+everything uh that is that is crucial
+and some things are coming so i'll just
+keep them secret for now because
+uh they will
+just
+be
+something that no one has done before so
+and
+they think maybe successful maybe not
+but at least we believe that it will be
+a really good solution as it can be used
+uh by other projects
+uh in the year's perspective what would
+be more profitable uh bridge taking of
+farming and bridge pairs so we're not
+giving investment advice sorry guys
+we cannot recommend you anything so just
+uh educate
+in terms of financials and
+just make your own calculations and your
+own judgments so uh
+yeah we cannot and will not
+anyhow
+uh affect your
+your decision in terms of investments
+uh explain what kind of stupid mechanics
+tip three is why it turns out that each
+project has has its own tip three how it
+works
+isn't this a problem well uh
+to say uh and comment on that yeah
+i i will give you
+sure
+so uh actually uh
+we are being born currently so we are
+not the project that has a solid
+background already and thousands of
+projects launched and whatever so uh no
+one says that
+this or that implementation of tip three
+is
+the most rightful one
+each one implementation has some
+rationale behind it so uh
+in roxas for example so uh our
+implementation of t3
+was mainly
+born together with the breach so and the
+requirements of the breach to function
+and consequently when we were building
+town swap as well uh so we
+added some extra features to to
+to the standard like gas management or
+wallet deployment in the process of
+talking transfer
+just because
+we made thousands and tens of thousands
+of different tests and we
+personally met uh certain problems with
+using just euro vanilla uh tip three
+specifications that was proposed by
+media so uh that doesn't mean that uh
+other implementations are good or bad
+so uh they are just using different
+products and uh one day probably so we
+will just try to unify them but until
+then we won't
+please just remember this is a this is a
+distributed programming paradigm in
+which yeah the whole point of tip three
+is that it's a distributed token it
+doesn't have a hash map
+of the owners and that means that the
+contract is very tiny and they should be
+tiny
+and um
+sometimes you need to implement uh like
+a lot of additional features on top of
+the the tip3 contract itself and these
+features
+they
+require separate interfaces right so
+what you would do in ethereum you would
+create like an a hash map and then just
+add all the interfaces you would
+possibly need to that this is impossible
+to do because in that
+what that will create a monstrous uh tip
+three wallet contract which will be
+deployed for each
+of the of the owners individually which
+is not feasible well first of all the
+network just that right now it has 16
+kilobytes
+limit of the of the contract size
+uh message in the deployment so like if
+you want to deploy this contract fast
+and not create any funky mechanism of
+deploying and then setting the code and
+then adding to that
+which is a nightmare by itself you just
+don't do that in the point is that we
+don't need a unified standard
+because
+because there is no problem in having
+creating you you create a tip three
+token for your project for example in
+flex in breach it was one thing that
+proxies needed to add like in interfaces
+and then flex is completely other thing
+that we needed to add and we we choose
+to add that and drop some other
+interfaces so it will be tiny contract
+in the gas payment for that will be
+small and the deployment will be in one
+message and so on and so forth the same
+thing goes for every project that you
+you want to use tip three
+so
+tip 3 is not a standard in this
+normal like in the ethereum kind of way
+it is a it is a way to program and you
+can add interfaces and you need to
+describe these interfaces in the tip 3
+documentation
+but you don't need to actually have all
+the
+tokens to have the same interface so how
+do they talk to each other well it's
+very simple through wrappers and it's
+really simple to do
+and it's there is no problem to take one
+token and one in the bridge talking and
+make it if and make it tradable on flex
+and of course we
+we already have that contract written so
+we will demonstrate it when the flex
+will go out it will trade
+tokens which which you post on swap or
+in breach no problem
+because when you want to do that you
+just send one message to the contract it
+will wrap one talk and give you another
+deploy the pair that's it
+because the gas fees are so small in
+freetown there is simply no difference
+and it would be it's actually
+economically more feasible to do is
+through the wrapper if you collect and
+you combine all the fees
+then the fees that your huge hashmap
+with all that were hashmap all the
+contract with all the interfaces would
+pay because for every interface you pay
+right because you store them
+right so
+so if you combine all these fees
+together
+it is cheaper to wrap than just just for
+the so from every perspective you look
+at this in the sharded architecture like
+friton if you wanted to scale infinitely
+you need to follow this
+programming paradigm if you follow this
+programming paradigm you look at the
+contract specifications and
+standardizations different way okay
+that's it
+okay thank you lisa
+so i i hope that that answers your
+question
+uh
+yeah i hope that they at least managed
+to to give some clarity on your
+questions
+yes yes yes i need to write it one more
+time in the forum i think or something
+so we can
+probably
+uh okay um
+any other questions guys please
+link to this
+yes zachary please
+[Music]
+thank you thanks for that and meteor to
+explaining the token contract and just
+want to be specific now for our project
+which is a tango
+and we're trying to issue the our
+in-game token
+and the thing says according to media
+then we basically can just write a
+contract based on
+the existing tip three
+uh standards right and when the flex is
+ready then we can basically just write a
+wrapper on top of it
+yeah exactly exactly
+if i'm the strong media already has the
+rubber from
+brock's slippery
+yeah so miti if you can drop the link
+maybe to suit a wrapper
+i will yeah you just send the send the
+con yeah
+there and and
+and then that's it
+okay okay
+uh so so we we can't have the wrapper
+standard that's right uh
+from a link
+or we need to send the contract to you
+no you you you can change
+yeah it's already in place in fact so uh
+you can just use the builder for example
+for convenience and then if you need to
+publish also you're talking on flex you
+need to provide this wrapper with you
+like you need to create the wrapper so
+you take the wrapper you put your code
+of your contract inside this wrapper
+and we will write some readme okay
+okay thank you thank you yeah welcome
+welcome zachary
+any other questions guys please
+okay
+uh in this case just uh
+as the
+last point so a minute of shameless
+self-promotion so we finally managed to
+release
+our first mobile versions of crystal
+wallet so uh the main uh challenge was
+to
+to fight with uh
+apple and google uh
+stores
+support because it was a nightmare
+so but finally we managed to do this and
+says
+well it's uh in store so and we really
+appreciate if you provide us with your
+feedback so uh
+just in the ton crystal wallet uh
+telegram group so we are eager to hear
+that because we already know about some
+some issues but they hopefully they're
+not critical that just mostly of the
+linked with interface
+and
+at the next step we plan to implement
+the multi-signature support and external
+account subscription like in the
+chrome extension
+so if you have any ideas or demands so
+don't hesitate to drop them in the group
+so we are carefully listening to all the
+feedback and just putting this in our
+roadmap
+and hopefully when they will implement
+it
+yeah so thank you
+uh okay so uh that's pretty for today's
+agenda so if you have any other open
+questions so please raise your hand
+okay seems nothing uh in this case thank
+you everyone for attending so well it
+was a really pleasant interesting
+discussion for today so i wish you a
+nice weekend and see you all next week
+at the same time
+see ya
+okay see you
+thank you bye

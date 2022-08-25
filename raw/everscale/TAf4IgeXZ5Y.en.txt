@@ -1,0 +1,1190 @@
+oh we're live
+you see
+mine still
+i'm still
+on the uh
+play card screen
+mine hasn't started
+am i the only one
+i have black skin
+screen
+yeah
+it's not blank i mean i see the logo and
+everything but um
+it hasn't started
+yeah uh
+unfortunately yeah link
+has been updated yeah
+uh okay all right so there's we have a
+new link oh gee all right
+that's the last minute
+the thing that's not good all right
+just while we're talking just throw the
+youtube link in all the chats so
+everybody can
+come here i see it
+yeah now i see it
+um okay
+that sucks anyway all right um i guess
+we can begin so
+hi everybody uh welcome to everscale
+community column number 93 uh glad you
+can join us
+we have
+a lot of really really interesting stuff
+to share today um particularly there's a
+presentation from some of the ever scale
+uh startup competition winners uh which
+uh uh
+whoever doesn't have their microphone on
+mute if you could mute that'd be great
+all right um yeah so we have some
+presentations from everscale uh startup
+competition winners
+uh
+which i'm personally looking forward to
+that should be very interesting uh we
+also have an update
+to the nft alliance uh proposal um that
+has gone through
+several rounds of scrutiny so i think uh
+there will be some interesting things
+there and we'll hear about all of it so
+let me just first do what i usually do
+which is sort of lay down the groundwork
+for the call
+uh so unless you're i don't know
+tunneling your way out of prison or
+playing hide the salami
+please turn your cameras on
+please save your questions until each
+presenter is finished and please use the
+raise hand feature in zoom to do so that
+would be really really appreciated let's
+not just shout things out
+uh if you are watching us on youtube you
+can leave a comment in the thread and we
+will get to it at the end of the call
+and uh just a friendly reminder the call
+is conducted in english only so let's go
+ahead and kick things off like we
+usually do with our beloved cherished
+network and technical updates so mita if
+you'd like to start that'd be great
+now we don't have technical updates
+because um
+many
+our of our team members
+uh having difficulties and performing
+their duties currently
+and
+both
+both technically and morally
+so
+that will definitely
+maybe
+uh
+like delay
+many things
+on technical side
+we're trying to
+like uh work
+and thus in this circumstances
+but as it is
+um increasingly
+harder to do
+we are
+trying to relocate as many people as
+possible
+from russia
+to
+um whenever we have russian developers
+um
+from russia
+and um that is an
+ongoing effort both for
+everex and
+um
+and kwpc as well kwpc will relocate all
+its stuff from russia
+in coming days
+um
+so that definitely causing some some
+delays
+on many many
+many many fronts
+um
+it's the same thing goes for prevent the
+team which i'm in constant contact with
+which also going to relocate their
+people out of russia as soon as possible
+and
+they will also having difficulties of
+course to perform right now
+um
+[Music]
+the
+um
+apart from that
+personally
+i'm starting a project which called
+train to trannai
+or tnt for short
+and that project will be about
+a fund
+it's a decentralized way
+to predict
+certain events
+that the community wants to happen
+such event can be for example
+that we all want
+some building to be built
+and we're doing something
+in the prediction market when we say
+what date this building will be built on
+another way to use it for example if we
+have some politician we don't like
+we can predict the date he's going out
+of office
+and we can place a large bet on the date
+that it will happen
+and if someone predicted correctly the
+date
+which this politician for example
+has ended his beauty duties
+then this person who predicted it
+correctly
+is rewarded handsomely
+for example if we know when
+certain politician will finish his duty
+as a president of some country
+in a particular date
+and he bet on this date
+then in return he can get for example
+100 million dollars
+thank you
+all right is that all
+yep all right thank you very much mita
+sorry i apologize i spilled coffee on my
+mouse
+that happens sometimes
+um all right uh moving right along uh so
+um we
+uh if you remember uh michael gord from
+gda capital um has come on this uh call
+quite a few times um thank you michael
+if you're if you're watching
+and uh talked about the everscale
+startup competition i know it was called
+the free ton startup competition but uh
+and
+obviously we rebranded some time ago
+it's the everest uh everscale startup
+competition now
+and uh there were winners of that
+competition and we have two of them with
+us today
+um the first is a dream base that's
+a s d-r-a-m-e-b-a-s-e and the second is
+combo space
+so
+um first we're gonna welcome uh alofa
+flusso i hope i'm not uh completely
+butchering your name and if i am i'm
+i'm known for that so i apologize but uh
+drain base is basically africa's uh
+first
+decentralized streaming media platform
+so
+to an extent the the youtube of africa
+if you will which is
+pretty huge i mean i don't think i need
+to explain how cool that is so i'm going
+to pass things off to you alofa
+um so please tell us about your project
+iron
+hi hi everyone pleasure to meet you meet
+you
+all right guys thank you so much for the
+opportunity first of all thank you for
+the opportunity to be on your caton and
+of course
+thank you for the opportunity given to
+me to tell the community about our
+project
+so yeah like he said um dream base is um
+africa's first decentralized music
+streaming platform
+we're trying to take music streaming
+from you know
+from the normal web 2 to web theory
+the media data mining industry is like
+billions of dollar industries and we're
+trying to see and then of course music
+streaming takes uh about sixty-two
+percent of the
+of that particular market shared and
+we're trying to
+see how we can actually use blockchain
+you know
+to make things better in that particular
+industry so what is at least dreambase
+dreambase is a major instrument platform
+you can stream
+your music there as an artist you can
+stream your video there as an artist and
+of course you can even meet your
+contents as an nfts that's like our end
+we can you meet your content as anything
+on the platform
+what are the major things that we're
+trying to solve you're trying to solve
+the problem of transparency
+trying to solve the problem of copyright
+infringement of course using ipfs you
+all know that uh
+that there will be no issue with
+copyright because one of the things we
+noticed on traditional streaming
+platform is the fact that
+artists lose a lot of a lot of revenues
+from copyright improvement when a
+particular content is posted on youtube
+some guy just takes the downloads it
+takes it to his site and then brings you
+know traffic to your own site and of
+course the artists
+actually use this money to produce the
+music is going to be losing a lot
+from uh those copyright issues and of
+course transparency issue
+artists don't know how much they are
+aiming
+they just get credited a particular
+amount i think
+the way youtuber does it
+by a particular number of stream you get
+this particular amount and then possibly
+say they pay them probably monthly uh
+you know at a particular period but they
+were trying to solve that issue because
+some of them don't even know
+exactly how much they're earning from
+their music so that's one of the
+problems
+intends to solve of course using smart
+contracts
+everything is transparent you can check
+how much it's been debited from the
+customers and of course how much is
+going to the platform how much is good
+straight to your own personal wallet
+that's one of the issues we are trying
+to
+solve i know of course
+there wouldn't be no payment at the end
+of the month the smart contract executed
+such that as it's deducting
+tokens from the customers it's paying
+the artist uh immediately
+and of course there will be some extra
+features that would be added to
+to make it different from any
+traditional streaming platform
+music i'm listening to music listening
+as a video people that are streaming
+videos they can end by listening to
+music
+you can come up with a very clear
+playlist and then for people using that
+particular playlist the more users of
+that particular playlist the more you
+can actually get to you know end
+something so i'm very sure it's a
+future it's one of the features we found
+out from feedbacks that
+most of our users would get to live
+because they get to just end by
+listening
+you know listening to
+to music and of course
+one of the other features to be
+introducing is the fact that artists
+will be able to get funded by their
+listeners
+take for instance some artists out there
+actually do not have the funds to pull
+out some music that i'm coming to
+upcoming artists now
+they have the opportunity to be funded
+by their listeners the listeners can
+crowdfund a particular project a
+particular album a particular single
+just you know what to do
+supporting their favorite artists and of
+course the smart questions can also be
+urged in such a way that
+people that invest in a particular
+artist can get a return when the music
+gets to be streamed
+it depends on what the fans want it
+depends on what the artist wants if the
+artist wants to be quiet for that just
+because it is their favorite artist that
+works and of course if you is as a sort
+of investment where the listener gets to
+get back it can also work in a
+particular way so that's more like what
+jbs is all about we are just making
+music streaming content streaming
+decentralized
+basically i don't know
+if i should if i need to share like use
+the interface of the app it's not
+necessary if you'd like to you can
+certainly go ahead if you'd like to
+share your screen absolutely no problem
+do that
+you can visit our website dreambase.com
+d-r-a-m-e-b
+dot com you can download that white
+paper
+to read through and of course you do
+have any suggestions please can you
+don't necessity to
+meant to send you of course you're
+making it decentralized so of course
+your inputs are would be very important
+if there's a future you like on a
+platform like that before we start from
+africa to go global we don't intend to
+limit to africa but since
+it's a market that requires you actually
+getting that contact to the artist
+that's why
+we need to start your speech you're
+familiar with
+can you see my screen now
+uh let's see
+yep we can
+we're seeing
+we see you
+all right there it is using my screen
+now we did i see it's gonna be
+this this is when you download the app
+of course you get to
+you have a welcome page so
+move forward
+you can either sign up as a listener or
+you can sign up as an artist
+so i'm going to be signing it as a
+listener for for this
+demo so you put in your username your
+password your data about your country of
+course so that we can give you contents
+that particular to your area
+you can sign up you get a confirmation
+continue
+login again
+and you can of course will be
+integrating other apis you want to use
+your google or your facebook
+to log in
+you select the kind of music you think
+you'd like to listen to jazz reggae soul
+gospel r b
+and of course you select your favorite
+artist artists do you want their content
+to pokemon your
+page and all of that
+you can do it next
+and of course like i said you you
+setting up what
+wallet
+put in your mail your password set up
+your letter mostly username you have
+your wallets you can see your wallet
+balance know how much token you say i've
+let
+when you make a particular subscription
+and make a particular donation
+then you can get to your own
+we have the video section
+we have the music session we have the
+literature section where you have people
+artists or content creators meet their
+short stories frames as nfcs and of
+course we have
+more graphic ones the graphic um
+pictures as that is
+you can check your settings your
+username your password in case you need
+to change any of that
+well let's check your balance
+and then one of the features that we'll
+be bringing again is more like a
+community
+for a particular um music for a
+particular album an artist or a listener
+could decide to create a group chat
+where people can come to interact and
+discuss you know like topics like
+interest
+so we'll be having sort of like a good
+chat community group chat for
+music for a particular music video
+not just a general random comment
+session
+and of course your just is more like
+your library and all of that so
+that's more like what the interface is
+going to be
+looking at i'm going to be showing you
+what in fact you should be looking at if
+you're logging in as a
+as an artist
+so signing up as an artist when you have
+a
+normal login details country
+their
+accounts continue you log in back into
+your account
+select the kind of music people should
+be estimating from you and of course age
+rating you need to select so that we
+could you know
+limit the kind of content some people
+would be
+that listener should be seen of course
+when you're registering as a listener
+you'll be putting your age so that not
+just any context will be flying around
+um young
+people's pages and then you put your
+instagram page your twitter page
+um your social media pages that's for
+the artist so that you can connect
+of course you create your wallet where
+you'll be getting your returns
+you come to your home
+you can see the things you've uploaded
+this is more like a upload button for
+the artist
+your album is your singles
+wallet
+community tool
+and of course you have a dashboard where
+you've seen how your music or your album
+is doing you're saying okay which album
+is generating more money which music is
+generating more money and all of that so
+that is what dream business is all about
+um i'll stop sharing my screen this
+moment
+so i'll be open to answer any questions
+you might have i don't know if that
+would be now right
+i love it thank you so much that's uh
+that's fantastic you guys are doing an
+excellent job uh very interesting does
+anybody have a question
+i would love to ask coron if you don't
+mind i don't mind thank you very much
+this is this is great this is amazing
+and i'm particularly excited that you're
+from africa because we have a passionate
+community in africa of about 500 people
+judging by the chat they did a couple of
+hackathons
+and they're now working on
+an ft marketplace
+based on everscale which is about we
+they're presenting next tuesday and it's
+about to be released maybe four weeks
+from now
+question i saw new website that you guys
+do in ft maintain as well so that's
+ethereum based or uh what do you do
+around nfts if you could elaborate on
+that a little bit
+i said you know getting elastic yes yes
+if you could just elaborate a little bit
+on your nft
+functionality
+non-fungible tokens
+what what can be done uh with nfts on
+your platform because i saw it on the
+website that you have nft minton
+okay okay that's not like the age group
+so for now we're starting with music and
+videos streaming but of course some
+persons would like to share their
+content when it comes to art too so that
+is where nfc comes in and when it comes
+to music too as i someone people to
+stream
+we've had a case
+where i think recently a particular
+artist means
+music to about ten thousand copies of
+music just to sell it
+so
+the situation is where he does not want
+to stream he just wants to sell the
+music so like but like an sqc bond
+jimbo is going to be making that
+possible
+i'm not did i answer alexander
+yep yeah you did
+there might be synergies with the
+marketplace initiative of the african
+community so we might i know wrong if
+you could maybe link up with john just
+to explore synergies yeah absolutely
+absolutely there's
+there are some other projects alofa that
+are that are actually underway nft
+projects that would
+uh
+that i think could could partner and do
+some really good things with this um
+the idea that you have is wonderful
+but we probably there's there's some
+value adds that we can we can bring um
+that would that would make sense so
+we'll talk off uh offline again and uh
+and i'll sort of tell you a few of those
+those projects so i think
+i think it's wonderful
+okay
+thank you thank you very much uh if
+there's no more questions let's go to
+our next uh uh startup competition
+winner uh his name's uh anut nagar again
+i'm sorry i'm famous for butchering
+names but uh uh anudit is from convo
+space uh convo space is
+it's basically a decentralized
+conversation layer social
+uh conversation layer for uh for mobile
+apps for websites for nfts
+for um wallets for blogs i mean it's
+really really cool so i knew that if
+you'd like
+please tell us a little more absolutely
+um hey everyone thanks a lot for the
+wonderful introduction wrong and uh i'm
+another night and we're currently
+pulling out the convo
+oops is it is it me um
+space is aimed to be this decentralized
+conversation layer
+i think it's just me i think it's just
+me
+i think this should be better um so
+convo space is geared towards being this
+decentralized conversation layer with
+which you can interact on
+any website from anywhere you are in a
+completely decentralized manner the
+thinking behind that is just the fact
+that
+let's say if you just
+whatever i present to you in the next 10
+minutes or so it's like so amazing that
+you can't contain yourself just want to
+shout it out to the world how would you
+go about doing that
+well you you're gonna have to
+leave this meeting and switch to a
+different application whatever way you
+decide
+and that's where the kind of gap that we
+have in terms of where we see content
+and where we
+actually share it and with converse
+space we're trying to break down those
+barriers
+and allowing anyone to build on top of
+it i mean the only reason why like unit
+swap at maker dow are such big projects
+is the fact that they open up all of
+that financial liquidity for anyone to
+be able to build on top of it
+but the liquidity for social platforms
+are really the conversations that are
+happening on those platforms so if you
+can make those conversations composable
+across the web this is open this whole
+new host of composability for like
+social layers into any applications
+that's what we're building out
+let me just share my screen and dive
+right in
+i hope my screen is visible
+and uh the core idea is just that leave
+a message on wherever you wherever you
+are just a single enough code to spin up
+a conversation around really any element
+of the web
+instantly send it to wherever you are
+but let's say if you just moved away
+from your computer and just have like
+telegram on your phone and you want to
+tap into that same conversation you can
+switch back to that leave a message over
+there saying hey ever still
+send that message and converse space
+will automatically sync up all of those
+conversations and interactions wherever
+you are as soon as you back to the
+computer you'll get that same message on
+that same tab on whatever blockchain
+you're on all decentralized and all
+powered by karma space
+so that you don't really have to juggle
+multiple different social platforms
+wherever you are combo spaces is an easy
+way of being able to communicate with
+your team
+but at the same time through whatever
+blockchain you write whether it might be
+freetown everscale or connected to even
+just ethereum you can just log in with
+your wallet and be able to view all your
+messages across the web
+in a single place whatever kinds of
+threads they might be be able to manage
+like your identity and reputation data
+across the ecosystem
+but the cool part about just being able
+to own your data is the fact that you
+can just go back to the data section
+download all your data tokenize it but
+also just delete it from every single
+interface and really just go anonymous
+within a click of a button that's the
+kind of power that you want to give
+developers and platforms to be able to
+just have a social layer with which you
+can like anchor a conversation to an nfp
+so that wherever the nft goes
+conversations around those artworks four
+artists can along the web you can tie it
+to a blog you can tie it to an fp really
+anything that is uniquely identifiable
+on the web
+and all you really need is
+grabbing an api key from the platform
+and you're good to go
+that's just a quick dldr of what we're
+building out at combat space love to get
+your thoughts on it thanks a lot
+wow thank you that was uh that was an
+excellent presentation
+uh
+does anybody have a question for a
+nudity by the way am i am i pronouncing
+your name correctly yep you got it both
+okay good
+that's that's the first
+um
+that's uh that's
+that's really really cool um how far
+along are you is it is is everything
+already working is it already yeah it's
+it's already live people can get started
+working right now as of this moment and
+uh yeah yeah um so it's been very cool
+sort of integrating even with everscale
+and freedom and uh yeah we just had
+awesome fun during the hackathon
+fantastic just great
+well um i don't see any hands raised so
+yeah i do i don't have a question okay
+i don't i don't see where i can connect
+the ever scale
+um it's freedom oh free time
+change the name yet yeah yeah yeah we i
+i told i i talked to michael and
+everybody it'll it'll be you know
+they'll change it
+that
+yep all right
+okay i knew it thank you very much thank
+you for coming let's
+absolutely glad come back uh every week
+if you can um
+let's go to our next presenter uh we're
+gonna welcome back marina from i.t gold
+i think everybody remembers marina uh
+since uh the last time as i mentioned
+earlier uh we had the presentation for
+the nft alliance proposal uh
+it's been
+through a fine-tooth comb
+including by some of the people on this
+call so uh there are updates and i think
+we'd love to know what they are marina
+if you're ready we'd love to hear it
+hi everyone
+hi i will now briefly go through the
+updates of the nft alliance and firstly
+i should say that one of the main goals
+of the alliance nft standardization is
+almost achieved we expect it to be voted
+in the nearest 10 days and the code of
+course will be available to everybody in
+the github repository
+some changes also
+occurred
+have also cured the composition of the
+alliance members
+uh to these moments members of alliance
+are grand bazaar
+everyx with just nifty com tonium with
+nf nefertiti dot io skill punks
+and most expensive dot io
+there are several associated members of
+alliance
+uh if i can say so these are nft wiki
+don loot nft
+said place and new miss
+and um
+broxis and id gold i all stay as um
+technology partners of nft alliance
+then considering the proposal itself
+several significant developments have
+been done
+and the first
+is that we've set up the concrete kpi
+metrics for the marketing activities
+which at the end of 2022 should cover
+more than
+12 million users of a target audience
+attract
+130 000 new users accounts
+in the network
+and attract
+or generate maybe
+1.65 million new transactions
+sorry
+we've also determined yeah i'm sorry is
+it possible uh all of it to
+your microphone
+um
+yum
+is this sound okay
+can you hear me yeah yeah we could hear
+you fine you're great well okay good
+um well we've also determined uh the
+kpis for achieving a certain number of
+active nfd of a scale community users in
+social media accounts like twitter
+discord and telegram of course
+considering the creators program that
+been presented in the
+first version of proposal it has been
+developed
+to
+what we call creators fund
+which relates to purchasing the rights
+and the or i mean copyrights and um
+audience from the epic creators who
+really have their contact and audience
+takenization of this um
+content and further sale off uh this of
+their contact in the form of nft
+to
+achieve these tasks we plan to establish
+this creator's fund with stablecoin
+assets
+which will be invested in such creators
+rights
+and to support such investments and
+prove participants interests we propose
+to support investors feared
+with 100 percent match in evers logged
+by existing uh network staking
+mechanisms for significant
+um with a with a significant um lock
+period
+uh for two or three years something like
+that
+and the alliance itself will collect the
+margin from the sale of these nfts
+of uh which will be then returned
+and turned into alliance marketing
+activities
+well farming program
+presented earlier was also they updated
+and reformed into
+liquidity program
+uh
+which means that to attract investors to
+actively participate in nfd market
+and
+[Music]
+we we propose to support major nft
+projects based on everscale with an
+additional liquidity for their own tip 3
+tokens listed on ever scale decks
+like tonswab or flax
+and
+the program will match with documented
+and confirmable revenue of nft's
+collections public sale price
+and
+if i can say so
+the
+amount of
+this token ever pair or liquidity
+or it will
+will be based on
+on the projects to economics
+so
+yes these are the major
+um updates
+that we've
+we can present now
+that is
+maybe all
+if someone has questions i will try to
+answer gladly
+thank you
+thank you marina thank you very much
+uh i don't see hands race but does
+anybody have a question
+well those are major updates and i i
+hope i i know um
+i know mita you've gone through this uh
+i know some of the folks glad you've
+gone through this um and i think i think
+now it's looking like uh like
+at least
+in an informal method a certain
+consensus has been reached and i think
+everybody should be happy with it we'd
+love to see the final version of course
+uh uh on the forum anywhere else you
+could put it and i think yeah i mean
+sounds like uh sounds like it's uh it's
+much better than the original
+so
+yeah thanks i hope good yes yes
+all right marina thank you very much
+thank you for your presentation uh let's
+uh move on to our final segment we're
+making really good time which i'm very
+happy about so it's our closing segment
+um
+all right hang on
+i always do this i gotta stop doing it
+but i'm gonna do it anyway then um his
+lickety-split lip with a hipster's pimp
+ben
+yeah i i wanted to i wanted to make it
+englishy so
+very bloody very very blighty nice yeah
+uh yeah so um a few things for you this
+week obviously there's been a lot going
+on so i think um it's been
+a few i could have mentioned but these
+are the top ones from this week
+uh five uh i don't know if it's been
+noticed but fida the international chess
+federation have actually started uh
+quite a big campaign of
+advertising everscale um we're in the
+background of all their tournaments and
+a lot of stuff going on there now
+so that's definitely good news they'll
+increase visibility
+uh the hacker new decentralized internet
+rising contest uh we had another month
+full of winners i believe one of the
+winners this month came from within the
+community it was a really good article
+as well to be honest so uh hats off to
+you sir
+um again always worth checking out lots
+of very cool stuff goes on through there
+um i've seen that stuff for a while so
+hopefully we'll uh try and get him back
+on i imagine one of the weeks soon to
+update us
+uh the chess nft uh tournament happened
+on sunday and
+it was good fun um there was a good
+couple of dozen people turned up uh
+there was a chess grand master i didn't
+get a chance to play the uh chess
+grandmaster myself
+um but yeah i did beat a couple of you
+right i know who you are um got beat by
+a couple of you too so all's fair but
+i'm really looking forward to the next
+one that was that was a lot of fun so
+again well done to the chess nft.com
+team and all that
+and finally as we mentioned at the top
+of the call before we went live on
+youtube never mind the going jerry
+we did episode two last night it was a
+lot of fun we had amy tom from
+hackernoon uh dion jumped off the uh
+score keeping to the panel so yeah it
+was a bit competitive yeah a lot lots of
+fun so i'm gonna try and edit that and
+get a good quick turnaround on it and
+get some sort of a teaser out for you
+tonight maybe early tomorrow
+and that's my bits for this week thank
+you very much everyone
+and juicy as they were thank you very
+much
+lickety-split lip that's that's exactly
+i'm going to call you that that's going
+to be your nickname lickety-split
+thank you ben uh let's see we're going
+to
+we don't have any questions from youtube
+but i think that's probably because we
+had a little bit of a slip up at the
+beginning youtube was giving us a little
+bit of problems
+and we had to
+send everybody a new link so normally we
+would have a bunch but today we don't
+and because of it we're making great
+time but we do have a um
+we do have a question that was written
+in and uh
+uh i believe this one is for you uh
+somebody's asking i'd be happy for some
+kind of an explanation about the
+proposal that passed to support uh fair
+playing validators
+what's the problem what's been decided
+and how does uh how does it solve uh the
+problem
+you're with
+us by the left
+no bible's here
+i don't know
+we can't hear you
+microphone's on
+right
+let me take a stab at it then um so
+essentially uh what happened was
+it was identified there were some very
+specific validators and i'm not going to
+name them because it's just that's not
+what we do here
+that
+colluded in a way where they
+owned
+all of the
+access
+to the d pools um of validators that
+were not them
+basically so
+um
+essentially they centralized their uh
+their their validation and they did so
+uh with uh malicious intent in mind and
+that intent was to
+uh
+use the rewards that they receive uh so
+that they can turn around and dump it on
+the open market and sell them and
+in effect depress the price so
+uh for a lot of you who've been asking
+questions
+um hold on
+yeah i hear you well
+we can't hear you
+unfortunately
+or is it just me
+that's a possibility no wrong nobody
+hears pablo maybe those validators heck
+of course but you said it man that thing
+would happen i mean so yeah they
+colluded
+collusion yeah yeah it was a collusion
+um you can call it an attack or you can
+call it just just just just
+you know uh being
+um but which whichever you call it they
+basically uh owned a bunch of uh
+validators uh
+ability to validate and they
+used it against the network because
+they're
+that's what do
+so uh what this does is it creates a
+reward system uh in state a staking
+reward system
+for those who are not them
+and in doing so it will essentially keep
+those particular validators who are not
+going to get any part of that reward
+from being able to validate
+simple solution and of course over time
+all of those sticking words they come
+back into the system um they're returned
+over a period of time
+and problem solved hopefully so that's
+the idea behind it um i don't know if uh
+you have another question if you do uh
+you can probably send it to the
+validators chat you can send it to any
+community chat we'll train this or you
+can send it directly to me i'll i'll get
+you an answer to them uh
+anything to add alex anybody
+i think right
+sorry
+well wrong i think
+we'll have a healthy network as a result
+of this
+as simple as this
+holy cow we have set a new everscale
+record we have finished in the 45
+minutes i do believe this is the fastest
+call we ever had and the content
+involved was super awesome by everybody
+who joined thank you so much for doing
+it
+last call for
+anything comments questions yes no maybe
+so maybe rain maybe snow
+alex
+yeah maybe maybe just another quick
+update from me um
+the um
+ever x finalized a while ago actually
+integration with the
+chinese bsn blockchain network
+but uh it was just announced basically
+today it's on twitter so please feel
+free to retweet
+going to put it in the chats i guess and
+also the chinese community of everskill
+made the decision to support the chinese
+nft standard
+called ddc if i'm not mistaken
+um
+so they're basically going ahead and
+doing this so very soon besides uh
+integration at the blockchain level will
+also integrate
+with the nft standard which i think
+opens up a lot of opportunities
+uh in the you know obviously large
+segment where
+also those nfts are going to be treated
+separately from the chinese crypto
+legislation being fully legitimate so i
+thought that was good news to share
+since it was formally announced today
+thank you and actually i i want to ask
+you you you made a a comment uh
+yesterday
+on the on one of the uh our uh one of
+the chats
+about uh the community and i think it i
+think a lot of people were confused
+about exactly what it was maybe just
+just one minute about what exactly you
+were trying to convey
+sure sure look it was a little bit of
+misunderstanding and i just i shouldn't
+have copy pasted the chat so basically
+there is believe it or not there is an
+international community of auditors
+internal auditors risk managers etc like
+i know 5 000 people something like that
+who decided to
+launch their own token called risk i
+don't like the name but that's a whole
+separate subject
+and they did on every scale
+and basically they want to utilize the
+token as part of their governance
+mechanics etc etc so they that's what
+they did and i'm
+i'm
+i'm i was in the chat where they
+announced that they're closing the chat
+uh and move into a more technologically
+advanced platform and also renounce the
+token
+and to be honest i just didn't notice
+that paragraph about
+deleting the chat so when i copy pasted
+that the community saw that i was
+suggesting to delete the whole community
+chat
+and i'm thankful how humble people are
+because they said
+okay fine bad luck you know is it going
+to be at least you know archived
+and there's like what does he mean what
+the hell is going on so
+the point the bottom line is never copy
+paste uh the thing or if you do kind of
+read it twice and then
+delete what's obviously not relevant or
+potentially misleading which is
+something with a which i haven't done it
+was midnight so
+yeah
+so it's let's let's call it fun sorry
+for putting on the spot
+no problem no problem all right so that
+clears that up yeah yeah
+but the good news is that
+can can did you did you hear what i said
+the community of internal auditors and
+uh and risk managers in international uh
+european i believe will have their own
+token now we'll play with some
+governance mechanics uh
+uh with our own token i think token is
+totally liquid so don't take it as an
+investment advice for sure it's worth
+nothing and might not worsen but for me
+it was more important that we got that
+community attention and they're thinking
+about blockchain
+um as part of their uh governance
+that's that was the message that i was
+supposed to share last night
+well you shared it now and i think that
+uh pretty much lays everything any
+contradictions to us thank you alex all
+right
+uh look everybody thank you for coming
+um have a wonderful wonderful rest of
+your week um
+i know geopolitically there's a lot of
+stuff going on let's just remember
+we aren't politicians we don't divide we
+unite that is what we do
+so just keep on chugging keep on working
+and let's make every scale change
+everything just like my linkedin page
+says
+we're here to change everything we're
+not here to
+to divide people so
+love you all
+see you next week please come and please
+tell
+others who want to say something on this
+call to come as well
+cheers
+thank you
+bye yes
+thanks bye

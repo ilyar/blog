@@ -1,0 +1,66 @@
+blockchain and nft usage in games is
+becoming more and more common new
+metaverses are emerging every day and
+this is going to be a very strong trend
+in tomorrow's world everscale is fully
+prepared for such a future as its first
+game fight releases are just around the
+corner
+game fight is a pretty broad term but
+generally it refers to games that
+incorporate nfts or have any kind of
+token based in-game economy or both
+game fight goes completely beyond the
+usual notions of classic games like
+simple 2d mmorpgs
+where the in-game economy is very
+limited and it's not possible to sell
+game assets on external platforms
+so what if each resource and currency on
+the server was an nft or a fungible
+token we would be able to move gaming
+assets between servers or even between
+different games if they supported this
+kind of feature even a character itself
+could be made into an nft true ownership
+of game assets would guarantee that
+nobody could hack a player's account and
+steal their equipment
+and what's more gamefy means that
+popular games could potentially become a
+source of income for dedicated players
+and speaking of the sdk itself the sdk
+that everscale is developing will help
+all kinds of game developers to tokenize
+all in-game assets and incorporate a
+blockchain based economy powered by
+everscale into their players experience
+the sdk will include personal wallets
+in-game stores and p2p transactions
+building and land tokenization
+marketplace open api dow and insurance
+tools
+that's more than enough to build a
+successful blockchain based game
+everscale is one of the very few
+blockchains that can handle an extremely
+high load without any trouble thanks to
+its scaling capabilities
+gta online minecraft lineage 2 even
+counter-strike these could all operate
+on everscale involving hundreds of
+thousands of new users in the blockchain
+industry
+an example of a game running on
+everscale is the broxas pilot project
+evercraft a rendition of minecraft that
+is going to support all of the features
+mentioned
+evercraft is a prime way to showcase all
+the capabilities of everscale and the
+gamefi and metaverse sdk to over 100
+million monthly active players
+and this is just the beginning because
+everscale has plans to attract even more
+game developers thanks to its easy to
+integrate sdk

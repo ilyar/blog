@@ -1,0 +1,665 @@
+1
+00:00:00,000 --> 00:00:02,149
+
+everscales remp
+
+2
+00:00:02,149 --> 00:00:02,159
+everscales remp
+ 
+
+3
+00:00:02,159 --> 00:00:03,429
+everscales remp
+what is it
+
+4
+00:00:03,429 --> 00:00:03,439
+what is it
+ 
+
+5
+00:00:03,439 --> 00:00:06,550
+what is it
+remp stands for reliable external
+
+6
+00:00:06,550 --> 00:00:06,560
+remp stands for reliable external
+ 
+
+7
+00:00:06,560 --> 00:00:09,190
+remp stands for reliable external
+messaging protocol and it's a major
+
+8
+00:00:09,190 --> 00:00:09,200
+messaging protocol and it's a major
+ 
+
+9
+00:00:09,200 --> 00:00:12,310
+messaging protocol and it's a major
+technological milestone forever scale
+
+10
+00:00:12,310 --> 00:00:12,320
+technological milestone forever scale
+ 
+
+11
+00:00:12,320 --> 00:00:14,310
+technological milestone forever scale
+it makes the network faster and more
+
+12
+00:00:14,310 --> 00:00:14,320
+it makes the network faster and more
+ 
+
+13
+00:00:14,320 --> 00:00:16,470
+it makes the network faster and more
+reliable let's try to give rem an
+
+14
+00:00:16,470 --> 00:00:16,480
+reliable let's try to give rem an
+ 
+
+15
+00:00:16,480 --> 00:00:18,790
+reliable let's try to give rem an
+overview so we can understand how
+
+16
+00:00:18,790 --> 00:00:18,800
+overview so we can understand how
+ 
+
+17
+00:00:18,800 --> 00:00:21,510
+overview so we can understand how
+important it is for the network
+
+18
+00:00:21,510 --> 00:00:21,520
+important it is for the network
+ 
+
+19
+00:00:21,520 --> 00:00:23,830
+important it is for the network
+reliable message queue
+
+20
+00:00:23,830 --> 00:00:23,840
+reliable message queue
+ 
+
+21
+00:00:23,840 --> 00:00:25,830
+reliable message queue
+in everscale messages deliver
+
+22
+00:00:25,830 --> 00:00:25,840
+in everscale messages deliver
+ 
+
+23
+00:00:25,840 --> 00:00:28,150
+in everscale messages deliver
+information and instructions from one
+
+24
+00:00:28,150 --> 00:00:28,160
+information and instructions from one
+ 
+
+25
+00:00:28,160 --> 00:00:30,710
+information and instructions from one
+smart contract to another or from a user
+
+26
+00:00:30,710 --> 00:00:30,720
+smart contract to another or from a user
+ 
+
+27
+00:00:30,720 --> 00:00:32,549
+smart contract to another or from a user
+to a smart contract
+
+28
+00:00:32,549 --> 00:00:32,559
+to a smart contract
+ 
+
+29
+00:00:32,559 --> 00:00:34,870
+to a smart contract
+messages initiate transactions which are
+
+30
+00:00:34,870 --> 00:00:34,880
+messages initiate transactions which are
+ 
+
+31
+00:00:34,880 --> 00:00:37,350
+messages initiate transactions which are
+executed by smart contracts there are
+
+32
+00:00:37,350 --> 00:00:37,360
+executed by smart contracts there are
+ 
+
+33
+00:00:37,360 --> 00:00:39,830
+executed by smart contracts there are
+two types of messages in everscale
+
+34
+00:00:39,830 --> 00:00:39,840
+two types of messages in everscale
+ 
+
+35
+00:00:39,840 --> 00:00:42,229
+two types of messages in everscale
+internal a message from one account on
+
+36
+00:00:42,229 --> 00:00:42,239
+internal a message from one account on
+ 
+
+37
+00:00:42,239 --> 00:00:44,310
+internal a message from one account on
+the blockchain to another that can carry
+
+38
+00:00:44,310 --> 00:00:44,320
+the blockchain to another that can carry
+ 
+
+39
+00:00:44,320 --> 00:00:46,709
+the blockchain to another that can carry
+information about a transaction these
+
+40
+00:00:46,709 --> 00:00:46,719
+information about a transaction these
+ 
+
+41
+00:00:46,719 --> 00:00:49,590
+information about a transaction these
+don't require a cryptographic signature
+
+42
+00:00:49,590 --> 00:00:49,600
+don't require a cryptographic signature
+ 
+
+43
+00:00:49,600 --> 00:00:52,150
+don't require a cryptographic signature
+external a message sent and received
+
+44
+00:00:52,150 --> 00:00:52,160
+external a message sent and received
+ 
+
+45
+00:00:52,160 --> 00:00:54,470
+external a message sent and received
+from an external source outside the
+
+46
+00:00:54,470 --> 00:00:54,480
+from an external source outside the
+ 
+
+47
+00:00:54,480 --> 00:00:56,869
+from an external source outside the
+blockchain usually from the user's
+
+48
+00:00:56,869 --> 00:00:56,879
+blockchain usually from the user's
+ 
+
+49
+00:00:56,879 --> 00:00:59,590
+blockchain usually from the user's
+device external messages need to be
+
+50
+00:00:59,590 --> 00:00:59,600
+device external messages need to be
+ 
+
+51
+00:00:59,600 --> 00:01:01,990
+device external messages need to be
+signed with the user's key
+
+52
+00:01:01,990 --> 00:01:02,000
+signed with the user's key
+ 
+
+53
+00:01:02,000 --> 00:01:04,630
+signed with the user's key
+in other blockchains external messages
+
+54
+00:01:04,630 --> 00:01:04,640
+in other blockchains external messages
+ 
+
+55
+00:01:04,640 --> 00:01:06,870
+in other blockchains external messages
+can be a problem as there's no way to
+
+56
+00:01:06,870 --> 00:01:06,880
+can be a problem as there's no way to
+ 
+
+57
+00:01:06,880 --> 00:01:10,550
+can be a problem as there's no way to
+define a strict queue order and priority
+
+58
+00:01:10,550 --> 00:01:10,560
+define a strict queue order and priority
+ 
+
+59
+00:01:10,560 --> 00:01:12,630
+define a strict queue order and priority
+that's why blockchain users have to deal
+
+60
+00:01:12,630 --> 00:01:12,640
+that's why blockchain users have to deal
+ 
+
+61
+00:01:12,640 --> 00:01:14,710
+that's why blockchain users have to deal
+with front running when messages they
+
+62
+00:01:14,710 --> 00:01:14,720
+with front running when messages they
+ 
+
+63
+00:01:14,720 --> 00:01:17,590
+with front running when messages they
+send with trading orders for dexes are
+
+64
+00:01:17,590 --> 00:01:17,600
+send with trading orders for dexes are
+ 
+
+65
+00:01:17,600 --> 00:01:20,230
+send with trading orders for dexes are
+of low priority than front runners
+
+66
+00:01:20,230 --> 00:01:20,240
+of low priority than front runners
+ 
+
+67
+00:01:20,240 --> 00:01:22,710
+of low priority than front runners
+orders remp solves this problem and
+
+68
+00:01:22,710 --> 00:01:22,720
+orders remp solves this problem and
+ 
+
+69
+00:01:22,720 --> 00:01:24,789
+orders remp solves this problem and
+makes everscale the only blockchain in
+
+70
+00:01:24,789 --> 00:01:24,799
+makes everscale the only blockchain in
+ 
+
+71
+00:01:24,799 --> 00:01:27,830
+makes everscale the only blockchain in
+the world that guarantees a strict order
+
+72
+00:01:27,830 --> 00:01:27,840
+the world that guarantees a strict order
+ 
+
+73
+00:01:27,840 --> 00:01:31,350
+the world that guarantees a strict order
+for message execution
+
+74
+00:01:31,350 --> 00:01:31,360
+for message execution
+ 
+
+75
+00:01:31,360 --> 00:01:34,390
+for message execution
+how remp changes the game the main
+
+76
+00:01:34,390 --> 00:01:34,400
+how remp changes the game the main
+ 
+
+77
+00:01:34,400 --> 00:01:36,469
+how remp changes the game the main
+purpose of remp is to guarantee that
+
+78
+00:01:36,469 --> 00:01:36,479
+purpose of remp is to guarantee that
+ 
+
+79
+00:01:36,479 --> 00:01:38,710
+purpose of remp is to guarantee that
+messages are delivered from any network
+
+80
+00:01:38,710 --> 00:01:38,720
+messages are delivered from any network
+ 
+
+81
+00:01:38,720 --> 00:01:41,190
+messages are delivered from any network
+participants in a particular order
+
+82
+00:01:41,190 --> 00:01:41,200
+participants in a particular order
+ 
+
+83
+00:01:41,200 --> 00:01:44,149
+participants in a particular order
+within a sub-second time frame when a
+
+84
+00:01:44,149 --> 00:01:44,159
+within a sub-second time frame when a
+ 
+
+85
+00:01:44,159 --> 00:01:46,310
+within a sub-second time frame when a
+network participant sends a message to
+
+86
+00:01:46,310 --> 00:01:46,320
+network participant sends a message to
+ 
+
+87
+00:01:46,320 --> 00:01:48,389
+network participant sends a message to
+the network it gets accepted by the
+
+88
+00:01:48,389 --> 00:01:48,399
+the network it gets accepted by the
+ 
+
+89
+00:01:48,399 --> 00:01:50,469
+the network it gets accepted by the
+current validators and included in the
+
+90
+00:01:50,469 --> 00:01:50,479
+current validators and included in the
+ 
+
+91
+00:01:50,479 --> 00:01:54,069
+current validators and included in the
+message queue cat chain mqc with a
+
+92
+00:01:54,069 --> 00:01:54,079
+message queue cat chain mqc with a
+ 
+
+93
+00:01:54,079 --> 00:01:56,469
+message queue cat chain mqc with a
+timestamp the validators send
+
+94
+00:01:56,469 --> 00:01:56,479
+timestamp the validators send
+ 
+
+95
+00:01:56,479 --> 00:01:58,789
+timestamp the validators send
+confirmation of acceptance to the user
+
+96
+00:01:58,789 --> 00:01:58,799
+confirmation of acceptance to the user
+ 
+
+97
+00:01:58,799 --> 00:02:00,789
+confirmation of acceptance to the user
+and the message is guaranteed to be
+
+98
+00:02:00,789 --> 00:02:00,799
+and the message is guaranteed to be
+ 
+
+99
+00:02:00,799 --> 00:02:03,990
+and the message is guaranteed to be
+included in the block even if the block
+
+100
+00:02:03,990 --> 00:02:04,000
+included in the block even if the block
+ 
+
+101
+00:02:04,000 --> 00:02:06,709
+included in the block even if the block
+production fails the messages will be
+
+102
+00:02:06,709 --> 00:02:06,719
+production fails the messages will be
+ 
+
+103
+00:02:06,719 --> 00:02:09,109
+production fails the messages will be
+included in the same order they were
+
+104
+00:02:09,109 --> 00:02:09,119
+included in the same order they were
+ 
+
+105
+00:02:09,119 --> 00:02:12,229
+included in the same order they were
+received in the next block if a message
+
+106
+00:02:12,229 --> 00:02:12,239
+received in the next block if a message
+ 
+
+107
+00:02:12,239 --> 00:02:14,070
+received in the next block if a message
+doesn't end up being included in the
+
+108
+00:02:14,070 --> 00:02:14,080
+doesn't end up being included in the
+ 
+
+109
+00:02:14,080 --> 00:02:16,550
+doesn't end up being included in the
+block all of the validators have their
+
+110
+00:02:16,550 --> 00:02:16,560
+block all of the validators have their
+ 
+
+111
+00:02:16,560 --> 00:02:19,589
+block all of the validators have their
+stakes slashed
+
+112
+00:02:19,589 --> 00:02:19,599
+stakes slashed
+ 
+
+113
+00:02:19,599 --> 00:02:21,670
+stakes slashed
+there's also replay protection and
+
+114
+00:02:21,670 --> 00:02:21,680
+there's also replay protection and
+ 
+
+115
+00:02:21,680 --> 00:02:25,110
+there's also replay protection and
+anti-spam protection what's more remp
+
+116
+00:02:25,110 --> 00:02:25,120
+anti-spam protection what's more remp
+ 
+
+117
+00:02:25,120 --> 00:02:27,350
+anti-spam protection what's more remp
+means users can get a sub second
+
+118
+00:02:27,350 --> 00:02:27,360
+means users can get a sub second
+ 
+
+119
+00:02:27,360 --> 00:02:30,550
+means users can get a sub second
+response in dap interfaces because we
+
+120
+00:02:30,550 --> 00:02:30,560
+response in dap interfaces because we
+ 
+
+121
+00:02:30,560 --> 00:02:32,630
+response in dap interfaces because we
+already know the message queue order
+
+122
+00:02:32,630 --> 00:02:32,640
+already know the message queue order
+ 
+
+123
+00:02:32,640 --> 00:02:35,270
+already know the message queue order
+when we click thanks to this everscale
+
+124
+00:02:35,270 --> 00:02:35,280
+when we click thanks to this everscale
+ 
+
+125
+00:02:35,280 --> 00:02:37,830
+when we click thanks to this everscale
+becomes not only the fastest blockchain
+
+126
+00:02:37,830 --> 00:02:37,840
+becomes not only the fastest blockchain
+ 
+
+127
+00:02:37,840 --> 00:02:40,470
+becomes not only the fastest blockchain
+in terms of transactions per second but
+
+128
+00:02:40,470 --> 00:02:40,480
+in terms of transactions per second but
+ 
+
+129
+00:02:40,480 --> 00:02:43,270
+in terms of transactions per second but
+also the most interactive
+
+130
+00:02:43,270 --> 00:02:43,280
+also the most interactive
+ 
+
+131
+00:02:43,280 --> 00:02:45,750
+also the most interactive
+blurring the lines between regular
+
+132
+00:02:45,750 --> 00:02:45,760
+blurring the lines between regular
+ 
+
+133
+00:02:45,760 --> 00:02:50,040
+blurring the lines between regular
+applications and dapps
+

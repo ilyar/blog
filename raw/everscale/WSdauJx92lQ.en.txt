@@ -1,0 +1,680 @@
+hi guys
+hey
+okay so wait for few more minutes
+traditionally and
+then we will start
+hmm
+hi everybody hi hi
+we are too few today i hope people will
+join us
+shortly
+kyle hi pavel hi
+i see that i am first in the agenda
+that's great
+yes yes that's great because actually i
+have to live in half an hour
+no no problem no problem i will just
+introduce the agenda and give you the
+word
+uh okay i see that there are quite
+enough people for
+for today so welcome everyone and our
+status third
+weekly defy governance call so we have
+few
+uh interesting topics to discuss today
+some of them you have
+already seen and some of them uh are
+quite new
+so uh we will start with uh
+a staked uh tone uh discussion
+i think it's pronounced correctly
+uh then vladimir said uh that he
+unfortunately
+could not um connect but i will just
+give you a short update on the
+self-sovereign identity uh
+contest uh and also a few
+updates about onbridge and tom swapp so
+many of you may have seen
+that so we have run a big maintenance
+the day before yesterday and i will just
+explain what was this
+and why is it important and sergey will
+also
+tell about new farming programs so
+uh pavel please the floor is yours so uh
+tell us more about uh steak
+yes exactly so yeah this is quite uh
+it's not hard to do in our case because
+we have amazing people
+contact uh and actually friton was the
+first
+who started that trend and now this
+trend
+uh we see it mean in other blockchains
+when
+where people uh take a nice state uh
+rights or state tokens
+now in our case it is uh true
+state tokens because they are
+decentralized they do
+do not rely on
+on any relay um so
+in our case uh such tokens can be
+again true um so
+uh yeah i thought that it is quite
+easy and quite short contest of course i
+mean i got some comments that
+it probably will require more time and
+will require more effort
+and i agree with that i think that
+in order not to to spoil this one let's
+increase timing less for for i don't
+know
+uh four weeks or something like that
+yeah i think
+one month is sufficient for such a type
+of contest
+yeah um so
+and what i think also is quite
+interesting
+which i didn't thought in the first
+place one wrote that contest that
+it's not about only ordinary stakes
+because ordinary stakes
+you can withdraw any time and though and
+they
+are such stakes are
+kind of funchable so they are equal but
+what is
+amazing that we have also westing
+tokens and the wasting and rights for
+wasting
+tokens they depended on term of
+of of the investing so in that respect
+i think uh the such tokens
+can differ depending on amount number of
+uh cycles they are requested for
+so it means that we will have like
+100 different types of stacked tones
+uh which will represent different
+wasting times
+and this is i think very interesting
+because uh
+it reminds me uh yield curve
+such thing from uh finance industry
+which actually and people do quite uh
+interesting strategies on top of that so
+when
+they play with yield curve they think
+like
+that that curves change over time
+uh so i think it will be nice especially
+taking the card that
+decks are coming so we'll have not only
+one stake tom will have like
+many of them so i will make adjustments
+to that uh contest and if there are no
+other questions let's put it on
+yeah i i just uh had a look through
+through the contest and yes
+i agree that it definitely needs more
+time than 10 days because
+uh first of all it needs
+some time to to build the architecture
+of this
+of this stuff because we start from the
+implementation part
+and uh second test pavel said
+there is not only ordinary stakes but
+also western stakes and it
+also needs some time to think through
+but in my opinion one month is
+sufficient
+so unless anyone has
+some some other opinions that can be
+justified
+and uh if it's if it's so
+so and but we can just make some
+amendments so
+probably we will be able even to launch
+it uh
+on monday probably so it's it's not that
+complex as
+dexes or bridges so it's just
+a set of smart contracts pretty much uh
+standards uh tip3 token i think
+with some additional functionality on
+top of this
+uh yeah and also what i would like to
+recommend
+is first to have a look
+on different types of tipster tokens
+that already exists
+and choose the one that you
+think is most suitable yeah for not to
+invent the intimate the wheel
+and just build your solution on top of
+this
+i have one uh question actually
+let me take a look media is here uh yeah
+he's here
+okay great uh me there um so we
+discussed it
+uh some time ago uh that wrapping the
+the
+the question is that uh you need to be
+sure
+that you got transfer from
+deepu correct people contact so
+in that respect i guess there are some
+changes
+in virtual machine we had where you can
+check
+the hash of initial uh contracts so
+when it will be introduced because i
+think this this functionality
+should be important for that particular
+contest because without it
+it could be problematic to me to make
+generic uh
+wrapper because we don't want to have
+for each
+different uh token
+because again if the pools are waiting
+you you can check the crash code of the
+pool right now
+right so you don't need
+this this this uh checking it has
+checked the initiative
+is not for that it's for verifying that
+the address was calculated correctly
+initially from the write code
+um so so this is this is i don't know
+how
+if you have a depool it doesn't matter
+what what was the default address
+or what is the default address it's the
+the right
+um question to ask is what is the cash
+contract right now
+right so and you can you can check that
+so and it's it's not the bull has
+transfer
+mechanism so you can easily create a
+contract
+which will take the the tokens
+so someone if someone wants you know
+this
+the to use this um whatever the
+functionality
+of that contract is like liquidity or
+whatever
+so he first of all this person need to
+trust this contract
+right so that's that's a totally other
+issue like you okay so you
+we create some few contracts like that
+we're formally verified and whatever
+now everyone trusts them like the
+trustee pools
+so now now everyone can can take
+the their stake in depool just
+call a transfer function transfer it to
+this
+contract that they trust now
+this contract once the tokens are
+transferred inside the depool
+will issue whatever tokens or whatever
+it wants to issue it doesn't matter what
+the functionality of that is
+right there is nothing preventing we
+already have
+examples of that for example smv the c
+plus plus s and v contracts both
+solidity s and v contracts are already
+using this
+there is uh what was produced already in
+january
+like the the so they use the depot
+transfer
+for that so you can you can transfer
+your depool stake and immediately get
+tip three tokens to vote in smv contract
+yeah i think yeah me i understand i'm
+just saying that
+it should be for all uh
+all the pools so it is for because all
+gpus has the same code
+yeah it means that yeah okay it means
+that uh that
+work and if you have a depool code if
+you have it if you check that it's a
+real this contract is a real depool
+meaning hash
+code is correct then it doesn't have a
+set code so
+no no no malicious party can use that to
+kind of to steal your money or to to
+fake a depo
+you cannot fake the poor country
+okay great so um
+so our element will
+add that some
+ideas about adding also wasting tokens
+functionality it will be like not
+mandatory but it will be like
+additional critique right so soft
+criteria
+okay and i also ask you if possible
+uh can you also have a look on the
+contest proposal
+and maybe give some recommendations on
+on the implementation part
+uh so sure that you believe will
+function well with depot contracts
+sure if if you can shoot me
+right now all right okay okay very good
+uh thank you pavel so i hope that we
+will finalize it
+this contest terms by monday and we'll
+launch it
+so to attract more interest more more
+teams
+for this also small but important task
+okay so we move to the second uh point
+in our agenda it is the self-sovereign
+identity uh architecture and design so
+uh we had
+two uh good presentations by vladimir
+uh on the previous defy call and this
+week uh
+main governance goal and uh
+now it's pretty clear why why it is
+important
+uh to to develop
+such kind of solution but
+as it is not an easy one
+definitely so first we as usual
+run through the design architecture
+stage
+and uh we discussed flood image this
+morning that
+this contest will be held i think in a
+couple of weeks
+so to give a warm-up period and let's
+distribute the news about such contests
+across teams
+so uh the contest proposal is almost
+ready and vladimir put
+probably already managed to share it or
+we'll share it today
+uh so and hopefully uh we will launch it
+on monday as well
+uh if you uh feel capable to participate
+so please
+so everyone's welcome and if you know
+some teams that's
+proficient in ssi so uh please invite
+them as well because we need more strong
+developers
+in free tone so it will be useful for
+for all of us
+okay and uh now we move
+to the recent updates to the town bridge
+and town swap so um
+some of you have heard about what media
+said
+this on this week weekly call that there
+were some
+some uh contracts that
+uh managed to stall the network
+and uh to some extent and uh
+we also analyzed the situation and
+also ground grounded on the security
+audit that we
+had on the bridge it it's almost
+finished and
+we working in uh closely with
+audit teams it has already been fixed by
+the way
+yeah yeah it's already been fixed but
+still uh we uh also
+had another look on our contracts and
+understood that but
+but but the patch is not on the main net
+yet
+yeah i remember that yeah so yeah yeah i
+don't remember try to run it at home
+i i remember at all at all absolutely
+and
+uh so uh we strongly improved the
+security of both solutions
+uh and redeployed the boss bridge
+and uh don't swap io so now it's
+it's uh even more secure and reliable
+than before although it it's already
+have been like this but
+there were some very very narrow and
+specific situations where
+uh an attacker could stall the bridge
+uh not just uh take the money but
+uh really intervene and stall it
+so now it's not normal possible and uh
+guys from brock's team are working now
+hard hard
+to implement dao in both projects and
+i i hope that it will come
+within a month probably i would be brave
+to say this
+it's not an easy task at all but we're
+working hard on this
+and uh we also added
+uh one more important uh
+thing i will show to you now uh
+that you will like probably especially
+if you tried already
+to participate in the previous farming
+program
+that we uh pilot farming programs that
+we launched a few weeks ago
+so actually we added the farming
+constructor
+uh at tonsoipaio so that lets you
+to create the farming pool uh specifying
+the
+talking route that needs to be deposited
+and
+the the token that is paid as a reward
+to you and you can just input the amount
+of the rewards it
+will be distributed and then
+put it on this deployed contract so
+it's that easy and once you have this
+specific token you can see the list of
+farming pools so and just
+deposit it here it works uh
+in uh to go together with a
+tone crystal uh extension so that
+currently
+serves as a tone client for the app
+and if you try for example to
+like i did here i already put some lp
+tokens
+from uh from the pool here so if i try
+to claim
+it will just initiate the transaction
+to withdraw and pretty the same to
+deposit
+so and and to claim your reward so it's
+now significantly easier to to
+participate in farming
+and uh i will give now
+a word to sergey shachev who will
+announce
+the next farming programs so it will be
+run run started from today
+sorry alina has a question
+yeah i thought maybe a weird question
+why the project has
+the same name the same name as uh the
+project
+which is already exists uh in fact tom
+swapp
+appeared a lot long before tons of payer
+and we had our otc solutions
+built there and now we host our decks
+here
+and yeah so
+we took this name a bit earlier sorry
+okay let's let's show
+ah i i need a permission for sure yeah
+sure just a second
+i propose to discuss this in person
+yeah thank you please
+one moment
+yeah i'll show my screen i created first
+first pull here it's like sims from my
+side
+we will put 50 000
+tons to four different pools
+one pole will be with usdt second pole
+with
+usdc i created with the liquid with
+spool
+a third pole vfb with ethereum and the
+last pole vfb
+will have rapid btc and we will put
+50k tokens for old spool and of course
+we will continue our uni swap program
+and to uni swap program we will put
+50 i will put 200k tokens
+like in previous experiment farming
+program
+will work during two weeks uh
+and we got new players
+uh some some liquidity providers
+who will create lots of experiments with
+us
+and the next stage after this
+experiments
+uh we will analyze and we will create
+some content with analytics
+and different farming between unisop and
+between decks in uh infiriton and of
+course
+uh costs uh into slope will be less
+other than in unisop
+and after afraid i think we will start
+uh
+industrial farming program uh in uh
+different decks
+uh who will who will be ready for it and
+uh who will set different liquidity
+and um we will start partnerships
+with big farming project like
+same strategy used by polygon matic
+and we started to work with
+different uh protocols like like our one
+inch
+frags and etc and uh
+magic bring uh some person to full
+network
+to these big players and the faith matic
+got more than six billion liquidity
+and thousands and thousand different
+users
+and we will set up same strategy i think
+we will start from
+frags it's one of the most uh
+algorithmic stable coin in market and
+i say it we will attract protocol by
+protocol
+to frito network
+thanks again and yeah uh as you can see
+from the screen so
+the first uh farming program starts from
+uh
+6 p.m today so all you need to do is
+uh have your lp tokens ready uh
+and place on your crystal wallet
+extension
+so we are also writing uh currently
+manuals
+for if you want to use for example anton
+cli or some other
+clients to stake in the farming pool
+uh but at least on on the interface
+level so it's i think it's
+quite easy to understand how to use it
+so if you have any issues
+with it so don't hesitate to uh come to
+brock's chat and ask so we'll
+we're always there to help you so and
+some menus hopefully
+uh are coming later today or maybe
+earlier uh
+tomorrow and uh second uh important
+point
+uh is that currently we do not
+upgrade the unison pool to the version
+three
+uh because it's uh uh
+nft tokens that they can't they are
+currently using they are not yet
+compatible with the bridge
+or the bridge is not yet compatible with
+them so we are still analyzing how to
+support this version 3 of uniswop and
+until then you can still use
+your version 2 liquidity provider
+tokens to participate in the farming
+program
+so if you have them already on the town
+network so
+just just use interface to stake them
+and
+if you have transferred them back and
+want to get them to to the toe network
+so used on bridge
+but important thing is that uh
+ton bridge website not yet works uh
+with with extension so hopefully we will
+improve with this
+by end of the week uh but uh for this
+time
+if you want to transfer anything from
+ethereum to
+to tone still use the desktop clients
+please
+so hopefully we will get rid of this and
+[Music]
+support the extension in all our
+products
+but it takes some time yeah and
+also about liquidity from the file yarns
+members
+and different our partners we will put
+one million dollar
+to for liquidity pools index
+okay thank you sergey
+yes let's rock let's rock that's pretty
+it for for today's agenda so if you have
+some other topics to discuss so uh
+please raise a hand
+and say something
+yes pablo please yes we have one more
+topic to discuss uh there is uh
+we don't hear you also so
+yeah i have one more to discuss as you
+know we had the
+first stage of our june
+friton bridge finished with
+specification
+actually there was a winning submission
+and now we have since
+it long quite for a time uh we
+have to start the second phase of that
+uh fabrice created that contest
+for bishop uh
+since i remember there was a comment
+that
+defies our sub governors didn't have
+budget for that so we
+plan to vote for it
+on global governments but since there
+are no
+experience in global governance
+for that so uh it is written that
+that contest should use defy uh jury
+okay yeah unfortunately i was a bit
+overwhelmed to help fabrice in
+uh launching this contest so
+thanks to him so he managed to do this
+himself
+so yeah please go and check it's
+published was on forum and in the
+governance interface and if you plan to
+participate
+as well so just all the details are
+there
+okay uh any other topics guys please
+seems too yeah yeah it's maybe not about
+topics about general
+uh situation uh yesterday we had
+a very interesting market uh because
+it's uh flash sales
+tweeted no no it was
+good it's more about about pr uh so
+about market yesterday
+uh in real situations yesterday uh
+ethereum didn't work totally didn't work
+transaction in network was near to one
+one thousand dollar and it was some
+minutes
+and during this situation
+a lot of funds got liquidation position
+and they had no and they
+had no any possibility to add liquidity
+in this moment
+because all the excess uh
+all exchanges didn't work didn't work at
+the
+under real high load uh during uh flash
+uh during uh flash selling from
+different different people
+binance didn't guidance didn't work too
+a lot of time
+uh cmc didn't work uh
+sometimes too and uh a lot of
+a lot of funds uh a lot of uh
+very aggressive traders who
+got a big risk for big profitability
+yesterday lost all
+and yeah and and one of the reason
+reason why
+in real situation they had no any
+possibility to educate
+it was blood totally blood
+night of bloody yes through food makes
+makes sense so you should you should
+have spare throughput for such
+possession yeah yeah they they said
+layer two i heard right
+why didn't they go there too regis
+what's wrong with layer twos guys
+where are the layer tools it's
+it was magic
+in the magic all protocols
+work good because we had a personal
+position in magic
+and they had no any problems
+but uh not a lot of protocol used it now
+and it's how it's our chance because all
+fans discovered
+uh how it worked in reality of a big
+transaction about the federal network
+and so i think that this situation a lot
+of protocols and investors
+will will start work with layer 2
+different protocols like matic
+and they hope that we will get part of
+this pipe
+because uh this today's internet and
+browser
+saturates uh it's very good but it's it
+will
+set a lot of a lot of time
+to bring it to people
+[Music]
+it never happened what happened again
+okay uh okay guys
+so if there are no more other topics to
+discuss so thank you
+everyone for attending today's call and
+see you in a week and
+don't forget that you have the farming
+opportunity
+so waiting for you to answer the tayo
+see you bye-bye

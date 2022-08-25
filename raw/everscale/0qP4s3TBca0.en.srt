@@ -1,0 +1,565 @@
+1
+00:00:01,839 --> 00:00:03,669
+
+everlend.app
+
+2
+00:00:03,669 --> 00:00:03,679
+everlend.app
+ 
+
+3
+00:00:03,679 --> 00:00:05,590
+everlend.app
+is a secure financial protocol for
+
+4
+00:00:05,590 --> 00:00:05,600
+is a secure financial protocol for
+ 
+
+5
+00:00:05,600 --> 00:00:07,829
+is a secure financial protocol for
+earning passive income on personal
+
+6
+00:00:07,829 --> 00:00:07,839
+earning passive income on personal
+ 
+
+7
+00:00:07,839 --> 00:00:10,950
+earning passive income on personal
+crypto savings and for lending created
+
+8
+00:00:10,950 --> 00:00:10,960
+crypto savings and for lending created
+ 
+
+9
+00:00:10,960 --> 00:00:11,950
+crypto savings and for lending created
+by the
+
+10
+00:00:11,950 --> 00:00:11,960
+by the
+ 
+
+11
+00:00:11,960 --> 00:00:14,629
+by the
+svoi.dev team
+
+12
+00:00:14,629 --> 00:00:14,639
+svoi.dev team
+ 
+
+13
+00:00:14,639 --> 00:00:16,150
+svoi.dev team
+everlend has been developed on the
+
+14
+00:00:16,150 --> 00:00:16,160
+everlend has been developed on the
+ 
+
+15
+00:00:16,160 --> 00:00:18,550
+everlend has been developed on the
+everscale blockchain and has a native
+
+16
+00:00:18,550 --> 00:00:18,560
+everscale blockchain and has a native
+ 
+
+17
+00:00:18,560 --> 00:00:21,269
+everscale blockchain and has a native
+token called lend the token is used to
+
+18
+00:00:21,269 --> 00:00:21,279
+token called lend the token is used to
+ 
+
+19
+00:00:21,279 --> 00:00:23,429
+token called lend the token is used to
+decentralize protocol governance and
+
+20
+00:00:23,429 --> 00:00:23,439
+decentralize protocol governance and
+ 
+
+21
+00:00:23,439 --> 00:00:25,910
+decentralize protocol governance and
+incentivize liquidity providers and
+
+22
+00:00:25,910 --> 00:00:25,920
+incentivize liquidity providers and
+ 
+
+23
+00:00:25,920 --> 00:00:28,230
+incentivize liquidity providers and
+lenders let's take a closer look at how
+
+24
+00:00:28,230 --> 00:00:28,240
+lenders let's take a closer look at how
+ 
+
+25
+00:00:28,240 --> 00:00:30,470
+lenders let's take a closer look at how
+this financial protocol works
+
+26
+00:00:30,470 --> 00:00:30,480
+this financial protocol works
+ 
+
+27
+00:00:30,480 --> 00:00:32,870
+this financial protocol works
+lenders transfer their digital assets to
+
+28
+00:00:32,870 --> 00:00:32,880
+lenders transfer their digital assets to
+ 
+
+29
+00:00:32,880 --> 00:00:35,990
+lenders transfer their digital assets to
+the liquidity pool other everlend.app
+
+30
+00:00:35,990 --> 00:00:36,000
+the liquidity pool other everlend.app
+ 
+
+31
+00:00:36,000 --> 00:00:39,030
+the liquidity pool other everlend.app
+users can then borrow from this pool
+
+32
+00:00:39,030 --> 00:00:39,040
+users can then borrow from this pool
+ 
+
+33
+00:00:39,040 --> 00:00:41,510
+users can then borrow from this pool
+interest rates on loans and deposits are
+
+34
+00:00:41,510 --> 00:00:41,520
+interest rates on loans and deposits are
+ 
+
+35
+00:00:41,520 --> 00:00:44,150
+interest rates on loans and deposits are
+floating they're constantly adjusted by
+
+36
+00:00:44,150 --> 00:00:44,160
+floating they're constantly adjusted by
+ 
+
+37
+00:00:44,160 --> 00:00:46,150
+floating they're constantly adjusted by
+algorithmic methods that take into
+
+38
+00:00:46,150 --> 00:00:46,160
+algorithmic methods that take into
+ 
+
+39
+00:00:46,160 --> 00:00:48,709
+algorithmic methods that take into
+account current supply and demand so how
+
+40
+00:00:48,709 --> 00:00:48,719
+account current supply and demand so how
+ 
+
+41
+00:00:48,719 --> 00:00:50,229
+account current supply and demand so how
+do you get a loan
+
+42
+00:00:50,229 --> 00:00:50,239
+do you get a loan
+ 
+
+43
+00:00:50,239 --> 00:00:53,350
+do you get a loan
+the platform lends usdt stablecoins
+
+44
+00:00:53,350 --> 00:00:53,360
+the platform lends usdt stablecoins
+ 
+
+45
+00:00:53,360 --> 00:00:55,590
+the platform lends usdt stablecoins
+against w weather the wrapped version of
+
+46
+00:00:55,590 --> 00:00:55,600
+against w weather the wrapped version of
+ 
+
+47
+00:00:55,600 --> 00:00:58,389
+against w weather the wrapped version of
+evercoins and vice versa loans can be
+
+48
+00:00:58,389 --> 00:00:58,399
+evercoins and vice versa loans can be
+ 
+
+49
+00:00:58,399 --> 00:01:00,229
+evercoins and vice versa loans can be
+returned at any time
+
+50
+00:01:00,229 --> 00:01:00,239
+returned at any time
+ 
+
+51
+00:01:00,239 --> 00:01:02,310
+returned at any time
+the key thing to remember is that if the
+
+52
+00:01:02,310 --> 00:01:02,320
+the key thing to remember is that if the
+ 
+
+53
+00:01:02,320 --> 00:01:04,229
+the key thing to remember is that if the
+value of the collateral falls to the
+
+54
+00:01:04,229 --> 00:01:04,239
+value of the collateral falls to the
+ 
+
+55
+00:01:04,239 --> 00:01:05,910
+value of the collateral falls to the
+amount to be given back
+
+56
+00:01:05,910 --> 00:01:05,920
+amount to be given back
+ 
+
+57
+00:01:05,920 --> 00:01:07,990
+amount to be given back
+a margin call will be triggered and the
+
+58
+00:01:07,990 --> 00:01:08,000
+a margin call will be triggered and the
+ 
+
+59
+00:01:08,000 --> 00:01:10,390
+a margin call will be triggered and the
+deal will automatically close in this
+
+60
+00:01:10,390 --> 00:01:10,400
+deal will automatically close in this
+ 
+
+61
+00:01:10,400 --> 00:01:12,870
+deal will automatically close in this
+case the cl later on will be forcibly
+
+62
+00:01:12,870 --> 00:01:12,880
+case the cl later on will be forcibly
+ 
+
+63
+00:01:12,880 --> 00:01:15,109
+case the cl later on will be forcibly
+liquidated by the platform
+
+64
+00:01:15,109 --> 00:01:15,119
+liquidated by the platform
+ 
+
+65
+00:01:15,119 --> 00:01:17,030
+liquidated by the platform
+so let's take a look at the profitable
+
+66
+00:01:17,030 --> 00:01:17,040
+so let's take a look at the profitable
+ 
+
+67
+00:01:17,040 --> 00:01:19,109
+so let's take a look at the profitable
+strategies on everland.app
+
+68
+00:01:19,109 --> 00:01:19,119
+strategies on everland.app
+ 
+
+69
+00:01:19,119 --> 00:01:21,429
+strategies on everland.app
+using evelend you can earn on both
+
+70
+00:01:21,429 --> 00:01:21,439
+using evelend you can earn on both
+ 
+
+71
+00:01:21,439 --> 00:01:23,749
+using evelend you can earn on both
+increases and decreases in the value of
+
+72
+00:01:23,749 --> 00:01:23,759
+increases and decreases in the value of
+ 
+
+73
+00:01:23,759 --> 00:01:26,469
+increases and decreases in the value of
+wever please remember all of these
+
+74
+00:01:26,469 --> 00:01:26,479
+wever please remember all of these
+ 
+
+75
+00:01:26,479 --> 00:01:29,109
+wever please remember all of these
+strategies can be risky and i am not a
+
+76
+00:01:29,109 --> 00:01:29,119
+strategies can be risky and i am not a
+ 
+
+77
+00:01:29,119 --> 00:01:32,230
+strategies can be risky and i am not a
+financial advisor so to be able to
+
+78
+00:01:32,230 --> 00:01:32,240
+financial advisor so to be able to
+ 
+
+79
+00:01:32,240 --> 00:01:34,149
+financial advisor so to be able to
+potentially profit from the growth of
+
+80
+00:01:34,149 --> 00:01:34,159
+potentially profit from the growth of
+ 
+
+81
+00:01:34,159 --> 00:01:36,550
+potentially profit from the growth of
+the w ever price it's possible to use
+
+82
+00:01:36,550 --> 00:01:36,560
+the w ever price it's possible to use
+ 
+
+83
+00:01:36,560 --> 00:01:39,030
+the w ever price it's possible to use
+the tokens and as collateral and borrow
+
+84
+00:01:39,030 --> 00:01:39,040
+the tokens and as collateral and borrow
+ 
+
+85
+00:01:39,040 --> 00:01:41,590
+the tokens and as collateral and borrow
+stable coins you can also buy more w
+
+86
+00:01:41,590 --> 00:01:41,600
+stable coins you can also buy more w
+ 
+
+87
+00:01:41,600 --> 00:01:43,910
+stable coins you can also buy more w
+ever with these stable coins to profit
+
+88
+00:01:43,910 --> 00:01:43,920
+ever with these stable coins to profit
+ 
+
+89
+00:01:43,920 --> 00:01:46,870
+ever with these stable coins to profit
+from a decrease in price just use usdt
+
+90
+00:01:46,870 --> 00:01:46,880
+from a decrease in price just use usdt
+ 
+
+91
+00:01:46,880 --> 00:01:49,830
+from a decrease in price just use usdt
+as collateral and borrow weather to sell
+
+92
+00:01:49,830 --> 00:01:49,840
+as collateral and borrow weather to sell
+ 
+
+93
+00:01:49,840 --> 00:01:51,910
+as collateral and borrow weather to sell
+the funds you can rebuy them later at a
+
+94
+00:01:51,910 --> 00:01:51,920
+the funds you can rebuy them later at a
+ 
+
+95
+00:01:51,920 --> 00:01:53,830
+the funds you can rebuy them later at a
+lower price and get the currency back
+
+96
+00:01:53,830 --> 00:01:53,840
+lower price and get the currency back
+ 
+
+97
+00:01:53,840 --> 00:01:55,910
+lower price and get the currency back
+earning on the price difference it's
+
+98
+00:01:55,910 --> 00:01:55,920
+earning on the price difference it's
+ 
+
+99
+00:01:55,920 --> 00:01:57,910
+earning on the price difference it's
+possible to withdraw your funds at any
+
+100
+00:01:57,910 --> 00:01:57,920
+possible to withdraw your funds at any
+ 
+
+101
+00:01:57,920 --> 00:01:58,950
+possible to withdraw your funds at any
+time
+
+102
+00:01:58,950 --> 00:01:58,960
+time
+ 
+
+103
+00:01:58,960 --> 00:02:00,310
+time
+and thanks to the high level of
+
+104
+00:02:00,310 --> 00:02:00,320
+and thanks to the high level of
+ 
+
+105
+00:02:00,320 --> 00:02:02,870
+and thanks to the high level of
+transaction security user friendly
+
+106
+00:02:02,870 --> 00:02:02,880
+transaction security user friendly
+ 
+
+107
+00:02:02,880 --> 00:02:05,749
+transaction security user friendly
+interface and low fees this young and
+
+108
+00:02:05,749 --> 00:02:05,759
+interface and low fees this young and
+ 
+
+109
+00:02:05,759 --> 00:02:08,070
+interface and low fees this young and
+promising lending service has every
+
+110
+00:02:08,070 --> 00:02:08,080
+promising lending service has every
+ 
+
+111
+00:02:08,080 --> 00:02:09,830
+promising lending service has every
+chance of becoming one of the leaders in
+
+112
+00:02:09,830 --> 00:02:09,840
+chance of becoming one of the leaders in
+ 
+
+113
+00:02:09,840 --> 00:02:14,120
+chance of becoming one of the leaders in
+the cryptocurrency lending market
+

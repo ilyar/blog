@@ -1,0 +1,892 @@
+hello hello can you guys hear me
+yes
+it's freezing okay here i am joe can you
+hear
+yes i hear you can you hear me
+can you hear eugene
+hi guys
+yes again
+[Music]
+oops
+i have this
+yes
+i had the uh
+youtube running
+okay cool yay we're finally
+finally on we had some technical
+difficulties with the
+zoom link but all good now
+cool
+um
+we're a bit over time so i think we
+could just start we have king meows with
+us meet ya okay i think we're all good
+cool
+okay um okay well hello everybody
+welcome to weekly meet number 106. we
+have an awesome lineup this week and a
+lot to get through which is exciting i
+actually had to push a couple
+presentations next week because we had a
+lot of stuff going on which is great and
+also happiest of birthdays to everex
+which turned four
+on sunday yay four awesome years
+so let's kick it off uh
+hi everybody
+um let's kick it off and uh
+hello michael would you like to start
+off with the tech updates
+yeah fine
+um
+so
+take updates
+uh all right uh
+we kind of yeah we're
+trying to upgrade the network um
+we've discovered some problem with the
+latest upgrade on the
+what it's called
+the freebsd
+um without docker installation
+fixing it now
+and uh
+yeah
+we will test it and then there will be
+additional release
+with the fixes
+apart from that
+um
+there is a
+launch on flex of flex this week
+the production we
+released a beta version
+a few days ago
+to the to the group
+of our early testers
+and that looks
+good
+we
+will support
+four trading pairs
+to start from
+this will be the trading pairs that's
+supported by flat cube as well
+um
+so
+um
+will be easy to arbitrage
+um
+and then we will start dating they'd say
+it's uh so the
+like
+flexes supporting
+we added the support of
+all broxas tokens
+so you can trade them on flex
+and
+[Music]
+we will start from these four pairs and
+they will we will expand it's it's not a
+problem to expand but i just i just want
+to
+of course like you need don't trade with
+a lot of money for now just to start
+from you know just a normal normal
+precaution
+um
+so use use
+the money that you're ready to lose if
+anything happened despite the fact that
+the contracts have been
+you know
+audited the first
+the new the latest version
+has already passed the first stage of
+formal verification but uh it's not
+formally verified yet
+uh all of it so you should you know be
+cautious
+that
+you know um
+yeah
+so
+um
+what else
+the
+the gosh
+update maybe a little
+um
+so
+we had a very very good results first
+two weeks after the launch
+we got to get the stats from docker
+which i cannot share but it's really
+nice
+um
+[Music]
+it's um
+[Music]
+like we now in the phase where we
+got a lot of feedback from developers
+and we change uh some things so we kind
+of releasing now we'll release now the
+second version
+um
+we are going to be presented on vivotech
+with one of our paris on may on june
+18th with one of our partners
+um to demonstrate the solution for the
+space industry and um
+so yeah so that will be quite exciting
+we will show how gosh can be used to
+um
+[Music]
+like
+upload instructions to satellites
+to change the like
+the
+you know
+parameters of the satellite
+and then the
+also
+kind of they upgrade the satellite
+software
+uh from gosh
+now using you know and and uh obviously
+this is this is
+like ultimate use case because this is
+the most mission critical application
+you can think about
+so it goes to the moon
+yeah exactly it goes to the moon
+directly literally goes to the moon this
+is the first token that literally goes
+to the moon
+yeah
+um
+we are planning on now also kwpc and kwt
+like if
+whatever news
+there will be um
+first um
+we're planning to having like the first
+session
+uh
+maybe even this sunday we will see
+how that goes
+for
+gosh actually
+um
+for gosh staking
+that the program that we're preparing
+for
+uh everscale
+you know participants members
+um so they so you can be the first to
+kind of
+to
+uh to participate
+in that uh
+then
+you know so we will we will have some
+interesting investors on the call
+uh that's not a call one so it's a show
+uh on the show and then um we have a lot
+of plans for
+this month because flex started so we
+just waited for that as you know
+and um
+there will be
+as in the next special session around
+the time of the
+of the viva tech
+[Music]
+trade show
+so there will be a special session about
+about gosh but i will let you know when
+it will be
+you know
+fixed dates
+so we have also like a huge pipeline of
+projects uh for
+uh
+for flex
+um
+in in our pipeline on on
+kwpc show
+and actually
+because we you know announced the launch
+of flex
+there's a lot of projects that came
+uh actually
+and the pipeline grew for last two weeks
+the pipeline grew like three times
+uh we're almost kind of running out of
+the capacity to to
+um
+to look at all the projects
+so that um it's really encouraging news
+i think because of because of the you
+know so many projects want to start
+uh on on never scale or do something
+with flex or never scale so these are
+these are good
+but
+um
+we are
+not certain
+on how to proceed right now because of
+the different
+because of the uncertainty of the of the
+flexed economics
+and
+flex business development
+going forward
+therefore we have to
+kind
+of um
+we will
+we will discuss that probably on the
+on the call
+when we'll have the call
+on the first row
+and then we will decide
+if we
+kind of
+what we're doing with this
+situation
+so right now
+it's um
+it's not up to us but the cooperation
+between kwpc
+and flex
+is
+like
+is not certain
+we don't understand the status
+and
+therefore
+in it's quite hard to kind of you know
+it's uh
+we're um
+investing money
+into that project
+and into everything we have done
+and there is no absolutely no support
+from the community and absolutely no
+support from flex
+absolutely no support from mavericks
+um
+so
+you know we will have to
+we have to decide what to do with the
+project going forward
+if we continue on
+um
+every scale or not
+so this is this is my status thank you
+oh okay
+um well i'm glad to hear that gosh has
+launched successfully um and the team's
+happy there
+and looking forward to
+uh killer whale
+show debuting
+i think you mentioned this week
+or maybe the beginning of june that
+would be exciting looking forward to
+that
+um
+we do have a question from community to
+tag on to the tech updates it's from
+ilyar and i believe it's about
+uh
+updating the nodes and ama that you
+recently had he says that there was a
+plan to do a text version of technical
+updates
+which are spoken out on the ama and
+published them to the validator channel
+which was planned to be cleaned of
+promotional information will this happen
+or not and thanks for your work you do
+cool stuff thanks
+is that the question to me
+yes um it's about the um
+[Music]
+the ama that i believe you recently
+held um
+about updating nodes and i think it was
+in the russian channel and they're
+asking about a text version because it
+was a spoken ama
+text version of the iama
+and we didn't have any ama on the node
+um
+what am i
+what's the last ama
+you did you did a call with validators
+after the incident on mainland
+okay then yeah we did the call okay yeah
+there was there was some some some
+decision i i wasn't present on that call
+but but i know that illyar
+asking now about
+some some
+some some updates
+like on
+on what you
+sort of
+so you agreed on the call that you will
+post the updates to the channel or or
+something
+uh we didn't upgrade
+we didn't update well we kind of pushed
+update on the scrap that day because
+because there was a report about uh
+about the issue
+with uh
+with the freebsd
+and we scrapped that date and we're
+working on on kind of getting the new
+one now
+um
+what else i mean
+i
+like what what do you want me to do with
+the ama i didn't i didn't get it
+i think this is something that we could
+figure out off of the call someone can
+just um
+transcribe the ama i think that's all he
+wants
+and then we post it to the validator
+channel well i'm not going to do that no
+i know i know why do we have a name it's
+just a just a question
+but we'll get it sorted um okay so
+moving on uh there was a bit of a switch
+in the agenda so we have to
+push the everscale marketing update
+first so we have nikita and alex who are
+joining us today to give us an update on
+what's been going on with gravity coin
+market cap conference that just happened
+and
+the bitmart listing and i think some
+other things as well so
+welcome
+i actually uh if alex is on the call he
+could uh tell about gravity and the core
+market cap conference alex if you would
+like to go forward please
+no you're on mute
+i'm sorry yeah i'm here sorry nikita i
+was a mute really so yeah i can i can
+begin for sure
+uh
+let me share my screen first so for
+those who don't know me my name is
+alexander i'm representing the marketing
+organization of everscale and i'm here
+to give you a quick update on what's
+going on on everscale
+marketing recently so
+we've got
+a couple of couple of news recently
+uh
+i would say number one is what put it on
+coin market cap gravity
+uh for those who don't know it it's a
+new social network by coin market cap
+which is a kind of mix of twitter and
+medium or you can put articles or posts
+about our activities it is accessible
+directly from coin market cap from
+[Music]
+token from a token page so everyone who
+comes there can see the updates
+and uh
+we've been included into a group of
+selected organizations to join it on the
+priority basis so we're in the company
+of steppen on b chain so it's a good
+company and amazingly we could make it
+from 0 to 5k uh followers in less than a
+week i believe
+thanks to our community thanks to
+everyone who is there if you haven't yet
+uh followed us on coin market cap
+gravity please do it's quite simple you
+just need to be registered on coin
+market cap normally then find us click
+follow and off we go let's make it 10k i
+would say but all in all it's a great
+great achievement given the
+monthly audience of coin market cap is
+massive it's over
+160 million of people coming to coin
+market cap every day and it really helps
+us to make a good progress and even more
+people started to come to our website as
+we started doing this thing which is i
+think is a pretty good news
+another thing that we did recently
+was an amazing event by coin market cap
+again it's called it's their annual
+event which is called the capital
+and the title for this year was time to
+ship it happened uh on the end of the
+previous week on thursday friday and we
+we were presented as gold one of gold
+sponsors of the whole event which took
+place in metaverse so we've had a cool
+metaverse booth
+even not a booth in a small room where
+everyone could could come and and and
+chilled on on our
+how to say small sofas and behind our
+tables
+we've got an opening and opening a part
+of day one opening uh how to say session
+with us our word which was taken by
+nikita as you can see on the screen we
+also took an active part in panel
+discussions it was
+uh michael gord a representative of
+everscale foundation and nikita also so
+uh
+what do coin market cap say they saying
+that about five k visitors
+attended the event i don't know if it's
+how uh what is the final number maybe it
+will change because they are in the
+process of calculating including all the
+live stream use but uh
+yeah i think it was it was a good take
+from outside and there are more
+opportunities from sponsorship that will
+keep you know keep utilizing in the
+following weeks
+uh
+so
+our pr our pr goes non-stop so we're
+going on plan and our plan is to have a
+good article each
+one or two weeks
+at least and we're again we're posting
+key updates and key events so some pr
+regarding coin market cap activities is
+coming and here is an example of what we
+did on
+ramp on a ramp integra ramp development
+it we had on total over
+over 300 mentions over 300
+mentions on youtube which is good if we
+google that article name and uh
+and that was there were binsinga and
+other good good mediums
+there so yeah that that's a quick update
+from my site
+and we keep working
+every day to further increase our
+marketing uh exposure for everscale and
+the ecosystem
+that's it from my site
+thank you you guys are certainly really
+busy i'm happy to see so much great
+things coming out of the um every scale
+marketing initiative
+nikita did you want to jump in and say
+something
+um no
+actually uh alex said most of the things
+i just want to say that
+uh we are also doubling our reference on
+uh prs
+everything we are you know
+you know saying to the world we're
+trying to promote as hard as possible
+also we have initiative uh to promote
+our plans are rolled back
+and we are actually soon
+um
+maybe in
+maybe two weeks or something like that
+maybe even um sooner we will have the
+you know every user will i mean
+like let's take a step back a lot of
+projects you know uh have a lot of plans
+have a lot of road maps that uh and very
+strange things are written there uh and
+these things are not you know uh
+on um
+it's not easy to understand you know for
+for the average customer what does that
+you know each part of rope means so
+uh as alex said we are from uh doing
+articles of ramp on each basically on
+most of the
+you know steps in our roadmap we will do
+separate prs
+uh we already uh started creating um a
+separate article for each separate
+step of the roadmap and they will be
+even separate videos with infographics
+showing the
+the utility of each step of the roadmap
+so uh i know that the best you know way
+to promote everscale is to let people
+understand how superior the technology
+is so we are really working hard on
+promoting uh not just what we have but
+what we are planning to do because it's
+really really great
+uh
+everybody will be will have an
+opportunity to really understand more
+because even actually guys from our team
+uh not everybody can you know say with
+simple words uh
+you know
+again
+about the rem stuff or some other stuff
+about the drive chain about anything
+else what is you know how does it work
+and why do we need it why is it cool and
+uh why doesn't you know everybody else
+do the same thing
+so we are uh
+doing a lot of
+work in trying to
+formulate a roadmap in simple words and
+promote this you know simple words to
+general public so everybody will
+understand
+why every scale is really great in in
+from the technical perspective at least
+and maybe soon from a marketing
+perspective as well
+very cool
+thank you sorry i just forgot you you
+told it at the very beginning but i all
+miserably forgot about bit more let me
+click quick call on that because
+definitely we got listed on bitmart
+recently uh quite recently and
+uh we are having an ima today on
+twitter on twitter if you go to
+twitter.com
+bitmart exchange you can find the post
+there there's a post which you can with
+the link which you can find quite easily
+and the short instructions how to
+register and even win some prizes from
+us and bitmart so
+very welcome to join it will be on air
+uh like within one and a half an hour
+from this
+moment excellent
+join us there yeah definitely go on over
+and win some stuff
+sure you should
+great
+thank you great great update guys
+okay i am sorry that we have
+the king was waiting
+my apologies
+uh it's just
+impossibly you know a terrible situation
+that you've been waiting king me out of
+prepare yourselves everyone we've got
+the most formidable ruler in history
+king meowtis at the throne your highness
+hello humans
+i'm here with you today to tell you
+about what spartacus is bringing
+well for those of you who might have
+forgotten
+we're working on developing a huge
+community of meme coin supporters and
+this is where we don't want
+to
+instigate any market manipulation we
+want to have the real
+holders behind their meme tokens
+and of course we want to kick the dogs
+out
+they have no room in this market
+so therefore
+first of all
+would like you to get ready
+for the 4th of june coming
+and this is where you will find us
+on both pancake and pledge cube
+you will be able to start trading
+right away
+so it's less than a week left and we are
+bringing this to you and i
+grant you this
+and also
+for those who want some more and
+especially to all of our followers
+we have launched
+our bounty program
+so now each
+can try to compete and obtain
+pose
+and from my royal gracefulness
+i would like you to know
+that in addition to that
+we're rolling out
+one of the royal nfts one of the 300
+that could be obtained by the winner
+so we'd like to see
+some real
+competition
+furthermore
+we are
+introducing a
+uh we are introducing a crypto game to
+come soon
+and to be available
+so people will
+will be able to try for the
+p2e competitions
+and for the meme coin market comparison
+competitions
+furthermore
+we're gonna announce yet another
+interesting story that we want to show
+the dogs their place
+but this is something you'll have to
+wait a few
+days more
+oh you've got to be kitten me
+king meowtis you're so persuasive
+pardon me that must have been clawful
+looking forward to that
+does anybody have any uh questions for
+king meowtis
+no questions this time you've had enough
+of our time
+i'm sorry i i have a question can we can
+we see you
+not just here
+you can see what spartacats do
+you can follow what we say
+and you can be one of us
+thank you
+thank you king meowtis for
+blessing us with your
+presence
+you're here and you're welcome
+for now i'm leaving
+okay
+that was
+interesting
+moving on we're going to jump into the
+gba conference and devote there was a
+really successful presentation
+of devote at the gba conference last
+week in dc and we have eugene here with
+us to tell us more
+yes uh hello everyone and thank you very
+much for letting me speak so indeed last
+week
+everscale participated in the government
+blockchain association
+uh conference in um
+washington dc it was a long event three
+day conference um
+i'm showing you a picture please note
+that everscale banner was uh located
+immediately uh to the left of a gba
+banner and was very visible to the
+audience now
+our presence there was meant to address
+several ways to promote everscale
+number one uh yes we presented um one of
+the products that was developed uh by
+everscale community
+uh called devote
+and i'll talk about it a little later
+but the second purpose of our presence
+there was to lead the dao panel
+there is a lot of interest uh today in
+forming different daos in the united
+states uh some
+states like wisconsin for example uh
+wyoming sorry uh are actually allowing
+registration of daos
+so uh it was an important discussion um
+where we were
+covering uh different uh aspects of
+forming and using the dowels for our
+everyday activities
+now um going back uh to the to devote
+first of all it's important to
+understand that uh the audience of this
+particular conference consisted
+primarily of legislators
+senators and representatives
+and government
+there were government representatives
+from more than 30 countries
+there were several ambassadors uh
+including san salvador ambassador who
+also spoke uh about uh the experiences
+the country is having um with bitcoin as
+a legal tender
+and most of the conference activity was
+aimed at explaining the legislators
+what
+should they do in terms of regulating
+the space
+so it was very important to show a
+significant contributions that
+blockchain based
+apps
+and tools can bring to this society
+so devote was used
+as an example of such a tool in fact
+there was an art show running
+concurrently
+with uh the uh
+with the conference itself
+and devote was announced as a voting
+platform so all of participants of the
+conference that were physically there
+could view the art show and vote for the
+best nft it was obviously a show of
+digital works of art
+and nfts were voted for for the first
+time i know they also had a music
+category
+and their their photography and story
+and some other categories that people
+submitted their works and by the way
+some of everscale nft teams also
+participated including grand bazaar
+including nephi club thank you very much
+so um
+everybody
+at the conference had to register on the
+first day
+then they voting window opened and
+people were selecting the best works
+that they chose
+and then we had a window where the
+magical
+zero knowledge snarks technology
+developed by neil foundation
+actually tallied the results which were
+later announced at the rewards ceremony
+with
+some wonderful trophies
+made
+by
+gba were given two winners um
+and in the end i had an opportunity to
+actually explain to people that this is
+the first
+known case where a public voting where
+anybody at the conference can
+participate was done with the use of
+zero knowledge snarks technology so
+again
+everybody who participated thank you
+very much for your support it was very
+much a team effort
+we already have some very interesting
+results of our show
+and that is first and foremost uh
+government blockchain association wants
+to elect the new cto using devote
+boise state university representative
+came to me they want to do a
+college-wide elections this summer
+using the vote
+i have had uh susan eustis susan is a
+legend in elections industry in the us
+she
+invented the first in the world uh
+bulletin counting machine some 50 years
+ago we have a demo
+for her and we also received interest
+from representatives of a number of
+states particularly massachusetts rhode
+island florida they want to explore
+further
+that concludes my report to you i
+welcome any questions
+that is excellent that was a super
+update thank you eugene it's it's really
+an awesome use case uh to see everscale
+technology in real life and thank you
+for showing a picture too you showed um
+there are a lot more images that you
+shared in the chats so maybe we can
+circulate circulate that in the
+community chat too because it's very
+interesting
+uh we do have questions for you
+um you have a cool project devote tell
+me how can i take part in its testing as
+a user
+uh yes it's a great question uh for now
+uh just send me a direct message and
+we'll include you into the group that is
+working to further develop
+make no mistake we are not there yet
+there's still a lot of work to be done
+and we need both
+people with development skills
+and people willing to contribute their
+time to help us in some other ways so
+for now just contact me directly and
+everybody is welcome to help developers
+especially thank you
+okay
+um and the same person who asked this
+question would also like uh if you
+shared some links with more technical
+information about how this technology
+the zk works in everscale he'd like to
+get
+minimal code examples with reproducible
+builds and wants to try the power of
+everscale by hand
+so
+maybe if there are some
+direct links that you can share um
+do you know
+nope i think he's frozen
+um well yes same same person iliac just
+ping eugene and he will shoot that over
+to
+you okay
+um if are there any mother other
+questions
+um
+i don't see any
+okay i think that's about it that ended
+up being a pretty quick call um stay
+tuned for next week yeah i think kicked
+out of the zoom and i may not have heard
+all the questions uh if there were any
+left um i can certainly answer i don't
+know yeah it was um somebody wants some
+technical documentation because they
+want to try it out the zk technologies
+so i told them that they could ping you
+directly and you'll send some links over
+thank you cool
+okay cool
+so thank you everybody that's about the
+end of the call
+thanks for joining us and i was very
+glad to see you all and i hope you have
+a great rest of your week
+bye everybody

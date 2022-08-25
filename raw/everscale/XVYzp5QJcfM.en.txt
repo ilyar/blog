@@ -1,0 +1,72 @@
+in everscale as well as the usual work
+chains for data processing there is a
+type of chain called a drive chain drive
+chains are a type of decentralized
+storage device in the everscale network
+at its core a drive chain is a work
+chain that is optimized so that it can
+store large amounts of data
+drive chains have special smart
+contracts located on them
+in order to store a file on a drive
+chain you need to deploy a file index
+smart contract which is similar to the
+index used on unix or linux this file
+index contains a certain information
+allows you to store and extract files as
+well as pay for the storage
+so what are the use cases well anyone
+can store anything on drive chains an
+example of a perfect fit for them is
+media storage for nfts
+also some of the first consumers of
+drive chains will be other work chains
+that are archiving old states
+so taking a closer look at how drive
+chains work everything starts with a
+dedicated scalable number of validators
+that store the associated data
+all the validators are selected using
+the delecta smart contract the
+validators commit to providing space of
+a certain size that meets the system's
+requirements on their disks and also
+commit to transferring this data within
+a certain period of time
+validators receive this data as a result
+of synchronization if the applicant does
+not meet any of these system
+requirements they cannot become a
+validator
+the data is stored in an encrypted
+format none of the validators are able
+to decrypt the data and read it all
+files are stored with multiple copies to
+ensure high reliability speed and of
+course availability
+to make sure that the validators
+actually fulfill the stated conditions
+the following things take place
+random sampling of fragments of stored
+files in which small chunks of
+information are queried
+deterministically
+disk occupancy checks by writing quasi
+random bits to the disk to fill the
+decledge storage space and further
+replacing these with client files if
+there is a request
+and data transfer checks with final
+confirmation of receipt from the
+customer
+if files are unavailable
+damaged or are not being transferred
+without any notice then the validator
+stake is reduced when a certain number
+of situations like this occur the
+validators who are responsible are
+eventually subject to slashing in this
+way a transparent and reliable system is
+built up where nobody is interested in
+not storing not transferring or lying
+about the data

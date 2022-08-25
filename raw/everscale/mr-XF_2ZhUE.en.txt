@@ -1,0 +1,346 @@
+hello guys
+[Music]
+hello
+[Music]
+okay traditionally we'll wait for one
+more minute and let's start
+[Music]
+okay let's begin
+so we have a
+very short agenda for today
+unfortunately uh the team that uh was
+going to present the idoc contest and
+the vision of
+development of this section so they
+didn't manage to join us today but they
+for sure will join uh next time
+and uh in between so they will publish a
+draft of the
+ideo
+launchpad
+contest
+so uh
+they're for sure we'll drop the link in
+the chat and on the forum too and we'll
+explain the details
+uh
+on the next call
+so uh i will not spoil it for now and
+uh
+we will have a
+possibility to discuss next time
+so uh
+let's start with traditional contest
+updates and so first of all i would like
+to congratulate the winners of the
+oracles
+contest
+there was only one submission from the
+prevender team and
+it passed the quorum hopefully for the
+first time
+and got the minimum threshold and
+all together so congratulations guys so
+you managed to do this so but uh still
+there's a
+big amount of work to do so
+for sure there will be the second
+iteration of the contest including the
+economical part and
+more precise uh understanding on the
+decentralization standpoint and uh
+yeah so there are still some points to
+improve uh that can be done in the next
+step
+the second uh update is about the
+uh dex contest so actually the
+submission period is over so and we have
+11 days to vote
+uh
+with
+five submissions uh so
+please jurors uh have a look on them and
+guys who have submitted for the dex
+contest i expect you to run the ama
+session or at least post a video demo of
+your solution to facilitate jurors work
+so uh please dm me uh when you're ready
+to run the mma session so you can do
+this all together or one by one so we
+still have a plenty of time let's do
+this starting from tomorrow
+so who is ready to be first
+so you can do this
+if you are ready to do this today so we
+have a lot of time so you can do this
+today
+and
+as for the ssi implementation contest
+there are still eight days for
+submissions uh after that we will be
+voting for those who submit
+so please uh do not wait until the very
+last moment for not to miss the deadline
+uh that's it for updates about contests
+um
+do you have some questions or discussion
+on top on top of this
+i know okay
+so
+then just for the fun fact so i'll just
+drop you there some updates about the
+economic activity uh
+in in the device sector today so uh what
+we have done swap uh actually
+we have uh reached
+27.3 million dollars in tbl and we
+expect it uh to grow rapidly after the
+second uh version of the bridge is fully
+functional and have interfaces
+uh
+with 27.5 tbl uh locked at farms so uh
+obviously almost uh 95 to 97 percent of
+the total tbl transform is currently
+locked
+in farming
+and some
+some extra is on top because of the uni
+swap lp tokens that are also uh logged
+there
+uh and over the recent 24 hours there
+was a turnover for
+over uh 500k
+dollars
+so with 1.5 million in
+the past seven days
+uh
+by the way i'm really thinking about uh
+having some
+data worksheet that is
+that is updated
+on a weekly basis it shows the activity
+uh you know the network and guys who are
+uh developing the access so if you can
+submit this information to me as well so
+we will include this in the aggregated
+data sheet and
+post it together with the define
+alliance's updates on the device sector
+news
+and also uh what i want to do to add to
+our weekly calls is the uh some digest
+about
+uh the recent updates of the defy
+products that we
+have launched in the
+freight town so please
+dear teams so if you have some major
+updates you have something to tell uh
+what you're proud of so please film in
+advance so i will include the updates in
+in the digest
+uh so that's actually pretty it for
+today
+so now not nothing more to say so and if
+you have any additional topics that you
+forgot to tell me before
+so uh please so asean source is saying
+something in the chat what's the name of
+the contest it was about to be announced
+uh yeah it's a contest about the launch
+pads actually so uh initial decks
+offering uh
+in freetown
+uh yeah ideo right absolutely
+this is uh something not really new for
+the defy world but still if we want to
+attract a lot of projects and uh
+let them
+start from the uh
+right network i mean return of course so
+we need to provide them with the tool
+sets uh that
+will facilitate the launching of the
+project and uh interacting with
+investors
+uh and so on and so forth it's not an
+easy task so and under i know that you
+had
+some experience in the past yeah so uh
+in terms of icos so i think you can be
+an expert in this and uh
+for sure i expect you to participate in
+the drafts in the contest
+yeah
+that's true that's true i had some some
+experience and it was fun but it's
+really hard with it it's definitely hard
+and in the ideal sector especially with
+the tough pressure by the regulation uh
+government's recognition so now it's we
+should be extremely
+cautious when we form such contests and
+uh
+when
+requesting people to develop such
+platforms but hopefully so we already
+have at least several uh teams that are
+ready to participate in this contest and
+um
+so one of the teams will be presented
+next time that they promised
+and three more to come maybe they will
+also at least one or two more will be
+able to join
+our call and tell about themselves
+so if you and or if you also plan to
+participate so you can start thinking
+already
+about what can be improved
+i hope that we will draft the
+uh contest
+very soon
+this will mean
+that by end of tomorrow and
+post it for
+community review to the forum so please
+also join
+share your available comments
+yeah
+okay
+anything else to discuss guys please
+okay
+uh i will be uh
+in dubai
+the the week starting from actually
+october the 10th till october the 16th
+so if you happen to be there also so
+just text me so let's meet
+so there we go what's happening
+uh there are actually happening two
+conferences one is wow conference uh
+it's about
+uh mostly fintech and uh investor
+relations
+uh and some other sectors so just just a
+good mix
+uh mita probably is is present there too
+if i remember it well yes i am yeah yeah
+and uh another one i i forgot its name
+it's it's something abbreviated so uh
+it's more about uh the fund related uh
+conference so we will be presenting also
+the uh free tone and discussing about
+the device sector uh
+from the defy lines
+uh
+so yeah you want to say something
+yeah i actually wanted to talk about
+uh like just to ask about the dex uh
+contest and uh
+should we present this place solution
+like not like scheduled already page
+well right now i don't think so let me
+ask
+uh we weren't but i didn't think that we
+were going to present today so we didn't
+kind of uh
+prepare
+no it's absolutely fine
+yeah yeah so let's schedule as a demo
+because
+what is it when you have ama session
+like prevent the team for example d
+significantly helps people to vote votes
+at least vote and understand what they
+are voting for so um because not
+everyone was able to join but at least
+when you
+can listen to the recording so it really
+helps
+with pleasure
+very good that's scheduled i i would
+love to hear you
+tell about the exact time
+yeah uh preferably earlier than later of
+course so uh monday i think will be
+ideal choice
+uh
+for to schedule at least
+i have my personal schedule uh quite
+loose on on monday so uh
+i have some time now there's a tough day
+usually
+oh maybe we can we can schedule it on to
+use the um
+maybe after the governance call or
+something
+yeah yeah good choice
+you see already some time slots are
+being booked so guys please don't to the
+side
+will there be a presentation of flex
+order book exchange or will there be
+also mm presentation
+both
+fine
+ivan by the way
+you promised me to post your submission
+uh to the oracle's contest
+and i didn't do it
+isn't it but i i changed my mind
+oh wow okay it happens
+why
+well that's just because i i
+i just didn't want
+kind of code i just
+don't want to rest i am now in creation
+and
+this is for
+yeah yeah i moved to place well for
+not so long time but i'm not really
+ready to code now okay okay i see
+no worries okay absolutely fine
+so all good
+uh peter by the way did you know that
+there is a token named meteor moon
+great
+finally and available
+finally yeah
+thank you for not calling me meet your
+son because that would be awful
+you know it was the first idea that came
+to my mind that why not meet you soon
+that's horrible
+yeah
+in fact we
+have seen quite a drastic interest in
+the tokens creation so i see over uh 150
+tokens being created over the
+uh past two weeks so uh some of them
+with a quite fun names like uh
+mitten moon or
+dusa
+like tokenized
+something
+national depth of usa
+so quite quite fun
+yeah and uh
+i definitely hope that it will really
+help people to crazy projects and
+base the smart contracts on
+friton and boost the network development
+all right any other topics to discuss
+guys please
+okay in this case
+traditional countdowns three
+two
+one
+nothing okay uh thank you guys for
+coming uh
+[Music]
+sorry for today's short agenda
+yes i'll see you next time i hope next
+time it will be more more
+full
+okay bye-bye guys bye okay bye

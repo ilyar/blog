@@ -1,0 +1,43 @@
+the sm ft protocol and security
+the soft majority fault tolerance
+protocol is the core of the everscale
+network it's a variant of the
+proof-of-stake consensus model with
+major tweaks everscale has both sharding
+and multi-threading meaning all
+validator nodes are divided into groups
+the smaller the groups are the bigger
+the risk of validators colluding and
+sending false blocks but not with the
+smft protocol
+the smft protocol requires every block
+sent to the network to be verified
+first a thread collater i.e the
+validator proposing a new block
+sends it to all nodes of the work chain
+then some nodes of the work chain called
+broadcast protectors
+ensure that the block has been sent to
+51 of validators and send this
+information to the master chain the
+validators then randomly choose a number
+of verifiers which have to verify that
+the block is correct and then also
+submit the proof up to the master chain
+the chance of slipping through this kind
+of multi-level check is minimal all
+validators trying to ship a false block
+or those who don't report this behavior
+will be heavily punished by having their
+stake slashed
+the probability of an attack being
+successfully performed requires the
+majority of nodes to be malicious
+because it's impossible to calculate
+which node is going to become a verifier
+the best strategy for all validators who
+want to keep their stake intact is
+therefore to be honest the smft protocol
+thus makes everscale comparable only to
+bitcoin
+in terms of security

@@ -1,0 +1,1278 @@
+And so Greetings today to all of our
+ama session Today the
+Bali team is visiting us
+guys prepared a great post about
+how they plan We integrate a
+very interesting project for the system as a
+whole I
+wanted to give the floor to the team immediately the
+team will answer will show meditation then
+answer the community question so
+Ivan let's  I’ll start then Hello
+everyone hello everyone the
+guys asked you to start the day, but
+unfortunately I didn’t have time to come up with it I hope
+no one was upset I also hope that
+everyone stocked up on delicious tea in a good
+mood Today we will raise the curtain
+and immerse you in the Secrets of our Universe,
+but first I will draw your attention  for the fact
+that we are having a small Contest in
+which you can collect a unique
+collectible pain card. To
+do this, you just need to
+subscribe to our social networks and at the
+end of our drink ask interesting ones
+with the hashtag
+ballet ama
+now I want to introduce
+you to our team members this is woogie our
+creative director
+Ivan architectural Lead of the project and of
+course Danila Solovyov,
+our inspirer of the project, you have the floor
+Hello everyone My name is Danilov I sat down with the
+project  years
+ago, IKEA
+created the largest
+city in the world, the city of Toronto
+We created a quarter of this city and
+converted it into a game
+engine  stops I know what kind of
+apartments I visited there
+none of them
+is a very cool project but the government
+because we have a back office located in
+here in Indonesia we got out by the local
+government and offered us to
+switch to Indonesia with its
+unique laws and the opportunity
+so on April 14 we  joined the
+city
+toronto history to the island of Bali as a
+pearl of
+Indonesia
+Why tell you
+well Guys all hello once again I
+have already been introduced but actually in
+the bolitwin project I am
+creating worlds trying to saturate our Meta
+universe not only with some
+cool game mechanics but also
+meaning in the form of an interesting narrative, in
+general, if possible, I will also demonstrate the
+screen a little and entertain you with stories
+So
+share the screen for a start, probably
+someone from those present is interested
+In general, what is it that hurts Well, that is,
+not everyone got acquainted with our
+presentation materials,
+this is a large-scale gaming platform
+built on modern  technologies and
+inspired by rich cultures We are
+fully technology i.e. We want
+to give players the opportunity to explore the
+vast, truly vast video game
+world equal to the whole island and at the same time
+enjoy photorealistic graphics
+that are
+not rendered on their computers A on a
+remote server A and  m, a picture is already sent.
+Therefore, you don’t need to have
+some super powerful video card,
+a smartphone is enough,
+so
+if you disassemble its components,
+you can first show a few pictures,
+here’s the actual place of graphics examples, we
+have already digitized real locations brought
+them into the game And at the moment
+we are switching to a digital island, that is, we are switching  from one territory
+to another and we are
+implementing the whole thing with the help of our technologies,
+that's what it is in general if you take it apart into its
+components, this is a story MMORPG That is,
+it's straight Open World where players can,
+that is, receive quests,
+interact with each other
+socially and, most importantly, we go through a
+fascinating story  all players with
+great experience and love
+story-oriented games and therefore
+decided to bring it to our world, since
+now most of you know that the Meta
+universe is essentially empty worlds in which
+there is no any history, we want
+to bring this story
+also with us  there will be a large digital NFC
+marketplace cat  which will allow you to buy and
+sell real estate in
+Bali with the help of tokens, as well as
+monetize the art that
+local artisans create here,
+digitize, have
+fun with all these things that
+options are used to.
+In addition, we have a very important such a
+large Plast
+business that we create, we
+develop cadastral services, this is
+such  A digital catalog of all the real estate
+that is here in the coolest format
+in which it will be possible to run live
+inside the location to look at those places
+that you are going to buy
+live, just like you
+are there Well, of course, we have a
+very important social mission - this is an
+educational platform That  there is
+this very, very rich culture that, in
+some miraculous, unimaginable
+way, managed to survive inside
+Indonesia, a giant Muslim
+country that
+actually doesn’t
+even know the
+history of Bali herself, because Bali defended
+its culture, it’s like  a country within a
+country and what we're doing is digitally
+real assets real
+existing cultures bring it into the game
+right now you remove the mask in front of you
+one of these masks let me
+stop for a second to show this is the
+very mask here in Bali is
+very different from the rest of the world  visual
+culture their own artists their
+own artisans who have
+developed a well-defined
+identity that is fundamentally different
+from what we are used to as
+Europeans Americans other
+residents of the country
+and we are actually preserving the
+cultural heritage of Bali right now I mean
+we are literally preserving it
+because here  for example, the ancient Mask is also
+known by a local artist who
+created works for the palaces of kings
+who are a member of a
+centuries-old dynasty that gives its
+craft from generation to generation and here are the
+objects that they produce, they
+decay this mask for 150 years and
+other similar masks  which we are
+already preparing children's collections and
+some of them are made of such
+materials leather Or bone or wood and
+all this will simply be
+completely erased in another 100 years, our idea
+is to allow people to
+get to know these cultural heritage in a playful way,
+not only with  masks but also with
+other things literally We are
+photorealism in absolutely realistic
+graphics very high detailing we
+scan a real island we take away its
+statues ancient temples
+have already mentioned that we have governments
+and having this support we got the
+green light to go to those
+places where usually white people  they don’t let me in at all,
+that is, there are some tombs,
+temples and so on where tourists simply don’t
+get in. We don’t just get in, we
+want to make a
+living opportunity to give people to visit
+these places where they would never be in Bali anyway
+some examples of our  graphics Yes, this is the
+primary garden that we scan
+for example an ancient altar
+immediately includes many
+deities and
+Well, I'll show you a few more
+examples, I won't leave any details
+actually We want to give people the
+opportunity to have fun playing, learn
+history, recognize culture and at the same time
+also earn money And
+finally, then you have a word further
+Because  we're talking about interesting things like
+money because here a lot of people
+are interested in Moscow I
+'ll just show the rights just for a second This is a sword
+Check out this ancient Chris sword these swords are
+not found in other parts of the world
+Here almost every thing
+matters very different and amazing  for
+example, the number of bends on this ball
+can mean the person who
+is currently standing
+in front of you if there are three of these bends in front of you This
+means that I am a warrior if there are 7 of them, then this is the
+guardian of the temple And if there are more than 10-12 and
+so on, then this is a person  royal
+blood In general, all this is very unique And
+this ENT is the whole rich thief of the universe, he
+does not require for  in order for us to somehow
+come up with it strongly, we are essentially engaged
+in the fact that, as archaeologists, we explore and want to
+bring it in,
+let the players get acquainted with it,
+since it is
+strikingly different from everything that
+everyone is used to seeing, which means that it is
+interesting only the gods if they
+let out their eyes  and the demons that
+exist here,
+in general, okay, money
+is very interesting, we make
+presentations on the island and sometimes I ask the
+question
+if someone knows what Chris sword is here
+on the island and Stas of the listeners raises
+his hand 2-3 people and these are people who already
+live here
+[music]
+cultural values are cultu
+al values are the most important component o
+real estate
+pricing because you can buy exactly uni
+habited people come here precisely f
+r cultures for the community I will descri
+e the process in brief  Bali
+lands to  the cultural values of trading on the crypt
+currency exchange we appreciate and love the islan
+this is our home and we want to keep deduc
+ions from all these operations and sales
+we give out to all parti
+ipants in the process including stakes and those
+people who create this story so la
+d sales go hand 
+n hand  with a presentation of the local
+environment of which we will tell our
+architectural
+so Hello everyone And me too oh
+[music]
+Can I take the screen ball away
+[music] the
+guys are calling someone they are calling
+Let me turn off the extra sound for a second
+because
+[music]
+we  we are in the office we are
+still in process And my name is Ivan and
+I am thinking about the future in the language of
+building game architecture because the guys
+mentioned that our
+game is in the foreseeable
+future of Bali and for me the Meta
+Universe is an occasion AND an opportunity
+to create a theoretical development model
+living environment itself in the very
+foreseeable future and this model is based
+on a real sample of this  very interesting,
+we can digitize the environment, we can
+create rules and codes and then
+simulate the execution of these rules and
+codes of the universe, and in this way we
+can turn it into a real
+recommendation for improving the environment
+today, so we kind of create
+one of many social benefits for the island
+the paradigm in which
+We think about the future
+We called post-urbanism a term not
+fully defined, in principle, we can
+develop it beforehand, and thus
+our research even in some way
+has academic value what
+is post-urbanism this state of the world
+when the disadvantages of large cities
+outweigh  their magnetism, let's say this is
+very coolly demonstrated
+pandemic suddenly our cities became super
+comfortable places to live what we
+did We escaped from them all who could and
+learned to work remotely learn
+to be treated remotely everything we want can
+be either remote or can be
+delivered to us I mean we  left the cities but
+did not lose their Comfort  And
+despite the fact that it was such an external
+shock, the urbanization trend
+is still very stable and
+Bali is a very good case
+for extrapolating this trend.
+Therefore, in our study, we looked
+at the urban concepts of the past
+in order to create a digital
+archipelago of the future  We study
+traditional Balinese architecture and
+break it down into elements from which we
+make libraries
+and also look at what form the
+architecture of the future will take and what values
+ill this form we study the m
+bility structure of the island in order to th
+nk about what publi
+transport could be in the future  and
+how it will actually
+change the environment on its own We are studying the
+irrigation system and patterned settlement to
+look at To understand what the role of water will be
+in organizing the settlement beautifully on
+island A and In general we have studied the island of the
+share across us we have done a huge
+cartographic study we have
+looked at the social  iohemographic own
+to physical own We study the structure of
+the ownership structure on the basis of
+which we make the aforementioned
+cadastral portal That is, an
+information product that contains
+detailed information about any plot on the
+island that can serve as an
+analytical tool for
+research can be a public
+good for transparent management of the
+land structure for the local
+governments and also for us this is the basis of
+ours which the guys will talk about later Thank you
+We are going to make money on the sale of
+licensing Meta objects are allowed
+For various streaming services
+such as netflixbc our model
+is being built more streaming service
+staking system service payments
+purchase sale
+rent real estate this is what we
+are going to
+make money with us our team
+consists of 40 45 people at the
+moment mainly developers
+from various areas
+We are going to launch
+in the market soon Three products  The first one is
+Place brand NFC which is preparing to launch
+mid to mid or end of July
+Perhaps even earlier where we will
+show all these objects already in 3D with the
+ability to kill to see the smallest
+details
+to delay what it shows
+but you will be able to familiarize yourself with the materials
+on our social networks second  the product
+is a cadastral plan
+We produce all these products based on
+the same data, which does not harm the development, the
+cadastral plan will show all the lands.
+Thus, we have lined up the
+opportunity for people from all areas to
+invest painlessly and without fear to
+buy land for their homes now the
+situation is different the third product is a game
+that is the first  series that will be released
+only next year production of the game
+This is a very complex and time consuming process
+For sure you know that it takes
+years but we will be releasing interactive
+shows that will allow you to reveal the ENT through
+a script that will take place
+on local sites that we will
+detail three products in
+preparation  the first month already next month, more precisely
+this time in our time.
+Yes, you know, I was just drawing a line
+to possibly pre-empt
+people's questions, maybe I'll just now
+quickly answer a whole series of questions.
+I will
+quickly go over them firstly,
+these are realistic graphics, that is, it is the
+new version of the Unreal 5 engine and
+modern streaming technologies
+that allow us to make really cool
+graphics. Examples can already be seen right now,
+in principle, we rummaged around the
+screen a little, but I think that we will soon be
+launching a trailer for  a trailer to make it
+clear exactly how it is All beauty will
+look like here we have set ourselves a
+global goal our second advantage is
+that we create a real copy of a
+real island these are unprecedented
+cases of such a scale Well,
+only online
+games about space that procedurally
+generated giant territories aspired to such a scale
+constellation constellations, we, in turn, have
+developed our own
+procedural generation technologies that allow you to
+quickly
+digitize And bring
+gigantic landscapes to the engine, our team even
+has a geologist who
+uses satellite images
+to generate height maps for us,
+which then brings In general, we have
+developed a lot of our own  plug-ins that
+allow architectural projects to quickly
+convert and transfer the engine and we
+really plan to digitize the entire
+island, but it's clear that this
+will not happen immediately and therefore now we have
+started the districts step by step from the kingdom of badung and
+this is one of the
+nine kingdoms that is located in
+Bali and so far  we are transferring various
+separate objects such as temples and so
+on, now on the screen you see
+just a rough auto-dometric scan of
+one of the territories that will already be
+sold in our marketplace just
+think this is a real location that
+can be bought for real money and
+it  but we already have it digitized.
+In addition to this scan, we already have a
+full-fledged gameplay piece where
+you can run in this location where it is
+already in the engine. Here are
+also the
+advantages include the unique
+ENT Bali, that is, anyone can
+immerse themselves in culture from anywhere in the
+world without simply leaving  at home, here are the
+opportunities to buy sell
+rent real estate land
+art objects is a lot of fun and
+also in our project there will be an open
+platform for urban architects
+that allows you to transfer the complex
+architectural design of the engine and
+test these ideas of the Meta Universe, that
+is, it can really build
+some kind of thing inside the engine quickly  I
+converted it and show how it will
+look like two stages of construction and all
+this is repeated graphics By the way, in the
+picture, just one of the concepts as it
+was going to do not apply to what I am
+talking about and it is very important to understand that
+we in the project are really worried about the
+balance between  modern plate arn
+mechanics and traditional game
+mechanics typical for large-scale
+multiplayer games, we are really
+hovering over those situations that are now making noise In the
+gaming industry like Diablo, when
+game developers make
+games that force users
+to pay more and more money just
+to play at least a little bit  game
+We are looking for some balance where it will be possible
+to enjoy a cool story
+company and at the same time for those who want to
+earn money
+to do it with the help of various mini-games,
+for example, we are now developing a
+cool game based on the
+traditional bally fun of cockfights,
+that is, we will have
+cockfights  inside the game, a and e,
+since we have a
+prosperous bloodless society of the
+future, where they didn’t attribute it, we
+fight Not the roosters themselves, but their digital
+projections that put on VR glasses and
+appear in the form of holograms that
+can be customized on which you can
+put on armor that can beat
+with each other And, in general, it’s quite
+fun and And it all fits well with Well, the
+classic game mechanics, while
+this does not affect the main
+storyline company, which can be
+completed without all this, that is, we
+are looking for a balance for classic players and
+those players  who came for the money and of
+course this is a META Universe with great
+social opportunities for players and
+brands brands can be
+integrated in many ways for us from
+the fact that for example a live store can
+actually be presented inside the
+game being real in stores
+located in the same place where  it
+is located and we can really
+transfer elements of clothing there because
+we will have character customization we
+will have the opportunity to change clothes change to
+put on all sorts of masks and get all sorts of
+perks but in general everything that is
+familiar to all users of
+multiplayer online RPG Well,
+something like this if we talk about our
+the advantages, probably, and if we talk
+about what we  in fact,
+we already have such a task that for the
+next 5
+6 10 it may well develop and
+evolve because area by
+area mechanic by mechanic we
+will introduce new
+features for players into the game And what is the
+coolest thing players will be able to do all these
+features  soak it up without
+having to connect to some
+online stores where But they need to
+download a lot of gigabytes of pas Every
+time the developers create new
+updates, all these updates will just
+immediately appear in
+the game.  the mechanics when the player can
+beat and implemented it bang It appeared in the
+game We released a new series of
+interactive series we inserted it
+inside the game and the players discovered it
+right the next day without
+having to download anything
+and I think that
+in the future We can switch to
+others  islands because even right
+now we have not finished Bali yet And we
+already have a lot of ban  wasps from the
+government of the adjacent islands
+who offer us to
+digitize their real estate for money we already have a
+large number of incoming requests from
+different hotels that offer us to
+bring to implement the universe In general, there
+will be something to do for a
+long time and the project This
+project is not just one day  year
+this is a long-term project this is a project
+that will develop
+and evolve by the end of this year
+We want to release mvp That is, just a
+basic
+version of an already working game that will be
+essentially a miniature prototype that
+you can already run like a sandbox
+enjoy some basic
+mechanics and
+watch a few episodes of
+history  which will talk about the
+local Laura and then we will just
+gradually introduce more and more new
+features stitching the map like a mosaic and the
+result of this mosaic will be a complete exact
+digital copy of the island of Bali with everything with
+all the real estate and
+landscape and nature animals all
+about  with steel gizmos, I
+can say that the presentation is generally
+simple. I’m shocked, so to speak, Second Life
+at maximum speeds, a good schedule, they also
+write comments that Wow,
+it’s true
+, we still have us here to
+eat very tightly, in principle, if we can
+tell a little more ground if  there is
+time
+[music]
+companies with which it is possible to build
+we already have
+established
+partnerships that allow
+[music
+] to stream the game now
+for free
+it will be mainly partners and bloggers
+who will cover
+what is happening we will be broadcasting
+this year 51 users this is it  well,
+thousands of users just at the same time
+Maybe there are 50 on the server
+and now we will tell you about the economy
+economy if anything, you can return to
+the presentation  graphics is just
+sy  I’m digging the digitized Earth on which we
+have previously placed objects and the
+basic character is running, here the graphics
+will be different. Just as soon as we
+finished digitizing the first area, here are
+four hectares that we are going to
+actually sell.
+These are our graphics. The
+sense that Putin wanted to say about
+tokenbali  throughout the project, tokenbals
+have utilitarian functions, some of which
+Danila Solovyov previously described. I
+want to focus on
+some other aspects, such as
+the if system with the first one. I think that
+everything is clear to everyone.
+will be new
+it especially lies in the fact that the
+user needs to collect a
+certain way of property such
+as land building of course the temple But the
+most important thing is that for successful
+operation it is important to
+perform daily in relation to the spirits in the form of a
+special new
+just like the locals have been doing for a
+hundred, maybe even thousands of years, but oh
+well, let's not get into the details,
+let's not take away the details, but let's move on to the
+important point of the
+Sailor Sky partnership, if we put
+aside the uniqueness, scalability of the
+speed, the security of the blockchain, of
+course, its wonderful  community
+we are like
+creating a family family in our project And
+we are together on the same island and
+if I can say so during this time or
+make friends with some members of the team
+and
+at the end I will not dissemble we
+are interested in the financial support of the country
+to launch a mass scanning of
+lands we are growing very quickly for  in order
+to develop the vast territory of the
+island, which
+of
+570,080 square kilometers,
+in order to develop it, we need to
+increase the team and increase
+capacity and I believe that together we can
+build the future
+on this we will all be very happy to
+answer all questions
+yes guys
+What is the best
+what we give  Ever Scale Yeah yeah
+we dae  we bring our technologies to the
+community that will be interested in our
+project, we will be able to go this
+way together as previously mentioned We are working
+with the support of the Indonesian government, in
+turn, we will be able to share the
+platform of blockchain technology
+located inside the ever greater
+mass of people on planet Earth Crypto
+community How I played  I used to think we
+believe that together we can build the
+future
+Yes, for a second, the population of this Indonesia is
+Bigger than The population of many countries in the
+world as many as 273 million people live and
+now we are actively planning to
+promote our project, including through
+all possible local
+mechanisms, with the support of the
+government again  because here everyone is super
+interested in learning about the
+ballets of a gigantic muslim country
+that knows practically nothing else.
+That is, they don’t teach it in schools
+and, accordingly, everyone also goes here
+as tourists and therefore the
+government is interested in
+sharing this because  in fact, a more
+gigantic island is a museum and
+in general I think that together we will be able
+to learn very cool even more
+no one knows,
+I found out myself recently talking with our
+local producers and people who
+help us comprehend the culture of this
+island, it turned out that the first thing that children are taught
+in schools is to smile  children
+sit and smile
+for a month, teachers at the end of the day put
+sad or happy emoticons on and
+then analyze each of their students
+and already build a training plan. Therefore,
+if you have already been to Bali, remember that
+everyone hurts always smiles sincerely
+for real.
+Thank you for your attention,
+you can have more facts if  the question
+answers questions, otherwise we can
+endlessly tell interesting facts about
+Bali
+Next question guys tell us a
+little about your experiment
+before how in general
+Well, in principle, they told at the very beginning
+about the history of the company, that is, everything. Here are the
+technologies that are being introduced now, it
+hurts, you can see this. The legacy
+of Danilov's six-year work  companies  and Karium, which
+was engaged in the digitization of
+giant cities and the
+creation of Digital cities, that is, the
+companies inherited a huge
+amount of developments and technologies
+that we now actively use and, in
+principle, everyone has been working as an engine for more than a
+year, and it started with real estate
+creating video presentations on a game
+engine for
+all sorts of giant architectural companies and  companies of
+our team we have a star team
+told about me and will tell about him
+excellent
+boogie creators cameramen main
+creator of 3D helmet and producer of the film
+hardcore first film First person
+there is a lot of information about this
+Internet
+to work for me I personally as a
+creative director have enough keys here
+great experience in advertising
+I understand how it all works inside
+as a director I have shot a huge number
+of commercials for music videos in
+different countries and have written many
+different scripts but I also had a chance to
+work here is the pride of my
+feature films hard  core together as a
+card sharper because the film grew out of our
+music videos filmed on a mask I can
+show which actually I invented
+a film was shot that was released in more than
+70 countries of the
+world, in fact, the topic of masks does not
+let me go until now I have digital
+masks in Bali
+and you can also  to say about most
+of the team members
+Big projects all came to the project as
+baggage in such a way that now Nobody
+is studying now embodying a
+long Star career
+Yes, for a second We have a bathhouse
+that is a
+professional urbanist architects
+who work on many projects in
+Moscow studied in different countries and in
+general  - he knows firsthand about
+urbanism, not from the videos
+of some Varlamov, but really
+understanding and
+realizing how these mechanisms work
+and you can continue like this
+[music]
+will soon fly here By the way, we are
+quietly taking everyone to the island here, on the 5th,
+two creators will fly to us  graphics
+one of them is the one who worked on
+Call of Duty
+fifth number of
+people because we understand the potential of the
+project We are very interested
+in not just doing something to do
+something that will really have an
+Impact because the work on which
+we cut for the next few years
+at least and do not want these few
+years  to spend for nothing That is why we
+try to hire people
+who are stronger than even those who already exist. We are
+direct careful selection now, in addition to the
+Russian-speaking parts of the team, we are actively
+trying to get people
+from other countries, since game design and
+such things are, in principle, very global
+history there are not many great
+developers so we are
+extremely interested in such personnel and
+if you know such personnel, please
+share
+So let's move on Next question by the
+way very pressing questions
+first question from Sergey He asks I
+bought land real estate in the game
+We have several several types
+that are being implemented now
+when you own not only Wirth rights
+real object use real property now we have the
+first lands that we sell Through the
+cryptocurrency
+our token is bigger
+that’s why our project
+can be well fixed when
+the world drinks market
+and I guess I’ll add just Denmark We
+have different types that is because our
+methods are like  if in the future, that
+is, we have the very action of the game taking place
+in the future, not absolutely all the objects
+that are now present in the real
+world will be transferred, I mean
+this does not apply to some ancient temples,
+these will all exactly move, but
+some
+building that is somewhere  then it
+can be located a little different inside the game and,
+accordingly, all these digital
+lands are somehow coordinated
+together with the real owners of these
+lands and we will give deductions to the
+people who live here who
+provide actually for this we
+entered into a partnership with the government
+very cool very  cool
+next next question  with
+Max How are you going to add the
+universe to the first million people
+Well I can even continue the sound wants and
+principle Quite a simple question
+just a million people is not the limit so
+in general we have how we are now explained about
+40 minutes a very extensive story that
+hits completely different audiences there is an
+audience of classic gamers  people
+like me who love story-
+driven games
+this is one audience of 30 years old there are mobile
+players who play
+telephones they are interested in sandboxes this
+audience is much younger there are those people
+who live
+and there are people who are essentially applied
+dead and so interested in buying and
+selling real estate to look at a
+convenient catalog  digital real estate
+This audience of the
+story will be attracted through
+absolutely different marketing moves and I can
+say that in order to promote the
+project we will do collabs with various
+profile bloggers we will release
+pieces of an interactive film in order
+to tell the ENT you know  most of the
+Meta universes, even including this
+Zuckerberg universe, they are not an
+interesting audience. Why Because these
+are Empty worlds with nothing to do,
+these are worlds that do not contain
+some interesting grain of history inside themselves and
+in order to understand why
+some games attract a wide
+audience and captivate  for many, many
+years, it’s enough to turn to the experience on
+custom RPGs like Skyrim; there,
+every stone, every twig, every
+character has a great run of history;
+Kimchiki we
+plan to release during the
+development of the game, that is, we always
+want to give out content and we want to make the
+community and we are already doing it
+simply by giving
+absolute transparency in development, that
+is, we will directly show the
+development process, tell it to unload
+people in stories from the world and in this way
+nas  to keep the information field with us
+long before we even release
+at least a minimally working product,
+we have something to tell thanks to
+many generations of hospitals that have already
+worked hard for us, everything that we need
+to take and tell and add
+because the history of
+the island has already been written by time and
+written by people  and we don’t need to invent anything,
+we just need to dig
+deeper with this, and
+people from the Indonesian government are helping us also
+Answering the previous question about
+recruiting a million people, I will
+reveal a little secret that the
+company Partner with which the company with
+which we have partnered, it
+helps us get into  all
+indonesian media both internet and
+physically printed buildings and television broadcasting
+i think you can imagine the number
+here who dream of their
+own game about their culture and their
+country
+russia familiar farther out in the world we will definitely
+visit all the video game exhibitions
+we will definitely do all sorts of
+cool roles  iki on the Internet, since
+our team has experience working on such products,
+we
+will continue further with questions.
+Roman seems to
+see questions. This is that next
+week we are launching a channel on which we will
+create a
+reality show for our project where
+we will cover the life of the team,
+the development process and, of course, Sacrament
+the beauty of this island we are a very
+interesting producer But you know this is
+cool actually there is already one video by
+hand There we reveal in great detail
+just how we are going to make it
+sore wine interesting for the players Step by
+step watch be sure to spend 22
+minutes of your time
+Next question When  you can play
+How much it costs to play and whether the
+mass will be available
+for the test no it will be possible to get in
+in a month and a half for this you need
+to become a private investor for this
+you can contact
+and get access the
+game will be launched in December of this year
+it will be defective but there will already be
+locations there already  will be a lord
+maybe somewhere along  run, but of course
+I want to note this, you guys understand
+that a full-fledged big game has
+been in development for a couple of months, so we will
+transparently openly release interesting
+things that you can study
+right now and reveal them step by step
+But this will be available
+only to our community and those who are with us
+whether to invest in one way or another,
+this also
+answers the question of how we will
+attract an audience. This is how we will
+, including
+giving the opportunity to play even
+before everyone can do it
+.
+make the
+game accessible even to those who do not have a
+hill of money Where to find
+tokens that need to be paid to us in
+order to see and learn
+something we want to make a low entry threshold
+so that it would be interesting to play both for
+classic players and those who came to
+earn or spend money,
+but  there is still a question
+Will it be possible to add avatars of
+other  the projects
+will be from a universe friendly to us, of
+course, our
+most interesting examples are integrated,
+it is also interesting because they work,
+you can also enter any computer tablet
+using a browser remote
+server power to create an ultra-realistic
+We work on the same technology that
+will
+work, including the creation of avatars to
+integrate
+Well, yes  we will have our own
+avatar generator we will do some
+cool character styling and
+not all content will be compatible with
+our game That is, if you bought
+some kind of Avatar that looks like a
+crumble hedgehog because of Smeshariki This is of course
+very fine, but in our game it
+will be  it doesn’t look very good, so
+we will only include for me what
+suits us in style and for
+friendly numbers with which we have a
+collaboration,
+here is another question about the
+volume of digitization, that is, how much volume have you
+already digitized, because Judging by the
+presentation,
+quite a huge work,
+we are going to the area
+our  whether the Baiklan digitizes the vast
+Bali lands, we have managed to mention
+that
+the island of Bali will be the largest
+painted location in the world; the
+nearest locations to it are 10 times smaller;
+very
+soon this month we will be hiring
+contractors who
+will upload history and
+local authorities through our service and we will model the
+content before releasing it in this
+way We need Yes, we
+need to understand that we also
+use procedural
+generation  we
+have made our own technologies that allow us
+to understand from satellite images Where
+are the trees Where are the stones and
+we are creating a giant library of assets
+that are present on the island That is,
+everything from the last stone of the last
+Plants and the
+base will be generated procedurally And
+all the rest of the loca  the divisions are made manually With
+love and step by step and Answering directly
+the question of how many sets we have already digitized
+is actually quite difficult
+because there are already a lot of
+all kinds of ball masks and other things And now we
+have already digitized a gigantic territory of
+several hectares and
+right now we have already carried out a rough scanner
+of a huge but very ancient temple
+that we are building, we are just transferring
+about the numbers in our plans for digitalization
+450 hectares of land now goes along with the
+transfer of digital property rights to us
+and all documents for these
+lands already costs 450 hectares By the way, a
+recently scanned temple in which
+foreigners are not allowed
+you can scan it on our
+social networks it was very interesting we were
+illuminated the drone was illuminated with holy water
+before it could fly over the temple the
+process is very jeweler, despite
+this we are planning
+450 hectares in
+the next two months and then come
+already switch to large-scale
+scanning as a platform
+Yes, while we are preparing the technical  ology That
+is, for example, our designers,
+architects, are engaged in
+deconstructing All local architecture
+into a parametric constructor, that is,
+we take All the typical buildings that
+are on the island, temples, gazebos, and
+so on. We disassemble them into spare parts and
+make generators that will allow us
+to assemble others from these spare parts  buildings are
+quite exciting, this is a very
+time-consuming process that takes
+time and after some
+development period we will be able to generate very quickly
+All local buildings, you know,
+in fact, if you take games like GTA,
+then running through this open world you
+meet
+repeating sets and it seems that there are no
+real  in real life we have an infin
+te amount of variety, but this 
+s not so. Having lived in Bali for several months now, I reali
+ed that there are a limited numbe
+of types of scooters that drive on the roads
+there are a limited numbe
+of statues of their types, they 
+iffer only in their distribution and when 
+e collect a large libra
+y  We can build more and more
+locations many times faster than we do This is
+now a
+very impressive
+method sent another question
+about
+everdale
+what What do you want from Ever gave a
+direct question like this guys turn off for a while
+that we were all visible to everyone
+Here your camera is stuck Always visible
+I’m stuck with your
+support for understanding participation
+If I understand the question correctly,
+we are building, including a cadastral portal,
+accounting for everything that is in Bali,
+which implies decentralized
+management, and we need this experience and
+integration in order to create an
+independent system in Indonesia
+, bureaucracy is flourishing, and
+people with whom  we are in contact want to
+avoid the same same
+real estate transactions until you remember
+all the paperwork will pass A huge huge
+time we can cut it
+Here comes and of course the experience
+that individual
+Excellent Excellent
+will help us make it
+come true this life
+can be better
+clarified this question
+we can answer
+Yes  yes i d  I think that the person
+received an answer
+more likely We
+have an ama session running out I just wanted to
+say that the guys are a very cool project
+I would really like to see a deeper
+integration
+since we have a project Our blockchain is very
+fast We have multisharding If you
+go On air
+with a large  number
+of people we create for children's blockchain and
+please at least duplicate at least
+multiply a
+large number of users can
+withstand
+research for more than a month and confirmed
+that if we really want to introduce
+the
+decentralization of the game economy, then
+This is an excellent choice
+[ __ ] I see
+against I see a few more issues
+related to construction and NFT straight
+in a nutshell, I’ll tell you
+in the game it will be divided into several
+types, one of them was a constructor, we
+dismantled typical
+buildings for spare parts and inside the metalwork
+it will be possible, as a constructor, like Sims, to
+create your own houses, buildings,
+huge villas, entire villages, organize
+events de  making of them branding
+advertising platforms will really be
+available huge construction how
+many
+good examples if you look at
+when you can build enjoy here
+about the
+owners of the
+land we answered it
+It will also be
+possible to upload If you are an architect you
+know how to
+model  paying commissions Bali tokens
+your creation can get
+what we build in
+recent years,
+according to which architects from all over the world
+can continue to make architectural
+projects in their programs and automatically
+integrate
+one of the most important components of the fact that
+we convert
+engineering architectural data
+if the hotel has a project
+thanks to our converters practically
+the universe can automatically load
+into place on a
+scale with exactly the same dimensions of
+these projects metadata
+a-a, that is, there is a quantity everything What is
+indicated in the project area of the volume of mater
+als all t
+e data that  in
+the most modern project
+we can include huge calculations with which we can operate already in the game, deriving
+them into different forms and
+structures, they still ask me
+whether or not it
+will be in July now we have a private
+round we are preparing
+along with all the projects that now
+want to be launched
+[music  ]
+nevertheless, we continue to fully
+develop the project, we
+continue to
+collect investments, nothing prevents us,
+everyone can take part in
+private
+Come to us to bring your money,
+they will benefit
+looks very suitable suitable project
+Thank you
+and one more The last question is whether
+the government will be against the placement of such
+objects  of their objects,
+if someone places some kind of
+concert or some kind of party or
+some kind of building
+here, it’s interesting we have such a thing
+as karma, the
+possibilities are very extensive But if
+something happens not According to local
+laws or  not
+according to the standards that are being designed
+now, you will just have a sn  the
+level of karma will decrease
+in the opposite direction also If everything
+goes according to the lore and culture and the
+laws that we establish for
+architecture, the level of Russia will grow
+now a huge plan, therefore to create a
+master class we are creating a master class and
+standards of what can be placed in
+order to find a place  in a
+virtual ball,
+this will be obvious, we will present it through
+training materials through examples
+through support,
+we called it a master plan and the
+design code will not be included and we will have to
+follow in order to create an environment such
+as we are laying it down, so we will
+share this
+I personally want a resident I want to build a
+resort on Batura Because if we
+do this it will be possible
+Because if we build a ski resort there
+will be a place where absolutely everything is
+here The only thing that is missing is a ski resort,
+you can build a spaceport It’s not a
+problem, just buy yourself some
+virtual Earth
+Yes, of course you need  understand what we
+will still have with moderation  too, but the
+system of karma is all these things. That is,
+anything can’t be built just like that,
+it will be necessary to use
+our guides. And then everything is realizable.
+Yes, guys.
+another
+blockchain, like I don’t know how in the game in
+the Marvel movie Yes,
+everything on other blockchains destroyed us with a click,
+unfortunately, guys On this, we will probably
+come to an end something to finally
+add,
+thank you very much for being with us and
+Please don’t forget  What is the most
+interesting question You can win
+collectible nails for this you need to
+be subscribed to our social networks and
+duplicate the question to the admin in order to
+synchronize
+Please do not forget to fly into our
+social networks to get acquainted with the project
+to study our videos more closely And
+in general to follow the project, we really
+appreciate it, appreciate your  attention and we want
+you to be also interested
+in addition, we will have a huge
+number of  It’s interesting that we
+’re going to shoot, we are now like
+caterpillars that, before going
+forward, stretched up as much as possible in
+order to go forward the same distance
+and this is coming to our social
+networks Thank you for your attention
+super thanks guys for such a
+presentation
+cool project
+one of the best
+Thank you very much yes

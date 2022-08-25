@@ -1,0 +1,2530 @@
+there we go we're live
+we have critical mass i think we're good
+to go
+yeah
+okey dokey let's go uh hi everybody
+welcome to everscale community call
+number 95. good to see everyone back
+glad to see some new faces by the way
+come back every week same same time same
+place um
+i think we have what i would say is a
+gold standard level call today excellent
+presentations coming your way we have uh
+ever surf that you're going to hear from
+we have two uh everscale grant winners
+that are with us and of course we're
+going to hear from mita we're going to
+hear it from ben but before we start
+let's do the usual thing that we do and
+just go through some very simple rules
+please turn your cameras on uh unless
+you're naked
+in which case turn your cameras down and
+do a little dance for us
+uh please save your questions until each
+presenter is finished with their
+presentation
+please use the raise hand feature and
+zoom to do so uh if you're watching us
+on youtube there's a comment section
+please leave your question there and
+we'll get to it at the very end of the
+call
+we have some questions that were written
+into us which we'll uh cover throughout
+the course of this call and of course
+everything is in english only so
+i guess uh let's dive right in i know me
+to blew us off last week but uh he's
+here with us this week and has some
+things to share about technical updates
+so me too if you want to take it away
+yeah sure
+well um
+we uh
+so first of all for the network update
+um
+we have started um
+the process of on devnet it's a very
+hard uh actually very complicated
+process of the network update this time
+it's
+it's breaking everywhere on every level
+sdk everything
+so um
+[Music]
+we
+i think that devnet will be operational
+with the new updates
+later today we're struggling with ci
+currently and coordination of everything
+so nothing breaks but the update has
+been tested on internal networks so now
+we we just need to test the migration
+process
+like the update itself works well it's
+uh it's the immigration from the
+previous version which is really hard to
+do
+there are more than 30 changes and uh
+a lot of them are just incompatible
+so uh it's it's it's it's quite a mess
+uh anyway uh i hope that the devnet will
+be
+will be kind of updated today later
+today or tomorrow and uh
+then we will allow for like days some
+days of testing on the devnet or
+reporting any issues that you may have
+and then we will move to update
+the mainnet not sure it will happen this
+week it depends how the testing on
+devnet is going but
+um
+[Music]
+well we're moving with that so that's
+this is good uh
+good news it's it's a lot of uh it's a
+hell of a work
+and uh this work a lot of that is
+disrupted over the last couple of weeks
+of course you understand why
+as we're continuing to
+[Music]
+move people
+from
+um
+from
+unpleasant locations to more pleasant
+locations
+say this
+that's not all though
+and
+i would like to announce that
+we're going to release the public beta
+of flex on devnet
+today
+so it's it's already
+kind of working still fixing some minor
+issues
+and we will release
+the
+url and also there will be in a testing
+group for flex
+um in telegram that or or discord didn't
+decide yet but
+i mean it will it will it will be
+launched today
+and you are welcome to test uh it works
+on the devnet uh you're welcome to test
+that
+and report us any issues or whatever
+comments you have for for flex
+it's still uh it will still work over
+the browser which is not
+the the case um it won't be the case for
+the for the
+production
+um as flex is a standalone application
+but
+just for the testing purposes for the
+easiest testing purpose and because
+there are no issues with the
+well private keys
+because of the test net
+then we will we will continue like that
+for
+uh for a couple of weeks
+before we move to production basically
+this version of flex
+is
+the production the version one kind of
+kind of release
+the only thing we will
+uh gonna do before we move to uh to
+production
+apart from
+audit and
+and verification
+of the of the like changes that we made
+to flex and there are a lot of them like
+it's just a huge amount of changes that
+were introduced over the last two months
+um
+there will be immigration
+uh part of the great immigration
+protocol which we will add
+immigration protocol is important
+because obviously we will upgrade
+um
+the contracts and introduce new features
+to flex
+but um as you all probably experienced
+from broxas upgrades uh that happened to
+broxo's
+products over the last month you know
+it's it's a problem if you don't plan it
+ahead
+of time right
+so
+it's it could be a messy messy stuff
+so we have
+created a special upgrade protocol
+and like we want to think about that
+ahead of time
+so this protocol implementation is
+ongoing and uh so it will take us like a
+couple of weeks maybe like two to two
+weeks to
+finish the implementation of migration
+protocol once it's done we will more
+flex the production so so
+subject to testing of course
+so that's that's flex news
+then i got questions from ron should i
+answer them
+now yeah absolutely
+okay so i got some questions first
+question about the bot technology
+um when will the boat technology develop
+um guys the boat technology developed
+already
+more than a year ago and it works quite
+well everything you see in surf for
+example which we'll see today as well
+uh it's based on debots
+and flex is all
+based on the bots it's it's just one
+huge debate basically or many actually
+debunks
+and there is nothing else there are no
+web servers in the middle
+so everything all the experience
+flexes underneath is a debug and debug
+browser
+working so what is the plan for
+developing of the technology the plan
+for developing the bots of just
+developing the bots that's the plan and
+continuing to add features and
+nikita
+manahaf is doing great job on on that
+part and other people who are involved
+in that and um
+there will be also a debate browser
+browser which flex is based on which
+will be open sourced and so you you
+could also enjoy
+uh developing for for if you if you want
+interfaces like that for the bots but
+other than that you just need to take
+the bot um
+like engine and uh and you can do
+whatever you want for that you can you
+can develop and
+so on so it works fine
+what tools are being used for plan to be
+used okay communication with the
+community users of technology i don't
+understand that question but
+the um
+probably question not to me i don't
+understand what it means
+to develop communications with the
+community of users
+of this technology well this is like
+what we have now is communication for
+example
+there are forums and groups and so on
+uh okay and then the second question
+which is important and i saw a lot of
+validators are whining about this
+and that's we're talking about dark
+pools
+yeah
+so dark pools are
+um are developed already
+um
+we are reviewing
+the
+one contract right now which is uh um
+because dark pools
+how they work you deposit
+the money in the dark pool
+and then
+um
+the community sends money
+like whatever is agreed doesn't matter
+someone sends money on the for the
+second leg
+of the deposit
+and there are parameters of the locks
+lock lock times two parameters of two
+locks times one lock time is how long
+you should wait until the money is
+arriving from the community givers and
+then for how long the whole thing is
+locked right so two parameters
+and
+but then after this first
+time is passed has passed
+then this money is deployed somewhere
+um
+for example in in
+the version two
+version three whatever depots right the
+the elector contract i would
+uh for example so in order to do that
+there is a there is a target contract
+address set up in in dark pool and
+then this target contract has just it's
+just just an empty contract with the
+with the set code function
+so in order to like get your funds into
+this the new contract whatever it is the
+lecture whatever
+the target contract is you need to
+activate the set code but
+who is actually need to activate this
+the set code
+if just developers would activate it
+they can well not saying but it's
+possible that they could be a malicious
+attack on
+on the on the code of the of the
+contract that and they could for example
+take all the money
+so we have developed it's not entirely
+part of the dark pool but it's important
+addition
+and
+what we did is we created an smb
+um
+smv voting
+between all the dark poor pool members
+to vote for the set code
+and this edition was written it's done
+it's ready but
+so that one is just need a review which
+will take uh
+probably a week or something
+and after that
+then um
+the other thing that we have been
+developing or provender has been
+developing actually is is a front end
+for for dark pulse
+but
+that does not
+prevent
+releasing this um for
+uh rust cup for example
+right dark pool so
+bottom line what i'm saying is that once
+this set code part
+set set code smv voting part is tested
+we're ready to go
+so i think and then and then it's
+administrative decisions which are not
+mine like that's the governance um which
+need to take these decisions
+uh the code is available i will post the
+link to the code
+to the repository it's not on github
+it's a private git laptop repository so
+i will post the
+the link to the codes in
+some channels i don't know today
+and you can review the contracts
+yourself there are you will see there
+are two types of contracts one is
+written on in ursus
+which you probably won't be able to
+review but well you will see that it's
+an ursus contract
+and then the translation of resource
+contracts and the solidity so there will
+be ursus source code and solidity source
+code
+all created by preventa team and um and
+you can review that and we will also
+going to review that
+um we'll take as i said probably a week
+and um
+and after that again it will be down to
+governance to decide when
+to move and when to distribute the rest
+cup or whatever money they want to
+distribute for this contracts but this
+contract will be available
+i think that's um
+well from me if you have any question
+please
+thank you media very much very
+interesting stuff uh we do have a
+question ivan
+yeah as always
+uh yeah i just wanted to ask about the
+smd thing
+uh like uh smv for what for the code
+which will be then pushed to all of the
+contracts where the money are deployed
+or or how
+yes
+so yes so so we make one voting for the
+code
+then the voted code is like uh with this
+code we update all the stops yes
+exactly okay
+got it and the second question not not
+really a question yeah yeah this is the
+question uh thank you for for announcing
+the sources thing i was
+kind of looking forward for it for for
+maybe a half a year uh that pretty
+interesting reading i i expect that to
+be
+and i want just to ask will there be a
+compile instructions for ourselves or
+will or is it just a code which we
+cannot touch and change yeah nothing
+nothing at this point it is not a
+release of forces
+but the just the release of source code
+of smart contracts that treatment rules
+um their ursus uh is still in
+development and there is no
+documentation so like it's an inhuman
+to really it's a coke
+code by itself as a human
+and without any instructions it's uh
+it's kind of in human inhuman
+in uh well
+exponentially inhuman
+i don't know so we should wait until um
+until prevent the team
+finds time to kind of um
+make that more
+developer friendly i would say
+but nevertheless it's written in ursus
+it's the first actually production ready
+system which is written in orsos i think
+by just that is already i think quite
+important step
+yeah
+okay cool thank you
+absolutely thank you ivan for your
+question michael you have a question
+yeah hi guys uh michael could you please
+explain to me like a non-techie guy uh
+why don't we need an extra language like
+it's versus here well we have c plus
+uh
+based smart contracts and solidity
+basement cortex so we are introducing a
+third language
+which will like you know won't make the
+life of the developers easier so what's
+the concept on behind this thank you yes
+sure
+well first of all i'm not the person who
+really need to speak about ursus
+and we may but once it's ready to go for
+developers adoption where we're going to
+of course uh like um
+invite
+andrew lasham who is an author of this
+language to present it i'll just say
+just a couple of words
+these are not competing languages
+solidity and c plus plus are high level
+languages courses cannot be regarded as
+well it's high level language but
+it's very specialized language
+ursus is by itself translated into
+solidity so you need to remember that so
+it's a kind of
+up
+or down language
+from that depends on what you're looking
+for
+the reason
+for developing ursus is to develop a
+language which will be
+uh which will be
+formally verified in verifiable kind of
+easily by design
+so when you write a contract on ursus
+it takes
+basically if you look at the formal
+verification process right now which uh
+which we're developing and you know
+every scale is one of the leading if not
+the leading i think actually the leading
+blockchain and formal verification
+currently
+and
+the provenda approach prevent the team
+approach
+is to actually
+instead of taking the smart contract and
+going through the whole process of
+manually formally verified which is very
+very hard very long process
+so andrew came up with this
+language which
+is actually
+you take what they do right now is they
+take solidity or c plus plus contracts
+and they write them in ursus
+instead of translating them into
+theorems on on
+they write them
+inorso's language
+and then
+and then because ursus is actually
+in a way
+so then they use this to prove
+in
+okay
+and um
+that just shortened the process
+tremendously
+like it
+really it's like it makes the process of
+formal verification
+um like really really
+like ten times easier
+all right but doesn't it make the
+development uh a bit no it does not
+harder it is not making development
+easier it is making formal verification
+easier so
+michael not everything that you do
+in engineering
+is you do just to make it easier
+sometimes you also make it
+better
+or safer
+or faster and so on and it's always a
+compromise
+so i apologize
+yeah
+that's just one ten seconds so ursus is
+to make it safer not easier to make it
+safer and easier to make it safer for
+people who make safer so if you
+bottom line is if you write a contract
+that is going to hold billion
+dollars
+i think
+for you it's better to write it in order
+source but if not
+you write it in solidity and if you want
+to go to formal verification someone
+will rewrite it in our source just to
+make it easier to formally verify that's
+all thank you yeah uh
+no no michael uh so i i i apologize i
+rarely do this but i have to cut
+everybody off right now because we have
+to get to our uh next presentation yeah
+okay okay thank you but but me too we'll
+stick around so we we can pick this back
+up afterwards so um our next
+presentation um our very own
+ever so lovely joanne
+um and also the slightly less lovely yet
+equally as important uh andre galushkin
+both colleagues of mine never ex what
+can i say all friends but we have some
+really cool stuff i'm not going to get
+in the way i'm going to let them do it
+and joanne i know you have to go first
+so if you would please tell us yes sir
+thank you very much mr ronald
+uh i do have some things to share and
+i've got to show you guys maybe just two
+sentences from me first
+and uh while you're sharing so hi
+everyone i'm anna one of the co-founders
+of every turf the most popular skill
+browser
+and the tim and i were working hard
+for a lot of time and today we want to
+present uh some great news to you
+and joanna would help us with the
+presentation and uh then she would need
+to run away and
+we would proceed maybe with andrew so
+jonah the four of yours thank you
+thank you anna i i hope everybody can
+see the screen all good yep
+so uh we've put together a little
+presentation together with ann eugene
+andre and more surf team altogether is
+proud to present the surf utility token
+as well as some pretty great incentives
+for getting in early
+um i'm sure everybody knows that
+eversurf has a unique user interface and
+a debug
+um
+which allows everyone of any technical
+proficiency to interact with the
+blockchain which is great and now the
+team is introducing the surf token which
+is going to bring this benefit to
+everybody
+so here's the presentation
+which is accessible
+right from the website
+um
+the most
+let's go down yeah one of the most
+important facts
+um that all of us are likely guilty of
+doing is forgetting that we are
+in this inner circle you know we are
+part of this one percent and for
+possibly a thousand different reasons
+the adoption of such technology with
+potential to alleviate many of the
+world's challenges is still extremely
+low
+but there are however some very
+well-known and well-documented
+challenges such as you know user
+interface issues the reputation and the
+paradox of choice being some pretty top
+problems that both users and service
+providers face
+so
+eversurf has recognized these challenges
+and has developed this solution you know
+of being a very simple intuitive and
+secure interface
+on just one platform do we have the
+possibility of connecting thousands of
+different service providers and users
+all at once you know there's no
+knowledge of code needed there's no
+buzzwords there's no security risks we
+all know it's decentralized fast and now
+connects
+users and providers
+so you can buy and sell store and
+exchange save earn collect nfts and much
+more on everscale all safe and fast
+so for those who haven't used surf
+extensively
+you may think it's limited to being like
+a wallet or means to staking or maybe
+you've signed some transactions or
+voted with it for example um but it's
+much more and it's going to be so much
+more
+you know it's it's also a secure
+messenger with potential to replace
+telegram you could browse or integrate
+your nfts
+you could benefit or build with dbot
+technology
+you can order a security card which you
+can configure for pretty much anything
+you could think of you know maybe it's
+just as simple as signing transactions
+or using it as a private key card for
+your office for example for a real live
+use case
+so there's you know
+there's a reason why surf may be the
+most trusted ever scale browser for
+define nft
+and it's becoming an all-in-one
+blockchain tool
+you need whether you're a user or a
+provider
+so let's take a look at the roadmap
+you can see that the team is definitely
+not short on things to do we have a
+really robust roadmap
+with some exciting things for everybody
+from basic users those who want to spend
+their evers
+borrow tokens trade
+and of course developers and service
+providers
+and surf is becoming very robust and
+don't worry because tomorrow
+the team will be holding an ama
+so we'll have enough time to really dive
+into the details of everything on the
+roadmap and answer all of your questions
+that may come up after this
+brief intro
+so
+talking about the go to market um
+you can see an overview of the go to
+market strategy here and various ways
+that the surf utility token will be
+integrated you know there's plans for
+simple onboarding
+uh for example there's a secondary
+market for defy
+hello
+which means we would provide
+just kidding
+yeah um so we would provide an
+easy to use interface for the existing
+exchanges like flat cube for example
+and of course there's the partnership
+with the flex decks which is pretty cool
+so let's talk about the token
+from the
+the slides above
+um
+you can kind of understand how the surf
+utility token is designed to act as a
+bridge between users and service
+providers you know when i say service
+providers it's it's
+a range but you know you can think of
+startups for example
+so they will have this interface like a
+dbot
+and benefit from access to the
+blockchain audience and the surf
+ecosystem i'm sure
+that
+everybody on the call i'm sure you all
+know what a utility token is but maybe
+there are some newbies here or maybe
+some people who are watching youtube
+so i just want to
+clear it and say you know
+tell you what a utility token is that
+it's essentially a tool
+that can grant beholders special access
+or benefits and some well-known examples
+are follow coin batch you know the basic
+attention token um and they're they're
+pretty popular ones if you want to learn
+more about it to look into and
+you could think about a utility token is
+is something that can just pretty much
+serve about any purpose that a developer
+wants it to
+but they also do have value
+you know they're not considered money
+as such you know as straightforward as
+like a
+coin like ever
+but the tokens
+do provide value to holders you know in
+different ways
+like it can provide early access to
+future products or services
+promotions and the surf token is not
+short of these benefits
+there's a loyalty program too
+so um
+in order for the platform to benefit all
+parties everybody who wants to use it
+this is where the surf utility token can
+actually shine
+users have a comprehensive tiered
+loyalty program
+you know and you can see that there's
+cash back there too which is great
+and the guarantee that service providers
+are legit
+because they have to lock their funds
+service providers will lock their tokens
+and this helps them to access
+this thriving audience
+within the surf ecosystem
+and use the platform and tools
+so
+tokens that's what you're all here for
+right let's talk about it
+um
+so we want to introduce something very
+special to you
+uh the seed sale has
+just ended sold out and it was a success
+which the team is
+thrilled about
+and
+we'd like to talk about um
+bringing it to you guys now because we
+have the seed sale which was just for
+partners we have the strategic sale
+which is for the early adopters and core
+contributors
+such as you guys you find folks on the
+call then we'll have the private sale
+which will be for launch pads like
+killer whale
+and the
+community sale
+here
+which is pretty much open to the
+blockchain community and the public sale
+for anybody on
+the app and if you want to learn more
+about it
+you just hover over and you can see the
+time frame here
+the
+strategic sale started today the 15th
+and runs until the 30th so you have time
+to get on board
+and each day that passes you know the
+threshold is a bit lower but it gets a
+bit more expensive
+so
+of course get in early if you like a
+good price
+so as you can see there's also a
+dedicated deebot in the corner that you
+can just click it goes right into
+into surf
+and it's very intuitive easy to set up
+if you want to get in early then i would
+just suggest to
+go over to the website click through to
+the token and you'll find yourself over
+here
+and um
+so if you're
+a user or an investor um
+it's
+it's good to know that eversurf is
+growing and we would really like you to
+be part of this journey
+and tomorrow the surf team will be
+holding the ama
+and hopefully you attend and ask any
+question i'm sure
+there are some burning questions and
+we'll have more time to dive deeper into
+all the details
+and that's about it
+follow the socials
+stay informed
+what time is the ama tomorrow
+and i think it's 3 p.m central european
+time
+2 3 p.m cet that's 2 p.m
+utc
+excellent
+yeah waiting for your questions i would
+be
+happy to answer them or to discuss this
+program in more details
+for me i want to add that uh our first
+integration based on surf tokens would
+be with the ever serve gift cards
+presented i think a week ago
+it is currently in alpha stage and there
+you can buy your
+real gift cards forevers and
+with this program you would be able to
+get some cash back
+back
+so
+see you tomorrow thank you for your
+attention thanks joe
+for your help with the presentation
+thank you joanne thank you man uh did
+anybody have anything to add
+yeah um can i also add a few words
+absolutely
+yeah yeah hi everyone yeah uh thank you
+all i thank you and you are for the
+presentation here i'll just add that
+there are several options to buy
+software against uh you can buy it
+through the keyboard um
+uh and you can also buy it for like btc
+or other tokens just uh if you have like
+if you need it just send us email or
+contact with us directly and we'll uh
+create the order and make it make a deal
+so there's your options so you can buy
+it for the evers or
+other tokens also
+yep that's it that you wanted to add it
+thank you andrew thank you very much
+yeah we have a question from the
+audience uh ben
+uh not so much a question just a uh
+statement i tried out the gift card say
+well last week now actually and it works
+really well my other half has a lovely
+pair of new shoes on the way so great
+work to the surf team
+thank you
+nice to hear it
+excellent um i can tell you there were a
+few questions that were written in uh
+but i know joanne has to run um so
+whoever else is from the surf team
+please stick around to answer those
+questions as we as we move forward uh
+ivan yeah
+uh yeah will the price of surf talking
+rise to the moon
+sure i know
+you i think you know the answer
+no it's not
+the price of the surf token will be
+rising within uh
+upcoming 10 days
+so in 10 days from now it will be
+more than 0.2 and the price will be
+already rising
+yeah it would start riding in five days
+from the 21st of march
+and it would rise uh each day and the
+minimal location will go down so
+if you have
+a small sum of tokens to spend on twelve
+trucks you can wait but it would be
+much higher price it's it's the other
+way around it means that the price of
+the token will rise very shortly
+yep thank
+you okay
+thank you very much thank you everybody
+uh thank you for the presentation
+excellent interesting news
+uh but
+we have to move on we have some more
+presenters uh
+we're gonna hear from a couple of ever
+scale grant winners uh last week and the
+week before last we heard from uh
+everscale startup competition winners
+and we haven't heard much about the
+people who receive grants uh i know
+there are already questions for some of
+the uh uh grant recipients so
+uh we have uh spatium
+i hope we're pronouncing that correctly
+by the way uh and game pay with us so
+let's go in order let's start with
+spatium uh we have uh vasily i see he's
+here with us
+um spaceship provides a
+white label client gateway to everscale
+i don't think i need to
+say how important that is i think
+everybody understands it's awesome stuff
+so vasily please tell us about spaceship
+yeah hi everyone pleasure pleasure to
+meet you all and we are really excited
+to become a part of every scale
+community and it's really awesome
+what you do guys and we hope that
+with our product we will be we will be
+able to raise it soon
+of course
+so basically what we do is as you've
+said ron as what we do is we are
+creating some sort of gateway for
+uh already existing products into the
+crypto
+so
+mainly that is and the gateway here is
+the wallet so let me share my screen and
+i will show you how the things work okay
+so hopefully you can see my screen now
+yes we can
+okay awesome
+uh so what you'll see now is our uh like
+a demo
+wallet that is
+already published in all the stores
+and that is where uh sf asset foundation
+to which will integrate ever first uh
+together with uh octus bridge itself
+flat cube and all those awesome features
+that the everscale brings to the
+community
+so from the first uh
+the first thought that comes to all the
+people okay that's another crypto
+wallets so what's so special about that
+uh how is the recent there are some sort
+of features which are unique
+to the wallet crypto market as well as
+we are not like an ordinary wallet
+so that's basically what you see here is
+the box solution which can be customized
+to the needs of
+any
+any like any business so for instance we
+already have a bank and
+banks and
+exchange clients who already launched
+the wallet we changed the ui here as
+well as the branding and they go to
+market like within a week or two with
+already existing wallet so let me show
+the registration flow and
+while i'll be doing the
+demonstrating the wallet i will describe
+what are the features that will be
+provided to the ever community
+so the registration is quite simple
+all you need to do is just provide your
+email
+and that's mainly it so what
+differentiates us from the other wallets
+on the market
+uh is that
+we
+do not have a private key so our wallet
+is keyless we use this smpc secure
+motivated computation for that
+and instead of a private key we have uh
+two independent secrets one is generated
+on the user's device for instance here
+it's my mobile phone and it wasn't as
+the other one stored stored on the side
+of a server it could be for instance for
+this wallet it's patient server
+uh and as well as it could be the server
+for instance open exchange or for
+instance any project on the ever
+ecosystem
+so and of course here comes the one of
+the problems which uh
+is like a regular one for the private
+keys is how to backup a private key and
+in our case as client secrets and for
+this purpose we have two options so
+currently i'm not able to do anything
+inside the wallet
+so what i'll need to do is i need a
+backup here
+and i have two options so the first one
+is classic it's secure code similar to
+the seed phrase that no one loves
+uh however we decided it's really hard
+for the majority to use the seat phrases
+and qr codes and we are aiming directly
+for the majority of users who are not
+really familiar with the krypton how
+things work
+and that's why we partnered and created
+us like a separate product the project
+for that and it's anonymous biometrics
+which backups the client secrets and why
+we call it synonymous because at the end
+of the day we do not store any private
+data of the user
+so we do not store any face images
+as well as videos or embeddings like the
+personal space features let me show how
+the biometrics things work
+so it's quite similar to the face id
+experience
+so what i need to do so you can see my
+face right even right now
+so what i need to do is to cover the
+circle
+by rotating my head
+and that's mainly it so currently we a
+set of neural networks is learned to
+provide the path the client part of the
+secret each time
+uh like the face uh features are
+submitted to its input so at the end of
+the day i say told you we don't store
+any private data what we have is that
+neural network
+uh which is learned to recognize like a
+specific individual
+and currently so i can log in inside the
+wallet with we are completing this
+liveness test
+and
+i'll get inside it so i don't need to
+remember anything
+no no seed phrase no
+qr codes
+that's it
+apart from that so it's like a classic
+wallet
+and you can do anything with that like
+uh the basic scenes
+like receiving sending and that's where
+they ever will be integrated soon as
+well as the swap and etc functionality
+another thing we'll be maybe offering to
+the ever engineers future is the bridge
+scene we don't understand how the breach
+is important currently to be able to
+migrate as well to the ever ecosystem
+and for this purpose what's also special
+about our project is since we are using
+this mpc scheme we are able to perform
+breach like
+almost instantly without the need of
+creating
+any smart contracts or etc
+so in this case all the cryptographic
+part will be made of chain and we'll be
+able to make a breach from any currency
+if you have a liquidity provider of
+course instantly with two transactions
+so and the like here the cryptography as
+well as the off chain like services will
+be
+like responsible for this kind of things
+so apart from that as i told you
+previously so we are doing white label
+wait label things so currently we've
+already launched the
+okay that's
+yes i want to share my feedback
+and that's how the white label
+integration might look like
+so this what how we integrated with the
+wirex team and their product and that's
+where the l ever will also occur so what
+will we do is uh we will offer as well
+as integrate
+uh ever to all our current and future
+customers
+so all of them and their already
+existing users will be able to
+like to jump in the ever ecosystem and
+start using it from like from the start
+from their existing products
+um
+and that's what our product really is
+about so
+like going to the already
+existing products and companies as well
+as scripter projects offering their them
+white label wallets
+as well as gathering all those
+uh insane amount of users to the ever
+and that's the idea behind it so
+currently we are only maybe exploring
+like the limited customization things in
+terms of functionality and how this uh
+the thing you see can be customized
+however our end goal is to create like a
+fully
+uh community open community like
+governed and community
+developed wallets
+with an open source
+ecosystem as well as
+with
+a certain framework of
+of
+the ui as well as interface so
+just to allow all the projects to
+develop the ui themselves so we do
+understand that our limited team our
+team is limited in the amount of
+resources as well as in the amount of
+the things we might offer in terms of
+customization and the features so in the
+long run we want to like stick to the
+foundation and the core of the wallet
+while allowing the community to like
+creating the ui they want as well as
+adding additional features which our
+team is not able to cover within our
+roadmap
+so that's mainly what i wanted to show
+you so if you have any some sort of
+questions i would be pleased to answer
+absolutely thank you very much vasily
+that was a wonderful presentation very
+thorough
+we do have a question from ivan please
+ivan we see your hand but we don't see
+you yeah yeah yeah yeah uh the question
+is uh where we can read more about your
+key splitting algorithm maybe there is
+some white paper or patent can you throw
+the link in the chat please
+yeah i believe we can we can throw that
+after
+after the after the call after the ema
+uh okay yeah um
+if possible you can uh send it to me
+directly we've we've obviously
+communicated in telegram and then i'll
+have it
+but but if you do have it
+you know when we go to the next
+presentation just you can toss it to me
+or toss it in the
+zoom thing you know yeah you can you can
+you can sorry you can toss it in our
+grand program chat
+this is a question from community so
+yeah this is not by me just throw it in
+grant program chat we have already
+please
+yes hi thank you i don't think correctly
+that that neural neural network which
+you uh mentioned which will drive the
+user's side um
+part of the secret uh
+that that neural network operates on
+your server
+locally
+yeah yeah i got it that's an awesome
+question in fact
+so currently it's uh the neural network
+as well as all the biometric part is uh
+performed at the third party service
+so what we want to do uh and we do
+understand the risk there is a certain
+risk of a
+singular provider
+one provider
+and for these purposes
+this like a subject of another project
+of ours
+and of our close partners which are
+sword so uh in these terms uh what we do
+have like in our roadmap
+is to create a decentralized network for
+that
+uh maybe use some sort of
+already
+existing systems in these terms in order
+to make the distribu uh distributed
+processing of the biometrics
+because when we speak about the storage
+of the like of the final neural network
+uh so it's not a sensitive data so it
+can be stored publicly uh the key
+question is here however in terms of
+processing so the protestants should be
+anonymous and distributed and that's
+what we have in our current roadmap and
+that's what we are working on so in
+order to like to mitigate risks here so
+currently it's performed on the side of
+a third party
+okay and another question uh what the
+size and bits of that user side secret
+uh that's
+uh
+i'm not
+i do not really remember but it's no
+no
+it's not it's takes not quite much
+amount of data storage capacity if i'm
+not mistaken it's around 30 or 32 uh
+kilobytes
+but i can clarify that
+this is it size of secret i mean then i
+don't think it's possible to
+uh no it's such such long secret uh
+for
+a face
+uh so if you if for example if you do it
+second time you should get exactly the
+same secret
+so i think that the final secret should
+be
+less than
+the amount you set
+yeah so uh i was talking maybe uh i got
+a bit confused or confused you i was
+talking about the neural networks that
+we store
+uh some of that
+neural networks finally generates uh
+some user side secret which yeah yeah
+device then holds so the question is
+what the size of that user side secret
+i don't really remember that so it's
+more of a tactical question if you want
+to i can like provide it within a few
+minutes
+in the chat
+in the like youtube chat just to
+only talks about acting not really
+familiar with that
+yes yeah but you understand the
+importance of this question yeah yeah
+yeah it depends how many
+uh
+like
+if it is quite small then
+you cannot differentiate or you can even
+try to
+mine
+that user side secret in order to try to
+process uh transaction
+not enough bits then you can i mean your
+like
+admin
+which has has access to a second part of
+the secret
+uh can try to mine
+user by part of the secret
+uh yeah yeah i got i got the question
+okay i will like
+ride in the chat like in a few minutes
+the amount of
+of the data
+the secret consists of
+security bits yes
+yeah yeah security bits okay
+thank you thank you very much we have
+another question mita though
+yeah hi very interesting uh
+great great work i think um is it is it
+mpc
+uh like um or a two-party computation
+uh so yes we have like uh it's snpc but
+we have currently only two secrets
+so uh scheme we do have plans to like
+add
+additional cosigners to that so to
+increase the amount of signers there
+however it's still in role map so
+currently it's two
+yeah because two-party is a different
+protocol as i understand from the
+multi-party computation it's actually
+not the
+of this like it's it's a it's a
+different protocol but yeah i understand
+if you have two parties here i
+understand
+um
+yeah
+the the question of course of the of the
+i mean you cannot compute as far as i
+understand you cannot compute on the
+user device um
+because it's just too
+like you re it requires too many
+resources
+so
+in the future like how do you really
+it's like extension to the pavel's
+question i think how do you are you
+going to use the server all the time
+and just distribute the servers or
+how because you cannot compute it on the
+on the phone right
+or it will take a long time
+or or am i missing something
+yeah what we also have in plans in these
+terms is uh if you speak about the
+second secret yeah the ones that start
+on the spatium side
+we do have plans to use some sort of
+like
+other networks that will be in
+that will be
+performing that will perform the
+calculations uh in this respect so we
+are looking for at like secret network
+and etc which will be performing the
+decentralized like processing parts so
+we will like eliminate the provider sync
+so in order to eliminate the risk of the
+loss of the second secret of the frozen
+like the frozen of the server side we
+also have in our roadmap the scroll part
+so it's like a guarantor option the one
+who will uh like store both
+secrets encrypted uh with each other it
+can be a custodian one so for instance
+if the user or like
+wants to like leave the system you can
+grab the second secret uh from the
+custodianship and like restore the
+private key with that
+uh so in fact that's
+the questions you that you're asking are
+quite the ones that we want to address
+and are seeking to address
+in the long run uh i believe
+here i would be pleased that we have
+like guys from a tech team to answer
+them like in depth because i'm more
+about about the product rather than the
+tech side
+of the protocol don't make
+want to make your life harder sorry
+but um yeah it's an interesting it's an
+interesting stuff and uh
+like if you can
+make it work uh
+then like it would be great
+i i just didn't see
+up until now any successful
+implementation of mpcs like on the user
+devices
+without involvement of some kind of
+custodian and servers and
+all of that and you know
+in fact what we had in like in our early
+stage
+uh first of all when spatial was created
+we do not have we do not have like a
+server component
+we had two devices
+so we were using like two devices to
+perform like a signature so we still had
+the smpc there
+however one secret was located for
+instance one my mobile phone and the
+other was on for instance the
+apple watch
+so and i was like co-signing the
+transaction
+uh like off-chain completely uh even
+without the internet since for instance
+apple watch can be used without the
+internet just with via bluetooth
+connection it was like a very secure
+option how we decided to go away from
+this concept since it was not like um
+very sustainable for
+for from the business point of view
+because it's hard to monetize the
+completely off chain sync without like
+the service part of the component and
+it's not really the scheme that for
+instance the services want to
+so the idea that we stick to the server
+was greatly because uh we see that there
+is a majority of users which is not like
+99 of people who are familiar with the
+banking experience
+and they want like um a strong security
+party that will that will assist them in
+terms of like managing the crypto scene
+which is
+quite hard for them and that's why this
+ability from one side to be independent
+since once the secret is stored for
+instance on my mobile device and the
+band cannot do a thing with my crypto
+and that's important
+uh and from the other side we have a
+bank who co-signs the transactions who
+can perform emails for instance as well
+as all other things and that's that's
+what we think important here uh we as
+i've told you yes we do had an option to
+create a fully uh client-side snpc with
+two devices however
+that's
+that's what we decided not to do
+or for the business and like in the long
+run
+racing
+all right
+thank you
+yup i i um uh i have so many things
+going on in my head right now um i i
+expected this to be a lot simpler but it
+turned out like i said we have the gold
+standard of presentations today i think
+we just moved up to platinum that was
+wonderful thank you very interesting
+very interesting i think you're going to
+have a lot of questions
+sorry sorry raise your hand but okay
+uh
+raising your hand just for the protocol
+and um the question from community is
+you just dropped out
+just just happened in my private
+messages so the question is
+uh what is the difference between
+two of two multisig and your solution
+if you speak about multi-signature uh as
+classic one and the scheme we use so if
+you speak about multisig all the
+calculations are performed on chain
+so it's a matter of additional costs in
+terms of fees and etc
+if we speak about the
+uh
+our scheme of uh
+using the smtc scene
+so the calculations are performed
+off-chain
+so there is no need so it's like a
+cryptography based one so we don't no
+need to perform any any
+any transactions on chain in order to
+sign a transaction from our product
+so the server and mobile device are
+exchanged like via internet with via all
+the data in group by to make a signature
+for the transaction and that's it so so
+from from the side of blockchain our
+transactions
+is seen as an regular one signed by the
+private key by a single private key
+okay
+thank you very much we have to move to
+our next presentation obviously we're
+running overtime
+yes thank you guys yeah i thought we'd
+actually have two more presentations
+today you imagine that but uh vasily
+that was
+cool
+very cool
+okay next up we have game pay uh so i'm
+going to read exactly what they do so
+they provide a play to er they provide
+play to earn tools
+and infrastructure to create game meta
+versions
+for low and middle uh revenue game
+creators and gamers and joanne had to
+leave but i can tell you right now if
+she was here she'd probably be
+salivating so
+uh we have uh daniel dos santos daniel
+dos santos or daniel santos so forgive
+me if
+oh hey thanks for the uh uh warm
+introduction yeah uh you can call me
+daniel santos daniel de santos daniel
+dan what have you i've been called much
+worse uh but yeah
+daniel's the ceo of uh gamepay uh so
+i've been looking forward to this all
+day so please the floor is yours
+please tell me hey thank you so i i was
+told to put my camera on unless i'm
+naked uh i'm not actually naked but i'm
+actually
+it's a joke it's a joke that's a joke
+but i'm actually by the bay in marina in
+marina bay here in singapore because
+it's 10 p.m so just taking a walk
+so that that's my view currently that's
+my view there oh and what a view it is i
+love it
+yeah so yeah so uh to take a step back
+and uh just to explain my own words so
+yeah gameplay we provide infrastructure
+tools and communities for a game
+developers to
+launch games
+play-to-own games in our platform we
+provide libraries
+infrastructure tools everything that
+allows them to to launch games in our
+platform
+uh we we are focusing that our target
+demographic is low
+to low income to
+mid-income demographic in um
+in southeast asia but you know across
+emerging markets uh across the world but
+you know our targets mostly uh in
+southeast asia
+emerging markets
+and we see a big opportunity because
+this target demographic is untapped
+they've been overlooked
+by game developers and they've been
+priced out of the markets
+in current play to earn games so they
+cannot afford to play x infinity games
+etc they're being priced out so there's
+one untapped market so we are making it
+accessible affordable for for the target
+demographic to access
+uh to access the token economy the new
+token economy and we see the tokenized
+gig economy with gaming being part of
+that vertical of the tokenized gig
+economy as a big opportunity
+we
+we're gonna have a multitude of games
+launching up in our platform
+we have our own nft marketplace that my
+colleague ezra is going to present to
+you guys a little bit later but he's
+still in uat
+and we we have our own decks
+and we're creating our game art
+uh with utility that is translated into
+nfts
+uh so in a process of of creating all of
+this and uh you guys
+are gonna see what we have created in
+about a month from now we're gonna show
+you you know the live nfc marketplace
+our nfc our nfcs
+in about a month from now uh we're gonna
+have
+our game uh launched
+as a series of mvps
+and we we just
+upgraded our game development
+development partner
+to a company in london but most of that
+developers are
+based in ukraine
+so you know we
+uh we're being a little bit delayed on
+that because they've been
+evacuating from ukraine et cetera but
+you know uh we are donating part of our
+preseason or nfc cell to the red cross
+in ukraine so we we we recognize the
+good cause because a lot of our
+developers are now
+uh based or they're from ukraine uh and
+um
+yeah so so that's that's basically the
+overview and uh we are a baby we came
+out of the belly back in november but we
+have baby on asteroids we're growing
+very fast uh but you know we we came out
+of the valley back in november so we're
+pretty new but we're developing
+extremely fast
+and um you know we we are very fortunate
+to have won the um everscale grant
+and uh you know it was a very thorough
+process uh you know we we have we do
+have some big investors on our side uh
+including um
+capital which is uh uh backed by a
+multi-billionaire that set up the saxo
+bank and he's chairman of a
+concordia blockchain and we have a
+partnership of concordium on the id
+verification layer side of things
+and we have another institutional
+investor which is ai in singapore and
+their listed company here in singapore
+so we do have some
+big institutional investors backing us
+and uh we we're we're developing our
+tech very fast
+uh and uh you know but we are not ready
+yet so we're a little baby uh so a lot
+of our staff is still in uh still
+cooking but uh you know
+saying that
+we can show you what we have on our uat
+and i'll pass the button out to our cto
+ezra who's on a call
+yes ezra please go ahead and and if i
+may ask uh for after you're done with
+your presentation there's a few
+questions that actually did come uh
+come in uh they're written to us and
+also on youtube so if if you're able to
+stick around post facto would be great
+um so that's right
+with pleasure
+hey hi
+uh thanks uh ron and thanks dan for um
+you know quick uh
+and clear introduction so um
+yeah as dan mentioned right so
+uh this is a platform we are developing
+and
+there's also you know um condensation of
+all the experiences all the products we
+have developed in the past 20 25 years
+for the banks so if you see our profile
+like we have
+we have like more than two decades of
+experience in technology developing
+financial products for the bank
+so personally myself i have experience
+with uh jp morgan
+standard chartered lehman brothers
+and the past i was working with dbs
+doing some um
+you know the stable coins within the uh
+bank
+so
+uh so we wanted to put together all this
+experience and um you know make gameplay
+and of course you know you all know why
+we want to go into game and
+i know why you want to go into energy
+space
+so game is actually our passion and
+we have a
+lot of financial experience so we want
+to combine the game and the duffy and
+make it more attractive because we
+really love the new paradigm which is uh
+you know later on so in the past we all
+you know wanted to kill some time and
+have fun so we played games
+um but now uh in the next generation you
+know people are really you know playing
+to earn so
+it's going to be a huge big economy as
+we go forward so we really want to
+leverage it so that's the reason why we
+wanted to go so even you know going into
+this market we don't want to go as
+developing a single game uh we wanted to
+go in as a platform like how you know
+amazon google
+netflix they established themselves as a
+you know a platform and
+they they made you know the others grow
+in it like like aws or google for
+example right so we wanted to develop
+those
+libraries those uh you know ecosystems
+which can be used by the indie
+developers game developers and game
+studio to embark into the web 3.0
+journey so so we we were
+backed by intensive research
+both in the
+finance angle as well as in the gaming
+angle we found
+having infrastructure is the key because
+um
+this is something which we will need in
+the upcoming years uh as everybody you
+know starts to move into the gaming and
+whatever's world so that's that actually
+kind of uh adds more into our passion
+right so
+with that i'll quickly share
+what we have done we have progressed so
+far yes
+so
+okay so i won't go here
+for now this is a new version which we
+are you know building now uh so this is
+the first version of uh
+uh you know marketplace nft marketplace
+which we have built this is very close
+to the you know the axi infinity which
+is our competitor um so this is just you
+know um you
+log into your account
+with your wallet we actually we are
+going into binance to start with and we
+do support
+the multi-chain so javascale is our you
+know next uh in the queue in the
+pipeline to implement for uh supporting
+multi-chain so right now what you're
+seeing is um is in binance
+so this is admin version uh for the user
+for the player
+they will see the
+dashboard they can go and you know
+choose the chicks which they wanted to
+buy and then you know they can buy so
+so right now
+we are supporting both uh you know
+because it's just nft and we are
+aligning it for pre-sale and pre-sale of
+nfp is still okay to support uh you know
+fiat feared money so we are going to
+support both
+you know payment by credit card as well
+as by wallets so that's how you know
+this will go and um
+so each and every characters whatever
+the transaction we make here that will
+be useful used inside the game for both
+playing the game as well as to
+accommodate the defeat angle so um maybe
+definitely
+i can show in the upcoming sessions
+because there is a
+massive revamping happening as you guys
+saw
+the whole ui ux is getting changed uh as
+the number of uh you know use cases are
+changing and also we want to make it
+more attractive for the
+for the nft pre-sale so the kind of we
+are combining um
+the nft marketplace uh for the game as
+well as uh you know for the referral as
+well as for the for the defiance so
+that's why uh this whole thing is uh
+getting revamped at the moment but uh
+functionally it will be the same we are
+also supporting dex a single uh ammo
+decks uh just to you know uh convert
+from uh the other crypto to our own
+cheeky or silk token so these two are
+you know so i'm just showing it here in
+the dev and uit version but
+in the real production world
+we may not expose this directly as a dex
+interface because we have not opened it
+as a defi yet
+but
+internally the apis will be supporting
+uh to do this conversion for the for the
+gamers that's how the whole thing will
+be working end-to-end and creating nft
+is uh again this is admin uh account so
+i'm just showing like uh how easy it
+will be for the people to go and create
+so eventually um for the game
+perspective it is um
+it's mostly you know you go and uh
+inside the game you can do an option of
+breeding and you will be able to
+generate a new enft that's how the whole
+thing will be coming and
+uh if you see the filters all these are
+attributing towards the game play
+specifically so
+we have you know um classes uh like
+uh and it is evolving so we have
+currently nine classes and um we are we
+are actually evolving our game play to
+support 15 classes so that the nfps can
+be you know minted more and there will
+be more variation in the games and color
+is straightforward and gender is
+something because it's quite related to
+the chick uh cheeky cheek
+we wanted to introduce this flavor of
+male and female so a rooster and a hen
+so it makes you know the adventure and
+pvp game more interesting with you know
+chick fights
+special tournament for
+the rooster fights and there are more
+interesting stuff
+that will be unlocked enough
+for those who bought those you know
+special characters in the pre-sale
+so
+yeah and then uh added upon with body
+parts so body parts or accessories um
+there are a few more i mean there are
+high quality checks these are all just
+sample images so please don't get
+pre uh
+preconceive your thing with characters
+here these are all test
+[Music]
+images but there are high quality
+you know close to 3d quality
+nfc images are getting built
+so those will have
+a body part which will be
+you know replaceable and then according
+to the gaming uh you know stages or
+gameplay it can be
+you know swappable to
+tackle the villains so that's how these
+body parts will be attaching to the
+chick to play and the game plays itself
+is more interesting and the graphics are
+you know more uh um you know user user
+friendly so you feel like you know you
+wanted to play more and have some
+you know
+fun as you play along and then have a
+chance to win money as well so breed
+count is again this is a there is a
+limitation to the number of times we can
+breed with the chicks we have um so so
+based on the number of uh reading it has
+been done the the number will be you
+know updated accordingly there are a few
+more um attributes we're trying to add
+uh this is just a sample in the uat
+environment but there are a few more
+coming up to make things more
+interesting uh like special power like
+something like you know a james bond
+character something like mermaid
+character so if you have uh those kind
+of uh nfps in your wallet then you will
+have uh you know different uh
+perspective to your game right so if you
+have a
+mermaid then you you will have a uh a
+sea
+uh water kind of uh environment where
+you are uh you know fighting or your
+game play will be tuned accordingly so
+uh so the whole game dynamics the game
+uh background things are all you know uh
+dynamic made dynamic with the nfps that
+you are going to hold in your wallet so
+that's how we have designed and this is
+just
+a very uh you know preliminary
+software which we have we are releasing
+it opening it up so uh it is it will be
+more interesting to see you know how
+this whole thing is
+developed this whole thing is developed
+as a library so
+uh in the future so marketplace backs
+and uh the defi elements they are all
+getting built in in the library so
+if any other new game they wants to
+board with us they can just you know use
+that with few configurations and they
+will have the whole uh you know software
+available so it will be purely like an
+aws where you go and you know click on
+your infrastructure what you want like
+you know ec2 or
+kubernetes or you know whatever um
+services you want you plug and play and
+then subscribe then you will have all
+these things set up for you neatly and
+you focus on only the game story
+gameplay and the unity or any other
+gaming you know
+framework you're going to use so even on
+the on the gaming side we are making
+certain libraries that will be
+useful for interfacing with the
+blockchain area uh our blockchain
+library so
+it will be totally agnostic to the game
+developers
+and then you know they can easily
+onboard as many games as possible
+so
+actually i yeah we are still uh maybe
+maybe i i actually i was like not quite
+organized for this call because i was
+pulled in last minute i had
+uh you know different calls and i still
+have to go for another architecture
+review session so maybe um in the
+upcoming sessions i can go a little deep
+into the um you know the architecture
+part how the
+the library is differentiated uh in a
+modular way so that uh those solidity
+which we wrote for
+uh binance chain um
+you know ethereum all those things can
+be reused for evm based chain and then
+how we are you know
+differentiating
+or making it uh more modular for ever
+skill so that it is all interoperable uh
+only areas which is specific to the
+underlying chain will be uh you know um
+called by those specific apis and the
+whole game will function without uh you
+know having any knowledge about the
+underlying chain it is in so that's the
+whole uh idea that's the crux of uh you
+know where we are uh still a lot of
+things are
+in pipeline for this month so we work in
+a completely agile
+environment so there is a two-week
+sprint and every two weeks we have
+something getting added so in the next
+two weeks you will see
+uh our whole marketplace will be
+upgraded to the new
+newer version that's happening now and
+then on the gaming side we are um you
+know we are releasing uh the first four
+characters those special you know ultra
+rare uh characters will be launched by
+end of this month and then uh as dan
+mentioned uh our um you know ukrainian
+colleagues
+will be working on getting the the first
+version of the game uh you know in a
+sprint sprint cycle once they're ready
+so that's our overall plan and that's
+how we are progressing in achieving our
+goal so within the uh four to five
+sprints we will be in a very good
+position to
+uh launch it to public so pre-sale will
+be launching much much earlier probably
+in next two to three sprints and then uh
+you know something for people to go and
+play around in in five sprints that's
+our overall plan
+and just to add to that so in terms of
+ip in our first game so we are
+developing we developed our own uh
+gameplay so that's first part of the ip
+and then secondly we have a team of
+artists uh in-house that we developed uh
+stories for and characters that were
+turned into nfcs and they may actually
+become you know movie movie uh series uh
+later on
+uh so that's the ap on our first game
+but essentially we are open platform uh
+to allow game developers to launch in
+our platform
+uh so that's basically the overview and
+then you know we want to make it
+accessible so we don't want to provide
+entry-level prices for guys and girls in
+emerging markets to always be able to
+afford to enter the new token economy
+and in terms of our community
+again we're still a baby uh we came out
+of the valley in november so things are
+still very new
+we do have support community support
+because of who we are what we're
+building
+and who's backing us so we do have
+community support so if you go to
+telegram if you go to our community
+you're going to see community support
+that but you know we're still very new
+uh this is a few months old three months
+old uh community and we're going to be
+much more active once
+we have our nfc marketplace once we have
+nfts in the market once we have our
+games
+in the market you're going to see a lot
+more activity so things are still very
+new so we need to follow a cycle
+thank you uh daniel thank you very much
+if i may uh thank you for the
+presentation ezra daniel uh much
+appreciated um please stick around um
+there are several questions that came in
+um but um
+right off the bat i'm actually getting
+this live as we're talking uh there's a
+question coming in asking how is this
+tied to everscale
+so so in regard regards to everscale we
+love everscale because of its
+scalability
+so we need the scalability for our games
+using everscale
+and you know there's a lot of
+synergistic opportunities because we
+provide access to asia to uh to have a
+scale so we give our asian community to
+our scale
+and you know we can develop uh great
+things together going forward but this
+scalability of every scale that's one of
+the most attractive things for us and
+also you know our locality we have
+developers in ukraine and eastern europe
+in russia a lot of our investors are
+actually in in that location russia
+ukraine
+and so we are marrying asia
+and uh you know and russia ukraine uh
+locations
+uh and communities and uh we see a lot
+of synergistic opportunities but one one
+word scalability
+okay
+um
+you have a question yeah do we have
+something already developed on every
+scale part of part of the system
+or whatever no
+no this is a very young uh relationship
+so we ourselves as a company we only uh
+you know we're gonna be four months old
+uh next you know in a few in a few days
+but you know we are still very young so
+development with other scales coming in
+a pipeline
+so what was the grant from everscale
+from ford
+uh the grant from everscale was to
+develop uh product is basically what i
+said earlier to develop products
+together to to develop games whatnot
+whatever you use data never using
+scalability
+uh
+maybe uh ron so we got the grant just
+recently right so we already
+had a clear roadmap uh you know given
+that we will be able to start only after
+the first uh you know the game is
+launched which is like maybe you know
+two to three sprints away
+so the current uh team is focusing on um
+getting the current uh you know pipeline
+out we are also um expanding our team um
+so once the current uh you know sprints
+are done then we will start uh
+full-blown with our skill so
+yeah
+that's a time period we already
+communicated clearly yeah yeah i
+understand that i think um i'm reading
+some of the questions that are out there
+so um
+you know uh don't mind me uh but uh
+everscale you know it's not a
+i mean the grand program is for the
+benefit of everscale
+you know so
+i'll read some of the questions yeah so
+so i mean uh i'm sure every scale knows
+why
+he gave her he gave us a grant and uh
+you know we know why it's basically to
+develop games together using everscale
+infrastructure for scalability
+okay
+so we don't have anything built on
+everscale yet because we're very new
+we're only four months old i understand
+i understand um so um so i'm going to
+read some questions that were written
+into us understand work i mean there's
+there's
+well over 100 000 people in the
+community but uh on this call we always
+always
+uh
+read every question um so uh and some of
+these might be a little uncomfortable so
+please just uh bear with me um so the
+question is in five parts i'm going to
+skip over uh the repetitive parts but
+there's uh why was gam gamepay allocated
+250 000 dollars worth um they have
+social networks that have many bots and
+fake users i'm just reading what's
+what's being
+written to me
+the second part is
+uh where did those
+who allocated token okay that that's
+i'm not gonna i'll skip that
+um
+is there
+uh
+it looks like uh someone basically
+uh
+it looks as if someone of their own i
+think this gentleman or lady is uh
+has poor english but i think what
+they're trying to convey is that it
+looks like
+someone
+provided tokens inside a closed group uh
+how is that different from any previous
+partnerships with overscale
+why do we allocate 250 000 for a grant
+but cannot allocate the same amount for
+listing on an exchange for instance
+traders will come from the exchange and
+there will be more liquidity in the
+network
+um
+so that's like three parts of one
+question i guess essentially they're
+asking
+the people are asking they don't
+understand what the benefits to the
+network is that's
+i'm reading
+and paraphrasing
+but you know like i said he's not clear
+now to the community because he's very
+new so the the the building is gonna
+come you know as we said after the game
+is launched and we provide
+infrastructure for developers to launch
+games on our platform and you know the
+scalability
+understood daniel thank you daniel thank
+you ezra uh
+understand we're an open community
+decentralized anybody can ask anything
+they want and it's my responsibility to
+ask any question that's posed so yeah
+regarding regarding the comment about
+community and the fake uses and blocks
+again
+we cannot control
+the whole community in every social
+media that we have
+so we do we do kick out bots as much as
+possible
+we do kick out fake users as much as
+possible but we cannot fully control
+the number of bots that may actually you
+know go through the cracks
+uh but we do have a genuine growing
+community so if uh if if um we're
+getting comments about you know are we
+fake
+uh obviously we are not fake we have
+just look at the team that we have our
+backers and yeah just go into our
+channels and start engaging with members
+of the telegram community and you see
+that you know we do have um you know
+genuine
+engagement and genuine users and again
+look at the team who we are our
+background look at what we're building
+what has been presented here on the call
+and you know who is backing us and you
+know that that should give comfort to
+the community that we are real i think
+what happens is because there's so many
+scams so many bad projects and bad
+actors
+uh everyone becomes not everyone but
+there's a certain number of community
+members that become negative so they ask
+you they look for you know they look for
+the negatives uh but you know let's not
+focus on negatives uh not every project
+is a scam let's focus on the positives
+and on the good projects and back good
+teams because to be negative
+uh and to throw eggs at the projects and
+i don't think that's um productive
+absolutely you're correct and and but
+that's kind of the beauty of a real
+decentralized community and a blockchain
+is that
+everybody has an opinion you know i i
+there's a quote that americans have that
+i'm not going to voice here but um you
+know um
+everybody's got an opinion but it's our
+responsibility to make sure their voices
+are heard so i had to ask those
+uncomfortable questions and i hope you
+appreciate that
+yeah we appreciate it but at the same
+time we cannot uh taste every comment
+either in the community because if
+there's like a hundred thousand
+community members we cannot chase uh
+every single uh comments but you know we
+we're here to address the main comments
+absolutely absolutely daniel thank you
+daniel thank you ezra um
+wonderful presentation
+i'm sure there's going to be a lot of
+chat in the community and we're going to
+we're going to
+move forward
+so uh thank you
+absolutely thank you for coming um we do
+have
+so we have uh some questions that were
+written in uh youtube folks i'll get to
+you in a minute
+uh
+for the surf folks so
+so the first is uh when's when is surf
+going to be open sourced
+who wants to tackle that uh mita
+anton
+is an still with us
+who wants to who wants to yeah um yeah
+maybe i'll answer a squishy but uh sort
+of uh our stuff um
+wouldn't be open
+uh yet uh we'll open the browser as we
+just said with the voice part but uh so
+we we have plans to do it but this work
+is not open source project
+there are parts of servers that are
+already open sourced a ui kit is open
+source sdk and which surface work in an
+open source and yes as android says that
+the browser will be
+that are the nearest place
+so we are still
+thinking
+and going to open sources but not
+environment
+because
+lots and lots
+thank you thank you anne
+um next question
+again this is one of those uncomfortable
+ones uh why launch a surf token sale if
+there isn't much liquidity on the
+network uh chess nft tried to sell their
+token on the network without any success
+well let's see
+because
+we have
+um
+already so there are messages
+from people in the schools
+i think i convert i can i can personally
+say um that i think it's uh
+it's an unfair comparison
+uh because the surf product is um you
+know
+it's two different things uh i don't
+know why um
+why it has to be compared one-to-one um
+an nft project in the surf token sale i
+think surf is uh
+done an amazing job
+you know i
+i personally put my own tokens my own
+money into surf so i
+you have my vote you have my money so if
+anybody respects my opinion they
+probably say let's do this um we have uh
+um is there any information from okay
+this is not the serve team this is a
+general question any information from
+funds can we focus on this
+um what do you mean any information from
+funds like investors yeah there are
+plenty coming or if if that is to the
+surf team um
+are there any and is there any
+information on funds that are going to
+be uh directed towards surf i know i'm
+personally working on that so
+uh i'm not gonna give any specifics uh
+but uh i'm certainly trying to get some
+um some funds into the surf project i
+mean if that answers your question
+if anybody else wants to add anything to
+that
+um
+if not that's it for written questions
+let's go to youtube
+um
+right
+so
+uh
+there was a question asked and the
+question was answered um it wasn't
+retracted so let me read uh somebody
+says i'm concerned about the facial
+features in terms of
+collisions i think collusions maybe he
+meant any data regarding say twins or so
+so this is a facial recognition question
+question this is for spacium
+so if you try to get too much too many
+bits from the facial features it could
+be
+not that constant
+along some person's life and if you take
+take too little
+about a bits
+from face
+can be not secure
+okay um
+and then it was answered so we're not
+really extracting the secret from the
+user's biometrics we instead teach nnn
+to provide the previously generated
+secret each time certain uh face
+features are submitted to it but um
+i i think the question and the answer
+they sort of canceled each other out i
+could say that i actually worked in a
+facial recognition company uh there's
+another gentleman who's part of the
+everex team who has as well and we're
+actually going to study this a little
+bit because it's very interesting to me
+as somebody who who comes from that
+sector
+this is
+potentially really cool it raises a lot
+of very interesting questions
+uh questions we never faced like um
+private biometrics like uh privacy and
+biometrics it's uh
+that's a whole industry unto itself but
+we'll we're going to look into this um
+i'm going to have questions myself
+so hopefully we're past the youtube
+portion of that a gentleman
+asks
+doesn't make any sense that the whole
+telegram community thing they have 50
+views on posts and 25 000 followers
+who's they who are you referring to um
+is it okay
+so game pay guys ezra um that's the
+doesn't make any sense that the whole
+telegram community thing they they have
+50 views on posts and 25 000 followers
+did you want to address that at all
+uh yeah so we have another heckler
+another heckler on the go yeah so we
+have over 30 000 uh members on a
+telegram
+and i will invite whoever wants to to
+join our telegram group and engage with
+the members
+uh i mean to us it makes sense that we
+have the numbers of uh
+you know
+users or you know
+engaged in the telegram so we make the
+numbers make sense to us but whoever um
+whomever
+doesn't think so just join our group and
+engage with the users
+thank you so there's your answer uh so
+go to the group engage with the users
+and and see
+we have one last question on youtube uh
+who do you think your competitor is and
+why
+and again i believe that's probably
+to you daniel um and ezra what do you
+think your competitors and why
+yes
+our main competitor
+currently is axe infinity
+but uh they they've been a victim of
+their own success so now uh
+people in emerging markets in southeast
+asia would be priced out of using axi so
+that's why we fill in the gap
+uh because you know users being priced
+out and there are some flaws in a token
+economic economics that we don't have we
+have a more sustainable model but axis
+is our main competitor
+okay
+i hope that answers your question um
+thank you everybody very much does
+anyone have any more questions for the
+presenters and and today was a very
+interesting call we put everybody on the
+spot but um uh with all due respect to
+everybody that came this is what we do
+right um we we
+voice everybody's questions and um and i
+apologize if it was uncomfortable for
+anybody but this is
+this is community work so last call for
+questions from anybody on this call
+no
+all right
+in that case and we are running over ben
+uh sorry it took so long brother uh but
+we're gonna go to our final closing
+segment and we're gonna make it uh fun
+for everybody it's gonna be a uh a fun
+closing and i have a little thing
+prepared so for ben
+then you're with us right still yeah you
+didn't leave okay so i'm still area
+the
+the dude with the ear lube
+will slide in crude let's move
+and finish before you can call rude then
+please
+take us away be nice like it like it
+well uh an extra shriveled benz bits
+today just to keep it brief
+right so first up uh recent news really
+exciting stuff pie realty if i'm
+pronouncing that correct pi reality dot
+eu put out a bit of an announcement
+yesterday uh real estate yachts and more
+loads loads more uh all using ever check
+it out definitely
+uh community feedback guard our very own
+roman i believe it was put together a
+little community feedback form uh help
+us help you help yourselves you know
+that's what feedback's all about if you
+don't tell us you know how you feel then
+how's anyone supposed to get anything
+done uh we've had a nice uh kind of uh
+startup on the content factory uh lots
+of blogs uh heading out from the d5
+alliance and i've been proofreading and
+helping out with a lot of stuff there so
+yeah check out the new content coming
+out lots of uh beginners stuff so you
+know people are new to ever some really
+good resources to send them
+and uh just just to wrap things up this
+one
+it's a little bit secret squirrel i'll
+probably get in trouble for saying
+anything at all so forgive my uh my
+enigmatic nature here
+um but there is a really really amazing
+community initiative going on a a very
+um
+motivated group of uh people have
+clubbed together from the community and
+are doing something very very cool for
+an amazing cause uh touchwood i should
+be able to give you some details on this
+next week
+and that's it for this week thank you
+very much thank you ben thank you very
+much and that's a great way to send us
+off uh yes we ran over this week um and
+i predict we're gonna run over again
+next week at this point by the way if
+you uh
+want a spot on this call
+uh usually
+we started collecting uh topics on
+fridays and closing them out on sundays
+right now we're about two weeks
+ahead
+so
+so um if if you want to come on do a
+five to seven to ten minute bit here uh
+please write dm me directly at ron below
+in telegram r-o-n-m-i-l-o-w
+because we're we're we're booking
+two weeks in advance now so
+yeah like pillow with an m yes
+thank you ivan as always
+have a great rest of your week have a
+wonderful weekend we will see you again
+on tuesday guys gals everybody
+peace on earth
+bye all
+ciao bye-bye

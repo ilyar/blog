@@ -1,0 +1,59 @@
+hello friends it's arthur with the first
+episode of everscale news the most
+important news of the ecosystem in two
+minutes the crypto market is still in a
+pretty bad state but we got a lot of
+interesting updates and that's the thing
+that matters the most let's go
+proxes updated the chrome extension
+forever wallet they added the
+possibility to create a backup for
+restoring seed hierarchies keys and
+accounts also the wallet includes a
+number of small improvements you can
+find the link in the chrome store in the
+description
+moonstake one of the largest d5 pool
+providers in asia is going to add ever
+to its pools
+also soon it will be possible to store
+send and receive ever using moonstake
+wallet which already supports more than
+2 000 tokens
+tasers defy hackathon 2022 has started
+there are two challenges sponsored by
+broxas and everserve the first challenge
+is to create a bridge between tasers and
+everscale
+the second one is to develop a debuff
+for interacting with taser's addresses
+checking balances and sending tokens on
+tazos which opens the path to making
+ever serve a multi-asset application
+we'll provide you with the update next
+week
+speaking of bridges process and open fi
+launched the bridge between everscale
+and cardano it will potentially bring
+some liquidity from the cardinal
+ecosystem and will create new
+opportunities for developers tone labs
+is working day and night to improve
+everscale the new security update for
+all nodes is ready and it's crucial for
+all validators to get the new version
+the next update number 20 will cut off
+all validators with the outdated
+software and will make everscale
+protocol incompatible with the old tom
+protocol everscale organized the
+marketing ama session where nikita
+inchakov told the community about the
+new marketing approach and the
+reorganization of the whole process
+also he mentioned that the team is in
+talks with some of the top 10 exchanges
+about listing the eva token and that
+everyone will be able to see the first
+results pretty soon that's all for today
+stay tuned

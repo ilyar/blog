@@ -1,0 +1,319 @@
+hey everyone
+hello
+well it's so nice to see you here
+will you be able to present the ssi
+step four
+not today unfortunately i'm not ready
+because i'm on the way
+okay
+uh i left a few comments
+yep let's have a look
+okay let's wait a couple minutes
+and let's begin
+all right let's begin so uh we have not
+that big agenda for today's uh but still
+i welcome you everyone it's our
+60-second weekly defined governance call
+uh so we have a couple of news for today
+so i will start from the contest updates
+so actually we have uh one contest uh
+that we discussed last time this is a
+contest for the never the stable coin
+stage two
+uh so the contest is uh almost ready i'm
+waiting for sergey from provenda to
+finalize it and add the missing points
+and right after that uh we will launch
+it so he promised to do this over the
+weekend because he is on the business
+trip right now
+uh
+and the second news the second contest
+that you may have seen on the forum is
+uh
+the ssi uh
+stage four uh that was uh posted there
+by vladimir khan who is here with us
+today but unfortunately he's on the road
+and cannot
+tell uh too much about
+the contest yet however
+i recommend going there and
+having a look in the content description
+and leaving your comments
+i have a few already uh i posted them to
+vladimir
+and
+so i hope that we will polish the
+contest uh till next time and uh
+vladimir will provide the presentation
+of what this council is going to be
+about and we will launch it
+um
+the second news of today is the launch
+of the everdao so um
+let me
+give you a history of this this product
+so actually uh eva dao is based on the
+bridge dao that was developed by the
+brokers team and
+in the uh expectance of
+gov to o
+so
+we decided to
+make a step further and deploy a
+separate replica of the dao with
+separate contracts based on the
+robbed ever
+as a vote in power
+and now it is available at everdao.net
+uh and you can go there take your
+everest to give the voting power and uh
+even vote for the first
+uh proposal uh that is uh sitting here
+sitting there
+so uh if everything goes well so we will
+definitely be going to the proposal
+to accept everdao as a main
+governance interface forever scale
+and
+moreover this is the first experience
+for us to of launch the separate dao
+that is not linked directly to to any
+product so uh please report any bugs
+found and
+any any feedback on the ux ui part uh to
+our groups uh to myself personally so uh
+every comment is welcomed
+uh so
+uh well that's pretty for today so uh we
+have not that rich agenda now uh
+hopefully so we will get more and more
+news uh
+with the launch of of the foundation and
+you may have seen few news from the
+grand
+team as well that
+more and more projects appearing on our
+horizon
+uh
+so
+yeah guys if you have any questions
+please so we
+have a really short meeting today
+okay really no questions
+uh
+uh in this case so i i thank everyone
+for joining
+sorry sorry can you just deliberate more
+on everdoe like what's um
+yeah so i can even share my
+my screen and explain a bit uh how it
+works
+uh so give me a second
+because it's kind of important
+yeah so uh it's pretty straightforward
+product so it's uh nothing that where
+you can
+can mess actually uh so
+let me show it like this
+yeah so uh you see here
+i everdao.net
+so this is the domain of the product so
+there are actually two tabs so one is
+taking another is the governance so uh
+in the staking part uh so you can
+stake your roped levers
+directly here so you see i have some
+balance here available so i can do this
+now so for example i would like to stake
+some additional levers
+just seconds up
+i will
+copy my password
+so uh if you don't see there's a
+wallet screen appeared right now so now
+it's been staked
+and
+meanwhile it is done so you can see that
+there is a redeem window so i have about
+one of one weber
+available here and here are some
+transactions that they did
+so
+while it has been staked so you can go
+to the uh governance interface
+governance dashboard directly so as it
+shows how many reserves are currently
+available in the dow system so how many
+uh stakeholders
+have put the webbers there how many
+proposals are available also some chart
+with tvl uh launched
+locked in the dow
+uh the recent proposals it will uh be
+the top proposal something like three to
+five so we
+i think five
+is the right number now
+so and here you can see the top voters
+by the power
+uh actually this is uh pretty much uh
+copying the best practices from
+existing dao interfaces
+like compound or other finance
+or other defined products so and
+it incorporates the best practices from
+from
+the governance systems uh here you can
+click on on the proposal and dive into
+its uh
+its
+page
+uh you will see here
+the step that's which the proposal is
+now uh
+staying so there are actually uh four
+steps the first one is the pending when
+the proposal is published and it stays
+there for everyone to review
+at this stage the proposer can uh cancel
+it and
+it it can be cancelled until it's uh
+queued so for all this period of time so
+typically this stays as a two days
+configuration but this can be changed
+through the dow decision as well by the
+way so every parameter here so like the
+quorum parameter or
+uh the duration of those steps can be
+changed by by the dow decision
+next it will uh be the voting period so
+now it's it's configured to be three
+days for voting but it can be reduced
+uh then the lockup period to let uh
+everyone uh if they are not agreeing
+with this uh dow decision to take
+actions and then it's the decisions
+being executed
+uh so uh here you see the current
+distribution of the votings uh so you
+can vote not only for the proposal but
+also against the proposal and uh
+actually the
+voting is pretty uh straightforward
+so uh
+it should reach the minimum quorum of
+votes so meaning that at least
+500 000 webers should participate in the
+voting it's not only
+for but also uh in against
+and uh you can vote for or against the
+proposal as i said so yet if you the
+proposal gets more votes uh then against
+votes so it's the
+considered accepted
+um
+here you will see the description uh
+the description can be written in the
+markdown and is stored directly in the
+uh contract uh so there is a discussion
+page so that can be uh configured to
+anything uh so that you can put in the
+field at the moment of the proposal
+creation uh here are some uh everscale
+actions so actually
+the dao proposal can have actions inside
+it that smart contract calls and
+we will also write a guide on how to
+uh create those actions so it's not that
+complex so actually what it contains is
+a target smart contract to call and the
+encoded payload uh to attach to this
+smart contract call and also some
+payload balance that you need to attach
+when sending the message
+and once the dao is accepted and at the
+execution stage it will call this
+specific contract uh with this payload
+and the dash this amount so actually now
+this contract if i remember it well it
+is the
+uh eho contract so and the encoded
+payload say it's sounds like hello
+so when you send it to it just send it
+back
+uh here you'll see the address of the
+proposal uh the voting start date the
+voting end date and
+the period of course
+once anyone votes uh for or against the
+proposal so uh his vote will appear here
+he can provide some comment why he's
+deciding this or that
+and also what is important that for the
+duration of
+the
+voting period the your stake will be
+locked so once you vote so you will not
+be able to
+cancel your vote or withdraw your stake
+until the vote is over so this is also
+important because it guarantees that
+there are no
+fake votes
+so uh
+and here also the create proposal uh
+interface so you need to have the stake
+of at least 100 000
+efforts here
+to
+make a new proposal so this is also some
+economic uh
+spam protection system so and this also
+can be increased or decreased based on
+the dow decision
+um yeah so that's pretty it i think
+that's uh
+nothing nothing really to tell more
+about this but here you see the list of
+proposals
+and you see my voting power has doubled
+now i have two errors here so
+that i can vote within
+one day seven hours and 17 minutes
+thank you looks really cool any plans
+for everest not wrapped but but simple
+evers
+currently we are testing it and uh
+probably we um
+we have a cool feature coming uh on flat
+cube that will allow you to uh
+uh also make exchange directly from your
+ever balance
+and
+once it is uh
+really well tested and
+in in the production so i think that we
+will also edit here so to to
+make the
+uh under the hood conversion of average
+to webbers so uh
+again uh wearers are here to
+reduce the complexity of the system and
+avoid
+major errors
+any more questions guys please
+all right um in this case so uh i thank
+everyone for for attending so and uh
+keep an eye on the forum and on the
+governance interface and uh
+see you all next week so uh hopefully
+there will be a presentation of the ssi
+contest stage four and uh we will
+get some more news yeah maybe from other
+teams
+okay
+have a nice day
+see you
+bye

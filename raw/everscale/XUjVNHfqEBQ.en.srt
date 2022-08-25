@@ -1,0 +1,7955 @@
+1
+00:00:07,040 --> 00:00:08,070
+
+put recording on
+
+2
+00:00:08,070 --> 00:00:08,080
+put recording on
+ 
+
+3
+00:00:08,080 --> 00:00:11,270
+put recording on
+yeah so once again there is a
+
+4
+00:00:11,270 --> 00:00:11,280
+yeah so once again there is a
+ 
+
+5
+00:00:11,280 --> 00:00:13,110
+yeah so once again there is a
+free condex implementation stage 2
+
+6
+00:00:13,110 --> 00:00:13,120
+free condex implementation stage 2
+ 
+
+7
+00:00:13,120 --> 00:00:15,030
+free condex implementation stage 2
+contest that is ending
+
+8
+00:00:15,030 --> 00:00:15,040
+contest that is ending
+ 
+
+9
+00:00:15,040 --> 00:00:16,950
+contest that is ending
+tomorrow so and there is still no
+
+10
+00:00:16,950 --> 00:00:16,960
+tomorrow so and there is still no
+ 
+
+11
+00:00:16,960 --> 00:00:19,109
+tomorrow so and there is still no
+submissions uh which is surprising for
+
+12
+00:00:19,109 --> 00:00:19,119
+submissions uh which is surprising for
+ 
+
+13
+00:00:19,119 --> 00:00:19,429
+submissions uh which is surprising for
+me
+
+14
+00:00:19,429 --> 00:00:19,439
+me
+ 
+
+15
+00:00:19,439 --> 00:00:26,950
+me
+uh so i kind of yes yes please
+
+16
+00:00:26,950 --> 00:00:26,960
+
+ 
+
+17
+00:00:26,960 --> 00:00:29,029
+
+we're kind of participating there is
+
+18
+00:00:29,029 --> 00:00:29,039
+we're kind of participating there is
+ 
+
+19
+00:00:29,039 --> 00:00:30,310
+we're kind of participating there is
+some noise
+
+20
+00:00:30,310 --> 00:00:30,320
+some noise
+ 
+
+21
+00:00:30,320 --> 00:00:34,310
+some noise
+so with your signal
+
+22
+00:00:34,310 --> 00:00:34,320
+
+ 
+
+23
+00:00:34,320 --> 00:00:36,470
+
+um i'm saying we couldn't participate
+
+24
+00:00:36,470 --> 00:00:36,480
+um i'm saying we couldn't participate
+ 
+
+25
+00:00:36,480 --> 00:00:37,670
+um i'm saying we couldn't participate
+because we didn't have time to
+
+26
+00:00:37,670 --> 00:00:37,680
+because we didn't have time to
+ 
+
+27
+00:00:37,680 --> 00:00:39,510
+because we didn't have time to
+participate in that contest
+
+28
+00:00:39,510 --> 00:00:39,520
+participate in that contest
+ 
+
+29
+00:00:39,520 --> 00:00:42,950
+participate in that contest
+unfortunately okay that's a pity
+
+30
+00:00:42,950 --> 00:00:42,960
+unfortunately okay that's a pity
+ 
+
+31
+00:00:42,960 --> 00:00:46,630
+unfortunately okay that's a pity
+and and as for all others i see sway dev
+
+32
+00:00:46,630 --> 00:00:46,640
+and and as for all others i see sway dev
+ 
+
+33
+00:00:46,640 --> 00:00:49,430
+and and as for all others i see sway dev
+team here so will you publish your
+
+34
+00:00:49,430 --> 00:00:49,440
+team here so will you publish your
+ 
+
+35
+00:00:49,440 --> 00:00:51,750
+team here so will you publish your
+submission guys
+
+36
+00:00:51,750 --> 00:00:51,760
+submission guys
+ 
+
+37
+00:00:51,760 --> 00:00:56,470
+submission guys
+yeah as usual last moment okay
+
+38
+00:00:56,470 --> 00:00:56,480
+
+ 
+
+39
+00:00:56,480 --> 00:00:58,790
+
+okay just please don't wait until the
+
+40
+00:00:58,790 --> 00:00:58,800
+okay just please don't wait until the
+ 
+
+41
+00:00:58,800 --> 00:01:01,590
+okay just please don't wait until the
+very last moment so i don't think that
+
+42
+00:01:01,590 --> 00:01:01,600
+very last moment so i don't think that
+ 
+
+43
+00:01:01,600 --> 00:01:03,590
+very last moment so i don't think that
+it really will create some advantage to
+
+44
+00:01:03,590 --> 00:01:03,600
+it really will create some advantage to
+ 
+
+45
+00:01:03,600 --> 00:01:05,990
+it really will create some advantage to
+other participants but
+
+46
+00:01:05,990 --> 00:01:06,000
+other participants but
+ 
+
+47
+00:01:06,000 --> 00:01:09,990
+other participants but
+uh you may miss your moment uh okay
+
+48
+00:01:09,990 --> 00:01:10,000
+uh you may miss your moment uh okay
+ 
+
+49
+00:01:10,000 --> 00:01:12,070
+uh you may miss your moment uh okay
+friday time is the best time to work
+
+50
+00:01:12,070 --> 00:01:12,080
+friday time is the best time to work
+ 
+
+51
+00:01:12,080 --> 00:01:13,270
+friday time is the best time to work
+with the submission
+
+52
+00:01:13,270 --> 00:01:13,280
+with the submission
+ 
+
+53
+00:01:13,280 --> 00:01:15,590
+with the submission
+yeah yeah i remember before i delete
+
+54
+00:01:15,590 --> 00:01:15,600
+yeah yeah i remember before i delete
+ 
+
+55
+00:01:15,600 --> 00:01:17,590
+yeah yeah i remember before i delete
+this we all know what is this
+
+56
+00:01:17,590 --> 00:01:17,600
+this we all know what is this
+ 
+
+57
+00:01:17,600 --> 00:01:20,630
+this we all know what is this
+oh sorry i thought it's uh it's uh it's
+
+58
+00:01:20,630 --> 00:01:20,640
+oh sorry i thought it's uh it's uh it's
+ 
+
+59
+00:01:20,640 --> 00:01:21,990
+oh sorry i thought it's uh it's uh it's
+a stable coin
+
+60
+00:01:21,990 --> 00:01:22,000
+a stable coin
+ 
+
+61
+00:01:22,000 --> 00:01:25,510
+a stable coin
+i don't know maybe yeah yeah okay yeah
+
+62
+00:01:25,510 --> 00:01:25,520
+i don't know maybe yeah yeah okay yeah
+ 
+
+63
+00:01:25,520 --> 00:01:28,630
+i don't know maybe yeah yeah okay yeah
+we will submit something yeah
+
+64
+00:01:28,630 --> 00:01:28,640
+we will submit something yeah
+ 
+
+65
+00:01:28,640 --> 00:01:31,749
+we will submit something yeah
+what time is it ending tomorrow uh i
+
+66
+00:01:31,749 --> 00:01:31,759
+what time is it ending tomorrow uh i
+ 
+
+67
+00:01:31,759 --> 00:01:33,590
+what time is it ending tomorrow uh i
+don't see online live let me check on
+
+68
+00:01:33,590 --> 00:01:33,600
+don't see online live let me check on
+ 
+
+69
+00:01:33,600 --> 00:01:35,030
+don't see online live let me check on
+the easy votes
+
+70
+00:01:35,030 --> 00:01:35,040
+the easy votes
+ 
+
+71
+00:01:35,040 --> 00:01:39,109
+the easy votes
+um it's 12 o'clock utc so it's like 3
+
+72
+00:01:39,109 --> 00:01:39,119
+um it's 12 o'clock utc so it's like 3
+ 
+
+73
+00:01:39,119 --> 00:01:42,469
+um it's 12 o'clock utc so it's like 3
+a.m saturday
+
+74
+00:01:42,469 --> 00:01:42,479
+a.m saturday
+ 
+
+75
+00:01:42,479 --> 00:01:45,590
+a.m saturday
+oh okay full day tomorrow okay
+
+76
+00:01:45,590 --> 00:01:45,600
+oh okay full day tomorrow okay
+ 
+
+77
+00:01:45,600 --> 00:01:47,990
+oh okay full day tomorrow okay
+yeah but we have it we have it written
+
+78
+00:01:47,990 --> 00:01:48,000
+yeah but we have it we have it written
+ 
+
+79
+00:01:48,000 --> 00:01:48,710
+yeah but we have it we have it written
+that just
+
+80
+00:01:48,710 --> 00:01:48,720
+that just
+ 
+
+81
+00:01:48,720 --> 00:01:50,870
+that just
+need to yeah make a submission okay fine
+
+82
+00:01:50,870 --> 00:01:50,880
+need to yeah make a submission okay fine
+ 
+
+83
+00:01:50,880 --> 00:01:53,749
+need to yeah make a submission okay fine
+thanks maybe maybe we can
+
+84
+00:01:53,749 --> 00:01:53,759
+thanks maybe maybe we can
+ 
+
+85
+00:01:53,759 --> 00:01:55,510
+thanks maybe maybe we can
+yeah please do please do because the
+
+86
+00:01:55,510 --> 00:01:55,520
+yeah please do please do because the
+ 
+
+87
+00:01:55,520 --> 00:01:57,510
+yeah please do please do because the
+more we have the better
+
+88
+00:01:57,510 --> 00:01:57,520
+more we have the better
+ 
+
+89
+00:01:57,520 --> 00:02:02,069
+more we have the better
+and uh by the way uh those of you who
+
+90
+00:02:02,069 --> 00:02:02,079
+and uh by the way uh those of you who
+ 
+
+91
+00:02:02,079 --> 00:02:04,950
+and uh by the way uh those of you who
+visited the cross chain meet up in
+
+92
+00:02:04,950 --> 00:02:04,960
+visited the cross chain meet up in
+ 
+
+93
+00:02:04,960 --> 00:02:05,830
+visited the cross chain meet up in
+moscow
+
+94
+00:02:05,830 --> 00:02:05,840
+moscow
+ 
+
+95
+00:02:05,840 --> 00:02:09,190
+moscow
+so maybe hearing that
+
+96
+00:02:09,190 --> 00:02:09,200
+so maybe hearing that
+ 
+
+97
+00:02:09,200 --> 00:02:12,150
+so maybe hearing that
+for example cosmos and tender means so
+
+98
+00:02:12,150 --> 00:02:12,160
+for example cosmos and tender means so
+ 
+
+99
+00:02:12,160 --> 00:02:13,350
+for example cosmos and tender means so
+they have
+
+100
+00:02:13,350 --> 00:02:13,360
+they have
+ 
+
+101
+00:02:13,360 --> 00:02:16,150
+they have
+not released their decks yet so actually
+
+102
+00:02:16,150 --> 00:02:16,160
+not released their decks yet so actually
+ 
+
+103
+00:02:16,160 --> 00:02:16,949
+not released their decks yet so actually
+so
+
+104
+00:02:16,949 --> 00:02:16,959
+so
+ 
+
+105
+00:02:16,959 --> 00:02:20,830
+so
+the speed at which we are moving so it's
+
+106
+00:02:20,830 --> 00:02:20,840
+the speed at which we are moving so it's
+ 
+
+107
+00:02:20,840 --> 00:02:21,830
+the speed at which we are moving so it's
+fascinating they
+
+108
+00:02:21,830 --> 00:02:21,840
+fascinating they
+ 
+
+109
+00:02:21,840 --> 00:02:24,390
+fascinating they
+we already did the bigger progress and
+
+110
+00:02:24,390 --> 00:02:24,400
+we already did the bigger progress and
+ 
+
+111
+00:02:24,400 --> 00:02:25,750
+we already did the bigger progress and
+the whole project
+
+112
+00:02:25,750 --> 00:02:25,760
+the whole project
+ 
+
+113
+00:02:25,760 --> 00:02:28,309
+the whole project
+for four years of course they have some
+
+114
+00:02:28,309 --> 00:02:28,319
+for four years of course they have some
+ 
+
+115
+00:02:28,319 --> 00:02:29,670
+for four years of course they have some
+their own peculiarities of their
+
+116
+00:02:29,670 --> 00:02:29,680
+their own peculiarities of their
+ 
+
+117
+00:02:29,680 --> 00:02:31,830
+their own peculiarities of their
+architecture and so on so forth but
+
+118
+00:02:31,830 --> 00:02:31,840
+architecture and so on so forth but
+ 
+
+119
+00:02:31,840 --> 00:02:34,869
+architecture and so on so forth but
+still uh we have at least ten decks
+
+120
+00:02:34,869 --> 00:02:34,879
+still uh we have at least ten decks
+ 
+
+121
+00:02:34,879 --> 00:02:36,550
+still uh we have at least ten decks
+that's operational now
+
+122
+00:02:36,550 --> 00:02:36,560
+that's operational now
+ 
+
+123
+00:02:36,560 --> 00:02:40,229
+that's operational now
+which is fascinating uh okay let's let's
+
+124
+00:02:40,229 --> 00:02:40,239
+which is fascinating uh okay let's let's
+ 
+
+125
+00:02:40,239 --> 00:02:41,030
+which is fascinating uh okay let's let's
+move on for
+
+126
+00:02:41,030 --> 00:02:41,040
+move on for
+ 
+
+127
+00:02:41,040 --> 00:02:44,070
+move on for
+for contests uh we launched the uh
+
+128
+00:02:44,070 --> 00:02:44,080
+for contests uh we launched the uh
+ 
+
+129
+00:02:44,080 --> 00:02:45,830
+for contests uh we launched the uh
+london and borrowing se
+
+130
+00:02:45,830 --> 00:02:45,840
+london and borrowing se
+ 
+
+131
+00:02:45,840 --> 00:02:49,830
+london and borrowing se
+uh so which is aimed to
+
+132
+00:02:49,830 --> 00:02:49,840
+uh so which is aimed to
+ 
+
+133
+00:02:49,840 --> 00:02:52,470
+uh so which is aimed to
+better understand of possible and
+
+134
+00:02:52,470 --> 00:02:52,480
+better understand of possible and
+ 
+
+135
+00:02:52,480 --> 00:02:53,990
+better understand of possible and
+impossible mechanics
+
+136
+00:02:53,990 --> 00:02:54,000
+impossible mechanics
+ 
+
+137
+00:02:54,000 --> 00:02:56,309
+impossible mechanics
+on london and borrowing and comparison
+
+138
+00:02:56,309 --> 00:02:56,319
+on london and borrowing and comparison
+ 
+
+139
+00:02:56,319 --> 00:02:57,190
+on london and borrowing and comparison
+to those
+
+140
+00:02:57,190 --> 00:02:57,200
+to those
+ 
+
+141
+00:02:57,200 --> 00:03:01,509
+to those
+existing protocols on ethereum
+
+142
+00:03:01,509 --> 00:03:01,519
+existing protocols on ethereum
+ 
+
+143
+00:03:01,519 --> 00:03:03,670
+existing protocols on ethereum
+so what is the difference what can be
+
+144
+00:03:03,670 --> 00:03:03,680
+so what is the difference what can be
+ 
+
+145
+00:03:03,680 --> 00:03:04,550
+so what is the difference what can be
+imported
+
+146
+00:03:04,550 --> 00:03:04,560
+imported
+ 
+
+147
+00:03:04,560 --> 00:03:06,949
+imported
+what can be reused what cannot and why
+
+148
+00:03:06,949 --> 00:03:06,959
+what can be reused what cannot and why
+ 
+
+149
+00:03:06,959 --> 00:03:07,750
+what can be reused what cannot and why
+so uh
+
+150
+00:03:07,750 --> 00:03:07,760
+so uh
+ 
+
+151
+00:03:07,760 --> 00:03:09,910
+so uh
+if you feel yourself capable so please
+
+152
+00:03:09,910 --> 00:03:09,920
+if you feel yourself capable so please
+ 
+
+153
+00:03:09,920 --> 00:03:11,509
+if you feel yourself capable so please
+participate and
+
+154
+00:03:11,509 --> 00:03:11,519
+participate and
+ 
+
+155
+00:03:11,519 --> 00:03:13,589
+participate and
+the more ideas we collect the better
+
+156
+00:03:13,589 --> 00:03:13,599
+the more ideas we collect the better
+ 
+
+157
+00:03:13,599 --> 00:03:15,110
+the more ideas we collect the better
+will be the
+
+158
+00:03:15,110 --> 00:03:15,120
+will be the
+ 
+
+159
+00:03:15,120 --> 00:03:16,869
+will be the
+specification of the implementation
+
+160
+00:03:16,869 --> 00:03:16,879
+specification of the implementation
+ 
+
+161
+00:03:16,879 --> 00:03:18,550
+specification of the implementation
+contest
+
+162
+00:03:18,550 --> 00:03:18,560
+contest
+ 
+
+163
+00:03:18,560 --> 00:03:21,670
+contest
+uh next uh the free terms of sovereign
+
+164
+00:03:21,670 --> 00:03:21,680
+uh next uh the free terms of sovereign
+ 
+
+165
+00:03:21,680 --> 00:03:23,670
+uh next uh the free terms of sovereign
+identity framework stage one
+
+166
+00:03:23,670 --> 00:03:23,680
+identity framework stage one
+ 
+
+167
+00:03:23,680 --> 00:03:27,190
+identity framework stage one
+uh is ending in five days so uh there is
+
+168
+00:03:27,190 --> 00:03:27,200
+uh is ending in five days so uh there is
+ 
+
+169
+00:03:27,200 --> 00:03:30,390
+uh is ending in five days so uh there is
+also no submissions yet um
+
+170
+00:03:30,390 --> 00:03:30,400
+also no submissions yet um
+ 
+
+171
+00:03:30,400 --> 00:03:33,830
+also no submissions yet um
+uh vladimir kanin maybe you have
+
+172
+00:03:33,830 --> 00:03:33,840
+uh vladimir kanin maybe you have
+ 
+
+173
+00:03:33,840 --> 00:03:36,550
+uh vladimir kanin maybe you have
+uh some updates if there are any teams
+
+174
+00:03:36,550 --> 00:03:36,560
+uh some updates if there are any teams
+ 
+
+175
+00:03:36,560 --> 00:03:40,470
+uh some updates if there are any teams
+who will be participating
+
+176
+00:03:40,470 --> 00:03:40,480
+
+ 
+
+177
+00:03:40,480 --> 00:03:42,710
+
+yes i certainly know that the two or
+
+178
+00:03:42,710 --> 00:03:42,720
+yes i certainly know that the two or
+ 
+
+179
+00:03:42,720 --> 00:03:44,550
+yes i certainly know that the two or
+three teams will participate
+
+180
+00:03:44,550 --> 00:03:44,560
+three teams will participate
+ 
+
+181
+00:03:44,560 --> 00:03:47,830
+three teams will participate
+as far as i helped
+
+182
+00:03:47,830 --> 00:03:47,840
+as far as i helped
+ 
+
+183
+00:03:47,840 --> 00:03:50,630
+as far as i helped
+one of them and two or three two or
+
+184
+00:03:50,630 --> 00:03:50,640
+one of them and two or three two or
+ 
+
+185
+00:03:50,640 --> 00:03:52,309
+one of them and two or three two or
+three i know hope three
+
+186
+00:03:52,309 --> 00:03:52,319
+three i know hope three
+ 
+
+187
+00:03:52,319 --> 00:03:54,630
+three i know hope three
+which i know and probably we spread some
+
+188
+00:03:54,630 --> 00:03:54,640
+which i know and probably we spread some
+ 
+
+189
+00:03:54,640 --> 00:03:56,630
+which i know and probably we spread some
+information in the ssi community
+
+190
+00:03:56,630 --> 00:03:56,640
+information in the ssi community
+ 
+
+191
+00:03:56,640 --> 00:03:58,630
+information in the ssi community
+they strongly believe that one and two
+
+192
+00:03:58,630 --> 00:03:58,640
+they strongly believe that one and two
+ 
+
+193
+00:03:58,640 --> 00:04:01,350
+they strongly believe that one and two
+submissions more which i don't know yet
+
+194
+00:04:01,350 --> 00:04:01,360
+submissions more which i don't know yet
+ 
+
+195
+00:04:01,360 --> 00:04:04,789
+submissions more which i don't know yet
+but they will do okay
+
+196
+00:04:04,789 --> 00:04:04,799
+but they will do okay
+ 
+
+197
+00:04:04,799 --> 00:04:07,910
+but they will do okay
+yeah all of them asking what's the best
+
+198
+00:04:07,910 --> 00:04:07,920
+yeah all of them asking what's the best
+ 
+
+199
+00:04:07,920 --> 00:04:08,869
+yeah all of them asking what's the best
+strategy to
+
+200
+00:04:08,869 --> 00:04:08,879
+strategy to
+ 
+
+201
+00:04:08,879 --> 00:04:11,589
+strategy to
+to to apply that for the last minutes or
+
+202
+00:04:11,589 --> 00:04:11,599
+to to apply that for the last minutes or
+ 
+
+203
+00:04:11,599 --> 00:04:13,030
+to to apply that for the last minutes or
+not so i say
+
+204
+00:04:13,030 --> 00:04:13,040
+not so i say
+ 
+
+205
+00:04:13,040 --> 00:04:16,390
+not so i say
+it's much better to apply a few days
+
+206
+00:04:16,390 --> 00:04:16,400
+it's much better to apply a few days
+ 
+
+207
+00:04:16,400 --> 00:04:18,469
+it's much better to apply a few days
+prior or a few hours pray or at least
+
+208
+00:04:18,469 --> 00:04:18,479
+prior or a few hours pray or at least
+ 
+
+209
+00:04:18,479 --> 00:04:20,949
+prior or a few hours pray or at least
+not the last yeah just in case if they
+
+210
+00:04:20,949 --> 00:04:20,959
+not the last yeah just in case if they
+ 
+
+211
+00:04:20,959 --> 00:04:22,150
+not the last yeah just in case if they
+uh
+
+212
+00:04:22,150 --> 00:04:22,160
+uh
+ 
+
+213
+00:04:22,160 --> 00:04:25,030
+uh
+right difficulties so you can just
+
+214
+00:04:25,030 --> 00:04:25,040
+right difficulties so you can just
+ 
+
+215
+00:04:25,040 --> 00:04:26,710
+right difficulties so you can just
+forward them to me it will help
+
+216
+00:04:26,710 --> 00:04:26,720
+forward them to me it will help
+ 
+
+217
+00:04:26,720 --> 00:04:29,990
+forward them to me it will help
+so no problems and also i
+
+218
+00:04:29,990 --> 00:04:30,000
+so no problems and also i
+ 
+
+219
+00:04:30,000 --> 00:04:33,350
+so no problems and also i
+kindly ask you to discuss with them uh
+
+220
+00:04:33,350 --> 00:04:33,360
+kindly ask you to discuss with them uh
+ 
+
+221
+00:04:33,360 --> 00:04:36,469
+kindly ask you to discuss with them uh
+the ama session so because ssi is
+
+222
+00:04:36,469 --> 00:04:36,479
+the ama session so because ssi is
+ 
+
+223
+00:04:36,479 --> 00:04:37,430
+the ama session so because ssi is
+something
+
+224
+00:04:37,430 --> 00:04:37,440
+something
+ 
+
+225
+00:04:37,440 --> 00:04:40,710
+something
+quite new to us and it would be great if
+
+226
+00:04:40,710 --> 00:04:40,720
+quite new to us and it would be great if
+ 
+
+227
+00:04:40,720 --> 00:04:41,270
+quite new to us and it would be great if
+they can
+
+228
+00:04:41,270 --> 00:04:41,280
+they can
+ 
+
+229
+00:04:41,280 --> 00:04:44,469
+they can
+present their works uh especially there
+
+230
+00:04:44,469 --> 00:04:44,479
+present their works uh especially there
+ 
+
+231
+00:04:44,479 --> 00:04:46,150
+present their works uh especially there
+are not so many works expected
+
+232
+00:04:46,150 --> 00:04:46,160
+are not so many works expected
+ 
+
+233
+00:04:46,160 --> 00:04:48,870
+are not so many works expected
+so probably it will be good do you mean
+
+234
+00:04:48,870 --> 00:04:48,880
+so probably it will be good do you mean
+ 
+
+235
+00:04:48,880 --> 00:04:50,390
+so probably it will be good do you mean
+priority ending or
+
+236
+00:04:50,390 --> 00:04:50,400
+priority ending or
+ 
+
+237
+00:04:50,400 --> 00:04:52,710
+priority ending or
+during the submission no no no no no
+
+238
+00:04:52,710 --> 00:04:52,720
+during the submission no no no no no
+ 
+
+239
+00:04:52,720 --> 00:04:54,550
+during the submission no no no no no
+after after the submission period
+
+240
+00:04:54,550 --> 00:04:54,560
+after after the submission period
+ 
+
+241
+00:04:54,560 --> 00:04:57,909
+after after the submission period
+is ended of course of course uh so
+
+242
+00:04:57,909 --> 00:04:57,919
+is ended of course of course uh so
+ 
+
+243
+00:04:57,919 --> 00:05:01,350
+is ended of course of course uh so
+and to facilitate jurors work so we will
+
+244
+00:05:01,350 --> 00:05:01,360
+and to facilitate jurors work so we will
+ 
+
+245
+00:05:01,360 --> 00:05:07,590
+and to facilitate jurors work so we will
+invite them to to present their wounds
+
+246
+00:05:07,590 --> 00:05:07,600
+
+ 
+
+247
+00:05:07,600 --> 00:05:10,710
+
+yeah next uh there were two more active
+
+248
+00:05:10,710 --> 00:05:10,720
+yeah next uh there were two more active
+ 
+
+249
+00:05:10,720 --> 00:05:13,029
+yeah next uh there were two more active
+contests which uh oracle contest and
+
+250
+00:05:13,029 --> 00:05:13,039
+contests which uh oracle contest and
+ 
+
+251
+00:05:13,039 --> 00:05:13,990
+contests which uh oracle contest and
+testaton
+
+252
+00:05:13,990 --> 00:05:14,000
+testaton
+ 
+
+253
+00:05:14,000 --> 00:05:16,790
+testaton
+contest they there is still enough time
+
+254
+00:05:16,790 --> 00:05:16,800
+contest they there is still enough time
+ 
+
+255
+00:05:16,800 --> 00:05:17,430
+contest they there is still enough time
+uh
+
+256
+00:05:17,430 --> 00:05:17,440
+uh
+ 
+
+257
+00:05:17,440 --> 00:05:21,430
+uh
+21 days and 46 days accordingly
+
+258
+00:05:21,430 --> 00:05:21,440
+21 days and 46 days accordingly
+ 
+
+259
+00:05:21,440 --> 00:05:23,990
+21 days and 46 days accordingly
+so nothing to say here so there's still
+
+260
+00:05:23,990 --> 00:05:24,000
+so nothing to say here so there's still
+ 
+
+261
+00:05:24,000 --> 00:05:26,230
+so nothing to say here so there's still
+a bunch of time
+
+262
+00:05:26,230 --> 00:05:26,240
+a bunch of time
+ 
+
+263
+00:05:26,240 --> 00:05:29,749
+a bunch of time
+uh okay so let's move to the next topic
+
+264
+00:05:29,749 --> 00:05:29,759
+uh okay so let's move to the next topic
+ 
+
+265
+00:05:29,759 --> 00:05:30,790
+uh okay so let's move to the next topic
+of today's agenda
+
+266
+00:05:30,790 --> 00:05:30,800
+of today's agenda
+ 
+
+267
+00:05:30,800 --> 00:05:34,070
+of today's agenda
+uh there is actually two updates
+
+268
+00:05:34,070 --> 00:05:34,080
+uh there is actually two updates
+ 
+
+269
+00:05:34,080 --> 00:05:36,550
+uh there is actually two updates
+from from our site uh from the brock's
+
+270
+00:05:36,550 --> 00:05:36,560
+from from our site uh from the brock's
+ 
+
+271
+00:05:36,560 --> 00:05:38,550
+from from our site uh from the brock's
+site first of all and from freeton defy
+
+272
+00:05:38,550 --> 00:05:38,560
+site first of all and from freeton defy
+ 
+
+273
+00:05:38,560 --> 00:05:39,670
+site first of all and from freeton defy
+line site
+
+274
+00:05:39,670 --> 00:05:39,680
+line site
+ 
+
+275
+00:05:39,680 --> 00:05:41,990
+line site
+so the first one is about the ethereum
+
+276
+00:05:41,990 --> 00:05:42,000
+so the first one is about the ethereum
+ 
+
+277
+00:05:42,000 --> 00:05:43,110
+so the first one is about the ethereum
+bridge uh
+
+278
+00:05:43,110 --> 00:05:43,120
+bridge uh
+ 
+
+279
+00:05:43,120 --> 00:05:45,350
+bridge uh
+we are approaching actually the
+
+280
+00:05:45,350 --> 00:05:45,360
+we are approaching actually the
+ 
+
+281
+00:05:45,360 --> 00:05:47,510
+we are approaching actually the
+implementation of a dell model
+
+282
+00:05:47,510 --> 00:05:47,520
+implementation of a dell model
+ 
+
+283
+00:05:47,520 --> 00:05:51,270
+implementation of a dell model
+and uh it will use the native
+
+284
+00:05:51,270 --> 00:05:51,280
+and uh it will use the native
+ 
+
+285
+00:05:51,280 --> 00:05:54,230
+and uh it will use the native
+bridge governance token and so it's
+
+286
+00:05:54,230 --> 00:05:54,240
+bridge governance token and so it's
+ 
+
+287
+00:05:54,240 --> 00:05:55,189
+bridge governance token and so it's
+named bridge
+
+288
+00:05:55,189 --> 00:05:55,199
+named bridge
+ 
+
+289
+00:05:55,199 --> 00:05:58,870
+named bridge
+for simplicity uh yeah and uh
+
+290
+00:05:58,870 --> 00:05:58,880
+for simplicity uh yeah and uh
+ 
+
+291
+00:05:58,880 --> 00:06:02,070
+for simplicity uh yeah and uh
+just i will briefly explain uh how it
+
+292
+00:06:02,070 --> 00:06:02,080
+just i will briefly explain uh how it
+ 
+
+293
+00:06:02,080 --> 00:06:02,629
+just i will briefly explain uh how it
+works and
+
+294
+00:06:02,629 --> 00:06:02,639
+works and
+ 
+
+295
+00:06:02,639 --> 00:06:05,670
+works and
+sergey will uh dive a bit deeper into
+
+296
+00:06:05,670 --> 00:06:05,680
+sergey will uh dive a bit deeper into
+ 
+
+297
+00:06:05,680 --> 00:06:05,990
+sergey will uh dive a bit deeper into
+the
+
+298
+00:06:05,990 --> 00:06:06,000
+the
+ 
+
+299
+00:06:06,000 --> 00:06:09,990
+the
+uh economic part so actually uh
+
+300
+00:06:09,990 --> 00:06:10,000
+uh economic part so actually uh
+ 
+
+301
+00:06:10,000 --> 00:06:12,710
+uh economic part so actually uh
+we analyzed uh all the popular dao
+
+302
+00:06:12,710 --> 00:06:12,720
+we analyzed uh all the popular dao
+ 
+
+303
+00:06:12,720 --> 00:06:14,550
+we analyzed uh all the popular dao
+models that are currently being used in
+
+304
+00:06:14,550 --> 00:06:14,560
+models that are currently being used in
+ 
+
+305
+00:06:14,560 --> 00:06:14,950
+models that are currently being used in
+uh
+
+306
+00:06:14,950 --> 00:06:14,960
+uh
+ 
+
+307
+00:06:14,960 --> 00:06:17,749
+uh
+especially in fritz on uh sorry in
+
+308
+00:06:17,749 --> 00:06:17,759
+especially in fritz on uh sorry in
+ 
+
+309
+00:06:17,759 --> 00:06:18,469
+especially in fritz on uh sorry in
+ethereum
+
+310
+00:06:18,469 --> 00:06:18,479
+ethereum
+ 
+
+311
+00:06:18,479 --> 00:06:21,670
+ethereum
+network and we try
+
+312
+00:06:21,670 --> 00:06:21,680
+network and we try
+ 
+
+313
+00:06:21,680 --> 00:06:24,790
+network and we try
+to take the best parts of it
+
+314
+00:06:24,790 --> 00:06:24,800
+to take the best parts of it
+ 
+
+315
+00:06:24,800 --> 00:06:28,469
+to take the best parts of it
+so actually what is bridge talking uh
+
+316
+00:06:28,469 --> 00:06:28,479
+so actually what is bridge talking uh
+ 
+
+317
+00:06:28,479 --> 00:06:31,510
+so actually what is bridge talking uh
+about you will need this
+
+318
+00:06:31,510 --> 00:06:31,520
+about you will need this
+ 
+
+319
+00:06:31,520 --> 00:06:33,990
+about you will need this
+of course if you want to become a relay
+
+320
+00:06:33,990 --> 00:06:34,000
+of course if you want to become a relay
+ 
+
+321
+00:06:34,000 --> 00:06:35,029
+of course if you want to become a relay
+a relay
+
+322
+00:06:35,029 --> 00:06:35,039
+a relay
+ 
+
+323
+00:06:35,039 --> 00:06:38,870
+a relay
+if you remember it's a special note that
+
+324
+00:06:38,870 --> 00:06:38,880
+if you remember it's a special note that
+ 
+
+325
+00:06:38,880 --> 00:06:42,150
+if you remember it's a special note that
+checks and transfers the value uh
+
+326
+00:06:42,150 --> 00:06:42,160
+checks and transfers the value uh
+ 
+
+327
+00:06:42,160 --> 00:06:44,870
+checks and transfers the value uh
+from one network to another so there can
+
+328
+00:06:44,870 --> 00:06:44,880
+from one network to another so there can
+ 
+
+329
+00:06:44,880 --> 00:06:45,670
+from one network to another so there can
+be
+
+330
+00:06:45,670 --> 00:06:45,680
+be
+ 
+
+331
+00:06:45,680 --> 00:06:48,950
+be
+at maximum 100 relays in one epoch
+
+332
+00:06:48,950 --> 00:06:48,960
+at maximum 100 relays in one epoch
+ 
+
+333
+00:06:48,960 --> 00:06:51,430
+at maximum 100 relays in one epoch
+and they are competing with each other
+
+334
+00:06:51,430 --> 00:06:51,440
+and they are competing with each other
+ 
+
+335
+00:06:51,440 --> 00:06:52,390
+and they are competing with each other
+at the
+
+336
+00:06:52,390 --> 00:06:52,400
+at the
+ 
+
+337
+00:06:52,400 --> 00:06:55,589
+at the
+elect a kind uh auction so uh
+
+338
+00:06:55,589 --> 00:06:55,599
+elect a kind uh auction so uh
+ 
+
+339
+00:06:55,599 --> 00:06:58,790
+elect a kind uh auction so uh
+with the stakes so those
+
+340
+00:06:58,790 --> 00:06:58,800
+with the stakes so those
+ 
+
+341
+00:06:58,800 --> 00:07:00,710
+with the stakes so those
+100 with the highest stakes will be
+
+342
+00:07:00,710 --> 00:07:00,720
+100 with the highest stakes will be
+ 
+
+343
+00:07:00,720 --> 00:07:01,990
+100 with the highest stakes will be
+elected for the next
+
+344
+00:07:01,990 --> 00:07:02,000
+elected for the next
+ 
+
+345
+00:07:02,000 --> 00:07:08,710
+elected for the next
+epoch and epochs they last for one week
+
+346
+00:07:08,710 --> 00:07:08,720
+
+ 
+
+347
+00:07:08,720 --> 00:07:11,589
+
+to facilitate this uh there will be a
+
+348
+00:07:11,589 --> 00:07:11,599
+to facilitate this uh there will be a
+ 
+
+349
+00:07:11,599 --> 00:07:13,029
+to facilitate this uh there will be a
+separate interface
+
+350
+00:07:13,029 --> 00:07:13,039
+separate interface
+ 
+
+351
+00:07:13,039 --> 00:07:16,950
+separate interface
+for staking that can be used not only by
+
+352
+00:07:16,950 --> 00:07:16,960
+for staking that can be used not only by
+ 
+
+353
+00:07:16,960 --> 00:07:17,510
+for staking that can be used not only by
+relay
+
+354
+00:07:17,510 --> 00:07:17,520
+relay
+ 
+
+355
+00:07:17,520 --> 00:07:20,950
+relay
+nodes of course but also
+
+356
+00:07:20,950 --> 00:07:20,960
+nodes of course but also
+ 
+
+357
+00:07:20,960 --> 00:07:24,469
+nodes of course but also
+by regular talking owners and
+
+358
+00:07:24,469 --> 00:07:24,479
+by regular talking owners and
+ 
+
+359
+00:07:24,479 --> 00:07:28,230
+by regular talking owners and
+these tokens can be staked there and
+
+360
+00:07:28,230 --> 00:07:28,240
+these tokens can be staked there and
+ 
+
+361
+00:07:28,240 --> 00:07:30,629
+these tokens can be staked there and
+those tokens that will be staked there
+
+362
+00:07:30,629 --> 00:07:30,639
+those tokens that will be staked there
+ 
+
+363
+00:07:30,639 --> 00:07:31,990
+those tokens that will be staked there
+and only those
+
+364
+00:07:31,990 --> 00:07:32,000
+and only those
+ 
+
+365
+00:07:32,000 --> 00:07:33,830
+and only those
+will be eligible for dividends
+
+366
+00:07:33,830 --> 00:07:33,840
+will be eligible for dividends
+ 
+
+367
+00:07:33,840 --> 00:07:35,990
+will be eligible for dividends
+participation
+
+368
+00:07:35,990 --> 00:07:36,000
+participation
+ 
+
+369
+00:07:36,000 --> 00:07:39,029
+participation
+uh the liquidity that is uh controlled
+
+370
+00:07:39,029 --> 00:07:39,039
+uh the liquidity that is uh controlled
+ 
+
+371
+00:07:39,039 --> 00:07:40,070
+uh the liquidity that is uh controlled
+by the breach
+
+372
+00:07:40,070 --> 00:07:40,080
+by the breach
+ 
+
+373
+00:07:40,080 --> 00:07:42,870
+by the breach
+will be used as we explained a bit
+
+374
+00:07:42,870 --> 00:07:42,880
+will be used as we explained a bit
+ 
+
+375
+00:07:42,880 --> 00:07:43,430
+will be used as we explained a bit
+earlier
+
+376
+00:07:43,430 --> 00:07:43,440
+earlier
+ 
+
+377
+00:07:43,440 --> 00:07:46,710
+earlier
+in the low risk protocols
+
+378
+00:07:46,710 --> 00:07:46,720
+in the low risk protocols
+ 
+
+379
+00:07:46,720 --> 00:07:49,830
+in the low risk protocols
+like other like compounds and on
+
+380
+00:07:49,830 --> 00:07:49,840
+like other like compounds and on
+ 
+
+381
+00:07:49,840 --> 00:07:51,110
+like other like compounds and on
+freetown site
+
+382
+00:07:51,110 --> 00:07:51,120
+freetown site
+ 
+
+383
+00:07:51,120 --> 00:07:52,550
+freetown site
+we're also thinking about something
+
+384
+00:07:52,550 --> 00:07:52,560
+we're also thinking about something
+ 
+
+385
+00:07:52,560 --> 00:07:55,830
+we're also thinking about something
+similar and
+
+386
+00:07:55,830 --> 00:07:55,840
+similar and
+ 
+
+387
+00:07:55,840 --> 00:07:59,589
+similar and
+as we expect on a monthly basis the
+
+388
+00:07:59,589 --> 00:07:59,599
+as we expect on a monthly basis the
+ 
+
+389
+00:07:59,599 --> 00:08:03,189
+as we expect on a monthly basis the
+earned dividends from these protocols
+
+390
+00:08:03,189 --> 00:08:03,199
+earned dividends from these protocols
+ 
+
+391
+00:08:03,199 --> 00:08:04,790
+earned dividends from these protocols
+will be withdrawn
+
+392
+00:08:04,790 --> 00:08:04,800
+will be withdrawn
+ 
+
+393
+00:08:04,800 --> 00:08:08,629
+will be withdrawn
+and distributed between the bridge token
+
+394
+00:08:08,629 --> 00:08:08,639
+and distributed between the bridge token
+ 
+
+395
+00:08:08,639 --> 00:08:11,110
+and distributed between the bridge token
+holders that stake them in the special
+
+396
+00:08:11,110 --> 00:08:11,120
+holders that stake them in the special
+ 
+
+397
+00:08:11,120 --> 00:08:12,629
+holders that stake them in the special
+interface
+
+398
+00:08:12,629 --> 00:08:12,639
+interface
+ 
+
+399
+00:08:12,639 --> 00:08:15,670
+interface
+the difference of the relayer and the
+
+400
+00:08:15,670 --> 00:08:15,680
+the difference of the relayer and the
+ 
+
+401
+00:08:15,680 --> 00:08:16,629
+the difference of the relayer and the
+regular
+
+402
+00:08:16,629 --> 00:08:16,639
+regular
+ 
+
+403
+00:08:16,639 --> 00:08:19,749
+regular
+bridge token holder uh will be that
+
+404
+00:08:19,749 --> 00:08:19,759
+bridge token holder uh will be that
+ 
+
+405
+00:08:19,759 --> 00:08:23,589
+bridge token holder uh will be that
+for relayer he should
+
+406
+00:08:23,589 --> 00:08:23,599
+for relayer he should
+ 
+
+407
+00:08:23,599 --> 00:08:25,589
+for relayer he should
+lock his take for a period of at least
+
+408
+00:08:25,589 --> 00:08:25,599
+lock his take for a period of at least
+ 
+
+409
+00:08:25,599 --> 00:08:26,869
+lock his take for a period of at least
+one month this is
+
+410
+00:08:26,869 --> 00:08:26,879
+one month this is
+ 
+
+411
+00:08:26,879 --> 00:08:30,230
+one month this is
+needed for protection from the
+
+412
+00:08:30,230 --> 00:08:30,240
+needed for protection from the
+ 
+
+413
+00:08:30,240 --> 00:08:33,589
+needed for protection from the
+bad guys and in case somebody layer
+
+414
+00:08:33,589 --> 00:08:33,599
+bad guys and in case somebody layer
+ 
+
+415
+00:08:33,599 --> 00:08:36,870
+bad guys and in case somebody layer
+starts behaving in a
+
+416
+00:08:36,870 --> 00:08:36,880
+starts behaving in a
+ 
+
+417
+00:08:36,880 --> 00:08:39,589
+starts behaving in a
+bad manner so he will be slashed and his
+
+418
+00:08:39,589 --> 00:08:39,599
+bad manner so he will be slashed and his
+ 
+
+419
+00:08:39,599 --> 00:08:40,630
+bad manner so he will be slashed and his
+stake will be
+
+420
+00:08:40,630 --> 00:08:40,640
+stake will be
+ 
+
+421
+00:08:40,640 --> 00:08:43,670
+stake will be
+also redistributed among other bridge
+
+422
+00:08:43,670 --> 00:08:43,680
+also redistributed among other bridge
+ 
+
+423
+00:08:43,680 --> 00:08:45,269
+also redistributed among other bridge
+talking holders
+
+424
+00:08:45,269 --> 00:08:45,279
+talking holders
+ 
+
+425
+00:08:45,279 --> 00:08:49,269
+talking holders
+uh we will also create
+
+426
+00:08:49,269 --> 00:08:49,279
+uh we will also create
+ 
+
+427
+00:08:49,279 --> 00:08:53,030
+uh we will also create
+at least two pairs one with a
+
+428
+00:08:53,030 --> 00:08:53,040
+at least two pairs one with a
+ 
+
+429
+00:08:53,040 --> 00:08:55,030
+at least two pairs one with a
+double tone and another one with double
+
+430
+00:08:55,030 --> 00:08:55,040
+double tone and another one with double
+ 
+
+431
+00:08:55,040 --> 00:08:56,389
+double tone and another one with double
+btc
+
+432
+00:08:56,389 --> 00:08:56,399
+btc
+ 
+
+433
+00:08:56,399 --> 00:09:00,710
+btc
+at tons for payon especially this is
+
+434
+00:09:00,710 --> 00:09:00,720
+at tons for payon especially this is
+ 
+
+435
+00:09:00,720 --> 00:09:02,230
+at tons for payon especially this is
+needed for those who would like to
+
+436
+00:09:02,230 --> 00:09:02,240
+needed for those who would like to
+ 
+
+437
+00:09:02,240 --> 00:09:05,750
+needed for those who would like to
+purchase this token either for
+
+438
+00:09:05,750 --> 00:09:05,760
+purchase this token either for
+ 
+
+439
+00:09:05,760 --> 00:09:09,110
+purchase this token either for
+participating in in the relay network or
+
+440
+00:09:09,110 --> 00:09:09,120
+participating in in the relay network or
+ 
+
+441
+00:09:09,120 --> 00:09:12,310
+participating in in the relay network or
+in just for staking purposes
+
+442
+00:09:12,310 --> 00:09:12,320
+in just for staking purposes
+ 
+
+443
+00:09:12,320 --> 00:09:15,350
+in just for staking purposes
+uh as for the dividends part uh
+
+444
+00:09:15,350 --> 00:09:15,360
+uh as for the dividends part uh
+ 
+
+445
+00:09:15,360 --> 00:09:18,070
+uh as for the dividends part uh
+so fifty percent of it will be
+
+446
+00:09:18,070 --> 00:09:18,080
+so fifty percent of it will be
+ 
+
+447
+00:09:18,080 --> 00:09:19,190
+so fifty percent of it will be
+redistributed
+
+448
+00:09:19,190 --> 00:09:19,200
+redistributed
+ 
+
+449
+00:09:19,200 --> 00:09:21,190
+redistributed
+among relayers proportionally to the
+
+450
+00:09:21,190 --> 00:09:21,200
+among relayers proportionally to the
+ 
+
+451
+00:09:21,200 --> 00:09:23,030
+among relayers proportionally to the
+stake and 50
+
+452
+00:09:23,030 --> 00:09:23,040
+stake and 50
+ 
+
+453
+00:09:23,040 --> 00:09:25,750
+stake and 50
+will be uh distributed among all token
+
+454
+00:09:25,750 --> 00:09:25,760
+will be uh distributed among all token
+ 
+
+455
+00:09:25,760 --> 00:09:26,389
+will be uh distributed among all token
+holders
+
+456
+00:09:26,389 --> 00:09:26,399
+holders
+ 
+
+457
+00:09:26,399 --> 00:09:29,509
+holders
+bridge token holders uh so this is
+
+458
+00:09:29,509 --> 00:09:29,519
+bridge token holders uh so this is
+ 
+
+459
+00:09:29,519 --> 00:09:31,829
+bridge token holders uh so this is
+uh a good reason to be a relay actually
+
+460
+00:09:31,829 --> 00:09:31,839
+uh a good reason to be a relay actually
+ 
+
+461
+00:09:31,839 --> 00:09:33,990
+uh a good reason to be a relay actually
+yeah and
+
+462
+00:09:33,990 --> 00:09:34,000
+yeah and
+ 
+
+463
+00:09:34,000 --> 00:09:36,870
+yeah and
+that's that's where we expect a good
+
+464
+00:09:36,870 --> 00:09:36,880
+that's that's where we expect a good
+ 
+
+465
+00:09:36,880 --> 00:09:37,670
+that's that's where we expect a good
+competition
+
+466
+00:09:37,670 --> 00:09:37,680
+competition
+ 
+
+467
+00:09:37,680 --> 00:09:41,269
+competition
+and also that's why we believe that
+
+468
+00:09:41,269 --> 00:09:41,279
+and also that's why we believe that
+ 
+
+469
+00:09:41,279 --> 00:09:44,630
+and also that's why we believe that
+the token uh price will be organically
+
+470
+00:09:44,630 --> 00:09:44,640
+the token uh price will be organically
+ 
+
+471
+00:09:44,640 --> 00:09:45,430
+the token uh price will be organically
+pushed up
+
+472
+00:09:45,430 --> 00:09:45,440
+pushed up
+ 
+
+473
+00:09:45,440 --> 00:09:49,430
+pushed up
+and this is a good economic economic
+
+474
+00:09:49,430 --> 00:09:49,440
+and this is a good economic economic
+ 
+
+475
+00:09:49,440 --> 00:09:53,430
+and this is a good economic economic
+tool
+
+476
+00:09:53,430 --> 00:09:53,440
+
+ 
+
+477
+00:09:53,440 --> 00:09:55,509
+
+so again i will i will give you the word
+
+478
+00:09:55,509 --> 00:09:55,519
+so again i will i will give you the word
+ 
+
+479
+00:09:55,519 --> 00:09:57,990
+so again i will i will give you the word
+in a while uh another announcement is
+
+480
+00:09:57,990 --> 00:09:58,000
+in a while uh another announcement is
+ 
+
+481
+00:09:58,000 --> 00:09:58,389
+in a while uh another announcement is
+that
+
+482
+00:09:58,389 --> 00:09:58,399
+that
+ 
+
+483
+00:09:58,399 --> 00:10:01,910
+that
+uh we are very very close to agreement
+
+484
+00:10:01,910 --> 00:10:01,920
+uh we are very very close to agreement
+ 
+
+485
+00:10:01,920 --> 00:10:05,750
+uh we are very very close to agreement
+with two big protocols
+
+486
+00:10:05,750 --> 00:10:05,760
+with two big protocols
+ 
+
+487
+00:10:05,760 --> 00:10:08,949
+with two big protocols
+from ethereum network uh
+
+488
+00:10:08,949 --> 00:10:08,959
+from ethereum network uh
+ 
+
+489
+00:10:08,959 --> 00:10:12,310
+from ethereum network uh
+i think we will announce them quite soon
+
+490
+00:10:12,310 --> 00:10:12,320
+i think we will announce them quite soon
+ 
+
+491
+00:10:12,320 --> 00:10:15,030
+i think we will announce them quite soon
+so they will appear of course in the
+
+492
+00:10:15,030 --> 00:10:15,040
+so they will appear of course in the
+ 
+
+493
+00:10:15,040 --> 00:10:16,069
+so they will appear of course in the
+bridge and
+
+494
+00:10:16,069 --> 00:10:16,079
+bridge and
+ 
+
+495
+00:10:16,079 --> 00:10:18,790
+bridge and
+the tokens can be easily ported through
+
+496
+00:10:18,790 --> 00:10:18,800
+the tokens can be easily ported through
+ 
+
+497
+00:10:18,800 --> 00:10:20,790
+the tokens can be easily ported through
+the bridge from ethereum network
+
+498
+00:10:20,790 --> 00:10:20,800
+the bridge from ethereum network
+ 
+
+499
+00:10:20,800 --> 00:10:23,030
+the bridge from ethereum network
+and also they will help us with lots of
+
+500
+00:10:23,030 --> 00:10:23,040
+and also they will help us with lots of
+ 
+
+501
+00:10:23,040 --> 00:10:24,069
+and also they will help us with lots of
+announcements and
+
+502
+00:10:24,069 --> 00:10:24,079
+announcements and
+ 
+
+503
+00:10:24,079 --> 00:10:27,269
+announcements and
+attracting the the audience
+
+504
+00:10:27,269 --> 00:10:27,279
+attracting the the audience
+ 
+
+505
+00:10:27,279 --> 00:10:30,949
+attracting the the audience
+uh yeah so now now sergey is your turn
+
+506
+00:10:30,949 --> 00:10:30,959
+uh yeah so now now sergey is your turn
+ 
+
+507
+00:10:30,959 --> 00:10:34,550
+uh yeah so now now sergey is your turn
+please yeah yeah uh so say about
+
+508
+00:10:34,550 --> 00:10:34,560
+please yeah yeah uh so say about
+ 
+
+509
+00:10:34,560 --> 00:10:37,350
+please yeah yeah uh so say about
+about bridge how it will be work uh
+
+510
+00:10:37,350 --> 00:10:37,360
+about bridge how it will be work uh
+ 
+
+511
+00:10:37,360 --> 00:10:38,069
+about bridge how it will be work uh
+during
+
+512
+00:10:38,069 --> 00:10:38,079
+during
+ 
+
+513
+00:10:38,079 --> 00:10:41,590
+during
+near to one month uh it will be on the
+
+514
+00:10:41,590 --> 00:10:41,600
+near to one month uh it will be on the
+ 
+
+515
+00:10:41,600 --> 00:10:44,630
+near to one month uh it will be on the
+deep five token
+
+516
+00:10:44,630 --> 00:10:44,640
+deep five token
+ 
+
+517
+00:10:44,640 --> 00:10:47,990
+deep five token
+yes and uh yes and we will launch
+
+518
+00:10:47,990 --> 00:10:48,000
+yes and uh yes and we will launch
+ 
+
+519
+00:10:48,000 --> 00:10:48,949
+yes and uh yes and we will launch
+farming program
+
+520
+00:10:48,949 --> 00:10:48,959
+farming program
+ 
+
+521
+00:10:48,959 --> 00:10:51,670
+farming program
+with uh bridge token and uh vietnam
+
+522
+00:10:51,670 --> 00:10:51,680
+with uh bridge token and uh vietnam
+ 
+
+523
+00:10:51,680 --> 00:10:53,430
+with uh bridge token and uh vietnam
+double farming
+
+524
+00:10:53,430 --> 00:10:53,440
+double farming
+ 
+
+525
+00:10:53,440 --> 00:10:56,470
+double farming
+and when we will finish audit
+
+526
+00:10:56,470 --> 00:10:56,480
+and when we will finish audit
+ 
+
+527
+00:10:56,480 --> 00:10:58,790
+and when we will finish audit
+our dow contracts uh we will move to
+
+528
+00:10:58,790 --> 00:10:58,800
+our dow contracts uh we will move to
+ 
+
+529
+00:10:58,800 --> 00:11:01,190
+our dow contracts uh we will move to
+full dao with relays
+
+530
+00:11:01,190 --> 00:11:01,200
+full dao with relays
+ 
+
+531
+00:11:01,200 --> 00:11:04,389
+full dao with relays
+we got new eight relays
+
+532
+00:11:04,389 --> 00:11:04,399
+we got new eight relays
+ 
+
+533
+00:11:04,399 --> 00:11:07,030
+we got new eight relays
+it's uh different funds who bought
+
+534
+00:11:07,030 --> 00:11:07,040
+it's uh different funds who bought
+ 
+
+535
+00:11:07,040 --> 00:11:10,230
+it's uh different funds who bought
+talking on our private round
+
+536
+00:11:10,230 --> 00:11:10,240
+talking on our private round
+ 
+
+537
+00:11:10,240 --> 00:11:13,670
+talking on our private round
+and also good use for community
+
+538
+00:11:13,670 --> 00:11:13,680
+and also good use for community
+ 
+
+539
+00:11:13,680 --> 00:11:17,750
+and also good use for community
+we will create some tokens to airdrop
+
+540
+00:11:17,750 --> 00:11:17,760
+we will create some tokens to airdrop
+ 
+
+541
+00:11:17,760 --> 00:11:20,949
+we will create some tokens to airdrop
+between users who was earlier
+
+542
+00:11:20,949 --> 00:11:20,959
+between users who was earlier
+ 
+
+543
+00:11:20,959 --> 00:11:24,630
+between users who was earlier
+testers in bridge and users
+
+544
+00:11:24,630 --> 00:11:24,640
+testers in bridge and users
+ 
+
+545
+00:11:24,640 --> 00:11:27,670
+testers in bridge and users
+who work in dex
+
+546
+00:11:27,670 --> 00:11:27,680
+who work in dex
+ 
+
+547
+00:11:27,680 --> 00:11:31,030
+who work in dex
+and i think i will launch
+
+548
+00:11:31,030 --> 00:11:31,040
+and i think i will launch
+ 
+
+549
+00:11:31,040 --> 00:11:35,670
+and i think i will launch
+uh first liquidity liquidity pool today
+
+550
+00:11:35,670 --> 00:11:35,680
+uh first liquidity liquidity pool today
+ 
+
+551
+00:11:35,680 --> 00:11:38,790
+uh first liquidity liquidity pool today
+uh bridge and baton
+
+552
+00:11:38,790 --> 00:11:38,800
+uh bridge and baton
+ 
+
+553
+00:11:38,800 --> 00:11:41,990
+uh bridge and baton
+and without any farming it's only sunny
+
+554
+00:11:41,990 --> 00:11:42,000
+and without any farming it's only sunny
+ 
+
+555
+00:11:42,000 --> 00:11:43,750
+and without any farming it's only sunny
+for fun
+
+556
+00:11:43,750 --> 00:11:43,760
+for fun
+ 
+
+557
+00:11:43,760 --> 00:11:47,910
+for fun
+yeah and then
+
+558
+00:11:47,910 --> 00:11:47,920
+yeah and then
+ 
+
+559
+00:11:47,920 --> 00:11:50,389
+yeah and then
+we'll finish how do we did and we will
+
+560
+00:11:50,389 --> 00:11:50,399
+we'll finish how do we did and we will
+ 
+
+561
+00:11:50,399 --> 00:11:51,670
+we'll finish how do we did and we will
+launch bridge like
+
+562
+00:11:51,670 --> 00:11:51,680
+launch bridge like
+ 
+
+563
+00:11:51,680 --> 00:11:55,670
+launch bridge like
+now with eight independent relays
+
+564
+00:11:55,670 --> 00:11:55,680
+now with eight independent relays
+ 
+
+565
+00:11:55,680 --> 00:11:58,870
+now with eight independent relays
+i think it will be a big
+
+566
+00:11:58,870 --> 00:11:58,880
+i think it will be a big
+ 
+
+567
+00:11:58,880 --> 00:12:02,069
+i think it will be a big
+stone in uh in the fire in phoenix
+
+568
+00:12:02,069 --> 00:12:02,079
+stone in uh in the fire in phoenix
+ 
+
+569
+00:12:02,079 --> 00:12:03,190
+stone in uh in the fire in phoenix
+system
+
+570
+00:12:03,190 --> 00:12:03,200
+system
+ 
+
+571
+00:12:03,200 --> 00:12:06,790
+system
+uh because i explained bridge model to
+
+572
+00:12:06,790 --> 00:12:06,800
+uh because i explained bridge model to
+ 
+
+573
+00:12:06,800 --> 00:12:09,990
+uh because i explained bridge model to
+a lot of different people fans
+
+574
+00:12:09,990 --> 00:12:10,000
+a lot of different people fans
+ 
+
+575
+00:12:10,000 --> 00:12:13,269
+a lot of different people fans
+and defy gamers and uh
+
+576
+00:12:13,269 --> 00:12:13,279
+and defy gamers and uh
+ 
+
+577
+00:12:13,279 --> 00:12:16,470
+and defy gamers and uh
+it's like i would say um
+
+578
+00:12:16,470 --> 00:12:16,480
+it's like i would say um
+ 
+
+579
+00:12:16,480 --> 00:12:20,389
+it's like i would say um
+your finance placer and btc in one model
+
+580
+00:12:20,389 --> 00:12:20,399
+your finance placer and btc in one model
+ 
+
+581
+00:12:20,399 --> 00:12:23,509
+your finance placer and btc in one model
+and it's uh it's fresh
+
+582
+00:12:23,509 --> 00:12:23,519
+and it's uh it's fresh
+ 
+
+583
+00:12:23,519 --> 00:12:26,470
+and it's uh it's fresh
+and and uh a lot of and i think we will
+
+584
+00:12:26,470 --> 00:12:26,480
+and and uh a lot of and i think we will
+ 
+
+585
+00:12:26,480 --> 00:12:26,949
+and and uh a lot of and i think we will
+attract
+
+586
+00:12:26,949 --> 00:12:26,959
+attract
+ 
+
+587
+00:12:26,959 --> 00:12:30,069
+attract
+more than 100 million rapidity up to
+
+588
+00:12:30,069 --> 00:12:30,079
+more than 100 million rapidity up to
+ 
+
+589
+00:12:30,079 --> 00:12:31,750
+more than 100 million rapidity up to
+september
+
+590
+00:12:31,750 --> 00:12:31,760
+september
+ 
+
+591
+00:12:31,760 --> 00:12:33,670
+september
+and uh end of eighth i would like a
+
+592
+00:12:33,670 --> 00:12:33,680
+and uh end of eighth i would like a
+ 
+
+593
+00:12:33,680 --> 00:12:34,870
+and uh end of eighth i would like a
+system
+
+594
+00:12:34,870 --> 00:12:34,880
+system
+ 
+
+595
+00:12:34,880 --> 00:12:39,190
+system
+will will be visible on
+
+596
+00:12:39,190 --> 00:12:39,200
+will will be visible on
+ 
+
+597
+00:12:39,200 --> 00:12:43,750
+will will be visible on
+the fire landscape
+
+598
+00:12:43,750 --> 00:12:43,760
+
+ 
+
+599
+00:12:43,760 --> 00:12:47,509
+
+thank you sergey yeah and uh
+
+600
+00:12:47,509 --> 00:12:47,519
+thank you sergey yeah and uh
+ 
+
+601
+00:12:47,519 --> 00:12:51,030
+thank you sergey yeah and uh
+what's what's important is that
+
+602
+00:12:51,030 --> 00:12:51,040
+what's what's important is that
+ 
+
+603
+00:12:51,040 --> 00:12:52,949
+what's what's important is that
+we do not plan actually to launch the
+
+604
+00:12:52,949 --> 00:12:52,959
+we do not plan actually to launch the
+ 
+
+605
+00:12:52,959 --> 00:12:55,030
+we do not plan actually to launch the
+dow as sergey said before the security
+
+606
+00:12:55,030 --> 00:12:55,040
+dow as sergey said before the security
+ 
+
+607
+00:12:55,040 --> 00:12:57,430
+dow as sergey said before the security
+audit is over and uh we already
+
+608
+00:12:57,430 --> 00:12:57,440
+audit is over and uh we already
+ 
+
+609
+00:12:57,440 --> 00:12:58,150
+audit is over and uh we already
+mentioned that
+
+610
+00:12:58,150 --> 00:12:58,160
+mentioned that
+ 
+
+611
+00:12:58,160 --> 00:13:00,550
+mentioned that
+there was the first uh round of security
+
+612
+00:13:00,550 --> 00:13:00,560
+there was the first uh round of security
+ 
+
+613
+00:13:00,560 --> 00:13:01,269
+there was the first uh round of security
+audits that
+
+614
+00:13:01,269 --> 00:13:01,279
+audits that
+ 
+
+615
+00:13:01,279 --> 00:13:04,150
+audits that
+uh inspected our current source code and
+
+616
+00:13:04,150 --> 00:13:04,160
+uh inspected our current source code and
+ 
+
+617
+00:13:04,160 --> 00:13:06,389
+uh inspected our current source code and
+you may have seen some updates coming
+
+618
+00:13:06,389 --> 00:13:06,399
+you may have seen some updates coming
+ 
+
+619
+00:13:06,399 --> 00:13:08,710
+you may have seen some updates coming
+uh around the bridge when we upgraded
+
+620
+00:13:08,710 --> 00:13:08,720
+uh around the bridge when we upgraded
+ 
+
+621
+00:13:08,720 --> 00:13:10,710
+uh around the bridge when we upgraded
+the bridge to the second version
+
+622
+00:13:10,710 --> 00:13:10,720
+the bridge to the second version
+ 
+
+623
+00:13:10,720 --> 00:13:13,430
+the bridge to the second version
+uh so we fixed some some bugs that were
+
+624
+00:13:13,430 --> 00:13:13,440
+uh so we fixed some some bugs that were
+ 
+
+625
+00:13:13,440 --> 00:13:15,190
+uh so we fixed some some bugs that were
+found by auditors
+
+626
+00:13:15,190 --> 00:13:15,200
+found by auditors
+ 
+
+627
+00:13:15,200 --> 00:13:18,230
+found by auditors
+and uh hopefully after the second uh
+
+628
+00:13:18,230 --> 00:13:18,240
+and uh hopefully after the second uh
+ 
+
+629
+00:13:18,240 --> 00:13:19,190
+and uh hopefully after the second uh
+second round we'll
+
+630
+00:13:19,190 --> 00:13:19,200
+second round we'll
+ 
+
+631
+00:13:19,200 --> 00:13:23,670
+second round we'll
+take much less time because
+
+632
+00:13:23,670 --> 00:13:23,680
+take much less time because
+ 
+
+633
+00:13:23,680 --> 00:13:26,150
+take much less time because
+guys already familiar with our source
+
+634
+00:13:26,150 --> 00:13:26,160
+guys already familiar with our source
+ 
+
+635
+00:13:26,160 --> 00:13:28,310
+guys already familiar with our source
+code and
+
+636
+00:13:28,310 --> 00:13:28,320
+code and
+ 
+
+637
+00:13:28,320 --> 00:13:30,550
+code and
+it will be easier for them to to inspect
+
+638
+00:13:30,550 --> 00:13:30,560
+it will be easier for them to to inspect
+ 
+
+639
+00:13:30,560 --> 00:13:32,870
+it will be easier for them to to inspect
+it
+
+640
+00:13:32,870 --> 00:13:32,880
+
+ 
+
+641
+00:13:32,880 --> 00:13:35,350
+
+yeah and uh also that's why uh we
+
+642
+00:13:35,350 --> 00:13:35,360
+yeah and uh also that's why uh we
+ 
+
+643
+00:13:35,360 --> 00:13:36,069
+yeah and uh also that's why uh we
+decided
+
+644
+00:13:36,069 --> 00:13:36,079
+decided
+ 
+
+645
+00:13:36,079 --> 00:13:37,990
+decided
+to combine the third and the fourth
+
+646
+00:13:37,990 --> 00:13:38,000
+to combine the third and the fourth
+ 
+
+647
+00:13:38,000 --> 00:13:39,990
+to combine the third and the fourth
+stage of the bridge implementation into
+
+648
+00:13:39,990 --> 00:13:40,000
+stage of the bridge implementation into
+ 
+
+649
+00:13:40,000 --> 00:13:40,389
+stage of the bridge implementation into
+one
+
+650
+00:13:40,389 --> 00:13:40,399
+one
+ 
+
+651
+00:13:40,399 --> 00:13:42,949
+one
+so uh i think i will push to the draft
+
+652
+00:13:42,949 --> 00:13:42,959
+so uh i think i will push to the draft
+ 
+
+653
+00:13:42,959 --> 00:13:44,310
+so uh i think i will push to the draft
+of the contest
+
+654
+00:13:44,310 --> 00:13:44,320
+of the contest
+ 
+
+655
+00:13:44,320 --> 00:13:47,910
+of the contest
+uh either today or tomorrow uh because
+
+656
+00:13:47,910 --> 00:13:47,920
+uh either today or tomorrow uh because
+ 
+
+657
+00:13:47,920 --> 00:13:49,269
+uh either today or tomorrow uh because
+we actually decided
+
+658
+00:13:49,269 --> 00:13:49,279
+we actually decided
+ 
+
+659
+00:13:49,279 --> 00:13:52,470
+we actually decided
+not to uh split
+
+660
+00:13:52,470 --> 00:13:52,480
+not to uh split
+ 
+
+661
+00:13:52,480 --> 00:13:55,990
+not to uh split
+it into two to two stages uh
+
+662
+00:13:55,990 --> 00:13:56,000
+it into two to two stages uh
+ 
+
+663
+00:13:56,000 --> 00:13:58,150
+it into two to two stages uh
+of the distribution of relay
+
+664
+00:13:58,150 --> 00:13:58,160
+of the distribution of relay
+ 
+
+665
+00:13:58,160 --> 00:13:59,910
+of the distribution of relay
+responsibilities and
+
+666
+00:13:59,910 --> 00:13:59,920
+responsibilities and
+ 
+
+667
+00:13:59,920 --> 00:14:02,870
+responsibilities and
+uh economics and slashing and rewards
+
+668
+00:14:02,870 --> 00:14:02,880
+uh economics and slashing and rewards
+ 
+
+669
+00:14:02,880 --> 00:14:04,870
+uh economics and slashing and rewards
+but rather combine it into one
+
+670
+00:14:04,870 --> 00:14:04,880
+but rather combine it into one
+ 
+
+671
+00:14:04,880 --> 00:14:08,230
+but rather combine it into one
+and make the bridge operational faster
+
+672
+00:14:08,230 --> 00:14:08,240
+and make the bridge operational faster
+ 
+
+673
+00:14:08,240 --> 00:14:12,710
+and make the bridge operational faster
+uh yeah i think that's pretty easy
+
+674
+00:14:12,710 --> 00:14:12,720
+uh yeah i think that's pretty easy
+ 
+
+675
+00:14:12,720 --> 00:14:14,790
+uh yeah i think that's pretty easy
+about the bridge again maybe if you have
+
+676
+00:14:14,790 --> 00:14:14,800
+about the bridge again maybe if you have
+ 
+
+677
+00:14:14,800 --> 00:14:19,030
+about the bridge again maybe if you have
+something else that
+
+678
+00:14:19,030 --> 00:14:19,040
+
+ 
+
+679
+00:14:19,040 --> 00:14:23,189
+
+soon soon so yeah yeah yeah we will uh
+
+680
+00:14:23,189 --> 00:14:23,199
+soon soon so yeah yeah yeah we will uh
+ 
+
+681
+00:14:23,199 --> 00:14:26,230
+soon soon so yeah yeah yeah we will uh
+we prepared a big pr company uh with a
+
+682
+00:14:26,230 --> 00:14:26,240
+we prepared a big pr company uh with a
+ 
+
+683
+00:14:26,240 --> 00:14:27,910
+we prepared a big pr company uh with a
+lot of announcements with partnership
+
+684
+00:14:27,910 --> 00:14:27,920
+lot of announcements with partnership
+ 
+
+685
+00:14:27,920 --> 00:14:29,350
+lot of announcements with partnership
+different protocols
+
+686
+00:14:29,350 --> 00:14:29,360
+different protocols
+ 
+
+687
+00:14:29,360 --> 00:14:32,550
+different protocols
+with bridge launch tokens
+
+688
+00:14:32,550 --> 00:14:32,560
+with bridge launch tokens
+ 
+
+689
+00:14:32,560 --> 00:14:36,790
+with bridge launch tokens
+and some interview and
+
+690
+00:14:36,790 --> 00:14:36,800
+and some interview and
+ 
+
+691
+00:14:36,800 --> 00:14:45,269
+and some interview and
+it will be public okay alex please
+
+692
+00:14:45,269 --> 00:14:45,279
+it will be public okay alex please
+ 
+
+693
+00:14:45,279 --> 00:14:48,550
+it will be public okay alex please
+hi guys sergey hi um can you
+
+694
+00:14:48,550 --> 00:14:48,560
+hi guys sergey hi um can you
+ 
+
+695
+00:14:48,560 --> 00:14:50,389
+hi guys sergey hi um can you
+explain a little bit more i didn't
+
+696
+00:14:50,389 --> 00:14:50,399
+explain a little bit more i didn't
+ 
+
+697
+00:14:50,399 --> 00:14:51,670
+explain a little bit more i didn't
+understand about
+
+698
+00:14:51,670 --> 00:14:51,680
+understand about
+ 
+
+699
+00:14:51,680 --> 00:14:55,590
+understand about
+eight relay notes it will be
+
+700
+00:14:55,590 --> 00:14:55,600
+eight relay notes it will be
+ 
+
+701
+00:14:55,600 --> 00:14:59,590
+eight relay notes it will be
+you go to um production when
+
+702
+00:14:59,590 --> 00:14:59,600
+you go to um production when
+ 
+
+703
+00:14:59,600 --> 00:15:02,949
+you go to um production when
+will be eighth notes then no no no about
+
+704
+00:15:02,949 --> 00:15:02,959
+will be eighth notes then no no no about
+ 
+
+705
+00:15:02,959 --> 00:15:03,590
+will be eighth notes then no no no about
+about it
+
+706
+00:15:03,590 --> 00:15:03,600
+about it
+ 
+
+707
+00:15:03,600 --> 00:15:07,189
+about it
+notes you have already
+
+708
+00:15:07,189 --> 00:15:07,199
+notes you have already
+ 
+
+709
+00:15:07,199 --> 00:15:09,030
+notes you have already
+no no no no it's it's a it's it's
+
+710
+00:15:09,030 --> 00:15:09,040
+no no no no it's it's a it's it's
+ 
+
+711
+00:15:09,040 --> 00:15:10,550
+no no no no it's it's a it's it's
+different topic uh
+
+712
+00:15:10,550 --> 00:15:10,560
+different topic uh
+ 
+
+713
+00:15:10,560 --> 00:15:13,829
+different topic uh
+if you want to become uh relay notes uh
+
+714
+00:15:13,829 --> 00:15:13,839
+if you want to become uh relay notes uh
+ 
+
+715
+00:15:13,839 --> 00:15:17,030
+if you want to become uh relay notes uh
+you need to put 100 000
+
+716
+00:15:17,030 --> 00:15:17,040
+you need to put 100 000
+ 
+
+717
+00:15:17,040 --> 00:15:20,310
+you need to put 100 000
+bridge tokens
+
+718
+00:15:20,310 --> 00:15:20,320
+
+ 
+
+719
+00:15:20,320 --> 00:15:23,829
+
+yes on stake uh in in private sale one
+
+720
+00:15:23,829 --> 00:15:23,839
+yes on stake uh in in private sale one
+ 
+
+721
+00:15:23,839 --> 00:15:25,110
+yes on stake uh in in private sale one
+token
+
+722
+00:15:25,110 --> 00:15:25,120
+token
+ 
+
+723
+00:15:25,120 --> 00:15:28,150
+token
+was two dollars and it's uh two hundred
+
+724
+00:15:28,150 --> 00:15:28,160
+was two dollars and it's uh two hundred
+ 
+
+725
+00:15:28,160 --> 00:15:29,670
+was two dollars and it's uh two hundred
+thousand dollars
+
+726
+00:15:29,670 --> 00:15:29,680
+thousand dollars
+ 
+
+727
+00:15:29,680 --> 00:15:33,269
+thousand dollars
+and eight different funds bought tokens
+
+728
+00:15:33,269 --> 00:15:33,279
+and eight different funds bought tokens
+ 
+
+729
+00:15:33,279 --> 00:15:36,710
+and eight different funds bought tokens
+and uh they will be in just relay
+
+730
+00:15:36,710 --> 00:15:36,720
+and uh they will be in just relay
+ 
+
+731
+00:15:36,720 --> 00:15:39,749
+and uh they will be in just relay
+they participate in this round and you
+
+732
+00:15:39,749 --> 00:15:39,759
+they participate in this round and you
+ 
+
+733
+00:15:39,759 --> 00:15:40,470
+they participate in this round and you
+have yes
+
+734
+00:15:40,470 --> 00:15:40,480
+have yes
+ 
+
+735
+00:15:40,480 --> 00:15:43,509
+have yes
+yes yes yes yes some private
+
+736
+00:15:43,509 --> 00:15:43,519
+yes yes yes yes some private
+ 
+
+737
+00:15:43,519 --> 00:15:45,390
+yes yes yes yes some private
+uh company person
+
+738
+00:15:45,390 --> 00:15:45,400
+uh company person
+ 
+
+739
+00:15:45,400 --> 00:15:47,269
+uh company person
+[Music]
+
+740
+00:15:47,269 --> 00:15:47,279
+[Music]
+ 
+
+741
+00:15:47,279 --> 00:15:50,310
+[Music]
+private uh some some company from the
+
+742
+00:15:50,310 --> 00:15:50,320
+private uh some some company from the
+ 
+
+743
+00:15:50,320 --> 00:15:51,189
+private uh some some company from the
+file yarns
+
+744
+00:15:51,189 --> 00:15:51,199
+file yarns
+ 
+
+745
+00:15:51,199 --> 00:15:54,470
+file yarns
+and some private funds one fund
+
+746
+00:15:54,470 --> 00:15:54,480
+and some private funds one fund
+ 
+
+747
+00:15:54,480 --> 00:15:57,189
+and some private funds one fund
+one fund from from china one from from
+
+748
+00:15:57,189 --> 00:15:57,199
+one fund from from china one from from
+ 
+
+749
+00:15:57,199 --> 00:15:58,470
+one fund from from china one from from
+switzerland
+
+750
+00:15:58,470 --> 00:15:58,480
+switzerland
+ 
+
+751
+00:15:58,480 --> 00:16:01,430
+switzerland
+and uh it's it's it's it's a big story
+
+752
+00:16:01,430 --> 00:16:01,440
+and uh it's it's it's it's a big story
+ 
+
+753
+00:16:01,440 --> 00:16:01,829
+and uh it's it's it's it's a big story
+yeah
+
+754
+00:16:01,829 --> 00:16:01,839
+yeah
+ 
+
+755
+00:16:01,839 --> 00:16:04,790
+yeah
+it's interesting i understand thank you
+
+756
+00:16:04,790 --> 00:16:04,800
+it's interesting i understand thank you
+ 
+
+757
+00:16:04,800 --> 00:16:05,749
+it's interesting i understand thank you
+yes
+
+758
+00:16:05,749 --> 00:16:05,759
+yes
+ 
+
+759
+00:16:05,759 --> 00:16:09,430
+yes
+yeah and actually so uh we will put
+
+760
+00:16:09,430 --> 00:16:09,440
+yeah and actually so uh we will put
+ 
+
+761
+00:16:09,440 --> 00:16:12,310
+yeah and actually so uh we will put
+uh sergey said some uh bridge tokens in
+
+762
+00:16:12,310 --> 00:16:12,320
+uh sergey said some uh bridge tokens in
+ 
+
+763
+00:16:12,320 --> 00:16:12,629
+uh sergey said some uh bridge tokens in
+the
+
+764
+00:16:12,629 --> 00:16:12,639
+the
+ 
+
+765
+00:16:12,639 --> 00:16:15,509
+the
+the free circulation uh of course so
+
+766
+00:16:15,509 --> 00:16:15,519
+the free circulation uh of course so
+ 
+
+767
+00:16:15,519 --> 00:16:16,870
+the free circulation uh of course so
+that uh
+
+768
+00:16:16,870 --> 00:16:16,880
+that uh
+ 
+
+769
+00:16:16,880 --> 00:16:20,069
+that uh
+anyone willing could purchase it
+
+770
+00:16:20,069 --> 00:16:20,079
+anyone willing could purchase it
+ 
+
+771
+00:16:20,079 --> 00:16:23,269
+anyone willing could purchase it
+and also we will uh run an airdrop
+
+772
+00:16:23,269 --> 00:16:23,279
+and also we will uh run an airdrop
+ 
+
+773
+00:16:23,279 --> 00:16:25,829
+and also we will uh run an airdrop
+among those users who helped us in
+
+774
+00:16:25,829 --> 00:16:25,839
+among those users who helped us in
+ 
+
+775
+00:16:25,839 --> 00:16:26,470
+among those users who helped us in
+testing
+
+776
+00:16:26,470 --> 00:16:26,480
+testing
+ 
+
+777
+00:16:26,480 --> 00:16:30,310
+testing
+in uh experiencing the first versions of
+
+778
+00:16:30,310 --> 00:16:30,320
+in uh experiencing the first versions of
+ 
+
+779
+00:16:30,320 --> 00:16:31,350
+in uh experiencing the first versions of
+our products and
+
+780
+00:16:31,350 --> 00:16:31,360
+our products and
+ 
+
+781
+00:16:31,360 --> 00:16:33,749
+our products and
+indicating at some difficulties at
+
+782
+00:16:33,749 --> 00:16:33,759
+indicating at some difficulties at
+ 
+
+783
+00:16:33,759 --> 00:16:34,629
+indicating at some difficulties at
+errors
+
+784
+00:16:34,629 --> 00:16:34,639
+errors
+ 
+
+785
+00:16:34,639 --> 00:16:37,829
+errors
+and trusting us with the liquidity and
+
+786
+00:16:37,829 --> 00:16:37,839
+and trusting us with the liquidity and
+ 
+
+787
+00:16:37,839 --> 00:16:41,030
+and trusting us with the liquidity and
+yes and also we will uh put somewhere
+
+788
+00:16:41,030 --> 00:16:41,040
+yes and also we will uh put somewhere
+ 
+
+789
+00:16:41,040 --> 00:16:41,749
+yes and also we will uh put somewhere
+drop in
+
+790
+00:16:41,749 --> 00:16:41,759
+drop in
+ 
+
+791
+00:16:41,759 --> 00:16:44,230
+drop in
+the vice of governance members and defy
+
+792
+00:16:44,230 --> 00:16:44,240
+the vice of governance members and defy
+ 
+
+793
+00:16:44,240 --> 00:16:45,590
+the vice of governance members and defy
+jury
+
+794
+00:16:45,590 --> 00:16:45,600
+jury
+ 
+
+795
+00:16:45,600 --> 00:16:49,350
+jury
+and in defy aliens
+
+796
+00:16:49,350 --> 00:16:49,360
+and in defy aliens
+ 
+
+797
+00:16:49,360 --> 00:16:53,189
+and in defy aliens
+yeah and uh also i i want to uh
+
+798
+00:16:53,189 --> 00:16:53,199
+yeah and uh also i i want to uh
+ 
+
+799
+00:16:53,199 --> 00:16:56,710
+yeah and uh also i i want to uh
+add that sergey just maybe said this
+
+800
+00:16:56,710 --> 00:16:56,720
+add that sergey just maybe said this
+ 
+
+801
+00:16:56,720 --> 00:16:59,030
+add that sergey just maybe said this
+slightly but actually our farming
+
+802
+00:16:59,030 --> 00:16:59,040
+slightly but actually our farming
+ 
+
+803
+00:16:59,040 --> 00:17:00,629
+slightly but actually our farming
+contract
+
+804
+00:17:00,629 --> 00:17:00,639
+contract
+ 
+
+805
+00:17:00,639 --> 00:17:03,189
+contract
+is currently being upgraded so that it
+
+806
+00:17:03,189 --> 00:17:03,199
+is currently being upgraded so that it
+ 
+
+807
+00:17:03,199 --> 00:17:04,390
+is currently being upgraded so that it
+can now support
+
+808
+00:17:04,390 --> 00:17:04,400
+can now support
+ 
+
+809
+00:17:04,400 --> 00:17:07,189
+can now support
+the multi-currency farming meaning that
+
+810
+00:17:07,189 --> 00:17:07,199
+the multi-currency farming meaning that
+ 
+
+811
+00:17:07,199 --> 00:17:07,750
+the multi-currency farming meaning that
+if you
+
+812
+00:17:07,750 --> 00:17:07,760
+if you
+ 
+
+813
+00:17:07,760 --> 00:17:11,829
+if you
+put your lp tokens to the farm
+
+814
+00:17:11,829 --> 00:17:11,839
+put your lp tokens to the farm
+ 
+
+815
+00:17:11,839 --> 00:17:14,949
+put your lp tokens to the farm
+uh you actually get rewarded not in one
+
+816
+00:17:14,949 --> 00:17:14,959
+uh you actually get rewarded not in one
+ 
+
+817
+00:17:14,959 --> 00:17:18,230
+uh you actually get rewarded not in one
+currency like double tone but rather
+
+818
+00:17:18,230 --> 00:17:18,240
+currency like double tone but rather
+ 
+
+819
+00:17:18,240 --> 00:17:21,590
+currency like double tone but rather
+in several ones and we will direct
+
+820
+00:17:21,590 --> 00:17:21,600
+in several ones and we will direct
+ 
+
+821
+00:17:21,600 --> 00:17:24,150
+in several ones and we will direct
+uh some portion of this bridge tokens
+
+822
+00:17:24,150 --> 00:17:24,160
+uh some portion of this bridge tokens
+ 
+
+823
+00:17:24,160 --> 00:17:26,710
+uh some portion of this bridge tokens
+also to our farming programs
+
+824
+00:17:26,710 --> 00:17:26,720
+also to our farming programs
+ 
+
+825
+00:17:26,720 --> 00:17:29,110
+also to our farming programs
+and uh people who are staking their
+
+826
+00:17:29,110 --> 00:17:29,120
+and uh people who are staking their
+ 
+
+827
+00:17:29,120 --> 00:17:30,150
+and uh people who are staking their
+liquidity so
+
+828
+00:17:30,150 --> 00:17:30,160
+liquidity so
+ 
+
+829
+00:17:30,160 --> 00:17:35,510
+liquidity so
+they will also get some of these tokens
+
+830
+00:17:35,510 --> 00:17:35,520
+
+ 
+
+831
+00:17:35,520 --> 00:17:38,710
+
+um one more question about airdrop or
+
+832
+00:17:38,710 --> 00:17:38,720
+um one more question about airdrop or
+ 
+
+833
+00:17:38,720 --> 00:17:40,390
+um one more question about airdrop or
+something else for jewelry
+
+834
+00:17:40,390 --> 00:17:40,400
+something else for jewelry
+ 
+
+835
+00:17:40,400 --> 00:17:41,860
+something else for jewelry
+etc
+
+836
+00:17:41,860 --> 00:17:41,870
+etc
+ 
+
+837
+00:17:41,870 --> 00:17:44,070
+etc
+[Music]
+
+838
+00:17:44,070 --> 00:17:44,080
+[Music]
+ 
+
+839
+00:17:44,080 --> 00:17:46,549
+[Music]
+how better to use these tokens it will
+
+840
+00:17:46,549 --> 00:17:46,559
+how better to use these tokens it will
+ 
+
+841
+00:17:46,559 --> 00:17:47,909
+how better to use these tokens it will
+be some depools
+
+842
+00:17:47,909 --> 00:17:47,919
+be some depools
+ 
+
+843
+00:17:47,919 --> 00:17:51,510
+be some depools
+or it's more about no it's not it's uh
+
+844
+00:17:51,510 --> 00:17:51,520
+or it's more about no it's not it's uh
+ 
+
+845
+00:17:51,520 --> 00:17:53,750
+or it's more about no it's not it's uh
+to model i will i will launch trading
+
+846
+00:17:53,750 --> 00:17:53,760
+to model i will i will launch trading
+ 
+
+847
+00:17:53,760 --> 00:17:54,789
+to model i will i will launch trading
+today it
+
+848
+00:17:54,789 --> 00:17:54,799
+today it
+ 
+
+849
+00:17:54,799 --> 00:17:56,950
+today it
+uh of course our airdrop will be not not
+
+850
+00:17:56,950 --> 00:17:56,960
+uh of course our airdrop will be not not
+ 
+
+851
+00:17:56,960 --> 00:17:58,549
+uh of course our airdrop will be not not
+today
+
+852
+00:17:58,549 --> 00:17:58,559
+today
+ 
+
+853
+00:17:58,559 --> 00:18:02,310
+today
+i think i think as the big liquidity
+
+854
+00:18:02,310 --> 00:18:02,320
+i think i think as the big liquidity
+ 
+
+855
+00:18:02,320 --> 00:18:05,430
+i think i think as the big liquidity
+pulls we will stop on next week
+
+856
+00:18:05,430 --> 00:18:05,440
+pulls we will stop on next week
+ 
+
+857
+00:18:05,440 --> 00:18:08,150
+pulls we will stop on next week
+and uh it will be possible to buy bridge
+
+858
+00:18:08,150 --> 00:18:08,160
+and uh it will be possible to buy bridge
+ 
+
+859
+00:18:08,160 --> 00:18:09,909
+and uh it will be possible to buy bridge
+talking or to sell british talking
+
+860
+00:18:09,909 --> 00:18:09,919
+talking or to sell british talking
+ 
+
+861
+00:18:09,919 --> 00:18:13,350
+talking or to sell british talking
+all you can join with uh
+
+862
+00:18:13,350 --> 00:18:13,360
+all you can join with uh
+ 
+
+863
+00:18:13,360 --> 00:18:15,350
+all you can join with uh
+another people from the face of
+
+864
+00:18:15,350 --> 00:18:15,360
+another people from the face of
+ 
+
+865
+00:18:15,360 --> 00:18:17,350
+another people from the face of
+governance or another people who will
+
+866
+00:18:17,350 --> 00:18:17,360
+governance or another people who will
+ 
+
+867
+00:18:17,360 --> 00:18:18,710
+governance or another people who will
+get their job
+
+868
+00:18:18,710 --> 00:18:18,720
+get their job
+ 
+
+869
+00:18:18,720 --> 00:18:22,470
+get their job
+and it will be possible to launch
+
+870
+00:18:22,470 --> 00:18:22,480
+and it will be possible to launch
+ 
+
+871
+00:18:22,480 --> 00:18:26,310
+and it will be possible to launch
+some relay notes if you will be able to
+
+872
+00:18:26,310 --> 00:18:26,320
+some relay notes if you will be able to
+ 
+
+873
+00:18:26,320 --> 00:18:26,950
+some relay notes if you will be able to
+join
+
+874
+00:18:26,950 --> 00:18:26,960
+join
+ 
+
+875
+00:18:26,960 --> 00:18:29,990
+join
+uh like the pool you mean
+
+876
+00:18:29,990 --> 00:18:30,000
+uh like the pool you mean
+ 
+
+877
+00:18:30,000 --> 00:18:33,029
+uh like the pool you mean
+yes that's maybe like like
+
+878
+00:18:33,029 --> 00:18:33,039
+yes that's maybe like like
+ 
+
+879
+00:18:33,039 --> 00:18:36,950
+yes that's maybe like like
+like the pool we do not actually have um
+
+880
+00:18:36,950 --> 00:18:36,960
+like the pool we do not actually have um
+ 
+
+881
+00:18:36,960 --> 00:18:39,990
+like the pool we do not actually have um
+the pool kind of staking when several
+
+882
+00:18:39,990 --> 00:18:40,000
+the pool kind of staking when several
+ 
+
+883
+00:18:40,000 --> 00:18:42,470
+the pool kind of staking when several
+people can participate to fund
+
+884
+00:18:42,470 --> 00:18:42,480
+people can participate to fund
+ 
+
+885
+00:18:42,480 --> 00:18:45,990
+people can participate to fund
+the relay note yet maybe we'll think
+
+886
+00:18:45,990 --> 00:18:46,000
+the relay note yet maybe we'll think
+ 
+
+887
+00:18:46,000 --> 00:18:47,430
+the relay note yet maybe we'll think
+about this in future
+
+888
+00:18:47,430 --> 00:18:47,440
+about this in future
+ 
+
+889
+00:18:47,440 --> 00:18:50,630
+about this in future
+but if you have some good relationships
+
+890
+00:18:50,630 --> 00:18:50,640
+but if you have some good relationships
+ 
+
+891
+00:18:50,640 --> 00:18:51,909
+but if you have some good relationships
+with people who you trust
+
+892
+00:18:51,909 --> 00:18:51,919
+with people who you trust
+ 
+
+893
+00:18:51,919 --> 00:18:54,630
+with people who you trust
+so you can just combine your tokens to
+
+894
+00:18:54,630 --> 00:18:54,640
+so you can just combine your tokens to
+ 
+
+895
+00:18:54,640 --> 00:18:55,350
+so you can just combine your tokens to
+run
+
+896
+00:18:55,350 --> 00:18:55,360
+run
+ 
+
+897
+00:18:55,360 --> 00:18:58,390
+run
+the software and maybe multi-sig
+
+898
+00:18:58,390 --> 00:18:58,400
+the software and maybe multi-sig
+ 
+
+899
+00:18:58,400 --> 00:19:01,350
+the software and maybe multi-sig
+wallet like yes yes yes why not why not
+
+900
+00:19:01,350 --> 00:19:01,360
+wallet like yes yes yes why not why not
+ 
+
+901
+00:19:01,360 --> 00:19:01,909
+wallet like yes yes yes why not why not
+by the way
+
+902
+00:19:01,909 --> 00:19:01,919
+by the way
+ 
+
+903
+00:19:01,919 --> 00:19:03,909
+by the way
+uh it's a good solution if you have
+
+904
+00:19:03,909 --> 00:19:03,919
+uh it's a good solution if you have
+ 
+
+905
+00:19:03,919 --> 00:19:05,669
+uh it's a good solution if you have
+multi-sick wallets controlled by several
+
+906
+00:19:05,669 --> 00:19:05,679
+multi-sick wallets controlled by several
+ 
+
+907
+00:19:05,679 --> 00:19:06,549
+multi-sick wallets controlled by several
+people
+
+908
+00:19:06,549 --> 00:19:06,559
+people
+ 
+
+909
+00:19:06,559 --> 00:19:09,750
+people
+so uh you can put your tokens just in
+
+910
+00:19:09,750 --> 00:19:09,760
+so uh you can put your tokens just in
+ 
+
+911
+00:19:09,760 --> 00:19:09,990
+so uh you can put your tokens just in
+one
+
+912
+00:19:09,990 --> 00:19:10,000
+one
+ 
+
+913
+00:19:10,000 --> 00:19:13,830
+one
+place and use them to to run the relay
+
+914
+00:19:13,830 --> 00:19:13,840
+place and use them to to run the relay
+ 
+
+915
+00:19:13,840 --> 00:19:17,590
+place and use them to to run the relay
+mode and this is exactly what we were
+
+916
+00:19:17,590 --> 00:19:17,600
+mode and this is exactly what we were
+ 
+
+917
+00:19:17,600 --> 00:19:18,810
+mode and this is exactly what we were
+saying about
+
+918
+00:19:18,810 --> 00:19:18,820
+saying about
+ 
+
+919
+00:19:18,820 --> 00:19:20,630
+saying about
+[Music]
+
+920
+00:19:20,630 --> 00:19:20,640
+[Music]
+ 
+
+921
+00:19:20,640 --> 00:19:23,669
+[Music]
+i think couple of months ago there was a
+
+922
+00:19:23,669 --> 00:19:23,679
+i think couple of months ago there was a
+ 
+
+923
+00:19:23,679 --> 00:19:25,190
+i think couple of months ago there was a
+lot of questions
+
+924
+00:19:25,190 --> 00:19:25,200
+lot of questions
+ 
+
+925
+00:19:25,200 --> 00:19:28,630
+lot of questions
+so how people uh could become these
+
+926
+00:19:28,630 --> 00:19:28,640
+so how people uh could become these
+ 
+
+927
+00:19:28,640 --> 00:19:31,830
+so how people uh could become these
+relay nodes and at that moment of time
+
+928
+00:19:31,830 --> 00:19:31,840
+relay nodes and at that moment of time
+ 
+
+929
+00:19:31,840 --> 00:19:33,909
+relay nodes and at that moment of time
+uh we didn't have the clear picture
+
+930
+00:19:33,909 --> 00:19:33,919
+uh we didn't have the clear picture
+ 
+
+931
+00:19:33,919 --> 00:19:35,270
+uh we didn't have the clear picture
+because we were in the
+
+932
+00:19:35,270 --> 00:19:35,280
+because we were in the
+ 
+
+933
+00:19:35,280 --> 00:19:37,830
+because we were in the
+very deep market research so when trying
+
+934
+00:19:37,830 --> 00:19:37,840
+very deep market research so when trying
+ 
+
+935
+00:19:37,840 --> 00:19:38,470
+very deep market research so when trying
+to
+
+936
+00:19:38,470 --> 00:19:38,480
+to
+ 
+
+937
+00:19:38,480 --> 00:19:40,630
+to
+understand how the mechanics and
+
+938
+00:19:40,630 --> 00:19:40,640
+understand how the mechanics and
+ 
+
+939
+00:19:40,640 --> 00:19:42,310
+understand how the mechanics and
+economics will look like
+
+940
+00:19:42,310 --> 00:19:42,320
+economics will look like
+ 
+
+941
+00:19:42,320 --> 00:19:45,350
+economics will look like
+and now we found this solution and we
+
+942
+00:19:45,350 --> 00:19:45,360
+and now we found this solution and we
+ 
+
+943
+00:19:45,360 --> 00:19:46,390
+and now we found this solution and we
+checked it with
+
+944
+00:19:46,390 --> 00:19:46,400
+checked it with
+ 
+
+945
+00:19:46,400 --> 00:19:49,590
+checked it with
+some some market leaders so if they
+
+946
+00:19:49,590 --> 00:19:49,600
+some some market leaders so if they
+ 
+
+947
+00:19:49,600 --> 00:19:53,190
+some some market leaders so if they
+are interested in this and
+
+948
+00:19:53,190 --> 00:19:53,200
+are interested in this and
+ 
+
+949
+00:19:53,200 --> 00:19:55,669
+are interested in this and
+i think this will be some novelty to the
+
+950
+00:19:55,669 --> 00:19:55,679
+i think this will be some novelty to the
+ 
+
+951
+00:19:55,679 --> 00:19:56,950
+i think this will be some novelty to the
+market and that will
+
+952
+00:19:56,950 --> 00:19:56,960
+market and that will
+ 
+
+953
+00:19:56,960 --> 00:20:06,149
+market and that will
+attract attention to the whole free tone
+
+954
+00:20:06,149 --> 00:20:06,159
+attract attention to the whole free tone
+ 
+
+955
+00:20:06,159 --> 00:20:09,270
+attract attention to the whole free tone
+okay uh very good uh
+
+956
+00:20:09,270 --> 00:20:09,280
+okay uh very good uh
+ 
+
+957
+00:20:09,280 --> 00:20:13,190
+okay uh very good uh
+any other questions guys please
+
+958
+00:20:13,190 --> 00:20:13,200
+
+ 
+
+959
+00:20:13,200 --> 00:20:15,750
+
+how do you gonna promote it over the
+
+960
+00:20:15,750 --> 00:20:15,760
+how do you gonna promote it over the
+ 
+
+961
+00:20:15,760 --> 00:20:17,750
+how do you gonna promote it over the
+market
+
+962
+00:20:17,750 --> 00:20:17,760
+market
+ 
+
+963
+00:20:17,760 --> 00:20:19,590
+market
+it's a game please i think it's your
+
+964
+00:20:19,590 --> 00:20:19,600
+it's a game please i think it's your
+ 
+
+965
+00:20:19,600 --> 00:20:21,270
+it's a game please i think it's your
+turn
+
+966
+00:20:21,270 --> 00:20:21,280
+turn
+ 
+
+967
+00:20:21,280 --> 00:20:24,070
+turn
+yes i i closed private private round so
+
+968
+00:20:24,070 --> 00:20:24,080
+yes i i closed private private round so
+ 
+
+969
+00:20:24,080 --> 00:20:24,390
+yes i i closed private private round so
+it's
+
+970
+00:20:24,390 --> 00:20:24,400
+it's
+ 
+
+971
+00:20:24,400 --> 00:20:27,510
+it's
+uh and
+
+972
+00:20:27,510 --> 00:20:27,520
+uh and
+ 
+
+973
+00:20:27,520 --> 00:20:30,630
+uh and
+and it was totally oversell because
+
+974
+00:20:30,630 --> 00:20:30,640
+and it was totally oversell because
+ 
+
+975
+00:20:30,640 --> 00:20:32,789
+and it was totally oversell because
+i have more for more funds that we have
+
+976
+00:20:32,789 --> 00:20:32,799
+i have more for more funds that we have
+ 
+
+977
+00:20:32,799 --> 00:20:34,870
+i have more for more funds that we have
+slots in relays
+
+978
+00:20:34,870 --> 00:20:34,880
+slots in relays
+ 
+
+979
+00:20:34,880 --> 00:20:38,149
+slots in relays
+about about about promotion
+
+980
+00:20:38,149 --> 00:20:38,159
+about about about promotion
+ 
+
+981
+00:20:38,159 --> 00:20:40,710
+about about about promotion
+our pr manager in brooks australia she
+
+982
+00:20:40,710 --> 00:20:40,720
+our pr manager in brooks australia she
+ 
+
+983
+00:20:40,720 --> 00:20:42,390
+our pr manager in brooks australia she
+will prepare
+
+984
+00:20:42,390 --> 00:20:42,400
+will prepare
+ 
+
+985
+00:20:42,400 --> 00:20:45,430
+will prepare
+some describe and document and
+
+986
+00:20:45,430 --> 00:20:45,440
+some describe and document and
+ 
+
+987
+00:20:45,440 --> 00:20:49,110
+some describe and document and
+she will spread it in community and
+
+988
+00:20:49,110 --> 00:20:49,120
+she will spread it in community and
+ 
+
+989
+00:20:49,120 --> 00:20:50,390
+she will spread it in community and
+of course it will create some
+
+990
+00:20:50,390 --> 00:20:50,400
+of course it will create some
+ 
+
+991
+00:20:50,400 --> 00:20:52,230
+of course it will create some
+publication and uh
+
+992
+00:20:52,230 --> 00:20:52,240
+publication and uh
+ 
+
+993
+00:20:52,240 --> 00:20:54,070
+publication and uh
+any member from our community who want
+
+994
+00:20:54,070 --> 00:20:54,080
+any member from our community who want
+ 
+
+995
+00:20:54,080 --> 00:20:55,830
+any member from our community who want
+to help uh
+
+996
+00:20:55,830 --> 00:20:55,840
+to help uh
+ 
+
+997
+00:20:55,840 --> 00:20:58,470
+to help uh
+can join us in this yes of course and we
+
+998
+00:20:58,470 --> 00:20:58,480
+can join us in this yes of course and we
+ 
+
+999
+00:20:58,480 --> 00:21:00,310
+can join us in this yes of course and we
+also have some already some questions
+
+1000
+00:21:00,310 --> 00:21:00,320
+also have some already some questions
+ 
+
+1001
+00:21:00,320 --> 00:21:02,310
+also have some already some questions
+from from journalists
+
+1002
+00:21:02,310 --> 00:21:02,320
+from from journalists
+ 
+
+1003
+00:21:02,320 --> 00:21:04,390
+from from journalists
+asking for some questions but i think
+
+1004
+00:21:04,390 --> 00:21:04,400
+asking for some questions but i think
+ 
+
+1005
+00:21:04,400 --> 00:21:05,750
+asking for some questions but i think
+that we will
+
+1006
+00:21:05,750 --> 00:21:05,760
+that we will
+ 
+
+1007
+00:21:05,760 --> 00:21:08,870
+that we will
+officially announce about this uh later
+
+1008
+00:21:08,870 --> 00:21:08,880
+officially announce about this uh later
+ 
+
+1009
+00:21:08,880 --> 00:21:10,390
+officially announce about this uh later
+this week
+
+1010
+00:21:10,390 --> 00:21:10,400
+this week
+ 
+
+1011
+00:21:10,400 --> 00:21:13,590
+this week
+after the first round is formally closed
+
+1012
+00:21:13,590 --> 00:21:13,600
+after the first round is formally closed
+ 
+
+1013
+00:21:13,600 --> 00:21:17,029
+after the first round is formally closed
+and yeah after that we will
+
+1014
+00:21:17,029 --> 00:21:17,039
+and yeah after that we will
+ 
+
+1015
+00:21:17,039 --> 00:21:19,990
+and yeah after that we will
+see a great greater flow of newcomers to
+
+1016
+00:21:19,990 --> 00:21:20,000
+see a great greater flow of newcomers to
+ 
+
+1017
+00:21:20,000 --> 00:21:22,310
+see a great greater flow of newcomers to
+the free time
+
+1018
+00:21:22,310 --> 00:21:22,320
+the free time
+ 
+
+1019
+00:21:22,320 --> 00:21:26,710
+the free time
+yeah thank you
+
+1020
+00:21:26,710 --> 00:21:26,720
+
+ 
+
+1021
+00:21:26,720 --> 00:21:28,549
+
+by the way speaking about the contest
+
+1022
+00:21:28,549 --> 00:21:28,559
+by the way speaking about the contest
+ 
+
+1023
+00:21:28,559 --> 00:21:30,870
+by the way speaking about the contest
+guys uh if you are a jury
+
+1024
+00:21:30,870 --> 00:21:30,880
+guys uh if you are a jury
+ 
+
+1025
+00:21:30,880 --> 00:21:33,750
+guys uh if you are a jury
+in defy so you are eligible to judge
+
+1026
+00:21:33,750 --> 00:21:33,760
+in defy so you are eligible to judge
+ 
+
+1027
+00:21:33,760 --> 00:21:35,430
+in defy so you are eligible to judge
+also the
+
+1028
+00:21:35,430 --> 00:21:35,440
+also the
+ 
+
+1029
+00:21:35,440 --> 00:21:38,310
+also the
+browser extension contest in the main
+
+1030
+00:21:38,310 --> 00:21:38,320
+browser extension contest in the main
+ 
+
+1031
+00:21:38,320 --> 00:21:39,510
+browser extension contest in the main
+governance
+
+1032
+00:21:39,510 --> 00:21:39,520
+governance
+ 
+
+1033
+00:21:39,520 --> 00:21:42,149
+governance
+so uh i already pinged you in the
+
+1034
+00:21:42,149 --> 00:21:42,159
+so uh i already pinged you in the
+ 
+
+1035
+00:21:42,159 --> 00:21:42,710
+so uh i already pinged you in the
+morning
+
+1036
+00:21:42,710 --> 00:21:42,720
+morning
+ 
+
+1037
+00:21:42,720 --> 00:21:46,149
+morning
+but just to remind you again that please
+
+1038
+00:21:46,149 --> 00:21:46,159
+but just to remind you again that please
+ 
+
+1039
+00:21:46,159 --> 00:21:49,350
+but just to remind you again that please
+go and vote there is only one day left
+
+1040
+00:21:49,350 --> 00:21:49,360
+go and vote there is only one day left
+ 
+
+1041
+00:21:49,360 --> 00:21:51,190
+go and vote there is only one day left
+and there are a whole bunch of good
+
+1042
+00:21:51,190 --> 00:21:51,200
+and there are a whole bunch of good
+ 
+
+1043
+00:21:51,200 --> 00:21:54,390
+and there are a whole bunch of good
+solutions i i really enjoyed that
+
+1044
+00:21:54,390 --> 00:21:54,400
+solutions i i really enjoyed that
+ 
+
+1045
+00:21:54,400 --> 00:21:57,590
+solutions i i really enjoyed that
+this contest it overcame my expectations
+
+1046
+00:21:57,590 --> 00:21:57,600
+this contest it overcame my expectations
+ 
+
+1047
+00:21:57,600 --> 00:21:58,390
+this contest it overcame my expectations
+and we've got
+
+1048
+00:21:58,390 --> 00:21:58,400
+and we've got
+ 
+
+1049
+00:21:58,400 --> 00:22:00,710
+and we've got
+a lot of good working products good
+
+1050
+00:22:00,710 --> 00:22:00,720
+a lot of good working products good
+ 
+
+1051
+00:22:00,720 --> 00:22:01,909
+a lot of good working products good
+extensions
+
+1052
+00:22:01,909 --> 00:22:01,919
+extensions
+ 
+
+1053
+00:22:01,919 --> 00:22:04,870
+extensions
+and this is in principle uh very good
+
+1054
+00:22:04,870 --> 00:22:04,880
+and this is in principle uh very good
+ 
+
+1055
+00:22:04,880 --> 00:22:05,190
+and this is in principle uh very good
+for
+
+1056
+00:22:05,190 --> 00:22:05,200
+for
+ 
+
+1057
+00:22:05,200 --> 00:22:08,230
+for
+the whole ecosystem so please go and
+
+1058
+00:22:08,230 --> 00:22:08,240
+the whole ecosystem so please go and
+ 
+
+1059
+00:22:08,240 --> 00:22:10,310
+the whole ecosystem so please go and
+cast your votes to those who you think
+
+1060
+00:22:10,310 --> 00:22:10,320
+cast your votes to those who you think
+ 
+
+1061
+00:22:10,320 --> 00:22:11,669
+cast your votes to those who you think
+deserve it
+
+1062
+00:22:11,669 --> 00:22:11,679
+deserve it
+ 
+
+1063
+00:22:11,679 --> 00:22:14,630
+deserve it
+yeah there is a 21 submissions third of
+
+1064
+00:22:14,630 --> 00:22:14,640
+yeah there is a 21 submissions third of
+ 
+
+1065
+00:22:14,640 --> 00:22:15,190
+yeah there is a 21 submissions third of
+its the
+
+1066
+00:22:15,190 --> 00:22:15,200
+its the
+ 
+
+1067
+00:22:15,200 --> 00:22:18,470
+its the
+the some mistakes or
+
+1068
+00:22:18,470 --> 00:22:18,480
+the some mistakes or
+ 
+
+1069
+00:22:18,480 --> 00:22:21,990
+the some mistakes or
+copycat or even even duplicated
+
+1070
+00:22:21,990 --> 00:22:22,000
+copycat or even even duplicated
+ 
+
+1071
+00:22:22,000 --> 00:22:23,590
+copycat or even even duplicated
+each other but never mind the half of
+
+1072
+00:22:23,590 --> 00:22:23,600
+each other but never mind the half of
+ 
+
+1073
+00:22:23,600 --> 00:22:25,190
+each other but never mind the half of
+it's very interesting and i'm
+
+1074
+00:22:25,190 --> 00:22:25,200
+it's very interesting and i'm
+ 
+
+1075
+00:22:25,200 --> 00:22:27,350
+it's very interesting and i'm
+already in the middle of the process of
+
+1076
+00:22:27,350 --> 00:22:27,360
+already in the middle of the process of
+ 
+
+1077
+00:22:27,360 --> 00:22:28,870
+already in the middle of the process of
+it
+
+1078
+00:22:28,870 --> 00:22:28,880
+it
+ 
+
+1079
+00:22:28,880 --> 00:22:31,430
+it
+very good very good please because i
+
+1080
+00:22:31,430 --> 00:22:31,440
+very good very good please because i
+ 
+
+1081
+00:22:31,440 --> 00:22:32,390
+very good very good please because i
+really liked it
+
+1082
+00:22:32,390 --> 00:22:32,400
+really liked it
+ 
+
+1083
+00:22:32,400 --> 00:22:34,070
+really liked it
+i could not vote because brock's team
+
+1084
+00:22:34,070 --> 00:22:34,080
+i could not vote because brock's team
+ 
+
+1085
+00:22:34,080 --> 00:22:37,029
+i could not vote because brock's team
+also participated with its solution
+
+1086
+00:22:37,029 --> 00:22:37,039
+also participated with its solution
+ 
+
+1087
+00:22:37,039 --> 00:22:40,950
+also participated with its solution
+but i really can mention that there are
+
+1088
+00:22:40,950 --> 00:22:40,960
+but i really can mention that there are
+ 
+
+1089
+00:22:40,960 --> 00:22:41,430
+but i really can mention that there are
+some
+
+1090
+00:22:41,430 --> 00:22:41,440
+some
+ 
+
+1091
+00:22:41,440 --> 00:22:45,029
+some
+very decent solutions so that have the
+
+1092
+00:22:45,029 --> 00:22:45,039
+very decent solutions so that have the
+ 
+
+1093
+00:22:45,039 --> 00:22:48,070
+very decent solutions so that have the
+uh a good implementation and deserves a
+
+1094
+00:22:48,070 --> 00:22:48,080
+uh a good implementation and deserves a
+ 
+
+1095
+00:22:48,080 --> 00:22:50,630
+uh a good implementation and deserves a
+place in the market absolutely
+
+1096
+00:22:50,630 --> 00:22:50,640
+place in the market absolutely
+ 
+
+1097
+00:22:50,640 --> 00:22:52,710
+place in the market absolutely
+by the way by the way isn't it most
+
+1098
+00:22:52,710 --> 00:22:52,720
+by the way by the way isn't it most
+ 
+
+1099
+00:22:52,720 --> 00:22:55,590
+by the way by the way isn't it most
+active the contest in the freezer i mean
+
+1100
+00:22:55,590 --> 00:22:55,600
+active the contest in the freezer i mean
+ 
+
+1101
+00:22:55,600 --> 00:22:57,830
+active the contest in the freezer i mean
+the contest with the development of the
+
+1102
+00:22:57,830 --> 00:22:57,840
+the contest with the development of the
+ 
+
+1103
+00:22:57,840 --> 00:22:59,669
+the contest with the development of the
+code or something probably you
+
+1104
+00:22:59,669 --> 00:22:59,679
+code or something probably you
+ 
+
+1105
+00:22:59,679 --> 00:23:01,669
+code or something probably you
+glad or probably media no isn't it the
+
+1106
+00:23:01,669 --> 00:23:01,679
+glad or probably media no isn't it the
+ 
+
+1107
+00:23:01,679 --> 00:23:02,789
+glad or probably media no isn't it the
+most active
+
+1108
+00:23:02,789 --> 00:23:02,799
+most active
+ 
+
+1109
+00:23:02,799 --> 00:23:07,590
+most active
+or in 21 submissions
+
+1110
+00:23:07,590 --> 00:23:07,600
+
+ 
+
+1111
+00:23:07,600 --> 00:23:10,710
+
+not sure not sure because uh there were
+
+1112
+00:23:10,710 --> 00:23:10,720
+not sure not sure because uh there were
+ 
+
+1113
+00:23:10,720 --> 00:23:13,750
+not sure not sure because uh there were
+quite a number of developer contests and
+
+1114
+00:23:13,750 --> 00:23:13,760
+quite a number of developer contests and
+ 
+
+1115
+00:23:13,760 --> 00:23:17,190
+quite a number of developer contests and
+uh if we remember the uh
+
+1116
+00:23:17,190 --> 00:23:17,200
+uh if we remember the uh
+ 
+
+1117
+00:23:17,200 --> 00:23:20,549
+uh if we remember the uh
+buildings to town sdk uh i think
+
+1118
+00:23:20,549 --> 00:23:20,559
+buildings to town sdk uh i think
+ 
+
+1119
+00:23:20,559 --> 00:23:23,750
+buildings to town sdk uh i think
+it was a bigger number actually
+
+1120
+00:23:23,750 --> 00:23:23,760
+it was a bigger number actually
+ 
+
+1121
+00:23:23,760 --> 00:23:25,029
+it was a bigger number actually
+but they were written different
+
+1122
+00:23:25,029 --> 00:23:25,039
+but they were written different
+ 
+
+1123
+00:23:25,039 --> 00:23:27,590
+but they were written different
+languages of course um
+
+1124
+00:23:27,590 --> 00:23:27,600
+languages of course um
+ 
+
+1125
+00:23:27,600 --> 00:23:29,990
+languages of course um
+and maybe there were some good contests
+
+1126
+00:23:29,990 --> 00:23:30,000
+and maybe there were some good contests
+ 
+
+1127
+00:23:30,000 --> 00:23:31,669
+and maybe there were some good contests
+for devops
+
+1128
+00:23:31,669 --> 00:23:31,679
+for devops
+ 
+
+1129
+00:23:31,679 --> 00:23:35,270
+for devops
+engineers so uh but but yes this one
+
+1130
+00:23:35,270 --> 00:23:35,280
+engineers so uh but but yes this one
+ 
+
+1131
+00:23:35,280 --> 00:23:37,430
+engineers so uh but but yes this one
+is very good and fresh so i really
+
+1132
+00:23:37,430 --> 00:23:37,440
+is very good and fresh so i really
+ 
+
+1133
+00:23:37,440 --> 00:23:38,630
+is very good and fresh so i really
+enjoyed it
+
+1134
+00:23:38,630 --> 00:23:38,640
+enjoyed it
+ 
+
+1135
+00:23:38,640 --> 00:23:41,269
+enjoyed it
+anyway anyway it's one of the most
+
+1136
+00:23:41,269 --> 00:23:41,279
+anyway anyway it's one of the most
+ 
+
+1137
+00:23:41,279 --> 00:23:41,990
+anyway anyway it's one of the most
+active
+
+1138
+00:23:41,990 --> 00:23:42,000
+active
+ 
+
+1139
+00:23:42,000 --> 00:23:44,870
+active
+hands if it's about the chrome extension
+
+1140
+00:23:44,870 --> 00:23:44,880
+hands if it's about the chrome extension
+ 
+
+1141
+00:23:44,880 --> 00:23:46,310
+hands if it's about the chrome extension
+i mean the browser extension
+
+1142
+00:23:46,310 --> 00:23:46,320
+i mean the browser extension
+ 
+
+1143
+00:23:46,320 --> 00:23:48,830
+i mean the browser extension
+so it's about the end user solution
+
+1144
+00:23:48,830 --> 00:23:48,840
+so it's about the end user solution
+ 
+
+1145
+00:23:48,840 --> 00:23:50,149
+so it's about the end user solution
+absolutely yeah
+
+1146
+00:23:50,149 --> 00:23:50,159
+absolutely yeah
+ 
+
+1147
+00:23:50,159 --> 00:23:53,510
+absolutely yeah
+it's one of the uh i would say
+
+1148
+00:23:53,510 --> 00:23:53,520
+it's one of the uh i would say
+ 
+
+1149
+00:23:53,520 --> 00:23:57,110
+it's one of the uh i would say
+one more proof that we need end user
+
+1150
+00:23:57,110 --> 00:23:57,120
+one more proof that we need end user
+ 
+
+1151
+00:23:57,120 --> 00:23:59,029
+one more proof that we need end user
+oriented solutions right
+
+1152
+00:23:59,029 --> 00:23:59,039
+oriented solutions right
+ 
+
+1153
+00:23:59,039 --> 00:24:02,149
+oriented solutions right
+not the terminal the command line
+
+1154
+00:24:02,149 --> 00:24:02,159
+not the terminal the command line
+ 
+
+1155
+00:24:02,159 --> 00:24:07,750
+not the terminal the command line
+solution yeah
+
+1156
+00:24:07,750 --> 00:24:07,760
+
+ 
+
+1157
+00:24:07,760 --> 00:24:09,990
+
+of course the more interfaces are better
+
+1158
+00:24:09,990 --> 00:24:10,000
+of course the more interfaces are better
+ 
+
+1159
+00:24:10,000 --> 00:24:10,870
+of course the more interfaces are better
+because people
+
+1160
+00:24:10,870 --> 00:24:10,880
+because people
+ 
+
+1161
+00:24:10,880 --> 00:24:14,870
+because people
+but actually uh i i am thinking about
+
+1162
+00:24:14,870 --> 00:24:14,880
+but actually uh i i am thinking about
+ 
+
+1163
+00:24:14,880 --> 00:24:18,390
+but actually uh i i am thinking about
+having some good website
+
+1164
+00:24:18,390 --> 00:24:18,400
+having some good website
+ 
+
+1165
+00:24:18,400 --> 00:24:19,990
+having some good website
+where you can find all of this solution
+
+1166
+00:24:19,990 --> 00:24:20,000
+where you can find all of this solution
+ 
+
+1167
+00:24:20,000 --> 00:24:22,310
+where you can find all of this solution
+because right now uh
+
+1168
+00:24:22,310 --> 00:24:22,320
+because right now uh
+ 
+
+1169
+00:24:22,320 --> 00:24:26,549
+because right now uh
+all of them are quite uh
+
+1170
+00:24:26,549 --> 00:24:26,559
+
+ 
+
+1171
+00:24:26,559 --> 00:24:29,510
+
+quite unknown to a wider user because
+
+1172
+00:24:29,510 --> 00:24:29,520
+quite unknown to a wider user because
+ 
+
+1173
+00:24:29,520 --> 00:24:30,070
+quite unknown to a wider user because
+the
+
+1174
+00:24:30,070 --> 00:24:30,080
+the
+ 
+
+1175
+00:24:30,080 --> 00:24:32,149
+the
+there is no one website where you can
+
+1176
+00:24:32,149 --> 00:24:32,159
+there is no one website where you can
+ 
+
+1177
+00:24:32,159 --> 00:24:33,110
+there is no one website where you can
+find all of them
+
+1178
+00:24:33,110 --> 00:24:33,120
+find all of them
+ 
+
+1179
+00:24:33,120 --> 00:24:35,750
+find all of them
+uh oh no let me comment it's actually
+
+1180
+00:24:35,750 --> 00:24:35,760
+uh oh no let me comment it's actually
+ 
+
+1181
+00:24:35,760 --> 00:24:36,789
+uh oh no let me comment it's actually
+free tom or
+
+1182
+00:24:36,789 --> 00:24:36,799
+free tom or
+ 
+
+1183
+00:24:36,799 --> 00:24:39,269
+free tom or
+it should be a catalogue and it should
+
+1184
+00:24:39,269 --> 00:24:39,279
+it should be a catalogue and it should
+ 
+
+1185
+00:24:39,279 --> 00:24:40,710
+it should be a catalogue and it should
+be pavel it should be
+
+1186
+00:24:40,710 --> 00:24:40,720
+be pavel it should be
+ 
+
+1187
+00:24:40,720 --> 00:24:44,950
+be pavel it should be
+of course it is almost there so
+
+1188
+00:24:44,950 --> 00:24:44,960
+of course it is almost there so
+ 
+
+1189
+00:24:44,960 --> 00:24:48,390
+of course it is almost there so
+and by the way you know we uh
+
+1190
+00:24:48,390 --> 00:24:48,400
+and by the way you know we uh
+ 
+
+1191
+00:24:48,400 --> 00:24:52,310
+and by the way you know we uh
+roma ron they made a couple of times
+
+1192
+00:24:52,310 --> 00:24:52,320
+roma ron they made a couple of times
+ 
+
+1193
+00:24:52,320 --> 00:24:55,190
+roma ron they made a couple of times
+request for cards because in order to be
+
+1194
+00:24:55,190 --> 00:24:55,200
+request for cards because in order to be
+ 
+
+1195
+00:24:55,200 --> 00:24:56,950
+request for cards because in order to be
+placed in cataloging you to
+
+1196
+00:24:56,950 --> 00:24:56,960
+placed in cataloging you to
+ 
+
+1197
+00:24:56,960 --> 00:24:58,710
+placed in cataloging you to
+create your card with wording explaining
+
+1198
+00:24:58,710 --> 00:24:58,720
+create your card with wording explaining
+ 
+
+1199
+00:24:58,720 --> 00:25:02,230
+create your card with wording explaining
+what what the solution is about
+
+1200
+00:25:02,230 --> 00:25:02,240
+what what the solution is about
+ 
+
+1201
+00:25:02,240 --> 00:25:04,310
+what what the solution is about
+with a link to your website or whatever
+
+1202
+00:25:04,310 --> 00:25:04,320
+with a link to your website or whatever
+ 
+
+1203
+00:25:04,320 --> 00:25:05,510
+with a link to your website or whatever
+you want
+
+1204
+00:25:05,510 --> 00:25:05,520
+you want
+ 
+
+1205
+00:25:05,520 --> 00:25:09,190
+you want
+and they got only a few uh replies so
+
+1206
+00:25:09,190 --> 00:25:09,200
+and they got only a few uh replies so
+ 
+
+1207
+00:25:09,200 --> 00:25:11,590
+and they got only a few uh replies so
+okay you know i've never seen i've never
+
+1208
+00:25:11,590 --> 00:25:11,600
+okay you know i've never seen i've never
+ 
+
+1209
+00:25:11,600 --> 00:25:12,870
+okay you know i've never seen i've never
+seen this by the way
+
+1210
+00:25:12,870 --> 00:25:12,880
+seen this by the way
+ 
+
+1211
+00:25:12,880 --> 00:25:14,710
+seen this by the way
+can they kill me please yeah yeah we
+
+1212
+00:25:14,710 --> 00:25:14,720
+can they kill me please yeah yeah we
+ 
+
+1213
+00:25:14,720 --> 00:25:16,230
+can they kill me please yeah yeah we
+will we'll do it
+
+1214
+00:25:16,230 --> 00:25:16,240
+will we'll do it
+ 
+
+1215
+00:25:16,240 --> 00:25:19,669
+will we'll do it
+one more or not so the idea is that uh
+
+1216
+00:25:19,669 --> 00:25:19,679
+one more or not so the idea is that uh
+ 
+
+1217
+00:25:19,679 --> 00:25:21,669
+one more or not so the idea is that uh
+i i literally go to different teams and
+
+1218
+00:25:21,669 --> 00:25:21,679
+i i literally go to different teams and
+ 
+
+1219
+00:25:21,679 --> 00:25:23,510
+i i literally go to different teams and
+say guys prepare your card
+
+1220
+00:25:23,510 --> 00:25:23,520
+say guys prepare your card
+ 
+
+1221
+00:25:23,520 --> 00:25:26,470
+say guys prepare your card
+for the catalog so you you will be on on
+
+1222
+00:25:26,470 --> 00:25:26,480
+for the catalog so you you will be on on
+ 
+
+1223
+00:25:26,480 --> 00:25:26,789
+for the catalog so you you will be on on
+the
+
+1224
+00:25:26,789 --> 00:25:26,799
+the
+ 
+
+1225
+00:25:26,799 --> 00:25:29,430
+the
+my website and the link on your side so
+
+1226
+00:25:29,430 --> 00:25:29,440
+my website and the link on your side so
+ 
+
+1227
+00:25:29,440 --> 00:25:30,789
+my website and the link on your side so
+absolutely absolutely
+
+1228
+00:25:30,789 --> 00:25:30,799
+absolutely absolutely
+ 
+
+1229
+00:25:30,799 --> 00:25:33,830
+absolutely absolutely
+i want to do this just ask them to to
+
+1230
+00:25:33,830 --> 00:25:33,840
+i want to do this just ask them to to
+ 
+
+1231
+00:25:33,840 --> 00:25:36,789
+i want to do this just ask them to to
+contact me and yeah they don't provide
+
+1232
+00:25:36,789 --> 00:25:36,799
+contact me and yeah they don't provide
+ 
+
+1233
+00:25:36,799 --> 00:25:38,710
+contact me and yeah they don't provide
+by the way
+
+1234
+00:25:38,710 --> 00:25:38,720
+by the way
+ 
+
+1235
+00:25:38,720 --> 00:25:41,110
+by the way
+because we've never known about this by
+
+1236
+00:25:41,110 --> 00:25:41,120
+because we've never known about this by
+ 
+
+1237
+00:25:41,120 --> 00:25:42,149
+because we've never known about this by
+the way
+
+1238
+00:25:42,149 --> 00:25:42,159
+the way
+ 
+
+1239
+00:25:42,159 --> 00:25:43,909
+the way
+there's some some issue in the
+
+1240
+00:25:43,909 --> 00:25:43,919
+there's some some issue in the
+ 
+
+1241
+00:25:43,919 --> 00:25:45,669
+there's some some issue in the
+information flow i think
+
+1242
+00:25:45,669 --> 00:25:45,679
+information flow i think
+ 
+
+1243
+00:25:45,679 --> 00:25:48,310
+information flow i think
+okay we'll talk with roma today again
+
+1244
+00:25:48,310 --> 00:25:48,320
+okay we'll talk with roma today again
+ 
+
+1245
+00:25:48,320 --> 00:25:51,190
+okay we'll talk with roma today again
+yes please repeat
+
+1246
+00:25:51,190 --> 00:25:51,200
+
+ 
+
+1247
+00:25:51,200 --> 00:25:56,549
+
+uh okay okay very good and by the way um
+
+1248
+00:25:56,549 --> 00:25:56,559
+uh okay okay very good and by the way um
+ 
+
+1249
+00:25:56,559 --> 00:25:58,950
+uh okay okay very good and by the way um
+i triggered one interesting discussion
+
+1250
+00:25:58,950 --> 00:25:58,960
+i triggered one interesting discussion
+ 
+
+1251
+00:25:58,960 --> 00:25:59,750
+i triggered one interesting discussion
+uh i
+
+1252
+00:25:59,750 --> 00:25:59,760
+uh i
+ 
+
+1253
+00:25:59,760 --> 00:26:02,390
+uh i
+i took personal responsibility for this
+
+1254
+00:26:02,390 --> 00:26:02,400
+i took personal responsibility for this
+ 
+
+1255
+00:26:02,400 --> 00:26:03,510
+i took personal responsibility for this
+it's about
+
+1256
+00:26:03,510 --> 00:26:03,520
+it's about
+ 
+
+1257
+00:26:03,520 --> 00:26:06,549
+it's about
+the payment link standards uh actually
+
+1258
+00:26:06,549 --> 00:26:06,559
+the payment link standards uh actually
+ 
+
+1259
+00:26:06,559 --> 00:26:10,789
+the payment link standards uh actually
+i think that our ecosystem is uh
+
+1260
+00:26:10,789 --> 00:26:10,799
+i think that our ecosystem is uh
+ 
+
+1261
+00:26:10,799 --> 00:26:13,029
+i think that our ecosystem is uh
+well grown enough to discuss such
+
+1262
+00:26:13,029 --> 00:26:13,039
+well grown enough to discuss such
+ 
+
+1263
+00:26:13,039 --> 00:26:14,310
+well grown enough to discuss such
+questions
+
+1264
+00:26:14,310 --> 00:26:14,320
+questions
+ 
+
+1265
+00:26:14,320 --> 00:26:17,190
+questions
+and uh as there are uh already more than
+
+1266
+00:26:17,190 --> 00:26:17,200
+and uh as there are uh already more than
+ 
+
+1267
+00:26:17,200 --> 00:26:17,750
+and uh as there are uh already more than
+a dozen
+
+1268
+00:26:17,750 --> 00:26:17,760
+a dozen
+ 
+
+1269
+00:26:17,760 --> 00:26:20,070
+a dozen
+of uh wallet solutions in the market
+
+1270
+00:26:20,070 --> 00:26:20,080
+of uh wallet solutions in the market
+ 
+
+1271
+00:26:20,080 --> 00:26:21,590
+of uh wallet solutions in the market
+supporting freetown
+
+1272
+00:26:21,590 --> 00:26:21,600
+supporting freetown
+ 
+
+1273
+00:26:21,600 --> 00:26:25,510
+supporting freetown
+um i prepared a draft of of the standard
+
+1274
+00:26:25,510 --> 00:26:25,520
+um i prepared a draft of of the standard
+ 
+
+1275
+00:26:25,520 --> 00:26:29,510
+um i prepared a draft of of the standard
+it is very similar to vip 20 and 21
+
+1276
+00:26:29,510 --> 00:26:29,520
+it is very similar to vip 20 and 21
+ 
+
+1277
+00:26:29,520 --> 00:26:32,549
+it is very similar to vip 20 and 21
+and it it's focused uh only on
+
+1278
+00:26:32,549 --> 00:26:32,559
+and it it's focused uh only on
+ 
+
+1279
+00:26:32,559 --> 00:26:35,909
+and it it's focused uh only on
+payment purpose as the most frequent one
+
+1280
+00:26:35,909 --> 00:26:35,919
+payment purpose as the most frequent one
+ 
+
+1281
+00:26:35,919 --> 00:26:37,269
+payment purpose as the most frequent one
+and
+
+1282
+00:26:37,269 --> 00:26:37,279
+and
+ 
+
+1283
+00:26:37,279 --> 00:26:39,909
+and
+it's very very close and similar to the
+
+1284
+00:26:39,909 --> 00:26:39,919
+it's very very close and similar to the
+ 
+
+1285
+00:26:39,919 --> 00:26:41,590
+it's very very close and similar to the
+bitcoin payment links and ethereum
+
+1286
+00:26:41,590 --> 00:26:41,600
+bitcoin payment links and ethereum
+ 
+
+1287
+00:26:41,600 --> 00:26:42,630
+bitcoin payment links and ethereum
+payment links but
+
+1288
+00:26:42,630 --> 00:26:42,640
+payment links but
+ 
+
+1289
+00:26:42,640 --> 00:26:46,149
+payment links but
+uh taking uh the account some free ton
+
+1290
+00:26:46,149 --> 00:26:46,159
+uh taking uh the account some free ton
+ 
+
+1291
+00:26:46,159 --> 00:26:48,549
+uh taking uh the account some free ton
+uh possibilities we already had some
+
+1292
+00:26:48,549 --> 00:26:48,559
+uh possibilities we already had some
+ 
+
+1293
+00:26:48,559 --> 00:26:49,510
+uh possibilities we already had some
+discussions with
+
+1294
+00:26:49,510 --> 00:26:49,520
+discussions with
+ 
+
+1295
+00:26:49,520 --> 00:26:52,310
+discussions with
+with some people from community but if
+
+1296
+00:26:52,310 --> 00:26:52,320
+with some people from community but if
+ 
+
+1297
+00:26:52,320 --> 00:26:54,070
+with some people from community but if
+you didn't have a chance to have a look
+
+1298
+00:26:54,070 --> 00:26:54,080
+you didn't have a chance to have a look
+ 
+
+1299
+00:26:54,080 --> 00:26:54,549
+you didn't have a chance to have a look
+on it
+
+1300
+00:26:54,549 --> 00:26:54,559
+on it
+ 
+
+1301
+00:26:54,559 --> 00:26:58,549
+on it
+and uh either say that it's good so
+
+1302
+00:26:58,549 --> 00:26:58,559
+and uh either say that it's good so
+ 
+
+1303
+00:26:58,559 --> 00:27:00,230
+and uh either say that it's good so
+maybe provide some comments
+
+1304
+00:27:00,230 --> 00:27:00,240
+maybe provide some comments
+ 
+
+1305
+00:27:00,240 --> 00:27:03,830
+maybe provide some comments
+uh so plea please it's a tip five it's
+
+1306
+00:27:03,830 --> 00:27:03,840
+uh so plea please it's a tip five it's
+ 
+
+1307
+00:27:03,840 --> 00:27:07,029
+uh so plea please it's a tip five it's
+on the forum for it on the torque so uh
+
+1308
+00:27:07,029 --> 00:27:07,039
+on the forum for it on the torque so uh
+ 
+
+1309
+00:27:07,039 --> 00:27:09,029
+on the forum for it on the torque so uh
+just have a look and if you have some
+
+1310
+00:27:09,029 --> 00:27:09,039
+just have a look and if you have some
+ 
+
+1311
+00:27:09,039 --> 00:27:10,410
+just have a look and if you have some
+solutions that rely on
+
+1312
+00:27:10,410 --> 00:27:10,420
+solutions that rely on
+ 
+
+1313
+00:27:10,420 --> 00:27:11,990
+solutions that rely on
+[Music]
+
+1314
+00:27:11,990 --> 00:27:12,000
+[Music]
+ 
+
+1315
+00:27:12,000 --> 00:27:14,549
+[Music]
+on the transferring tones i think it
+
+1316
+00:27:14,549 --> 00:27:14,559
+on the transferring tones i think it
+ 
+
+1317
+00:27:14,559 --> 00:27:15,190
+on the transferring tones i think it
+will be
+
+1318
+00:27:15,190 --> 00:27:15,200
+will be
+ 
+
+1319
+00:27:15,200 --> 00:27:18,830
+will be
+very good for all of us to support one
+
+1320
+00:27:18,830 --> 00:27:18,840
+very good for all of us to support one
+ 
+
+1321
+00:27:18,840 --> 00:27:19,990
+very good for all of us to support one
+standard
+
+1322
+00:27:19,990 --> 00:27:20,000
+standard
+ 
+
+1323
+00:27:20,000 --> 00:27:23,430
+standard
+be universal um
+
+1324
+00:27:23,430 --> 00:27:23,440
+be universal um
+ 
+
+1325
+00:27:23,440 --> 00:27:25,590
+be universal um
+yeah a minute of self-promotion ended
+
+1326
+00:27:25,590 --> 00:27:25,600
+yeah a minute of self-promotion ended
+ 
+
+1327
+00:27:25,600 --> 00:27:27,190
+yeah a minute of self-promotion ended
+thank you
+
+1328
+00:27:27,190 --> 00:27:27,200
+thank you
+ 
+
+1329
+00:27:27,200 --> 00:27:30,310
+thank you
+uh yeah that's pretty from my site for
+
+1330
+00:27:30,310 --> 00:27:30,320
+uh yeah that's pretty from my site for
+ 
+
+1331
+00:27:30,320 --> 00:27:31,750
+uh yeah that's pretty from my site for
+today so if you
+
+1332
+00:27:31,750 --> 00:27:31,760
+today so if you
+ 
+
+1333
+00:27:31,760 --> 00:27:33,350
+today so if you
+have some some additional topics to
+
+1334
+00:27:33,350 --> 00:27:33,360
+have some some additional topics to
+ 
+
+1335
+00:27:33,360 --> 00:27:36,710
+have some some additional topics to
+discuss so just raise your hand
+
+1336
+00:27:36,710 --> 00:27:36,720
+discuss so just raise your hand
+ 
+
+1337
+00:27:36,720 --> 00:27:39,750
+discuss so just raise your hand
+i just launched uh
+
+1338
+00:27:39,750 --> 00:27:39,760
+i just launched uh
+ 
+
+1339
+00:27:39,760 --> 00:27:43,110
+i just launched uh
+pool very good
+
+1340
+00:27:43,110 --> 00:27:43,120
+pool very good
+ 
+
+1341
+00:27:43,120 --> 00:27:46,149
+pool very good
+bridge tokens and with and
+
+1342
+00:27:46,149 --> 00:27:46,159
+bridge tokens and with and
+ 
+
+1343
+00:27:46,159 --> 00:27:48,710
+bridge tokens and with and
+so now it's possible oh call community
+
+1344
+00:27:48,710 --> 00:27:48,720
+so now it's possible oh call community
+ 
+
+1345
+00:27:48,720 --> 00:27:50,389
+so now it's possible oh call community
+to start
+
+1346
+00:27:50,389 --> 00:27:50,399
+to start
+ 
+
+1347
+00:27:50,399 --> 00:27:55,190
+to start
+brilliant let's go
+
+1348
+00:27:55,190 --> 00:27:55,200
+brilliant let's go
+ 
+
+1349
+00:27:55,200 --> 00:27:58,870
+brilliant let's go
+yeah yes yes please
+
+1350
+00:27:58,870 --> 00:27:58,880
+yeah yes yes please
+ 
+
+1351
+00:27:58,880 --> 00:28:02,389
+yeah yes yes please
+have a little question just another
+
+1352
+00:28:02,389 --> 00:28:02,399
+have a little question just another
+ 
+
+1353
+00:28:02,399 --> 00:28:04,310
+have a little question just another
+historical contest
+
+1354
+00:28:04,310 --> 00:28:04,320
+historical contest
+ 
+
+1355
+00:28:04,320 --> 00:28:07,590
+historical contest
+basically uh i i i think
+
+1356
+00:28:07,590 --> 00:28:07,600
+basically uh i i i think
+ 
+
+1357
+00:28:07,600 --> 00:28:09,510
+basically uh i i i think
+it should be addressed to meet you but
+
+1358
+00:28:09,510 --> 00:28:09,520
+it should be addressed to meet you but
+ 
+
+1359
+00:28:09,520 --> 00:28:11,110
+it should be addressed to meet you but
+maybe someone else
+
+1360
+00:28:11,110 --> 00:28:11,120
+maybe someone else
+ 
+
+1361
+00:28:11,120 --> 00:28:14,149
+maybe someone else
+can answer so uh
+
+1362
+00:28:14,149 --> 00:28:14,159
+can answer so uh
+ 
+
+1363
+00:28:14,159 --> 00:28:18,149
+can answer so uh
+did if if looking to cut the specs
+
+1364
+00:28:18,149 --> 00:28:18,159
+did if if looking to cut the specs
+ 
+
+1365
+00:28:18,159 --> 00:28:22,389
+did if if looking to cut the specs
+through a few formulas and
+
+1366
+00:28:22,389 --> 00:28:22,399
+through a few formulas and
+ 
+
+1367
+00:28:22,399 --> 00:28:26,070
+through a few formulas and
+in this formulas there are parameters uh
+
+1368
+00:28:26,070 --> 00:28:26,080
+in this formulas there are parameters uh
+ 
+
+1369
+00:28:26,080 --> 00:28:29,029
+in this formulas there are parameters uh
+like we need to kind of participants
+
+1370
+00:28:29,029 --> 00:28:29,039
+like we need to kind of participants
+ 
+
+1371
+00:28:29,039 --> 00:28:30,230
+like we need to kind of participants
+need to define
+
+1372
+00:28:30,230 --> 00:28:30,240
+need to define
+ 
+
+1373
+00:28:30,240 --> 00:28:33,510
+need to define
+by themselves or experiment with it and
+
+1374
+00:28:33,510 --> 00:28:33,520
+by themselves or experiment with it and
+ 
+
+1375
+00:28:33,520 --> 00:28:36,470
+by themselves or experiment with it and
+this this variables include for example
+
+1376
+00:28:36,470 --> 00:28:36,480
+this this variables include for example
+ 
+
+1377
+00:28:36,480 --> 00:28:36,870
+this this variables include for example
+the
+
+1378
+00:28:36,870 --> 00:28:36,880
+the
+ 
+
+1379
+00:28:36,880 --> 00:28:40,389
+the
+the word for the oracle
+
+1380
+00:28:40,389 --> 00:28:40,399
+the word for the oracle
+ 
+
+1381
+00:28:40,399 --> 00:28:44,870
+the word for the oracle
+uh the like basic reward they also the
+
+1382
+00:28:44,870 --> 00:28:44,880
+uh the like basic reward they also the
+ 
+
+1383
+00:28:44,880 --> 00:28:48,549
+uh the like basic reward they also the
+feed like price feed ram
+
+1384
+00:28:48,549 --> 00:28:48,559
+feed like price feed ram
+ 
+
+1385
+00:28:48,559 --> 00:28:51,430
+feed like price feed ram
+which is kind of an obvious and as well
+
+1386
+00:28:51,430 --> 00:28:51,440
+which is kind of an obvious and as well
+ 
+
+1387
+00:28:51,440 --> 00:28:51,909
+which is kind of an obvious and as well
+as
+
+1388
+00:28:51,909 --> 00:28:51,919
+as
+ 
+
+1389
+00:28:51,919 --> 00:28:54,389
+as
+several else like for example magic
+
+1390
+00:28:54,389 --> 00:28:54,399
+several else like for example magic
+ 
+
+1391
+00:28:54,399 --> 00:28:56,710
+several else like for example magic
+constant a
+
+1392
+00:28:56,710 --> 00:28:56,720
+constant a
+ 
+
+1393
+00:28:56,720 --> 00:29:00,470
+constant a
+which is like a uh maybe a speed of
+
+1394
+00:29:00,470 --> 00:29:00,480
+which is like a uh maybe a speed of
+ 
+
+1395
+00:29:00,480 --> 00:29:02,950
+which is like a uh maybe a speed of
+of growing reputation for oracle but but
+
+1396
+00:29:02,950 --> 00:29:02,960
+of growing reputation for oracle but but
+ 
+
+1397
+00:29:02,960 --> 00:29:03,750
+of growing reputation for oracle but but
+whatever
+
+1398
+00:29:03,750 --> 00:29:03,760
+whatever
+ 
+
+1399
+00:29:03,760 --> 00:29:07,110
+whatever
+uh maybe some someone uh
+
+1400
+00:29:07,110 --> 00:29:07,120
+uh maybe some someone uh
+ 
+
+1401
+00:29:07,120 --> 00:29:10,389
+uh maybe some someone uh
+already like uh uh
+
+1402
+00:29:10,389 --> 00:29:10,399
+already like uh uh
+ 
+
+1403
+00:29:10,399 --> 00:29:14,710
+already like uh uh
+get get some kind of uh um
+
+1404
+00:29:14,710 --> 00:29:14,720
+get get some kind of uh um
+ 
+
+1405
+00:29:14,720 --> 00:29:17,430
+get get some kind of uh um
+kind of good values for that to to make
+
+1406
+00:29:17,430 --> 00:29:17,440
+kind of good values for that to to make
+ 
+
+1407
+00:29:17,440 --> 00:29:18,630
+kind of good values for that to to make
+to make uh
+
+1408
+00:29:18,630 --> 00:29:18,640
+to make uh
+ 
+
+1409
+00:29:18,640 --> 00:29:21,909
+to make uh
+first experiments because like uh
+
+1410
+00:29:21,909 --> 00:29:21,919
+first experiments because like uh
+ 
+
+1411
+00:29:21,919 --> 00:29:25,190
+first experiments because like uh
+maybe someone can share how
+
+1412
+00:29:25,190 --> 00:29:25,200
+maybe someone can share how
+ 
+
+1413
+00:29:25,200 --> 00:29:30,149
+maybe someone can share how
+how to evaluate them
+
+1414
+00:29:30,149 --> 00:29:30,159
+
+ 
+
+1415
+00:29:30,159 --> 00:29:35,669
+
+it's a place here
+
+1416
+00:29:35,669 --> 00:29:35,679
+
+ 
+
+1417
+00:29:35,679 --> 00:29:37,990
+
+um sorry i didn't get the question i
+
+1418
+00:29:37,990 --> 00:29:38,000
+um sorry i didn't get the question i
+ 
+
+1419
+00:29:38,000 --> 00:29:40,230
+um sorry i didn't get the question i
+didn't think it was for me
+
+1420
+00:29:40,230 --> 00:29:40,240
+didn't think it was for me
+ 
+
+1421
+00:29:40,240 --> 00:29:43,909
+didn't think it was for me
+yeah i i'm asking about oracle
+
+1422
+00:29:43,909 --> 00:29:43,919
+yeah i i'm asking about oracle
+ 
+
+1423
+00:29:43,919 --> 00:29:46,310
+yeah i i'm asking about oracle
+kind of contest it's based on another on
+
+1424
+00:29:46,310 --> 00:29:46,320
+kind of contest it's based on another on
+ 
+
+1425
+00:29:46,320 --> 00:29:47,669
+kind of contest it's based on another on
+paper and yes
+
+1426
+00:29:47,669 --> 00:29:47,679
+paper and yes
+ 
+
+1427
+00:29:47,679 --> 00:29:50,710
+paper and yes
+there are some constant variables like
+
+1428
+00:29:50,710 --> 00:29:50,720
+there are some constant variables like
+ 
+
+1429
+00:29:50,720 --> 00:29:53,750
+there are some constant variables like
+hard to kind of determine
+
+1430
+00:29:53,750 --> 00:29:53,760
+hard to kind of determine
+ 
+
+1431
+00:29:53,760 --> 00:29:56,549
+hard to kind of determine
+and to make like experiments with
+
+1432
+00:29:56,549 --> 00:29:56,559
+and to make like experiments with
+ 
+
+1433
+00:29:56,559 --> 00:29:57,269
+and to make like experiments with
+current
+
+1434
+00:29:57,269 --> 00:29:57,279
+current
+ 
+
+1435
+00:29:57,279 --> 00:30:00,230
+current
+kind of smart contracts which i want to
+
+1436
+00:30:00,230 --> 00:30:00,240
+kind of smart contracts which i want to
+ 
+
+1437
+00:30:00,240 --> 00:30:00,950
+kind of smart contracts which i want to
+like test
+
+1438
+00:30:00,950 --> 00:30:00,960
+like test
+ 
+
+1439
+00:30:00,960 --> 00:30:04,389
+like test
+against the real price feeds uh i
+
+1440
+00:30:04,389 --> 00:30:04,399
+against the real price feeds uh i
+ 
+
+1441
+00:30:04,399 --> 00:30:07,830
+against the real price feeds uh i
+just just asking for maybe you know some
+
+1442
+00:30:07,830 --> 00:30:07,840
+just just asking for maybe you know some
+ 
+
+1443
+00:30:07,840 --> 00:30:08,310
+just just asking for maybe you know some
+kind of
+
+1444
+00:30:08,310 --> 00:30:08,320
+kind of
+ 
+
+1445
+00:30:08,320 --> 00:30:11,830
+kind of
+good values for start for example
+
+1446
+00:30:11,830 --> 00:30:11,840
+good values for start for example
+ 
+
+1447
+00:30:11,840 --> 00:30:15,029
+good values for start for example
+a reward time frame
+
+1448
+00:30:15,029 --> 00:30:15,039
+a reward time frame
+ 
+
+1449
+00:30:15,039 --> 00:30:17,909
+a reward time frame
+for example how fast should the elector
+
+1450
+00:30:17,909 --> 00:30:17,919
+for example how fast should the elector
+ 
+
+1451
+00:30:17,919 --> 00:30:18,310
+for example how fast should the elector
+run
+
+1452
+00:30:18,310 --> 00:30:18,320
+run
+ 
+
+1453
+00:30:18,320 --> 00:30:21,590
+run
+the coming trivial phase for example
+
+1454
+00:30:21,590 --> 00:30:21,600
+the coming trivial phase for example
+ 
+
+1455
+00:30:21,600 --> 00:30:23,990
+the coming trivial phase for example
+no i i don't because it's need to be
+
+1456
+00:30:23,990 --> 00:30:24,000
+no i i don't because it's need to be
+ 
+
+1457
+00:30:24,000 --> 00:30:25,430
+no i i don't because it's need to be
+like tested and uh
+
+1458
+00:30:25,430 --> 00:30:25,440
+like tested and uh
+ 
+
+1459
+00:30:25,440 --> 00:30:28,870
+like tested and uh
+so it's up to the you know
+
+1460
+00:30:28,870 --> 00:30:28,880
+so it's up to the you know
+ 
+
+1461
+00:30:28,880 --> 00:30:31,029
+so it's up to the you know
+up to the implementer okay so it's
+
+1462
+00:30:31,029 --> 00:30:31,039
+up to the implementer okay so it's
+ 
+
+1463
+00:30:31,039 --> 00:30:33,190
+up to the implementer okay so it's
+inside the contest okay right
+
+1464
+00:30:33,190 --> 00:30:33,200
+inside the contest okay right
+ 
+
+1465
+00:30:33,200 --> 00:30:36,230
+inside the contest okay right
+yeah like we didn't we didn't run the
+
+1466
+00:30:36,230 --> 00:30:36,240
+yeah like we didn't we didn't run the
+ 
+
+1467
+00:30:36,240 --> 00:30:36,950
+yeah like we didn't we didn't run the
+test
+
+1468
+00:30:36,950 --> 00:30:36,960
+test
+ 
+
+1469
+00:30:36,960 --> 00:30:48,830
+test
+simulation on that so you know
+
+1470
+00:30:48,830 --> 00:30:48,840
+
+ 
+
+1471
+00:30:48,840 --> 00:30:54,310
+
+try
+
+1472
+00:30:54,310 --> 00:30:54,320
+
+ 
+
+1473
+00:30:54,320 --> 00:30:58,149
+
+okay any other questions guys please
+
+1474
+00:30:58,149 --> 00:30:58,159
+okay any other questions guys please
+ 
+
+1475
+00:30:58,159 --> 00:31:00,710
+okay any other questions guys please
+yeah it's also quite unclear where
+
+1476
+00:31:00,710 --> 00:31:00,720
+yeah it's also quite unclear where
+ 
+
+1477
+00:31:00,720 --> 00:31:01,669
+yeah it's also quite unclear where
+should we
+
+1478
+00:31:01,669 --> 00:31:01,679
+should we
+ 
+
+1479
+00:31:01,679 --> 00:31:04,710
+should we
+like get where should how how
+
+1480
+00:31:04,710 --> 00:31:04,720
+like get where should how how
+ 
+
+1481
+00:31:04,720 --> 00:31:07,830
+like get where should how how
+the knots are minted because like
+
+1482
+00:31:07,830 --> 00:31:07,840
+the knots are minted because like
+ 
+
+1483
+00:31:07,840 --> 00:31:10,389
+the knots are minted because like
+it's not in a paper uh i suppose or
+
+1484
+00:31:10,389 --> 00:31:10,399
+it's not in a paper uh i suppose or
+ 
+
+1485
+00:31:10,399 --> 00:31:10,950
+it's not in a paper uh i suppose or
+maybe i
+
+1486
+00:31:10,950 --> 00:31:10,960
+maybe i
+ 
+
+1487
+00:31:10,960 --> 00:31:14,870
+maybe i
+read it bad leave but like
+
+1488
+00:31:14,870 --> 00:31:14,880
+read it bad leave but like
+ 
+
+1489
+00:31:14,880 --> 00:31:18,070
+read it bad leave but like
+oracle's receives reward in knots but
+
+1490
+00:31:18,070 --> 00:31:18,080
+oracle's receives reward in knots but
+ 
+
+1491
+00:31:18,080 --> 00:31:18,710
+oracle's receives reward in knots but
+how
+
+1492
+00:31:18,710 --> 00:31:18,720
+how
+ 
+
+1493
+00:31:18,720 --> 00:31:22,950
+how
+uh how kind of they
+
+1494
+00:31:22,950 --> 00:31:22,960
+
+ 
+
+1495
+00:31:22,960 --> 00:31:25,669
+
+why not just english just a smart
+
+1496
+00:31:25,669 --> 00:31:25,679
+why not just english just a smart
+ 
+
+1497
+00:31:25,679 --> 00:31:27,190
+why not just english just a smart
+contract
+
+1498
+00:31:27,190 --> 00:31:27,200
+contract
+ 
+
+1499
+00:31:27,200 --> 00:31:30,230
+contract
+and uh there is a reserve
+
+1500
+00:31:30,230 --> 00:31:30,240
+and uh there is a reserve
+ 
+
+1501
+00:31:30,240 --> 00:31:32,789
+and uh there is a reserve
+which which you trade against in the in
+
+1502
+00:31:32,789 --> 00:31:32,799
+which which you trade against in the in
+ 
+
+1503
+00:31:32,799 --> 00:31:33,590
+which which you trade against in the in
+the
+
+1504
+00:31:33,590 --> 00:31:33,600
+the
+ 
+
+1505
+00:31:33,600 --> 00:31:35,990
+the
+like there is an auction right or where
+
+1506
+00:31:35,990 --> 00:31:36,000
+like there is an auction right or where
+ 
+
+1507
+00:31:36,000 --> 00:31:38,789
+like there is an auction right or where
+it means the tokens in the auction
+
+1508
+00:31:38,789 --> 00:31:38,799
+it means the tokens in the auction
+ 
+
+1509
+00:31:38,799 --> 00:31:43,750
+it means the tokens in the auction
+so um somewhere there
+
+1510
+00:31:43,750 --> 00:31:43,760
+so um somewhere there
+ 
+
+1511
+00:31:43,760 --> 00:31:47,269
+so um somewhere there
+is it is it an auction for what like i'm
+
+1512
+00:31:47,269 --> 00:31:47,279
+is it is it an auction for what like i'm
+ 
+
+1513
+00:31:47,279 --> 00:31:49,269
+is it is it an auction for what like i'm
+i'm supplying the price fit and
+
+1514
+00:31:49,269 --> 00:31:49,279
+i'm supplying the price fit and
+ 
+
+1515
+00:31:49,279 --> 00:31:52,070
+i'm supplying the price fit and
+now i need to kind of buy for that price
+
+1516
+00:31:52,070 --> 00:31:52,080
+now i need to kind of buy for that price
+ 
+
+1517
+00:31:52,080 --> 00:31:54,389
+now i need to kind of buy for that price
+of what
+
+1518
+00:31:54,389 --> 00:31:54,399
+of what
+ 
+
+1519
+00:31:54,399 --> 00:31:58,630
+of what
+um it's in the paper fine okay
+
+1520
+00:31:58,630 --> 00:31:58,640
+um it's in the paper fine okay
+ 
+
+1521
+00:31:58,640 --> 00:32:00,389
+um it's in the paper fine okay
+i need to just just thought through
+
+1522
+00:32:00,389 --> 00:32:00,399
+i need to just just thought through
+ 
+
+1523
+00:32:00,399 --> 00:32:02,470
+i need to just just thought through
+because like i stopped on the auction
+
+1524
+00:32:02,470 --> 00:32:02,480
+because like i stopped on the auction
+ 
+
+1525
+00:32:02,480 --> 00:32:03,830
+because like i stopped on the auction
+what auction like
+
+1526
+00:32:03,830 --> 00:32:03,840
+what auction like
+ 
+
+1527
+00:32:03,840 --> 00:32:06,230
+what auction like
+i'm not trading i'm just like supply
+
+1528
+00:32:06,230 --> 00:32:06,240
+i'm not trading i'm just like supply
+ 
+
+1529
+00:32:06,240 --> 00:32:07,430
+i'm not trading i'm just like supply
+there isn't there is an auction that
+
+1530
+00:32:07,430 --> 00:32:07,440
+there isn't there is an auction that
+ 
+
+1531
+00:32:07,440 --> 00:32:08,230
+there isn't there is an auction that
+determines the
+
+1532
+00:32:08,230 --> 00:32:08,240
+determines the
+ 
+
+1533
+00:32:08,240 --> 00:32:11,269
+determines the
+final price of the of the knot
+
+1534
+00:32:11,269 --> 00:32:11,279
+final price of the of the knot
+ 
+
+1535
+00:32:11,279 --> 00:32:15,350
+final price of the of the knot
+of it not to turn conversion and so
+
+1536
+00:32:15,350 --> 00:32:15,360
+of it not to turn conversion and so
+ 
+
+1537
+00:32:15,360 --> 00:32:17,830
+of it not to turn conversion and so
+like you participate in this auction to
+
+1538
+00:32:17,830 --> 00:32:17,840
+like you participate in this auction to
+ 
+
+1539
+00:32:17,840 --> 00:32:20,310
+like you participate in this auction to
+to if you want to get
+
+1540
+00:32:20,310 --> 00:32:20,320
+to if you want to get
+ 
+
+1541
+00:32:20,320 --> 00:32:23,350
+to if you want to get
+like the tokens so that's where the
+
+1542
+00:32:23,350 --> 00:32:23,360
+like the tokens so that's where the
+ 
+
+1543
+00:32:23,360 --> 00:32:25,750
+like the tokens so that's where the
+final price is determined
+
+1544
+00:32:25,750 --> 00:32:25,760
+final price is determined
+ 
+
+1545
+00:32:25,760 --> 00:32:30,470
+final price is determined
+but the details are in the paper
+
+1546
+00:32:30,470 --> 00:32:30,480
+
+ 
+
+1547
+00:32:30,480 --> 00:32:32,950
+
+you can read it yeah they got it they
+
+1548
+00:32:32,950 --> 00:32:32,960
+you can read it yeah they got it they
+ 
+
+1549
+00:32:32,960 --> 00:32:33,830
+you can read it yeah they got it they
+reach
+
+1550
+00:32:33,830 --> 00:32:33,840
+reach
+ 
+
+1551
+00:32:33,840 --> 00:32:35,750
+reach
+they reach balanced price based on
+
+1552
+00:32:35,750 --> 00:32:35,760
+they reach balanced price based on
+ 
+
+1553
+00:32:35,760 --> 00:32:37,669
+they reach balanced price based on
+previous medium price like okay
+
+1554
+00:32:37,669 --> 00:32:37,679
+previous medium price like okay
+ 
+
+1555
+00:32:37,679 --> 00:32:40,710
+previous medium price like okay
+yeah i i got it maybe maybe
+
+1556
+00:32:40,710 --> 00:32:40,720
+yeah i i got it maybe maybe
+ 
+
+1557
+00:32:40,720 --> 00:32:47,509
+yeah i i got it maybe maybe
+maybe i got it okay thank you
+
+1558
+00:32:47,509 --> 00:32:47,519
+
+ 
+
+1559
+00:32:47,519 --> 00:32:52,070
+
+very good
+
+1560
+00:32:52,070 --> 00:32:52,080
+
+ 
+
+1561
+00:32:52,080 --> 00:32:58,789
+
+something else guys please
+
+1562
+00:32:58,789 --> 00:32:58,799
+
+ 
+
+1563
+00:32:58,799 --> 00:33:01,909
+
+okay seems now uh by the way uh
+
+1564
+00:33:01,909 --> 00:33:01,919
+okay seems now uh by the way uh
+ 
+
+1565
+00:33:01,919 --> 00:33:05,590
+okay seems now uh by the way uh
+tonight uh at 7 p.m moscow time we will
+
+1566
+00:33:05,590 --> 00:33:05,600
+tonight uh at 7 p.m moscow time we will
+ 
+
+1567
+00:33:05,600 --> 00:33:07,669
+tonight uh at 7 p.m moscow time we will
+be distributing the reward for the
+
+1568
+00:33:07,669 --> 00:33:07,679
+be distributing the reward for the
+ 
+
+1569
+00:33:07,679 --> 00:33:10,149
+be distributing the reward for the
+police dot stage 3 contest
+
+1570
+00:33:10,149 --> 00:33:10,159
+police dot stage 3 contest
+ 
+
+1571
+00:33:10,159 --> 00:33:13,430
+police dot stage 3 contest
+and this is just a kind reminder for
+
+1572
+00:33:13,430 --> 00:33:13,440
+and this is just a kind reminder for
+ 
+
+1573
+00:33:13,440 --> 00:33:16,950
+and this is just a kind reminder for
+those who are custodians just please
+
+1574
+00:33:16,950 --> 00:33:16,960
+those who are custodians just please
+ 
+
+1575
+00:33:16,960 --> 00:33:21,350
+those who are custodians just please
+be online to sign the transaction
+
+1576
+00:33:21,350 --> 00:33:21,360
+
+ 
+
+1577
+00:33:21,360 --> 00:33:24,950
+
+so uh that's pretty from our site so and
+
+1578
+00:33:24,950 --> 00:33:24,960
+so uh that's pretty from our site so and
+ 
+
+1579
+00:33:24,960 --> 00:33:27,990
+so uh that's pretty from our site so and
+traditional three two
+
+1580
+00:33:27,990 --> 00:33:28,000
+traditional three two
+ 
+
+1581
+00:33:28,000 --> 00:33:31,029
+traditional three two
+one no questions okay guys thank you so
+
+1582
+00:33:31,029 --> 00:33:31,039
+one no questions okay guys thank you so
+ 
+
+1583
+00:33:31,039 --> 00:33:33,830
+one no questions okay guys thank you so
+much for attending for today uh
+
+1584
+00:33:33,830 --> 00:33:33,840
+much for attending for today uh
+ 
+
+1585
+00:33:33,840 --> 00:33:36,710
+much for attending for today uh
+let's talk again as usual you know in
+
+1586
+00:33:36,710 --> 00:33:36,720
+let's talk again as usual you know in
+ 
+
+1587
+00:33:36,720 --> 00:33:37,350
+let's talk again as usual you know in
+one week
+
+1588
+00:33:37,350 --> 00:33:37,360
+one week
+ 
+
+1589
+00:33:37,360 --> 00:33:41,029
+one week
+so and have a nice weekend
+
+1590
+00:33:41,029 --> 00:33:41,039
+
+ 
+
+1591
+00:33:41,039 --> 00:33:46,720
+
+bye bye thank you bye
+

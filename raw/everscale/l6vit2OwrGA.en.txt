@@ -1,0 +1,690 @@
+hi hi everybody
+hello
+can you guys hear me yes all good
+okay
+oops
+hello
+hi
+that must be the gamepad team
+cool
+nice to see some new faces here
+we do
+so
+let's give one more minute for people to
+uh finish coming in
+finally i can hear everyone hello
+hi
+hello welcome
+it's a lot of us today huh
+not so much sometimes we've got double
+um
+it always changes depending on who's
+presenting what's the topic uh other
+holidays going on
+changes all the time
+give a bit more
+question where again the curly team
+looks cool though
+i dig it
+okay i think we should start now i don't
+contact
+[Music]
+uh yeah
+[Music]
+all right
+okay let's start off then
+okay hello everybody number 108 welcome
+to the everscale weekly community call i
+hope you're doing all well uh many of
+you might have just come over from the
+joint ama that we were holding uh
+regarding joint regarding our plans on
+staying strong and weathering the crypto
+storm
+so now you know that we are resilient
+and we are moving on and with everstart
+they just had a token sale launch a
+couple days ago on the everstart launch
+pad of course
+uh this was their platform's utility
+token which allows users to receive a
+guaranteed allocation at the price of
+the soft cap
+so if you are interested in that getting
+a token at a good price you should go
+check that out on everstart
+and speaking of tokens some octus bridge
+users have
+already been able to
+experience some benefits from the recent
+update of the bridge
+which allows one to root tokens from
+different networks inside of everscale
+which is great
+so broxah says that uh this is the first
+taste of what merge functionality will
+achieve for the bridge and will soon be
+possible for
+more tokens coming soon
+it's exciting um and if you think that
+the telegram chats have been getting a
+little bit quiet recently that's
+probably due to the huge kick in discord
+activity we've had um notably at the end
+of may
+if you haven't been there in a while you
+should go and check it out there are a
+lot of new channels there's focus on
+international communities there's
+developer updates uh and core team
+updates and a lot more
+mid-may we had about 1.2 k active users
+and by the end of may there was almost
+4k which is a lot of growth that's great
+progress
+and finally give a shout-out to the
+winners of the everscale meme contest
+they were just announced and first place
+went to shogun
+this this person bagged 500 evers and
+five bridge tokens so if you want to see
+the results of the meme contest and the
+uh submissions you should head on over
+to the meme channel in discord and
+congrats to everybody involved there
+so with that said we can move on to the
+agenda
+i see that we've got a lot of people now
+on the call which is great
+uh let's kick it off with the reveland
+ido and reveland is holding an ideo on
+multiple launch pads and in particular
+our own everstart
+and we have alex to
+share some more with us
+hello
+hi
+hi let me share
+thank you joe
+let me share my screen first please
+yes
+okay
+okay can you see my screen yeah all good
+awesome
+so yeah let me introduce
+reveland on everstart
+as joe has noted it's a game a quite a
+popular game by the way even though it's
+an early phase but it's already popular
+with a huge battery test program
+they are launching their ideo on
+multiple platforms and that was a huge
+success by everstart team to get them
+with us will never start
+uh
+i just want a little bit about dreamland
+what is that what's what's the game and
+why i should be interested in it and
+buying their river talking on never
+start
+it is like simply put it's a blockchain
+game it's dota if you know dota it's
+quite the popular game it's on
+blockchain simply put
+you can
+team up team up with your friends
+build teams and fight each other destroy
+your friends bases or you can even play
+in a
+pubg mode where you can play solo
+against many many other participants so
+there are multiple
+multiple how to say scenarios to choose
+from which makes this game really
+exciting
+and
+in this game you operate with the hero
+we can see the examples of heroes here
+you don't need even to pay to start the
+game
+you can start with three uh
+free free heroes if i'm not mistaken
+they they're providing them for free but
+if you want more heroes more skins
+you're welcome to
+visit their
+nft place and buy some more
+sophisticated heroes or skins or weapons
+or whatever you need in this game
+so this is the idea of the game
+it is backed up by very serious partners
+huawei
+gaming and alumni research to name a few
+and yes they are coming on everstart
+they are already there you can you can
+check everstart website and uh
+in
+there you can find the information and
+brief information about the game and the
+brief information about the sale it
+starts pretty soon it starts on 18th of
+june and it will last for just a couple
+of days
+there you can also find the links to
+their website
+links to their social medias where you
+can learn more about the game
+and yeah we encourage you to come and
+get get the token and
+if i understand correctly with this
+token you can even get a
+mystery box with a hero
+or with skin so it will not be just a
+talking
+it will be a little bit more than just
+the talking it will give you a great
+in-game experience if you want to play
+the game for sure
+and just a small life hack
+ever start
+and they're talking start which are
+starting
+today as you have said
+you can use start talking to get a
+guaranteed allocation with travel
+because initially
+the amount is quite limited so don't
+miss it out
+come on join everstart and uh yeah don't
+miss out this
+amazing idea
+okay great
+yeah that's it from my site mystery box
+i'm already interested that sounds cool
+i'm definitely going to check that out i
+wonder i wonder what the sentiment in
+the community is um
+because i didn't really see it
+shared too much so i wonder if we should
+start
+talking about it more in the chats and
+uh getting people involved i think it'd
+be pretty successful
+this good project
+i think so although all information is
+available on the chat so if you forget
+something you can always find a post or
+or a i don't know telegram message
+they're already there so yeah just look
+at it and don't miss it out again
+because it's quite a short period of
+time to get into that
+yeah it is three days right
+yep
+okay
+thank you alex for sharing that super
+cool and we're going to move on uh with
+the agenda going to the remote election
+tech report we have eugene he's been
+sharing every scale's initiatives with
+with the
+gba government blockchain association
+and today he has the final version of
+the remote election technical report
+which is a very important document and
+apparently it's going to be uh sent to
+every election official in the u.s
+eugene
+yes hello hello um can you hear yes and
+i can okay so thank you for
+inviting me to speak so um this uh story
+has its roots in um
+a contest that we as a community run
+uh roughly a year and a half ago
+to dispute some of the criticism that
+mit
+researchers put forward with respect to
+the use of blockchain in voting
+we uh decided to come back with a
+solution and uh
+part of the process was talking to
+various people in the u.s to see what
+their thoughts their views were
+on the criticism of blockchain
+and as a result a group of
+scholars i should say was formed
+under the auspices of the government
+blockchain association
+which included and this is very
+important
+the most
+local proponents
+and opponents of the use of blockchain
+in elections
+so um what is very significant about
+this report is its signatories
+you will see here
+that in addition to
+us
+being a signatory there is an or there
+are a couple of organizations uh that
+you may or may not have heard about but
+they are very well known in the us and
+they are verified the voting
+foundation
+and a company called vaults
+essentially uh verified voting
+is run by the elections assistance
+committee
+part of u.s congress
+and therefore they represent the camp
+of those that say paper only
+there should be no remote voting on
+mobile devices or any devices whatsoever
+and there are other people like gba like
+us which believe that technology is
+there
+to allow people to vote from their
+mobile devices
+this is all about bringing more people
+uh to express their choices uh polling
+stations have very long lines
+sometimes very long commute to them
+and so the actual attendance is low
+so whenever we talk about mobile voting
+we talk about a huge increase in people
+actually expressing their views and this
+is why it is significant so
+what this report was about is
+something that both proponents and
+opponents of blockchain agree on and
+that is
+the actual practices that are allowed by
+legislature in various states in america
+so this describes
+what is possible today and indeed
+there are about 15 counties in five
+states
+that do allow
+remote ballot marking and return
+so this document and it's the first one
+ever
+signed by both proponents and opponents
+uh indicates what is legal in the united
+states today
+how why is it relevant for us
+well as you can see
+everscale is represented here as one of
+the subject matter experts
+this is the perfect position we want to
+be in
+uh to be not political we don't take any
+sides we're just technical matter
+experts and this document confirms
+indeed that we have achieved that status
+this is actually a product of roughly
+a year and a half
+of work of this group and uh there are
+some very notable names in it as well
+including uh susan eustis
+who is a legend in the elections
+industry he invented some 50 years ago
+the first ever vote counting machine
+still sells them
+to election officials and is a very very
+influential
+person in the industry so she signs as
+well
+so
+to wrap this up this document indeed
+with our signatures is going as joe said
+to every local election official in the
+country
+all of them will see everscale as
+subject matter experts in elections
+so you might want to ask what's next
+well
+the second part of the work of this
+group will be about what is possible
+and there we are hoping to see our very
+own
+devote
+and
+the audit i'm very happy to report that
+not only the develop has been
+piloted in the u.s but also deal audit
+is now being discussed with some key
+experts in the united states so we're
+hoping
+that the new document will highlight the
+marvelous technical solutions that
+our community has developed thank you
+very much for your attention i'm happy
+to answer the questions john
+fantastic presentation eugene thank you
+very much this is this is definitely
+amazing um
+and certainly an impressive working
+group as well um i don't does anybody
+have any questions for eugene on the
+call
+i don't see any hands up
+um
+i haven't seen anything in uh youtube
+but perhaps by the end of the call we
+have some
+some more questions
+uh
+thank you very much eugene definitely
+looking forward to the second phase of
+this um seeing it in action
+and voting for the next u.s president um
+through everscale technology thank you
+very much
+so
+can you uh stop sharing your screen and
+we shall move on uh with the agenda
+just checking if we do have questions
+no
+okay so we have some new faces on the
+call today some curly headed uh super
+team faces they are called gamepad
+gamepad has experienced some
+massive success lately
+particularly in china and they gained
+over 12k new addresses in just one week
+i believe and it keeps accelerating very
+excited so we have uh some of the core
+members of the team here so please
+introduce yourselves and
+tell us more
+uh you're on mute
+technology women in technology
+so anyways um hi everyone nice to meet
+you my name is elena i'm the creative
+strategist and partner of gamepadbot
+which is a social competitive mobile um
+hyper casual gaming platform
+and i'm here with the members of my team
+um
+pavel pavel kuznetsov who is he's on
+mute and off
+of video right now but he's also very
+curly uh max our seo and a couple of
+members during the new business
+so we're very happy to join you and um i
+would love to know how much time we have
+in order to present ourselves because
+we're not very aware about the format so
+i just know how fast i should go in
+order to do so well how much time do you
+need i think well
+i can go through the pitch within like
+maybe five seven minutes very quickly i
+think that's great
+perfect
+then um
+do i have the authority to share the
+screen let me just i think so let me
+know if you don't
+yes i'm trying
+yep a little color a little color nice
+[Laughter]
+so just give me a second before i go
+into the slide sharing mode
+and
+wait a second where it is slideshow
+so i would just be very very quick and
+thorough if you have any questions we'll
+go over it so over again but you started
+from the ant so where we are already you
+know like through our stage of you know
+showing certain results so what we are
+is the gamepad bot is this social uh
+competitive
+casual mobile
+gaming platform that exists in telegram
+and discord right now what we do is we
+create little simple games that are
+presented on the platform that allow
+users to play learn and start earning in
+cryptocurrencies
+since the games are very simple and easy
+to play we have the ability to actually
+bring users to enlightenment into the
+crypto industry very quickly what we
+represent right now is the very simple
+and uh very simple way to distribute and
+present games on the platform so which
+is very interesting tool for either
+gamers users and game developers
+we believe and we represent ourselves as
+the inclusive gaming ambassador working
+with uh women in tech and very much
+looking forward um for equality in the
+gaming industry
+um
+we do um one of the most well
+like focuses of the platform itself is
+bringing enlightenment to the new
+economy so bringing light and learning
+possibilities and uh yeah and we are
+going through ico which is part of our
+uh main idea of developing the platform
+with you and hopefully with everscale
+ecosystem
+so as i said we believe in ourselves as
+a little game changer addressing human
+needs and providing life simplifiers
+adopting blockchain technologies through
+massive
+focus on gamified solutions
+we believe in women and games and do
+represent an ambassador for that
+platform itself right now covers over
+100 different games and we are
+developing different
+structures and um inside play rooms
+which would be dedicated to different um
+topics and different um
+stories so we could um use more
+purposeful gaming inside
+itself right now before we entered the
+chinese market the platform itself was
+populated by 5.5 4 million of users over
+100 games were created online but we are
+we're starting to work with uh hopefully
+with um
+independent developers and buddha we we
+signed contract with wudo not so long
+ago so they will be able to provide some
+content for us
+um the platform is um yeah it's it's
+it's developing over like just five days
+severely and very quickly what we are
+right now is the gaming platform but
+what we
+come to believe is creating it more into
+a social tool where users will be able
+to create their own playrooms and use
+marketplace in order to create
+customized playrooms so moving from idea
+of being a game player to game
+interpreter so developing the industry
+itself
+um
+we believe that the platform right now
+has a great ambition to be interesting
+for game and players for developers for
+investors and for commercial partners
+because by
+bringing a lot of traffic it becomes a
+very great marketing tool um
+as i said um how we see it is playing to
+learn to earn and that's the main idea
+of actually you know bringing becoming
+more human tool for people to actually
+interact with the uh with the new
+economies and doing it in a very
+simplified way
+um there are more information about how
+we see the platform developing i don't
+know whether it's relevant right now but
+the main idea is actually moving from
+the idea of game exploration to becoming
+a brand ambassador
+in gaming industry and by bringing that
+ability to every single user that starts
+playing the games on the platform and
+and next
+from different stage owns to different
+platforms i mean like different stages
+of its personal development
+uh there's more information on the page
+that is probably not very relevant right
+now
+but um hopefully you will get the chance
+to uh to check out our platform we'll
+share the link right now and everyone
+will have the ability to go through the
+games
+uh and see how it works i mean we did
+have great results within this five days
+we just shared the link on the community
+on the chat well within your chinese
+community
+62 000 plus uh 15 000 new crypto wallets
+open so it well it seems that
+the tool that we're creating is actually
+working and if we have the ability to
+develop it further on within the ever
+scale
+ecosystem it would become
+a great cooperational
+vector for our development
+thank you very much uh if there's any
+questions or if i was not very focused
+on uh things that you wanted to hear
+please address questions and we'll be
+happy to answer them
+thank you very much elena that's a
+fantastic presentation it's so vibrant i
+really love this style
+um
+can you can you tell us a bit more about
+um your plans uh with everscale how
+might this benefit the community
+why would they be interested in gamepad
+but like how might it affect the token
+or community engagement for example
+uh what are the incentives for the
+community
+well i mean first of all one of the main
+ideas behind it is
+a very motivating simplified tool to get
+into the ecosystem and start using evers
+ever evers
+because we give the ability to open the
+crypto wallets inside the game but it
+works the gamified way so first you
+start playing the game which is very
+simple and you already have the ability
+to earn so by having the ability to earn
+starting with zero you know that you
+already have the possibility of actually
+making money on your gaming experience
+so that's a simple way to get into the
+system and the simple way to get and
+it's fun and entertaining way to get
+into the ecosystem and start being a
+part of the
+of the um
+let's put away um a getaway to fun with
+the ability to earn so that that's what
+uh we saw as a as a as a as a certain
+benefit you know for the platform itself
+because i mean right now we live in a
+society where uh people are players we
+live in uh you know with the grown-ups
+that want to you know still continue
+be on the play mode and that's uh that's
+a perfect way to do so and that that
+could be one of the getaways for a
+forever skills ecosystem you know like
+to um to join something uh something
+well to create a different way a passage
+to create a different passage into the
+industry
+and uh that also gives us ability and uh
+possibility to work with the audiences
+that have
+will
+create massive more massive adoption of
+crypto tools because right now i guess
+it's one of the
+um in order to start talking serious you
+first of you first to have to get the
+chance to play and emotionally wise you
+know it gives you an opportunity of not
+losing much so that's also you know a
+more
+emotionally simplified way to getting
+into the more important and serious
+business
+so um that's uh that was one of our
+personal proposals to become and a part
+of the ecosystem that would create
+entertaining and content wise and then
+the second part also a simple and more
+um well a way to distribute content to
+work with with the developers that's um
+um well everscale has you know a number
+of tools that simplifies work for
+developers so that could be another
+marketplace for for content that is
+developed using your tools
+um second yeah i guess the content
+distribution as well
+we have a very loyal personal community
+right now and then with your help we can
+also enlarge it so by bringing benefits
+to both each other
+okay
+excellent
+that's a lot of information thank you
+very much
+well that makes sense now
+very cool i wonder how many people are
+going to go check it out now learn more
+and maybe kind of
+create their own games too
+let's see what does it do that that's
+the plan because right now it's the
+platform itself that represents the
+games and where we're moving with it is
+the ability to actually personalize it
+and create game rooms
+very cool
+yeah thank you elena thank you very much
+thank you thank you from the gamepad bot
+team too thank you for coming on the
+call
+uh does anybody have any questions for
+the team
+i don't see anything popping up
+perhaps not well it was very clear so
+uh maybe they'll ping you in the chats
+if somebody comes up with something
+but i think um that's pretty much all
+for our very quick call today um unless
+anybody wants to jump in
+then i think we're done
+thank you for joining this week and stay
+tuned for
+updates from easy pay and our chinese
+community and much more next week have a
+great week everybody bye bye
+bye
+[Laughter]
+know
+you

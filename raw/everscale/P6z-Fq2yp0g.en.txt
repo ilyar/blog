@@ -1,0 +1,2125 @@
+to be honest i've been saying it that
+bloody long oh come on
+come on
+hi there
+hello alex how are we
+ben i know you still watch frozen that's
+your saturday night thing
+oops i guess it's deadpool i think
+deadpool because it's a barbara
+streisand song originally i'm pretty
+sure i don't know this is very random
+yeah
+maybe maybe i'm confused but it's not
+exactly
+relevant to the uh the everscale weekly
+uh meetup so i'll scratch my chin on my
+own time and texture
+relevant everything's relevant
+everything's relevant let's see people
+are still coming in demetrius here
+actually on camera wow
+wow hey there here he comes to save the
+day
+hello our mighty mouse is here
+uh alex you're on mute
+are you talking to us
+alex
+maybe he's talking to somebody else
+i'm only with you oh okay
+oh you're muted we had no idea what
+you're talking about
+oh well
+so
+give a bit more time for people to
+filter in
+we had a bit of an issue with why why am
+i the host now
+you're cool i don't know
+roman trusts you more than us
+think so i'll john i will just transfer
+it to you
+okey dokey
+thanks
+okay
+do we have everybody um
+alexander is here okay
+i think we could start
+so
+hi everybody and welcome to weekly meet
+number 101 it's uh 101
+dangerously good times
+you know what i did there so thanks for
+joining us and we have some really great
+presentations today all lined up from
+royal cats to virtual vips
+and the best place to launch your
+everscale project
+and much more i also have a note from mr
+milo he would like everyone to know that
+the first batch of initial member
+reports
+that he mentioned last week and the week
+prior will be going to a vote on everdao
+today
+to determine if their tokens will be
+unlocked
+so if you want to go check it out uh go
+to everdao.net and i'm not sure if the
+reports are exactly up yet but you can
+expect about at least 10 minimum of 10 i
+believe
+um and if they're not up yet then i'm
+sure that we'll be sending out some
+messages in the chats and telegram and
+discord um and update everybody
+so you can go check it out once it is up
+so
+that's not quite yet according to yeah
+refresh so
+hang tight everyone okay well it should
+be up today
+looking forward to that
+so without further ado uh we'll kick off
+the first topic with the man the myth
+the legendary mr media
+with the tech updates
+yeah don't have much actually we kind of
+rolling as i said
+they upgrade to the network slowly
+and
+there are some
+[Music]
+kind of
+complicated
+stuff bottom line
+but safety first
+so
+very very gradual update
+still
+um
+like
+about
+eighty percent of our validators have
+been upgraded
+um i've seen some issues we have fixed
+some issues so
+that's um going on once we're
+certain it's okay
+at this thing we are going to
+slowly reduce it
+hopefully like
+maybe even today
+but not certain to select a group of
+validators
+because there is a there is as i said
+there is a big um
+like probability that the network will
+hold halt if we
+just release the upgrade because it
+takes
+sometimes about half an hour 40 minutes
+for a network to kind of
+repair the database so if we just go and
+release it everyone will start doing
+this and
+the network will stall for some time so
+we don't want to do that obviously so
+kind of
+that's that's complication of stuff
+so yeah apart from that
+apart from that we are very busy on
+ramp
+and
+it's already in
+in basically it's kind of in high load
+testing now
+and
+it has also
+sdk
+kind of integration phase currently to
+production
+which
+will take until uh may 10th something
+like that and uh we hope that
+like on the week of may 10th
+um we're going to
+kind of try to push ramp
+maybe towards like 15 we'll try to push
+them into devnet see how that goes
+and
+from there you know whatever time
+requires for everyone to adapt to but up
+their applications because
+they will have
+a few statuses new statuses that they
+can
+you know fit their application with they
+can decide based on the statuses if they
+want to wait
+until
+kind of
+the final finality or they are okay with
+just letting
+um the first status which basically
+means like there are several statuses
+and for some applications actually the
+first one will be enough like uh if it's
+accepted by ramp
+you can just you know close the
+application basically
+some applications may say okay it's fine
+and for that for other applications you
+may wait until it will be included in
+the block
+once it's included in the block it's
+almost certain like with a very high
+probability like nine nine point some
+nines
+um that
+this message will be executed in in
+in the following blocks if not in this
+one
+and um but of course there are some
+applications like when you're like
+transferring huge amount of money or if
+you if you
+have uh you know several transactions in
+the chain then
+you know
+like depends on what the chain of
+transactions are
+um
+you may wait until you know the final
+confirmation of the final transaction
+not necessarily because sometimes you
+if the contracts that are transacting
+are only the user contracts and you can
+predict that they will be okay because
+you know that
+from the first message external message
+if the first external message is
+delivered then the rest of the messages
+will be will be delivered for sure and
+if you're certain that your smart
+contract will execute them then you
+don't need to wait
+so a lot of decisions to be made on the
+on the kind of user side of things
+uh the developer side of things and we
+will allow some time for that but yeah
+but right now okay as i said the ramp is
+our priority
+currently for the next like big network
+upgrade
+thanks
+er ivan do you have a question yeah evan
+has his hand raised
+yeah i do uh so basically
+no that that's not my question actually
+uh there is a question but
+yeah there is a question by community
+member
+[Music]
+so the question is uh what is a
+there are a few questions actually so
+the first is um
+uh
+what what is the status of a new
+consensus
+because this community member thinks
+that new consensus is much more
+important than the ramp and he
+like uh
+his opinion is that we don't need trump
+we need new consensus first but but
+basically can you elaborate on new
+consensus thing and uh how how soon can
+we uh like expect it to to come to
+devnet at least and and what is which is
+most most important will there be
+some some document with more like
+in-depth description of new consensus uh
+because we see that in a white paper
+that there is some high-level
+description of consensus but will there
+be a technical like specification or or
+something
+okay i will start from the beginning
+then first of all the sun token is
+trading at 2.83
+but tdl is kind of 86 000. so i think
+the the you need to increase the tvl
+before before you ask a question how
+soon
+that's i because i cannot you know i
+cannot trade on the token with such a
+low liquidity
+we need we need more of this
+so i can i can make better predictions
+on how soon something will be there
+so that's that's um about how soon
+for the priority on the series on a
+serious note yeah on the serious note
+for some for the priorities
+all right so uh first of all
+um
+there are different people who work on
+ramp in the consensus that's one thing
+second the fear second thing is that
+one is not less important than the other
+i mean i understand there is an opinion
+that something is more important than
+the other
+but um it's not and
+but again it doesn't matter even if it
+would i couldn't make it faster
+just by adding more people it doesn't
+work like that really
+so um the new consensus is in progress
+it it's
+it has a
+it has a kind of working
+prototype
+um
+there is a technical documentation about
+the about this which is not released yet
+i mean it's released but not publicly
+the technical specifications of the new
+consensus and uh
+i don't think it will be released before
+the middle uh like of may
+uh that's what i think now
+now um but
+this is because we worked on the
+specification the specification not so
+much a description i mean we have a
+description already
+but rather
+kind of we
+like made an effort and this is a um
+pavel andre lassien and some other guys
+from proven the team
+and now there is actually continuous
+research
+we added additional mathematician to to
+that we're counting
+all sorts of
+probabilities around this i mean you
+understand it's a probabilistic
+consensus so you cannot prove or
+disprove completely like something
+because there is it's not the
+probability of one um
+so well you can claim that and i can i
+can claim that every consensus network
+concerns protocol is probabilistic but
+uh you know it it depends on how you
+view the probability and of what
+but
+if you say that bfc concerns the
+probability of one or the network stalls
+then in
+our
+protocol is not
+though
+the difference between one
+and
+some number which is very close to one
+in terms of real application is
+so indistinguishable
+from the security standpoint that it
+doesn't matter
+but we have to be sure how close is this
+to one and what are the kind of all
+sorts of variables that can be that can
+be
+uh accounted in so will there be
+any formal proof for this epsilon
+probability
+there is no proof for probability there
+is a count you can count the probability
+that then then you can kind of
+uh
+you know
+say that you didn't count correctly so
+that's why we wanted to be sure that we
+count correctly
+right and that's why we have some
+math behind this
+now and behind things that
+are even behind things that are kind of
+obvious if you think about them like if
+you think about them logically just a
+logical
+uh conclusion would be
+that it's you know good enough
+but
+sometimes we don't want to be
+uh relying on just logic so we want some
+more formal methods
+and uh you know of counting these things
+including probabilities so
+yeah so basically
+a lot of math
+work went into consensus still going uh
+as we speak
+for last
+you know four or five months
+and we are very pleased with the results
+we believe
+if we didn't believe before we did but
+uh you know now we even more
+believing that this consensus is really
+great it's uh it's really great
+and uh and then
+there are some things that need to be
+tuned in implementation level because
+this there is there are it's not just
+okay we're created we're like okay we we
+invented new consensus that's not enough
+because this concerns can be just bad
+you know you can invest consensus which
+is not
+and we have this in practice a lot as
+you know
+flying around in this blockchain world
+where everyone is creating new consensus
+not necessarily every consensus is good
+enough look at
+cardano
+for example right
+so no no slander here please yeah okay
+okay
+yeah great consensus i mean formally
+proved or aborts formally proof
+consensus just take more than 30 seconds
+to finalize
+so yeah we have a great consensus
+formally approved which is absolutely
+unusable oh yeah i mean one of the
+important things about this consensus
+practicality of it and and of course the
+practicality is measured by finality
+block times
+all sorts of things like that
+and um
+now we're working on improving the
+finality even further uh because one
+thing is to say okay
+you know some there is a theoretical
+construct okay we send a message here
+and there and that's okay i mean it's
+okay from the standpoint of the safety
+maybe but maybe it's not okay from the
+standpoint of actual practical financial
+analysis so
+to to
+to kind of decrease the finality
+uh sometimes requires some additional
+tricks on top and that's kind of what
+we're doing so anyway
+it's it's a work in progress
+um we cannot speed it up
+we cannot speed it up it will be when it
+will be um
+okay cool just just was interested in in
+the current status so you described it
+well thank you
+and uh
+and uh there is uh one one more question
+as well uh also from community uh i
+already maybe know the answer but but
+but we need like the some public
+elaboration on that uh about the status
+of drive changing
+drive chain we started to develop it so
+we're currently constructing well we
+kind of had a research where there is
+our great alina uh who's a research
+engineer in
+cryptography
+and she
+she she did the implementation of um
+bls signatures for the new consensus
+this work is finished um it's already
+delivered it's in the node already
+so it's integrated actually the node now
+can accept and and verify bls signatures
+so by the way this is of course part of
+the consensus implementation and it's
+already delivered
+um so she now moved to work chain uh
+about a month ago and she's doing the
+modeling now
+first she did the research on the
+consensus on the on the drive chain that
+you know
+i have uh you know the design and now
+she she
+verified the design did some research on
+the design
+of the different uh you know
+storage mechanisms
+he kind of finalized the the basically
+conceptual design with all the
+security
+like models guarantees and so on and now
+now she's she's doing modeling in python
+so there will be a drive chain
+implementation on titan first where we
+can like that was exactly like we did
+with consensus we have a model of design
+for consensus algorithm actually in
+python so now we will have the drive
+chain implementation button and uh from
+that point we will just uh you know once
+we tested everything and uh
+yeah and so on then we will just move it
+to rust
+does it include the networking glare or
+is it just a local model no no it's
+local model it doesn't need to include
+it has some variables like delays and
+the load backflows so you can emulate
+the network but it's just an emulator
+but but it's it's uh it's important kind
+of for for all sorts of uh things yeah
+sure sure everything starts with
+modeling okay thank you thank you for
+answers
+maybe let's let's proceed i think we
+should uh move on though because we have
+other presentations to take care of and
+we want to make sure that we can squeeze
+them in too but michael thank you very
+much you mentioned that you didn't have
+that much of an update to do but it
+sounds like
+may is going to be a really good month
+for every scale and there's a lot
+of interesting things coming up
+thank you and michael please please hold
+please hold early questions because we
+have um some really good presentations
+coming up
+we want to make sure that we could fit
+everybody in
+sorry about that
+um
+so next up on the agenda is something
+really cool
+and i wanna i wanna oh come on it is
+it it's test day we're testing here
+we're trialling something a little bit
+new so okay well
+so for all you cool cats and kittens out
+there
+we're gonna hear it from
+our own benjamin bateman and bull bash
+are gonna head off claw to claw and they
+hacked up a
+nice big hairy
+juicy interview for you all
+well yeah i mean uh as you say but ball
+bash is kind of the the go between he
+he's referring to himself as uh as my
+interviewee's agent uh in his own words
+um so as you say before i actually um
+get get to the interview in a bit of a
+video uh presentation because we
+recorded the interview this morning
+ahead of time
+for time and brevity and showmanship you
+know me
+um but yes i do have this uh this um
+yeah
+this copy i've been given by his agent
+to read before i play the video so bear
+with me
+can you show your screen i will do in a
+second the video will come after the
+introduction to the video i've been
+given very specific instructions here
+my interview is um a very peculiar
+individual so uh
+hear ye hear ye
+spartacus launches into the blockchain
+of history
+we told you to prepare for glory and now
+the time has arrived
+under the guidance of king meowdis the
+spartacats per token generation event is
+here
+curious cats amongst you will be
+intrigued to dig up the details of the
+tokenomics of spartacats and the uh
+exciting 300 nft legion launch sorry i
+messed up that line sorry king leaders
+um but yes king meowtis has sworn the
+sacred oaths of spartacus honor to be
+transparent open source and receptive to
+the voices of his 300 and everyone in
+this
+the area of sparta
+so to get involved with the puerto
+pincel and stake your claim in the
+spills of sparta head over to everstart
+on the sixth of the 5th 22 or forever
+remain in the mud with the nuts
+that was very dramatic wasn't it that's
+a very good copy okay so uh if we just
+bear with me for two seconds let's try
+and share a screen and make sure we
+share the
+[Music]
+full screen that i do apologize folks i
+am a little bit older than i look then i
+come across sometimes and i have
+recently tried to get into the old mac
+thing so
+you have to bear with me there we go
+yeah yeah i found the buttons
+that's all this windows to mac it's
+confusing but right here we go good job
+grandpa
+thank you thank you very much enjoy
+if it plays uh if not
+that's an epic video
+ah joanne had lived for me for two
+seconds that's a wrong bloody video i am
+an old grandparent i told you this was
+going to be experimental
+right
+finder
+bear with me folks
+oh
+i hope he's coming back
+he forgot his depends i guess for
+grandpa
+come back ben
+let's see
+i'm gonna ping him if he's having any
+issues
+right uh i don't apologize i'm having
+issues but it's purely just me not
+knowing how to use a mac as well as i've
+known windows like i say i've been very
+uh windows loyal my whole life but so
+let's do it i'm gonna play the shorter
+version of the video and then if i can
+find the slightly longer version with
+the video at the start and i'll play
+that at the end for brevity here so uh
+right screen share one more time for you
+i don't know we don't want to control
+that scripture
+optimized for video clip yay
+right can you all say that can you can
+you say
+yes i could see but it looks the same as
+last time yes that's what i'm saying i'm
+being an old man i can't find the uh the
+the longer version but this is the
+shorter one
+i guess without any further ado
+welcome king meowidus uh your honor your
+grace
+how are you
+hi hello
+okay so i guess we'll get started
+quickly um
+first of all i would like to uh ask uh
+why why why is it you've decided that
+now is the right time for well
+for you the right moment in time for you
+to make your own arrival
+because
+today's the day
+that that's very digging yesterday
+is definitely uh the day okay so um well
+what do you say to uh
+those kind of naysayers out there uh in
+in the industry or outside the industry
+who are saying that nfts and blockchain
+are bad for the environment
+oh
+i say
+piss off
+okay that's very direct i like your
+style
+on to our next question then um how will
+the uh the legion of the 300 the 300
+sparta cats be selected or chosen
+is that a real question
+a spartacus not chosen
+they choose themselves
+they stretch their back out long stretch
+their legs far and claw and scratch away
+until they claim what is rightfully
+theirs
+[Music]
+right i should have your head man child
+name coin is a crowd of glory and there
+are champions and legend it's not meant
+to be the circus of mockery that he that
+mr mosque has
+oh let's created ahead touch yourself
+take it you're not a fan of uh evon
+king you mean
+that's a bit harsh i mean
+he's not that bad is he
+you support him
+well no
+but i mean
+you know
+sorry
+i do apologize if i've offended you um
+i guess we'll probably wrap things up
+there and i'm very excited to see your
+project and thank you very much for uh
+for speaking to me today uh king meowed
+us um yeah looking forward to uh
+yes prepare for glory thank you very
+much
+have a good day
+bye
+oh
+oh hello
+well that was interesting how did you
+manage to get that ominous cat guy on a
+on a zoom call uh it was um yeah like i
+say i i was uh having oh there we go my
+mic is uh the ball bash was playing uh
+the the kind of agents to uh the the
+very mysterious and um
+slightly aloof as you can tell uh king
+meowdis uh i don't think he likes me
+much to be honest but uh obviously he
+likes everscale so yeah i mean great
+that's all that matters right and there
+there is actually a uh a bit more of a
+slightly professional a proper promo
+video which i'll find out now for you
+while we do the other presentation and
+we can close on that as a lovely little
+uh kind of close thing how's that sound
+joe okay that's that's meowsing yeah
+housing
+do you do you have any links to share is
+there anything that uh
+you know like follow a twitter account
+yeah if you're in the telegram there has
+just been a big post gone out uh via
+everscale news which has all the links
+um like i say the main uh thing to watch
+really is uh ever starts will be the
+token generation event on the 6th of may
+so very fitting uh right ahead of the
+anniversary and everything yeah oh and
+oh hey how's that for a sec
+oh speaking of the anniversary that's
+the next topic
+as you know let the cat out
+we need some cats there oh i think i
+think spartacats is actually going to be
+there right i think so
+yeah cool may 7th may 7th it's the
+second year anniversary of every scale
+so you cannot miss it don't miss it and
+now you can show off your swagger and
+claim a vip table
+showcase your project and things like
+that for yourself it's up to you
+and we have data here who's going to
+share some
+really cool updates to the
+our ever space in mona
+so what you can do what your project can
+do
+and claiming that table so data do you
+want to
+show off
+the new editions yeah of course um i
+have uh some uh work to do if um
+there is um
+much to do but uh we have already
+something to show sorry my cat doing
+weird stuff i have a sparta cat at home
+so she she's trying to
+respond
+yeah so uh yeah yeah if you want to
+to buy a space uh to buy a frame in the
+ever bar you can just buy this you can
+click on that frame and you will be
+redirected to
+the grand bazaar and actually i
+i
+give you a chance to make a bid and
+take this place for uh
+just uh
+a hundred or ever
+and
+about vip tables i will i will show you
+that in a second
+but sorry it's a little bit laggy as
+always yeah
+so here we are
+uh yeah as you can see there is a lot of
+tables and uh if you want to
+take it to to
+have a chance to
+have an avatar like vitalik here you can
+just buy uh just click at the
+um
+screen with us data
+it's only coming up very small in your
+background on youtube ah
+yeah of course
+uh one second
+[Music]
+i think he's
+it's a little bit too weird with uh my
+uh program ah no yes yeah maybe like
+that if it's a big hassle don't worry
+too much i was just thinking it's only
+taking up oh there we go
+yeah like that okay
+so uh as you can see you can click on
+any card uh on reservation cap and you
+can reserve it at uh grand bazaar also
+uh place a bid uh for now just uh
+300 error but
+it will depend on on what people want
+and
+for now i have just this table but i
+will continue to
+to work and
+update the bar
+and uh
+i think there is uh
+almost uh
+20 tables or something like that and i i
+can show you a great example of what can
+be
+if you take a table with a
+canvas with a frame at the
+back
+sorry
+so there is an
+example of my uh
+for presentation of my project this is
+uh metamodern times it's a sitcom series
+uh
+serial that will uh
+be in french english and uh russian uh
+for now it's just existing uh there is
+just two episodes uh in french it's not
+uh uh it's not done yet but uh you can
+see uh those first uh those
+avatars
+from the
+from the series
+and
+when when the
+when the serial will be available i will
+make a button here and everyone will be
+able to
+to see
+this this sitcom
+and uh yeah so for every
+you know this is not active yet but i
+used um
+sorry i can't i can't find a
+word to explain but um
+this week i will try to to work hard and
+make
+all those tables be available on a grand
+bazaar and also for
+for drinks
+there is a
+bartender on every
+every bar and i will be
+to be licked also to the grand bazaar
+that's perfect that's great thank you
+very much is that keanu reeves at your
+table you kind of look like him
+you know it's it's one of my alter ego
+when you work in the metaverse you you
+you
+you just have uh
+much much many uh alter egos so this is
+uh
+this is uh the one who work with uh
+with the
+premiere pro and all that kind of stuff
+this one it's me it's just to to make
+the show
+and this one this one is used to to talk
+politics and the business he is i see
+him with like having conversation it's
+pretty funny yeah i love it i love it
+let's make sure to share all the links
+for this so people can jump in clean
+tables get wall space and so on links to
+grand bazaar links to uh the mona space
+this is great
+thank you
+thank you and sorry for my english uh
+no that's great i think everybody
+understands
+i i didn't really
+uh yeah is there any hardware
+requirements to join
+just uh
+a piece of a
+[Music]
+modern cart i think uh with something
+that
+is not too too old i think
+if it's
+five years old that's fine
+but if it six or seven i think it will
+be uh more luggage uh than me right now
+and uh for me it's lucky because i have
+zoom because and all that stuff at the
+same time in my avatar in real time
+so i guess
+it will not be
+too laggy i can i will um
+uh drop the lynch on zoom
+yeah like i think you're asking a lot of
+zoom to be honest to play back in uh
+full frame i think he's also using obs
+as well
+yeah i'm using
+yeah i'm using another uh uh another
+program um that call it polypop it's uh
+it's more advanced than
+obs it's
+it's adapted for a 3d
+interactive
+stuff
+but but to being but to join the party
+you only need just a regular
+pc or a mac and a browser internet you
+don't need uh special anything
+you can do
+okay
+yeah just uh
+actually on a
+macbook air is working perfectly yeah so
+uh
+it's a moana just off this okay is mono
+compatible with um objects and stuff
+made with blender or is it a specialized
+software
+uh yeah it's compatible with blend bear
+it's complete money it's
+built on top of
+unity and unity works uh great with a
+blender
+three days of school day thank you very
+much bud
+it was perfect thank you for sharing it
+um
+i think we'll move on to the next one if
+you want to stop sharing your screen
+yeah
+right
+so the next presentation we have is the
+ever start launch pad
+if you're active in community chats uh
+then you're well aware that everstart
+launchpad has already helped
+catapult two successful projects so far
+and i think raised over 15 million ever
+i believe which is great and we have
+alexandra here
+yeah
+danny cameron yeah i hear you and she'll
+share some further news and information
+so if you're ready alexandra floyd yes
+great thank you for the opportunity to
+present our start on the meetup so
+what is every start ever start is a
+decentralized launch part based on our
+scale how does it work for example the
+project wants to launch its token on
+everstart
+so there was a queue token sale on the
+platform the project puts tokens for
+sale and indicates the currency for
+which this tokens will be sold in this
+case for example cubes were sold forever
+the project also indicates the minimum
+required amount to start a project it's
+soft cap for example if the project
+didn't
+collect
+the minimum
+necessary minimum to launch a project
+the project will not be launched on
+every start there is also a hard cap
+it's the maximum amount of money raised
+so for example if the hard cap is
+exceeded then some of the money is
+returned to a participant proportionally
+they receive cube for a percentage
+percentage of the amount that
+participates in the launch pad
+several teams are working on a restart
+uh so ever kids is just one of the teams
+every kid is engaged in communication
+with the community for example now i'm
+presenting uh do you ever start social
+also we work with social networks and
+partially we work with design
+uh
+front end and so on there are also teams
+that develop products not only in a
+scale but also in now or in our networks
+they're just for example creating smart
+contracts looking for projects that will
+be large at large part and so on
+the project is completely decentralized
+and works on open source smart contacts
+you can find a link to the github on the
+website
+on every step website and important for
+example if uh even if payment uh is
+accepted in one specific specified
+currency so as i said before uh if you
+want to get q you have to pay in ever
+but it doesn't work like that members
+can make a deposit from any rich
+supported network transfer over the
+bridge and exchange for a desired token
+takes place without your users
+participations so you can deposit any
+token supported by a bridge
+and flag keep exchange
+and
+i think that it's very convenient
+and now let's talk about updates
+awaiting us in the near future now
+projects can raise funds not only in
+ever but also in any deep dip three
+tokens
+also
+amen talking
+with game have five elements will be
+launched at the launch pad you can find
+information on our advocate diagram chat
+telegram channel and so on also on our
+twitter and everstat will launch its own
+talking with a
+deflation deflationary economic model
+with the help of a token it will be
+possible to obtain a guaranteed
+allocation for your deposit even if your
+hard cap
+has been exceeded tokens that were paid
+for receiving guaranteed allocation will
+be burned so after each token launchpad
+it will become less and less
+so i guess that's all for a start if you
+have any question
+i will be glad to answer them thank you
+okay does anybody have any questions for
+alexandra
+i haven't seen any um maybe there will
+be some at the end of the call
+just goes to show what a nice clear
+presentation he was
+yeah
+so i guess if you're working on a cool
+project and you'd like a nice boost and
+some support ping the everstart team and
+is there a telegram chat or some
+community
+you can you can find uh
+also i can uh for example use
+you know youtube chat uh i will post a
+link so it's ever start chat on
+instagram you can find it and you can
+answer any question there
+okay
+yeah drop drop the links around i'm sure
+people would like to join and ask
+questions check out some more
+information
+thank you very much um the next
+part of our agenda is everscale
+marketing update and today we have a new
+face we have a new face joining us today
+so i'm pleased to introduce alex who's a
+marketing manager for everscale
+oh people's ears are picking up now yeah
+hello hello yeah and in his past life he
+worked at a creative agency and in the
+gaming industry which is really cool so
+i know that a lot of people all over the
+ecosystem have tons of questions about
+marketing
+and so we're very lucky to have alex
+with us today he has also prepared a
+short presentation i believe
+um so welcome to every scale welcome to
+the weekly meet um
+and please meet alex
+yeah thank you joe
+my pleasure to be here and yes if you
+have questions regarding marketing
+should but after i drop some slides into
+this stream if i can
+let me try to share that
+my keynote
+voila can you see something on the
+screen yeah that's good because i'm in
+i'm in a streaming mode cool awesome
+so yeah i've prepared
+a quick update on what's up in every
+scale marketing
+and
+i know that
+typically people love pictures and
+numbers and they try to put both here
+but it's mostly the numbers for this for
+this round
+so yeah but i think it would be
+interesting
+uh
+first of all let's check out what's
+going on on our website on
+everscale.network
+as you can see in terms of traffic we've
+doubled since february which is awesome
+i believe
+uh we've issued some interesting updates
+like a style guide for everscale which
+is helping our marketing efforts with
+projects with key opinion leaders with
+everyone else we've integrated our blog
+onto the website with the widget and we
+made an awesome run page which is
+helping
+projects to look for our for definite
+alliance grants and
+by numbers
+most of people came to our website
+directly or type in instagram and google
+second was pr links and
+our socials event
+and as for socials as for shows we've
+currently changed the way we're working
+on our twitter
+instead of being you know like posting
+posting daily we keep posting daily but
+we also
+how to say engaging with elon musk and
+other popular popular popular twitter
+accounts elon musk is a joke for sure
+but we're engaging with like elon musk
+of the crypto
+world
+by commenting their posts by reacting to
+them and that helped us to
+grow the number of impressions as you
+can see on the chart
+next
+social prs
+for prs our idea is to
+do a kind of big blast to tier one or
+tier two media
+at least two times per month or ideally
+every week that's our approach that we
+have taken in order to
+increase the visibility of every scale
+and this is actually what we're doing
+you can see some examples here
+we've
+advertised our
+grant program trying to attract even
+more developers and scouts into it
+now we're running an awesome contest
+with trading you i guess everyone knows
+that what trading view is it's a
+charting platform plus kind of social
+networking for investors
+and we are doing a cool cooperation with
+them
+contests for everyone can win some
+tokens and the premium subscription to
+trading queue
+and last but not least i think everyone
+has seen already the fantastic article
+about our network on coin telegraph if
+not
+just google it it can be easily found or
+just look at it on the concealed website
+it's a comprehensive report about what's
+going on on everscale and how superior
+it
+to everything in crypto world
+that's a kind of key blast that we've
+been up to for the past
+couple of months which which i'm here
+uh
+and for the
+next for the future we've prepared
+something as well
+first of all we worked really hard on
+defining
+how actually how we actually bring uh
+everscale how to make it popular how to
+make it famous
+and we define the strategy like which is
+quite comprehensive i don't want to go
+into into this in very high level of
+detail because you can see it's kind of
+huge and this is just the part of the
+file
+but the idea here is
+that we need to perfectly understand
+who our audiences are starting from
+consumers ending up with
+investors and institutional clients
+which are what are their needs and which
+measures messages we need to shoot and
+in which channels and that's the work
+that we've
+900 completed i would say almost
+complete
+and
+we start working quite aggressively on
+this framework uh
+specifically
+in terms of upcoming screens with
+marketing swings who are thinking about
+a big pr article
+into one media's
+in all tier one videos i will say about
+the progress that the network has made
+on its roadmap and the progress is
+amazing i think it's
+really this subject is worth the
+uh i don't know five to ten publications
+next we're starting our twitter ads
+finally it took us some time to like to
+sort out all you know financial issues
+but we're ready
+to go to the open open twitter
+see
+and attract even more people to our to
+our communities to our website to our
+projects
+for sure
+and finally we're now testing not why
+not yet testing the waters but we're
+preparing to test the waters with
+influencers
+which i think everyone understands how
+important it is to engage with proper
+influencers on youtube and twitter and
+we are building
+our plans as per our strategy yeah i
+think that's
+yeah that's more or less
+it in
+brief they're probably overall there are
+many things going on in marketing i
+don't try to put everything here because
+there are much
+job and there is a huge underwater part
+of the iceberg in preparing and
+rearranging thing in hiring people who
+can help us with twitter i mean there
+are many things going on but this is
+something you can see on the top of this
+iceberg and uh
+trust me the top of this iceberg will be
+growing growing like hell in the
+following couple of months
+that's fantastic thank you it's very
+very interesting um you've shared some
+great insights here and i'd love to see
+some analytics next time to learn more
+about how people like discover us a bit
+of what the high level what you've shown
+before you know who they are what works
+best and why it's something that we've
+we've never done before you know we used
+to do absolutely zero tracking
+um but
+we've come to learn that things like
+this are very important for improvement
+and growth um
+studying what you've done how it works
+why it works and things like that
+so thank you very much just throw is the
+hand job we are not tracking too much
+for sure or not no no i know but it's
+not our business we're just tracking our
+links and we're not collecting and any
+yeah
+you know data we just see some google
+analytics dashboards and that that's
+what we see
+but for sure we try to to analyze you
+know which which media works for us best
+which blogger can work for us best or
+which you know this this level of
+details not individual level for sure
+it's all okay
+yeah anyone would with their you know
+farming activities for sure not no no
+it's it's not in our policy so but yeah
+uh in terms of media selection uh it's a
+very interesting subject so from what we
+see is that uh as as
+as we do more you know prs then
+we can see that it really helps us to
+build the proper traffic people are
+really interested to see what's going on
+and they're getting to our website to
+learn more they browse different pages
+that's why the website is very important
+and it will be it will be progressing
+it's not a kind of static thing it will
+be developing that's obviously what i
+can see
+and on twitter i think numbers are
+speaking for itself the more we talk to
+people the less we sit in our old small
+aquarium the more we'll go outreach talk
+to people about what ever skill is about
+what our talking is and what to do with
+it the more the more we grow so that's
+it's our way we go out
+and we hope that the world will welcome
+us
+and
+for now i can see only positive things
+have started as you see the numbers are
+growing and consumer feedback is quite
+cool and i see some raised hands on the
+chat and then the chat
+should
+yeah
+obviously
+sort of a leading question i kind of
+know what your answer may be but just
+just for uh
+the hippies the punks out there that are
+the people and kind of on the anarchist
+side
+this conversation between you two then
+obviously
+it sounds very corporate yeah we're very
+very traditional business very marketing
+very you know
+do you guys think and i mean the date
+goes to yourself as well i'm joking from
+kind of this world um do you think that
+this kind of approach has you know uh
+a place in the in the crypto anarchist
+world
+uh
+yes it's it's about having some
+structure we need some things to be able
+to jump off of and learn you know so we
+know we're going in the right direction
+so i i think it's good
+what i would say but it's a it's a valid
+point i would think it will not i know
+what you mean actually it doesn't i mean
+it's a very interesting this thing
+never went to life because we were
+discussing with ben how we how would
+talk is ever scared what is our tone of
+voice what is our kind of personality
+and we can kind of not argue not argue
+but we came to nothing and that's the
+discussion that i just shouted
+a lot i think and you're and i think
+you're right and i'm right also it's a
+kind of decentralized work but i mean it
+definitely depends on audiences because
+because the beauty the beauty of our i'm
+not talking business the beauty of our
+environment the beauty of ecosystem that
+we're talking with very very different
+people we're talking with you know young
+guys who are just entering the the the
+crypto the blockchain point there is one
+language for them and then we're talking
+maybe some whales some midwest or some
+serious guys and or in the jackets and
+there is another thing and it also not
+ah maybe like this
+they have a jacket a formal one
+my color isn't starched enough i don't
+think
+okay bother us but there are other guys
+say i mean so we need to kind of we need
+to be kind of
+not a chameleon but we definitely need
+to adapt adapt to situations and direct
+accordingly we don't want to be stuck in
+some kind of formal language for sure
+it's not our way we're adaptive and
+decentralized in what we do and that's
+our dna
+if i can say that in that formal
+marketing corporate language which you
+hate but i'm a corporate marketer sorry
+for that i can't i cannot get rid of it
+you're slowly bringing me away and
+bringing me around the way of thinking
+in small parts i think we'll always
+disagree a little bit but yeah you are
+bringing me around so thank you it's a
+scene test like if we put it together it
+will boom
+sure
+i think that's a good way to put it ivan
+you have a question
+yeah
+there is a small one
+recently i sent you around two
+tables with twitter influencers with uh
+prices etc etc and uh just wondering how
+do they perform maybe you had the chance
+to test them
+yeah easy answer well
+for influencers as i have i've made a
+slide for that but anyway uh influencers
+we are
+just playing
+for influencers
+for
+like for twitter the easy the low
+hanging fruit for us is just normal ads
+like what like what solana does what
+polka dot does just normal ads for
+influencers we are collecting inputs i
+think we i have collected inputs from
+different people and from agencies even
+like i don't know how many these tables
+have maybe 10
+and we put everything together
+right we look with we're not just taking
+influencers as bulk right we're not
+not not it's not our way we're not
+buying in bulk we're not
+becoming people pushing them to do this
+it's not our way we're hand-picking
+we're hand-picking the guys
+the influencers which we want to work
+with right that share that are sharing
+our approach
+that are sharing our
+language or whatever like what what
+what's been saying about that
+uh and and then after we're done it's a
+complicated process and because there's
+also a financial side of it because so
+most of these influences are not in the
+position like the work
+because they love every scale so much
+unfortunately not yet i hope it will
+come but for now it's all about
+money thing that he didn't think so we
+need to plan financials also properly so
+your input is very valuable i mean all
+the inputs i receive from smart guys
+like you like ben like joe is very
+valuable it's really helping me is
+helping you know every scale to move on
+because it's not one
+one you know one person work to do all
+marketing it doesn't work this way it's
+many many people working together
+actually i'm just coordinating i'm just
+a coordinator
+so yeah and yeah your input is taken is
+being analyzed
+we're looking at many different inputs
+to set to build a short list and we're
+we're in the process maybe we're too
+very thorough about that but it's our
+way
+we don't want to to make foolish things
+we don't
+want to spend our efforts unwisely
+about it's it's taken no specific
+progress but it's very valuable input
+yeah cool thank you and uh there is
+another question uh about today
+so
+there were uh a blogger who was
+like uh
+who started to to making some videos
+uh just just by own intent his name is
+creepster mac
+i hope you you know it
+i think i'm planning to drink coffee
+with him creepster yes i know the guy we
+were trying to schedule for a coffee
+break sometimes i i just wanna watching
+along on youtube so you're right buddy
+yeah yeah so
+the question was maybe you have seen
+around some other bloggers who already
+made uh videos forever scale do you
+monitor
+the
+the activity which is like out of our so
+i i i'm talking about people who are
+doing uh stuff by their intent and do
+they monitor
+yeah for sure for sure there are some uh
+there are some you know influencers on
+on youtube on twitter also who do talk
+about us natively
+that's
+true we do monitor
+and it's like we
+want
+everything not every single want all
+good bloggers
+to be our ambassadors and we are always
+open for a coffee break for an
+interesting project for whatever
+creative idea i mean that's
+we
+and yeah we do monitor everything
+is that it ivan i think that's that's it
+yeah yeah that's that's not the need
+yeah
+thanks alex that was some pretty
+thorough answers uh i think it was great
+having you on
+the call because there has been a lot of
+everybody's always asking about
+marketing on the calls and it's good to
+have another another face here so you
+can see that there's a lot of people
+behind the scenes and there's a lot of
+stuff for sure for sure now if if anyone
+has a question have a question about
+marketing should
+it's my job to take into account and uh
+of course all inputs of ideas i'm always
+looking for some
+crazy ideas mad ideas stupid ideas
+whatever ideas from from from our
+awesome community
+so they're all
+all comments and ideas are pretty
+welcome and critics also
+that doesn't segue to uh my little final
+benz bits i don't know what does joe
+well we've got the q a first we've got q
+a first and then and then it's your
+bitty bits
+yeah
+i'm a patient man i'm very hot i'll wait
+then i am looking forward to seeing the
+bits he wants to see
+i love i love beats he loves he loves
+bits i think you guys need to have a
+coffee break you guys can set something
+off
+yep so let's say we have any questions
+you love birds
+uh the first one there's one on youtube
+i think it's for misha
+michael if you're still here and still
+with us how long should we wait for flex
+at least hint give me a hint
+if you join the group of the beta
+testers of flex then you're kind of
+getting more idea about when to expect
+it
+and
+basically
+flex is in the there is one last thing
+that we need to
+uh to test add and test that is
+immigration protocol which is
+implemented now and um
+it's uh it's
+integration in integration right now so
+integration and testing then we're
+reducing
+that's it so i don't know exact time
+frames for these things because that
+depends on how many issues we will find
+but you know we are
+we're almost there that there is um
+well it definitely may i mean
+because we're already for five days
+before me so it's definitely may it's
+not june so
+it's my
+it's just time frame is going
+you know
+very soon then that's the answer
+it's me
+not soon it's very soon
+enjoying the better not sooner than may
+not later than may so it's may but then
+soon i mean you could say soon and it
+could be like a year from now like how
+soon is the may
+it's may soon
+yeah as soon as may yeah
+that's a good answer
+and a good tip too join the beta group
+you get a lot of information there
+and there's another question i believe
+it's also for you uh it's about
+uh from elia he says what about
+gosh status uh and i don't understand
+this question really it says i'm check
+ref
+if i
+still not work or not docs
+do you know
+can you
+translate this question
+yeah i can translate this question but
+i'm not commenting on that i mean
+the
+the gosh
+is in progress
+and uh
+you know
+once we feel that the information should
+become public we will
+you know
+publish this information and i will
+comment and right now
+as i told dailyr that um
+there are still some experimental things
+that
+he sees and he tests and thank you very
+much it's incredible like uh
+that you're doing this but it's
+a little bit too soon to test i guess
+what you see at least
+um
+and
+and that's all my comments for now
+okay uh michael you have a question
+yeah thank you
+uh mitchell this one this one's for you
+uh just for the protocol what's up were
+the dark ghouls uh the last time i asked
+to check it was early february
+that they should be on up and running
+and the question that's connected to
+them the rest cap
+rest cap the pools rest cap
+whatever it is because i think that this
+topic is sort of
+not particularly covered
+and i guess that the validators and all
+the participants would like to have a
+pretty good update on what's what what's
+happening and what's coming thank you
+sure not a problem
+um so as i said there are
+there are dark cool smart contracts
+which are ready for quite some some some
+time already like months
+if someone wants to use them
+you're welcome they're published their
+api published everything published
+um
+nobody did
+and so it's it's it's usual thing with
+our community like
+it it's not only that you need to cook
+the meal you also need to kind of put it
+on the plate
+feed someone you know sit someone feed
+someone and you know we don't have time
+for that i mean i don't have time for
+that
+so um so that's about dark well darkpool
+was
+wasn't created for that darko was
+created for something else or kwpc it's
+a kwpc uh smart contracts
+and um
+they have been integrated into the kwpc
+investor flow
+now um and kwpc is waiting for flex to
+start to in order to kick kick the thing
+and um
+so so darkful usage for
+um for the the rust cup thing is is
+again is something that
+i proposed to do as an intermediary
+solution but i i didn't say that i will
+lead that
+process
+um to actually use them using them okay
+so that's one thing
+there for the uh for the
+um the elector itself because that's
+connected
+the lecture is in
+like the vector contracts
+are
+done
+already a month ago
+we're now implementing the node um
+support for this and we have done
+almost everything
+we now we came to the conclusion that
+the best thing to do they know well you
+start testing and then you realize
+something that you can improve something
+that need to improve something
+so we came to the conclusion that we
+need to add a special tvm instruction
+that's the best actual way to to kind of
+implement the connection between the
+node and the and the and the this
+the electric process
+so this instruction is in doing now and
+so once this is finished we we basically
+go to integrate integration testing
+again integration testing uh will start
+sometime in may we we will uh
+we will put it on the network hopefully
+on mate and
+again
+and um you know a lot of things happen
+in the maintenance so it's uh
+probably there is a reason for that but
+i'm not sure
+but anyway on may 10th where we're kind
+of
+hope to see
+this in some network and then after
+testing it will
+find its way to
+uh
+to the
+to the ever scale main net and then you
+can
+do whatever you want for that again
+maybe
+you want to do rust tools
+[Music]
+but and i didn't realize that all the
+current dipoles will be
+closed all the current deals
+should be closed in order to transfer
+the network to the electoral contracts
+so
+that is not an easy thing to do
+not in terms of coordination not in
+terms of security not in terms of like
+it's it's a huge
+kind of
+well upgrade
+so
+this when you talk about huge upgrades
+you never talk about precise timing
+because it's just
+you know just impossible to know
+so is july the best
+i don't know i mean it's uh again
+this is not up to me and i can deliver
+the solution but i cannot speed up
+processes around the delivery of the
+code around the uh testing like formal
+verification for example of the code and
+stuff like that so it's a lot of um
+it's actually my question the good thing
+about that is that the contract itself
+is actually easier
+it's simpler than the depool and elector
+contract it's much simpler than that so
+in that respect it's much easier to
+verify much easier to validate much
+easier to kind of audit and stuff so
+that's why i'm kind of optimistic that
+it won't take too long after we test the
+solution on the integration of the
+network
+but i may be wrong
+you're in a good position
+you're really in a good position because
+you're delivering huge brains
+you're not talking about the clients and
+uh
+nothing depends on you only
+what do you want from me i mean do you
+want not to deliver them like fine i
+mean i can stop i mean
+do you want less
+less huge upgrades
+i don't know i can do that it's easy
+yeah they can predict more i think
+precisely i think i think that's a group
+of people called validators in every
+scale wants to have sort of a road map
+and due to whatever reason
+there is a road map i mean there's a
+road map watching those questions
+i think that i think that's roadmap
+should be published or whatever because
+again
+there is a number of people a group of
+people which are called validators which
+are like you know
+the basis of the network and i think
+that there is some lack of
+communications with that group of people
+and again on voicing that's why we have
+these calls michael that's why we have
+these calls
+to come yeah i know but something like
+everything paper
+i'm here i'm here every week to do
+precisely this no no no on paper what do
+you want me to write on paper soon i
+mean you we have a road map which is
+published by the network
+you know there is a roadmap for you you
+can always refer to this roadmap
+i'm not giving any more roadmaps i mean
+enough this it's a marketing
+blah blah
+because it's um
+the the like
+it's not some you know
+when you when you do the button on the
+website we waited two years for a button
+on the website by the way but when you
+do the button on the website that would
+be easy i mean i could tell you that
+but when we talk about like i just just
+on this call
+just on this call
+uh count on
+fingers how many huge projects
+i just mentioned in terms of like
+structural network products that usually
+take for other networks years to do
+years to do with much larger budget and
+we are way more developers than we have
+and so on i mean how many
+just count
+just in that course there is a number
+but this this this is not the question
+that i'm raising and that that's that's
+not going to be sorry
+i understand
+i think i answered it
+yes
+i answered i answered as the best of my
+ability i mean i i communicate whatever
+i know right i cannot i don't know don't
+ask me what will happen you know
+yesterday
+yeah
+yesterday said that about putin that
+that that his generals are always
+feeding him
+with the wrong information because they
+always saying them what will be because
+they're afraid to say what this is
+right i'm not going to feed you with
+what it will be
+uh okay again
+my point being to create a channel of
+internal communication between the team
+that is working we are on this channel
+right now michael we are on that channel
+yes okay okay
+exactly i'm not trying to hide any
+information michael it's just that there
+is an uncertainty because there are
+complicated technical solutions which
+which delivery is uncertain
+so i cannot be more precise but i
+completely understand that that's all
+you
+i'm very i was very transparent on this
+call i just said exactly the status is
+where we are right now
+and what my predictions currently are
+about where you know how
+approximately what effort is required to
+finish this or that
+but i cannot be more precise than that
+sorry
+okay
+all right evan you've got your hand
+raised
+do you still have a question
+yeah there are another question from
+community it's pretty short uh how was
+the bosch status and uh
+there is a person who was trying to to
+use the brush contracts and he failed
+and uh what what should he do and uh
+because he thinks that that word that
+doesn't work so okay if he's updated
+with status
+what what was what has been done i think
+he already answered this one right
+i did i did but i ivan is is you know is
+this type of person
+where um
+he loves just just this type of
+provocations
+and the the point is that ivan is under
+mda and he cannot talk about gosh
+[Laughter]
+how about that ivan so he
+he like he tries to
+to to make me talk about gosh
+because he is under nda okay i just
+don't know i just don't know what what
+information should i
+kind of talk and well you are
+under nda which means no information
+no information whatsoever
+how the open source solution is feeling
+right now and what factors what's your
+solution feels great as usual it's just
+unbelievably great
+i mean
+when as i said in the beginning when
+there will be time for pr there will be
+a pr right now no comments on gosh
+that's not
+the public if you are i mean you can you
+know you can do and there is a
+repository you can do you can try and if
+for you it doesn't work then
+sorry about that
+yeah that's it that's what i wanted to
+keep
+okay we have one last question before we
+jump into some juicy bits um and i think
+maybe
+alexander could
+maybe you know a bit about this because
+they're asking when open ever foundation
+when is that starting thinking about
+opening ever foundation question mark
+why
+don't open ever foundation
+so asking about the ever foundation the
+foundation that uh
+defy alliance i think
+was
+planning to start um
+alex as
+us
+if you're still there
+do you want to jump in here
+yeah
+i'm not sure i have much to comment on
+the point
+yeah i think yeah i think yeah you're in
+a better position to talk about it i
+know there are plans but not i don't
+know details yeah
+so would you fire lions and well hi
+everybody first of all defy lines and
+nevrex working together to do it's not
+ever but ever scale foundation
+the idea is that uh it would be some
+sort of let's call it the face of the
+project we're obviously decentralized
+community but sometimes we need a face
+for like exchanges and some other
+entities that
+of course like decentralized
+organizations but still need somebody to
+talk to so it's going to be swiss-based
+there is some progress there is a lot of
+legal work that has already been done
+there are some members uh some
+some candidates to join uh to join the
+everscale foundation from the i would
+say active reputable members
+but i would probably stop it there and
+i will present it properly once it's
+launched just before its launch
+but
+i gave you the idea timing wise
+let's give it a couple of more months
+maybe realistically speaking
+so not so soon but relatively soon
+is the answer
+okay that sounds very interesting
+thank you alex
+i hope that answered part of your
+question um
+there was another one that snuck up um
+of kenny's asking if there's any update
+about never stablecoin
+is anybody you can jump in about that
+one
+yeah sure it's a contest going on and
+the work isn't like we're not doing that
+it's it's several other teams doing that
+i think but the work is in progress
+the
+the date is may something i don't
+remember exactly date but there is a
+beginning of may
+the delivery the end of the contest for
+never ever stable coin we are assisting
+whoever came to us and asked for
+assistance on this because
+never is a is a currency collection coin
+so we did
+and we did start in special network
+where currency collection coin is
+presented
+um so people can debug on that network
+uh their solution
+and
+the only team who asked us to do that
+was prevented so we did it and
+they are debugging but if you need
+this network we can you know give you if
+you're working on the solution for this
+contest we can give you access to this
+network to test your solution against
+the currency correction implementation
+[Music]
+cool thank you micha um is there a chat
+group
+any specific telegram group or uh
+defy uh
+sub governance i think okay
+point people that way cool thank you so
+now we can get into the
+juiciness and it's the best way to
+end the call on a good note and reliably
+that's of course with ben and his
+i don't want hr to come after me so you
+know his bits his super duper bits
+we have hatred hey john
+yeah what's he doing here i'm more
+disappointed you didn't write me a poem
+joke i was i was getting quite used to
+run rising a poem every week i know he
+was making me feel special yeah some
+background no i joke i just think he's
+awesome today joe i'm gonna keep this
+really
+really short guys uh just because we're
+running late um
+basically i'm getting a lot of my bits
+from the twitter this week because alex
+has been doing such a good job like
+everything really exciting which has
+been going on is on there so
+just skimming through 76 million dollars
+of tvl on flat cube
+listings exchange listings hot bits and
+there was also sushi swap i've seen this
+morning you can get everyone's sushi
+swap now what what week honestly um
+there's videos about wallets there's all
+sorts of stuff go go on the twitter go
+on the news channel there's loads and
+loads and loads and so much i could
+literally talk for 20 minutes about it
+but there's two things i want to show
+you or talk to you about
+um like i say
+my little
+side of things and in terms of uh
+linking to what alex was saying about um
+the idea of influencer and youtube
+marketing you know it's not all about
+getting outside people to come in and do
+the work you know we're all here we're
+all lovely charismatic people i like to
+think i can talk so
+you know myself and anastasia who works
+with very closely with alex amongst
+others in the overx team um have been
+doing a kind of three times a week
+review of the overall industry news uh
+it's called never mind the rumor mill
+it's all still on the same podcast feed
+but really seriously like if if you've
+not been helping out and checking to
+support it we really do you know it's
+all about beating the algorithms in the
+outset and because it's non
+specific to everscale it has wide appeal
+but also sticks you know what we're
+doing under the faces of the people who
+are interested in what we're doing so
+you know help me help you help
+yourselves and go out there watch it
+like it subscribe it you know there's
+literally i've put this together so
+there's no easier way for you to find
+out all the crypto news that's gone on
+you know three times a week boom
+what more can you ask for come on please
+uh the other thing i wanted to show you
+uh despite pulling on your heart strings
+i found the video about earlier so joe
+if you could just give me a thumbs up uh
+when this appears on the screen
+[Music]
+zoom again i'm doing my old man thing
+but don't bear with me this will be
+worth it folks
+at least you found your teeth today
+right there we go so i'm going to say
+goodbye to everyone because i'm just
+going to leave this to play you all out
+because this is an epic finish to a
+weekly meetup so again thank you very
+much from me joe you've been awesome and
+thank you very much everyone else
+[Applause]
+[Music]
+yes
+[Music]
+wow
+[Music]
+[Applause]
+all right prepare for glory
+thanks ben
+where does it go do you know where the
+thumb drive goes
+hey it got lost up in the atmosphere as
+far as i'm aware i mean um yeah yeah
+we'll have to uh watch and find out
+there may be some sort of scavenger hunt
+maybe theirs yes or something there's
+some clues there right there it was a
+legendary i mean who knows who knows
+yes i really do have to dash so thank
+you very much everyone see you all next
+week later ben
+thanks everybody for joining us today uh
+come join us same time next week same
+day on tuesdays
+for more updates from everscale
+ecosystem if you want to join the call
+or the zoom call
+if you want to present something just
+ping ben or myself

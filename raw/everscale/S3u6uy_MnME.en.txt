@@ -1,0 +1,2170 @@
+[Laughter]
+that was off the record
+oh there we go there was it
+the jedi is back he's got his hood up
+yeah
+happy jedi
+obi-wan is back
+i am i am the fellow of darth vader
+here you know really so you are not the
+only one
+gotcha i'm still waiting for a few more
+folks
+[Music]
+is mita here
+michael's not here hold on uh we need up
+very good there's mita
+uh huh and uh daniel's coming okay
+maureen is obviously here
+so
+yeah we're
+almost ready
+hello
+how are you
+hello
+[Applause]
+and i can't believe you guys are still
+wearing this stuff what is this
+i'm on a ferry at the moment my friends
+so uh here we go
+i don't know if you can see
+heading over to france to meet some uh
+very very exciting people uh working in
+the industry so hopefully i might have
+some good news for you all next week you
+never know touchwood
+hey hey
+all right well
+i think
+i mean people pile in as we go but um
+yeah so
+i'm gonna start so
+hi everybody uh welcome to everscale
+community call number 99
+thank you for joining us uh today we
+have a lot to get through um so i'm not
+gonna waste a lot of time i'm gonna go
+through the call etiquette very quickly
+uh please turn your cameras on uh please
+save your questions until each presenter
+is finished please raise your hand and
+zoom to ask a question and if you're on
+youtube please write your question in
+the comments section we'll get it to get
+to it at the very end of the call
+this was not part of the agenda uh at
+least on on paper uh but i have i'm
+going to start today i have a little bit
+of an announcement to make if you will
+um
+if you recall
+back in
+september
+we passed a proposal called growth phase
+which among many many other things
+locked tokens for global governance
+until the growth phase was to be
+complete and i'm going to quote the
+proposal and say that it said about one
+year so give or take
+uh
+the
+last uh vesta tokens that were received
+by global governance were
+in may of 2021 i believe
+which puts us right
+into
+the
+november time frame for them to be
+unlocked now
+the time has come
+for growth
+phase three
+okay
+uh
+platon
+runs
+one of our most stellar
+analytics and bi teams who have done a
+tremendous amount of research a
+tremendous amount of intel
+on who
+received tokens from the community
+and has come up with
+two proposals
+both of which are going to be voted on
+today
+and
+they're going to be voted on through
+ever doubt
+not by global governance which is a
+major major milestone
+one is for initial members the other is
+for partners so
+the one
+for initial members is essentially going
+to provide a summary
+of what each member has done throughout
+their tenure uh with everscale
+and based on that summary or those
+summaries if you will
+again through ever dow
+we are going to have votes on a weekly
+basis in batches
+the reason for the batches is because
+it's logistically and operationally
+impossible to really do it all at once
+on whose tokens
+should be unlocked once the growth phase
+is complete and i want to underscore
+that once the growth phase is complete
+the other one is for partners
+very similar uh concept but a little
+different in uh
+structure
+here
+each partner uh will be asked well we're
+gonna provide the analytics on each
+partner they already exist but it'll be
+just a little bit more formal uh with a
+chance for each partner to respond
+to those analytics
+and based on that
+every partner that has brought
+significant value to the network has
+done what they said
+uh and uh
+is basically considered to be
+valuable uh for lack of a better term uh
+will of course continue to be supported
+by overscale
+uh those that have not
+will be terminated
+um in the end uh i guess what we're
+doing is we're striving
+to retain
+everybody that has committed themselves
+done the work believes in the ecosystem
+uh believes in the network
+and uh provides value to it those who
+haven't
+they haven't
+uh
+essentially what i'm trying to say i
+guess is uh we heard you
+right
+there's been a lot of chatter and the
+chats
+most certainly a lot of chatter in the
+forums
+some directed to me personally
+happens
+uh again
+we
+heard you
+so the bottom line is the community
+decides
+so
+we're going to decide uh it's not going
+to be easy
+it's not going to be fast
+this is a very very complicated process
+especially when it comes to partners
+because frankly there's just so many of
+them and we owe them
+a thorough analysis we owe them a
+thorough
+uh
+background of everything that we have
+and we also owe them the opportunity to
+respond that's the way business is done
+but in the end
+we're doing it
+starting today
+so
+that's about it
+for
+for me for my announcements uh
+any questions
+i would have figured there'd been a
+million questions but we'll see what
+happens on youtube if we don't have any
+questions i think everybody is just
+shocked wrong by what you said so if
+people are digesting
+okay well digest it um i i don't think
+shocked is the right word i think uh
+most of the community should be pretty
+happy about this positive that's exactly
+what i meant yeah
+this is what what you've been asking for
+and uh we
+respond to what you do
+to what you want because that's uh
+because it's not up to us it's up to you
+so
+hopefully that's good news um but of
+course the work
+will be the work and i can see how much
+work is ahead of us so um anyway
+it's gonna be done and it's gonna be
+done forever now all right uh that's it
+for me let's go to presentations of
+first as always
+technical updates meet her
+please go ahead
+hi
+uh
+uh technical update so we we have um
+like as like i said
+um
+we have like updated the devnet with uh
+with
+like patch which solves the problem with
+the big accounts
+but
+during that update
+we have realized that
+because of some
+bug that was presented
+um long ago and nobody really could
+catch it because it was like an obscure
+branch
+which we never touched
+in code and this
+account
+kind of
+revealed that back i would say
+it wasn't really critical but
+we couldn't
+update because of that
+and um so we had to
+like resync like resync the database
+basically
+um
+okay everything was fixed and everything
+is great
+the only problem is that we cannot
+really re-sync the database like that on
+the main net because it involves too
+much coordination
+so instead of doing this we
+we're preparing the patch now which
+which will basically
+update
+the corrupted
+cells in the database
+by itself
+and that patch
+will go out this week so we're testing
+that and this patch will also introduce
+some other
+interesting stuff that was not
+part of the patch that we have released
+last time
+and that's include the compression which
+a lot of people were asking about so the
+compression is here it will be
+introduced this week uh to the network
+and uh
+you know so yeah so many people have
+asked about that and yeah
+but the incompatibility with c plus plus
+not is already there uh anyway and not
+only about because of compression
+there is an announcement that is going
+to be released today
+about the breaking changes in
+because we introduced several new
+instructions as you know including my
+code that they need
+to the tdm
+that uh subsequently
+leads to a led to the
+changes in account
+structure
+so the tlbs him describing this will be
+released and
+it is a breaking change so in order we
+will we will have like a gracial
+kind of um
+roll out so basically we'll roll out but
+the sdk you need to update the sdk
+to the latest version and the sdk
+version will for some time support both
+accounts
+so you can migrate your applications
+that also breaks
+any other front-end solutions
+that has been introduced
+to the network
+so
+whoever is doing this
+solutions and they know broxas has one
+will need to
+upgrade
+their
+their code
+to support this new account structures
+so new account structure basically
+so um
+and yeah and uh and uh the announce
+about that is going out today and you
+have some time to do that but not a lot
+um before like the capability will be
+turned on
+on the main network and
+in this instructions will kick
+on
+is the only instruction that is not yet
+released that we're planning to is uh is
+um
+copyleft instruction which is very
+important one
+and um we will we're testing that now
+probably will be in the next release
+so this week only that
+and we will turn on compression
+um some other
+smaller things which i don't want to
+mention now and um
+can this instruction set up great and
+breaking changes to the account so
+that's really
+that's really all from me thank you
+any questions
+there is one question meteor from ivan
+yeah i do have one
+uh
+let me just one second
+uh yeah so
+the the question is about uh the
+compression so
+uh
+we know that as for now there are
+certain limits on the gps you know my
+net and we know that compression will
+remove this limits for some extent
+so the question is to what extent so
+what what will be the new limits on tps
+on the mainland
+i don't know about limits on on tps
+there are some mechanisms that are
+preventing you to go over certain
+limits but
+it it was done for the compatibility
+mode and um there is there is
+like the biggest limit is the gas
+limit on the block and the gas limit on
+the block will remain like that for some
+time
+okay so so the compression the
+compression will make it
+no the compression
+does does something right uh of course
+making less traffic by a lot
+uh
+but um but in terms of uh we are not
+optimizing for tps now into you need to
+kind of we are not we don't see the
+necessity for
+right now the speeding up the tps this
+is not our concern our concern right now
+is safely introduce all the changes that
+we need to introduce
+including the new algorithms like ramp
+the new protocols like cramped and new
+algorithms like new consensus algorithm
+so then to make it in the safely fashion
+um on the main net and that take it will
+take some time and before we go through
+that before we are through that we are
+not going to
+again if tomorrow some application real
+application not like some
+spammy contract real application comes
+and says like flex for example we're
+launching flex and suddenly we see 100
+000 people trading like crazy monkeys
+with the automatic cradle algorithms
+blah blah blah and we need 10 000 ktps
+well once it happens
+we will deal with that and maybe
+switching priority right now the
+priority is to
+to
+uh switch to the new protocols that are
+enabling
+the unlimited tps basically
+and with also with the necessary
+security so before we so i hope
+there won't be any
+necessity to
+change that path that we're on right now
+in implementing the roadmap and go and
+start to you know
+suddenly deal with 10 000 tps tomorrow
+but if it happens well we will deal with
+that
+okay thank you
+uh
+a small question about uh your
+expectations on when we are going to
+introduce the ramp and the new consensus
+should we wait for for example middle of
+summer or end of summer or will it be
+faster how do you see
+well ramp isn't testing now internal
+internal dates for release of ramp is
+may
+um but you know
+that is something
+you know if everything just goes kind of
+smooth and we don't see a huge amount of
+bugs uncovering themselves in the next
+two three weeks on the test
+okay so the answer is basically soon
+well what do you want
+longer
+later coin by the way can be
+like the next big idea
+yeah so the there are some reasons why
+i'm asking that i'm not just uh came
+here and asking that because i want to
+ask there are some reasons but yeah we
+are ready to wait
+well again the the ramp is implemented
+it's in testing that's a very
+complicated protocol
+you need to understand ramp is really
+complicated protocol it's the most
+complicated protocol that is in the
+network right now it's more complicated
+than cat chain it's more complicated
+than than consensus it's more
+complicated than anything that has been
+introduced up so far
+so it's a really complicated piece of
+fake way whatever
+and uh and
+and we it's a lot of things
+you know happening
+the bugs that
+certain you know
+implementation issues and stuff like
+that so yeah
+but in the the another problem with rem
+is that ram cannot be introduced
+gradually
+we cannot have both
+old
+external messages can damp
+simultaneously on the same network we
+cannot do that
+so ramp is a switch
+on off kind of switch so once we move to
+ramp there is no
+no kind of well we can roll back of
+course but that's that's all we can and
+we don't obviously want to do that so
+that's that additional kind of
+constraint of how
+well we should test rim before we
+introduce it let's be tested really well
+okay thank you mita very much um we
+actually have uh we have to go to our
+next presenter right away because there
+are some technical issues on on his end
+and uh if we don't hurry up he might get
+cut off so i apologize thank you michael
+very much thank you for your question
+ivan uh next we have uh vlad from
+brock's with us uh he's gonna talk about
+several updates including universal
+bridge uh the latest on cube and yield
+farming so glad you're up yeah hi guys
+so sorry for interrupting but okay
+really there is a whole electricity
+shutdown in all the streets and uh my
+battery will leave maybe for 20 minutes
+then i will have to switch to my cell
+phone uh okay so uh to make a long story
+short so i actually have two updates for
+today um
+so i will show it to you uh now
+uh so first one is uh what uh is called
+the universal bridge so but before doing
+this so um i won't just say that we now
+have a very beautiful landing pages that
+we are proud of so it was a really
+really uh whole process to collect all
+the info and uh test against different
+stakeholders so but finally we have it
+yeah a small
+internal wing i hope you love it
+uh so actually what uh let me tell you
+about the universal bridge because it's
+something really huge
+that was uh
+launched it it doesn't seem to be like
+this but believe me it is really a game
+changer for
+many many businesses
+oh
+what was that sounded like a
+i don't want to say
+yes
+so and uh for all the businesses uh
+that are running cross chain so and um
+what actually it does
+is that uh it allows you to transfer uh
+any token uh
+without whitelisting it in the bridge so
+that's that's easy so you just need to
+import the token and uh
+then you go so you can transfer it to to
+everscale
+and from fsk by the way to other
+networks as well so we do not support
+the hidden bridge for universal breach
+yet meaning that you
+for now cannot uh move talking directly
+from for example ethereum to polygon
+the one that is not quite listed but we
+are working on that so and it will
+appear soon but maybe let me show you
+how it works so uh let's choose any
+chain oh maybe let's do it better so uh
+let's take any token from uh coin market
+cap so anything that's uh on
+the ethereum mainnet on binance marching
+my net so for example this in gene coin
+so copy address
+so as it is on the ethereum so we select
+ethereum here
+yeah so uh i change my network
+done
+uh now i select everscale and put next
+uh
+this it's that's easiest i just need to
+input the token address here you see
+it's automatically dragged the name from
+the token contract and click import so
+that's it now i can try and transfer
+engine token to
+have a scale so it will get here
+having the prefix uh oct meaning the
+octus so it will be like oct uh eng
+enj
+just to distinguish it with the original
+token however the guys are currently
+working on the matching uh
+mechanism meaning that for example if uh
+any business has its tokens already in
+several networks so uh it can contact us
+and say hey guys so here are our
+contracts in different networks and we
+will introduce it matching uh on uh have
+a scale uh letting it easily go through
+the hidden bridge
+uh so i hope it will appear soon
+also uh we will be announcing shortly
+the contest for
+video makers uh on the universal bridge
+explanation uh
+in different languages so just keep a
+track on our social groups and our news
+channels
+uh so it's we will be uh just giving
+away quite quite an amount of bridge
+tokens uh for creating those videos so
+please participate and spread the word
+so the more uh explanatory videos we
+have in different countries in different
+languages the batteries for the whole
+network
+uh and also we have just finished the
+contest for the
+bridge documentation so we decided um to
+run an experiment when we give uh
+the task for running the user
+documentation to the community and the
+hell it's run really well so and
+we are really happy about the results
+and congrats to winners who who already
+i financially got the the
+rewards so and we plan to continue such
+activities uh in future so just again
+keep subscribed to our groups and social
+media
+so the second news is about the uh flat
+cube and it's talking cube so uh all of
+you may have seen that we have
+successfully successfully finished the
+campaign
+uh on
+the everstart launchpad so and we have
+put there uh
+some amount of cube tokens uh to see the
+interest in those tokens and how how the
+community is involved and how they're
+expecting the things we are doing and uh
+well it's run extremely well so we
+uh
+collected five times more than uh it was
+uh
+announced as a hard cap
+and
+of course uh
+we have took only
+the hard cap and then we
+uh ritually burned it uh just to show
+that uh this was a really marketing
+campaign and nothing else it was not in
+token sale or anything of this kind but
+the uh happy we had the participants of
+the launch pad will be getting uh
+the
+the tokens according to the veterans
+so
+i will share with you now the
+few ideas about what cube token is
+because
+many of you have asked this question and
+so uh here's the one pager of
+um
+uh of the cube token so actually uh
+what cube is uh going to
+to introduce on flat cube is a really
+big set of new mechanics that are really
+something uh novel to the market and
+some of them are really
+only getting started to use by by major
+protocols so uh
+i will not stop on on this because these
+are these ones are obvious but i'd
+rather go directly to the
+token distribution schedule so now the
+first emission of cubes is 2 million
+tokens and
+you see there is a distribution of what
+was going on so and to the launch pad it
+was
+only a small amount gone
+and the other part so this is a three
+percent of the total emission which will
+reach 65 million cubes
+uh and uh
+all the rest of the emission will
+gradually uh be released uh in line with
+this curve so starting from the sixth
+month
+so from the date of the cube launch so
+meaning that
+for this six months the emission will
+become will be stable and then uh over
+the period of 48 months so it will be
+gradually released with
+somewhat increased speed
+uh
+the cube
+in q3 we are going to release what we
+can what is called uh
+v cube so um
+i don't remember how it's
+deceived so uh but actually the the the
+thing is very easy uh big cubes will be
+used to
+vote uh
+on the gauche that will be distributing
+the cube uh funds uh for to different
+farms so minions there for example if
+you are going to run a farm with your
+token launched on flat cube
+uh then you can uh go to to the gauche
+and vote for allocating a certain amount
+of cubes so your farm is about so means
+that besides uh your tokens farming so
+you will get also the allocation from
+flat cube as well
+so and this is some somewhat that's a
+proven uh
+proved to be really successful in the
+market and we also wanted to introduce
+it uh at our uh
+tower decks
+uh there will be also such activities
+like whitelisting of other tokens to
+decks using cube like
+different distribution investing
+mechanics like uh
+yield farming boosts for vcu holders and
+farmers for locking liquidity so a lot
+of really interesting things that will
+be going on and uh
+again so keep subscribed
+to our news channels to get
+first to know about uh new things that
+we'll be launching
+um
+yeah uh yeah and the latest now that uh
+now all farms on uh
+that's uh managed by the defy lines and
+flat cube will be uh accruing uh rewards
+and cube tokens so you have may have
+seen already these changes so that's
+pretty so uh
+i think i managed to do this yeah sorry
+at least if you essentially better read
+it
+and it worked really well it was
+concisely quick does anybody have any
+questions for uh vlad before we move on
+yeah so basically it's curve right
+yeah yeah so this is really similar to
+curve and
+so what they are doing but it's not only
+curved because
+our guys
+constantly monitoring different defy
+protocols what they are doing if there
+are anything that we believe will be
+successful uh we also
+see how we can implement this uh in flat
+cube and also think about
+our own unique features
+okay thank you
+no more no more questions if not thank
+you very much in this case i will switch
+to my cell phone and yeah yeah it will
+disconnect for a while
+sure thing man thank you that was
+excellent excellent stuff excellent
+stuff um
+all right uh
+next up we have another ever scale grant
+winner uh we have daniel from
+identicspace uh he's here with us
+identics and i'm reading this is a learn
+to earn quest games creator for web 3
+onboarding so
+i'm going to let daniel tell you uh the
+rest but sounds very interesting daniel
+if you're ready you're up
+yeah thank you ron do you hear me well i
+didn't test my sound
+and camera yeah you're good
+okay
+um okay so we are new kids on the blog
+and we're not so serious as you all guys
+we are about games
+and gamification so my name is daniel
+daniel neviskov and i'm the product
+manager of the identity space quest
+platform and uh first i'll tell you some
+few words about the project itself and
+then i'll show you some screens and some
+working versions of the product
+so um
+you all know of course that crypto and
+web 3 are still very complex concepts
+for most people for crypto native people
+for noobs as we call them and each of us
+at the same time has an experience of
+explaining what is what free and what is
+crypt and why it's so cool
+uh for me personally uh back to 2017
+when i first was introduced to crypto
+world uh uh it took about three months
+to understand what it's all about and
+why it is at all working and why it is
+so cool
+and uh so it's kind of a down the rabbit
+hole thing
+and
+one of uh similar to our project is is
+named rabbit hole by the way they also
+do some quiz games to onboard new users
+to web3
+so uh
+a team of old friends uh in uh december
+2021 um i got together about this idea
+of web 3 educational quest education
+in general uh how to onboard the next to
+one million new users
+and uh this team uh
+consisted of alexey varabe stephan
+uh uh many of you know them i
+guess pinchuk and vladimir kanin our
+founder founders they realized that what
+three
+in itself is a game
+and we all played this game for um for
+some time
+to understand the all the all the ways
+around
+it
+and if it's a game why not
+we built accept this idea and build a
+game uh to onboard
+to web3
+and the first uh first version uh was uh
+around the text based games one of our
+elders senior developers recalled that
+there was some text quizzes uh
+some time ago and
+they do still exist by the way
+and we
+invented a way to explain uh
+difficult things uh in them in a matter
+of a quiz wizard or a quest game
+within the telegram bot
+which gives you simple tasks explains
+step by step what you must do to have
+this
+hands-on experience
+without
+being
+exposed to very difficult blockchain
+crypto things just to make some at least
+one transaction set up at least one
+wallet understand
+not the whole thing but i
+understand that seed is a very important
+thing it must save it somewhere in very
+safe place
+so we uh
+made the first version quest bot
+on telegram i'll show you the link
+and uh already around 300 persons uh
+passed this quest and then we made a web
+version of this uh of of the same
+scenario request and um first
+when we thought about what kind of
+project can be uh introduced within this
+uh quest game and polygon came first
+because uh because of speed and and
+price of transactions which is not
+expensive at all
+uh by the way the speeds are not good at
+polygon sometimes it takes
+20 minutes to make
+to make some transactions
+so that our users have to wait
+for some time
+and
+but at least this mvp version of a
+polygon based quest game my internet
+connection is unstable do you hear me
+well
+okay yeah we hear you yeah we hear you
+great
+thank you uh so we we made this first
+version of web uh webquest and the
+telegram blog quest and uh that's when
+we understood all these game design
+gamification things and sequence of
+steps and rewards things and levels and
+dead ends of course for users and
+time
+to
+not to lose a user when he started
+at some tasks and
+steps and we found our voice and the
+narrative
+and the whole story by the way
+we have a mascot it's a female bot uh we
+call we call her identics uh i'll share
+i'll show you
+with your picture
+of her
+and she helps she's a guide she helps
+the user to pass
+all the steps in within quest line
+and um well we learned how to create
+accounts in secure web3 model uh we'll
+learn swat swapping one talking versus
+another and helping user to do this
+explaining with some screenshots and or
+sometimes sometimes even screencasts uh
+how to do this uh we check transactions
+on polygon scan and track what
+transaction the user uh account made to
+help him or her uh to go further
+with the steps
+and um
+oh well
+uh
+one of the first steps of course is
+installing the wallet in our case with
+polygonquest it was a metamask wallet
+and we need to switch it from method to
+polygon and without explaining the user
+what he is to do because it's too
+difficult for our crypto naive users to
+get the idea of networks and blockchains
+and different blockchains etc
+and we give
+them our users players the idea of how
+money comes in and what is the
+transaction what is that drop and we
+make them to make their first
+transaction with the airdrop tokens to
+get this really hands-on experience
+of uh money comes in from the end money
+goes into the air and someone receives
+it and there is something else happens
+after uh afterwards
+and everything is uh tracked and
+everything
+nothing is lost
+uh
+so we're trying to be as clear uh not as
+me myself or right now because i'm i'm
+i'm a bit
+nervous about explaining those game
+scenes but we try to be more clear than
+me
+and uh in march we launched the first
+version
+uh so i i already told that 300 people
+uh passed their first quest
+um
+we understand that community is
+the most important thing and our
+community is growing uh
+organically naturally you know we don't
+buy traffic
+because we think that
+incremental natural organic growth is
+more important
+and reliably stable than incentivized
+one
+especially consisted of bounty hunters
+that came and go
+users do not pay anything for passing
+the quest our initial business model
+includes funding from web 3 projects and
+blockchain platforms who need new users
+or explaining to their existing users
+difficult things and who need of course
+the community community growth so our
+most valuable asset is community and
+therefore we launch the
+uh twitter and medium and telegram and
+discord of course and all the links i'll
+share them with you
+we do not have talking native token yet
+but we plan to issue uh one right after
+the our community grows significantly
+and uh we've got
+uh we get this product market feed
+and the quests for polygon are ready to
+use and right now uh we
+at the end of march we received the
+grant from defy alliance to develop
+quest for ever scale products and there
+will be quest for setting up a evo
+wallet uh sending the receiving
+transaction swapping tokens at flat cube
+and sending bridge to transaction a
+bridge transaction from
+with the help of actus bridge and
+staking and farming tokens will be um
+also uh
+presented to users in the forum quest as
+well
+uh also our solution will use a
+self-sovereign identity model identics
+fast
+quest providers will issue verifiable
+credentials for quest users to prove
+their skills and reputation
+and identics bus will be used to get
+bonuses and their drops in future quests
+as well
+so this is about all i wanted to tell
+you about the project itself and now i
+can share with you some screens
+also share with your video with a
+very
+high speed video on how a user can spend
+uh can can pass a
+a quest
+if you allow me maybe some
+one or two minutes run yes yes yes
+absolutely i think that's i think that's
+what we want yeah absolutely great
+so i share my screen
+and uh
+this is it
+you see
+yes we do ah great
+so uh this is our website
+space learn to earn quest games for web
+free space onboarding
+[Music]
+and
+this is the version of everscale quest
+you see there uh
+this is a quest map with ever wallet
+installation quest
+uh
+with connecting the wallet to additive
+space to track the user to help him uh
+and wallet deploy and transfer to ever
+maybe this step will be a
+change to another one and then we swap
+and then we
+make some bridge
+quest as
+well so this is our team
+uh
+now the internet is not very good but at
+least i hope you hear me and see so it's
+alex
+and i promised you to show a high-speed
+version of passing the text so there
+will be some music i hope it won't
+it will not
+[Music]
+uh it the sound went away
+sound disappeared
+uh we can't hear you daniel
+[Music]
+there you are now you're back now you're
+back okay i think that the sound of
+music
+[Music]
+website
+[Music]
+maybe maybe better just to
+remove the sound because
+daniel we can't hear you daniel
+[Music]
+it's it's listen it's a great attempt um
+but we can hear the music and then we
+can hear you somewhere down a dark
+tunnel saying something
+there's a train that's coming
+completely that was the idea
+it's okay sorry
+you're doing fine i switched off the
+music
+and you see that i'm already swapping
+a
+short explanation instruction and uh
+airdrop was already made the user has
+him
+in his uh
+her wallet some matics received and now
+we ask him or her to swap it from matic
+to use the t
+explaining at every step what is going
+on
+and then in the next step we'll ask him
+or her to send the usdt to our address
+back to receive twice as much
+as he
+her ascent to get this idea of sending
+it to a talking to someone
+well at the end the user
+is getting a lot of experience a lot of
+xp and some real use dts
+up to 2 usdt for the moment because we
+are paying our our proper funds uh
+polygon did not pay for that
+yet i hope so
+and
+well that's it that's about it
+listen i mean you know i i understand
+the the the showmanship and you know
+wanting to show the video and everything
+else but i think you know the people on
+this call pretty much get it um that's
+uh that's a very very important and
+amazing thing especially for onboarding
+exactly something that can uh
+can just make it simple for the average
+user which is phenomenal
+absolutely phenomenal
+absolutely i can see why you got the
+grants congratulations by the way thank
+you
+yep um so does anybody have money with
+you yes please please please you can
+even while we're here you can even uh
+drop it in the uh zoom chat and i'll put
+it into youtube so everybody can see it
+there and it'll it'll roll on i
+appreciate it daniel thank you so very
+much excellent work keep up the good
+work um
+does anybody have any questions for
+daniel
+nope
+okay
+uh let's
+i can't hear you
+run your mutes
+oh my god i'm unbeaten i'm sorry
+where did i lose everybody uh i
+apologize happens he said let's
+let's okay let's move to
+let's move to marina uh marina is back
+with us from i.t gold uh she's gonna
+talk about uh something about creating
+degenerative collections
+on grand bazaar hope i got that right
+the generation right right something
+like that ron thank you thank you hello
+everyone great to hear to see you again
+i'm sorry i'm sorry can you uh daniel
+can you stop sharing your screen please
+yes i'm trying to do this
+okay
+sorry marina go ahead
+oh yeah okay
+um guys some of you may remember the
+contest the nft collection distributed
+generative art contest
+um uh some time ago
+and um
+a lot of
+teams took part in this contest and um
+the product i want to present today is
+basically the result of collaboration of
+i.t gold and one of the
+winners the third place of this contest
+so bubble team
+and
+as you may probably know
+itigold has grand bazaar marketplace and
+this service i'm attacking today i hope
+will help numerous creators to provide
+their own
+uh generative
+collections which they had been probably
+planning for a long time but did not
+maybe understand how to implement
+because it's
+a bit challenging
+and it can definitely
+this service i mean
+it can definitely make the process
+easier while still staying a bit
+challenging i should say for an average
+user as for my taste but however now i'm
+making a detailed video
+which i hope will remove most of the
+questions at least for those who are
+already in the blockchain and especially
+have any idea
+of what generative thought is and
+besides
+we've created the technical support team
+in telegram
+sorry group in telegram and the link to
+which i will now ask ron to post for our
+youtube audience yep happy to do it here
+is it in chat
+uh so for those who are
+who will hurry to test the service we
+can immediately contact the developers
+and ask their questions if they face any
+trouble because i suppose
+it should be we are just launching and
+there can be some technical issues or i
+don't know maybe some misunderstandings
+let's look on the website i will show
+i will show it to you because it
+uh i should say it's not so scary as it
+sounds maybe here is it so bubble dot io
+please welcome
+and as you see
+the sign in button leads us straightly
+to authorization
+um
+page and here we have
+three well-known applications for
+authorization i will use my other space
+sorry guys
+i have to
+sorry that myself to show you something
+oh come on
+now well my phone
+has
+put me
+okay
+well
+here we go
+well
+here is it i suppose here soon we will
+be able to see a lot of
+collections uh successfully uploaded to
+grand bazaar but no nothing is here
+please welcome
+uh i will show you how to create the
+collection uh the process is easy to
+understand easy enough to understand and
+we can see that there are uh three types
+of collections you can
+create with grant bazaar support without
+it or
+just using the image generator please
+read the details while you'll be
+sorry
+read the details just to understand what
+you are doing i will no
+i will not um
+i will not uh give a lot of details
+right now just to show you the process
+because it's
+easy enough
+uh well
+my favorite renoir is here
+well
+you can see that here we can set up the
+limit or rarities
+for different
+pieces for example
+i don't know
+like that and create new rarity of
+like rare let it be
+with 30
+pieces and something like legendary
+you can use anything you like of course
+that's your image imagination legging
+and gender re okay
+five
+something like that
+uh and uh here is the percentage of the
+royal team for the creator let's set up
+ten percent it's
+commonly used thing
+here we have some interesting parameters
+we can also set for our collection it
+can be anything because you know it
+depends on your idea on on the
+idea of the collection it can be numbers
+switches files and um different i don't
+know for example
+uh
+[Music]
+something like that
+oh
+sorry my graphics
+and you can set the storage location
+like in blockchain and image generator
+everywhere
+for
+them
+does not like my name
+okay and we can set
+um
+for example different variants of the i
+i've already tested it so i have this
+here
+and
+it can be trousers i don't know hats
+clothes any any kind of clothing any
+kind of font
+or any parameters you should you'd like
+to change in your on your images
+well for example
+uh due to some technical
+here we can see that uh collection
+just
+was created
+and
+still not uploaded to the blockchain we
+can
+uh sorry i will
+now go
+to the
+uh video i have
+done because
+i i hope it will be better
+than
+previous one because i also if i'm also
+afraid of this
+you know sound issues but any in any
+case
+here you can see that we've got um a
+collection with the
+blockchain address which we can after
+the transaction is confirmed the address
+uh appears and you can check it in the
+blockchain
+oh come on here is it
+sorry for the russian browser in any
+case you can see the details and so on
+and then um we can go straightly to the
+to generating the images itself
+and here are some layers which with the
+parameters we've said before and this
+image these layers can be adjusted by
+clicking on this gear icon
+and
+that is the challenging part because
+maybe for some
+[Music]
+people who
+for an average user who never done it
+before it may seems a little bit
+complicated but in any case you can see
+that you can set up the
+rarity
+the
+which indicates how often
+this or that image can appear
+and
+[Music]
+determine all the parameters all the
+things
+here you can see that
+drag and drop
+instruments are here so it's easy enough
+well
+now uh you can see that this collection
+contains uh the images of the warriors
+they have different hats and weapon and
+you can set up all the things
+let's go to the deployment itself
+when everything is done
+we just
+sorry let's see how it is
+how it is done
+and we can say if we will put all
+possible
+uh it will generate all the items
+at the same time then we save and upload
+and here here is it
+we can
+the collection has been successfully
+created and we can observe it
+several different
+um
+images appeared with different rarities
+with different parameters we've said
+before and
+now we can put it on on ground bazaar
+and see it on the ground bazaar
+well something like that
+let me show
+so you are doing confirming the
+transactions
+using your wallet
+here is it
+you can put it on sale
+right from the
+so bubble service
+and it appears on the ground bazaar
+successfully
+so well yeah that is basically the idea
+i hope you like it because i
+personally
+waited for
+a long time for
+some service which can help to create
+such kind of collections
+well so please use your imagination dear
+creators welcome
+we are waiting for you
+and also join
+the
+[Music]
+join the support group if you will face
+any problems and you will definitely
+facing please
+try ask
+we are waiting for you
+wonderful
+marina thank you very much for that was
+it was that it
+yes that is and thank you anyone any
+questions yeah yeah questions please
+anyone does anyone have questions for
+marina
+interesting stuff
+i see people entering the group so
+i believe there will be more
+welcome guys happy to see you please use
+the service it's funny and creative
+it is very creative i see i see the
+question is
+from from
+bible
+maybe it's not mine no no it's not i
+can't it's like i feel like
+well okay
+oh well
+um
+in any time guys your questions are
+welcome in our group so
+please
+okay five once you've figured out your
+microphone um marina's here she's not
+going anywhere um i have a
+a little bit of a uh
+interjection to make right when uh
+we were presenting there's something
+that's coming in that i think needs to
+just be stated there's there's gonna be
+an announcement in the chats but um
+uh the everscale dovetools and sdk team
+uh wants everybody to know and i'm gonna
+i'm gonna have to read this because it
+just came up um
+we're ready to enable the new tvm
+instructions in everscale main net
+uh this update will lead to a breaking
+change
+in account format which may cause your
+nodes to stop working
+to avoid these problems you need to
+update your dap servers and validator
+nodes to the latest version uh dap
+server uh version
+equal or greater than 0.1.5
+validate validator node the latest
+master commit at the moment we support
+both account format versions in public
+api and in dap server api so that
+applications can smoothly migrate to the
+new account version to do it just update
+sdk to the latest version
+greater than or equal to 1.31.0
+uh if you work with api directly enable
+the new http header we encourage you to
+do this asap because we will support
+both account formats only temporarily
+um and uh i dropped those and i dropped
+that link
+into uh youtube so uh please uh guys pay
+attention uh and again there will be an
+announcement coming soon uh throughout
+all the chats so i was asked to do that
+uh
+right off the bat again uh marina thank
+you let's uh
+go to our final segment of the day uh
+where is he where's that boat you still
+have an internet connection there
+just about buddy just about all right so
+so i got a lovely video as well yeah i
+got to do my thing right so uh this week
+it's uh the king of coin banter
+the motor tongue blockchain troubadour
+ben
+smith
+oh that that was short and sweet i like
+that one buddy right i'm gonna keep this
+very very quick in case my internet does
+dip out so uh first one i've got for you
+tons of scanners become ever scanned if
+you haven't seen yes brilliant
+a very very cool gentleman called tez
+mac has been doing some very very cool
+uh videos all about the excellent work
+we're doing here at ever so please go go
+support the guy honestly it's really
+good content easy he's quite a
+well-known dude as well
+uh scale wallets ever wallace has become
+scale wallets yeah and surf now supports
+tokens or whatever yay
+ever is having an air drop for people
+using octus bridge check out the details
+uh the fire cube poker poker tournament
+has kicked off so you would have seen
+the presentation last week but let's go
+in so yay
+uh aml ama i've got wrote down here
+which sounds quite cool on its own but
+there was a very cool ama uh session
+with aml who are a uh
+a team who've come through the grants
+program with a very very uh interesting
+product maybe a little bit kind of
+corporate and but definitely very needed
+in this world
+uh boosted staking program has offered
+double incentives for those taking part
+so do check this out if you're honest
+and this one i really liked 30
+plus teams from the t-zos hackathon and
+have basically stated their intents want
+to keep on working on ever following
+from the uh hackathon so that is
+exciting stuff really isn't it 30 new
+development teams who are thinking about
+making the move
+come over come to us
+uh evelens have uh released some nfts
+for people who invested in their token
+sale i believe so that's quite nice of
+them uh ever jews another grants program
+have gone through have opened up their
+alpha testing so again if you're uh able
+to help them test what they're building
+please do
+so
+the jews d-u-e-s
+yeah nothing to do with um hebrewism
+that would be an interesting thing
+but yeah finally um as some of you may
+have seen uh last wednesday i kicked off
+a little spin-off show
+kind of sides thing for never mind the
+ coins called never mind the rumor
+coins called never mind the rumor
+mill uh so basically every monday
+wednesday and friday uh myself and
+anastasia who a lot of you may know are
+basically just going to scan the markets
+troll the latest gossip columns and give
+you the most probably unconfirmed news
+you can find
+and the last one went out last night
+it's only on spotify for now because
+ youtube are being buggers to me
+youtube are being buggers to me
+but i'll sort it out and it should be on
+youtube soon and that's my bits thank
+you very much everyone hope you like the
+view
+i'm jealous i love that view right now
+not quite the view i have but uh we'll
+leave that for another time uh
+thank you ben thank you very much okay
+uh
+who has questions on zoom
+going once going twice
+all right we do have questions from
+youtube and we do have questions that
+were written in let's um
+i'm going to start last first because uh
+somebody's asking questions for marina
+uh what are the games that will use
+grand bazaar i think that's from marina
+what are the games what games they're
+going to use grand bazaar i
+i don't um
+if i get it right
+we are
+uh definitely supporting um
+a new game five project for wars it will
+start it will be launched on ethereum
+network and its collection of nfts will
+be displayed on ground bazaar and will
+be
+through our launchpad
+um
+page special page special web page and
+uh definitely
+you will be able to buy
+but not using of course everscale
+wallets but
+you will need
+metamask or something like that so
+no games
+on everscale except rustcop
+which is well known and had a contest
+with the new cars
+for the new collection of cars
+recently
+no games are
+used
+or displayed on grand bazaar so maybe
+you should rephrase your question
+somehow
+yeah i guess there's a little bit of
+vague maybe maybe it's about the
+launchpad way webpage because
+i will definitely do another
+presentation about that and i
+soon will held i suppose on thursday i
+will hold
+um
+a small ammo
+session where the bull wars
+on grand bazaar
+discord server i suppose so yes if you
+need any information just come to our
+telegram groups ask your questions we
+will answer everything i suppose like
+that yeah it's the easiest way thank you
+uh also i just uh just for future
+reference on this uh uh
+the the term ama
+is often not understood by western
+english-speaking folks it's it's just
+ama
+sorry i know is that no no that's okay i
+i know i i run into it all the time and
+when people hear it in a conversation
+they hear amma they don't understand
+what is that yeah yeah ama uh ask me an
+anime yeah right
+okay marina thank you very much um if if
+you
+uh whoever you were uh you have an
+update to your question to make it more
+specific i'd be happy to answer it let's
+also go to
+a couple so let's start with questions
+that were written in to us and i have
+five of them in a row
+uh the first is any news on when the
+dune and everscale next batch will be
+sent out uh i
+wrote the question to the group uh
+before the call began and here's the
+answer that it got
+uh the last batch was sent out on march
+23rd
+so
+it's
+theoretically uh expected that it would
+probably go out about the same time in
+april
+uh however uh it might uh take
+longer so
+give or take i don't want to use the
+word soon uh give or take we're looking
+maybe
+somewhere between
+april 20th and may 17th
+but
+the goal is end of april i hope that
+answers that question um
+right uh
+i'm gonna go from question one directly
+to question five question five is what
+are the plans for the second annual
+anniversary
+uh right so there are actually a few
+uh
+there's one
+being hosted in bali
+uh indonesia uh i personally am not
+gonna be able to attend that but there's
+a major global thing that's being
+uh
+created uh joanne should i should i say
+something or should i not should i keep
+it secret or should i no no it's not a
+secret it's not a secret it's actually
+out in uh the community the community
+chat there's been an invite um i sent it
+out twice so
+i can do a reminder today but we're
+doing a metaverse party in in meta and
+no no mona yeah that's the space the
+platform we're using is mona and we're
+setting up a really cool environment
+inside it that's going to be the ever
+scale space that's being designed right
+now there's a bar there's a dance floor
+there's multiple levels there's a club
+and music and it's going to be really
+cool
+so i sound kind of crappy
+i'm getting over cold
+well we'll will we be able to
+take some
+digital adult beverages here yes that's
+the plan that's exactly what it is and
+it and i've seen it and it's actually
+really cool
+it's it's for the it's absolutely
+perfect for the introverted geek
+yes
+you'll be able to sip whatever you have
+whatever beverage you buy for yourself
+but you'll be able to uh manifest it in
+a in a metaverse so um it's pretty cool
+and and given you know the conditions
+that we're living under and the
+restrictive travel and everything else
+um i think it's the perfect solution i
+think it's gonna be really cool i mean
+obviously you won't be able to hook up
+with anybody but
+well you could but
+right in front of you so there you go so
+you can e-hook up any anywhere by the
+way that's kind of like the trend these
+days you know that right
+especially in asian asian countries
+parts of the world
+so there you go you'll know all about it
+no i don't
+no i don't but i do
+yeah
+um snl skit anyway uh yeah so that's the
+idea it's gonna be an ever scale party
+in a metaverse so that's being worked on
+and um and like i said it looks pretty
+good looks pretty darn good um now i'm
+gonna get i'm gonna sort of batch these
+questions because i think they're coming
+either from the same person or the same
+type of
+i'm gonna i'm gonna
+be nice ron be nice ron be nice ron
+uh the same type of thinking um so the
+first question is when will partners
+return all their tokens um i think we
+covered uh at the beginning of this call
+exactly what we're doing
+the question to me
+is a little juvenile
+i mean
+short of
+taking a gun and putting it to
+somebody's head i don't know what's your
+idea and how to return those tokens is
+there is there a way to do that
+i would say this
+i would say that any organization
+that received tokens
+which they essentially either dumped or
+did nothing with uh to benefit everscale
+has done less damage to everscale than
+they have to their own reputation
+which uh i would encourage anyone
+after we
+pass this
+growth phase three which we're doing
+right now
+uh
+there will be results and those results
+are going to be public so if you have uh
+you know the incentive
+to contact these folks and say hey
+return the money i would only support
+that because that would be the right
+thing to do so i think any company any
+organization who comes and doesn't do
+what they're supposed to do has a
+reputation uh as a as as a business uh
+and that business should worry about
+their reputation more than they should
+about a small amount of tokens in the
+grand scheme of things and the grand
+scheme of
+uh having received whatever it might be
+a couple of hundred thousand tokens or a
+couple of million tokens whatever that
+might be
+that that's chump change in the big
+world and the question would be was it
+worth it and if it wasn't worth it find
+a way to return it because that would do
+wonders for your reputation not
+returning it would
+make you look bad and make your business
+suffer as a result so um but as far as
+how to do that like
+are you asking if there's a way to force
+that to happen
+of course not there's no way to do that
+we're not a company
+we're not a corporation
+we don't sue people and we can't get
+sued as a result because we are a
+decentralized community and as such what
+we do is we correct mistakes so um and
+the same thing goes for your second
+question which is uh when will
+sub-governance return their tokens
+that's actually a good question a few of
+them did uh the
+global community sub-governance returned
+their tokens
+the
+uh indian sub-governance returned their
+tokens which i should have to say that
+should be applauded these people
+understood that this is the right way to
+do that these are people who are
+dedicated to the community and in fact
+rahman if you're listening maybe what we
+should do is put on the forum uh who
+returned their tokens they tried trial
+and error they failed or not even failed
+i i don't like that word they tried it
+didn't work maybe they'll try again but
+what they did do is the right thing and
+they'll return the tokens
+um i think we should highlight
+and underscore uh some of those folks
+because they did
+a wonderful thing uh of course there are
+other sub-governances like wiki
+sub-governances which you know uh 70 of
+them were as we realized later nothing
+more than con artists
+who are never going to return those
+tokens
+what do you suggest we do
+yeah
+start a war
+you know uh so no um we're not gonna get
+those tokens back if they don't want to
+give them back but the reputations are
+forever ruined and anywhere they go on
+the ever scale blockchain to try
+anything
+will immediately uh bring the
+community's uh
+wrath
+upon them and they'll never be able to
+do anything there was a discussion on
+the forum that uh there are many
+sub-governments who has
+tokens on their balances and they do
+nothing uh for the past three months uh
+there was a discussion that just uh
+asked those guys to return tokens on the
+giver
+that's the main discussion yeah yep
+simple as that and if they do that then
+we get them back uh and then the fourth
+question is any news about marketing see
+again
+i understand that some people come to
+the network and they're new and they
+haven't seen all of the this is weekly
+call number 99 there's 98 before this
+and of course i don't expect you to
+watch every one of them but we've
+discussed this many times marketing what
+this is a community blockchain there is
+no marketing team
+that's uh how how will you hold on
+let me finish how will your market
+personal computer
+yeah
+that's a gr that's actually an excellent
+point right how are you going to market
+the personal computer use it
+any news about marketing that question
+actually goes to you
+market
+go we have a like we like to say
+sometimes from a technological
+standpoint we have a decentralized
+supercomputer the centralized backend
+and the one on the techie side on the
+other side we have basically a new way
+to do everything you could do on
+ethereum but better faster cheaper
+market that who are you asking are you
+asking me to do it i'm not a marketing
+person uh
+this is a
+bunch of companies and people that have
+come together if you want to market it
+market it the that question goes to you
+not to
+me or anybody else so i hope you take
+that into account and do some
+wonderful wonderful things with that
+market it it's up to you and as a result
+it'll only benefit you
+okay uh yeah well there is a there is a
+one term in english called shilling
+shilling is uh is about like shilling
+some coins on the twitter etc and uh i
+know a few persons who want to do that
+you are free to go guys
+but that's not marketing that's chilling
+at any rate it's up to you it's what it
+what it comes down to it's up to you the
+tools are there the uh
+access is there you do it all right um
+youtube questions
+right uh
+did the development team and i don't
+know what you mean by team there are
+many many teams on everscale contact
+kraken
+and two
+when
+will you contact kraken and three does
+the team plan to contact kraken
+um
+so
+uh i don't know the answer to that
+question other than i did get a response
+from
+one of our community members and i'm not
+gonna mention his name he left the call
+early but he says kraken sucks
+so
+so that's the response to that uh i
+don't know no um why don't you contact
+kraken i i don't know what uh you expect
+somebody else to do um and i'm not
+saying that cracking sucks i'm
+paraphrasing with somebody or quoting
+rather what somebody else said uh it's a
+hard question to answer i don't know
+contact them if you want to
+uh can i help you a little bit just so
+that you don't have to answer a hundred
+percent of the questions sure sure
+please yes for you to breathe a little
+bit yes
+on the market and i mean first of all i
+think uh folks should watch the amaze
+session where joanne interviewed nikita
+and there were quite a lot of news there
+about you know restructuring twitter
+activity not the chilean but more like
+you know
+professional in the work with
+influencers and et cetera et cetera so
+there was some substance there
+there are a lot of news coming up you
+saw partnership with the maze
+the fire lines is cracking news almost
+every day so it's it's also marketing so
+i wouldn't say
+i would just i would you know i don't
+know joe if you want to say a couple of
+words on on your take from the interview
+with the kitten yeah
+sorry nikita went um
+fully into the whole plan and i was just
+just trying to find all the links um
+because there's also
+a written
+um
+i'm dropping it down here there's the
+youtube version somebody can just watch
+it and then somebody also did a written
+version
+transcribed pretty much of everything
+that we said so if you don't want to
+watch something and you want to skim
+through it there's a lot of information
+there
+it touches point touches the points from
+events to social media to overarching
+marketing there's
+there's an entire plan so there is
+marketing going on but
+also what what
+ron said before because we are a
+decentralized community it also depends
+on you too but there's really easy
+things that you could do to support like
+just being active with the twitter
+account um
+when people post following each other
+liking or commenting or
+you know um there are a lot of accounts
+that
+uh post like what what's your favorite
+favorite uh undervalued coin or what are
+some gems that we should look at you
+know you can talk about ever
+there are a lot of ways to get involved
+going into reddit going into the
+cryptocurrency um in developer
+subreddits
+there's a lot of things that you can
+also do
+yourself
+and that's
+that's pretty much it i'll drop the
+links and then if ron could please put
+that in too oh yeah i put i put that one
+in oh you did i have another one i'll
+find it okay give me give me the other
+one on exchanges as we all remember defy
+alliance took the challenge to on the
+listings i'm hearing that quite a lot
+is going on i know a lot if you're still
+with us
+and can say couple of words or
+you're struggling through this
+connection issues
+i think
+i'm here
+dude you want to see a couple of words
+if you are in the loop on the define
+lines plans on the listings
+um
+actually uh yeah we
+have uh some
+real really good negotiations but i
+cannot discover them now
+so uh just just keep in mind
+so something big is coming
+intriguing is coming
+sorry guys uh i i cannot disclose it now
+because otherwise it all may be ruined
+so
+please
+wait a little while now something good
+good is coming is good that's that's
+good
+we're waiting for lots of big big stuff
+to happen
+okay
+all right um next question
+right
+um oh so a little bit of background um
+on this guy uh nomad um him and i have
+gone back and forth on the forum
+uh so uh his question is i'm not i'm not
+gonna i'm not gonna
+hurt the guy um ron and chuck
+and i'm actually translating
+brought
+uh
+scam projects
+that have
+hurt the network
+do you plan to return the tokens into
+the network
+i think the gentleman is actually
+referring to qan quick app ninja or
+pay2k
+uh question two
+uh why
+aren't the project
+why don't the projects have leaders that
+can bear financial responsibility
+uh projects like the free the the
+everscale academy
+uh
+have something called how to survive in
+the woods
+how to fix computers
+for fifteen hundred dollars and he's
+asking me personally and two other uh
+gentlemen who i'm not gonna name because
+i'm gonna i'm gonna handle this this
+question
+uh how do we uh uh deal with this all
+right so um
+okay
+ron be nice ron be nice ron be nice
+uh
+my first question to you is have you
+ever
+actually i don't know
+ran a company
+if you ever actually ran a project
+have you ever invested in anything
+um
+i guess you can ask bear stearns to
+return your money
+you can ask
+i don't know any project that you've
+ever invested in because you believed in
+it when it was first started and then
+lost money in it i guess you can
+i don't know you could try to sue them
+or something like that
+but
+i have a feeling you don't have
+um
+any experience as an entrepreneur i
+think you're just somebody who probably
+sits at home and just thinks so well
+this is my money and that's fine that's
+fine you're right you're a community
+member and so forth so there is no way
+to do any of the things that you're
+asking um
+you
+clearly see that there are
+a lot of organizations that are part of
+everscale that are very successful
+that have made extremely uh immense
+contributions of them everexes one uh
+vlad here for brock's this is obviously
+i mean you can you can count uh
+dozens of successful projects does that
+mean that if uh somebody brings a
+project
+to the community that doesn't work at a
+time when the network was just an infant
+right i mean
+let's let's consider the network uh
+pre-pubescent at this point a juvenile
+not even a juvenile 12 to 13 year old
+um and the 12 to 13 year old goes around
+and you know
+breaks a window uh throws a baseball
+through
+somebody's through somebody's car window
+does that mean that
+we
+are individually responsible for
+uh you know what what do we do we just
+we just get rid of the child we we just
+what i mean i i don't i don't really
+understand what you're asking for
+who should return the tokens should they
+the partners uh that were bad return the
+tokens yes
+absolutely 100 they should
+how are we going to make them do that
+there's no way to do that
+we can ask them to do it we can uh
+you know
+rely on their
+professionalism but at the end of the
+day
+if their intention was to scam they
+scammed
+so
+i'm having trouble answering the
+question
+on a professional level i can only
+answer it on just a human level which is
+to say that your question is kind of
+stupid excuse my saying so
+um there's no way to do it so
+um and if you want me to take
+responsibility because i supported
+something i'll tell you what i supported
+a million things in my life and only so
+many of them became successful uh so i
+would revert back to you and say how
+many projects have you accomplished
+where you were successful at them and
+how many failures did you have and have
+you answered for any of those failures
+so i'll wait on you to answer that i
+apologize i know it was a little harsh
+but
+maybe somebody else can give their
+version of what they think
+anyone
+i did my best to be diplomatic but
+these questions annoy the hell out of me
+um
+anyone no
+if not
+we are
+done
+uh we did go over hour and a half but i
+warned everybody at the beginning of the
+call that we had a lot of presentations
+we had a lot of information and frankly
+wow what a call how much do we have to
+digest now i know i have to digest a lot
+so
+please have a wonderful rest of your
+week have a wonderful weekend and we
+will see you again on tuesday
+bye everybody

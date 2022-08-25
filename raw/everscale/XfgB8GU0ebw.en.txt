@@ -1,0 +1,1303 @@
+hello guys
+hi guys
+hi everyone
+hello everyone
+okay traditional let's wait for a minute
+okay let's start so welcome everyone in
+our 39th weekly governance call of the
+defy group for the return
+so we have not so many news to discuss
+today but yet they are very very
+important
+so let's start uh
+from the contest update so uh we have
+launched a number of uh good contests
+recently so uh some of you may know
+about this so there is a famous uh
+defy.gov.3.org
+interface where you can find all the
+contests if you didn't didn't know
+actually
+we have uh one contest that had to be
+prolonged due to very low juris
+efficiency so it was a self-sovereign
+identity framework
+uh and i'm really really disappointed
+with it because
+it was
+announced far in advance and there are
+only four works that were submitted to
+this contest uh so
+yeah uh i i really really disappointed
+about jurors
+they didn't pay uh enough attention to
+this and we didn't collect the quorum
+for this
+now the contest is prolonged for a few
+more days to to give a chance to vote to
+those who
+ignored it uh
+at the beginning so i hope that they
+will do their duty
+next
+is the distributed validator oracle
+contest uh that i don't see any
+submission yet so i only received the
+announcement from liven
+that he would like to participate but he
+needs some extra time
+and personally
+i'm i'm really surprised because at
+least i'm i was sure that tom labs team
+will also participate with a not
+implementation
+but
+this morning i discovered they will not
+participate so uh that's very weird for
+me
+uh
+well um it's i can comment i mean we
+obviously didn't have time to do that
+okay we are
+completely overloaded
+uh right now
+with the rust contrast
+with everything
+right okay
+yeah
+this this actually raises the discussion
+again about how many contests device
+upgrades actually can host
+simultaneously because you remember that
+initially we
+were
+delay in some contests to let different
+teams to participate and
+now i feel that we should go back to
+this practice because otherwise there
+are too many events and too few commands
+to a few teams who can participate in
+these contests
+and
+maybe it's not good for
+such a complex area as sd5 to host
+several a big contest simultaneously
+uh
+or need more teams
+yes and
+i i personally in a constant search for
+such teams
+however so
+it's not not easy actually to find ones
+so we are in the discussion for example
+with several lending protocols from from
+ethereum
+to invite them for
+participation in the lending contest or
+even
+simply discuss the transfer of these
+solutions to the free tone natively
+and
+yeah so we have reached such agreement
+only with stable coin protocols for the
+moment but it's the beginning
+yet it's not the the war of one one
+warrior you know so each of us should
+should
+try to attract more more teams here
+because uh
+it will benefit from it
+as a whole please don't don't hesitate
+there are
+enough uh topics enough contests to to
+participate for all of us and uh if you
+have someone who you believe
+is capable enough to deliver certain
+results
+so please invite them here
+we are always welcome
+so speaking about the validator oracle
+contest
+i think we have no other choice than to
+prolong this uh or postpone it for some
+time um
+we will be able to participate uh only
+after us cup finishes which is one month
+so okay like if you
+postpone it if you consider postponing
+that then you know
+something like almost sounds good
+actually uh uh oracle implementation was
+uh crucial for the stablecoin contest uh
+and also for the lending cost contest uh
+lending implementation that's why i
+didn't uh actually post something uh for
+the draft of the linux
+protocol because there is absolutely no
+sense doing this now and um
+yeah so let's discuss uh actually for
+if we should delay this contest and uh
+for what period of time so i i heard two
+opinions now so one from ivan
+who have requested a couple more weeks
+another one from italy now so that it
+should be delayed until august
+uh
+yeah
+let me speak some something yes please
+yes i propose continue oracle contests
+for
+one maybe more months because we need
+a
+good robust oracle for ecosystem from
+frontal website
+but
+about stablecoin and etc i think we can
+launch it and
+people who will who will create solution
+can use chain link
+for speed because a lot of different
+protocols uh
+we're using channeling
+oracles and
+and i think we can use to because uh
+blockchain
+[Music]
+is who has any issues
+okay your internet sucks
+sorry
+switch the video off please because i
+don't hear half of your words
+yeah
+okay in this case uh
+the question is uh how we should connect
+to chain link so uh will be something
+some kind of adapter to chain link from
+ethereum site
+or will be the off chain uh
+parser
+of chain part that will fit the data
+from from ethereum directly to
+freetown sites so what do you think
+i mean finally i see you
+come on turn me on your camera
+i don't hear you all muted
+i'm a bit shy
+or worries
+i'm not the beautiful the most beautiful
+man on the earth too you know so no no
+no reason for shine
+okay so in this case uh let's prolong
+the oracle contest until the uh
+until august
+in this case i hope
+there will be enough time for everyone
+to participate
+um
+yeah so let's continue to the contest
+update uh
+for
+st town uh tip3 implementation there are
+25 days left and
+there is one shitty submission already
+there so let's uh
+remember our famous friend who did this
+in other contests
+uh also uh we have launched the new
+selection for jury uh 1.3 so please uh
+also help me destroying distribution of
+this news to across freetown and outside
+of it because we need some competent
+jurors
+who are willing to
+dedicate their time for assessing the
+works that's submitted to the device of
+governance and what's more important
+there is there is currently
+the proposal uh about the
+amendment to the procedural remarks uh
+which increases actually the reward for
+jurors uh
+to nine percent and for those
+specifically for those jurors who will
+be assessing all submissions in each
+contest they will enjoy also one
+additional percent of the price fund
+that will be distributed amongst our
+jurors so i hope this will help us to to
+motivate
+people more
+and also the
+southern force
+stages of ethereum bridge combined
+so it will be ending
+by end of august so hopefully we will be
+able to finish all the parts as well so
+and
+yeah so that's pretty about the contest
+update
+uh for stablecoin uh contests if i
+remember it well uh
+alexander so he's not with us today
+because he has some internet connection
+problems and uh vladimir uh
+also he's not with us today so they
+already have a good draft of the contest
+so uh
+in this case i will draft
+i will post it for voting uh hopefully
+today uh or maybe tomorrow so uh
+and also
+we will start this contest from from
+monday because
+we have already as you may have heard a
+couple of agreements uh from uh
+defy lines part with two stable coins
+which are frags and stasis
+so
+which agreed uh to migrate
+or raise a fork of the solution on
+friton but it will take also some time
+and uh having also some native uh native
+stable coins is also is also interesting
+and crucial for the free tone consistent
+development
+uh okay so that's it for contest updates
+uh let's move to the discussion of the
+polka dots that has stalled for a while
+so guys are you here yes yes vladislav
+we are here yes please please uh tell us
+a bit more some updates about the
+the destiny of the polkadot bridge so
+what's going on
+sure everyone good time of the day um
+yes we came a long way in the
+development process of the bridge and
+the basic functionality in our opinion
+is done in britain
+it's about time to think about the
+product and
+it was all about it from the beginning
+all the way uh we would like to take now
+a short pause to do the necessary
+research of the current state of the
+polkadot ecosystem
+and
+we thought about the product in general
+all the way um we came up with certain
+criteria of the
+product
+it has to attract new users
+into free tone community that
+consequently will add the liquidity or
+earn opportunity to current users
+main reason um okay
+yeah so
+actually why yes why why and what and
+what's happening now uh the main reason
+uh why we do not have uh
+uh a ready product at the moment let me
+explain a little bit about this the main
+reason is polka dot ecosystem
+uh it did not have the ability to add
+products into it up until uh
+last week's
+just now in the polka dot ecosystem
+parachain auction we launched
+on the canary network kusama at present
+four slots were taken by the products
+and
+no one knew in advance no one knew what
+those products will be
+and that's the reason why we simply did
+not have the opportunity uh before to
+come up with a great product in advance
+but yes
+we have few ideas
+but ideas are not enough we are looking
+into power chain abilities
+and uses interest from the polkadot side
+because it's not only
+it's not only about the idea it's also
+about people's interests and it would be
+great to have a product that would be
+interesting on both sides to polka dot
+users and of course the return users
+uh and because we need to do this
+research uh in a product we ask for this
+short pose if it's possible
+at the moment we estimate this pose as
+about one month this will allow us to
+come up with a valuable proposal to
+flirt on community
+if
+anyone has a good idea in a community of
+such product and it is technically
+possible it's doable on the polka dot
+network
+uh
+feel free to share it with everyone on
+the telegram channel so we can discuss
+the opportunities
+that's where we are standing at the
+moment
+i'm sure
+anyone that have questions or maybe some
+yeah i actually heard that there were
+actually two
+power chains actually auctioned one is
+karura
+from pronounced right another one is uh
+beam
+and
+if i understand it correctly so they
+differ in the implementation of the
+protein itself um but maybe you can
+explain a bit more uh so
+what's um
+what's the difficulty uh from your
+standpoint of integrating uh
+your
+polka dot uh endpoint to one of these
+power chains so is it more about the
+readiness of the ecosystem of these
+power chains at first sight or maybe
+there are some technical difficulties so
+uh
+yeah just give give some some advice
+well it's actually from the both sides a
+little bit from each one uh the polka
+dot what what we are actually doing and
+why we were waiting the first of all of
+course we need to see where the people's
+interests will go because now there are
+four products four slots been taking
+that's the latest news sort of
+and uh
+polkadot doesn't in the beginning the
+technical problem or technical issue i
+would say the polkadot doesn't have the
+smart contracts by design itself
+uh there is an ability to uh become a
+power chain of course but uh because of
+the high rivalry the parachain spots
+cost too much uh we're talking about 32
+33 million dollars
+that's why we have decided to wait for
+the generic products to be launched and
+will give us the necessary ability to
+build our products
+uh based on generic ones
+so
+okay
+okay yes
+that's a piece from one side that we
+uh cannot move on this uh this contest
+because
+of course having a working
+end user product to the polka dots
+would
+be really great for the
+media coverage and for the promoting
+free tonic system but i agree that
+there is no sense in doing the bridge to
+nowhere so
+we actually are doing bridges to help
+liquidity flows and user flows
+and if there is there is nothing on the
+other side so
+no sense to connect to the
+dark hole thankfully thankfully it is
+now so there is a possibility now
+thankfully we have finished the basic
+development by this time so it is i
+think the timing is sort of not perfect
+but very close to we're talking about
+delay of one month which is it's not
+great
+uh but uh sometimes that happens
+at the moment we have everything that
+takes uh for us to come up with a great
+product
+i mean we have a few ideas but
+talking about them now i think it's
+pointless because while we're doing this
+research i'm sure we come up with a few
+more ideas that will be more relative to
+the situation and the situation right
+now is sort of very very hot on a polka
+dot side
+okay
+okay guys do you have some questions to
+to the winter's team
+[Music]
+like i
+like maybe saying it the first time but
+i have kind of dropped off architecture
+of bitcoin bridge and it's relatively
+easy yeah it's
+it's kind of
+the same as in ethereum relay old old
+old contract so it's just based on
+miracle proofs right
+and
+um
+would you participate
+in such a contest if it would be
+proposed or do you have kind of capacity
+um
+can can i clarify the question are you
+talking about will we come up with the
+idea or will we participate in the next
+stage
+uh uh
+are you are you still talking about
+polkadot or is it no no no no no no no
+it isn't bitcoin
+um i'm sure
+at the moment we are not planning to
+participate in anything else but the
+polka dot at this moment at this page
+but uh i'm not so sure but brooks's team
+might be interested in that in the
+future i'm not sure
+brock's team is a silver bullet for
+everything i know
+but i'm not sure if we have capacity
+actually for the moment
+at the moment we do not have the
+necessary capacity to pull up uh the
+both contracts i mean to pull up this
+polka dot
+side it would be great for us to finish
+that off and you know do the great
+product that will be interesting to have
+two of those products at the same time
+um yeah okay yeah you will fail both
+right you will fail
+yeah okay and uh
+yeah same same regarding kind of broke
+system capacity yeah i understand it
+really well
+but anyways
+a draft
+is already here with all the specs in
+the descriptions kind of maybe a bit
+unfinished but community helped me
+polish it
+when it
+comes time so yeah just wanted to let
+you know when kind of guys you're ready
+just ping me and i'll kind of shoot and
+we can move like to bitcoin because
+bitcoin kind of it's really interesting
+to lock
+as collateral kind of
+or not or not maybe i i don't know
+vladislav doesn't make sense to bridge
+with bitcoin
+yes i think that uh the bridge to
+bitcoin the native bridge is
+the available one actually because
+uh
+as you can see and now uh there is
+an opportunity to operate with robbed
+btc on free tone but to do this you
+first need to get this rob btc from
+it's actually double bridging double
+branching yeah yeah i mean direct bridge
+which is of course is of course
+important one but uh again um
+as i told the last time so the main
+problem is not to build the bridge
+itself
+is to find first of all people who will
+build the bridge the reputable guys who
+can uh who will be able to operate it
+and maintain the due security
+of funds
+and uh the second part is of course
+liquidity as you say but uh it will
+follow if you have
+well done solution audited by reputable
+companies so
+someone like opens up in ethereum i
+don't know the names for bitcoin
+unfortunately
+well it's bitcoin core community
+probably yeah
+i just wanted to clarify kind of it
+in this design i may be
+again mistake but in
+this design which i kind of came up with
+it's it it really it doesn't require
+kind of infrastructure because
+um
+you can write smart contracts on bitcoin
+actually it's it's kind of tricky but
+this one
+they call scripts yeah yeah
+and this script which is which i'm
+thinking about is kind of
+it's not really so hard so it just
+locked lock funds and and the
+the other side of the bridge contains on
+chain code which will generate kind of
+by by
+byte code which will unlock it uh after
+uh like to make back backwards swap so
+um kind of
+you need only to like securely store
+private keys and relay
+trunk proof
+for transactions to build
+the kind of connector
+and wrapped wrap like btc here and there
+so
+do you have someone uh
+from bitcoin core community so who who
+can maybe come to our discussion here
+and
+uh with who we can discuss with the
+possibility of writing such bridges
+there is a email
+from
+from roger from roger where to my email
+i can
+put it in copy
+but
+it will not suit i ignore ignoring this
+change
+okay he's asking
+from you some bitcoins here
+to send to nigeria right absolutely a
+nigerian prince yeah
+okay so we have kind of alexandra which
+have like photographs with reputable
+people maybe he knows someone from
+bitcoin
+it's just kind of matter of shooting
+it's a pr maybe so kind of it's another
+kind of task not development related but
+kind of business development so maybe
+kind of i just wanted to launch a
+discussion because like the solution i'm
+close to the solution i can maybe share
+it privately or publicly
+after after maybe some time because i'm
+now busy kind of so
+kind of it's possible and it's it's not
+really so hard to maintain the interest
+trial will relay infrastructure and like
+keeping no validators private keys
+kind of it's a
+i don't know what the reputation you
+need to have you you put a stake and you
+kind of take responsibility for it
+and
+yeah but i mean
+uh all the bridges so they actually pass
+pretty much the same stages so and down
+part uh which uh
+really operates this in the sterilized
+fashion without the necessity to
+refer to validator's
+reputation
+actually
+is the one of the last points so first
+you need to create the basic layer
+learn how to transfer information from
+one blockchain to another
+and uh it's it's not that easy um
+i would agree that
+it it's a very easy so although we have
+some uh some tool sets already developed
+so we have at least two bridges uh with
+two different concepts which are in some
+fashion similar to each other and uh
+differ depending on the other side
+what's blockchain on the other side um
+but mainly this is uh
+this staging is done for a reason
+and uh
+if you want some capital to inflow from
+from bitcoin uh through the bridge so
+you must
+assure this capital uh or capital owners
+that this is safe first of all and this
+is not not an easy part because uh we
+have a lot of discussions with different
+funds and uh
+yeah it's it's always a very very tricky
+tricky question so you need to prove
+is it
+tricky in technical terms like you need
+to
+like show a specification provide the
+proof that uh absolutely yeah so big big
+funds they they require it they have
+their own
+security guys who inspect
+all this
+audit results and
+they want to look at the source code
+and so on so forth to be sure that if
+they would like to transfer i don't know
+10 million bucks through the bridge so
+it will be safe
+yeah so and it will be interesting to
+jump in the process but but maybe like a
+little bit later i agree yeah
+what i would do actually is try to
+bring here some some representatives of
+the bitcoin community um maybe from even
+robbed vtc or nbtc
+projects uh who can maybe
+tell us a bit more about how they
+operate the bridges or what difficulty
+experience
+and so on and so forth and maybe uh
+it is it will be a good move to
+ask them
+to to
+to build the bridge to the freetown site
+as well well because they already have
+the bitcoin apart development they will
+build they will build another like half
+custody how half we see to any kind kind
+of solution because the currently
+probability is is kind of like
+partially centralized
+yeah i know all the drawbacks of of the
+random tc model that most of the nodes
+are controlled by the same company
+and so on and so forth but uh
+still
+i think that it's better to start from
+something that's already proven uh
+on the market
+and then to to do everything from
+scratch
+because uh
+reinventing the wheel is not always that
+was the best approach
+well
+i i i expect
+yeah comments on that like if you if
+your will is in there isn't that
+like horsepower and
+then you invented the car you better
+change the wheel i mean
+i mean that at least the bitcoin part uh
+that they did
+is a nice one
+i don't mean
+yeah i don't mean that maybe you
+understand
+sorry maybe you technically understand
+it but tvm kind of
+storage model is based kind of on the on
+three kind of data structure which
+consists of like proofs
+right and
+like you can build native native bitcoin
+transaction layout from inside tvm back
+and forth
+right
+just need to know layout of bitcoin
+transaction and and build the same thing
+right inside tvm and parse that
+like you that came from relay
+right
+not really
+i don't think so
+yeah because you you well you will need
+you will need
+um
+like
+all the
+first of all you will need all the
+cryptography second of all you basically
+will need to create to like you will
+need to write a lite client
+to bitcoin as a smart contract
+well yes uh sh 8 25
+whatever it is natively on tvm and on
+bitcoin both like it like we don't have
+to keep shock we don't have so we can
+like repeat it on ethereum but we have
+like sha
+we have hashing yeah but that's just
+part of that right and medical proofs we
+have them they are based basically on
+passion
+yeah i'm not sure like
+if you can i'm not sure i'm not sure you
+can
+build the light client of ethereum on
+using
+uh bitcoin using
+um
+if you receive like if you receive well
+first of all
+first of all you will need to parse the
+script right which is you will need to
+emulate
+the like the fourth
+script language a little a little like
+the interpretator i mean spv like build
+built in spv
+well again again you will need to parse
+the script anyway whatever yes yes of
+course so you will need to emulate the
+script of the smart contract then then
+you will need um
+to
+have a proof
+right that the outputs that have been
+sent to you are like the correct outputs
+this is merkel prophet speaking on
+how to like check the markup yes you
+will need to check numerical proof
+exactly like ethereum does that oh yeah
+like bitcoin does that so yes
+well if you you can do all that
+but i'm not sure i'm not sure it's that
+trivial like the fact that we have yeah
+yeah it's based a lot of questions but
+trees
+uh that was really really interesting
+thank you ivan
+uh okay
+okay
+uh
+yes thank you guys from winter steam uh
+so we are waiting for for your research
+then if you if it takes you
+less than a month so just give give me a
+sign and
+please please
+make a report on one of the whole calls
+uh okay so uh
+last but not least so we have
+the dex stage two contest
+ended as well
+and
+it seems to be legit
+which is very good so it's a good quorum
+is collected and
+congrats uh
+sway dev team so with the first place so
+we will arrange the payout session uh i
+think on monday uh when uh alexander
+will come back
+and we'll have some good internet
+connection
+um yeah and uh also uh guys from three
+dev team uh asked me to discuss uh the
+next stage of the dex contest so uh
+please
+yeah
+hi everyone yeah thank you for con
+congratulations of the team we were very
+happy about that and we congratulate
+other participants as well and thank you
+for judging
+yeah and uh for now we decided to
+to start the
+to start the work with the
+document with the draft for the third
+stage of dex implementation
+and according to the documents which
+were
+in this first and second
+parts
+the third stage is complex automated
+market maker mechanics mechanics
+additional necessary improvements like
+ue uix governance voting and or killed
+in mechanics etc
+yeah for
+but uh we're not we started to work on
+the document but we're not
+quite sure what
+what was meant to be complex automated
+market makers mechanics
+and
+um
+we we tried to
+talk about it with vladimir maslikov
+because he took
+part
+in
+creating the first and second documents
+and
+we're not sure that
+we can do this with our project
+or or maybe anybody has like opinions
+what what can be on in in this stage
+uh because for us
+we see
+like more
+efficient a way to use a third stage to
+make the products
+more popular profitable and more
+interesting for future users
+uh well that's what we wanted to discuss
+uh because
+uh also we have different kinds of
+architectures
+like
+we what we have is different from what
+flex has for example and we we wanted to
+to talk to hear other opinions about uh
+how other participants and how judges uh
+here uh see the next
+stage of the next the last stage of
+dex implementation for sure it should be
+about
+interface
+but what about the
+the other parts because
+we can offer what we see but maybe
+somebody has any other opinions and uh
+wants to announce it
+okay thank you elena mita i think
+the main thing is here is the question
+to you so what will be the next stage
+for the flex
+for the flex well um we have we have
+basically finished
+um
+we
+so
+like
+the amm is there the complex mechanics i
+don't know what it is but but
+well our amm i think is is quite
+quite fitting
+towards that like is it to the complex
+mechanics because you can create as many
+amms you as you want you can launch them
+with your different you know governance
+tokens connected to flex and and like
+you would with normal order book kind of
+exchanges so you can totally emulate the
+whole work of the financial market uh as
+it is today without
+being stuck with the one amm which is
+the same as basically the the exchange
+so um
+so that's about the mm i don't know what
+else to add uh here
+yeah again i have no connect i don't
+know i i wasn't participating in the
+contest formulation so i have no idea
+what what it really means yeah i think
+that's it's it's not about um we should
+not stick to the
+preliminary warnings that were in the
+previous stages because it was not clear
+absolutely where this contest will go
+and uh what will appear uh
+after it's finished
+so as maybe i will try to reformulate
+the question so um
+if for um
+so
+uh
+now we have uh some working solutions
+yeah so uh they are not ideal of course
+but they uh they acquire quite decent
+ones and uh
+uh for the third stage
+besides some interface improvements and
+whatever so uh
+we have two different models so the amm
+based uh
+exchanges and all the book based
+exchange uh so what will be the uh
+possible next stage for both types of
+observers
+well i think we need to i like it
+doesn't matter uh in terms of like
+amendments or not a mm because
+both solutions provide at the end both
+solutions provide some user experience
+and they should include the automatic
+market maker so and both of them are
+providing that
+now
+we for example in terms of interfaces
+you should be careful because we are not
+going to make a
+standalone web interface because it goes
+against our ideology because it sucks
+instead
+it sucks because it sucks it literally
+and because because it's centralized
+because it's centralized and because
+it's censored and because it's
+controlled so
+um
+we will provide uh there is already a
+graphs that added to surf browser hey
+there
+edit edit edit to serve browser so um
+we will create an interface a totally
+debug interface based based interface
+for flex and there will be no other
+interface
+but if anyone would like to you know
+build it they can do that of course it's
+an open source so an open open
+interface
+other than that
+i don't i don't have any comments like
+basically so basically you're saying if
+broxas wants to build ship please go
+right
+um anyone who wants to build anything
+ or good please go i mean it's not
+or good please go i mean it's not
+i'm not i'm not giving i'm you know
+web free that should be so um
+wait let me finish so so that about the
+interfaces now i think that we need to
+find finalize all the solutions towards
+some kind of you know
+more or less
+complete
+user experience which will would should
+include
+like the governance tokens or
+possibilities of governance tokens or
+some example of how you can create the
+governance tokens
+um for for like to be like to have a
+business model that could be sustainable
+that kind of solutions all of them
+yeah you need to present um
+[Music]
+wrappers if you need them like that
+anyone can list what they can list and
+these rules and these rules should be
+discussed discussed meaning that somehow
+the project should incorporate this
+rules as a final solution right if i
+want to add the token how should i do
+that what the rules are for each
+platform and uh and the you know
+whatever
+how to do that and be able to do that
+um if the solution is saying that you
+can do that of course like i don't know
+but somehow the tokens should be listed
+on this exchange so that should be part
+of the solution correct
+um
+then in terms of interfaces again it
+shouldn't shouldn't define the interface
+it should just say what kind of
+usability it should have so for example
+should it support like should the
+interface in general support some kind
+of you know open view for example or
+stuff like that i don't know a
+kind of experience or not
+and so on and so forth but but not to be
+precisely defined as you know you have
+to have a web server with this form
+which you can you know enter
+stuff like that because that's silly
+and um
+apart from that
+what else so rappers
+uh rules for listings
+um
+maybe some examples of rap talking
+spectral already like party wrap tokens
+which are tradable there for example
+taking the brox token and
+adding that to the exchange as part of
+the solution and the india and the rules
+and creation of the amms or or whatever
+governance tokens for your platform i
+think that's it no no more i mean i
+i don't know maybe i'm missing something
+okay
+so generally dao model uh implemented on
+the next stage
+and everything around user experience
+basically and
+user experience and talking token owner
+experience so things like that okay okay
+thank you michael azor please
+okay hear me now yep
+okay yeah so
+i guess for
+well more complex mechanics that would
+probably include some something like
+limit orders and uh
+something like
+well slippage settings and different
+settings to allow for
+a different
+like market circumstances uh
+to you
+to to allow
+the decks and users uh stay
+well um
+stay
+like
+agile uh
+regardless of the circumstances on the
+market like pairs
+so i guess more uh more power to the
+users to
+to allow them to
+uh
+to choose different settings and to uh
+to perform um
+operations with oh with more
+different parameters i guess that's
+that's more about
+what
+can be done in this
+part of this contest i also wanted to uh
+to
+make a note of the uh i'm not sure about
+the
+the prizes for this uh
+this stage but i'm pretty sure that uh
+well
+that the
+probably should be increased because of
+the of the
+well
+of the amount of work that it takes to
+create
+like a solution like this because well
+if we just compare to
+well the prices for
+the complex solution like this to
+well to other prices and other sub
+governances that
+are
+oh come on come on come on please stop
+it we do not compare prices with other
+sub governances
+uh i mean
+yeah it's just
+it just takes uh well a lot of effort
+and the
+there's uh there's well fluctuations and
+price of town and well it takes a lot of
+time
+come on
+this is this is not a full-time job so
+uh please stop uh considering contests
+like this so actually contests uh are
+here to
+motivate you create a better product and
+not to
+serve it you know as a main source of
+income
+uh actually uh the main uh
+main source of income for those who are
+developing such solutions and we talked
+about this many many times is that you
+should operate your solution
+and
+get
+incomes from there so either by selling
+your governance tokens or getting some
+transaction fees or whatever uh economic
+model you you would like to implement in
+your solution
+but uh
+the defies of governance allocate some
+budgets to help you build these
+solutions not to you know
+guarantee the coverage of your of your
+costs
+this is not not about the contest model
+it's all this is not a grant system or
+something like this
+and uh
+speaking about the amount of work uh
+so there are some good points uh that
+you told and meter told so that need to
+be you know some digested and uh
+converted into the proposal for the
+third stage of the contest maybe it will
+be split into two stages if it if there
+is a big number of features to be
+implemented on the stage for example
+they know uh
+the next stage is about dao model and
+then about the user interfaces user
+interaction and so on so on so forth uh
+it we
+really try to be fair here to when we
+are estimating the
+cost of the
+rewards for for price places but it's
+not about you know covering your costs
+sorry yes
+let me show you some for from my side
+yeah but about it uh grants uh uh i i
+totally agree grants her that contest
+it's about uh
+uh subsidized and about involving new
+team but
+we are here not for contests uh we
+i think it's time it's time for business
+uh look look to bridge and uh look to
+uh ton swap we launched transform
+without any contests
+and
+we created breach and believe me we
+spent to breach
+much more much more money as before than
+we get from tokens
+and
+and you you can create same story you
+can launch down your own tokens uh
+uh race round and saturday
+yeah so this is uh let's start with the
+business let's start with absolutely
+totally totally agree like totally agree
+okay
+thank you and um
+small announced from my site in
+i think in few weeks uh
+two maybe three bit projects uh we'll
+we'll go to
+to friton
+we have tokens we have economy
+and
+we have we have a lot of liquidity
+and uh
+and and uh we did it all without
+without contest oh of course it's it's
+of course it's it's it's it's it's a
+company and uh powerful company and uh
+we can spend easy money for it uh and uh
+developer team
+have no
+uh with this power but uh but it's about
+it's about business uh a lot of a lot of
+money from individuals a lot of talking
+sales and etc
+and let's start doing in photon
+yeah and again if if you have some uh
+some issues with understanding on how
+you can uh benefit from your solutions
+and how you can
+create a stable uh education flow to to
+nourish your business so
+there's a lot of people here in this
+group who you can consult with and ask
+questions so please
+don't don't close to yourself we have
+very very
+small community now so and
+it's not no reason to fight with each
+other but rather to help each other to
+grow
+and
+only such in such a way we can
+make all the free tone become a big big
+project and we all will benefit from
+this this is exactly how dao
+should like absolutely
+like originate from like just from
+community
+yeah definitely definitely okay thank
+you guys for for your opinions uh it's
+it's not easy to hear something that you
+uh i do not agree with but
+sometimes it happens so please please
+take
+it and just move on
+uh
+okay so that's it for my site uh
+no more updates so if you have some
+other topics to discuss please raise
+your hand
+yes i'm sorry
+um yeah regarding the the
+stage 2 contest i just wanted to thank
+all the jurors for their
+reviews and their comments
+although we didn't really receive any
+any questions about the
+solution we provided but we were more
+than happy to answer any questions if
+there's any
+like
+questions on how to
+maybe test or
+like details of the implementation so
+i guess we'll try to guess
+well we'll try to understand which
+comments came from from which jurors and
+maybe
+we'll
+provide some
+or at least try to
+uh to comment on the
+uh
+something that they provided about the
+architecture and stuff like that but
+yeah i just wanted to thank everyone for
+uh for
+details for detailed comments about that
+and some valuable feedback
+yes
+thank you yeah this is by the way uh the
+right point so the life doesn't end
+after the voting finished
+so uh if you have some questions to
+development teams so
+don't hesitate to go and talk to them
+because uh
+for developers this is also a really
+good motivation to continue the work
+when they see the interest from from the
+community and they will be more than
+happy to answer your questions and help
+you
+yeah alina please
+uh yeah i i only wanted to say that
+we we got
+the idea of third stage so i think
+before the next thursday we'll publish
+the draft of the document in there yes
+thank you so much
+yeah and probably we can tag uh
+participants who took part in the second
+stage so they can add their views to the
+documents so we can discuss it on the
+next call yeah yeah please do and and
+i'm really grateful to you for taking
+the lead on this because
+i myself is overloaded with each one of
+us
+so i cannot
+write all the comments myself so please
+uh tag me too
+i want to have a look on it okay thank
+you no problem
+thank you
+any other topics
+three
+two
+one
+that's it thank you guys for attending
+today
+and see you next week have a nice end of
+the week
+youtube thank you youtube
+bye bye

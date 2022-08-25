@@ -1,0 +1,905 @@
+1
+00:00:00,160 --> 00:00:02,629
+
+hello friends uh you may know this
+
+2
+00:00:02,629 --> 00:00:02,639
+hello friends uh you may know this
+ 
+
+3
+00:00:02,639 --> 00:00:04,470
+hello friends uh you may know this
+already but i'm ben welcome to the
+
+4
+00:00:04,470 --> 00:00:04,480
+already but i'm ben welcome to the
+ 
+
+5
+00:00:04,480 --> 00:00:07,590
+already but i'm ben welcome to the
+latest episode of everscale news picked
+
+6
+00:00:07,590 --> 00:00:07,600
+latest episode of everscale news picked
+ 
+
+7
+00:00:07,600 --> 00:00:10,070
+latest episode of everscale news picked
+especially for you it's been another
+
+8
+00:00:10,070 --> 00:00:10,080
+especially for you it's been another
+ 
+
+9
+00:00:10,080 --> 00:00:11,830
+especially for you it's been another
+action-packed week here as we announce
+
+10
+00:00:11,830 --> 00:00:11,840
+action-packed week here as we announce
+ 
+
+11
+00:00:11,840 --> 00:00:13,749
+action-packed week here as we announce
+new grants in the ecosystem launch a
+
+12
+00:00:13,749 --> 00:00:13,759
+new grants in the ecosystem launch a
+ 
+
+13
+00:00:13,759 --> 00:00:16,070
+new grants in the ecosystem launch a
+token on bitmart and advance the
+
+14
+00:00:16,070 --> 00:00:16,080
+token on bitmart and advance the
+ 
+
+15
+00:00:16,080 --> 00:00:17,750
+token on bitmart and advance the
+development of the network on wooden
+
+16
+00:00:17,750 --> 00:00:17,760
+development of the network on wooden
+ 
+
+17
+00:00:17,760 --> 00:00:19,429
+development of the network on wooden
+upward three minutes on the clock three
+
+18
+00:00:19,429 --> 00:00:19,439
+upward three minutes on the clock three
+ 
+
+19
+00:00:19,439 --> 00:00:21,189
+upward three minutes on the clock three
+minutes this week let's recap the main
+
+20
+00:00:21,189 --> 00:00:21,199
+minutes this week let's recap the main
+ 
+
+21
+00:00:21,199 --> 00:00:23,830
+minutes this week let's recap the main
+points uh one of the biggest news of the
+
+22
+00:00:23,830 --> 00:00:23,840
+points uh one of the biggest news of the
+ 
+
+23
+00:00:23,840 --> 00:00:25,670
+points uh one of the biggest news of the
+week was the announcement that everscale
+
+24
+00:00:25,670 --> 00:00:25,680
+week was the announcement that everscale
+ 
+
+25
+00:00:25,680 --> 00:00:28,230
+week was the announcement that everscale
+was one of the gold sponsors of the
+
+26
+00:00:28,230 --> 00:00:28,240
+was one of the gold sponsors of the
+ 
+
+27
+00:00:28,240 --> 00:00:31,029
+was one of the gold sponsors of the
+capital 2022 the largest cryptocurrency
+
+28
+00:00:31,029 --> 00:00:31,039
+capital 2022 the largest cryptocurrency
+ 
+
+29
+00:00:31,039 --> 00:00:34,310
+capital 2022 the largest cryptocurrency
+conference of 2022 which takes place on
+
+30
+00:00:34,310 --> 00:00:34,320
+conference of 2022 which takes place on
+ 
+
+31
+00:00:34,320 --> 00:00:36,709
+conference of 2022 which takes place on
+may 26th and 27th
+
+32
+00:00:36,709 --> 00:00:36,719
+may 26th and 27th
+ 
+
+33
+00:00:36,719 --> 00:00:38,950
+may 26th and 27th
+uh we'll have everscale representatives
+
+34
+00:00:38,950 --> 00:00:38,960
+uh we'll have everscale representatives
+ 
+
+35
+00:00:38,960 --> 00:00:42,150
+uh we'll have everscale representatives
+nikita inchikov in my pronunciation mate
+
+36
+00:00:42,150 --> 00:00:42,160
+nikita inchikov in my pronunciation mate
+ 
+
+37
+00:00:42,160 --> 00:00:44,150
+nikita inchikov in my pronunciation mate
+michael gord speaking on the same stage
+
+38
+00:00:44,150 --> 00:00:44,160
+michael gord speaking on the same stage
+ 
+
+39
+00:00:44,160 --> 00:00:47,350
+michael gord speaking on the same stage
+as chiang ping zhao cz of binance and
+
+40
+00:00:47,350 --> 00:00:47,360
+as chiang ping zhao cz of binance and
+ 
+
+41
+00:00:47,360 --> 00:00:49,590
+as chiang ping zhao cz of binance and
+michael saylor lady i'm michael saylor
+
+42
+00:00:49,590 --> 00:00:49,600
+michael saylor lady i'm michael saylor
+ 
+
+43
+00:00:49,600 --> 00:00:51,910
+michael saylor lady i'm michael saylor
+co-founder of michael microstrategy
+
+44
+00:00:51,910 --> 00:00:51,920
+co-founder of michael microstrategy
+ 
+
+45
+00:00:51,920 --> 00:00:53,590
+co-founder of michael microstrategy
+raising awareness about everscale and
+
+46
+00:00:53,590 --> 00:00:53,600
+raising awareness about everscale and
+ 
+
+47
+00:00:53,600 --> 00:00:55,430
+raising awareness about everscale and
+networking with industry majors
+
+48
+00:00:55,430 --> 00:00:55,440
+networking with industry majors
+ 
+
+49
+00:00:55,440 --> 00:00:58,069
+networking with industry majors
+obviously exclusively for everscale the
+
+50
+00:00:58,069 --> 00:00:58,079
+obviously exclusively for everscale the
+ 
+
+51
+00:00:58,079 --> 00:00:59,990
+obviously exclusively for everscale the
+capital offers unique venues for the
+
+52
+00:00:59,990 --> 00:01:00,000
+capital offers unique venues for the
+ 
+
+53
+00:01:00,000 --> 00:01:02,150
+capital offers unique venues for the
+community to watch the event online so
+
+54
+00:01:02,150 --> 00:01:02,160
+community to watch the event online so
+ 
+
+55
+00:01:02,160 --> 00:01:04,390
+community to watch the event online so
+hurry up seating is limited as part of
+
+56
+00:01:04,390 --> 00:01:04,400
+hurry up seating is limited as part of
+ 
+
+57
+00:01:04,400 --> 00:01:06,870
+hurry up seating is limited as part of
+the everscale grant program aml safe
+
+58
+00:01:06,870 --> 00:01:06,880
+the everscale grant program aml safe
+ 
+
+59
+00:01:06,880 --> 00:01:09,830
+the everscale grant program aml safe
+received its ninth 35 000 grant from the
+
+60
+00:01:09,830 --> 00:01:09,840
+received its ninth 35 000 grant from the
+ 
+
+61
+00:01:09,840 --> 00:01:12,070
+received its ninth 35 000 grant from the
+d5 alliance the funds will be allocated
+
+62
+00:01:12,070 --> 00:01:12,080
+d5 alliance the funds will be allocated
+ 
+
+63
+00:01:12,080 --> 00:01:14,870
+d5 alliance the funds will be allocated
+for six months in installments as kpis
+
+64
+00:01:14,870 --> 00:01:14,880
+for six months in installments as kpis
+ 
+
+65
+00:01:14,880 --> 00:01:16,550
+for six months in installments as kpis
+are reached uh do note though that this
+
+66
+00:01:16,550 --> 00:01:16,560
+are reached uh do note though that this
+ 
+
+67
+00:01:16,560 --> 00:01:18,230
+are reached uh do note though that this
+is the first of its kind web three
+
+68
+00:01:18,230 --> 00:01:18,240
+is the first of its kind web three
+ 
+
+69
+00:01:18,240 --> 00:01:21,190
+is the first of its kind web three
+stroke defy cryptocurrency wallet with a
+
+70
+00:01:21,190 --> 00:01:21,200
+stroke defy cryptocurrency wallet with a
+ 
+
+71
+00:01:21,200 --> 00:01:24,789
+stroke defy cryptocurrency wallet with a
+built-in aml module to check the purity
+
+72
+00:01:24,789 --> 00:01:24,799
+built-in aml module to check the purity
+ 
+
+73
+00:01:24,799 --> 00:01:27,510
+built-in aml module to check the purity
+of counterparties uh developed by purefi
+
+74
+00:01:27,510 --> 00:01:27,520
+of counterparties uh developed by purefi
+ 
+
+75
+00:01:27,520 --> 00:01:29,030
+of counterparties uh developed by purefi
+so we're waiting for everscale
+
+76
+00:01:29,030 --> 00:01:29,040
+so we're waiting for everscale
+ 
+
+77
+00:01:29,040 --> 00:01:31,590
+so we're waiting for everscale
+integration into aml safe wallet as soon
+
+78
+00:01:31,590 --> 00:01:31,600
+integration into aml safe wallet as soon
+ 
+
+79
+00:01:31,600 --> 00:01:34,230
+integration into aml safe wallet as soon
+as possible i can also add to this uh
+
+80
+00:01:34,230 --> 00:01:34,240
+as possible i can also add to this uh
+ 
+
+81
+00:01:34,240 --> 00:01:36,870
+as possible i can also add to this uh
+the 10th recipient of everscale grants
+
+82
+00:01:36,870 --> 00:01:36,880
+the 10th recipient of everscale grants
+ 
+
+83
+00:01:36,880 --> 00:01:39,350
+the 10th recipient of everscale grants
+has been spartacats who received the
+
+84
+00:01:39,350 --> 00:01:39,360
+has been spartacats who received the
+ 
+
+85
+00:01:39,360 --> 00:01:41,429
+has been spartacats who received the
+grand total of one ever ah right next
+
+86
+00:01:41,429 --> 00:01:41,439
+grand total of one ever ah right next
+ 
+
+87
+00:01:41,439 --> 00:01:43,270
+grand total of one ever ah right next
+news there is now an excellent
+
+88
+00:01:43,270 --> 00:01:43,280
+news there is now an excellent
+ 
+
+89
+00:01:43,280 --> 00:01:45,030
+news there is now an excellent
+opportunity to become one of the first
+
+90
+00:01:45,030 --> 00:01:45,040
+opportunity to become one of the first
+ 
+
+91
+00:01:45,040 --> 00:01:48,069
+opportunity to become one of the first
+owners of eva tokens utility tokens
+
+92
+00:01:48,069 --> 00:01:48,079
+owners of eva tokens utility tokens
+ 
+
+93
+00:01:48,079 --> 00:01:50,069
+owners of eva tokens utility tokens
+announced the other day by dex adder the
+
+94
+00:01:50,069 --> 00:01:50,079
+announced the other day by dex adder the
+ 
+
+95
+00:01:50,079 --> 00:01:52,310
+announced the other day by dex adder the
+main benefits for token holders are the
+
+96
+00:01:52,310 --> 00:01:52,320
+main benefits for token holders are the
+ 
+
+97
+00:01:52,320 --> 00:01:54,310
+main benefits for token holders are the
+right to participate in upcoming
+
+98
+00:01:54,310 --> 00:01:54,320
+right to participate in upcoming
+ 
+
+99
+00:01:54,320 --> 00:01:56,789
+right to participate in upcoming
+management of dexes and more favorable
+
+100
+00:01:56,789 --> 00:01:56,799
+management of dexes and more favorable
+ 
+
+101
+00:01:56,799 --> 00:01:59,109
+management of dexes and more favorable
+terms for farming and exchange um
+
+102
+00:01:59,109 --> 00:01:59,119
+terms for farming and exchange um
+ 
+
+103
+00:01:59,119 --> 00:02:01,270
+terms for farming and exchange um
+everscale end the token ever listed on
+
+104
+00:02:01,270 --> 00:02:01,280
+everscale end the token ever listed on
+ 
+
+105
+00:02:01,280 --> 00:02:02,789
+everscale end the token ever listed on
+bitmart as we said at the top of the
+
+106
+00:02:02,789 --> 00:02:02,799
+bitmart as we said at the top of the
+ 
+
+107
+00:02:02,799 --> 00:02:05,590
+bitmart as we said at the top of the
+show this is really great news bitmarty
+
+108
+00:02:05,590 --> 00:02:05,600
+show this is really great news bitmarty
+ 
+
+109
+00:02:05,600 --> 00:02:07,590
+show this is really great news bitmarty
+is launching a trading competition and
+
+110
+00:02:07,590 --> 00:02:07,600
+is launching a trading competition and
+ 
+
+111
+00:02:07,600 --> 00:02:09,749
+is launching a trading competition and
+other incentives for its users as well
+
+112
+00:02:09,749 --> 00:02:09,759
+other incentives for its users as well
+ 
+
+113
+00:02:09,759 --> 00:02:11,910
+other incentives for its users as well
+this campaign will be active until the
+
+114
+00:02:11,910 --> 00:02:11,920
+this campaign will be active until the
+ 
+
+115
+00:02:11,920 --> 00:02:14,630
+this campaign will be active until the
+end of the month may 31st to be exact
+
+116
+00:02:14,630 --> 00:02:14,640
+end of the month may 31st to be exact
+ 
+
+117
+00:02:14,640 --> 00:02:16,949
+end of the month may 31st to be exact
+and joint campaign bitmart will be
+
+118
+00:02:16,949 --> 00:02:16,959
+and joint campaign bitmart will be
+ 
+
+119
+00:02:16,959 --> 00:02:19,350
+and joint campaign bitmart will be
+incentivizing traders and average users
+
+120
+00:02:19,350 --> 00:02:19,360
+incentivizing traders and average users
+ 
+
+121
+00:02:19,360 --> 00:02:21,990
+incentivizing traders and average users
+to buy and sell and trade other tokens
+
+122
+00:02:21,990 --> 00:02:22,000
+to buy and sell and trade other tokens
+ 
+
+123
+00:02:22,000 --> 00:02:23,830
+to buy and sell and trade other tokens
+on bitmart so check the links in the
+
+124
+00:02:23,830 --> 00:02:23,840
+on bitmart so check the links in the
+ 
+
+125
+00:02:23,840 --> 00:02:25,990
+on bitmart so check the links in the
+description hey good news for firefox
+
+126
+00:02:25,990 --> 00:02:26,000
+description hey good news for firefox
+ 
+
+127
+00:02:26,000 --> 00:02:28,070
+description hey good news for firefox
+browser users the ever wallet browser
+
+128
+00:02:28,070 --> 00:02:28,080
+browser users the ever wallet browser
+ 
+
+129
+00:02:28,080 --> 00:02:30,229
+browser users the ever wallet browser
+extension now works with firefox the
+
+130
+00:02:30,229 --> 00:02:30,239
+extension now works with firefox the
+ 
+
+131
+00:02:30,239 --> 00:02:32,630
+extension now works with firefox the
+wallet extension is really super easy
+
+132
+00:02:32,630 --> 00:02:32,640
+wallet extension is really super easy
+ 
+
+133
+00:02:32,640 --> 00:02:34,630
+wallet extension is really super easy
+and convenient to use and it's a great
+
+134
+00:02:34,630 --> 00:02:34,640
+and convenient to use and it's a great
+ 
+
+135
+00:02:34,640 --> 00:02:36,390
+and convenient to use and it's a great
+way to manage all your everscale wallets
+
+136
+00:02:36,390 --> 00:02:36,400
+way to manage all your everscale wallets
+ 
+
+137
+00:02:36,400 --> 00:02:38,550
+way to manage all your everscale wallets
+and tokens and access dapps from inside
+
+138
+00:02:38,550 --> 00:02:38,560
+and tokens and access dapps from inside
+ 
+
+139
+00:02:38,560 --> 00:02:40,869
+and tokens and access dapps from inside
+firefox so yeah just to note uh the
+
+140
+00:02:40,869 --> 00:02:40,879
+firefox so yeah just to note uh the
+ 
+
+141
+00:02:40,879 --> 00:02:42,710
+firefox so yeah just to note uh the
+following news concerns bridge relayers
+
+142
+00:02:42,710 --> 00:02:42,720
+following news concerns bridge relayers
+ 
+
+143
+00:02:42,720 --> 00:02:45,270
+following news concerns bridge relayers
+and stakers a few days ago optusbridge
+
+144
+00:02:45,270 --> 00:02:45,280
+and stakers a few days ago optusbridge
+ 
+
+145
+00:02:45,280 --> 00:02:47,589
+and stakers a few days ago optusbridge
+started sending out initial dividends to
+
+146
+00:02:47,589 --> 00:02:47,599
+started sending out initial dividends to
+ 
+
+147
+00:02:47,599 --> 00:02:49,910
+started sending out initial dividends to
+bridge token stakers and relayers in the
+
+148
+00:02:49,910 --> 00:02:49,920
+bridge token stakers and relayers in the
+ 
+
+149
+00:02:49,920 --> 00:02:53,430
+bridge token stakers and relayers in the
+form of usdt and cube the remaining part
+
+150
+00:02:53,430 --> 00:02:53,440
+form of usdt and cube the remaining part
+ 
+
+151
+00:02:53,440 --> 00:02:55,110
+form of usdt and cube the remaining part
+of the dividends to be paid out in
+
+152
+00:02:55,110 --> 00:02:55,120
+of the dividends to be paid out in
+ 
+
+153
+00:02:55,120 --> 00:02:57,110
+of the dividends to be paid out in
+bridge tokens will be available to claim
+
+154
+00:02:57,110 --> 00:02:57,120
+bridge tokens will be available to claim
+ 
+
+155
+00:02:57,120 --> 00:02:59,270
+bridge tokens will be available to claim
+once the round reward ends so check your
+
+156
+00:02:59,270 --> 00:02:59,280
+once the round reward ends so check your
+ 
+
+157
+00:02:59,280 --> 00:03:01,830
+once the round reward ends so check your
+wallets if you haven't already and last
+
+158
+00:03:01,830 --> 00:03:01,840
+wallets if you haven't already and last
+ 
+
+159
+00:03:01,840 --> 00:03:03,589
+wallets if you haven't already and last
+but not least of course not as a
+
+160
+00:03:03,589 --> 00:03:03,599
+but not least of course not as a
+ 
+
+161
+00:03:03,599 --> 00:03:05,270
+but not least of course not as a
+conclusion we'd like to inform you that
+
+162
+00:03:05,270 --> 00:03:05,280
+conclusion we'd like to inform you that
+ 
+
+163
+00:03:05,280 --> 00:03:07,750
+conclusion we'd like to inform you that
+we have got one more news channel on
+
+164
+00:03:07,750 --> 00:03:07,760
+we have got one more news channel on
+ 
+
+165
+00:03:07,760 --> 00:03:09,910
+we have got one more news channel on
+coin market cap of all places so don't
+
+166
+00:03:09,910 --> 00:03:09,920
+coin market cap of all places so don't
+ 
+
+167
+00:03:09,920 --> 00:03:11,670
+coin market cap of all places so don't
+forget to follow us there too um
+
+168
+00:03:11,670 --> 00:03:11,680
+forget to follow us there too um
+ 
+
+169
+00:03:11,680 --> 00:03:13,589
+forget to follow us there too um
+obviously it helps our visibility guys
+
+170
+00:03:13,589 --> 00:03:13,599
+obviously it helps our visibility guys
+ 
+
+171
+00:03:13,599 --> 00:03:14,949
+obviously it helps our visibility guys
+joel i just want to remind you to leave
+
+172
+00:03:14,949 --> 00:03:14,959
+joel i just want to remind you to leave
+ 
+
+173
+00:03:14,959 --> 00:03:16,550
+joel i just want to remind you to leave
+a like and subscribe if you haven't done
+
+174
+00:03:16,550 --> 00:03:16,560
+a like and subscribe if you haven't done
+ 
+
+175
+00:03:16,560 --> 00:03:18,550
+a like and subscribe if you haven't done
+so already it helps our channel grow and
+
+176
+00:03:18,550 --> 00:03:18,560
+so already it helps our channel grow and
+ 
+
+177
+00:03:18,560 --> 00:03:20,149
+so already it helps our channel grow and
+reach that bigger audience we're looking
+
+178
+00:03:20,149 --> 00:03:20,159
+reach that bigger audience we're looking
+ 
+
+179
+00:03:20,159 --> 00:03:21,830
+reach that bigger audience we're looking
+for thanks for watching and see you next
+
+180
+00:03:21,830 --> 00:03:21,840
+for thanks for watching and see you next
+ 
+
+181
+00:03:21,840 --> 00:03:24,159
+for thanks for watching and see you next
+time
+

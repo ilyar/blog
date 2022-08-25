@@ -1,0 +1,1378 @@
+okay so thank you everyone for being
+here for listening to this uh panel
+after a very long day of conferences and
+fun
+uh so my name is pavle batuta i come and
+represent i've come from serbia i
+represent a company called moonstruck
+and we are involved in the everscale
+ecosystem as a serbian partner we are
+currently building the use stablecoin
+which is uh one of the first if not the
+first algorithmic stable coins that will
+be built on everscale blockchain
+and since
+we are already on the topic of cbdc's
+i'm very interested to share a little
+bit in the discussion about
+how we can actually create currencies
+that are exist on blockchains either
+cbdc's algorithmic stable coins or
+similar
+so
+thank you all for for listening who
+would like to go next maybe we'll do a
+little bit of a remix yeah well let's
+just work down the line for the
+introductions then we'll mix it up great
+good afternoon everybody no uh thank you
+for being here with us
+don't like uh
+right it's been a long day of conference
+my name is zahan
+i'm a malaysian
+but now i'm residing in the middle east
+qatar working for an insurance company
+and i've been part of the the community
+you know
+since the early days of the
+establishment so it's always a pleasure
+and honor um not to be to be back and to
+be seeing everyone
+so
+thank you
+okay uh my name is bo uh i'm from south
+korea representing a jungle i mean
+actually
+i'm a c
+cbdo of xango so uh zengel is
+it actually starts with x not z so you
+should be careful of that
+and then uh we work with uh governments
+and central banks
+and all the regulatory uh sectors to
+create a better basement uh technology
+of uh career and blockchain business
+so uh we raise uh we have a rating
+system here in work in korean market and
+then we're the sole
+a rating solution in korean market in
+terms of listing tokens
+so uh
+because of that i meet a lot of token
+projects and i talk about like regular
+regulations
+of course korean regulations and
+everything so i
+hope i can
+like share some information about
+this regulatory issue
+about on cbdc
+thank you
+hi i'm david police i'm a
+founder of zbx exchange in malta the
+smallest country in the european union
+for those who don't know where that is
+um we also in the past worked with some
+governments like the marshall islands
+when they tried to introduce their cbdc
+and some others so we have consulted and
+we're also quite quite large within the
+i gaming like online gambling space as a
+family business
+and also ai
+in general as
+businesses hello everyone my name is
+alex antonov i am an investment director
+of algal on capital
+it's a hedge fund
+and i'm here because i like to think
+that i understand a thing or two about
+central bank logic
+and for national markets so
+cool
+hello everyone my name is sergey
+jorinsky i'm a
+co-founder and managing partner at d5
+hedge fund called warp capital who is
+the initial member of everscale defy
+alliance and one of the largest
+liquidity providers to ever scale
+ecosystem
+so i like
+cdbcs too so that's my hobby to talk
+about it
+okay well a lot of interesting and
+varied and deep experience so obviously
+we're here to to talk about cbdcbcs
+and look at where they are now and where
+they're going and
+sort of where where they fit alongside
+stable coins so if we if we start at the
+beginning
+there's a lot of e-money out there
+anyway
+um so where does that fit exactly with
+digital currencies um
+why is there a need for cdbc's i guess
+is the question so
+why don't we start just this one time
+back at that end and then work our way
+through so that we've we've set
+everybody's sort of
+initial opinions of the topic
+well
+i see the idea of cbd seas which can be
+a little controversial when you look at
+it in a sense that there is already
+money and there's already digital forms
+many many digital forms of money out
+there
+but
+an interesting perspective from like a
+tech point of view is that money is also
+data so
+a good implementation of cbdc that sort
+of leans on existing blockchains and
+existing infrastructure can allow
+money to be treated as a data in a
+better way it will allow new models of
+financial applications both in like web
+tree space where you would directly pull
+in uh like assets from
+money money to assets from accounts and
+banks and similar things
+and
+it would also allow of like the next
+wave of digitalization of existing
+financial applications so the idea is a
+lot of fintech innovation is difficult
+and it's hampered by not just
+difficulty in like
+regulation but also all of these
+siloed data provisioning and
+sources that come with banks and finance
+financial institutions and
+a movement towards cbdc's
+could actually enable a very
+interoperable
+world of money
+like worldwide over time so
+personally i find this very exciting
+because
+it will allow like across uh uh
+cross-chain standardization of uh money
+tokens from different countries
+you know in a very uh sort of integrated
+way
+okay
+well um
+no i guess the the technology has been
+studied by many central banks when they
+first started and
+when they were looking at it before no i
+don't think they they were you know
+really thinking of how cbdc would become
+you know
+a system where you would disrupt or you
+would replace you know existing
+infrastructures but i think it's came to
+a point in this time where now now you
+have two different so-called categories
+of cbdc's right now you have the the
+retail side of the cbdc is nowhere where
+where the mass you know
+public would use and and the wholesale
+side where they use it for you know
+international settlements so i think i
+think more
+more banks right now including
+the ones in this region malaysia and
+singapore have explored
+um
+doing cbdc's for international
+settlements right so i think you know um
+and then they have all came together
+with uh multiple countries to explore
+and how that settlement worked so that's
+you know my view on how cbdc is yeah
+okay uh
+i'm gonna use some uh use cases in korea
+because we already have a lot of like
+digital payment system in korea
+for example samsung
+the payment system is all like worldwide
+like like widely used in korean market
+and then
+every time we use it we think about
+like samsung being a monster like
+seriously
+like when it comes to the
+reality people always
+have to be emotional i mean like you can
+talk about technology and logic reasons
+but when you choose to take it it's
+always emotional that's what i think
+and when i talk to korean people who are
+who are already using all the payment
+system
+and then saying like asking them like
+why don't you use like blockchain system
+instead of using like samsung pay and
+then they say like i don't know them
+is it like based
+is it backup by the government or can i
+cannot believe them
+so uh
+that's what i'm
+like if cbdc comes out and then give
+people
+the trust
+what the blockchain really is then we
+can actually just like scale it out
+well we of course we're going to discuss
+about like technology's problem and then
+there's the anonymity and everything but
+like
+in terms of like giving trust
+to the people we can always use cbd with
+government
+that's what i think and then they're
+gonna find out all the good reasons why
+we have to use it
+look let's let's break the problem down
+and
+and focus the the difference between the
+e-money and the cbdc is the issuing
+layer one is issue privately the other
+one is issued by government absolutely
+but you
+specific question
+and why do we need the cbdc
+the thing is who needs it does it does
+the government need it or do we need it
+i think it's more a question of
+on a government level if a government
+issues their own cbdc and doesn't adopt
+say for example usdt just to to pick one
+of the many
+they can program the cbdc
+which gives them much more authoritarian
+powers and people think ah but they're
+not going to propose such the bank of
+england
+recently they it was proposed within the
+within within governance that
+the one of the ministers addressed the
+house of commons says we should think
+about making a progress programmable
+british um
+cbdc so we're not far away indeed but
+brit coin as it's been done i mean they
+call it they call it the brit coin
+if cbdcs are programmed then for the
+government there is much more chances of
+actually now playing with monetary and
+fiscal policy you can go much deeper
+into negative interest rates and i don't
+even want to go within the current
+geopolitical scenario what's happening
+with regards to being able to confiscate
+money and if you want to talk from a
+from an economic point of view obviously
+you can incentivize people not just by
+um using monetary policy or fiscal by
+putting money in the economy but by
+making it also ex
+putting an expiration date if you don't
+spend it by xyz it's going to expire so
+you're really
+more pumping money into the economy so
+the question really boils down to
+benefit for who i can see a lot of
+benefits for the central government
+for the central banks
+and but if you talk stable coin versus
+cbdc
+i can see the
+weight scale going more toward centre
+banks rather than for individual users i
+think all of that is a topic that we're
+going to probably circle background
+towards the end of our conversation
+because you've hit on
+a number of very fundamental points
+there i think
+yeah yeah that's that's really
+interesting what uh what you're talking
+about uh
+somebody called it uh fiscal terrorism
+now because uh the government is uh
+uh trying to
+uh
+prevent you from uh taking a rent from
+your money from uh collecting a yield uh
+so that that's really interesting but
+for the audience to follow uh i think we
+should explain that what cbdc is you get
+free forms of money you got paper cash
+you got deposits on the bank account and
+you get third form of money it's a
+central bank digital currency so where
+is the typo here we can pretend that
+it's not
+uh and with this third form of money you
+can do plenty of interesting things uh
+as good as bad uh and different kinds
+and it's not like uh
+you can compare it to stable coins
+because stable coins is a digital
+currency which are issued by some
+private company
+and they try to
+pack it to
+a fiat currency like mostly dollar and
+uh cbdc is just
+the new form of money for the government
+to achieve their goals probably so uh if
+you ask me what interesting i learned
+about cbdc recently is that
+if government benefits from it people
+somehow benefits from its because you
+can you know send the money without
+internet but it's digital money still
+you can have uh
+more control you can prevent some
+corruption schemes
+so who lost in that uh
+in that new wave of money it's regular
+banks because they
+uh
+lost some liquidity they had before and
+they should uh you know do their job
+score people provide user interface and
+the liquidity goes to central banks
+which you uh access directly
+so i'll come back to you on a moment
+on
+specifically on that aspect because
+that's sort of already leading us in
+into the next question but but first of
+all sergey yeah i'll be short
+maybe intriguing thought but
+cbdc just happened because
+there were already stable coins on the
+market and people started using it and
+uh
+if you are not following the best
+technology in the world uh then suddenly
+your citizen
+will stop using your money and that's
+the
+bad thing for the government in my view
+that simple as it is
+okay so
+um alexi coming coming back to your
+point i think
+what are the implications of that so
+that you've said effectively the loser
+in all of that is the traditional banks
+so
+what
+exactly what are the implications for
+those traditional banks and the knock-on
+effects to the users of the traditional
+banks and the markets that they have in
+the markets in general
+so everybody knows that uh banks use
+your money as they want probably they
+don't have all the collateral uh of all
+the deposits obviously so uh
+they use your funds from i don't know
+from the ancient greek then they
+then you can use like local banker they
+won't call
+at that time bankers but you can
+deposit them money and you can lend them
+their money when you deposit they can't
+touch it but uh
+centuries and centuries they again and
+again touched that money uh the
+government pushed them to uh provide
+free credits and you all know that kind
+of stuff
+now uh
+we have a
+like a
+the circle go back again and the banks
+are losing part of the business if the
+if everyone will use
+cbdc's
+which will be basically
+digits in central bank
+so bank
+lost their liquidity and start to do the
+real job and uh that's why in many
+countries banks are at the opposite side
+of the discussion of that particular
+discussion
+um if i may i think if we boil it down
+again
+what will this create is a
+disintermediation
+of commercial banks so right now i give
+my bank
+10 euros and they can issue 80 90
+depends on how much the multiplier they
+are allowed once cbdc goes into effect
+that will end
+as far as i see it or at least there is
+nothing in place to allow commercial
+banks to keep on issuing more money
+right so
+in a way you can say that commercial
+banks are going to face
+unfair competition from their own
+regulator because they cannot do what
+they can do nowadays so that is
+we're going to go into a situation where
+i think most of the smaller banks will
+be cut out of a lot of the business that
+they currently do
+and probably some of the banking leaders
+out there
+i don't know jp in the in in the u.s so
+gen in europe so on and so forth will
+still have their share of the pie but
+the small guys within the banking sector
+will probably suffer the grant
+any other comments guys
+well the curious question right now back
+back to the panelists is uh
+i know would
+would regulate us want to get in that
+space you know of competing with their
+their local financial systems the banks
+or would they then issue um you know
+cbdc's to the banks right like how it's
+traditionally done right now central
+bank prints money distributes it to the
+bank and and charges a very low interest
+rate and then the banks you know sort of
+uh so banks can't print money by the way
+yeah you know and so then it gets
+distributed all right so i think the the
+problem with the cbdc is that once the
+central bank issues it you cannot do a
+multiplier on it i cannot reissue more
+currency i cannot lo you cannot give me
+10 euros and i give 90 as a loan
+because it is issued centrally so there
+is a problem with the multiplier effect
+when it comes to the commercial banks so
+right now i haven't maybe there is a
+solution out there but i have not heard
+it you know as an economist out there or
+maybe i haven't read enough about it but
+that is a problem that no one has pro i
+think addressed so far
+interesting point
+back to you sorry
+[Laughter]
+anybody else on that one
+well
+the interesting thing is uh
+if cbdc's come into effect
+then not only banks lose underst on the
+idea that we've already seen and heard
+here which is basically you don't you no
+longer require deposit-based money but
+also
+if
+there is proper access to this cbdc
+ledger then anybody can be a bank right
+that's the whole original idea of crypto
+that be your own bank
+and but this is very much dependent on
+the implementation of the ledger and the
+way it will be handled and i think this
+will be this will differ from region to
+region from country to country
+but in practice nothing stops a tao from
+being a very good like bank
+like
+issuing loans like very effectively
+so in that sense there is a big wave of
+disruption of banking in general
+that's possible but i also worry that um
+a lot of that energy will be hampered by
+regulation because banks have a big seat
+at the table and they will probably push
+back against it pretty hard so we might
+see we might actually see a model in
+which you will not be able to access
+your currency without a bank account
+even though you actually don't need it
+so that's the way i see it right now
+essentially there is there is disruption
+but also there is banks have a seat at
+the table and it's going to be a long
+fight to
+bring a more
+a more efficient system with less
+intermediaries
+okay so do you
+see
+uh central banks getting involved in
+this space
+because of recognition that that's the
+way the world is going that the that
+money is no longer going to be
+paper-based it's going to be digital and
+and they've got to go ahead even though
+they maybe were reluctant to begin with
+do you see them doing it because they
+want to be involved do you see them
+doing it because it's a defensive move
+do you see them doing it because of the
+the sort of the benefits they can see
+or the flip side of that the drawbacks
+if they don't and this sort of comes
+back to the points you were making dave
+what exactly are the benefits and the
+drawbacks to the government if you focus
+on that part why is a government why is
+a central bank going to be wanting to
+issue effectively and stable coins uh
+okay slightly different definitions it's
+a stable coin in that it is the country
+currencies such as the dollar or river
+instead of having a
+a private stable coin that's pegged so
+what what are the reasons that the
+central banks are going to be wanting to
+do this
+so it's obviously it's better accounting
+better control
+creating probably it's
+really depends on the particular
+government creating new smart contracts
+using all that technology stuff
+unfortunately it really depends on
+particular government and we needs and
+we will because uh
+in this century they uh
+try to or could unnecessary freedom
+financial freedom the more we live the
+more kyc ml procedures we have
+this thing you can we think you cannot
+and it's more and more complicated more
+and more uh
+it's uh
+there is there is a bright side of it
+also you can do interconnection uh
+international uh
+payments you can you know let's say
+uh we live in some country which not
+really uh
+we
+which doesn't have its dollar and they
+uh issue
+their own cbdc and everyone in the world
+with the mobile phone can use it
+and that's a really benefit for its
+country because it's expand the uh
+their uh local currency like uh
+expand the region they they can they can
+print some money and everyone can use it
+that's every government wants
+with cbdc you can extend you can like
+sell dollar
+we don't need you we have we have this
+we have this look at this and in every
+mobile phone you can change one currency
+to another that's a bright side but all
+other things i agree with you
+that's it's more control
+yeah i i do find a problem with cbdc's
+or central government if they adopt
+stable coins because if we are operating
+internationally and i'm a country and
+i'm operating with another country and
+we're exchanging money all we're
+exchanging is really that
+all i'm exchanging is the trust that you
+will pay me in the future absolutely so
+once you put a stable coin into effect
+i'm not really relying on the country's
+resources or how much
+gold you have okay the gold standard has
+been abandoned but let's say how much
+reserves do you have or how much trust i
+have in you but how much trust i have in
+the stable coin so that relationship
+will well i don't know even know how
+that would work
+yeah but but every bit
+i guess we all find it as frustrating as
+i do every time you read a newspaper it
+talks about digital currency whether
+that's a private crypto a stable coin
+anything else it says that doesn't
+really exist apart from a bunch of sort
+of digital numbers etc etc but fiat
+currencies don't exist apart from bits
+of printed paper
+and
+when times get tough governments just
+print money
+uh at least with digital coins uh you
+don't have that same sort of situation
+so you could argue that that digital
+coins are much much uh better for the
+economy safer than than paper
+well correct i mean when i'm when i'm
+holding us dollars or if i'm holding us
+dollars all i'm holding is the trust
+that maybe the us government has a good
+army behind it or maybe that they have
+good oil reserves and this is
+i'm not saying that this is the right
+way to go or this is like an economic
+way but this is the way we are used to
+now so
+is the world ready to move to a
+a gold standard back to a gold standard
+or before the glass-steagall act for the
+for the for the banks as well where
+things are done properly where you have
+one
+unit of measurement and you have to have
+the
+something to back it up you know i'm not
+sure the world wants to go
+back to to that standard because
+most of the economies that we have right
+now
+most of them are inflated we are living
+in a big bubble that's why the crypto
+industry is where it is right now
+so cbdc's will be inflated just the same
+way
+and what about exchange rates so
+at the moment exchange rates
+supply demand one currency against
+another currency that's just going to be
+the same with uh with cbdc's
+well and an exchange rate is basically
+how much money is in circulation and
+not just that it's about what what the
+financial markets decide
+and it is still a demand and supply and
+expectation
+as well by by the traders so i do not
+see much difference in the way
+the effects markets work as a speculator
+or an nx trader to be able to influence
+the fx markets if cbds were involved
+rather than than traditional currencies
+the only difference is that if cbdc's
+are in place a government can move much
+quicker to reduce
+or increase the money supply
+pavel
+yeah what i wanted to say is it just
+came to my mind and i never really
+thought about it but
+once cbdc's become
+something that's in effect and if there
+really are blockchains that are really
+open then
+the governments of the world are going
+to start having the problems that
+decentralized blockchains have right now
+which is bridging and interoperability
+like what if i exchange
+the indonesian currency here for serbian
+currency where i am like does this mean
+that i actually burn
+tokens here and print them somewhere
+else how will this work who will manage
+these bridges will this be like an
+international cooperation or will it
+just be a
+probably a big mess
+so this is something that we are about
+to discover
+but
+to just very quickly add on i think that
+cptcs are
+first and foremost were conceived as a
+reactionary
+type
+as a reaction to essentially the crypto
+market i think there was this idea that
+you will just have
+all of these stable coins and people
+will use them because they just believe
+that they work even though they aren't
+really covered or people just sort of
+believe they're covered and that
+essentially lets you print money without
+a license and this can potentially be
+dangerous for the sovereignty of your
+nation's money
+and everything else is just a fight
+essentially we're going to have the
+biggest fight for financial privacy
+in the history of the world in the next
+10 years so we either we retain some
+financial privacy or all of it will be
+gone
+this is the biggest danger in my opinion
+of cbdc's because they can just be
+designed as a solution to something that
+seems like an urgent problem
+and then it's it's like some of the
+coronavirus measures like privacy was
+never taken into account and that's what
+i'm personally afraid of
+that we will just have a system that
+fully
+accounts and fully tracks every
+cent of every dollar that you ever own
+well
+i'd like to share some information i
+like use cases in korea because uh the
+korean people don't use cash anymore
+like i can definitely tell you like i
+haven't seen korean
+cash
+for like more than six months i haven't
+even seen them i don't know where they
+are
+now people are just only only using that
+payment system with a credit card that's
+it probably 99 of the transactions
+are digitally
+made in korea already
+and then the government actually
+found out that all those big name
+companies uh you know those credit card
+companies and payment system companies
+you're pointing out that they're
+actually taking all the data
+off of the people
+and then uh you know people actually
+don't worry about like cbdc and then
+taking control like big brother thing
+and stuff like that but
+in reality those like credit card
+companies and payment system companies
+are taking all the data and they're
+actually actually controlling the social
+network
+so like
+in opposite like government
+like have to do something about this
+thing
+so
+in korea it's more like they have to do
+it's not like they want to do or like
+maybe there's benefit or something it's
+more like that
+their mission
+to accomplish
+i i think you're probably right in that
+most central banks see this is a space
+they've got to be doing something in
+rather than they want to be doing
+something in but nevertheless there are
+a load of
+uh good opportunities if if they're
+going to get involved and play but
+you talked about cash and and
+how little that is used nowadays what we
+found around the world for the last
+couple of years of lockdowns and and
+everything else
+was it telescoped many many things it
+telescopes the use of
+uh zoom
+or video conferencing it telescopes the
+use of cashless payments even the shops
+that were open in the uk
+had signed up saying not accepting cash
+because it was dirty everybody was
+touching it
+so it's telescoped even the people that
+didn't particularly want to be moving
+over to to paying uh with credit card or
+or something simple not even talking
+about about cryptos or stable coins but
+it sort of moved that whole space
+and i think the
+uh
+the whole environment has just got
+quicker and quicker
+and so
+as the the private sector moves ever
+more quickly the government sector is
+now sort of rushing along to try and
+play catch-up
+so
+i guess
+well maybe it's a question
+better left towards the end but i'm
+going to ask it now anyway so
+are we seeing cbdc's
+as as a type of stablecoin
+or are you seeing it as something quite
+separate
+so we we touched upon what a private
+stablecoin is it's it's tethered to
+dollar or euro
+and whilst this uh
+cbdc's won't fluctuate in the way that
+maybe bitcoin or ethereum does
+nevertheless uh it's not quite the same
+so how are you guys viewing it do you
+see them as as being very much in the
+same space or or actually operating
+their own little space
+well well if i made i'm just
+drawing on on
+my experience in from malaysia
+you know and
+they they look at it as a
+as a more efficient way for
+international settlements so which is
+why they are they are moving towards uh
+no
+they've not really
+adopted it yet but they've done a poc um
+to then say that no
+the the the
+international settlements time you know
+if you if you use cbdc and you settle
+within other countries it's much more
+efficient and it's much more faster
+right from from that perspective i think
+note that there is a use case
+and project dunbar by the way is
+launched by you know bank for
+international settlements and four
+countries were involved in in that no
+exploring no multinational multi-cbdc
+kind of a settlement so malaysia
+singapore australia and south africa
+were part of that uh that consortium and
+and they recently just concluded and
+they found note that the the use case is
+pretty real and you can save a lot of
+time and money by the way so so the
+so back to your previous question right
+why would banks or central banks or
+monetary
+authorities would like a dog bit right
+you know
+looking at that level but no if you then
+telescope it back down to a uh
+a retail level then then yeah the the
+debate i think is out there right you
+know do you want to have a cbdc rupiah
+or you want to have a cbdc ringgit or
+you would rather hold
+a usdt or usdc right you know
+i'm i'm not sure
+maybe
+alexander or kim
+obviously there is a benefit what we're
+saying with regards to settlement
+because when i send you a transfer from
+walter to the uk
+normal transfers are t plus two by the
+time the the settlements are are in
+place you can receive it but technically
+it's not settled so there's always two
+days by the time money starts when i
+send it from me to you so there's a very
+specific use case and answering your
+very specific questions
+um if of stable coins versus the cbdc
+it's it's a bit of a tricky question
+because you're talking about issuing a
+national currency but being stable
+stable against what
+so we're not issuing dollars on like on
+on the blockchain and pegging it to
+something else so the only reason the
+only value
+why we would
+call
+scbdc a stablecoin is if we go back to
+what we originally discussed if we are
+willing to go back to pegging
+and the value of our leader our value of
+our dollar or sterling to something
+which have actually uh value let's say
+for example going back to the to the
+gold standard this we can then say that
+fiat went back to being stable otherwise
+our currencies right now are not stable
+fiat is not stable
+we we adore too much fiat by saying we
+packed usdt to the dollar now it's
+stable
+if we go back to fiat i say we need to
+pick fiat
+to something that is tangible
+and
+that is the only way
+i will
+bend over backwards and say
+fiat is stable if we are willing to peg
+it to something of value otherwise we're
+gonna go to the same loop that we've
+been go going over the last five ten
+fifteen years
+going printing money
+and then trying to to uh
+to
+retract it further down the line don't
+get me wrong we
+enjoy when governments print money when
+there is recessions because we make
+money you know i've been trading for 17
+years and when there's panic in the
+markets we love it
+but that shouldn't be the way things are
+done so that's why i would suggest if
+we're going to call sabdc a stablecoin
+we go back to pegging it to a unit of
+value not to the government's trust yeah
+and we all know that's never going to
+happen so not going to happen taboo
+well what i wanted to say is i believe
+that speaking from like a web 3
+perspective i think webtree is going to
+start eating cbdc it's not in a sense
+that it's going to displace them and
+it's never going to displace cbdc money
+because people
+are used to think about pricing things
+and money
+and say usd or a major currency or in
+their local currency so in a lot of ways
+you you need
+something that that looks like your
+local money to be able to use different
+financial applications but i can see
+this as a i can see cptc is slowly
+displacing directly
+backed uh stable coins such as tether
+because you don't you don't really need
+to
+trust tether if you have the ultimate
+authority of your money that is
+issuing money
+back stable coins will endure in
+situations where they are incentivized
+for example uh binance might incentivize
+people to hold busd for their own
+reasons and people will hold hold busd
+because they trust finance and because
+they are literally being paid to do so
+however i think that
+like the entire d5 space is hungry for
+like real world assets
+real world assets
+such as money can come in into these
+smart contract-based systems and they
+can help stabilize and and and remove
+pressure and help grow the overall d5
+market
+so i am pretty sure that there are
+already talks by big dows such as maker
+dow for example to onboard like bank
+loans
+collateralize them into like nfts and
+put them by them and put them in their
+in their treasuries so this is just
+removes the intermediary and says well
+we got a bunch of cash just in case of
+an emergency if there's some kind of
+liquidation crunch if the price of the
+token suddenly drops or if we just need
+cash on hand to buy something you know
+because
+we have to sell
+say eth or ever tokens but we don't need
+to do that and disrupt the market when
+we have literal cash on hand we can go
+buy something as a doubt
+so i think in that sense that cbdc is if
+implemented
+the way i believe should be interpreted
+which is like open and integrated
+worldwide
+they will become a seamless part of web3
+and i think that's the best possible
+outcome because then we have all these
+emergent situations all these emergent
+plays all these new startups and
+thousands and things that can be
+experimented upon
+so in a nutshell
+backed
+this is this entire
+uh movement
+is expected by in my opinion to uh
+displace these directly backed tokens
+but they will still kind of live around
+if incentivized and web3 will definitely
+eat a lot of the cbdc's and put it into
+like existing blockchains
+okay and moving on if we can because i'm
+very mindful of time moving on a bit
+more away from the theoretical and
+looking more at the technical so what
+about the actual implementing uh cbdc's
+on blockchain
+in both
+a developed financial market and in more
+of a frontier or emerging
+financial market are the differences
+between the two and how would you go
+about it and how easy or how difficult
+it is talk us through that a little bit
+maybe papal that's that's probably
+one for you to start with okay yeah
+yeah this is quite a different angle but
+essentially uh the issue here is scale
+so a cbdc cannot be built on a on a
+blockchain that has the same kind of
+consensus rules and is built to
+be massively redundant and massively
+distributed mostly because
+theoretically the number of transactions
+you can have on a cbdc network can be
+in the millions per second
+so
+i think uh that cpcs as they scale will
+probably use similar approaches that
+have been uh sort of researched by
+traditionally centralized blockchains
+which is potentially modularity
+either that or we will have like a very
+small set of authorities that
+run big huge data centers like visa does
+and they will process an enormous number
+of transactions since this is
+essentially
+uh this is essentially a system that
+looks like a blockchain
+and has interfaces like a blockchain but
+is controlled by one entity by one
+government then it can be basically run
+on a server farm or a bunch of server
+farms so in the end if
+if countries decide to distribute this
+network to citizens or private entities
+then it will have to be modular in scope
+like it will have to settle through
+multiple layers
+if and this is more likely in the
+beginning it still stays as a tightly
+controlled network
+it will probably be run on a bunch of
+government data centers and then it will
+not really have the same kind of scaling
+issues that blockchains have nowadays
+because it is essentially just a big
+payment settlement network like banks
+use today
+any other thoughts on that one
+the the difference between cbdc's and uh
+stable coins is really easy one is
+centralized as hell so
+we we should uh
+we should understand that that is not
+not one government uh
+ever
+as i know plan to distribute their
+fiscal power
+between
+people entities so i tell you how it
+will be let's say united states uh
+start using cbdc's uh when the the
+use cases will be like uh okay we don't
+want oil companies to you know develop
+new
+places to
+[Music]
+gather oil
+climate change all that stuff
+democrats tell that we want to present
+them and if like
+now they
+have to you know
+talk to every bank you shouldn't have
+get the you shouldn't help help them get
+funded you shouldn't give them money
+with cbdc's they just press a button and
+you can't fund you let's say oil call
+whatever and if you know how the
+politics work
+how the elections work it could be a
+really terrific
+that's my opinion on that
+i usually like to boil down things very
+simply as you're you're getting the gist
+so all we're talking about really is um
+centralized electronic money
+with a ledger that that that's that's
+all we're talking about cbdc
+so
+it has needs to have two functions one
+this will operate in a very highly
+regulated environment
+with with certain abilities to be able
+to change money in circulation so right
+now fiat are based
+on government intervention if we need to
+intervene there's always something
+available so we need to leave that
+intervention in place otherwise there's
+not going to be any uptake by any
+governments
+and second if we're going to design say
+for example ever to be a cbdc to to be a
+chain the transat cbdc
+we need to also keep in mind once we
+design it around say for example let's
+say the maltese or the british
+government that once we designed it for
+this government it is interoperable with
+other chains out there so those two
+things might not go hand in hand or when
+you program one you might not think of
+the other but if you don't think of both
+at the same time then you're going to
+run into problems later down the line
+and personally
+i think that
+this we're not going to live in a world
+where
+everyone is going to go to the to around
+table and we're going to develop cbdc's
+that are interoperable but
+we're going to get specific regions
+because of the geopolitical scenario
+that adopt their cbdc for example
+russia china and the cis region will
+develop their own they come back
+together because they do not speak maybe
+to the western countries and we're going
+to get a hodgepodge
+of cbdc's that later down the line we're
+going to have a problem to make
+interoperable between themselves and
+obviously i might be wrong but this is
+my view of the world
+well i think back back to dave and paul
+bell's earlier point right
+cbdc is all about trust right and i
+think you know and on on your point how
+do you implement it properly
+um
+i think it's got a lot to do with know
+the the oracles the data that you
+integrate right because ultimately no
+currency is
+is decided you know on on interest rates
+on on
+on inflation and economies makes those
+kind of complicated you know so-called
+calculations right now to to estimate uh
+how much you know a currency is worth
+and then how do you combat against
+inflation or deflation and all these
+other things right so if implemented
+properly and i think cbdc could be
+much more efficient you know because
+it's algorithm mines and also all the
+formulas are put in place properly but
+you know like you say do you have you
+know the necessary data or oracles uh to
+support not that
+that that algorithm to to again back to
+your point make it stable right so what
+is the definition of stable by the way
+right so i think though
+with with those combination you know and
+then if implemented properly uh it could
+be you know it could be one of those uh
+better cases and i don't think the
+difference is between a developed
+country versus a non-developed country i
+think it's then it's a battle of
+standards
+which standards or which protocols you
+know it's going to be the the most
+widely adopted protocol and i think the
+one step that broker is being you know
+taken by the governments and then i
+think the interoperability then will
+will be easier to solve because
+everybody's using similar protocols and
+and so you have similar level of trust
+if i know that you are using a certain
+formula to compute
+right the the stability right of your
+currency you know versus mine no if
+you're using different protocols or
+different standards or ways to to to
+stabilize our currencies then
+then that's where the trust is is not
+there anymore right yeah and then i
+think back to that question right i
+think so so i guess that whole question
+of
+interoperability and cooperation is is
+core
+uh
+and you have to ask yourself what are
+the chances of that happening
+but globally i mean it's it's probably
+not is it
+well again back to project dunbar right
+now so so it's four countries coming
+together to test it out exactly but but
+four countries not
+270 or 300 and yeah i mean whatever
+that i think we're going to have a
+hodgepodge of different countries or
+different regions coming together but i
+think it's a pipe dream and it's going
+to remain as a pipeline for quite a long
+time yes unfortunately we see now in the
+world is de globalization so
+supply chains destructions everybody
+fights each other
+uh
+dollar become a little bit weaker a
+little bit weaker every year as you say
+now they should rely on the currency
+that will be backed by real commodities
+like
+metal
+oil gold something and uh probably that
+will be the trend for next 10 20 years
+so we
+probably can't see the
+whole friendship cbdc for all countries
+unfortunately yeah
+okay so just to wrap up then um
+i guess the the bottom line question is
+are cbdc's
+a good thing or a bad thing should we
+just work along the line again as this
+is the last very brief uh
+brief brief comments and your thoughts
+on everything that we've discussed today
+pablo let's start with you and work back
+in this direction again
+i think the cbdc's will simply be a
+thing okay it's like
+as oppenheimer said you you have the key
+and it opens the gaze to heaven and the
+gates to hell and we definitely have the
+technology to build it
+and it can be used to
+bring some very interesting financial
+innovation it can be like the gateway to
+ubi in certain countries it can also be
+a nightmare for privacy it can be used
+to exclude political
+the opinionated persons from the
+financial system and from the monetary
+system which is the level above
+so
+the fight is on us
+to try and as as a worldwide society to
+try and make this into something that is
+that is
+good and accessible for everyone and
+interoperable so that's the only thing
+that that i think we can say that the
+fight is on us
+okay yeah i do
+by the way yeah you know uh it's
+inevitable right so
+you can't resist it no then it's it's up
+to us to make sure that it's being
+ushered or being pushed down the right
+path right instead of just letting go
+well and
+and governments adopting subpass
+standards you know into deploying their
+cv dc's right so i think
+it's everybody's so-called
+effort and everybody is a responsibility
+to ensure that you know we will hold our
+governments accountable um you know when
+they're deploying these sort of
+technologies right and not you know get
+so-called uh swayed not by personal
+interest to then adopt a particular
+technology because i'm friends with them
+or whatever right
+yeah your thoughts sure oh yeah
+on the same page of course uh we don't
+know what's gonna happen
+all i do is i try my best to
+make it better
+that's all i can say and then these guys
+covered pretty much everything so uh
+i'll i'll define it as a one-liner i
+think it's a pandora's box with great
+possibilities
+okay i uh wrap it up like this way uh i
+think the cbd6 is unfortunately another
+nail to a coffin of free markets
+and uh certainly a threat to united
+states dollars so it's
+like half half
+okay and and on that note i guess thank
+you very much guys a very interesting
+discussion i hope everybody out there
+found it interesting also
+and uh thank you for your time thank you
+thank you
+okay guys so uh we have a little
+surprise for you so we have
+two
+two hidden videos after the titles so
+please
+let me show you
+two teasing videos
+community
+become a member of a global community of
+like-minded individuals
+take the initiative and contribute to
+the development of a fast-growing
+network
+expertise
+share your skill and knowledge engage in
+governance processes and get rewarded
+for your contributions
+blockchain
+explore the possibilities of the fast
+secure
+an infinitely scalable ever scale
+blockchain
+capable of handling millions of
+transactions per second
+everscale ever point conference bali
+by everscale

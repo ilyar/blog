@@ -1,0 +1,9715 @@
+1
+00:00:00,000 --> 00:00:01,350
+
+oh cinnamon
+
+2
+00:00:01,350 --> 00:00:01,360
+oh cinnamon
+ 
+
+3
+00:00:01,360 --> 00:00:02,710
+oh cinnamon
+good
+
+4
+00:00:02,710 --> 00:00:02,720
+good
+ 
+
+5
+00:00:02,720 --> 00:00:19,830
+good
+okay
+
+6
+00:00:19,830 --> 00:00:19,840
+
+ 
+
+7
+00:00:19,840 --> 00:00:22,870
+
+uh hi all uh welcome to our uh ama
+
+8
+00:00:22,870 --> 00:00:22,880
+uh hi all uh welcome to our uh ama
+ 
+
+9
+00:00:22,880 --> 00:00:25,269
+uh hi all uh welcome to our uh ama
+session uh this um
+
+10
+00:00:25,269 --> 00:00:25,279
+session uh this um
+ 
+
+11
+00:00:25,279 --> 00:00:27,990
+session uh this um
+this is our guest for today uh it's uh
+
+12
+00:00:27,990 --> 00:00:28,000
+this is our guest for today uh it's uh
+ 
+
+13
+00:00:28,000 --> 00:00:31,029
+this is our guest for today uh it's uh
+sergey pategan he is a
+
+14
+00:00:31,029 --> 00:00:31,039
+sergey pategan he is a
+ 
+
+15
+00:00:31,039 --> 00:00:33,830
+sergey pategan he is a
+team lead at the broxus
+
+16
+00:00:33,830 --> 00:00:33,840
+team lead at the broxus
+ 
+
+17
+00:00:33,840 --> 00:00:36,389
+team lead at the broxus
+and today he will uh tell us more about
+
+18
+00:00:36,389 --> 00:00:36,399
+and today he will uh tell us more about
+ 
+
+19
+00:00:36,399 --> 00:00:39,750
+and today he will uh tell us more about
+the future of products migration
+
+20
+00:00:39,750 --> 00:00:39,760
+the future of products migration
+ 
+
+21
+00:00:39,760 --> 00:00:41,910
+the future of products migration
+on the new tip
+
+22
+00:00:41,910 --> 00:00:41,920
+on the new tip
+ 
+
+23
+00:00:41,920 --> 00:00:43,670
+on the new tip
+3 standard
+
+24
+00:00:43,670 --> 00:00:43,680
+3 standard
+ 
+
+25
+00:00:43,680 --> 00:00:45,990
+3 standard
+closer game please can you
+
+26
+00:00:45,990 --> 00:00:46,000
+closer game please can you
+ 
+
+27
+00:00:46,000 --> 00:00:47,830
+closer game please can you
+tell us more about it
+
+28
+00:00:47,830 --> 00:00:47,840
+tell us more about it
+ 
+
+29
+00:00:47,840 --> 00:00:48,869
+tell us more about it
+yeah sure
+
+30
+00:00:48,869 --> 00:00:48,879
+yeah sure
+ 
+
+31
+00:00:48,879 --> 00:00:51,510
+yeah sure
+uh thank you for annotation
+
+32
+00:00:51,510 --> 00:00:51,520
+uh thank you for annotation
+ 
+
+33
+00:00:51,520 --> 00:00:55,750
+uh thank you for annotation
+um yeah so um in a few words uh next few
+
+34
+00:00:55,750 --> 00:00:55,760
+um yeah so um in a few words uh next few
+ 
+
+35
+00:00:55,760 --> 00:00:58,869
+um yeah so um in a few words uh next few
+days we're gonna have a very
+
+36
+00:00:58,869 --> 00:00:58,879
+days we're gonna have a very
+ 
+
+37
+00:00:58,879 --> 00:00:59,910
+days we're gonna have a very
+uh
+
+38
+00:00:59,910 --> 00:00:59,920
+uh
+ 
+
+39
+00:00:59,920 --> 00:01:01,590
+uh
+important uh
+
+40
+00:01:01,590 --> 00:01:01,600
+important uh
+ 
+
+41
+00:01:01,600 --> 00:01:04,070
+important uh
+process called migration
+
+42
+00:01:04,070 --> 00:01:04,080
+process called migration
+ 
+
+43
+00:01:04,080 --> 00:01:07,030
+process called migration
+uh basically it's about launching new
+
+44
+00:01:07,030 --> 00:01:07,040
+uh basically it's about launching new
+ 
+
+45
+00:01:07,040 --> 00:01:10,390
+uh basically it's about launching new
+token standard in the everscale network
+
+46
+00:01:10,390 --> 00:01:10,400
+token standard in the everscale network
+ 
+
+47
+00:01:10,400 --> 00:01:13,750
+token standard in the everscale network
+so which is uh also important it affects
+
+48
+00:01:13,750 --> 00:01:13,760
+so which is uh also important it affects
+ 
+
+49
+00:01:13,760 --> 00:01:16,390
+so which is uh also important it affects
+probably every existing product on every
+
+50
+00:01:16,390 --> 00:01:16,400
+probably every existing product on every
+ 
+
+51
+00:01:16,400 --> 00:01:18,950
+probably every existing product on every
+scale you know like bridge
+
+52
+00:01:18,950 --> 00:01:18,960
+scale you know like bridge
+ 
+
+53
+00:01:18,960 --> 00:01:21,190
+scale you know like bridge
+dexes uh
+
+54
+00:01:21,190 --> 00:01:21,200
+dexes uh
+ 
+
+55
+00:01:21,200 --> 00:01:25,830
+dexes uh
+wallets block explorers and so on uh so
+
+56
+00:01:25,830 --> 00:01:25,840
+wallets block explorers and so on uh so
+ 
+
+57
+00:01:25,840 --> 00:01:28,710
+wallets block explorers and so on uh so
+it's not only about updating the token
+
+58
+00:01:28,710 --> 00:01:28,720
+it's not only about updating the token
+ 
+
+59
+00:01:28,720 --> 00:01:31,350
+it's not only about updating the token
+uh but also about updating every single
+
+60
+00:01:31,350 --> 00:01:31,360
+uh but also about updating every single
+ 
+
+61
+00:01:31,360 --> 00:01:34,390
+uh but also about updating every single
+product that works with token
+
+62
+00:01:34,390 --> 00:01:34,400
+product that works with token
+ 
+
+63
+00:01:34,400 --> 00:01:35,270
+product that works with token
+uh
+
+64
+00:01:35,270 --> 00:01:35,280
+uh
+ 
+
+65
+00:01:35,280 --> 00:01:38,069
+uh
+probably will start
+
+66
+00:01:38,069 --> 00:01:38,079
+probably will start
+ 
+
+67
+00:01:38,079 --> 00:01:40,630
+probably will start
+tomorrow this whole process
+
+68
+00:01:40,630 --> 00:01:40,640
+tomorrow this whole process
+ 
+
+69
+00:01:40,640 --> 00:01:44,710
+tomorrow this whole process
+and i hope we will finish it's uh on
+
+70
+00:01:44,710 --> 00:01:44,720
+and i hope we will finish it's uh on
+ 
+
+71
+00:01:44,720 --> 00:01:46,149
+and i hope we will finish it's uh on
+tuesday
+
+72
+00:01:46,149 --> 00:01:46,159
+tuesday
+ 
+
+73
+00:01:46,159 --> 00:01:48,550
+tuesday
+if everything uh
+
+74
+00:01:48,550 --> 00:01:48,560
+if everything uh
+ 
+
+75
+00:01:48,560 --> 00:01:49,990
+if everything uh
+works fine
+
+76
+00:01:49,990 --> 00:01:50,000
+works fine
+ 
+
+77
+00:01:50,000 --> 00:01:54,550
+works fine
+so uh basically uh we will update the
+
+78
+00:01:54,550 --> 00:01:54,560
+so uh basically uh we will update the
+ 
+
+79
+00:01:54,560 --> 00:01:57,910
+so uh basically uh we will update the
+bridge uh it means that uh
+
+80
+00:01:57,910 --> 00:01:57,920
+bridge uh it means that uh
+ 
+
+81
+00:01:57,920 --> 00:01:59,030
+bridge uh it means that uh
+uh yeah so
+
+82
+00:01:59,030 --> 00:01:59,040
+uh yeah so
+ 
+
+83
+00:01:59,040 --> 00:02:02,069
+uh yeah so
+few words about the bridge uh
+
+84
+00:02:02,069 --> 00:02:02,079
+few words about the bridge uh
+ 
+
+85
+00:02:02,079 --> 00:02:04,870
+few words about the bridge uh
+it will be relaunched from the genesis
+
+86
+00:02:04,870 --> 00:02:04,880
+it will be relaunched from the genesis
+ 
+
+87
+00:02:04,880 --> 00:02:08,949
+it will be relaunched from the genesis
+you know uh so uh every single contract
+
+88
+00:02:08,949 --> 00:02:08,959
+you know uh so uh every single contract
+ 
+
+89
+00:02:08,959 --> 00:02:10,790
+you know uh so uh every single contract
+will be redeployed
+
+90
+00:02:10,790 --> 00:02:10,800
+will be redeployed
+ 
+
+91
+00:02:10,800 --> 00:02:14,309
+will be redeployed
+uh will have like new token contracts a
+
+92
+00:02:14,309 --> 00:02:14,319
+uh will have like new token contracts a
+ 
+
+93
+00:02:14,319 --> 00:02:17,830
+uh will have like new token contracts a
+new bridge specific contracts and uh so
+
+94
+00:02:17,830 --> 00:02:17,840
+new bridge specific contracts and uh so
+ 
+
+95
+00:02:17,840 --> 00:02:18,630
+new bridge specific contracts and uh so
+on
+
+96
+00:02:18,630 --> 00:02:18,640
+on
+ 
+
+97
+00:02:18,640 --> 00:02:22,390
+on
+uh which is uh also important we will
+
+98
+00:02:22,390 --> 00:02:22,400
+uh which is uh also important we will
+ 
+
+99
+00:02:22,400 --> 00:02:25,190
+uh which is uh also important we will
+publish the instruction for for example
+
+100
+00:02:25,190 --> 00:02:25,200
+publish the instruction for for example
+ 
+
+101
+00:02:25,200 --> 00:02:28,710
+publish the instruction for for example
+for our release what they uh should do
+
+102
+00:02:28,710 --> 00:02:28,720
+for our release what they uh should do
+ 
+
+103
+00:02:28,720 --> 00:02:29,430
+for our release what they uh should do
+to
+
+104
+00:02:29,430 --> 00:02:29,440
+to
+ 
+
+105
+00:02:29,440 --> 00:02:31,910
+to
+support the immigration
+
+106
+00:02:31,910 --> 00:02:31,920
+support the immigration
+ 
+
+107
+00:02:31,920 --> 00:02:33,589
+support the immigration
+it's not a
+
+108
+00:02:33,589 --> 00:02:33,599
+it's not a
+ 
+
+109
+00:02:33,599 --> 00:02:36,229
+it's not a
+complex process you know it's just a few
+
+110
+00:02:36,229 --> 00:02:36,239
+complex process you know it's just a few
+ 
+
+111
+00:02:36,239 --> 00:02:40,150
+complex process you know it's just a few
+few comments but uh our bridge release
+
+112
+00:02:40,150 --> 00:02:40,160
+few comments but uh our bridge release
+ 
+
+113
+00:02:40,160 --> 00:02:42,390
+few comments but uh our bridge release
+needs to support it
+
+114
+00:02:42,390 --> 00:02:42,400
+needs to support it
+ 
+
+115
+00:02:42,400 --> 00:02:45,030
+needs to support it
+for a regular user you know like a token
+
+116
+00:02:45,030 --> 00:02:45,040
+for a regular user you know like a token
+ 
+
+117
+00:02:45,040 --> 00:02:48,070
+for a regular user you know like a token
+holder everyone who has used the t uh or
+
+118
+00:02:48,070 --> 00:02:48,080
+holder everyone who has used the t uh or
+ 
+
+119
+00:02:48,080 --> 00:02:48,830
+holder everyone who has used the t uh or
+like
+
+120
+00:02:48,830 --> 00:02:48,840
+like
+ 
+
+121
+00:02:48,840 --> 00:02:50,710
+like
+btc uh
+
+122
+00:02:50,710 --> 00:02:50,720
+btc uh
+ 
+
+123
+00:02:50,720 --> 00:02:52,630
+btc uh
+we will publish for your special
+
+124
+00:02:52,630 --> 00:02:52,640
+we will publish for your special
+ 
+
+125
+00:02:52,640 --> 00:02:55,990
+we will publish for your special
+interfaces probably on bridge uh maybe
+
+126
+00:02:55,990 --> 00:02:56,000
+interfaces probably on bridge uh maybe
+ 
+
+127
+00:02:56,000 --> 00:02:58,949
+interfaces probably on bridge uh maybe
+decks maybe some other our websites
+
+128
+00:02:58,949 --> 00:02:58,959
+decks maybe some other our websites
+ 
+
+129
+00:02:58,959 --> 00:03:02,550
+decks maybe some other our websites
+and uh your token update will
+
+130
+00:03:02,550 --> 00:03:02,560
+and uh your token update will
+ 
+
+131
+00:03:02,560 --> 00:03:03,589
+and uh your token update will
+uh
+
+132
+00:03:03,589 --> 00:03:03,599
+uh
+ 
+
+133
+00:03:03,599 --> 00:03:06,149
+uh
+will be like automatic you know so you
+
+134
+00:03:06,149 --> 00:03:06,159
+will be like automatic you know so you
+ 
+
+135
+00:03:06,159 --> 00:03:08,710
+will be like automatic you know so you
+will just detect if you have uh old
+
+136
+00:03:08,710 --> 00:03:08,720
+will just detect if you have uh old
+ 
+
+137
+00:03:08,720 --> 00:03:11,430
+will just detect if you have uh old
+version tokens and uh since you have it
+
+138
+00:03:11,430 --> 00:03:11,440
+version tokens and uh since you have it
+ 
+
+139
+00:03:11,440 --> 00:03:13,910
+version tokens and uh since you have it
+we will uh prompt you to confirm the
+
+140
+00:03:13,910 --> 00:03:13,920
+we will uh prompt you to confirm the
+ 
+
+141
+00:03:13,920 --> 00:03:16,710
+we will uh prompt you to confirm the
+update all you need is just click button
+
+142
+00:03:16,710 --> 00:03:16,720
+update all you need is just click button
+ 
+
+143
+00:03:16,720 --> 00:03:19,589
+update all you need is just click button
+in your crystal wallet and your old uh
+
+144
+00:03:19,589 --> 00:03:19,599
+in your crystal wallet and your old uh
+ 
+
+145
+00:03:19,599 --> 00:03:22,229
+in your crystal wallet and your old uh
+let's say use the t will be burned and
+
+146
+00:03:22,229 --> 00:03:22,239
+let's say use the t will be burned and
+ 
+
+147
+00:03:22,239 --> 00:03:25,110
+let's say use the t will be burned and
+the new one will will be minted to you
+
+148
+00:03:25,110 --> 00:03:25,120
+the new one will will be minted to you
+ 
+
+149
+00:03:25,120 --> 00:03:27,030
+the new one will will be minted to you
+that's it you know so for
+
+150
+00:03:27,030 --> 00:03:27,040
+that's it you know so for
+ 
+
+151
+00:03:27,040 --> 00:03:29,589
+that's it you know so for
+a like regular user it's kind of kind of
+
+152
+00:03:29,589 --> 00:03:29,599
+a like regular user it's kind of kind of
+ 
+
+153
+00:03:29,599 --> 00:03:31,589
+a like regular user it's kind of kind of
+simple process
+
+154
+00:03:31,589 --> 00:03:31,599
+simple process
+ 
+
+155
+00:03:31,599 --> 00:03:35,670
+simple process
+another important thing is the farming
+
+156
+00:03:35,670 --> 00:03:35,680
+another important thing is the farming
+ 
+
+157
+00:03:35,680 --> 00:03:37,030
+another important thing is the farming
+when we
+
+158
+00:03:37,030 --> 00:03:37,040
+when we
+ 
+
+159
+00:03:37,040 --> 00:03:40,070
+when we
+made a farming like a half year ago
+
+160
+00:03:40,070 --> 00:03:40,080
+made a farming like a half year ago
+ 
+
+161
+00:03:40,080 --> 00:03:43,830
+made a farming like a half year ago
+we made it especially uh unupdatable and
+
+162
+00:03:43,830 --> 00:03:43,840
+we made it especially uh unupdatable and
+ 
+
+163
+00:03:43,840 --> 00:03:46,309
+we made it especially uh unupdatable and
+upgradable you know so the current
+
+164
+00:03:46,309 --> 00:03:46,319
+upgradable you know so the current
+ 
+
+165
+00:03:46,319 --> 00:03:49,030
+upgradable you know so the current
+version of the farming let's say can be
+
+166
+00:03:49,030 --> 00:03:49,040
+version of the farming let's say can be
+ 
+
+167
+00:03:49,040 --> 00:03:53,110
+version of the farming let's say can be
+stopped immediately okay uh so uh
+
+168
+00:03:53,110 --> 00:03:53,120
+stopped immediately okay uh so uh
+ 
+
+169
+00:03:53,120 --> 00:03:56,149
+stopped immediately okay uh so uh
+what we're gonna do we will set the uh
+
+170
+00:03:56,149 --> 00:03:56,159
+what we're gonna do we will set the uh
+ 
+
+171
+00:03:56,159 --> 00:03:58,630
+what we're gonna do we will set the uh
+reward speed to zero
+
+172
+00:03:58,630 --> 00:03:58,640
+reward speed to zero
+ 
+
+173
+00:03:58,640 --> 00:04:01,350
+reward speed to zero
+so there will be no uh new rewards in
+
+174
+00:04:01,350 --> 00:04:01,360
+so there will be no uh new rewards in
+ 
+
+175
+00:04:01,360 --> 00:04:02,789
+so there will be no uh new rewards in
+the current farming
+
+176
+00:04:02,789 --> 00:04:02,799
+the current farming
+ 
+
+177
+00:04:02,799 --> 00:04:05,670
+the current farming
+let's call it like old farming and uh
+
+178
+00:04:05,670 --> 00:04:05,680
+let's call it like old farming and uh
+ 
+
+179
+00:04:05,680 --> 00:04:08,149
+let's call it like old farming and uh
+after that uh
+
+180
+00:04:08,149 --> 00:04:08,159
+after that uh
+ 
+
+181
+00:04:08,159 --> 00:04:10,149
+after that uh
+there is a duration as i remember like
+
+182
+00:04:10,149 --> 00:04:10,159
+there is a duration as i remember like
+ 
+
+183
+00:04:10,159 --> 00:04:13,589
+there is a duration as i remember like
+four months or half a year maybe uh into
+
+184
+00:04:13,589 --> 00:04:13,599
+four months or half a year maybe uh into
+ 
+
+185
+00:04:13,599 --> 00:04:15,589
+four months or half a year maybe uh into
+this uh rewards
+
+186
+00:04:15,589 --> 00:04:15,599
+this uh rewards
+ 
+
+187
+00:04:15,599 --> 00:04:17,509
+this uh rewards
+you know like your current reward will
+
+188
+00:04:17,509 --> 00:04:17,519
+you know like your current reward will
+ 
+
+189
+00:04:17,519 --> 00:04:19,430
+you know like your current reward will
+be vested to you
+
+190
+00:04:19,430 --> 00:04:19,440
+be vested to you
+ 
+
+191
+00:04:19,440 --> 00:04:23,189
+be vested to you
+so until uh until end of this period
+
+192
+00:04:23,189 --> 00:04:23,199
+so until uh until end of this period
+ 
+
+193
+00:04:23,199 --> 00:04:26,070
+so until uh until end of this period
+you have to uh you know wait until it
+
+194
+00:04:26,070 --> 00:04:26,080
+you have to uh you know wait until it
+ 
+
+195
+00:04:26,080 --> 00:04:27,830
+you have to uh you know wait until it
+completely unlocked
+
+196
+00:04:27,830 --> 00:04:27,840
+completely unlocked
+ 
+
+197
+00:04:27,840 --> 00:04:28,790
+completely unlocked
+take it
+
+198
+00:04:28,790 --> 00:04:28,800
+take it
+ 
+
+199
+00:04:28,800 --> 00:04:31,110
+take it
+they they will be released to you in the
+
+200
+00:04:31,110 --> 00:04:31,120
+they they will be released to you in the
+ 
+
+201
+00:04:31,120 --> 00:04:34,469
+they they will be released to you in the
+old uh tokens you will update it as i
+
+202
+00:04:34,469 --> 00:04:34,479
+old uh tokens you will update it as i
+ 
+
+203
+00:04:34,479 --> 00:04:37,670
+old uh tokens you will update it as i
+said to the new tokens and
+
+204
+00:04:37,670 --> 00:04:37,680
+said to the new tokens and
+ 
+
+205
+00:04:37,680 --> 00:04:40,150
+said to the new tokens and
+that's it we also will launch the new
+
+206
+00:04:40,150 --> 00:04:40,160
+that's it we also will launch the new
+ 
+
+207
+00:04:40,160 --> 00:04:43,430
+that's it we also will launch the new
+farming instance with new pools so
+
+208
+00:04:43,430 --> 00:04:43,440
+farming instance with new pools so
+ 
+
+209
+00:04:43,440 --> 00:04:45,510
+farming instance with new pools so
+there is no problem for you to
+
+210
+00:04:45,510 --> 00:04:45,520
+there is no problem for you to
+ 
+
+211
+00:04:45,520 --> 00:04:48,870
+there is no problem for you to
+uh right after the update take out your
+
+212
+00:04:48,870 --> 00:04:48,880
+uh right after the update take out your
+ 
+
+213
+00:04:48,880 --> 00:04:51,510
+uh right after the update take out your
+liquidity from the current farming and
+
+214
+00:04:51,510 --> 00:04:51,520
+liquidity from the current farming and
+ 
+
+215
+00:04:51,520 --> 00:04:54,230
+liquidity from the current farming and
+uh deposit it to the new one
+
+216
+00:04:54,230 --> 00:04:54,240
+uh deposit it to the new one
+ 
+
+217
+00:04:54,240 --> 00:04:56,950
+uh deposit it to the new one
+uh so so yeah uh the farming also will
+
+218
+00:04:56,950 --> 00:04:56,960
+uh so so yeah uh the farming also will
+ 
+
+219
+00:04:56,960 --> 00:05:00,629
+uh so so yeah uh the farming also will
+be updated it's like first priority
+
+220
+00:05:00,629 --> 00:05:00,639
+be updated it's like first priority
+ 
+
+221
+00:05:00,639 --> 00:05:03,029
+be updated it's like first priority
+another thing is our decks
+
+222
+00:05:03,029 --> 00:05:03,039
+another thing is our decks
+ 
+
+223
+00:05:03,039 --> 00:05:05,430
+another thing is our decks
+uh since you know it works with tokens
+
+224
+00:05:05,430 --> 00:05:05,440
+uh since you know it works with tokens
+ 
+
+225
+00:05:05,440 --> 00:05:07,830
+uh since you know it works with tokens
+it also needs to be updated
+
+226
+00:05:07,830 --> 00:05:07,840
+it also needs to be updated
+ 
+
+227
+00:05:07,840 --> 00:05:09,270
+it also needs to be updated
+uh
+
+228
+00:05:09,270 --> 00:05:09,280
+uh
+ 
+
+229
+00:05:09,280 --> 00:05:13,029
+uh
+probably uh i i hope we will uh also
+
+230
+00:05:13,029 --> 00:05:13,039
+probably uh i i hope we will uh also
+ 
+
+231
+00:05:13,039 --> 00:05:15,270
+probably uh i i hope we will uh also
+finish it until tuesday
+
+232
+00:05:15,270 --> 00:05:15,280
+finish it until tuesday
+ 
+
+233
+00:05:15,280 --> 00:05:17,749
+finish it until tuesday
+uh
+
+234
+00:05:17,749 --> 00:05:17,759
+
+ 
+
+235
+00:05:17,759 --> 00:05:19,029
+
+so
+
+236
+00:05:19,029 --> 00:05:19,039
+so
+ 
+
+237
+00:05:19,039 --> 00:05:21,350
+so
+the instruction for the users who have
+
+238
+00:05:21,350 --> 00:05:21,360
+the instruction for the users who have
+ 
+
+239
+00:05:21,360 --> 00:05:23,990
+the instruction for the users who have
+like uh you know liquidity position uh
+
+240
+00:05:23,990 --> 00:05:24,000
+like uh you know liquidity position uh
+ 
+
+241
+00:05:24,000 --> 00:05:26,629
+like uh you know liquidity position uh
+in some pools uh will be released
+
+242
+00:05:26,629 --> 00:05:26,639
+in some pools uh will be released
+ 
+
+243
+00:05:26,639 --> 00:05:29,830
+in some pools uh will be released
+probably it will won't also be a complex
+
+244
+00:05:29,830 --> 00:05:29,840
+probably it will won't also be a complex
+ 
+
+245
+00:05:29,840 --> 00:05:33,029
+probably it will won't also be a complex
+process uh you just need to press a few
+
+246
+00:05:33,029 --> 00:05:33,039
+process uh you just need to press a few
+ 
+
+247
+00:05:33,039 --> 00:05:35,590
+process uh you just need to press a few
+buttons probably send a few cheap error
+
+248
+00:05:35,590 --> 00:05:35,600
+buttons probably send a few cheap error
+ 
+
+249
+00:05:35,600 --> 00:05:39,029
+buttons probably send a few cheap error
+scale transactions and that's it so yeah
+
+250
+00:05:39,029 --> 00:05:39,039
+scale transactions and that's it so yeah
+ 
+
+251
+00:05:39,039 --> 00:05:40,390
+scale transactions and that's it so yeah
+uh
+
+252
+00:05:40,390 --> 00:05:40,400
+uh
+ 
+
+253
+00:05:40,400 --> 00:05:42,629
+uh
+well uh what is a
+
+254
+00:05:42,629 --> 00:05:42,639
+well uh what is a
+ 
+
+255
+00:05:42,639 --> 00:05:45,670
+well uh what is a
+few words about the new token standard
+
+256
+00:05:45,670 --> 00:05:45,680
+few words about the new token standard
+ 
+
+257
+00:05:45,680 --> 00:05:47,110
+few words about the new token standard
+um
+
+258
+00:05:47,110 --> 00:05:47,120
+um
+ 
+
+259
+00:05:47,120 --> 00:05:50,150
+um
+first of all why it was uh made
+
+260
+00:05:50,150 --> 00:05:50,160
+first of all why it was uh made
+ 
+
+261
+00:05:50,160 --> 00:05:52,870
+first of all why it was uh made
+because we had an old token standard for
+
+262
+00:05:52,870 --> 00:05:52,880
+because we had an old token standard for
+ 
+
+263
+00:05:52,880 --> 00:05:56,629
+because we had an old token standard for
+a year probably and it works just fine
+
+264
+00:05:56,629 --> 00:05:56,639
+a year probably and it works just fine
+ 
+
+265
+00:05:56,639 --> 00:05:58,790
+a year probably and it works just fine
+there is there are a few reasons first
+
+266
+00:05:58,790 --> 00:05:58,800
+there is there are a few reasons first
+ 
+
+267
+00:05:58,800 --> 00:06:02,469
+there is there are a few reasons first
+of all there are a few like uh
+
+268
+00:06:02,469 --> 00:06:02,479
+of all there are a few like uh
+ 
+
+269
+00:06:02,479 --> 00:06:05,029
+of all there are a few like uh
+minor security issues
+
+270
+00:06:05,029 --> 00:06:05,039
+minor security issues
+ 
+
+271
+00:06:05,039 --> 00:06:06,790
+minor security issues
+uh they are
+
+272
+00:06:06,790 --> 00:06:06,800
+uh they are
+ 
+
+273
+00:06:06,800 --> 00:06:07,749
+uh they are
+uh
+
+274
+00:06:07,749 --> 00:06:07,759
+uh
+ 
+
+275
+00:06:07,759 --> 00:06:10,950
+uh
+they they are not lead to the uh steal
+
+276
+00:06:10,950 --> 00:06:10,960
+they they are not lead to the uh steal
+ 
+
+277
+00:06:10,960 --> 00:06:12,230
+they they are not lead to the uh steal
+of uh
+
+278
+00:06:12,230 --> 00:06:12,240
+of uh
+ 
+
+279
+00:06:12,240 --> 00:06:14,550
+of uh
+funds you know you can't lose your funds
+
+280
+00:06:14,550 --> 00:06:14,560
+funds you know you can't lose your funds
+ 
+
+281
+00:06:14,560 --> 00:06:17,909
+funds you know you can't lose your funds
+but uh they can lead to some kind of
+
+282
+00:06:17,909 --> 00:06:17,919
+but uh they can lead to some kind of
+ 
+
+283
+00:06:17,919 --> 00:06:20,469
+but uh they can lead to some kind of
+denial of service attacks you know when
+
+284
+00:06:20,469 --> 00:06:20,479
+denial of service attacks you know when
+ 
+
+285
+00:06:20,479 --> 00:06:21,430
+denial of service attacks you know when
+uh
+
+286
+00:06:21,430 --> 00:06:21,440
+uh
+ 
+
+287
+00:06:21,440 --> 00:06:24,790
+uh
+some malicious actor can like block you
+
+288
+00:06:24,790 --> 00:06:24,800
+some malicious actor can like block you
+ 
+
+289
+00:06:24,800 --> 00:06:27,029
+some malicious actor can like block you
+from performing operations with your
+
+290
+00:06:27,029 --> 00:06:27,039
+from performing operations with your
+ 
+
+291
+00:06:27,039 --> 00:06:27,990
+from performing operations with your
+token
+
+292
+00:06:27,990 --> 00:06:28,000
+token
+ 
+
+293
+00:06:28,000 --> 00:06:28,710
+token
+and
+
+294
+00:06:28,710 --> 00:06:28,720
+and
+ 
+
+295
+00:06:28,720 --> 00:06:30,870
+and
+it's not really good it should be fixed
+
+296
+00:06:30,870 --> 00:06:30,880
+it's not really good it should be fixed
+ 
+
+297
+00:06:30,880 --> 00:06:33,510
+it's not really good it should be fixed
+and the current version of the token are
+
+298
+00:06:33,510 --> 00:06:33,520
+and the current version of the token are
+ 
+
+299
+00:06:33,520 --> 00:06:35,029
+and the current version of the token are
+also
+
+300
+00:06:35,029 --> 00:06:35,039
+also
+ 
+
+301
+00:06:35,039 --> 00:06:36,390
+also
+unupgradable
+
+302
+00:06:36,390 --> 00:06:36,400
+unupgradable
+ 
+
+303
+00:06:36,400 --> 00:06:39,350
+unupgradable
+so you know we can't just uh
+
+304
+00:06:39,350 --> 00:06:39,360
+so you know we can't just uh
+ 
+
+305
+00:06:39,360 --> 00:06:42,950
+so you know we can't just uh
+upgrade all of them uh in uh
+
+306
+00:06:42,950 --> 00:06:42,960
+upgrade all of them uh in uh
+ 
+
+307
+00:06:42,960 --> 00:06:44,950
+upgrade all of them uh in uh
+in a few in a few minutes
+
+308
+00:06:44,950 --> 00:06:44,960
+in a few in a few minutes
+ 
+
+309
+00:06:44,960 --> 00:06:47,430
+in a few in a few minutes
+so we have to redeploy all the contracts
+
+310
+00:06:47,430 --> 00:06:47,440
+so we have to redeploy all the contracts
+ 
+
+311
+00:06:47,440 --> 00:06:49,990
+so we have to redeploy all the contracts
+all the network all the products
+
+312
+00:06:49,990 --> 00:06:50,000
+all the network all the products
+ 
+
+313
+00:06:50,000 --> 00:06:53,270
+all the network all the products
+uh another important thing is that uh
+
+314
+00:06:53,270 --> 00:06:53,280
+uh another important thing is that uh
+ 
+
+315
+00:06:53,280 --> 00:06:55,110
+uh another important thing is that uh
+the last year
+
+316
+00:06:55,110 --> 00:06:55,120
+the last year
+ 
+
+317
+00:06:55,120 --> 00:06:57,589
+the last year
+uh in aeroscale we didn't have like the
+
+318
+00:06:57,589 --> 00:06:57,599
+uh in aeroscale we didn't have like the
+ 
+
+319
+00:06:57,599 --> 00:06:59,670
+uh in aeroscale we didn't have like the
+common token standards like you know the
+
+320
+00:06:59,670 --> 00:06:59,680
+common token standards like you know the
+ 
+
+321
+00:06:59,680 --> 00:07:03,350
+common token standards like you know the
+erc20 in ethereum so every probably
+
+322
+00:07:03,350 --> 00:07:03,360
+erc20 in ethereum so every probably
+ 
+
+323
+00:07:03,360 --> 00:07:05,990
+erc20 in ethereum so every probably
+every team had uh
+
+324
+00:07:05,990 --> 00:07:06,000
+every team had uh
+ 
+
+325
+00:07:06,000 --> 00:07:09,110
+every team had uh
+their own standard like processor made
+
+326
+00:07:09,110 --> 00:07:09,120
+their own standard like processor made
+ 
+
+327
+00:07:09,120 --> 00:07:10,710
+their own standard like processor made
+their uh products with their own
+
+328
+00:07:10,710 --> 00:07:10,720
+their uh products with their own
+ 
+
+329
+00:07:10,720 --> 00:07:13,909
+their uh products with their own
+standards and labs use their own one and
+
+330
+00:07:13,909 --> 00:07:13,919
+standards and labs use their own one and
+ 
+
+331
+00:07:13,919 --> 00:07:18,309
+standards and labs use their own one and
+so on uh we finally uh
+
+332
+00:07:18,309 --> 00:07:18,319
+so on uh we finally uh
+ 
+
+333
+00:07:18,319 --> 00:07:21,029
+so on uh we finally uh
+found a consensus in our vision of a
+
+334
+00:07:21,029 --> 00:07:21,039
+found a consensus in our vision of a
+ 
+
+335
+00:07:21,039 --> 00:07:22,390
+found a consensus in our vision of a
+token standard
+
+336
+00:07:22,390 --> 00:07:22,400
+token standard
+ 
+
+337
+00:07:22,400 --> 00:07:27,029
+token standard
+so now uh you can see the the current uh
+
+338
+00:07:27,029 --> 00:07:27,039
+so now uh you can see the the current uh
+ 
+
+339
+00:07:27,039 --> 00:07:28,870
+so now uh you can see the the current uh
+the current standard on the ever
+
+340
+00:07:28,870 --> 00:07:28,880
+the current standard on the ever
+ 
+
+341
+00:07:28,880 --> 00:07:31,990
+the current standard on the ever
+everscale documentation website it is
+
+342
+00:07:31,990 --> 00:07:32,000
+everscale documentation website it is
+ 
+
+343
+00:07:32,000 --> 00:07:33,510
+everscale documentation website it is
+already public
+
+344
+00:07:33,510 --> 00:07:33,520
+already public
+ 
+
+345
+00:07:33,520 --> 00:07:36,070
+already public
+basically it will be used across all the
+
+346
+00:07:36,070 --> 00:07:36,080
+basically it will be used across all the
+ 
+
+347
+00:07:36,080 --> 00:07:38,469
+basically it will be used across all the
+teams across all the products
+
+348
+00:07:38,469 --> 00:07:38,479
+teams across all the products
+ 
+
+349
+00:07:38,479 --> 00:07:41,909
+teams across all the products
+so it means that uh it would uh
+
+350
+00:07:41,909 --> 00:07:41,919
+so it means that uh it would uh
+ 
+
+351
+00:07:41,919 --> 00:07:43,189
+so it means that uh it would uh
+there would be some kind of
+
+352
+00:07:43,189 --> 00:07:43,199
+there would be some kind of
+ 
+
+353
+00:07:43,199 --> 00:07:44,629
+there would be some kind of
+interoperability
+
+354
+00:07:44,629 --> 00:07:44,639
+interoperability
+ 
+
+355
+00:07:44,639 --> 00:07:47,589
+interoperability
+between products in every scale also you
+
+356
+00:07:47,589 --> 00:07:47,599
+between products in every scale also you
+ 
+
+357
+00:07:47,599 --> 00:07:50,469
+between products in every scale also you
+know every token will be supported by
+
+358
+00:07:50,469 --> 00:07:50,479
+know every token will be supported by
+ 
+
+359
+00:07:50,479 --> 00:07:51,270
+know every token will be supported by
+the
+
+360
+00:07:51,270 --> 00:07:51,280
+the
+ 
+
+361
+00:07:51,280 --> 00:07:53,909
+the
+let's say block explorer because for now
+
+362
+00:07:53,909 --> 00:07:53,919
+let's say block explorer because for now
+ 
+
+363
+00:07:53,919 --> 00:07:55,990
+let's say block explorer because for now
+it's a kind of complex
+
+364
+00:07:55,990 --> 00:07:56,000
+it's a kind of complex
+ 
+
+365
+00:07:56,000 --> 00:07:58,469
+it's a kind of complex
+process because everyone has its own
+
+366
+00:07:58,469 --> 00:07:58,479
+process because everyone has its own
+ 
+
+367
+00:07:58,479 --> 00:08:00,469
+process because everyone has its own
+token standard and uh
+
+368
+00:08:00,469 --> 00:08:00,479
+token standard and uh
+ 
+
+369
+00:08:00,479 --> 00:08:03,510
+token standard and uh
+so on so yeah it was like uh
+
+370
+00:08:03,510 --> 00:08:03,520
+so on so yeah it was like uh
+ 
+
+371
+00:08:03,520 --> 00:08:06,550
+so on so yeah it was like uh
+inevitable you know uh process we
+
+372
+00:08:06,550 --> 00:08:06,560
+inevitable you know uh process we
+ 
+
+373
+00:08:06,560 --> 00:08:09,589
+inevitable you know uh process we
+had to have uh the common token standard
+
+374
+00:08:09,589 --> 00:08:09,599
+had to have uh the common token standard
+ 
+
+375
+00:08:09,599 --> 00:08:13,430
+had to have uh the common token standard
+and finally we reached an agreement
+
+376
+00:08:13,430 --> 00:08:13,440
+and finally we reached an agreement
+ 
+
+377
+00:08:13,440 --> 00:08:16,150
+and finally we reached an agreement
+about it i'm really excited
+
+378
+00:08:16,150 --> 00:08:16,160
+about it i'm really excited
+ 
+
+379
+00:08:16,160 --> 00:08:17,830
+about it i'm really excited
+so yeah that's just a
+
+380
+00:08:17,830 --> 00:08:17,840
+so yeah that's just a
+ 
+
+381
+00:08:17,840 --> 00:08:20,230
+so yeah that's just a
+few words about the immigration uh why
+
+382
+00:08:20,230 --> 00:08:20,240
+few words about the immigration uh why
+ 
+
+383
+00:08:20,240 --> 00:08:23,029
+few words about the immigration uh why
+we should perform it also it's uh
+
+384
+00:08:23,029 --> 00:08:23,039
+we should perform it also it's uh
+ 
+
+385
+00:08:23,039 --> 00:08:24,150
+we should perform it also it's uh
+uh
+
+386
+00:08:24,150 --> 00:08:24,160
+uh
+ 
+
+387
+00:08:24,160 --> 00:08:27,270
+uh
+is you know we have a uh
+
+388
+00:08:27,270 --> 00:08:27,280
+is you know we have a uh
+ 
+
+389
+00:08:27,280 --> 00:08:31,270
+is you know we have a uh
+wrapped tone token in uh everscale
+
+390
+00:08:31,270 --> 00:08:31,280
+wrapped tone token in uh everscale
+ 
+
+391
+00:08:31,280 --> 00:08:33,990
+wrapped tone token in uh everscale
+and since we had the rebranding it
+
+392
+00:08:33,990 --> 00:08:34,000
+and since we had the rebranding it
+ 
+
+393
+00:08:34,000 --> 00:08:36,230
+and since we had the rebranding it
+should be a name to wrap ether and you
+
+394
+00:08:36,230 --> 00:08:36,240
+should be a name to wrap ether and you
+ 
+
+395
+00:08:36,240 --> 00:08:38,389
+should be a name to wrap ether and you
+know it's also impossible to
+
+396
+00:08:38,389 --> 00:08:38,399
+know it's also impossible to
+ 
+
+397
+00:08:38,399 --> 00:08:41,829
+know it's also impossible to
+just we can set a new name we have to
+
+398
+00:08:41,829 --> 00:08:41,839
+just we can set a new name we have to
+ 
+
+399
+00:08:41,839 --> 00:08:43,430
+just we can set a new name we have to
+update it uh
+
+400
+00:08:43,430 --> 00:08:43,440
+update it uh
+ 
+
+401
+00:08:43,440 --> 00:08:46,470
+update it uh
+all over the products we have to create
+
+402
+00:08:46,470 --> 00:08:46,480
+all over the products we have to create
+ 
+
+403
+00:08:46,480 --> 00:08:49,670
+all over the products we have to create
+the new token it will be called wrapped
+
+404
+00:08:49,670 --> 00:08:49,680
+the new token it will be called wrapped
+ 
+
+405
+00:08:49,680 --> 00:08:51,509
+the new token it will be called wrapped
+ever probably
+
+406
+00:08:51,509 --> 00:08:51,519
+ever probably
+ 
+
+407
+00:08:51,519 --> 00:08:58,150
+ever probably
+uh so yeah running is another reason
+
+408
+00:08:58,150 --> 00:08:58,160
+
+ 
+
+409
+00:08:58,160 --> 00:09:00,310
+
+yeah i think that it's more
+
+410
+00:09:00,310 --> 00:09:00,320
+yeah i think that it's more
+ 
+
+411
+00:09:00,320 --> 00:09:02,470
+yeah i think that it's more
+it's more uh
+
+412
+00:09:02,470 --> 00:09:02,480
+it's more uh
+ 
+
+413
+00:09:02,480 --> 00:09:03,770
+it's more uh
+more community
+
+414
+00:09:03,770 --> 00:09:03,780
+more community
+ 
+
+415
+00:09:03,780 --> 00:09:05,269
+more community
+[Music]
+
+416
+00:09:05,269 --> 00:09:05,279
+[Music]
+ 
+
+417
+00:09:05,279 --> 00:09:09,430
+[Music]
+uh waited uh the news that everyone uh
+
+418
+00:09:09,430 --> 00:09:09,440
+uh waited uh the news that everyone uh
+ 
+
+419
+00:09:09,440 --> 00:09:11,030
+uh waited uh the news that everyone uh
+was awaited
+
+420
+00:09:11,030 --> 00:09:11,040
+was awaited
+ 
+
+421
+00:09:11,040 --> 00:09:12,070
+was awaited
+and
+
+422
+00:09:12,070 --> 00:09:12,080
+and
+ 
+
+423
+00:09:12,080 --> 00:09:15,030
+and
+we we happy to hear that uh there will
+
+424
+00:09:15,030 --> 00:09:15,040
+we we happy to hear that uh there will
+ 
+
+425
+00:09:15,040 --> 00:09:18,790
+we we happy to hear that uh there will
+be a united uh standard for the
+
+426
+00:09:18,790 --> 00:09:18,800
+be a united uh standard for the
+ 
+
+427
+00:09:18,800 --> 00:09:20,070
+be a united uh standard for the
+yeah
+
+428
+00:09:20,070 --> 00:09:20,080
+yeah
+ 
+
+429
+00:09:20,080 --> 00:09:21,350
+yeah
+yeah
+
+430
+00:09:21,350 --> 00:09:21,360
+yeah
+ 
+
+431
+00:09:21,360 --> 00:09:24,949
+yeah
+uh we have collected the um
+
+432
+00:09:24,949 --> 00:09:24,959
+uh we have collected the um
+ 
+
+433
+00:09:24,959 --> 00:09:27,509
+uh we have collected the um
+several questions from our community
+
+434
+00:09:27,509 --> 00:09:27,519
+several questions from our community
+ 
+
+435
+00:09:27,519 --> 00:09:28,630
+several questions from our community
+um
+
+436
+00:09:28,630 --> 00:09:28,640
+um
+ 
+
+437
+00:09:28,640 --> 00:09:30,470
+um
+let me let me
+
+438
+00:09:30,470 --> 00:09:30,480
+let me let me
+ 
+
+439
+00:09:30,480 --> 00:09:32,070
+let me let me
+read them uh
+
+440
+00:09:32,070 --> 00:09:32,080
+read them uh
+ 
+
+441
+00:09:32,080 --> 00:09:35,430
+read them uh
+what's new in this migration and why do
+
+442
+00:09:35,430 --> 00:09:35,440
+what's new in this migration and why do
+ 
+
+443
+00:09:35,440 --> 00:09:37,430
+what's new in this migration and why do
+we need this
+
+444
+00:09:37,430 --> 00:09:37,440
+we need this
+ 
+
+445
+00:09:37,440 --> 00:09:38,949
+we need this
+um
+
+446
+00:09:38,949 --> 00:09:38,959
+um
+ 
+
+447
+00:09:38,959 --> 00:09:41,750
+um
+i think that we already explained it
+
+448
+00:09:41,750 --> 00:09:41,760
+i think that we already explained it
+ 
+
+449
+00:09:41,760 --> 00:09:45,670
+i think that we already explained it
+yeah yeah probably we need a similar uh
+
+450
+00:09:45,670 --> 00:09:45,680
+yeah yeah probably we need a similar uh
+ 
+
+451
+00:09:45,680 --> 00:09:48,470
+yeah yeah probably we need a similar uh
+standard as a rc20
+
+452
+00:09:48,470 --> 00:09:48,480
+standard as a rc20
+ 
+
+453
+00:09:48,480 --> 00:09:51,350
+standard as a rc20
+uh are you going to publish instructions
+
+454
+00:09:51,350 --> 00:09:51,360
+uh are you going to publish instructions
+ 
+
+455
+00:09:51,360 --> 00:09:53,910
+uh are you going to publish instructions
+for this migration
+
+456
+00:09:53,910 --> 00:09:53,920
+for this migration
+ 
+
+457
+00:09:53,920 --> 00:09:57,910
+for this migration
+uh yes sure uh we'll publish instruction
+
+458
+00:09:57,910 --> 00:09:57,920
+uh yes sure uh we'll publish instruction
+ 
+
+459
+00:09:57,920 --> 00:10:01,110
+uh yes sure uh we'll publish instruction
+for every type of user you know what you
+
+460
+00:10:01,110 --> 00:10:01,120
+for every type of user you know what you
+ 
+
+461
+00:10:01,120 --> 00:10:03,750
+for every type of user you know what you
+should do if you just have uh
+
+462
+00:10:03,750 --> 00:10:03,760
+should do if you just have uh
+ 
+
+463
+00:10:03,760 --> 00:10:06,710
+should do if you just have uh
+you use the sea on your crystal wallet
+
+464
+00:10:06,710 --> 00:10:06,720
+you use the sea on your crystal wallet
+ 
+
+465
+00:10:06,720 --> 00:10:09,829
+you use the sea on your crystal wallet
+there is like one instruction what you
+
+466
+00:10:09,829 --> 00:10:09,839
+there is like one instruction what you
+ 
+
+467
+00:10:09,839 --> 00:10:13,190
+there is like one instruction what you
+should do if you are really in our uh
+
+468
+00:10:13,190 --> 00:10:13,200
+should do if you are really in our uh
+ 
+
+469
+00:10:13,200 --> 00:10:16,550
+should do if you are really in our uh
+bridge relay network it's the second uh
+
+470
+00:10:16,550 --> 00:10:16,560
+bridge relay network it's the second uh
+ 
+
+471
+00:10:16,560 --> 00:10:19,190
+bridge relay network it's the second uh
+instruction and uh you know what you
+
+472
+00:10:19,190 --> 00:10:19,200
+instruction and uh you know what you
+ 
+
+473
+00:10:19,200 --> 00:10:21,509
+instruction and uh you know what you
+should do if you are
+
+474
+00:10:21,509 --> 00:10:21,519
+should do if you are
+ 
+
+475
+00:10:21,519 --> 00:10:25,269
+should do if you are
+standing in unit swap uh version two
+
+476
+00:10:25,269 --> 00:10:25,279
+standing in unit swap uh version two
+ 
+
+477
+00:10:25,279 --> 00:10:28,310
+standing in unit swap uh version two
+wrapped on usdc pool uh it's also
+
+478
+00:10:28,310 --> 00:10:28,320
+wrapped on usdc pool uh it's also
+ 
+
+479
+00:10:28,320 --> 00:10:29,910
+wrapped on usdc pool uh it's also
+important question and we're sure we
+
+480
+00:10:29,910 --> 00:10:29,920
+important question and we're sure we
+ 
+
+481
+00:10:29,920 --> 00:10:30,829
+important question and we're sure we
+will
+
+482
+00:10:30,829 --> 00:10:30,839
+will
+ 
+
+483
+00:10:30,839 --> 00:10:33,590
+will
+publish uh an article about your just
+
+484
+00:10:33,590 --> 00:10:33,600
+publish uh an article about your just
+ 
+
+485
+00:10:33,600 --> 00:10:36,630
+publish uh an article about your just
+you know step by step instruction
+
+486
+00:10:36,630 --> 00:10:36,640
+you know step by step instruction
+ 
+
+487
+00:10:36,640 --> 00:10:38,710
+you know step by step instruction
+yeah just uh
+
+488
+00:10:38,710 --> 00:10:38,720
+yeah just uh
+ 
+
+489
+00:10:38,720 --> 00:10:41,829
+yeah just uh
+watch the boxes channels maybe
+
+490
+00:10:41,829 --> 00:10:41,839
+watch the boxes channels maybe
+ 
+
+491
+00:10:41,839 --> 00:10:44,829
+watch the boxes channels maybe
+brock's twitter will publish it to
+
+492
+00:10:44,829 --> 00:10:44,839
+brock's twitter will publish it to
+ 
+
+493
+00:10:44,839 --> 00:10:46,470
+brock's twitter will publish it to
+them
+
+494
+00:10:46,470 --> 00:10:46,480
+them
+ 
+
+495
+00:10:46,480 --> 00:10:48,550
+them
+cool cool
+
+496
+00:10:48,550 --> 00:10:48,560
+cool cool
+ 
+
+497
+00:10:48,560 --> 00:10:50,069
+cool cool
+uh
+
+498
+00:10:50,069 --> 00:10:50,079
+uh
+ 
+
+499
+00:10:50,079 --> 00:10:53,269
+uh
+is it related for the sort of smart
+
+500
+00:10:53,269 --> 00:10:53,279
+is it related for the sort of smart
+ 
+
+501
+00:10:53,279 --> 00:10:55,430
+is it related for the sort of smart
+contracts too
+
+502
+00:10:55,430 --> 00:10:55,440
+contracts too
+ 
+
+503
+00:10:55,440 --> 00:10:56,470
+contracts too
+uh
+
+504
+00:10:56,470 --> 00:10:56,480
+uh
+ 
+
+505
+00:10:56,480 --> 00:10:57,590
+uh
+well it
+
+506
+00:10:57,590 --> 00:10:57,600
+well it
+ 
+
+507
+00:10:57,600 --> 00:11:00,710
+well it
+depends on the serve you know uh
+
+508
+00:11:00,710 --> 00:11:00,720
+depends on the serve you know uh
+ 
+
+509
+00:11:00,720 --> 00:11:03,750
+depends on the serve you know uh
+so surf for sure uh
+
+510
+00:11:03,750 --> 00:11:03,760
+so surf for sure uh
+ 
+
+511
+00:11:03,760 --> 00:11:04,470
+so surf for sure uh
+can
+
+512
+00:11:04,470 --> 00:11:04,480
+can
+ 
+
+513
+00:11:04,480 --> 00:11:06,389
+can
+support this update
+
+514
+00:11:06,389 --> 00:11:06,399
+support this update
+ 
+
+515
+00:11:06,399 --> 00:11:09,990
+support this update
+and uh it's support for the new tokens
+
+516
+00:11:09,990 --> 00:11:10,000
+and uh it's support for the new tokens
+ 
+
+517
+00:11:10,000 --> 00:11:10,949
+and uh it's support for the new tokens
+uh
+
+518
+00:11:10,949 --> 00:11:10,959
+uh
+ 
+
+519
+00:11:10,959 --> 00:11:13,590
+uh
+probably i'm not sure because you know
+
+520
+00:11:13,590 --> 00:11:13,600
+probably i'm not sure because you know
+ 
+
+521
+00:11:13,600 --> 00:11:15,990
+probably i'm not sure because you know
+i'm not
+
+522
+00:11:15,990 --> 00:11:16,000
+
+ 
+
+523
+00:11:16,000 --> 00:11:17,190
+
+a developer
+
+524
+00:11:17,190 --> 00:11:17,200
+a developer
+ 
+
+525
+00:11:17,200 --> 00:11:18,949
+a developer
+of the surf wallet
+
+526
+00:11:18,949 --> 00:11:18,959
+of the surf wallet
+ 
+
+527
+00:11:18,959 --> 00:11:19,829
+of the surf wallet
+uh
+
+528
+00:11:19,829 --> 00:11:19,839
+uh
+ 
+
+529
+00:11:19,839 --> 00:11:22,470
+uh
+what are their exact plan
+
+530
+00:11:22,470 --> 00:11:22,480
+what are their exact plan
+ 
+
+531
+00:11:22,480 --> 00:11:23,990
+what are their exact plan
+but uh
+
+532
+00:11:23,990 --> 00:11:24,000
+but uh
+ 
+
+533
+00:11:24,000 --> 00:11:27,910
+but uh
+tom laps uh also uh participated uh i
+
+534
+00:11:27,910 --> 00:11:27,920
+tom laps uh also uh participated uh i
+ 
+
+535
+00:11:27,920 --> 00:11:30,949
+tom laps uh also uh participated uh i
+think that uh thank them very much uh in
+
+536
+00:11:30,949 --> 00:11:30,959
+think that uh thank them very much uh in
+ 
+
+537
+00:11:30,959 --> 00:11:32,150
+think that uh thank them very much uh in
+uh the
+
+538
+00:11:32,150 --> 00:11:32,160
+uh the
+ 
+
+539
+00:11:32,160 --> 00:11:34,870
+uh the
+development of this token standard so
+
+540
+00:11:34,870 --> 00:11:34,880
+development of this token standard so
+ 
+
+541
+00:11:34,880 --> 00:11:37,590
+development of this token standard so
+yeah probably in some form it will be
+
+542
+00:11:37,590 --> 00:11:37,600
+yeah probably in some form it will be
+ 
+
+543
+00:11:37,600 --> 00:11:41,190
+yeah probably in some form it will be
+supported in uh the uh surf wallet as i
+
+544
+00:11:41,190 --> 00:11:41,200
+supported in uh the uh surf wallet as i
+ 
+
+545
+00:11:41,200 --> 00:11:45,030
+supported in uh the uh surf wallet as i
+know uh there is uh you know uh
+
+546
+00:11:45,030 --> 00:11:45,040
+know uh there is uh you know uh
+ 
+
+547
+00:11:45,040 --> 00:11:47,590
+know uh there is uh you know uh
+probability that the
+
+548
+00:11:47,590 --> 00:11:47,600
+probability that the
+ 
+
+549
+00:11:47,600 --> 00:11:50,949
+probability that the
+uh exact implementation of the token
+
+550
+00:11:50,949 --> 00:11:50,959
+uh exact implementation of the token
+ 
+
+551
+00:11:50,959 --> 00:11:51,910
+uh exact implementation of the token
+wallet
+
+552
+00:11:51,910 --> 00:11:51,920
+wallet
+ 
+
+553
+00:11:51,920 --> 00:11:54,389
+wallet
+uh will be different between you know
+
+554
+00:11:54,389 --> 00:11:54,399
+uh will be different between you know
+ 
+
+555
+00:11:54,399 --> 00:11:56,550
+uh will be different between you know
+like broxas products and certain labs
+
+556
+00:11:56,550 --> 00:11:56,560
+like broxas products and certain labs
+ 
+
+557
+00:11:56,560 --> 00:12:00,310
+like broxas products and certain labs
+products like flex decks and so on
+
+558
+00:12:00,310 --> 00:12:00,320
+products like flex decks and so on
+ 
+
+559
+00:12:00,320 --> 00:12:04,069
+products like flex decks and so on
+uh the current standard is not about the
+
+560
+00:12:04,069 --> 00:12:04,079
+uh the current standard is not about the
+ 
+
+561
+00:12:04,079 --> 00:12:06,150
+uh the current standard is not about the
+exact implementation
+
+562
+00:12:06,150 --> 00:12:06,160
+exact implementation
+ 
+
+563
+00:12:06,160 --> 00:12:08,550
+exact implementation
+but about some core
+
+564
+00:12:08,550 --> 00:12:08,560
+but about some core
+ 
+
+565
+00:12:08,560 --> 00:12:10,389
+but about some core
+architecture patterns
+
+566
+00:12:10,389 --> 00:12:10,399
+architecture patterns
+ 
+
+567
+00:12:10,399 --> 00:12:14,310
+architecture patterns
+some uh core function names and so on so
+
+568
+00:12:14,310 --> 00:12:14,320
+some uh core function names and so on so
+ 
+
+569
+00:12:14,320 --> 00:12:15,829
+some uh core function names and so on so
+yeah
+
+570
+00:12:15,829 --> 00:12:15,839
+yeah
+ 
+
+571
+00:12:15,839 --> 00:12:17,829
+yeah
+you know uh i think that
+
+572
+00:12:17,829 --> 00:12:17,839
+you know uh i think that
+ 
+
+573
+00:12:17,839 --> 00:12:19,590
+you know uh i think that
+let's say the
+
+574
+00:12:19,590 --> 00:12:19,600
+let's say the
+ 
+
+575
+00:12:19,600 --> 00:12:20,710
+let's say the
+uh
+
+576
+00:12:20,710 --> 00:12:20,720
+uh
+ 
+
+577
+00:12:20,720 --> 00:12:25,190
+uh
+tokens which will be supported in uh
+
+578
+00:12:25,190 --> 00:12:25,200
+tokens which will be supported in uh
+ 
+
+579
+00:12:25,200 --> 00:12:26,790
+tokens which will be supported in uh
+crystal wallet
+
+580
+00:12:26,790 --> 00:12:26,800
+crystal wallet
+ 
+
+581
+00:12:26,800 --> 00:12:28,790
+crystal wallet
+probably will be supported in surf
+
+582
+00:12:28,790 --> 00:12:28,800
+probably will be supported in surf
+ 
+
+583
+00:12:28,800 --> 00:12:30,870
+probably will be supported in surf
+wallet too
+
+584
+00:12:30,870 --> 00:12:30,880
+wallet too
+ 
+
+585
+00:12:30,880 --> 00:12:33,430
+wallet too
+cool cool
+
+586
+00:12:33,430 --> 00:12:33,440
+cool cool
+ 
+
+587
+00:12:33,440 --> 00:12:37,269
+cool cool
+uh the next question is um
+
+588
+00:12:37,269 --> 00:12:37,279
+uh the next question is um
+ 
+
+589
+00:12:37,279 --> 00:12:39,509
+uh the next question is um
+can it might be repeated in the near
+
+590
+00:12:39,509 --> 00:12:39,519
+can it might be repeated in the near
+ 
+
+591
+00:12:39,519 --> 00:12:42,710
+can it might be repeated in the near
+future uh he mean about the
+
+592
+00:12:42,710 --> 00:12:42,720
+future uh he mean about the
+ 
+
+593
+00:12:42,720 --> 00:12:43,910
+future uh he mean about the
+immigration
+
+594
+00:12:43,910 --> 00:12:43,920
+immigration
+ 
+
+595
+00:12:43,920 --> 00:12:45,269
+immigration
+operation
+
+596
+00:12:45,269 --> 00:12:45,279
+operation
+ 
+
+597
+00:12:45,279 --> 00:12:47,190
+operation
+yeah yeah yeah that's that's a good
+
+598
+00:12:47,190 --> 00:12:47,200
+yeah yeah yeah that's that's a good
+ 
+
+599
+00:12:47,200 --> 00:12:50,310
+yeah yeah yeah that's that's a good
+question yeah uh i hope that
+
+600
+00:12:50,310 --> 00:12:50,320
+question yeah uh i hope that
+ 
+
+601
+00:12:50,320 --> 00:12:53,590
+question yeah uh i hope that
+we won't need it for a long time
+
+602
+00:12:53,590 --> 00:12:53,600
+we won't need it for a long time
+ 
+
+603
+00:12:53,600 --> 00:12:57,269
+we won't need it for a long time
+um the new migration uh you know for
+
+604
+00:12:57,269 --> 00:12:57,279
+um the new migration uh you know for
+ 
+
+605
+00:12:57,279 --> 00:12:58,870
+um the new migration uh you know for
+example as i said
+
+606
+00:12:58,870 --> 00:12:58,880
+example as i said
+ 
+
+607
+00:12:58,880 --> 00:13:00,470
+example as i said
+we
+
+608
+00:13:00,470 --> 00:13:00,480
+we
+ 
+
+609
+00:13:00,480 --> 00:13:04,629
+we
+have used the non-upgradable tokens
+
+610
+00:13:04,629 --> 00:13:04,639
+have used the non-upgradable tokens
+ 
+
+611
+00:13:04,639 --> 00:13:07,590
+have used the non-upgradable tokens
+and the new version is upgradable
+
+612
+00:13:07,590 --> 00:13:07,600
+and the new version is upgradable
+ 
+
+613
+00:13:07,600 --> 00:13:08,389
+and the new version is upgradable
+so
+
+614
+00:13:08,389 --> 00:13:08,399
+so
+ 
+
+615
+00:13:08,399 --> 00:13:11,190
+so
+if anything goes wrong yes there are
+
+616
+00:13:11,190 --> 00:13:11,200
+if anything goes wrong yes there are
+ 
+
+617
+00:13:11,200 --> 00:13:13,910
+if anything goes wrong yes there are
+also some security uh
+
+618
+00:13:13,910 --> 00:13:13,920
+also some security uh
+ 
+
+619
+00:13:13,920 --> 00:13:16,949
+also some security uh
+bug or something else at least we can
+
+620
+00:13:16,949 --> 00:13:16,959
+bug or something else at least we can
+ 
+
+621
+00:13:16,959 --> 00:13:18,870
+bug or something else at least we can
+update the
+
+622
+00:13:18,870 --> 00:13:18,880
+update the
+ 
+
+623
+00:13:18,880 --> 00:13:22,150
+update the
+implementation of the token wallets and
+
+624
+00:13:22,150 --> 00:13:22,160
+implementation of the token wallets and
+ 
+
+625
+00:13:22,160 --> 00:13:25,110
+implementation of the token wallets and
+uh you know it doesn't affect other pro
+
+626
+00:13:25,110 --> 00:13:25,120
+uh you know it doesn't affect other pro
+ 
+
+627
+00:13:25,120 --> 00:13:27,030
+uh you know it doesn't affect other pro
+products we don't need to redeploy
+
+628
+00:13:27,030 --> 00:13:27,040
+products we don't need to redeploy
+ 
+
+629
+00:13:27,040 --> 00:13:28,550
+products we don't need to redeploy
+bridge and so on
+
+630
+00:13:28,550 --> 00:13:28,560
+bridge and so on
+ 
+
+631
+00:13:28,560 --> 00:13:29,829
+bridge and so on
+and uh
+
+632
+00:13:29,829 --> 00:13:29,839
+and uh
+ 
+
+633
+00:13:29,839 --> 00:13:33,670
+and uh
+which is also important so we uh made it
+
+634
+00:13:33,670 --> 00:13:33,680
+which is also important so we uh made it
+ 
+
+635
+00:13:33,680 --> 00:13:36,710
+which is also important so we uh made it
+uh like um
+
+636
+00:13:36,710 --> 00:13:36,720
+uh like um
+ 
+
+637
+00:13:36,720 --> 00:13:39,829
+uh like um
+the current token wallet can be updated
+
+638
+00:13:39,829 --> 00:13:39,839
+the current token wallet can be updated
+ 
+
+639
+00:13:39,839 --> 00:13:41,590
+the current token wallet can be updated
+without the
+
+640
+00:13:41,590 --> 00:13:41,600
+without the
+ 
+
+641
+00:13:41,600 --> 00:13:43,990
+without the
+agreement from the owner you know you
+
+642
+00:13:43,990 --> 00:13:44,000
+agreement from the owner you know you
+ 
+
+643
+00:13:44,000 --> 00:13:47,350
+agreement from the owner you know you
+you have to uh confirm that okay you're
+
+644
+00:13:47,350 --> 00:13:47,360
+you have to uh confirm that okay you're
+ 
+
+645
+00:13:47,360 --> 00:13:50,069
+you have to uh confirm that okay you're
+ready to update your token wallet i
+
+646
+00:13:50,069 --> 00:13:50,079
+ready to update your token wallet i
+ 
+
+647
+00:13:50,079 --> 00:13:52,870
+ready to update your token wallet i
+think it's also an amazing feature it's
+
+648
+00:13:52,870 --> 00:13:52,880
+think it's also an amazing feature it's
+ 
+
+649
+00:13:52,880 --> 00:13:55,269
+think it's also an amazing feature it's
+about decentralizing
+
+650
+00:13:55,269 --> 00:13:55,279
+about decentralizing
+ 
+
+651
+00:13:55,279 --> 00:13:57,110
+about decentralizing
+and like the uh
+
+652
+00:13:57,110 --> 00:13:57,120
+and like the uh
+ 
+
+653
+00:13:57,120 --> 00:13:59,750
+and like the uh
+community governance of this uh whole
+
+654
+00:13:59,750 --> 00:13:59,760
+community governance of this uh whole
+ 
+
+655
+00:13:59,760 --> 00:14:06,069
+community governance of this uh whole
+process
+
+656
+00:14:06,069 --> 00:14:06,079
+
+ 
+
+657
+00:14:06,079 --> 00:14:08,550
+
+thank you for answering uh the next
+
+658
+00:14:08,550 --> 00:14:08,560
+thank you for answering uh the next
+ 
+
+659
+00:14:08,560 --> 00:14:10,790
+thank you for answering uh the next
+question is uh
+
+660
+00:14:10,790 --> 00:14:10,800
+question is uh
+ 
+
+661
+00:14:10,800 --> 00:14:14,550
+question is uh
+when you farming
+
+662
+00:14:14,550 --> 00:14:14,560
+
+ 
+
+663
+00:14:14,560 --> 00:14:16,470
+
+as soon as it's possible i hope next
+
+664
+00:14:16,470 --> 00:14:16,480
+as soon as it's possible i hope next
+ 
+
+665
+00:14:16,480 --> 00:14:18,150
+as soon as it's possible i hope next
+week
+
+666
+00:14:18,150 --> 00:14:18,160
+week
+ 
+
+667
+00:14:18,160 --> 00:14:19,310
+week
+next week okay
+
+668
+00:14:19,310 --> 00:14:19,320
+next week okay
+ 
+
+669
+00:14:19,320 --> 00:14:21,189
+next week okay
+[Music]
+
+670
+00:14:21,189 --> 00:14:21,199
+[Music]
+ 
+
+671
+00:14:21,199 --> 00:14:25,430
+[Music]
+uh so there's uh no more writing in uh
+
+672
+00:14:25,430 --> 00:14:25,440
+uh so there's uh no more writing in uh
+ 
+
+673
+00:14:25,440 --> 00:14:28,829
+uh so there's uh no more writing in uh
+questions uh so let's move on to
+
+674
+00:14:28,829 --> 00:14:28,839
+questions uh so let's move on to
+ 
+
+675
+00:14:28,839 --> 00:14:30,710
+questions uh so let's move on to
+the uh
+
+676
+00:14:30,710 --> 00:14:30,720
+the uh
+ 
+
+677
+00:14:30,720 --> 00:14:31,990
+the uh
+to the
+
+678
+00:14:31,990 --> 00:14:32,000
+to the
+ 
+
+679
+00:14:32,000 --> 00:14:34,629
+to the
+questions from the youtube
+
+680
+00:14:34,629 --> 00:14:34,639
+questions from the youtube
+ 
+
+681
+00:14:34,639 --> 00:14:35,829
+questions from the youtube
+um
+
+682
+00:14:35,829 --> 00:14:35,839
+um
+ 
+
+683
+00:14:35,839 --> 00:14:36,790
+um
+so
+
+684
+00:14:36,790 --> 00:14:36,800
+so
+ 
+
+685
+00:14:36,800 --> 00:14:39,990
+so
+the russian questions uh just
+
+686
+00:14:39,990 --> 00:14:40,000
+the russian questions uh just
+ 
+
+687
+00:14:40,000 --> 00:14:43,590
+the russian questions uh just
+let me translate them okay um the first
+
+688
+00:14:43,590 --> 00:14:43,600
+let me translate them okay um the first
+ 
+
+689
+00:14:43,600 --> 00:14:45,670
+let me translate them okay um the first
+question is uh
+
+690
+00:14:45,670 --> 00:14:45,680
+question is uh
+ 
+
+691
+00:14:45,680 --> 00:14:48,389
+question is uh
+will integration of uh selectors provide
+
+692
+00:14:48,389 --> 00:14:48,399
+will integration of uh selectors provide
+ 
+
+693
+00:14:48,399 --> 00:14:50,710
+will integration of uh selectors provide
+uh any new possibilities for
+
+694
+00:14:50,710 --> 00:14:50,720
+uh any new possibilities for
+ 
+
+695
+00:14:50,720 --> 00:14:53,509
+uh any new possibilities for
+for smart contracts uh developers or is
+
+696
+00:14:53,509 --> 00:14:53,519
+for smart contracts uh developers or is
+ 
+
+697
+00:14:53,519 --> 00:14:55,750
+for smart contracts uh developers or is
+it just something for off-chain
+
+698
+00:14:55,750 --> 00:14:55,760
+it just something for off-chain
+ 
+
+699
+00:14:55,760 --> 00:14:58,230
+it just something for off-chain
+developers
+
+700
+00:14:58,230 --> 00:14:58,240
+developers
+ 
+
+701
+00:14:58,240 --> 00:14:59,269
+developers
+uh
+
+702
+00:14:59,269 --> 00:14:59,279
+uh
+ 
+
+703
+00:14:59,279 --> 00:15:04,710
+uh
+well uh
+
+704
+00:15:04,710 --> 00:15:04,720
+
+ 
+
+705
+00:15:04,720 --> 00:15:08,470
+
+the internal logic of the smart contract
+
+706
+00:15:08,470 --> 00:15:08,480
+the internal logic of the smart contract
+ 
+
+707
+00:15:08,480 --> 00:15:11,670
+the internal logic of the smart contract
+it's about support them yeah let's say
+
+708
+00:15:11,670 --> 00:15:11,680
+it's about support them yeah let's say
+ 
+
+709
+00:15:11,680 --> 00:15:14,550
+it's about support them yeah let's say
+block explorers you can support any
+
+710
+00:15:14,550 --> 00:15:14,560
+block explorers you can support any
+ 
+
+711
+00:15:14,560 --> 00:15:17,030
+block explorers you can support any
+token which
+
+712
+00:15:17,030 --> 00:15:17,040
+token which
+ 
+
+713
+00:15:17,040 --> 00:15:20,069
+token which
+supports these function ids
+
+714
+00:15:20,069 --> 00:15:20,079
+supports these function ids
+ 
+
+715
+00:15:20,079 --> 00:15:21,030
+supports these function ids
+so
+
+716
+00:15:21,030 --> 00:15:21,040
+so
+ 
+
+717
+00:15:21,040 --> 00:15:24,230
+so
+i'm not sure about the new possibilities
+
+718
+00:15:24,230 --> 00:15:24,240
+i'm not sure about the new possibilities
+ 
+
+719
+00:15:24,240 --> 00:15:27,269
+i'm not sure about the new possibilities
+for you know on chain usage and also
+
+720
+00:15:27,269 --> 00:15:27,279
+for you know on chain usage and also
+ 
+
+721
+00:15:27,279 --> 00:15:30,470
+for you know on chain usage and also
+there are a few improvements in uh like
+
+722
+00:15:30,470 --> 00:15:30,480
+there are a few improvements in uh like
+ 
+
+723
+00:15:30,480 --> 00:15:32,949
+there are a few improvements in uh like
+uh the boxes implementation of the
+
+724
+00:15:32,949 --> 00:15:32,959
+uh the boxes implementation of the
+ 
+
+725
+00:15:32,959 --> 00:15:36,150
+uh the boxes implementation of the
+tokens for example uh as i remember uh
+
+726
+00:15:36,150 --> 00:15:36,160
+tokens for example uh as i remember uh
+ 
+
+727
+00:15:36,160 --> 00:15:39,590
+tokens for example uh as i remember uh
+there was no uh callback on the mint
+
+728
+00:15:39,590 --> 00:15:39,600
+there was no uh callback on the mint
+ 
+
+729
+00:15:39,600 --> 00:15:40,629
+there was no uh callback on the mint
+event
+
+730
+00:15:40,629 --> 00:15:40,639
+event
+ 
+
+731
+00:15:40,639 --> 00:15:43,990
+event
+and you know it was tough to integrate
+
+732
+00:15:43,990 --> 00:15:44,000
+and you know it was tough to integrate
+ 
+
+733
+00:15:44,000 --> 00:15:47,430
+and you know it was tough to integrate
+all the means oriented uh
+
+734
+00:15:47,430 --> 00:15:47,440
+all the means oriented uh
+ 
+
+735
+00:15:47,440 --> 00:15:50,069
+all the means oriented uh
+process in your decentralized
+
+736
+00:15:50,069 --> 00:15:50,079
+process in your decentralized
+ 
+
+737
+00:15:50,079 --> 00:15:51,189
+process in your decentralized
+application
+
+738
+00:15:51,189 --> 00:15:51,199
+application
+ 
+
+739
+00:15:51,199 --> 00:15:54,470
+application
+now it is uh way more easy to do
+
+740
+00:15:54,470 --> 00:15:54,480
+now it is uh way more easy to do
+ 
+
+741
+00:15:54,480 --> 00:15:56,550
+now it is uh way more easy to do
+you can just you know react
+
+742
+00:15:56,550 --> 00:15:56,560
+you can just you know react
+ 
+
+743
+00:15:56,560 --> 00:15:59,590
+you can just you know react
+every time someone means here a token
+
+744
+00:15:59,590 --> 00:15:59,600
+every time someone means here a token
+ 
+
+745
+00:15:59,600 --> 00:16:01,110
+every time someone means here a token
+and uh
+
+746
+00:16:01,110 --> 00:16:01,120
+and uh
+ 
+
+747
+00:16:01,120 --> 00:16:05,030
+and uh
+so the the i forgot about this point uh
+
+748
+00:16:05,030 --> 00:16:05,040
+so the the i forgot about this point uh
+ 
+
+749
+00:16:05,040 --> 00:16:08,629
+so the the i forgot about this point uh
+also like the on chain usage is a little
+
+750
+00:16:08,629 --> 00:16:08,639
+also like the on chain usage is a little
+ 
+
+751
+00:16:08,639 --> 00:16:09,430
+also like the on chain usage is a little
+bit
+
+752
+00:16:09,430 --> 00:16:09,440
+bit
+ 
+
+753
+00:16:09,440 --> 00:16:11,350
+bit
+improved
+
+754
+00:16:11,350 --> 00:16:11,360
+improved
+ 
+
+755
+00:16:11,360 --> 00:16:13,430
+improved
+the function id is maybe it
+
+756
+00:16:13,430 --> 00:16:13,440
+the function id is maybe it
+ 
+
+757
+00:16:13,440 --> 00:16:20,870
+the function id is maybe it
+it don't affect the on chain so much
+
+758
+00:16:20,870 --> 00:16:20,880
+
+ 
+
+759
+00:16:20,880 --> 00:16:24,389
+
+on next question is uh
+
+760
+00:16:24,389 --> 00:16:24,399
+on next question is uh
+ 
+
+761
+00:16:24,399 --> 00:16:27,670
+on next question is uh
+are there any plans uh on adding uh
+
+762
+00:16:27,670 --> 00:16:27,680
+are there any plans uh on adding uh
+ 
+
+763
+00:16:27,680 --> 00:16:32,710
+are there any plans uh on adding uh
+tvm cell parameter for view functions
+
+764
+00:16:32,710 --> 00:16:32,720
+tvm cell parameter for view functions
+ 
+
+765
+00:16:32,720 --> 00:16:36,710
+tvm cell parameter for view functions
+uh sorry what i mean by cell parameter
+
+766
+00:16:36,710 --> 00:16:36,720
+uh sorry what i mean by cell parameter
+ 
+
+767
+00:16:36,720 --> 00:16:38,389
+uh sorry what i mean by cell parameter
+i'm not sure
+
+768
+00:16:38,389 --> 00:16:38,399
+i'm not sure
+ 
+
+769
+00:16:38,399 --> 00:16:41,430
+i'm not sure
+oh let me clarify
+
+770
+00:16:41,430 --> 00:16:41,440
+oh let me clarify
+ 
+
+771
+00:16:41,440 --> 00:16:44,870
+oh let me clarify
+uh okay let's move to the next question
+
+772
+00:16:44,870 --> 00:16:44,880
+uh okay let's move to the next question
+ 
+
+773
+00:16:44,880 --> 00:16:46,550
+uh okay let's move to the next question
+uh
+
+774
+00:16:46,550 --> 00:16:46,560
+uh
+ 
+
+775
+00:16:46,560 --> 00:16:49,030
+uh
+so alex is asking uh
+
+776
+00:16:49,030 --> 00:16:49,040
+so alex is asking uh
+ 
+
+777
+00:16:49,040 --> 00:16:52,629
+so alex is asking uh
+so uh now i don't need to unwrap my
+
+778
+00:16:52,629 --> 00:16:52,639
+so uh now i don't need to unwrap my
+ 
+
+779
+00:16:52,639 --> 00:16:55,350
+so uh now i don't need to unwrap my
+errors am i right
+
+780
+00:16:55,350 --> 00:16:55,360
+errors am i right
+ 
+
+781
+00:16:55,360 --> 00:16:59,030
+errors am i right
+uh if you have like uh evers you know
+
+782
+00:16:59,030 --> 00:16:59,040
+uh if you have like uh evers you know
+ 
+
+783
+00:16:59,040 --> 00:17:01,910
+uh if you have like uh evers you know
+native currency on your crystal wallet
+
+784
+00:17:01,910 --> 00:17:01,920
+native currency on your crystal wallet
+ 
+
+785
+00:17:01,920 --> 00:17:03,430
+native currency on your crystal wallet
+you don't need to do
+
+786
+00:17:03,430 --> 00:17:03,440
+you don't need to do
+ 
+
+787
+00:17:03,440 --> 00:17:04,949
+you don't need to do
+anything
+
+788
+00:17:04,949 --> 00:17:04,959
+anything
+ 
+
+789
+00:17:04,959 --> 00:17:07,590
+anything
+they are not affected by the immigration
+
+790
+00:17:07,590 --> 00:17:07,600
+they are not affected by the immigration
+ 
+
+791
+00:17:07,600 --> 00:17:08,870
+they are not affected by the immigration
+if you have
+
+792
+00:17:08,870 --> 00:17:08,880
+if you have
+ 
+
+793
+00:17:08,880 --> 00:17:11,990
+if you have
+wrapped tom's token
+
+794
+00:17:11,990 --> 00:17:12,000
+wrapped tom's token
+ 
+
+795
+00:17:12,000 --> 00:17:12,710
+wrapped tom's token
+you
+
+796
+00:17:12,710 --> 00:17:12,720
+you
+ 
+
+797
+00:17:12,720 --> 00:17:14,470
+you
+have to update it
+
+798
+00:17:14,470 --> 00:17:14,480
+have to update it
+ 
+
+799
+00:17:14,480 --> 00:17:17,590
+have to update it
+to do this you need to unwrap your
+
+800
+00:17:17,590 --> 00:17:17,600
+to do this you need to unwrap your
+ 
+
+801
+00:17:17,600 --> 00:17:21,189
+to do this you need to unwrap your
+reptons receive errors and then grab
+
+802
+00:17:21,189 --> 00:17:21,199
+reptons receive errors and then grab
+ 
+
+803
+00:17:21,199 --> 00:17:21,990
+reptons receive errors and then grab
+them
+
+804
+00:17:21,990 --> 00:17:22,000
+them
+ 
+
+805
+00:17:22,000 --> 00:17:25,669
+them
+to the new token correct ever
+
+806
+00:17:25,669 --> 00:17:25,679
+to the new token correct ever
+ 
+
+807
+00:17:25,679 --> 00:17:27,669
+to the new token correct ever
+that's you know like two steps to
+
+808
+00:17:27,669 --> 00:17:27,679
+that's you know like two steps to
+ 
+
+809
+00:17:27,679 --> 00:17:34,390
+that's you know like two steps to
+upgrade your red stones
+
+810
+00:17:34,390 --> 00:17:34,400
+
+ 
+
+811
+00:17:34,400 --> 00:17:37,750
+
+uh next question is uh
+
+812
+00:17:37,750 --> 00:17:37,760
+uh next question is uh
+ 
+
+813
+00:17:37,760 --> 00:17:39,990
+uh next question is uh
+if i put uh
+
+814
+00:17:39,990 --> 00:17:40,000
+if i put uh
+ 
+
+815
+00:17:40,000 --> 00:17:43,830
+if i put uh
+uh there's regarding soon talking yeah
+
+816
+00:17:43,830 --> 00:17:43,840
+uh there's regarding soon talking yeah
+ 
+
+817
+00:17:43,840 --> 00:17:46,470
+uh there's regarding soon talking yeah
+if i put in some talking farming today
+
+818
+00:17:46,470 --> 00:17:46,480
+if i put in some talking farming today
+ 
+
+819
+00:17:46,480 --> 00:17:49,510
+if i put in some talking farming today
+so it's no will be lost and it will be
+
+820
+00:17:49,510 --> 00:17:49,520
+so it's no will be lost and it will be
+ 
+
+821
+00:17:49,520 --> 00:17:52,230
+so it's no will be lost and it will be
+forming at least for
+
+822
+00:17:52,230 --> 00:17:52,240
+forming at least for
+ 
+
+823
+00:17:52,240 --> 00:17:54,710
+forming at least for
+four five months
+
+824
+00:17:54,710 --> 00:17:54,720
+four five months
+ 
+
+825
+00:17:54,720 --> 00:17:55,750
+four five months
+uh
+
+826
+00:17:55,750 --> 00:17:55,760
+uh
+ 
+
+827
+00:17:55,760 --> 00:17:57,590
+uh
+i'm not sure about the
+
+828
+00:17:57,590 --> 00:17:57,600
+i'm not sure about the
+ 
+
+829
+00:17:57,600 --> 00:18:00,390
+i'm not sure about the
+exactly like system token with their uh
+
+830
+00:18:00,390 --> 00:18:00,400
+exactly like system token with their uh
+ 
+
+831
+00:18:00,400 --> 00:18:01,669
+exactly like system token with their uh
+their plans
+
+832
+00:18:01,669 --> 00:18:01,679
+their plans
+ 
+
+833
+00:18:01,679 --> 00:18:05,590
+their plans
+but uh yeah basically uh in uh the
+
+834
+00:18:05,590 --> 00:18:05,600
+but uh yeah basically uh in uh the
+ 
+
+835
+00:18:05,600 --> 00:18:07,270
+but uh yeah basically uh in uh the
+current farming
+
+836
+00:18:07,270 --> 00:18:07,280
+current farming
+ 
+
+837
+00:18:07,280 --> 00:18:08,230
+current farming
+you
+
+838
+00:18:08,230 --> 00:18:08,240
+you
+ 
+
+839
+00:18:08,240 --> 00:18:10,390
+you
+your inside entitled reward as i
+
+840
+00:18:10,390 --> 00:18:10,400
+your inside entitled reward as i
+ 
+
+841
+00:18:10,400 --> 00:18:14,549
+your inside entitled reward as i
+remember its name uh is uh vested over
+
+842
+00:18:14,549 --> 00:18:14,559
+remember its name uh is uh vested over
+ 
+
+843
+00:18:14,559 --> 00:18:17,669
+remember its name uh is uh vested over
+this period like four months yeah so you
+
+844
+00:18:17,669 --> 00:18:17,679
+this period like four months yeah so you
+ 
+
+845
+00:18:17,679 --> 00:18:20,870
+this period like four months yeah so you
+will receive the final part of your
+
+846
+00:18:20,870 --> 00:18:20,880
+will receive the final part of your
+ 
+
+847
+00:18:20,880 --> 00:18:26,630
+will receive the final part of your
+reward after uh four months
+
+848
+00:18:26,630 --> 00:18:26,640
+
+ 
+
+849
+00:18:26,640 --> 00:18:30,230
+
+uh what farming speed uh will be on new
+
+850
+00:18:30,230 --> 00:18:30,240
+uh what farming speed uh will be on new
+ 
+
+851
+00:18:30,240 --> 00:18:33,990
+uh what farming speed uh will be on new
+platform for uh for example uh
+
+852
+00:18:33,990 --> 00:18:34,000
+platform for uh for example uh
+ 
+
+853
+00:18:34,000 --> 00:18:37,510
+platform for uh for example uh
+w tone or usd player
+
+854
+00:18:37,510 --> 00:18:37,520
+w tone or usd player
+ 
+
+855
+00:18:37,520 --> 00:18:41,029
+w tone or usd player
+uh good question um i'm not sure
+
+856
+00:18:41,029 --> 00:18:41,039
+uh good question um i'm not sure
+ 
+
+857
+00:18:41,039 --> 00:18:42,470
+uh good question um i'm not sure
+uh
+
+858
+00:18:42,470 --> 00:18:42,480
+uh
+ 
+
+859
+00:18:42,480 --> 00:18:45,750
+uh
+i think that uh it will be published in
+
+860
+00:18:45,750 --> 00:18:45,760
+i think that uh it will be published in
+ 
+
+861
+00:18:45,760 --> 00:18:48,950
+i think that uh it will be published in
+our uh news channels like you know in a
+
+862
+00:18:48,950 --> 00:18:48,960
+our uh news channels like you know in a
+ 
+
+863
+00:18:48,960 --> 00:18:51,430
+our uh news channels like you know in a
+few days the new information basically
+
+864
+00:18:51,430 --> 00:18:51,440
+few days the new information basically
+ 
+
+865
+00:18:51,440 --> 00:18:55,590
+few days the new information basically
+will need uh to finish the
+
+866
+00:18:55,590 --> 00:18:55,600
+will need uh to finish the
+ 
+
+867
+00:18:55,600 --> 00:18:58,710
+will need uh to finish the
+migration and after this uh
+
+868
+00:18:58,710 --> 00:18:58,720
+migration and after this uh
+ 
+
+869
+00:18:58,720 --> 00:19:01,270
+migration and after this uh
+the new farming pools will just be
+
+870
+00:19:01,270 --> 00:19:01,280
+the new farming pools will just be
+ 
+
+871
+00:19:01,280 --> 00:19:02,230
+the new farming pools will just be
+launched
+
+872
+00:19:02,230 --> 00:19:02,240
+launched
+ 
+
+873
+00:19:02,240 --> 00:19:04,870
+launched
+as soon as possible
+
+874
+00:19:04,870 --> 00:19:04,880
+as soon as possible
+ 
+
+875
+00:19:04,880 --> 00:19:06,950
+as soon as possible
+maybe it will still stay the same i'm
+
+876
+00:19:06,950 --> 00:19:06,960
+maybe it will still stay the same i'm
+ 
+
+877
+00:19:06,960 --> 00:19:10,470
+maybe it will still stay the same i'm
+not sure
+
+878
+00:19:10,470 --> 00:19:10,480
+
+ 
+
+879
+00:19:10,480 --> 00:19:13,750
+
+uh could you provide us uh
+
+880
+00:19:13,750 --> 00:19:13,760
+uh could you provide us uh
+ 
+
+881
+00:19:13,760 --> 00:19:16,789
+uh could you provide us uh
+this uh the your token uh registry
+
+882
+00:19:16,789 --> 00:19:16,799
+this uh the your token uh registry
+ 
+
+883
+00:19:16,799 --> 00:19:17,830
+this uh the your token uh registry
+please
+
+884
+00:19:17,830 --> 00:19:17,840
+please
+ 
+
+885
+00:19:17,840 --> 00:19:22,830
+please
+how uh we could add our tokens there
+
+886
+00:19:22,830 --> 00:19:22,840
+
+ 
+
+887
+00:19:22,840 --> 00:19:26,390
+
+uh let me see the question uh you mean
+
+888
+00:19:26,390 --> 00:19:26,400
+uh let me see the question uh you mean
+ 
+
+889
+00:19:26,400 --> 00:19:27,590
+uh let me see the question uh you mean
+uh
+
+890
+00:19:27,590 --> 00:19:27,600
+uh
+ 
+
+891
+00:19:27,600 --> 00:19:30,310
+uh
+uh did give me a moment let me send it
+
+892
+00:19:30,310 --> 00:19:30,320
+uh did give me a moment let me send it
+ 
+
+893
+00:19:30,320 --> 00:19:31,669
+uh did give me a moment let me send it
+to you
+
+894
+00:19:31,669 --> 00:19:31,679
+to you
+ 
+
+895
+00:19:31,679 --> 00:19:34,789
+to you
+okay yeah i see uh if uh
+
+896
+00:19:34,789 --> 00:19:34,799
+okay yeah i see uh if uh
+ 
+
+897
+00:19:34,799 --> 00:19:38,549
+okay yeah i see uh if uh
+if you mean the token registry like the
+
+898
+00:19:38,549 --> 00:19:38,559
+if you mean the token registry like the
+ 
+
+899
+00:19:38,559 --> 00:19:41,510
+if you mean the token registry like the
+white list for tokens
+
+900
+00:19:41,510 --> 00:19:41,520
+white list for tokens
+ 
+
+901
+00:19:41,520 --> 00:19:42,549
+white list for tokens
+so
+
+902
+00:19:42,549 --> 00:19:42,559
+so
+ 
+
+903
+00:19:42,559 --> 00:19:47,029
+so
+this white list is located on the github
+
+904
+00:19:47,029 --> 00:19:47,039
+this white list is located on the github
+ 
+
+905
+00:19:47,039 --> 00:19:48,310
+this white list is located on the github
+and
+
+906
+00:19:48,310 --> 00:19:48,320
+and
+ 
+
+907
+00:19:48,320 --> 00:19:50,789
+and
+i think you can make a full request to
+
+908
+00:19:50,789 --> 00:19:50,799
+i think you can make a full request to
+ 
+
+909
+00:19:50,799 --> 00:19:54,150
+i think you can make a full request to
+it and probably it will be
+
+910
+00:19:54,150 --> 00:19:54,160
+it and probably it will be
+ 
+
+911
+00:19:54,160 --> 00:19:56,230
+it and probably it will be
+accepted there are still no you know
+
+912
+00:19:56,230 --> 00:19:56,240
+accepted there are still no you know
+ 
+
+913
+00:19:56,240 --> 00:19:59,510
+accepted there are still no you know
+like politics about accepting new tokens
+
+914
+00:19:59,510 --> 00:19:59,520
+like politics about accepting new tokens
+ 
+
+915
+00:19:59,520 --> 00:20:02,470
+like politics about accepting new tokens
+in this white list probably we will
+
+916
+00:20:02,470 --> 00:20:02,480
+in this white list probably we will
+ 
+
+917
+00:20:02,480 --> 00:20:04,870
+in this white list probably we will
+upgrade our interfaces
+
+918
+00:20:04,870 --> 00:20:04,880
+upgrade our interfaces
+ 
+
+919
+00:20:04,880 --> 00:20:07,110
+upgrade our interfaces
+uh to support
+
+920
+00:20:07,110 --> 00:20:07,120
+uh to support
+ 
+
+921
+00:20:07,120 --> 00:20:08,710
+uh to support
+uh like
+
+922
+00:20:08,710 --> 00:20:08,720
+uh like
+ 
+
+923
+00:20:08,720 --> 00:20:11,350
+uh like
+user defined white lists
+
+924
+00:20:11,350 --> 00:20:11,360
+user defined white lists
+ 
+
+925
+00:20:11,360 --> 00:20:12,310
+user defined white lists
+uh
+
+926
+00:20:12,310 --> 00:20:12,320
+uh
+ 
+
+927
+00:20:12,320 --> 00:20:15,350
+uh
+but uh but you you can try just to make
+
+928
+00:20:15,350 --> 00:20:15,360
+but uh but you you can try just to make
+ 
+
+929
+00:20:15,360 --> 00:20:18,710
+but uh but you you can try just to make
+a pull request
+
+930
+00:20:18,710 --> 00:20:18,720
+
+ 
+
+931
+00:20:18,720 --> 00:20:21,430
+
+it's uh in their boxes organization this
+
+932
+00:20:21,430 --> 00:20:21,440
+it's uh in their boxes organization this
+ 
+
+933
+00:20:21,440 --> 00:20:22,710
+it's uh in their boxes organization this
+repo with
+
+934
+00:20:22,710 --> 00:20:22,720
+repo with
+ 
+
+935
+00:20:22,720 --> 00:20:25,370
+repo with
+a token list
+
+936
+00:20:25,370 --> 00:20:25,380
+a token list
+ 
+
+937
+00:20:25,380 --> 00:20:27,430
+a token list
+[Music]
+
+938
+00:20:27,430 --> 00:20:27,440
+[Music]
+ 
+
+939
+00:20:27,440 --> 00:20:28,390
+[Music]
+uh
+
+940
+00:20:28,390 --> 00:20:28,400
+uh
+ 
+
+941
+00:20:28,400 --> 00:20:31,750
+uh
+it it became a difficult uh practice to
+
+942
+00:20:31,750 --> 00:20:31,760
+it it became a difficult uh practice to
+ 
+
+943
+00:20:31,760 --> 00:20:35,830
+it it became a difficult uh practice to
+use uh tom wallet plus play out for tip
+
+944
+00:20:35,830 --> 00:20:35,840
+use uh tom wallet plus play out for tip
+ 
+
+945
+00:20:35,840 --> 00:20:38,310
+use uh tom wallet plus play out for tip
+three operations instead of external
+
+946
+00:20:38,310 --> 00:20:38,320
+three operations instead of external
+ 
+
+947
+00:20:38,320 --> 00:20:41,350
+three operations instead of external
+call which calls tip three wallet
+
+948
+00:20:41,350 --> 00:20:41,360
+call which calls tip three wallet
+ 
+
+949
+00:20:41,360 --> 00:20:42,470
+call which calls tip three wallet
+directly
+
+950
+00:20:42,470 --> 00:20:42,480
+directly
+ 
+
+951
+00:20:42,480 --> 00:20:47,110
+directly
+via private key
+
+952
+00:20:47,110 --> 00:20:47,120
+
+ 
+
+953
+00:20:47,120 --> 00:20:54,710
+
+let me see
+
+954
+00:20:54,710 --> 00:20:54,720
+
+ 
+
+955
+00:20:54,720 --> 00:20:58,789
+
+uh i'm not sure that it's uh
+
+956
+00:20:58,789 --> 00:20:58,799
+
+ 
+
+957
+00:20:58,799 --> 00:21:01,110
+
+okay i see it became default practice to
+
+958
+00:21:01,110 --> 00:21:01,120
+okay i see it became default practice to
+ 
+
+959
+00:21:01,120 --> 00:21:03,830
+okay i see it became default practice to
+use some wallet plus plus payload
+
+960
+00:21:03,830 --> 00:21:03,840
+use some wallet plus plus payload
+ 
+
+961
+00:21:03,840 --> 00:21:08,470
+use some wallet plus plus payload
+instead of external call yes uh right
+
+962
+00:21:08,470 --> 00:21:08,480
+instead of external call yes uh right
+ 
+
+963
+00:21:08,480 --> 00:21:09,750
+instead of external call yes uh right
+in our
+
+964
+00:21:09,750 --> 00:21:09,760
+in our
+ 
+
+965
+00:21:09,760 --> 00:21:10,870
+in our
+uh
+
+966
+00:21:10,870 --> 00:21:10,880
+uh
+ 
+
+967
+00:21:10,880 --> 00:21:13,029
+uh
+current implementation it's like the
+
+968
+00:21:13,029 --> 00:21:13,039
+current implementation it's like the
+ 
+
+969
+00:21:13,039 --> 00:21:16,070
+current implementation it's like the
+only way to use the token it's called
+
+970
+00:21:16,070 --> 00:21:16,080
+only way to use the token it's called
+ 
+
+971
+00:21:16,080 --> 00:21:19,750
+only way to use the token it's called
+like internal call so you you have to
+
+972
+00:21:19,750 --> 00:21:19,760
+like internal call so you you have to
+ 
+
+973
+00:21:19,760 --> 00:21:23,510
+like internal call so you you have to
+use your basic accounts like uh your
+
+974
+00:21:23,510 --> 00:21:23,520
+use your basic accounts like uh your
+ 
+
+975
+00:21:23,520 --> 00:21:24,390
+use your basic accounts like uh your
+uh
+
+976
+00:21:24,390 --> 00:21:24,400
+uh
+ 
+
+977
+00:21:24,400 --> 00:21:27,190
+uh
+wallet to initialize the call to your
+
+978
+00:21:27,190 --> 00:21:27,200
+wallet to initialize the call to your
+ 
+
+979
+00:21:27,200 --> 00:21:28,630
+wallet to initialize the call to your
+token wallet
+
+980
+00:21:28,630 --> 00:21:28,640
+token wallet
+ 
+
+981
+00:21:28,640 --> 00:21:30,789
+token wallet
+so uh
+
+982
+00:21:30,789 --> 00:21:30,799
+so uh
+ 
+
+983
+00:21:30,799 --> 00:21:33,750
+so uh
+in the in the previous implementation uh
+
+984
+00:21:33,750 --> 00:21:33,760
+in the in the previous implementation uh
+ 
+
+985
+00:21:33,760 --> 00:21:37,270
+in the in the previous implementation uh
+it was implemented but uh as i remember
+
+986
+00:21:37,270 --> 00:21:37,280
+it was implemented but uh as i remember
+ 
+
+987
+00:21:37,280 --> 00:21:39,270
+it was implemented but uh as i remember
+uh it's uh
+
+988
+00:21:39,270 --> 00:21:39,280
+uh it's uh
+ 
+
+989
+00:21:39,280 --> 00:21:41,669
+uh it's uh
+never uh never used
+
+990
+00:21:41,669 --> 00:21:41,679
+never uh never used
+ 
+
+991
+00:21:41,679 --> 00:21:44,950
+never uh never used
+at least once um the
+
+992
+00:21:44,950 --> 00:21:44,960
+at least once um the
+ 
+
+993
+00:21:44,960 --> 00:21:47,909
+at least once um the
+whole it is also important to say that
+
+994
+00:21:47,909 --> 00:21:47,919
+whole it is also important to say that
+ 
+
+995
+00:21:47,919 --> 00:21:52,470
+whole it is also important to say that
+the whole standard the tip three it uh
+
+996
+00:21:52,470 --> 00:21:52,480
+the whole standard the tip three it uh
+ 
+
+997
+00:21:52,480 --> 00:21:55,350
+the whole standard the tip three it uh
+does not tell you which way of uh
+
+998
+00:21:55,350 --> 00:21:55,360
+does not tell you which way of uh
+ 
+
+999
+00:21:55,360 --> 00:21:58,549
+does not tell you which way of uh
+ownership you should use you know
+
+1000
+00:21:58,549 --> 00:21:58,559
+ownership you should use you know
+ 
+
+1001
+00:21:58,559 --> 00:22:01,110
+ownership you should use you know
+it's like that doesn't care about it so
+
+1002
+00:22:01,110 --> 00:22:01,120
+it's like that doesn't care about it so
+ 
+
+1003
+00:22:01,120 --> 00:22:04,390
+it's like that doesn't care about it so
+our token implementation uses the
+
+1004
+00:22:04,390 --> 00:22:04,400
+our token implementation uses the
+ 
+
+1005
+00:22:04,400 --> 00:22:07,190
+our token implementation uses the
+internal ownership and uh you know
+
+1006
+00:22:07,190 --> 00:22:07,200
+internal ownership and uh you know
+ 
+
+1007
+00:22:07,200 --> 00:22:09,590
+internal ownership and uh you know
+anyone if
+
+1008
+00:22:09,590 --> 00:22:09,600
+anyone if
+ 
+
+1009
+00:22:09,600 --> 00:22:11,270
+anyone if
+if there is a need
+
+1010
+00:22:11,270 --> 00:22:11,280
+if there is a need
+ 
+
+1011
+00:22:11,280 --> 00:22:13,990
+if there is a need
+can create a new token implementation
+
+1012
+00:22:13,990 --> 00:22:14,000
+can create a new token implementation
+ 
+
+1013
+00:22:14,000 --> 00:22:16,549
+can create a new token implementation
+with extra external ownership by private
+
+1014
+00:22:16,549 --> 00:22:16,559
+with extra external ownership by private
+ 
+
+1015
+00:22:16,559 --> 00:22:20,870
+with extra external ownership by private
+key that's uh that's okay
+
+1016
+00:22:20,870 --> 00:22:20,880
+
+ 
+
+1017
+00:22:20,880 --> 00:22:23,750
+
+these tokens still be uh
+
+1018
+00:22:23,750 --> 00:22:23,760
+these tokens still be uh
+ 
+
+1019
+00:22:23,760 --> 00:22:25,270
+these tokens still be uh
+will be supported
+
+1020
+00:22:25,270 --> 00:22:25,280
+will be supported
+ 
+
+1021
+00:22:25,280 --> 00:22:26,390
+will be supported
+like the
+
+1022
+00:22:26,390 --> 00:22:26,400
+like the
+ 
+
+1023
+00:22:26,400 --> 00:22:29,190
+like the
+block explorer for example
+
+1024
+00:22:29,190 --> 00:22:29,200
+block explorer for example
+ 
+
+1025
+00:22:29,200 --> 00:22:31,190
+block explorer for example
+you will see the token transfers and so
+
+1026
+00:22:31,190 --> 00:22:31,200
+you will see the token transfers and so
+ 
+
+1027
+00:22:31,200 --> 00:22:33,750
+you will see the token transfers and so
+on
+
+1028
+00:22:33,750 --> 00:22:33,760
+
+ 
+
+1029
+00:22:33,760 --> 00:22:36,950
+
+uh next question is uh what
+
+1030
+00:22:36,950 --> 00:22:36,960
+uh next question is uh what
+ 
+
+1031
+00:22:36,960 --> 00:22:39,430
+uh next question is uh what
+are your comments on the standard
+
+1032
+00:22:39,430 --> 00:22:39,440
+are your comments on the standard
+ 
+
+1033
+00:22:39,440 --> 00:22:42,230
+are your comments on the standard
+interface for default functions like
+
+1034
+00:22:42,230 --> 00:22:42,240
+interface for default functions like
+ 
+
+1035
+00:22:42,240 --> 00:22:45,029
+interface for default functions like
+transfer are not strictly
+
+1036
+00:22:45,029 --> 00:22:45,039
+transfer are not strictly
+ 
+
+1037
+00:22:45,039 --> 00:22:52,830
+transfer are not strictly
+defined and behavior is not defined
+
+1038
+00:22:52,830 --> 00:22:52,840
+
+ 
+
+1039
+00:22:52,840 --> 00:22:53,990
+
+well uh
+
+1040
+00:22:53,990 --> 00:22:54,000
+well uh
+ 
+
+1041
+00:22:54,000 --> 00:22:57,510
+well uh
+i can't agree that the behavior is not
+
+1042
+00:22:57,510 --> 00:22:57,520
+i can't agree that the behavior is not
+ 
+
+1043
+00:22:57,520 --> 00:22:58,710
+i can't agree that the behavior is not
+defined
+
+1044
+00:22:58,710 --> 00:22:58,720
+defined
+ 
+
+1045
+00:22:58,720 --> 00:23:00,549
+defined
+uh the
+
+1046
+00:23:00,549 --> 00:23:00,559
+uh the
+ 
+
+1047
+00:23:00,559 --> 00:23:03,669
+uh the
+idea about the current standard
+
+1048
+00:23:03,669 --> 00:23:03,679
+idea about the current standard
+ 
+
+1049
+00:23:03,679 --> 00:23:07,430
+idea about the current standard
+is that it implements like you know uh
+
+1050
+00:23:07,430 --> 00:23:07,440
+is that it implements like you know uh
+ 
+
+1051
+00:23:07,440 --> 00:23:11,029
+is that it implements like you know uh
+basic functionality for detecting their
+
+1052
+00:23:11,029 --> 00:23:11,039
+basic functionality for detecting their
+ 
+
+1053
+00:23:11,039 --> 00:23:12,950
+basic functionality for detecting their
+transfers or mint
+
+1054
+00:23:12,950 --> 00:23:12,960
+transfers or mint
+ 
+
+1055
+00:23:12,960 --> 00:23:14,950
+transfers or mint
+or burn operations
+
+1056
+00:23:14,950 --> 00:23:14,960
+or burn operations
+ 
+
+1057
+00:23:14,960 --> 00:23:15,990
+or burn operations
+the
+
+1058
+00:23:15,990 --> 00:23:16,000
+the
+ 
+
+1059
+00:23:16,000 --> 00:23:17,750
+the
+external method
+
+1060
+00:23:17,750 --> 00:23:17,760
+external method
+ 
+
+1061
+00:23:17,760 --> 00:23:20,470
+external method
+for example for initializing the
+
+1062
+00:23:20,470 --> 00:23:20,480
+for example for initializing the
+ 
+
+1063
+00:23:20,480 --> 00:23:24,230
+for example for initializing the
+transfer can be different uh it
+
+1064
+00:23:24,230 --> 00:23:24,240
+transfer can be different uh it
+ 
+
+1065
+00:23:24,240 --> 00:23:25,110
+transfer can be different uh it
+can
+
+1066
+00:23:25,110 --> 00:23:25,120
+can
+ 
+
+1067
+00:23:25,120 --> 00:23:26,149
+can
+depend
+
+1068
+00:23:26,149 --> 00:23:26,159
+depend
+ 
+
+1069
+00:23:26,159 --> 00:23:27,350
+depend
+on the
+
+1070
+00:23:27,350 --> 00:23:27,360
+on the
+ 
+
+1071
+00:23:27,360 --> 00:23:30,070
+on the
+uh implementation yeah as as i said for
+
+1072
+00:23:30,070 --> 00:23:30,080
+uh implementation yeah as as i said for
+ 
+
+1073
+00:23:30,080 --> 00:23:32,950
+uh implementation yeah as as i said for
+example you can have two different uh
+
+1074
+00:23:32,950 --> 00:23:32,960
+example you can have two different uh
+ 
+
+1075
+00:23:32,960 --> 00:23:36,149
+example you can have two different uh
+sub standards like the internal owned
+
+1076
+00:23:36,149 --> 00:23:36,159
+sub standards like the internal owned
+ 
+
+1077
+00:23:36,159 --> 00:23:39,029
+sub standards like the internal owned
+token wallet and external on stock in
+
+1078
+00:23:39,029 --> 00:23:39,039
+token wallet and external on stock in
+ 
+
+1079
+00:23:39,039 --> 00:23:42,390
+token wallet and external on stock in
+the wallet this uh
+
+1080
+00:23:42,390 --> 00:23:42,400
+the wallet this uh
+ 
+
+1081
+00:23:42,400 --> 00:23:44,789
+the wallet this uh
+this uh
+
+1082
+00:23:44,789 --> 00:23:44,799
+this uh
+ 
+
+1083
+00:23:44,799 --> 00:23:47,990
+this uh
+method for initializing the transfer
+
+1084
+00:23:47,990 --> 00:23:48,000
+method for initializing the transfer
+ 
+
+1085
+00:23:48,000 --> 00:23:49,110
+method for initializing the transfer
+uh
+
+1086
+00:23:49,110 --> 00:23:49,120
+uh
+ 
+
+1087
+00:23:49,120 --> 00:23:51,590
+uh
+can't be the same you know between these
+
+1088
+00:23:51,590 --> 00:23:51,600
+can't be the same you know between these
+ 
+
+1089
+00:23:51,600 --> 00:23:53,990
+can't be the same you know between these
+two standards because uh external
+
+1090
+00:23:53,990 --> 00:23:54,000
+two standards because uh external
+ 
+
+1091
+00:23:54,000 --> 00:23:57,110
+two standards because uh external
+ownership and internal ownership works
+
+1092
+00:23:57,110 --> 00:23:57,120
+ownership and internal ownership works
+ 
+
+1093
+00:23:57,120 --> 00:23:58,710
+ownership and internal ownership works
+uh a little bit
+
+1094
+00:23:58,710 --> 00:23:58,720
+uh a little bit
+ 
+
+1095
+00:23:58,720 --> 00:23:59,750
+uh a little bit
+different
+
+1096
+00:23:59,750 --> 00:23:59,760
+different
+ 
+
+1097
+00:23:59,760 --> 00:24:02,070
+different
+uh so uh
+
+1098
+00:24:02,070 --> 00:24:02,080
+uh so uh
+ 
+
+1099
+00:24:02,080 --> 00:24:02,950
+uh so uh
+the
+
+1100
+00:24:02,950 --> 00:24:02,960
+the
+ 
+
+1101
+00:24:02,960 --> 00:24:05,430
+the
+uh which is also more important here i
+
+1102
+00:24:05,430 --> 00:24:05,440
+uh which is also more important here i
+ 
+
+1103
+00:24:05,440 --> 00:24:07,269
+uh which is also more important here i
+forgot to say about it that we will
+
+1104
+00:24:07,269 --> 00:24:07,279
+forgot to say about it that we will
+ 
+
+1105
+00:24:07,279 --> 00:24:10,149
+forgot to say about it that we will
+release the so-called substandard let's
+
+1106
+00:24:10,149 --> 00:24:10,159
+release the so-called substandard let's
+ 
+
+1107
+00:24:10,159 --> 00:24:14,950
+release the so-called substandard let's
+say tip 3.1 or maybe i'm not sure to 3.2
+
+1108
+00:24:14,950 --> 00:24:14,960
+say tip 3.1 or maybe i'm not sure to 3.2
+ 
+
+1109
+00:24:14,960 --> 00:24:18,870
+say tip 3.1 or maybe i'm not sure to 3.2
+with exactly our current implementation
+
+1110
+00:24:18,870 --> 00:24:18,880
+with exactly our current implementation
+ 
+
+1111
+00:24:18,880 --> 00:24:23,110
+with exactly our current implementation
+like the internal ownership the uh
+
+1112
+00:24:23,110 --> 00:24:23,120
+like the internal ownership the uh
+ 
+
+1113
+00:24:23,120 --> 00:24:26,549
+like the internal ownership the uh
+external uh interface for initializing
+
+1114
+00:24:26,549 --> 00:24:26,559
+external uh interface for initializing
+ 
+
+1115
+00:24:26,559 --> 00:24:30,230
+external uh interface for initializing
+transfers and mint and burn and so on so
+
+1116
+00:24:30,230 --> 00:24:30,240
+transfers and mint and burn and so on so
+ 
+
+1117
+00:24:30,240 --> 00:24:33,430
+transfers and mint and burn and so on so
+this substandard will define the
+
+1118
+00:24:33,430 --> 00:24:33,440
+this substandard will define the
+ 
+
+1119
+00:24:33,440 --> 00:24:35,750
+this substandard will define the
+behavior as much as possible
+
+1120
+00:24:35,750 --> 00:24:35,760
+behavior as much as possible
+ 
+
+1121
+00:24:35,760 --> 00:24:37,909
+behavior as much as possible
+and uh
+
+1122
+00:24:37,909 --> 00:24:37,919
+and uh
+ 
+
+1123
+00:24:37,919 --> 00:24:40,710
+and uh
+and it will still be compatible with the
+
+1124
+00:24:40,710 --> 00:24:40,720
+and it will still be compatible with the
+ 
+
+1125
+00:24:40,720 --> 00:24:46,149
+and it will still be compatible with the
+general tip 3 standard
+
+1126
+00:24:46,149 --> 00:24:46,159
+
+ 
+
+1127
+00:24:46,159 --> 00:24:48,710
+
+uh when uh will the documentation be
+
+1128
+00:24:48,710 --> 00:24:48,720
+uh when uh will the documentation be
+ 
+
+1129
+00:24:48,720 --> 00:24:50,870
+uh when uh will the documentation be
+published
+
+1130
+00:24:50,870 --> 00:24:50,880
+published
+ 
+
+1131
+00:24:50,880 --> 00:24:51,990
+published
+uh
+
+1132
+00:24:51,990 --> 00:24:52,000
+uh
+ 
+
+1133
+00:24:52,000 --> 00:24:53,110
+uh
+okay
+
+1134
+00:24:53,110 --> 00:24:53,120
+okay
+ 
+
+1135
+00:24:53,120 --> 00:24:54,950
+okay
+i'm not sure what
+
+1136
+00:24:54,950 --> 00:24:54,960
+i'm not sure what
+ 
+
+1137
+00:24:54,960 --> 00:24:58,390
+i'm not sure what
+documentation uh is meant
+
+1138
+00:24:58,390 --> 00:24:58,400
+documentation uh is meant
+ 
+
+1139
+00:24:58,400 --> 00:24:59,590
+documentation uh is meant
+like the
+
+1140
+00:24:59,590 --> 00:24:59,600
+like the
+ 
+
+1141
+00:24:59,600 --> 00:25:02,470
+like the
+description of their standard tip 3 is
+
+1142
+00:25:02,470 --> 00:25:02,480
+description of their standard tip 3 is
+ 
+
+1143
+00:25:02,480 --> 00:25:05,990
+description of their standard tip 3 is
+already published on the everscale
+
+1144
+00:25:05,990 --> 00:25:06,000
+already published on the everscale
+ 
+
+1145
+00:25:06,000 --> 00:25:08,710
+already published on the everscale
+documentation website it can be found
+
+1146
+00:25:08,710 --> 00:25:08,720
+documentation website it can be found
+ 
+
+1147
+00:25:08,720 --> 00:25:11,029
+documentation website it can be found
+on the github also
+
+1148
+00:25:11,029 --> 00:25:11,039
+on the github also
+ 
+
+1149
+00:25:11,039 --> 00:25:12,870
+on the github also
+so
+
+1150
+00:25:12,870 --> 00:25:12,880
+so
+ 
+
+1151
+00:25:12,880 --> 00:25:14,390
+so
+i'm not sure what
+
+1152
+00:25:14,390 --> 00:25:14,400
+i'm not sure what
+ 
+
+1153
+00:25:14,400 --> 00:25:17,190
+i'm not sure what
+i think he meant he meant this yeah i
+
+1154
+00:25:17,190 --> 00:25:17,200
+i think he meant he meant this yeah i
+ 
+
+1155
+00:25:17,200 --> 00:25:21,029
+i think he meant he meant this yeah i
+agree that's he meant this okay
+
+1156
+00:25:21,029 --> 00:25:21,039
+agree that's he meant this okay
+ 
+
+1157
+00:25:21,039 --> 00:25:24,149
+agree that's he meant this okay
+where some custom parameters uh can be
+
+1158
+00:25:24,149 --> 00:25:24,159
+where some custom parameters uh can be
+ 
+
+1159
+00:25:24,159 --> 00:25:28,549
+where some custom parameters uh can be
+encoded in some logic uh logic like
+
+1160
+00:25:28,549 --> 00:25:28,559
+encoded in some logic uh logic like
+ 
+
+1161
+00:25:28,559 --> 00:25:32,070
+encoded in some logic uh logic like
+check users balance and contain original
+
+1162
+00:25:32,070 --> 00:25:32,080
+check users balance and contain original
+ 
+
+1163
+00:25:32,080 --> 00:25:35,029
+check users balance and contain original
+original context execution may be
+
+1164
+00:25:35,029 --> 00:25:35,039
+original context execution may be
+ 
+
+1165
+00:25:35,039 --> 00:25:37,590
+original context execution may be
+implemented
+
+1166
+00:25:37,590 --> 00:25:37,600
+implemented
+ 
+
+1167
+00:25:37,600 --> 00:25:39,190
+implemented
+uh
+
+1168
+00:25:39,190 --> 00:25:39,200
+uh
+ 
+
+1169
+00:25:39,200 --> 00:25:49,750
+uh
+let me read it yeah
+
+1170
+00:25:49,750 --> 00:25:49,760
+
+ 
+
+1171
+00:25:49,760 --> 00:25:52,230
+
+i'm not sure that i understand a big
+
+1172
+00:25:52,230 --> 00:25:52,240
+i'm not sure that i understand a big
+ 
+
+1173
+00:25:52,240 --> 00:25:53,190
+i'm not sure that i understand a big
+question
+
+1174
+00:25:53,190 --> 00:25:53,200
+question
+ 
+
+1175
+00:25:53,200 --> 00:25:56,630
+question
+right but let me try to guess
+
+1176
+00:25:56,630 --> 00:25:56,640
+right but let me try to guess
+ 
+
+1177
+00:25:56,640 --> 00:25:58,230
+right but let me try to guess
+the
+
+1178
+00:25:58,230 --> 00:25:58,240
+the
+ 
+
+1179
+00:25:58,240 --> 00:26:01,430
+the
+current uh implementation of the broxas
+
+1180
+00:26:01,430 --> 00:26:01,440
+current uh implementation of the broxas
+ 
+
+1181
+00:26:01,440 --> 00:26:02,630
+current uh implementation of the broxas
+standards
+
+1182
+00:26:02,630 --> 00:26:02,640
+standards
+ 
+
+1183
+00:26:02,640 --> 00:26:05,669
+standards
+standard uh supports the
+
+1184
+00:26:05,669 --> 00:26:05,679
+standard uh supports the
+ 
+
+1185
+00:26:05,679 --> 00:26:08,549
+standard uh supports the
+uh like arbitrary payloads
+
+1186
+00:26:08,549 --> 00:26:08,559
+uh like arbitrary payloads
+ 
+
+1187
+00:26:08,559 --> 00:26:09,510
+uh like arbitrary payloads
+the
+
+1188
+00:26:09,510 --> 00:26:09,520
+the
+ 
+
+1189
+00:26:09,520 --> 00:26:12,549
+the
+callbacks and so on so
+
+1190
+00:26:12,549 --> 00:26:12,559
+callbacks and so on so
+ 
+
+1191
+00:26:12,559 --> 00:26:15,110
+callbacks and so on so
+you can see for example the
+
+1192
+00:26:15,110 --> 00:26:15,120
+you can see for example the
+ 
+
+1193
+00:26:15,120 --> 00:26:17,190
+you can see for example the
+the example on the
+
+1194
+00:26:17,190 --> 00:26:17,200
+the example on the
+ 
+
+1195
+00:26:17,200 --> 00:26:19,830
+the example on the
+uh bridge smart contracts
+
+1196
+00:26:19,830 --> 00:26:19,840
+uh bridge smart contracts
+ 
+
+1197
+00:26:19,840 --> 00:26:23,110
+uh bridge smart contracts
+uh there are like uh this is a specific
+
+1198
+00:26:23,110 --> 00:26:23,120
+uh there are like uh this is a specific
+ 
+
+1199
+00:26:23,120 --> 00:26:25,990
+uh there are like uh this is a specific
+payload encoded and passed to a token
+
+1200
+00:26:25,990 --> 00:26:26,000
+payload encoded and passed to a token
+ 
+
+1201
+00:26:26,000 --> 00:26:29,510
+payload encoded and passed to a token
+transfer and then uh after the transfer
+
+1202
+00:26:29,510 --> 00:26:29,520
+transfer and then uh after the transfer
+ 
+
+1203
+00:26:29,520 --> 00:26:30,950
+transfer and then uh after the transfer
+is received
+
+1204
+00:26:30,950 --> 00:26:30,960
+is received
+ 
+
+1205
+00:26:30,960 --> 00:26:31,990
+is received
+the
+
+1206
+00:26:31,990 --> 00:26:32,000
+the
+ 
+
+1207
+00:26:32,000 --> 00:26:35,830
+the
+like receive callback is initialized so
+
+1208
+00:26:35,830 --> 00:26:35,840
+like receive callback is initialized so
+ 
+
+1209
+00:26:35,840 --> 00:26:39,190
+like receive callback is initialized so
+this way you can integrate tokens in
+
+1210
+00:26:39,190 --> 00:26:39,200
+this way you can integrate tokens in
+ 
+
+1211
+00:26:39,200 --> 00:26:41,190
+this way you can integrate tokens in
+pretty much any decentralized
+
+1212
+00:26:41,190 --> 00:26:41,200
+pretty much any decentralized
+ 
+
+1213
+00:26:41,200 --> 00:26:43,990
+pretty much any decentralized
+application
+
+1214
+00:26:43,990 --> 00:26:44,000
+
+ 
+
+1215
+00:26:44,000 --> 00:26:45,029
+
+i hope
+
+1216
+00:26:45,029 --> 00:26:45,039
+i hope
+ 
+
+1217
+00:26:45,039 --> 00:26:47,909
+i hope
+i answered the question
+
+1218
+00:26:47,909 --> 00:26:47,919
+i answered the question
+ 
+
+1219
+00:26:47,919 --> 00:26:50,870
+i answered the question
+yeah
+
+1220
+00:26:50,870 --> 00:26:50,880
+
+ 
+
+1221
+00:26:50,880 --> 00:26:54,390
+
+when any guidelines will be available
+
+1222
+00:26:54,390 --> 00:26:54,400
+when any guidelines will be available
+ 
+
+1223
+00:26:54,400 --> 00:26:56,149
+when any guidelines will be available
+already answered
+
+1224
+00:26:56,149 --> 00:26:56,159
+already answered
+ 
+
+1225
+00:26:56,159 --> 00:26:57,430
+already answered
+um
+
+1226
+00:26:57,430 --> 00:26:57,440
+um
+ 
+
+1227
+00:26:57,440 --> 00:26:58,950
+um
+next question is
+
+1228
+00:26:58,950 --> 00:26:58,960
+next question is
+ 
+
+1229
+00:26:58,960 --> 00:27:03,029
+next question is
+uh 214
+
+1230
+00:27:03,029 --> 00:27:03,039
+
+ 
+
+1231
+00:27:03,039 --> 00:27:06,390
+
+characters out of 200
+
+1232
+00:27:06,390 --> 00:27:06,400
+characters out of 200
+ 
+
+1233
+00:27:06,400 --> 00:27:07,909
+characters out of 200
+there are no
+
+1234
+00:27:07,909 --> 00:27:07,919
+there are no
+ 
+
+1235
+00:27:07,919 --> 00:27:12,310
+there are no
+urls i think it's about youtube chat
+
+1236
+00:27:12,310 --> 00:27:12,320
+urls i think it's about youtube chat
+ 
+
+1237
+00:27:12,320 --> 00:27:14,470
+urls i think it's about youtube chat
+ah
+
+1238
+00:27:14,470 --> 00:27:14,480
+ah
+ 
+
+1239
+00:27:14,480 --> 00:27:16,870
+ah
+strange yeah uh will the token
+
+1240
+00:27:16,870 --> 00:27:16,880
+strange yeah uh will the token
+ 
+
+1241
+00:27:16,880 --> 00:27:19,510
+strange yeah uh will the token
+architecture change in the new standard
+
+1242
+00:27:19,510 --> 00:27:19,520
+architecture change in the new standard
+ 
+
+1243
+00:27:19,520 --> 00:27:22,149
+architecture change in the new standard
+previously a user created a contract for
+
+1244
+00:27:22,149 --> 00:27:22,159
+previously a user created a contract for
+ 
+
+1245
+00:27:22,159 --> 00:27:25,909
+previously a user created a contract for
+each token uh this gives six transaction
+
+1246
+00:27:25,909 --> 00:27:25,919
+each token uh this gives six transaction
+ 
+
+1247
+00:27:25,919 --> 00:27:28,070
+each token uh this gives six transaction
+per swap and a time
+
+1248
+00:27:28,070 --> 00:27:28,080
+per swap and a time
+ 
+
+1249
+00:27:28,080 --> 00:27:29,190
+per swap and a time
+of about
+
+1250
+00:27:29,190 --> 00:27:29,200
+of about
+ 
+
+1251
+00:27:29,200 --> 00:27:30,310
+of about
+60
+
+1252
+00:27:30,310 --> 00:27:30,320
+60
+ 
+
+1253
+00:27:30,320 --> 00:27:34,310
+60
+seconds i will use the swap time
+
+1254
+00:27:34,310 --> 00:27:34,320
+seconds i will use the swap time
+ 
+
+1255
+00:27:34,320 --> 00:27:36,310
+seconds i will use the swap time
+decrease
+
+1256
+00:27:36,310 --> 00:27:36,320
+decrease
+ 
+
+1257
+00:27:36,320 --> 00:27:37,110
+decrease
+uh
+
+1258
+00:27:37,110 --> 00:27:37,120
+uh
+ 
+
+1259
+00:27:37,120 --> 00:27:40,389
+uh
+okay yeah great question
+
+1260
+00:27:40,389 --> 00:27:40,399
+okay yeah great question
+ 
+
+1261
+00:27:40,399 --> 00:27:42,070
+okay yeah great question
+i think that
+
+1262
+00:27:42,070 --> 00:27:42,080
+i think that
+ 
+
+1263
+00:27:42,080 --> 00:27:44,789
+i think that
+the new implementation
+
+1264
+00:27:44,789 --> 00:27:44,799
+the new implementation
+ 
+
+1265
+00:27:44,799 --> 00:27:46,389
+the new implementation
+does not
+
+1266
+00:27:46,389 --> 00:27:46,399
+does not
+ 
+
+1267
+00:27:46,399 --> 00:27:49,510
+does not
+decrease the amount of transactions you
+
+1268
+00:27:49,510 --> 00:27:49,520
+decrease the amount of transactions you
+ 
+
+1269
+00:27:49,520 --> 00:27:52,470
+decrease the amount of transactions you
+know there is still uh internal
+
+1270
+00:27:52,470 --> 00:27:52,480
+know there is still uh internal
+ 
+
+1271
+00:27:52,480 --> 00:27:55,909
+know there is still uh internal
+ownership which requires you to send an
+
+1272
+00:27:55,909 --> 00:27:55,919
+ownership which requires you to send an
+ 
+
+1273
+00:27:55,919 --> 00:27:58,549
+ownership which requires you to send an
+additional transaction from your wallet
+
+1274
+00:27:58,549 --> 00:27:58,559
+additional transaction from your wallet
+ 
+
+1275
+00:27:58,559 --> 00:28:02,070
+additional transaction from your wallet
+to the token wallet and uh so on so
+
+1276
+00:28:02,070 --> 00:28:02,080
+to the token wallet and uh so on so
+ 
+
+1277
+00:28:02,080 --> 00:28:04,310
+to the token wallet and uh so on so
+probably the new
+
+1278
+00:28:04,310 --> 00:28:04,320
+probably the new
+ 
+
+1279
+00:28:04,320 --> 00:28:09,190
+probably the new
+architecture the new implementation uh
+
+1280
+00:28:09,190 --> 00:28:09,200
+architecture the new implementation uh
+ 
+
+1281
+00:28:09,200 --> 00:28:10,549
+architecture the new implementation uh
+don't uh
+
+1282
+00:28:10,549 --> 00:28:10,559
+don't uh
+ 
+
+1283
+00:28:10,559 --> 00:28:14,389
+don't uh
+don't decrease the swap time for example
+
+1284
+00:28:14,389 --> 00:28:14,399
+don't decrease the swap time for example
+ 
+
+1285
+00:28:14,399 --> 00:28:17,590
+don't decrease the swap time for example
+i think it's uh on the you know like uh
+
+1286
+00:28:17,590 --> 00:28:17,600
+i think it's uh on the you know like uh
+ 
+
+1287
+00:28:17,600 --> 00:28:21,750
+i think it's uh on the you know like uh
+it requires some uh network uh changes
+
+1288
+00:28:21,750 --> 00:28:21,760
+it requires some uh network uh changes
+ 
+
+1289
+00:28:21,760 --> 00:28:23,350
+it requires some uh network uh changes
+to
+
+1290
+00:28:23,350 --> 00:28:23,360
+to
+ 
+
+1291
+00:28:23,360 --> 00:28:25,909
+to
+uh m to make this uh
+
+1292
+00:28:25,909 --> 00:28:25,919
+uh m to make this uh
+ 
+
+1293
+00:28:25,919 --> 00:28:32,789
+uh m to make this uh
+like for example swap time less
+
+1294
+00:28:32,789 --> 00:28:32,799
+
+ 
+
+1295
+00:28:32,799 --> 00:28:35,110
+
+on next question uh
+
+1296
+00:28:35,110 --> 00:28:35,120
+on next question uh
+ 
+
+1297
+00:28:35,120 --> 00:28:37,990
+on next question uh
+the key application of everscale bridges
+
+1298
+00:28:37,990 --> 00:28:38,000
+the key application of everscale bridges
+ 
+
+1299
+00:28:38,000 --> 00:28:40,950
+the key application of everscale bridges
+and decks already work with the
+
+1300
+00:28:40,950 --> 00:28:40,960
+and decks already work with the
+ 
+
+1301
+00:28:40,960 --> 00:28:43,750
+and decks already work with the
+charging standard of
+
+1302
+00:28:43,750 --> 00:28:43,760
+charging standard of
+ 
+
+1303
+00:28:43,760 --> 00:28:46,310
+charging standard of
+fungible tokens there are no other
+
+1304
+00:28:46,310 --> 00:28:46,320
+fungible tokens there are no other
+ 
+
+1305
+00:28:46,320 --> 00:28:49,909
+fungible tokens there are no other
+applications like flakes flex exchange
+
+1306
+00:28:49,909 --> 00:28:49,919
+applications like flakes flex exchange
+ 
+
+1307
+00:28:49,919 --> 00:28:51,590
+applications like flakes flex exchange
+then what
+
+1308
+00:28:51,590 --> 00:28:51,600
+then what
+ 
+
+1309
+00:28:51,600 --> 00:28:54,070
+then what
+will the change of the standard give
+
+1310
+00:28:54,070 --> 00:28:54,080
+will the change of the standard give
+ 
+
+1311
+00:28:54,080 --> 00:28:58,549
+will the change of the standard give
+developers in the entire scale project
+
+1312
+00:28:58,549 --> 00:28:58,559
+developers in the entire scale project
+ 
+
+1313
+00:28:58,559 --> 00:29:02,310
+developers in the entire scale project
+uh also a good question first of all i
+
+1314
+00:29:02,310 --> 00:29:02,320
+uh also a good question first of all i
+ 
+
+1315
+00:29:02,320 --> 00:29:04,389
+uh also a good question first of all i
+i'm not agree that
+
+1316
+00:29:04,389 --> 00:29:04,399
+i'm not agree that
+ 
+
+1317
+00:29:04,399 --> 00:29:10,070
+i'm not agree that
+there are no other complex applications
+
+1318
+00:29:10,070 --> 00:29:10,080
+
+ 
+
+1319
+00:29:10,080 --> 00:29:12,950
+
+and another thing that the
+
+1320
+00:29:12,950 --> 00:29:12,960
+and another thing that the
+ 
+
+1321
+00:29:12,960 --> 00:29:15,510
+and another thing that the
+like common token standard
+
+1322
+00:29:15,510 --> 00:29:15,520
+like common token standard
+ 
+
+1323
+00:29:15,520 --> 00:29:17,029
+like common token standard
+uh
+
+1324
+00:29:17,029 --> 00:29:17,039
+uh
+ 
+
+1325
+00:29:17,039 --> 00:29:18,310
+uh
+allows us
+
+1326
+00:29:18,310 --> 00:29:18,320
+allows us
+ 
+
+1327
+00:29:18,320 --> 00:29:20,710
+allows us
+for example to provide a better
+
+1328
+00:29:20,710 --> 00:29:20,720
+for example to provide a better
+ 
+
+1329
+00:29:20,720 --> 00:29:23,750
+for example to provide a better
+onboarding for a new teams
+
+1330
+00:29:23,750 --> 00:29:23,760
+onboarding for a new teams
+ 
+
+1331
+00:29:23,760 --> 00:29:26,710
+onboarding for a new teams
+uh it allows uh the
+
+1332
+00:29:26,710 --> 00:29:26,720
+uh it allows uh the
+ 
+
+1333
+00:29:26,720 --> 00:29:29,029
+uh it allows uh the
+the the more simple development of the
+
+1334
+00:29:29,029 --> 00:29:29,039
+the the more simple development of the
+ 
+
+1335
+00:29:29,039 --> 00:29:31,669
+the the more simple development of the
+new products you know when there is uh
+
+1336
+00:29:31,669 --> 00:29:31,679
+new products you know when there is uh
+ 
+
+1337
+00:29:31,679 --> 00:29:34,389
+new products you know when there is uh
+only one common token standard and there
+
+1338
+00:29:34,389 --> 00:29:34,399
+only one common token standard and there
+ 
+
+1339
+00:29:34,399 --> 00:29:37,510
+only one common token standard and there
+is no need to research uh
+
+1340
+00:29:37,510 --> 00:29:37,520
+is no need to research uh
+ 
+
+1341
+00:29:37,520 --> 00:29:40,549
+is no need to research uh
+every uh every product available
+
+1342
+00:29:40,549 --> 00:29:40,559
+every uh every product available
+ 
+
+1343
+00:29:40,559 --> 00:29:43,110
+every uh every product available
+so uh it's like
+
+1344
+00:29:43,110 --> 00:29:43,120
+so uh it's like
+ 
+
+1345
+00:29:43,120 --> 00:29:46,149
+so uh it's like
+uh it's extremely important to have uh
+
+1346
+00:29:46,149 --> 00:29:46,159
+uh it's extremely important to have uh
+ 
+
+1347
+00:29:46,159 --> 00:29:48,950
+uh it's extremely important to have uh
+like a common token standard for the
+
+1348
+00:29:48,950 --> 00:29:48,960
+like a common token standard for the
+ 
+
+1349
+00:29:48,960 --> 00:29:52,710
+like a common token standard for the
+whole network and uh be sure that uh
+
+1350
+00:29:52,710 --> 00:29:52,720
+whole network and uh be sure that uh
+ 
+
+1351
+00:29:52,720 --> 00:29:54,470
+whole network and uh be sure that uh
+every product
+
+1352
+00:29:54,470 --> 00:29:54,480
+every product
+ 
+
+1353
+00:29:54,480 --> 00:29:55,990
+every product
+will be using
+
+1354
+00:29:55,990 --> 00:29:56,000
+will be using
+ 
+
+1355
+00:29:56,000 --> 00:30:00,389
+will be using
+it
+
+1356
+00:30:00,389 --> 00:30:00,399
+
+ 
+
+1357
+00:30:00,399 --> 00:30:03,029
+
+um
+
+1358
+00:30:03,029 --> 00:30:03,039
+
+ 
+
+1359
+00:30:03,039 --> 00:30:05,830
+
+now you can transfer token uh tokens if
+
+1360
+00:30:05,830 --> 00:30:05,840
+now you can transfer token uh tokens if
+ 
+
+1361
+00:30:05,840 --> 00:30:09,590
+now you can transfer token uh tokens if
+uh
+
+1362
+00:30:09,590 --> 00:30:09,600
+
+ 
+
+1363
+00:30:09,600 --> 00:30:12,230
+
+everyone's wallet conditionally has one
+
+1364
+00:30:12,230 --> 00:30:12,240
+everyone's wallet conditionally has one
+ 
+
+1365
+00:30:12,240 --> 00:30:15,750
+everyone's wallet conditionally has one
+chord a hash this is a this is a
+
+1366
+00:30:15,750 --> 00:30:15,760
+chord a hash this is a this is a
+ 
+
+1367
+00:30:15,760 --> 00:30:17,750
+chord a hash this is a this is a
+monopoly on the code
+
+1368
+00:30:17,750 --> 00:30:17,760
+monopoly on the code
+ 
+
+1369
+00:30:17,760 --> 00:30:18,710
+monopoly on the code
+uh
+
+1370
+00:30:18,710 --> 00:30:18,720
+uh
+ 
+
+1371
+00:30:18,720 --> 00:30:20,950
+uh
+in the new standard uh will the
+
+1372
+00:30:20,950 --> 00:30:20,960
+in the new standard uh will the
+ 
+
+1373
+00:30:20,960 --> 00:30:24,630
+in the new standard uh will the
+situation remain the same code for all
+
+1374
+00:30:24,630 --> 00:30:24,640
+situation remain the same code for all
+ 
+
+1375
+00:30:24,640 --> 00:30:26,470
+situation remain the same code for all
+cases
+
+1376
+00:30:26,470 --> 00:30:26,480
+cases
+ 
+
+1377
+00:30:26,480 --> 00:30:27,830
+cases
+uh
+
+1378
+00:30:27,830 --> 00:30:27,840
+uh
+ 
+
+1379
+00:30:27,840 --> 00:30:30,789
+uh
+well uh if i understand the question
+
+1380
+00:30:30,789 --> 00:30:30,799
+well uh if i understand the question
+ 
+
+1381
+00:30:30,799 --> 00:30:31,909
+well uh if i understand the question
+correctly
+
+1382
+00:30:31,909 --> 00:30:31,919
+correctly
+ 
+
+1383
+00:30:31,919 --> 00:30:33,110
+correctly
+uh yes
+
+1384
+00:30:33,110 --> 00:30:33,120
+uh yes
+ 
+
+1385
+00:30:33,120 --> 00:30:36,230
+uh yes
+the whole architecture is based on the
+
+1386
+00:30:36,230 --> 00:30:36,240
+the whole architecture is based on the
+ 
+
+1387
+00:30:36,240 --> 00:30:37,510
+the whole architecture is based on the
+simple
+
+1388
+00:30:37,510 --> 00:30:37,520
+simple
+ 
+
+1389
+00:30:37,520 --> 00:30:38,870
+simple
+simple principle
+
+1390
+00:30:38,870 --> 00:30:38,880
+simple principle
+ 
+
+1391
+00:30:38,880 --> 00:30:41,909
+simple principle
+that uh the token wallets
+
+1392
+00:30:41,909 --> 00:30:41,919
+that uh the token wallets
+ 
+
+1393
+00:30:41,919 --> 00:30:45,909
+that uh the token wallets
+uh can exchange uh messages only in case
+
+1394
+00:30:45,909 --> 00:30:45,919
+uh can exchange uh messages only in case
+ 
+
+1395
+00:30:45,919 --> 00:30:49,110
+uh can exchange uh messages only in case
+uh they have the same code hash so yeah
+
+1396
+00:30:49,110 --> 00:30:49,120
+uh they have the same code hash so yeah
+ 
+
+1397
+00:30:49,120 --> 00:30:52,470
+uh they have the same code hash so yeah
+basically it's like uh
+
+1398
+00:30:52,470 --> 00:30:52,480
+basically it's like uh
+ 
+
+1399
+00:30:52,480 --> 00:30:54,630
+basically it's like uh
+the main rule of the whole token
+
+1400
+00:30:54,630 --> 00:30:54,640
+the main rule of the whole token
+ 
+
+1401
+00:30:54,640 --> 00:30:57,430
+the main rule of the whole token
+architecture
+
+1402
+00:30:57,430 --> 00:30:57,440
+
+ 
+
+1403
+00:30:57,440 --> 00:31:01,669
+
+uh how to see uh what the ever tokens
+
+1404
+00:31:01,669 --> 00:31:01,679
+uh how to see uh what the ever tokens
+ 
+
+1405
+00:31:01,679 --> 00:31:04,870
+uh how to see uh what the ever tokens
+locked in the bridge are invested in
+
+1406
+00:31:04,870 --> 00:31:04,880
+locked in the bridge are invested in
+ 
+
+1407
+00:31:04,880 --> 00:31:07,750
+locked in the bridge are invested in
+because there are no or achieved not uh
+
+1408
+00:31:07,750 --> 00:31:07,760
+because there are no or achieved not uh
+ 
+
+1409
+00:31:07,760 --> 00:31:11,110
+because there are no or achieved not uh
+in everscale to make such requests
+
+1410
+00:31:11,110 --> 00:31:11,120
+in everscale to make such requests
+ 
+
+1411
+00:31:11,120 --> 00:31:14,470
+in everscale to make such requests
+uh will the new standard help investors
+
+1412
+00:31:14,470 --> 00:31:14,480
+uh will the new standard help investors
+ 
+
+1413
+00:31:14,480 --> 00:31:16,830
+uh will the new standard help investors
+visit
+
+1414
+00:31:16,830 --> 00:31:16,840
+
+ 
+
+1415
+00:31:16,840 --> 00:31:19,909
+
+disease okay let me
+
+1416
+00:31:19,909 --> 00:31:19,919
+disease okay let me
+ 
+
+1417
+00:31:19,919 --> 00:31:30,389
+disease okay let me
+read it again
+
+1418
+00:31:30,389 --> 00:31:30,399
+
+ 
+
+1419
+00:31:30,399 --> 00:31:31,350
+
+uh
+
+1420
+00:31:31,350 --> 00:31:31,360
+uh
+ 
+
+1421
+00:31:31,360 --> 00:31:32,950
+uh
+well uh
+
+1422
+00:31:32,950 --> 00:31:32,960
+well uh
+ 
+
+1423
+00:31:32,960 --> 00:31:35,509
+well uh
+you can always uh check uh
+
+1424
+00:31:35,509 --> 00:31:35,519
+you can always uh check uh
+ 
+
+1425
+00:31:35,519 --> 00:31:36,389
+you can always uh check uh
+the
+
+1426
+00:31:36,389 --> 00:31:36,399
+the
+ 
+
+1427
+00:31:36,399 --> 00:31:39,669
+the
+uh connected strategies you know and uh
+
+1428
+00:31:39,669 --> 00:31:39,679
+uh connected strategies you know and uh
+ 
+
+1429
+00:31:39,679 --> 00:31:42,470
+uh connected strategies you know and uh
+how much tokens are delegated
+
+1430
+00:31:42,470 --> 00:31:42,480
+how much tokens are delegated
+ 
+
+1431
+00:31:42,480 --> 00:31:47,190
+how much tokens are delegated
+to every strategy on the uh ethereum
+
+1432
+00:31:47,190 --> 00:31:47,200
+to every strategy on the uh ethereum
+ 
+
+1433
+00:31:47,200 --> 00:31:50,389
+to every strategy on the uh ethereum
+side uh you can just uh you know since
+
+1434
+00:31:50,389 --> 00:31:50,399
+side uh you can just uh you know since
+ 
+
+1435
+00:31:50,399 --> 00:31:52,549
+side uh you can just uh you know since
+the vault and the strategies are open
+
+1436
+00:31:52,549 --> 00:31:52,559
+the vault and the strategies are open
+ 
+
+1437
+00:31:52,559 --> 00:31:56,470
+the vault and the strategies are open
+source you can just uh verify how many
+
+1438
+00:31:56,470 --> 00:31:56,480
+source you can just uh verify how many
+ 
+
+1439
+00:31:56,480 --> 00:31:59,110
+source you can just uh verify how many
+tokens are invested
+
+1440
+00:31:59,110 --> 00:31:59,120
+tokens are invested
+ 
+
+1441
+00:31:59,120 --> 00:32:02,549
+tokens are invested
+in in every connected strategy uh i
+
+1442
+00:32:02,549 --> 00:32:02,559
+in in every connected strategy uh i
+ 
+
+1443
+00:32:02,559 --> 00:32:04,710
+in in every connected strategy uh i
+don't think that so you need to like are
+
+1444
+00:32:04,710 --> 00:32:04,720
+don't think that so you need to like are
+ 
+
+1445
+00:32:04,720 --> 00:32:07,750
+don't think that so you need to like are
+hypnot and you don't need to make these
+
+1446
+00:32:07,750 --> 00:32:07,760
+hypnot and you don't need to make these
+ 
+
+1447
+00:32:07,760 --> 00:32:09,830
+hypnot and you don't need to make these
+checks in every scale
+
+1448
+00:32:09,830 --> 00:32:09,840
+checks in every scale
+ 
+
+1449
+00:32:09,840 --> 00:32:15,029
+checks in every scale
+or just use the ethereum side
+
+1450
+00:32:15,029 --> 00:32:15,039
+
+ 
+
+1451
+00:32:15,039 --> 00:32:19,909
+
+uh when will tone bridge will be updated
+
+1452
+00:32:19,909 --> 00:32:19,919
+uh when will tone bridge will be updated
+ 
+
+1453
+00:32:19,919 --> 00:32:23,190
+uh when will tone bridge will be updated
+uh as i said uh i hope uh we will end
+
+1454
+00:32:23,190 --> 00:32:23,200
+uh as i said uh i hope uh we will end
+ 
+
+1455
+00:32:23,200 --> 00:32:25,430
+uh as i said uh i hope uh we will end
+the update uh
+
+1456
+00:32:25,430 --> 00:32:25,440
+the update uh
+ 
+
+1457
+00:32:25,440 --> 00:32:29,269
+the update uh
+until tuesday so like the
+
+1458
+00:32:29,269 --> 00:32:29,279
+until tuesday so like the
+ 
+
+1459
+00:32:29,279 --> 00:32:31,350
+until tuesday so like the
+next week yeah i'm sure
+
+1460
+00:32:31,350 --> 00:32:31,360
+next week yeah i'm sure
+ 
+
+1461
+00:32:31,360 --> 00:32:33,669
+next week yeah i'm sure
+next week okay thank you
+
+1462
+00:32:33,669 --> 00:32:33,679
+next week okay thank you
+ 
+
+1463
+00:32:33,679 --> 00:32:36,870
+next week okay thank you
+uh what is your price target forever
+
+1464
+00:32:36,870 --> 00:32:36,880
+uh what is your price target forever
+ 
+
+1465
+00:32:36,880 --> 00:32:41,830
+uh what is your price target forever
+bridge for one year from now
+
+1466
+00:32:41,830 --> 00:32:41,840
+
+ 
+
+1467
+00:32:41,840 --> 00:32:46,549
+
+can we just skip this question
+
+1468
+00:32:46,549 --> 00:32:46,559
+
+ 
+
+1469
+00:32:46,559 --> 00:32:47,990
+
+yeah then
+
+1470
+00:32:47,990 --> 00:32:48,000
+yeah then
+ 
+
+1471
+00:32:48,000 --> 00:32:50,310
+yeah then
+uh there is no financial
+
+1472
+00:32:50,310 --> 00:32:50,320
+uh there is no financial
+ 
+
+1473
+00:32:50,320 --> 00:32:53,350
+uh there is no financial
+advice exactly yeah
+
+1474
+00:32:53,350 --> 00:32:53,360
+advice exactly yeah
+ 
+
+1475
+00:32:53,360 --> 00:32:55,590
+advice exactly yeah
+uh could you implement automatic on
+
+1476
+00:32:55,590 --> 00:32:55,600
+uh could you implement automatic on
+ 
+
+1477
+00:32:55,600 --> 00:32:58,789
+uh could you implement automatic on
+chain methods to add user are created
+
+1478
+00:32:58,789 --> 00:32:58,799
+chain methods to add user are created
+ 
+
+1479
+00:32:58,799 --> 00:33:01,830
+chain methods to add user are created
+tokens to your registry please so
+
+1480
+00:33:01,830 --> 00:33:01,840
+tokens to your registry please so
+ 
+
+1481
+00:33:01,840 --> 00:33:04,710
+tokens to your registry please so
+could use their tokens inside brooks's
+
+1482
+00:33:04,710 --> 00:33:04,720
+could use their tokens inside brooks's
+ 
+
+1483
+00:33:04,720 --> 00:33:07,909
+could use their tokens inside brooks's
+wallet and send them to dex
+
+1484
+00:33:07,909 --> 00:33:07,919
+wallet and send them to dex
+ 
+
+1485
+00:33:07,919 --> 00:33:10,630
+wallet and send them to dex
+to sell them for example
+
+1486
+00:33:10,630 --> 00:33:10,640
+to sell them for example
+ 
+
+1487
+00:33:10,640 --> 00:33:12,630
+to sell them for example
+uh it's a good question
+
+1488
+00:33:12,630 --> 00:33:12,640
+uh it's a good question
+ 
+
+1489
+00:33:12,640 --> 00:33:14,870
+uh it's a good question
+let me try to ask
+
+1490
+00:33:14,870 --> 00:33:14,880
+let me try to ask
+ 
+
+1491
+00:33:14,880 --> 00:33:16,230
+let me try to ask
+for example
+
+1492
+00:33:16,230 --> 00:33:16,240
+for example
+ 
+
+1493
+00:33:16,240 --> 00:33:18,710
+for example
+you can remember how
+
+1494
+00:33:18,710 --> 00:33:18,720
+you can remember how
+ 
+
+1495
+00:33:18,720 --> 00:33:21,430
+you can remember how
+talking lists
+
+1496
+00:33:21,430 --> 00:33:21,440
+talking lists
+ 
+
+1497
+00:33:21,440 --> 00:33:22,230
+talking lists
+work
+
+1498
+00:33:22,230 --> 00:33:22,240
+work
+ 
+
+1499
+00:33:22,240 --> 00:33:25,750
+work
+on the ethereum uh there is like a
+
+1500
+00:33:25,750 --> 00:33:25,760
+on the ethereum uh there is like a
+ 
+
+1501
+00:33:25,760 --> 00:33:28,710
+on the ethereum uh there is like a
+standard a so-called token list uh
+
+1502
+00:33:28,710 --> 00:33:28,720
+standard a so-called token list uh
+ 
+
+1503
+00:33:28,720 --> 00:33:31,669
+standard a so-called token list uh
+invented by uniswap long time ago
+
+1504
+00:33:31,669 --> 00:33:31,679
+invented by uniswap long time ago
+ 
+
+1505
+00:33:31,679 --> 00:33:35,430
+invented by uniswap long time ago
+and uh there are like a lot of uh token
+
+1506
+00:33:35,430 --> 00:33:35,440
+and uh there are like a lot of uh token
+ 
+
+1507
+00:33:35,440 --> 00:33:40,310
+and uh there are like a lot of uh token
+lists uh across the network uh
+
+1508
+00:33:40,310 --> 00:33:40,320
+lists uh across the network uh
+ 
+
+1509
+00:33:40,320 --> 00:33:43,830
+lists uh across the network uh
+and uh like the main one uh is uh
+
+1510
+00:33:43,830 --> 00:33:43,840
+and uh like the main one uh is uh
+ 
+
+1511
+00:33:43,840 --> 00:33:46,870
+and uh like the main one uh is uh
+controlled by the unis wall it's uh
+
+1512
+00:33:46,870 --> 00:33:46,880
+controlled by the unis wall it's uh
+ 
+
+1513
+00:33:46,880 --> 00:33:49,750
+controlled by the unis wall it's uh
+kinda small you know maybe less than 100
+
+1514
+00:33:49,750 --> 00:33:49,760
+kinda small you know maybe less than 100
+ 
+
+1515
+00:33:49,760 --> 00:33:50,789
+kinda small you know maybe less than 100
+tokens
+
+1516
+00:33:50,789 --> 00:33:50,799
+tokens
+ 
+
+1517
+00:33:50,799 --> 00:33:53,190
+tokens
+and it's um it's important to keep it
+
+1518
+00:33:53,190 --> 00:33:53,200
+and it's um it's important to keep it
+ 
+
+1519
+00:33:53,200 --> 00:33:56,710
+and it's um it's important to keep it
+small uh there is always a risk for
+
+1520
+00:33:56,710 --> 00:33:56,720
+small uh there is always a risk for
+ 
+
+1521
+00:33:56,720 --> 00:33:59,269
+small uh there is always a risk for
+example of uh
+
+1522
+00:33:59,269 --> 00:33:59,279
+example of uh
+ 
+
+1523
+00:33:59,279 --> 00:34:01,430
+example of uh
+phishing let's say you know if i'm
+
+1524
+00:34:01,430 --> 00:34:01,440
+phishing let's say you know if i'm
+ 
+
+1525
+00:34:01,440 --> 00:34:03,669
+phishing let's say you know if i'm
+talking about unchain method to add user
+
+1526
+00:34:03,669 --> 00:34:03,679
+talking about unchain method to add user
+ 
+
+1527
+00:34:03,679 --> 00:34:06,710
+talking about unchain method to add user
+created tokens uh what if uh
+
+1528
+00:34:06,710 --> 00:34:06,720
+created tokens uh what if uh
+ 
+
+1529
+00:34:06,720 --> 00:34:11,430
+created tokens uh what if uh
+someone adds like a thousand new usdc uh
+
+1530
+00:34:11,430 --> 00:34:11,440
+someone adds like a thousand new usdc uh
+ 
+
+1531
+00:34:11,440 --> 00:34:12,950
+someone adds like a thousand new usdc uh
+tokens you know
+
+1532
+00:34:12,950 --> 00:34:12,960
+tokens you know
+ 
+
+1533
+00:34:12,960 --> 00:34:15,109
+tokens you know
+uh it's uh
+
+1534
+00:34:15,109 --> 00:34:15,119
+uh it's uh
+ 
+
+1535
+00:34:15,119 --> 00:34:16,950
+uh it's uh
+we will have a
+
+1536
+00:34:16,950 --> 00:34:16,960
+we will have a
+ 
+
+1537
+00:34:16,960 --> 00:34:19,669
+we will have a
+huge mess after that so it
+
+1538
+00:34:19,669 --> 00:34:19,679
+huge mess after that so it
+ 
+
+1539
+00:34:19,679 --> 00:34:22,230
+huge mess after that so it
+this process always
+
+1540
+00:34:22,230 --> 00:34:22,240
+this process always
+ 
+
+1541
+00:34:22,240 --> 00:34:24,790
+this process always
+requires some manual checks you know
+
+1542
+00:34:24,790 --> 00:34:24,800
+requires some manual checks you know
+ 
+
+1543
+00:34:24,800 --> 00:34:26,710
+requires some manual checks you know
+some security checks
+
+1544
+00:34:26,710 --> 00:34:26,720
+some security checks
+ 
+
+1545
+00:34:26,720 --> 00:34:29,190
+some security checks
+i'm not sure that it
+
+1546
+00:34:29,190 --> 00:34:29,200
+i'm not sure that it
+ 
+
+1547
+00:34:29,200 --> 00:34:32,869
+i'm not sure that it
+can be done completely automatic
+
+1548
+00:34:32,869 --> 00:34:32,879
+can be done completely automatic
+ 
+
+1549
+00:34:32,879 --> 00:34:36,389
+can be done completely automatic
+so probably for now uh this process will
+
+1550
+00:34:36,389 --> 00:34:36,399
+so probably for now uh this process will
+ 
+
+1551
+00:34:36,399 --> 00:34:38,149
+so probably for now uh this process will
+remain the same
+
+1552
+00:34:38,149 --> 00:34:38,159
+remain the same
+ 
+
+1553
+00:34:38,159 --> 00:34:41,510
+remain the same
+uh and if you want to add your token
+
+1554
+00:34:41,510 --> 00:34:41,520
+uh and if you want to add your token
+ 
+
+1555
+00:34:41,520 --> 00:34:42,550
+uh and if you want to add your token
+uh
+
+1556
+00:34:42,550 --> 00:34:42,560
+uh
+ 
+
+1557
+00:34:42,560 --> 00:34:45,109
+uh
+well at least uh you have to create a
+
+1558
+00:34:45,109 --> 00:34:45,119
+well at least uh you have to create a
+ 
+
+1559
+00:34:45,119 --> 00:34:46,470
+well at least uh you have to create a
+pull request
+
+1560
+00:34:46,470 --> 00:34:46,480
+pull request
+ 
+
+1561
+00:34:46,480 --> 00:34:49,430
+pull request
+and uh wait until it confirmed
+
+1562
+00:34:49,430 --> 00:34:49,440
+and uh wait until it confirmed
+ 
+
+1563
+00:34:49,440 --> 00:34:51,669
+and uh wait until it confirmed
+unfortunately i i i just don't know the
+
+1564
+00:34:51,669 --> 00:34:51,679
+unfortunately i i i just don't know the
+ 
+
+1565
+00:34:51,679 --> 00:34:57,510
+unfortunately i i i just don't know the
+other way to do it uh securely
+
+1566
+00:34:57,510 --> 00:34:57,520
+
+ 
+
+1567
+00:34:57,520 --> 00:34:59,030
+
+thank you for answering
+
+1568
+00:34:59,030 --> 00:34:59,040
+thank you for answering
+ 
+
+1569
+00:34:59,040 --> 00:35:02,790
+thank you for answering
+uh there are three more questions uh it
+
+1570
+00:35:02,790 --> 00:35:02,800
+uh there are three more questions uh it
+ 
+
+1571
+00:35:02,800 --> 00:35:04,790
+uh there are three more questions uh it
+seems like uh
+
+1572
+00:35:04,790 --> 00:35:04,800
+seems like uh
+ 
+
+1573
+00:35:04,800 --> 00:35:07,109
+seems like uh
+you're going to update the breach and
+
+1574
+00:35:07,109 --> 00:35:07,119
+you're going to update the breach and
+ 
+
+1575
+00:35:07,119 --> 00:35:11,109
+you're going to update the breach and
+token first and only then uh the new
+
+1576
+00:35:11,109 --> 00:35:11,119
+token first and only then uh the new
+ 
+
+1577
+00:35:11,119 --> 00:35:12,310
+token first and only then uh the new
+uh
+
+1578
+00:35:12,310 --> 00:35:12,320
+uh
+ 
+
+1579
+00:35:12,320 --> 00:35:16,950
+uh
+dex decks yeah decks
+
+1580
+00:35:16,950 --> 00:35:16,960
+
+ 
+
+1581
+00:35:16,960 --> 00:35:19,589
+
+uh okay uh yeah yeah
+
+1582
+00:35:19,589 --> 00:35:19,599
+uh okay uh yeah yeah
+ 
+
+1583
+00:35:19,599 --> 00:35:21,430
+uh okay uh yeah yeah
+i think uh
+
+1584
+00:35:21,430 --> 00:35:21,440
+i think uh
+ 
+
+1585
+00:35:21,440 --> 00:35:24,390
+i think uh
+we haven't started yet but most likely
+
+1586
+00:35:24,390 --> 00:35:24,400
+we haven't started yet but most likely
+ 
+
+1587
+00:35:24,400 --> 00:35:27,750
+we haven't started yet but most likely
+we'll uh make it this way like uh
+
+1588
+00:35:27,750 --> 00:35:27,760
+we'll uh make it this way like uh
+ 
+
+1589
+00:35:27,760 --> 00:35:29,589
+we'll uh make it this way like uh
+the bridge and the tokens
+
+1590
+00:35:29,589 --> 00:35:29,599
+the bridge and the tokens
+ 
+
+1591
+00:35:29,599 --> 00:35:31,670
+the bridge and the tokens
+it's like the
+
+1592
+00:35:31,670 --> 00:35:31,680
+it's like the
+ 
+
+1593
+00:35:31,680 --> 00:35:34,950
+it's like the
+basement also for decks so yeah we have
+
+1594
+00:35:34,950 --> 00:35:34,960
+basement also for decks so yeah we have
+ 
+
+1595
+00:35:34,960 --> 00:35:39,109
+basement also for decks so yeah we have
+to upgrade them uh at first
+
+1596
+00:35:39,109 --> 00:35:39,119
+to upgrade them uh at first
+ 
+
+1597
+00:35:39,119 --> 00:35:41,670
+to upgrade them uh at first
+uh will there be a redeployment of the
+
+1598
+00:35:41,670 --> 00:35:41,680
+uh will there be a redeployment of the
+ 
+
+1599
+00:35:41,680 --> 00:35:46,390
+uh will there be a redeployment of the
+bridge including from the ether side
+
+1600
+00:35:46,390 --> 00:35:46,400
+bridge including from the ether side
+ 
+
+1601
+00:35:46,400 --> 00:35:49,030
+bridge including from the ether side
+uh yes yes uh the
+
+1602
+00:35:49,030 --> 00:35:49,040
+uh yes yes uh the
+ 
+
+1603
+00:35:49,040 --> 00:35:52,390
+uh yes yes uh the
+uh answer uh is yes because it's
+
+1604
+00:35:52,390 --> 00:35:52,400
+uh answer uh is yes because it's
+ 
+
+1605
+00:35:52,400 --> 00:35:54,870
+uh answer uh is yes because it's
+we have uh thought about
+
+1606
+00:35:54,870 --> 00:35:54,880
+we have uh thought about
+ 
+
+1607
+00:35:54,880 --> 00:35:57,190
+we have uh thought about
+uh you know the redeployment without
+
+1608
+00:35:57,190 --> 00:35:57,200
+uh you know the redeployment without
+ 
+
+1609
+00:35:57,200 --> 00:35:59,190
+uh you know the redeployment without
+affecting the current
+
+1610
+00:35:59,190 --> 00:35:59,200
+affecting the current
+ 
+
+1611
+00:35:59,200 --> 00:36:00,630
+affecting the current
+uh
+
+1612
+00:36:00,630 --> 00:36:00,640
+uh
+ 
+
+1613
+00:36:00,640 --> 00:36:03,990
+uh
+ethereum and polygon you know and so on
+
+1614
+00:36:03,990 --> 00:36:04,000
+ethereum and polygon you know and so on
+ 
+
+1615
+00:36:04,000 --> 00:36:04,870
+ethereum and polygon you know and so on
+uh
+
+1616
+00:36:04,870 --> 00:36:04,880
+uh
+ 
+
+1617
+00:36:04,880 --> 00:36:07,750
+uh
+smart contracts and unfortunately it's
+
+1618
+00:36:07,750 --> 00:36:07,760
+smart contracts and unfortunately it's
+ 
+
+1619
+00:36:07,760 --> 00:36:08,550
+smart contracts and unfortunately it's
+uh
+
+1620
+00:36:08,550 --> 00:36:08,560
+uh
+ 
+
+1621
+00:36:08,560 --> 00:36:11,510
+uh
+impossible in our understanding
+
+1622
+00:36:11,510 --> 00:36:11,520
+impossible in our understanding
+ 
+
+1623
+00:36:11,520 --> 00:36:14,870
+impossible in our understanding
+so yeah we will also uh upgrade
+
+1624
+00:36:14,870 --> 00:36:14,880
+so yeah we will also uh upgrade
+ 
+
+1625
+00:36:14,880 --> 00:36:17,829
+so yeah we will also uh upgrade
+deploy like new instances for
+
+1626
+00:36:17,829 --> 00:36:17,839
+deploy like new instances for
+ 
+
+1627
+00:36:17,839 --> 00:36:20,550
+deploy like new instances for
+every single contract that
+
+1628
+00:36:20,550 --> 00:36:20,560
+every single contract that
+ 
+
+1629
+00:36:20,560 --> 00:36:23,510
+every single contract that
+exists right now
+
+1630
+00:36:23,510 --> 00:36:23,520
+exists right now
+ 
+
+1631
+00:36:23,520 --> 00:36:26,069
+exists right now
+uh how will the bridge functions during
+
+1632
+00:36:26,069 --> 00:36:26,079
+uh how will the bridge functions during
+ 
+
+1633
+00:36:26,079 --> 00:36:26,790
+uh how will the bridge functions during
+the
+
+1634
+00:36:26,790 --> 00:36:26,800
+the
+ 
+
+1635
+00:36:26,800 --> 00:36:29,589
+the
+this time and what tokens
+
+1636
+00:36:29,589 --> 00:36:29,599
+this time and what tokens
+ 
+
+1637
+00:36:29,599 --> 00:36:32,870
+this time and what tokens
+versions will it support
+
+1638
+00:36:32,870 --> 00:36:32,880
+versions will it support
+ 
+
+1639
+00:36:32,880 --> 00:36:33,750
+versions will it support
+uh
+
+1640
+00:36:33,750 --> 00:36:33,760
+uh
+ 
+
+1641
+00:36:33,760 --> 00:36:37,510
+uh
+basically i think uh there would be some
+
+1642
+00:36:37,510 --> 00:36:37,520
+basically i think uh there would be some
+ 
+
+1643
+00:36:37,520 --> 00:36:38,390
+basically i think uh there would be some
+uh
+
+1644
+00:36:38,390 --> 00:36:38,400
+uh
+ 
+
+1645
+00:36:38,400 --> 00:36:42,390
+uh
+like black uh blackouts you know a few
+
+1646
+00:36:42,390 --> 00:36:42,400
+like black uh blackouts you know a few
+ 
+
+1647
+00:36:42,400 --> 00:36:47,829
+like black uh blackouts you know a few
+hours i hope of uh
+
+1648
+00:36:47,829 --> 00:36:47,839
+
+ 
+
+1649
+00:36:47,839 --> 00:36:50,870
+
+when the bridge will be disabled
+
+1650
+00:36:50,870 --> 00:36:50,880
+when the bridge will be disabled
+ 
+
+1651
+00:36:50,880 --> 00:36:54,069
+when the bridge will be disabled
+we will also publish the exact uh
+
+1652
+00:36:54,069 --> 00:36:54,079
+we will also publish the exact uh
+ 
+
+1653
+00:36:54,079 --> 00:36:55,430
+we will also publish the exact uh
+information
+
+1654
+00:36:55,430 --> 00:36:55,440
+information
+ 
+
+1655
+00:36:55,440 --> 00:36:56,230
+information
+uh
+
+1656
+00:36:56,230 --> 00:36:56,240
+uh
+ 
+
+1657
+00:36:56,240 --> 00:36:59,589
+uh
+a little bit later so uh
+
+1658
+00:36:59,589 --> 00:36:59,599
+a little bit later so uh
+ 
+
+1659
+00:36:59,599 --> 00:37:02,950
+a little bit later so uh
+after that we will try to you know
+
+1660
+00:37:02,950 --> 00:37:02,960
+after that we will try to you know
+ 
+
+1661
+00:37:02,960 --> 00:37:06,790
+after that we will try to you know
+redeploy the bridge as fast as possible
+
+1662
+00:37:06,790 --> 00:37:06,800
+redeploy the bridge as fast as possible
+ 
+
+1663
+00:37:06,800 --> 00:37:10,390
+redeploy the bridge as fast as possible
+it's a little a little complex because
+
+1664
+00:37:10,390 --> 00:37:10,400
+it's a little a little complex because
+ 
+
+1665
+00:37:10,400 --> 00:37:11,190
+it's a little a little complex because
+uh
+
+1666
+00:37:11,190 --> 00:37:11,200
+uh
+ 
+
+1667
+00:37:11,200 --> 00:37:11,910
+uh
+it
+
+1668
+00:37:11,910 --> 00:37:11,920
+it
+ 
+
+1669
+00:37:11,920 --> 00:37:13,510
+it
+does not uh
+
+1670
+00:37:13,510 --> 00:37:13,520
+does not uh
+ 
+
+1671
+00:37:13,520 --> 00:37:17,109
+does not uh
+depend on us only
+
+1672
+00:37:17,109 --> 00:37:17,119
+depend on us only
+ 
+
+1673
+00:37:17,119 --> 00:37:21,030
+depend on us only
+also like a lot of relays
+
+1674
+00:37:21,030 --> 00:37:21,040
+also like a lot of relays
+ 
+
+1675
+00:37:21,040 --> 00:37:24,150
+also like a lot of relays
+have to update their relay nodes
+
+1676
+00:37:24,150 --> 00:37:24,160
+have to update their relay nodes
+ 
+
+1677
+00:37:24,160 --> 00:37:26,870
+have to update their relay nodes
+uh to support the new version of the
+
+1678
+00:37:26,870 --> 00:37:26,880
+uh to support the new version of the
+ 
+
+1679
+00:37:26,880 --> 00:37:29,270
+uh to support the new version of the
+bridge until uh
+
+1680
+00:37:29,270 --> 00:37:29,280
+bridge until uh
+ 
+
+1681
+00:37:29,280 --> 00:37:30,950
+bridge until uh
+until this uh
+
+1682
+00:37:30,950 --> 00:37:30,960
+until this uh
+ 
+
+1683
+00:37:30,960 --> 00:37:33,829
+until this uh
+intel won't be uh functionable
+
+1684
+00:37:33,829 --> 00:37:33,839
+intel won't be uh functionable
+ 
+
+1685
+00:37:33,839 --> 00:37:35,349
+intel won't be uh functionable
+so uh
+
+1686
+00:37:35,349 --> 00:37:35,359
+so uh
+ 
+
+1687
+00:37:35,359 --> 00:37:37,190
+so uh
+i i think that's uh
+
+1688
+00:37:37,190 --> 00:37:37,200
+i i think that's uh
+ 
+
+1689
+00:37:37,200 --> 00:37:38,950
+i i think that's uh
+in a few hours
+
+1690
+00:37:38,950 --> 00:37:38,960
+in a few hours
+ 
+
+1691
+00:37:38,960 --> 00:37:41,910
+in a few hours
+the the new bridge will be redeployed
+
+1692
+00:37:41,910 --> 00:37:41,920
+the the new bridge will be redeployed
+ 
+
+1693
+00:37:41,920 --> 00:37:44,550
+the the new bridge will be redeployed
+and after that like
+
+1694
+00:37:44,550 --> 00:37:44,560
+and after that like
+ 
+
+1695
+00:37:44,560 --> 00:37:47,030
+and after that like
+every every other product will be
+
+1696
+00:37:47,030 --> 00:37:47,040
+every every other product will be
+ 
+
+1697
+00:37:47,040 --> 00:37:50,550
+every every other product will be
+migrated
+
+1698
+00:37:50,550 --> 00:37:50,560
+
+ 
+
+1699
+00:37:50,560 --> 00:37:54,550
+
+uh the last question is uh the old uh
+
+1700
+00:37:54,550 --> 00:37:54,560
+uh the last question is uh the old uh
+ 
+
+1701
+00:37:54,560 --> 00:37:56,310
+uh the last question is uh the old uh
+tip three uh
+
+1702
+00:37:56,310 --> 00:37:56,320
+tip three uh
+ 
+
+1703
+00:37:56,320 --> 00:37:58,870
+tip three uh
+standard has been audited by proven the
+
+1704
+00:37:58,870 --> 00:37:58,880
+standard has been audited by proven the
+ 
+
+1705
+00:37:58,880 --> 00:37:59,670
+standard has been audited by proven the
+team
+
+1706
+00:37:59,670 --> 00:37:59,680
+team
+ 
+
+1707
+00:37:59,680 --> 00:38:02,470
+team
+uh has a new standard already been
+
+1708
+00:38:02,470 --> 00:38:02,480
+uh has a new standard already been
+ 
+
+1709
+00:38:02,480 --> 00:38:03,750
+uh has a new standard already been
+audited
+
+1710
+00:38:03,750 --> 00:38:03,760
+audited
+ 
+
+1711
+00:38:03,760 --> 00:38:07,750
+audited
+by whom what company who is there who
+
+1712
+00:38:07,750 --> 00:38:07,760
+by whom what company who is there who
+ 
+
+1713
+00:38:07,760 --> 00:38:10,790
+by whom what company who is there who
+who is going to make algae yeah
+
+1714
+00:38:10,790 --> 00:38:10,800
+who is going to make algae yeah
+ 
+
+1715
+00:38:10,800 --> 00:38:12,150
+who is going to make algae yeah
+uh
+
+1716
+00:38:12,150 --> 00:38:12,160
+uh
+ 
+
+1717
+00:38:12,160 --> 00:38:14,470
+uh
+yeah it's an important question
+
+1718
+00:38:14,470 --> 00:38:14,480
+yeah it's an important question
+ 
+
+1719
+00:38:14,480 --> 00:38:18,310
+yeah it's an important question
+uh for now the new implementation has
+
+1720
+00:38:18,310 --> 00:38:18,320
+uh for now the new implementation has
+ 
+
+1721
+00:38:18,320 --> 00:38:23,670
+uh for now the new implementation has
+been uh reviewed by uh like the boxes
+
+1722
+00:38:23,670 --> 00:38:23,680
+been uh reviewed by uh like the boxes
+ 
+
+1723
+00:38:23,680 --> 00:38:25,030
+been uh reviewed by uh like the boxes
+uh
+
+1724
+00:38:25,030 --> 00:38:25,040
+uh
+ 
+
+1725
+00:38:25,040 --> 00:38:28,069
+uh
+small team of security specialists
+
+1726
+00:38:28,069 --> 00:38:28,079
+small team of security specialists
+ 
+
+1727
+00:38:28,079 --> 00:38:31,589
+small team of security specialists
+and they fixed a few a few few important
+
+1728
+00:38:31,589 --> 00:38:31,599
+and they fixed a few a few few important
+ 
+
+1729
+00:38:31,599 --> 00:38:33,190
+and they fixed a few a few few important
+issues as i know
+
+1730
+00:38:33,190 --> 00:38:33,200
+issues as i know
+ 
+
+1731
+00:38:33,200 --> 00:38:35,109
+issues as i know
+uh the
+
+1732
+00:38:35,109 --> 00:38:35,119
+uh the
+ 
+
+1733
+00:38:35,119 --> 00:38:38,870
+uh the
+like uh public audit made by let's say
+
+1734
+00:38:38,870 --> 00:38:38,880
+like uh public audit made by let's say
+ 
+
+1735
+00:38:38,880 --> 00:38:41,349
+like uh public audit made by let's say
+preventer or nil foundation
+
+1736
+00:38:41,349 --> 00:38:41,359
+preventer or nil foundation
+ 
+
+1737
+00:38:41,359 --> 00:38:42,950
+preventer or nil foundation
+uh will be
+
+1738
+00:38:42,950 --> 00:38:42,960
+uh will be
+ 
+
+1739
+00:38:42,960 --> 00:38:44,630
+uh will be
+available uh
+
+1740
+00:38:44,630 --> 00:38:44,640
+available uh
+ 
+
+1741
+00:38:44,640 --> 00:38:45,750
+available uh
+later
+
+1742
+00:38:45,750 --> 00:38:45,760
+later
+ 
+
+1743
+00:38:45,760 --> 00:38:47,910
+later
+yeah it's it's extremely important i
+
+1744
+00:38:47,910 --> 00:38:47,920
+yeah it's it's extremely important i
+ 
+
+1745
+00:38:47,920 --> 00:38:49,510
+yeah it's it's extremely important i
+agree
+
+1746
+00:38:49,510 --> 00:38:49,520
+agree
+ 
+
+1747
+00:38:49,520 --> 00:38:51,990
+agree
+for now there is now like a public audit
+
+1748
+00:38:51,990 --> 00:38:52,000
+for now there is now like a public audit
+ 
+
+1749
+00:38:52,000 --> 00:38:59,109
+for now there is now like a public audit
+for a new uh token implementation
+
+1750
+00:38:59,109 --> 00:38:59,119
+
+ 
+
+1751
+00:38:59,119 --> 00:39:00,390
+
+so uh
+
+1752
+00:39:00,390 --> 00:39:00,400
+so uh
+ 
+
+1753
+00:39:00,400 --> 00:39:02,550
+so uh
+there's ah
+
+1754
+00:39:02,550 --> 00:39:02,560
+there's ah
+ 
+
+1755
+00:39:02,560 --> 00:39:06,230
+there's ah
+anton is asking when dexada
+
+1756
+00:39:06,230 --> 00:39:06,240
+anton is asking when dexada
+ 
+
+1757
+00:39:06,240 --> 00:39:08,950
+anton is asking when dexada
+uh i'm not sure i think
+
+1758
+00:39:08,950 --> 00:39:08,960
+uh i'm not sure i think
+ 
+
+1759
+00:39:08,960 --> 00:39:11,190
+uh i'm not sure i think
+we should add some more people to this
+
+1760
+00:39:11,190 --> 00:39:11,200
+we should add some more people to this
+ 
+
+1761
+00:39:11,200 --> 00:39:13,349
+we should add some more people to this
+conversation uh
+
+1762
+00:39:13,349 --> 00:39:13,359
+conversation uh
+ 
+
+1763
+00:39:13,359 --> 00:39:16,550
+conversation uh
+i'm also interested uh i think at least
+
+1764
+00:39:16,550 --> 00:39:16,560
+i'm also interested uh i think at least
+ 
+
+1765
+00:39:16,560 --> 00:39:19,750
+i'm also interested uh i think at least
+uh after the immigration
+
+1766
+00:39:19,750 --> 00:39:19,760
+uh after the immigration
+ 
+
+1767
+00:39:19,760 --> 00:39:24,069
+uh after the immigration
+so
+
+1768
+00:39:24,069 --> 00:39:24,079
+
+ 
+
+1769
+00:39:24,079 --> 00:39:25,589
+
+uh
+
+1770
+00:39:25,589 --> 00:39:25,599
+uh
+ 
+
+1771
+00:39:25,599 --> 00:39:28,550
+uh
+the last question is
+
+1772
+00:39:28,550 --> 00:39:28,560
+the last question is
+ 
+
+1773
+00:39:28,560 --> 00:39:33,750
+the last question is
+what is the owner of the pool
+
+1774
+00:39:33,750 --> 00:39:33,760
+
+ 
+
+1775
+00:39:33,760 --> 00:39:37,109
+
+will input all lp tokens in the black
+
+1776
+00:39:37,109 --> 00:39:37,119
+will input all lp tokens in the black
+ 
+
+1777
+00:39:37,119 --> 00:39:38,150
+will input all lp tokens in the black
+hole
+
+1778
+00:39:38,150 --> 00:39:38,160
+hole
+ 
+
+1779
+00:39:38,160 --> 00:39:39,270
+hole
+and
+
+1780
+00:39:39,270 --> 00:39:39,280
+and
+ 
+
+1781
+00:39:39,280 --> 00:39:41,670
+and
+he cannot
+
+1782
+00:39:41,670 --> 00:39:41,680
+he cannot
+ 
+
+1783
+00:39:41,680 --> 00:39:44,069
+he cannot
+move the old liquidity to the new
+
+1784
+00:39:44,069 --> 00:39:44,079
+move the old liquidity to the new
+ 
+
+1785
+00:39:44,079 --> 00:39:49,510
+move the old liquidity to the new
+standard what should he do
+
+1786
+00:39:49,510 --> 00:39:49,520
+
+ 
+
+1787
+00:39:49,520 --> 00:39:50,950
+
+okay
+
+1788
+00:39:50,950 --> 00:39:50,960
+okay
+ 
+
+1789
+00:39:50,960 --> 00:39:54,310
+okay
+it's also an important question
+
+1790
+00:39:54,310 --> 00:39:54,320
+it's also an important question
+ 
+
+1791
+00:39:54,320 --> 00:39:57,750
+it's also an important question
+the
+
+1792
+00:39:57,750 --> 00:39:57,760
+
+ 
+
+1793
+00:39:57,760 --> 00:40:01,670
+
+uh so for now the liquidity provider
+
+1794
+00:40:01,670 --> 00:40:01,680
+uh so for now the liquidity provider
+ 
+
+1795
+00:40:01,680 --> 00:40:04,950
+uh so for now the liquidity provider
+tokens are controlled by the decks
+
+1796
+00:40:04,950 --> 00:40:04,960
+tokens are controlled by the decks
+ 
+
+1797
+00:40:04,960 --> 00:40:06,150
+tokens are controlled by the decks
+itself
+
+1798
+00:40:06,150 --> 00:40:06,160
+itself
+ 
+
+1799
+00:40:06,160 --> 00:40:09,589
+itself
+and we are aware of a situation like
+
+1800
+00:40:09,589 --> 00:40:09,599
+and we are aware of a situation like
+ 
+
+1801
+00:40:09,599 --> 00:40:11,430
+and we are aware of a situation like
+this when they're
+
+1802
+00:40:11,430 --> 00:40:11,440
+this when they're
+ 
+
+1803
+00:40:11,440 --> 00:40:13,910
+this when they're
+like full creator
+
+1804
+00:40:13,910 --> 00:40:13,920
+like full creator
+ 
+
+1805
+00:40:13,920 --> 00:40:15,990
+like full creator
+have sent
+
+1806
+00:40:15,990 --> 00:40:16,000
+have sent
+ 
+
+1807
+00:40:16,000 --> 00:40:17,109
+have sent
+lp's
+
+1808
+00:40:17,109 --> 00:40:17,119
+lp's
+ 
+
+1809
+00:40:17,119 --> 00:40:19,670
+lp's
+tokens to the black hole
+
+1810
+00:40:19,670 --> 00:40:19,680
+tokens to the black hole
+ 
+
+1811
+00:40:19,680 --> 00:40:22,309
+tokens to the black hole
+probably we will update
+
+1812
+00:40:22,309 --> 00:40:22,319
+probably we will update
+ 
+
+1813
+00:40:22,319 --> 00:40:25,270
+probably we will update
+the old version of the bridge
+
+1814
+00:40:25,270 --> 00:40:25,280
+the old version of the bridge
+ 
+
+1815
+00:40:25,280 --> 00:40:27,030
+the old version of the bridge
+uh
+
+1816
+00:40:27,030 --> 00:40:27,040
+uh
+ 
+
+1817
+00:40:27,040 --> 00:40:28,950
+uh
+it's uh
+
+1818
+00:40:28,950 --> 00:40:28,960
+it's uh
+ 
+
+1819
+00:40:28,960 --> 00:40:31,829
+it's uh
+it will update it in order to achieve
+
+1820
+00:40:31,829 --> 00:40:31,839
+it will update it in order to achieve
+ 
+
+1821
+00:40:31,839 --> 00:40:35,030
+it will update it in order to achieve
+the control over the lps
+
+1822
+00:40:35,030 --> 00:40:35,040
+the control over the lps
+ 
+
+1823
+00:40:35,040 --> 00:40:39,190
+the control over the lps
+uh after that probably will burn the uh
+
+1824
+00:40:39,190 --> 00:40:39,200
+uh after that probably will burn the uh
+ 
+
+1825
+00:40:39,200 --> 00:40:41,670
+uh after that probably will burn the uh
+liquidity provider tokens locked on the
+
+1826
+00:40:41,670 --> 00:40:41,680
+liquidity provider tokens locked on the
+ 
+
+1827
+00:40:41,680 --> 00:40:43,990
+liquidity provider tokens locked on the
+black hole and uh
+
+1828
+00:40:43,990 --> 00:40:44,000
+black hole and uh
+ 
+
+1829
+00:40:44,000 --> 00:40:46,470
+black hole and uh
+means uh the same amount
+
+1830
+00:40:46,470 --> 00:40:46,480
+means uh the same amount
+ 
+
+1831
+00:40:46,480 --> 00:40:49,589
+means uh the same amount
+uh to the like pull creator so after
+
+1832
+00:40:49,589 --> 00:40:49,599
+uh to the like pull creator so after
+ 
+
+1833
+00:40:49,599 --> 00:40:50,790
+uh to the like pull creator so after
+that uh
+
+1834
+00:40:50,790 --> 00:40:50,800
+that uh
+ 
+
+1835
+00:40:50,800 --> 00:40:53,349
+that uh
+it will be possible to uh
+
+1836
+00:40:53,349 --> 00:40:53,359
+it will be possible to uh
+ 
+
+1837
+00:40:53,359 --> 00:40:55,670
+it will be possible to uh
+like withdraw your liquidity
+
+1838
+00:40:55,670 --> 00:40:55,680
+like withdraw your liquidity
+ 
+
+1839
+00:40:55,680 --> 00:40:59,190
+like withdraw your liquidity
+from the old decks uh exchange it to the
+
+1840
+00:40:59,190 --> 00:40:59,200
+from the old decks uh exchange it to the
+ 
+
+1841
+00:40:59,200 --> 00:41:02,550
+from the old decks uh exchange it to the
+new standard and uh put it back uh to
+
+1842
+00:41:02,550 --> 00:41:02,560
+new standard and uh put it back uh to
+ 
+
+1843
+00:41:02,560 --> 00:41:05,829
+new standard and uh put it back uh to
+the uh decks
+
+1844
+00:41:05,829 --> 00:41:05,839
+the uh decks
+ 
+
+1845
+00:41:05,839 --> 00:41:08,550
+the uh decks
+i'm not sure the exact process
+
+1846
+00:41:08,550 --> 00:41:08,560
+i'm not sure the exact process
+ 
+
+1847
+00:41:08,560 --> 00:41:09,589
+i'm not sure the exact process
+uh
+
+1848
+00:41:09,589 --> 00:41:09,599
+uh
+ 
+
+1849
+00:41:09,599 --> 00:41:11,349
+uh
+but uh
+
+1850
+00:41:11,349 --> 00:41:11,359
+but uh
+ 
+
+1851
+00:41:11,359 --> 00:41:14,630
+but uh
+we are aware of this situation and uh we
+
+1852
+00:41:14,630 --> 00:41:14,640
+we are aware of this situation and uh we
+ 
+
+1853
+00:41:14,640 --> 00:41:17,750
+we are aware of this situation and uh we
+will also publish some instructions in
+
+1854
+00:41:17,750 --> 00:41:17,760
+will also publish some instructions in
+ 
+
+1855
+00:41:17,760 --> 00:41:21,510
+will also publish some instructions in
+our channel
+
+1856
+00:41:21,510 --> 00:41:21,520
+
+ 
+
+1857
+00:41:21,520 --> 00:41:23,190
+
+uh
+
+1858
+00:41:23,190 --> 00:41:23,200
+uh
+ 
+
+1859
+00:41:23,200 --> 00:41:25,190
+uh
+one more question does it matter who
+
+1860
+00:41:25,190 --> 00:41:25,200
+one more question does it matter who
+ 
+
+1861
+00:41:25,200 --> 00:41:27,750
+one more question does it matter who
+owns the ownership or
+
+1862
+00:41:27,750 --> 00:41:27,760
+owns the ownership or
+ 
+
+1863
+00:41:27,760 --> 00:41:30,230
+owns the ownership or
+or of the root
+
+1864
+00:41:30,230 --> 00:41:30,240
+or of the root
+ 
+
+1865
+00:41:30,240 --> 00:41:31,990
+or of the root
+contract
+
+1866
+00:41:31,990 --> 00:41:32,000
+contract
+ 
+
+1867
+00:41:32,000 --> 00:41:35,670
+contract
+well uh it depends uh on the
+
+1868
+00:41:35,670 --> 00:41:35,680
+well uh it depends uh on the
+ 
+
+1869
+00:41:35,680 --> 00:41:38,309
+well uh it depends uh on the
+you know like the use cases for your
+
+1870
+00:41:38,309 --> 00:41:38,319
+you know like the use cases for your
+ 
+
+1871
+00:41:38,319 --> 00:41:39,270
+you know like the use cases for your
+token
+
+1872
+00:41:39,270 --> 00:41:39,280
+token
+ 
+
+1873
+00:41:39,280 --> 00:41:40,150
+token
+uh
+
+1874
+00:41:40,150 --> 00:41:40,160
+uh
+ 
+
+1875
+00:41:40,160 --> 00:41:42,230
+uh
+for example you know it's like a good
+
+1876
+00:41:42,230 --> 00:41:42,240
+for example you know it's like a good
+ 
+
+1877
+00:41:42,240 --> 00:41:43,349
+for example you know it's like a good
+practice
+
+1878
+00:41:43,349 --> 00:41:43,359
+practice
+ 
+
+1879
+00:41:43,359 --> 00:41:46,550
+practice
+to uh send the ownership to the black
+
+1880
+00:41:46,550 --> 00:41:46,560
+to uh send the ownership to the black
+ 
+
+1881
+00:41:46,560 --> 00:41:49,270
+to uh send the ownership to the black
+hole if you don't need it you know let's
+
+1882
+00:41:49,270 --> 00:41:49,280
+hole if you don't need it you know let's
+ 
+
+1883
+00:41:49,280 --> 00:41:52,230
+hole if you don't need it you know let's
+say you have a fixed supply token so it
+
+1884
+00:41:52,230 --> 00:41:52,240
+say you have a fixed supply token so it
+ 
+
+1885
+00:41:52,240 --> 00:41:54,950
+say you have a fixed supply token so it
+always makes sense uh
+
+1886
+00:41:54,950 --> 00:41:54,960
+always makes sense uh
+ 
+
+1887
+00:41:54,960 --> 00:41:58,790
+always makes sense uh
+it doesn't work for uh every uh
+
+1888
+00:41:58,790 --> 00:41:58,800
+it doesn't work for uh every uh
+ 
+
+1889
+00:41:58,800 --> 00:42:00,150
+it doesn't work for uh every uh
+scenario
+
+1890
+00:42:00,150 --> 00:42:00,160
+scenario
+ 
+
+1891
+00:42:00,160 --> 00:42:04,150
+scenario
+let's say our tokens uh owned
+
+1892
+00:42:04,150 --> 00:42:04,160
+let's say our tokens uh owned
+ 
+
+1893
+00:42:04,160 --> 00:42:05,270
+let's say our tokens uh owned
+by the
+
+1894
+00:42:05,270 --> 00:42:05,280
+by the
+ 
+
+1895
+00:42:05,280 --> 00:42:06,390
+by the
+bridge
+
+1896
+00:42:06,390 --> 00:42:06,400
+bridge
+ 
+
+1897
+00:42:06,400 --> 00:42:10,390
+bridge
+so they can be minted each time the
+
+1898
+00:42:10,390 --> 00:42:10,400
+so they can be minted each time the
+ 
+
+1899
+00:42:10,400 --> 00:42:11,349
+so they can be minted each time the
+uh
+
+1900
+00:42:11,349 --> 00:42:11,359
+uh
+ 
+
+1901
+00:42:11,359 --> 00:42:12,309
+uh
+person
+
+1902
+00:42:12,309 --> 00:42:12,319
+person
+ 
+
+1903
+00:42:12,319 --> 00:42:13,430
+person
+uh move
+
+1904
+00:42:13,430 --> 00:42:13,440
+uh move
+ 
+
+1905
+00:42:13,440 --> 00:42:16,710
+uh move
+the funds from the ethereum to the error
+
+1906
+00:42:16,710 --> 00:42:16,720
+the funds from the ethereum to the error
+ 
+
+1907
+00:42:16,720 --> 00:42:18,470
+the funds from the ethereum to the error
+scale
+
+1908
+00:42:18,470 --> 00:42:18,480
+scale
+ 
+
+1909
+00:42:18,480 --> 00:42:19,990
+scale
+so
+
+1910
+00:42:19,990 --> 00:42:20,000
+so
+ 
+
+1911
+00:42:20,000 --> 00:42:21,270
+so
+actually yes
+
+1912
+00:42:21,270 --> 00:42:21,280
+actually yes
+ 
+
+1913
+00:42:21,280 --> 00:42:23,510
+actually yes
+it matters it matters and
+
+1914
+00:42:23,510 --> 00:42:23,520
+it matters it matters and
+ 
+
+1915
+00:42:23,520 --> 00:42:30,150
+it matters it matters and
+depends on your use cases
+
+1916
+00:42:30,150 --> 00:42:30,160
+
+ 
+
+1917
+00:42:30,160 --> 00:42:32,630
+
+so i think that that was the final
+
+1918
+00:42:32,630 --> 00:42:32,640
+so i think that that was the final
+ 
+
+1919
+00:42:32,640 --> 00:42:34,069
+so i think that that was the final
+questions there are no more questions
+
+1920
+00:42:34,069 --> 00:42:34,079
+questions there are no more questions
+ 
+
+1921
+00:42:34,079 --> 00:42:35,670
+questions there are no more questions
+from the community
+
+1922
+00:42:35,670 --> 00:42:35,680
+from the community
+ 
+
+1923
+00:42:35,680 --> 00:42:39,670
+from the community
+so uh on this uh note i i suggest to
+
+1924
+00:42:39,670 --> 00:42:39,680
+so uh on this uh note i i suggest to
+ 
+
+1925
+00:42:39,680 --> 00:42:42,390
+so uh on this uh note i i suggest to
+finish this ma session uh i just want to
+
+1926
+00:42:42,390 --> 00:42:42,400
+finish this ma session uh i just want to
+ 
+
+1927
+00:42:42,400 --> 00:42:46,470
+finish this ma session uh i just want to
+say the big thank uh for the sergey that
+
+1928
+00:42:46,470 --> 00:42:46,480
+say the big thank uh for the sergey that
+ 
+
+1929
+00:42:46,480 --> 00:42:47,829
+say the big thank uh for the sergey that
+he came and
+
+1930
+00:42:47,829 --> 00:42:47,839
+he came and
+ 
+
+1931
+00:42:47,839 --> 00:42:50,870
+he came and
+uh explain and tell more our community
+
+1932
+00:42:50,870 --> 00:42:50,880
+uh explain and tell more our community
+ 
+
+1933
+00:42:50,880 --> 00:42:53,270
+uh explain and tell more our community
+about the future immigration uh thank
+
+1934
+00:42:53,270 --> 00:42:53,280
+about the future immigration uh thank
+ 
+
+1935
+00:42:53,280 --> 00:42:55,190
+about the future immigration uh thank
+you so much
+
+1936
+00:42:55,190 --> 00:42:55,200
+you so much
+ 
+
+1937
+00:42:55,200 --> 00:42:57,589
+you so much
+i appreciate it thank you yeah have a
+
+1938
+00:42:57,589 --> 00:42:57,599
+i appreciate it thank you yeah have a
+ 
+
+1939
+00:42:57,599 --> 00:42:58,790
+i appreciate it thank you yeah have a
+have a nice
+
+1940
+00:42:58,790 --> 00:42:58,800
+have a nice
+ 
+
+1941
+00:42:58,800 --> 00:43:00,790
+have a nice
+day evening
+
+1942
+00:43:00,790 --> 00:43:00,800
+day evening
+ 
+
+1943
+00:43:00,800 --> 00:43:03,760
+day evening
+okay yeah
+

@@ -1,0 +1,1357 @@
+hello
+everyone let me i
+i can share my screen just to show the
+um what we're going to talk about
+today
+so it will be like
+like that
+where is it here you go so
+we're in the flex exchange
+repository we have a nice mascot by the
+way now
+you see that it's called flex it's a dog
+um so we have
+flex contracts and we have tip three
+that we're going to cover today so
+quickly again that will be combined with
+the demo which we did in the community
+stream
+with the interface so the user
+experience has already been covered
+now we are just going to cover the code
+and um
+well that's it so in terms of the
+architecture
+it's um it's also been covered a little
+bit on the community stream so just
+briefly tell you that it's a completely
+distributed
+order book exchange decentralized and
+distributed
+which means that any user can create a
+pair
+and it's a special separate contract
+which is a pair route
+that will govern all the prices inside
+this pair and trades
+and then if you want to trade you should
+create a price on which
+an order you want to trade depends on
+what you want to do
+currently it supports an exchange
+between tip 3 tokens and ton
+t3 tokens are this version of t3 tokens
+are modified
+g3 token with some interfaces that
+special interfaces that andrew will
+cover
+and what you create a a price
+for the payer and because this price
+contract has uh
+has a same code it can be then
+searched uh very quickly by hash of the
+contract
+and so the whole price
+[Music]
+order book will be discovered instantly
+in the database
+and any user can actually calculate
+the price account
+by just uh you know by just just uh
+with the taking the certificate and um
+smart contract and then in of the
+exchange
+and then adding the like the price
+in the pair so uh andrew will explain
+that
+uh in within the code how it done
+and so if the if the contract already
+exists then you just
+then you just send their uh tokens
+whatever it is and uh the trade will be
+executed
+immediately if there is a counterparty
+because this obviously there is no need
+for much
+because the matching has already been
+done you're sending it to the
+to the price right yeah so
+so um it's distributed because the part
+of the logic is sitting in
+on the user side part of the logic in a
+in a very distributed fashion
+sitting on chain so i stopped
+sharing my screen and
+you know let's go to the
+to the code so who starts andrew i think
+you should start okay
+uh this is price contract
+should we maybe start from like from the
+from the exchange contract and then to
+the to the to the payer contract and
+then to the price contract
+well uh stock contract is uh pretty
+simple
+it uh it's most um
+job is just to keep configuration for
+entire stockings exchange
+here have tones
+about how how much
+gas cost do we need to transfer trump
+to call transfer tip 3 tip 3
+to call return ownership from
+40 wallet back to original user
+or original over and
+how many how much funds native funds we
+need to
+deploy trading pair to
+send order transfer
+and to process mid to main
+processing cure main processing for
+making deals between seller
+and buyers
+and this notification demands for
+automatic market maker
+this is interface until completed for
+automatic market maker
+and
+actually it doesn't have any any code
+just getters and in initialization
+procedures
+well and using those getters you may
+request address address for
+trading pair where
+whereas this trading pair for for the
+provided
+objects must be deployed
+or must be found by
+other others and
+this is a generation of
+custom code
+for
+a price contract and for trading player
+called contracts
+okay
+[Music]
+for for me to make
+trading pair and price contracts
+searchable by hashcode we need to make
+to add some salt personal sold for
+for each stock exchange contract
+system
+here for example this is
+adding adding assault
+address of stock exchange contract
+two pair code
+we're using reference number three
+it should be free at this moment by
+current linker
+procedure
+and for price contract we
+had sold complex salt with
+first address of stock exchange contract
+and then
+address of tip 3
+root contract
+and both of them making this price
+called
+price contract code unique
+so when the when the user by doing it if
+you if you have questions
+like to andrew please ask if you think
+that something is maybe not clear
+so what so when the user wants to like
+trade to start trading a pair
+what does it need to do
+if you don't have a pair yet like the
+pair is not deployed so in order to
+deploy the pair what should i do
+well deploy the prayer just adjust it
+you need you need to receive
+options from stock exchange contract
+this is in debate we have this
+deployment like this
+this is uh this is check
+that this trade trading payer is not yet
+deployed
+if we get account type for this address
+uh it's not one this means this
+uh trading pair we calculate this
+address from
+we get this address from gatechair
+yet so um just straight through
+so we make a call to the to the to the
+root contract
+to the stock right contract yes what
+this is uh
+stock get your own get sell trading pair
+all this tip three prototypes you only
+need to
+have uh tip three address tip three
+route
+on this uh to call this getter and you
+receive
+a trading pair address so say you
+deployed your tip three
+um and uh and you get an address of the
+route
+and you you call a stock contract
+and it says there is no spare does not
+exist
+and then no you don't um
+actually call you run getter from stock
+contract
+yeah run get right and uh it doesn't
+answer this trading players not exist
+databases return gives you free trading
+others
+trading for others you need to
+check it yourself if this trading pair
+is not yet deployed
+you need to deploy it uh
+this is deploy trading pair function in
+flex client so the flex line will give
+you
+the the code that you need to deploy
+right
+uh actually currently reflects
+client performances deployment itself
+yeah meaning
+right so there is a code already meaning
+that you don't need to provide any code
+to that
+you need to provide such parameters
+to flex client
+you need to provide stock address
+and tips reroute and
+configuration for trading pair deploy
+native phones soon
+and specify the deploy value for
+how how much funds you want to
+spend in deployment of trading pair
+these parameters this parameter should
+be
+equal to stock to the one received from
+stock
+exchange contract if
+configuration parameters in some
+deployment
+deployed trading pair or deployed price
+will differ from
+such parameters defined in stock
+address then other
+users other clients of this stock
+will they will not find
+your contracts your prices your trading
+pairs and such
+okay we can see in flex
+client how
+how is performing deployment of so what
+is flex client
+actually actually uh currently it is a
+specific contract it is user contract
+for
+accessing stock exchange
+and to perform
+to perform specific deployment and
+requests
+from from depots who deploys the
+this uh flex client contract
+deploy uh the bots
+the board should deploy so the user
+should deploy it for himself
+yes yes this is user contract
+it has a
+opener opener public key
+and it processing process only external
+messages from
+from this user
+actually all all this code
+may be performed from from debot
+itself just it require additional
+unification between c plus plus
+and uh solidity if if you want to
+perform this logic from deploy
+logic from solidity depots so actually
+you don't like need flex client
+it's just for convenience and the c plus
+plus difference
+implementation but it's a dtc so yes
+generally you can
+you can skip it well yeah so you can
+write your own flex client with any
+configuration you you like
+for example um this is deployed trading
+pair
+we're speaking about deploy trading pair
+uh ordinary chip check accept
+and deployment of trading pair with
+this persistent data you need to specify
+stock address tip three route and
+deploy value all those parameters
+must be convenient this
+desktop exchange parameters
+okay so let's say i deployed the trading
+pair
+what should i do next
+after deployment of trading pair you may
+accesses to make twitch
+sell or by order
+which is which is done by deploying
+price contract right
+yes which is done by deploying price
+contract um
+again this is performed from by flex
+client
+here this is flex depot
+from receiving arguments from user
+preparing arguments for
+flex client this is for example by
+arguments
+and let's talk about these arguments for
+a second
+so we have the price that i want to buy
+the amount the time
+which by which the order should be
+fulfilled
+right no this is a time by which the
+order
+should be cancelled
+so same thing
+well it may be not fit for fuel maybe
+just yeah no but it will
+need to be fulfilled or it will be
+cancelled that's what i mean yes
+well the minimum amount which is what is
+the minimum amount
+this is configuration parameters this
+must be
+convenient with the stock exchange
+configuration parameters minimum want
+this argument for
+minimal amount to make a due
+in deals limit deals limit
+means uh how much uh how many deals
+should be processed in one message
+processing
+by price because price contract
+may be out of one message gas
+if if there are too
+many deals for example if we have
+a lot of buy orders in
+and good and
+we received uh we received a sell order
+with a a huge amount
+covering all all those
+buy deals by orders
+deals limit means that
+protection of deals will be
+ended and transferred to the
+to the next message
+but if i'm a seller or a buyer why would
+i limit my own order
+well uh you can't uh specify
+here any parameter except
+the stock exchange provided
+if you specify here it's not uh really a
+user parameter
+okay so i i must i must uh
+use the parameters of the of the of the
+pair
+or exchange yes from stock exchange you
+need section here
+this is deals limit received from from
+stock
+as the same as the minimum amount for
+deals
+it's configuration privates maybe it's
+maybe better to
+to select it into specific structure
+to different from user
+actually user parameters okay
+the same you need to specify deploy
+value
+this is user parameter how
+[Music]
+how much native funds you need to
+[Music]
+to add to this message how do i know
+well this is some population process
+well you need to cover
+for for by order you need to cover bio
+micros and some processing
+processing funds from storm's
+configuration
+gathered from received from stock
+exchange
+well anyway you may specify a bigger
+value it will be
+uh like
+it will be kept in your account for
+for in this order this prop edit order
+and when this order is spent
+for processing and the rest of
+account will be will will be returned to
+you
+when order will be processed
+or expired or any other cancer
+or consult yes
+and price code you need actually
+here to specify a price code received
+from
+stock from later
+for this t3 root address
+and this is your wallet
+talking about it and this is a
+configuration of this 6 rewarded
+configuration including name symbol
+decimals
+[Music]
+okay great
+so i i like so i i i make this message
+i send this message basically and it's
+one message so
+the whole point is that i
+i transfer whole the all the information
+and all the order is transferred within
+one message right uh well
+anyway for buying actually you need at
+least two messages first
+external to flex client
+or any other user client
+you want to
+[Music]
+be here to use this
+and your user client
+will send internal message to price
+contract deploy deploy uh
+or it so at least
+two messages well not necessarily
+it can be one message if uh i didn't
+count external
+because you can create an on-chain
+contract
+that will just act for example as amm
+which will act as a as a decision maker
+on your trades
+and uh then you you don't need two
+messages you
+did because it will just send one
+message and within this one internal
+message
+everything will be done so like the
+whole the order
+is is just one message
+well for sure just
+keep your to keep your
+logic on chain really for full logic
+it's not a really good idea because
+any on-chain algorithm is known for
+everybody yeah that's that's fine like
+amm is known to everybody
+and that works on chain so there's no
+problem
+but anyway it's not the point uh i don't
+think we need to like
+this this is not the
+the question the question is that
+you need only one internal message to to
+create this order you don't need two you
+don't wait for anything
+yes for sure and for my order
+for sell order you need at least two
+messages
+please explain to access first to access
+your
+are you saying anything oh sorry oh yeah
+well yeah right
+we don't hear you
+can you hear me now yeah
+yeah we didn't hear about the cell order
+so what please explain what
+two messages do i need to execute the
+sell order
+now we can hear you yeah okay to deploy
+price with cell
+this is logic in
+flex client you need first to send
+a comment to your
+tip 3 wallet
+lend ownership to a price contract
+uh for for some for some time
+until the order will be finished
+and with the sum provided value
+this means that this wallet is frozen
+for you until
+when finish time and
+price contact will be able to transfer
+transfer uh three tokens from this
+wallet
+limited of course buy uh
+buy uh buy some length amount
+how much tokens you want to to sell
+so uh you do not transfer your tokens
+uh to to stock exchange how to price
+contract
+you lent your uh
+wallet tips rewarded in uh temporal
+ownership to price contract
+this means that this is a little safer
+situation for for processing because
+until the deal will not be
+processed your
+tokens will be kept in
+in your wallet not in some uh stock
+exchange
+worried and if uh
+if the price contract will
+[Music]
+somehow forget about your
+words by some mistake error programming
+your word will be automatically
+returned to you by uh at
+uh when finish time
+automatically you mean automatically you
+mean i can call it and it will be
+returned
+after that time yes for sure well uh
+you may already call some transfer
+methods or
+just just uh to use this wallet as
+yourself
+well when's this i'm sending any message
+to this wallet and it will return to me
+this will modify
+uh internal data about ownership
+land ownership and
+in this message will allow you to make
+make some process well we will look at
+the tip three
+later but uh okay so so
+in order to count messages so i can send
+an external message to my t3 wallet
+right
+which i currently know because
+uh scripture wallet is limited
+and because of uh
+size size so so that's one of the
+modifications that we did
+is eliminated the external all right
+because we wanted
+and we will explain later why
+it is important so the external message
+is
+is eliminate external methods eliminated
+interface and now so you need to send an
+internal message to
+transfer the ownership and then what do
+i need to do
+to actually trade
+like to put an order uh to put an order
+you must specify arguments in the land
+ownership like
+payload so it's one message within one
+message i am transferring the ownership
+and actually already defining the order
+correct yes yes payload with a cell
+argument this is cell arguments
+amount and receive wallet
+so so the so then the tip three wallet
+sends the message to
+this message to the to the price
+contract right
+and then and that's how the order is
+uh placed yes
+this is um so
+let's say in order can i just do
+one order after i landed an ownership to
+the price contract
+or can or i can use or i can make
+several
+no just wrong okay just one just to make
+sure you
+understand how it works so if you want
+to
+trade with uh with this particular tip 3
+contract and
+place many orders from the t3 contract
+you actually need to create
+many tip 3 contracts
+i just don't understand uh why do you
+need uh several
+sell orders you know
+no no no because i can trade with
+simultaneously in several prices
+you need several yes exactly that's what
+i said
+yeah and several land ownership yes
+yes so i create so if i want like to
+provide liquidity for example if i want
+to provide liquidity
+one trade with several same pair uh
+several
+several prices i will just need to
+create several
+wallets give it a several you know some
+balance
+on each of them whatever the question i
+want to provide and
+trade against price contracts that
+that are deployed or not deployed okay
+great
+um all right sorry because i understood
+the flex flex line
+is it's like it is like uh an instance
+of the user in blockchain
+right or all operations are
+performed through this user personal
+user smart contract
+yeah for sure for for suppose
+deposits may be replaced with a
+simple proxy contract just to transfer
+external messages into internal messages
+but for for solidity depots to work with
+c plus plus contract with deployment you
+need to have
+c plus plus client fixed client
+able to
+deploy contracts price and
+trading pair okay and the order end
+price is this the same thing i mean
+this is one smart contract or
+or yeah different
+order order and the price you you
+you said in one case
+no no the price is the contract the
+order is what you put inside the coin
+inside yes
+okay this is uh orders
+for sales and by okay i think this is
+the only
+this is the only time where we actually
+have a list
+of something right because that's
+the orders in the orders will the list
+of orders will always be on one side
+because if if the order comes to the
+other side it will be immediately
+executed against the order on the other
+side
+so well that's right maybe not
+true in some situations yeah some
+situations but we will cover them later
+but
+in general if you don't have any
+conditions
+on the orders let's say we because right
+now in this implementation
+we don't have any conditions yet right
+well we don't have any condition but we
+may
+fit deals amount limit
+in one message and
+for example then then
+while next message will be processed
+until next
+or some next messages will be processed
+the
+for for this time in both
+in sales and in bias there will be some
+orders from both sides temporarily of
+course
+just because of uh deals limit
+so this limit is is is already a
+condition
+but we can think about other conditions
+which we may add
+in the future with some other some
+limits
+uh and some some trading strategies
+like for example i don't know um
+[Music]
+feel or kill which means that until this
+order is filled in full
+it will not be executed or something
+like that
+all right
+okay what else do we need to cover here
+well we have some improvements since
+reveals
+see since previous talk
+improvement in uh cancel cancel cell
+cancel by
+so this one is not in public so this one
+we're still working on it's not in the
+contest so the jury
+if you watch this you should not take
+that into consideration because these
+are added
+just now um and
+they relate to the because the idea is
+that the contract
+um under certain condition actually when
+the
+the contract does not have an active
+order
+it should destroy itself right so yes
+andrew please explain how it works
+well exactly just when both
+containers cells and bytes are empty
+the contact will send all
+the remaining native fonts to stop
+and destroy itself
+in this mechanic that's it
+yep and that was not we didn't we didn't
+have uh
+it's not about time actually what
+happened is that well maybe you under
+maybe you can explain why the size of
+the contract is so important
+well to fit uh
+message size limit we have uh message
+size limit about
+[Music]
+kilobytes i guess 16
+yeah 16 kilobytes and and
+[Music]
+and we may see that
+don't talk in wallet tvc is
+this size and this is already with some
+improvements some improvements
+added last week last
+two weeks it's about one
+and half kilobyte less than it was
+before and
+and price tvc contract is about
+seven kilobytes now this is all
+new
+improvements and both contracts must
+fit in soon and some
+one message limit one message size limit
+and why is import why it is important
+to send
+to send deployment of price contract
+with the service
+price code in arguments so
+um because we need
+tips for you tomorrow
+we need to deploy price contract with
+the
+tip three words called in arguments
+so we need to both code in uh deploy
+message
+yes and we need to do that obviously
+because when tip3
+token is sending a typical it's sending
+us some
+you know some message we need to really
+be sure that this is really tip three
+talking
+so we need to and the the i we're not
+going to
+explain again how tip three works but
+generally
+you you know the contract has a code of
+tip three
+it tries to deploy it to the address and
+and then
+that's how it checks that that's this is
+this the address that it got the message
+from which means it's a
+real tip three uh token contract
+and uh uh in order to do that you need
+to have a tip three
+token bullet a code within within the
+price contract
+that's why and why actually one message
+well it's because we want it's a flex
+exchange right so it needs to work
+really really fast in order to do that
+we want
+the every trade should be the rule that
+flex is following is that every trade
+must be executed within one
+uh message like within one internal
+message
+um so that's why yes
+in this function verify c3 other
+we perform an check of
+step 3 wallet address with this okay and
+the internal
+is it really correct uh
+c3 contract by
+calculating expected wallet dodges
+with the initial wallet data
+in the same way as it should be
+provided in deployment of this contract
+um yes and again why we want to
+to optimize more um the
+the contracts continue to optimize it
+because if you need any kind of
+logic um trading logic for example as i
+said just now like filo kill or
+or or you know stuff like that
+and of course the limit orders and and
+all
+kind of advanced uh strategies that we
+actually want to add
+well we all we are we need to add that
+all
+into price contract and the price
+contractor also need the step three
+wallet
+so it's really really place like storage
+sensitive
+of course for sure for i think for some
+logic we may
+use flex client to
+[Music]
+to make some orders manipulations
+for example for stops and such and
+to to not keep this logic in
+price contract itself yeah no of course
+but i'm talking about like
+some some functions that are necessary
+to implement
+this kind of logic on on the client side
+of course most of the
+most of the trading strategies should be
+implemented on the client side
+and that's where all this um you know
+search by hash
+and other possibilities that um
+this architecture provides can be really
+kind of
+um exploited
+but in order to do these strategies
+you need some basic logic within price
+contract so that's
+that's why it is important sure
+and also functionality missed in
+previous implementation is
+order expiring check
+we now have order expire check
+if if some con if some order is expired
+we don't access it
+we send in a notification
+with the remaining account to
+client about order finished result
+without processing by expiration
+uh something which is missing uh like
+can you talk about commissions in
+general how do we see commissions and uh
+would we change anything
+currently all
+all configuration about native funds
+processing kept in town's configuration
+in stock
+exchange contract base
+so if if
+price of gas will be changed
+in
+in some way such configuration
+must be updated so basically you update
+the root
+you update basically you need to
+redeploy the the whole exchange
+to change it right apparently yes done
+yes sir
+yeah um and that's that's a limitation
+but that's also a beauty
+and remember anyone it's because it's
+completely decentralized
+exchange and distributed exchange anyone
+can can launch and exchange justice by
+by launching the
+by by deploying the the exchange
+contract and here we go
+um so you you can change parameters and
+everyone can see that and
+you cannot change parameters backwards
+so meaning you cannot change commissions
+for example
+once they once the exchange is deployed
+then that's it
+and nobody controls it it's truly
+decentralized
+and nobody there is no owners or
+anything like that
+and uh um
+everyone can can trade
+like i don't need to ask anyone to trade
+any token with anyone else um
+and i will only pay commissions which
+are described in this exchange and
+actually like if you want to make a
+trade with someone
+with a tip 3 talk and whatever you can
+for this particular trade
+you can just you know deploy
+well three contracts and here you go
+you can so it can act like an escrow
+whatever
+for even for a private deal on exchange
+something
+that's it correct uh andrew
+can you also talk to us about um
+exchange like right now it's exchanging
+tip three with tons
+okay so you must have a tip three on one
+side and tone on the other side
+do we have any plans to actually make a
+tip three to tip three exchange
+for sure just i think that it must be
+different contract i mean
+[Music]
+price specific price contract for
+c3 to c3 exchange
+and specific maybe trading pair contract
+just with the same stock with the same
+route contract but
+different uh price and um
+but we currently currently we don't have
+it so we need to
+to to create another price contract
+which has a two
+like two tip three wallets as a
+counterparties right
+yes this is some from some starting
+power points
+for further improvements so this is
+sell price called currently implemented
+and we need
+exchange price code for two addresses
+two zip three addresses two
+three addresses will be added
+to as assault into code price code
+and i think price code will be different
+not
+not this because we need specific logic
+and i mean they may have some common
+libraries and such
+but as a tvc file
+it will be compiled as a different
+contract
+of course yeah but that's a work in
+progress so we are planning to add that
+in the future
+this possibility but even now if it's
+good like
+you know any anyway a lot of exchanges
+we just we just give you the
+pair one pair against or pairs against
+one
+one uh currency um
+so that's that's one one vector of
+of the future work well actually about
+nobody's talk i think that it could be a
+really good idea to
+have maybe maybe some uh limitation
+about
+chip3 tokens and trading pairs
+limited of course by stockholder someone
+to
+run the stock because
+[Music]
+i didn't because anyone may add
+63 route deploy with
+some
+fake name i mean
+as the name of some popular
+currency and i just don't think this is
+a good
+thing because do to make it fraud or
+something
+so maybe um stock contract must be as a
+contract
+there's nobody contract but someone
+should
+keep the stock and uh
+well although disallow some trading
+pairs
+well um i don't think so actually we can
+we can it's uh
+well first of all it's kind of uh beyond
+this
+beyond the scope of this poll but
+uh like my idea is that it will be
+connected to the name certificates on
+dance
+and because uh the pair
+can have like the the well whoever
+whoever owns the tip three token or with
+the issue of t3 talk and whatever
+like of the tip three token if it
+registers the main
+um dense domain on ton
+for this type 3 token then inside this
+dense certificate it can specify the
+address of a pair on the exchange
+and that would be immediately officially
+in exchange for this pair
+so we don't really need to limit anyone
+to do anything what we need is just to
+provide an authority
+uh people can believe in or verify
+that this is really the authority that
+provided this contract and
+that means that if someone is uh
+is impostering if someone is creating
+another pair
+on some other exchange whatever it's
+fake or not it's
+what we need to provide is a really easy
+tools to verify
+that this is authentic pair connected to
+the authentic name
+and it's verifiable the rest is not up
+to us and i don't think we need to limit
+any of that
+because anyway it's an open source so so
+limit we limit or not
+someone can just you know take a source
+code and change it
+and delimit it so i think to work with a
+distributed decentralized authority
+certificate authority um where
+everyone can really easy check that
+this authority is is
+exactly the authority of the of the you
+know
+of the of the address and of the token
+then
+you know um it can easily then verify
+the whole chain and uh
+and come to the price contract which
+would be or or to the payer contract
+sorry
+um the stock contract which would be
+uh you know which would be connected to
+this authority
+so in this in this case i think this is
+the really good um
+good way to deal with all kinds of scams
+and everything in a completely
+decentralized censorship resistant model
+um and and stuff so
+yeah but right correct
+so um is there anything else on the
+contract side that we're
+kind of didn't cover
+nikita mate do you have any more
+questions
+no no i don't have questions
+all right so kind of in total
+so we have like several contracts
+right they're all in the repository in
+the flex repository
+and there there will be another public
+repository for someone who wants to try
+it but not for jewry
+we will put it in public repository but
+in different branch not in the
+main branch so so we don't confuse the
+jury with the new code
+right so that the code stays the same
+and uh and after the
+voting time finishes then we will move
+it to the main repository
+and with all the improvements that
+andrew just mentioned
+that they did and there are also some uh
+debots so can you just quickly in one
+minute cover what debuts we have
+or maybe michael can do that because
+michael uh maybe we
+need to like because andrew wrote some c
+plus plus d bots
+right for for his own but you can use
+them of course
+but then then michael um
+but nikita uh wrote some some debots
+in solidity so can you michael
+just walk us through quickly uh ladybots
+uh we have um
+to the 2d bots it is flex the board and
+chip
+3d board flex debot
+is uh consists of 2d boards
+one is flexible and flex helped the
+bottom
+flex helper debot just
+calculate some addresses
+and deploy some contracts for reduce
+code in flexible
+okay let's
+uh i don't know what
+i should explain in debate debot is
+a rather simple thing please
+just take some data from
+one contract and send it to another
+contract or
+request input from user
+uh i think that we
+can show how we manipulate with prices
+for example yeah
+okay
+get price code hash we receive
+price code hash and with this code hash
+we
+search price contracts in
+graphql uh we receive uh
+address of these contracts and uh
+its data please please highlight uh
+you know code for people so because
+okay that is the interface call
+we just put hash
+of price contract that we received
+from stock contract
+uh we receive uh when we when we say
+receive we just we just executed locally
+right
+yes we execute it and
+then you can hash it somehow
+you don't need to call it every time
+so we receive hash and now we
+call sdk interface function
+and we receive accounts uh
+the arc data type
+data consists of two files
+its account id and
+account data and
+we just parse data and
+don't call getters on
+uh every contract uh
+so it's uh increased speed because you
+don't need to
+download contracts and
+run it locally yeah well you you so you
+saw on the demonstration
+how blistering fast that is it's like
+really fast
+because the tvm execute is is well it's
+microseconds
+then you have when you have an sdk call
+which is like about 100 200
+milliseconds to get just on it maximum
+i'm talking about if you're on the other
+part of the universe and then and then
+and then again you don't need to as
+misha said you just parse this
+data that you received and from the sdk
+it's very fast
+and we received from that we parse data
+and receive price sell and buy
+orders count and then we
+put it in array
+and then just
+print it out
+so then here you have all the whole
+order book now you can operate on top of
+that
+right so you have you have a full order
+book by just
+searching the hash
+yes uh
+you also can calculate address of prices
+we don't um
+did it yet
+and i think that
+in future we
+can calculate others by price
+and don't need to
+call to receive
+all prices contracts
+for example if you want to make deal on
+on some price that you know so
+you can just print it
+and you
+can call contract immediately without
+any
+delay yeah so that's that's also
+something we are going to add
+um
+i don't know what else
+it's just uh i'll show how you send the
+the order maybe uh the order
+cancel um for example cancel order or
+buy order seller buy order and cancel
+order for example
+uh deploy price with buyer that is price
+order or buy order um so
+for that we need
+um to uh
+build the cells and
+we use the vm build builder uh pack
+structures uh
+you for andrew contracts
+uh that we pack by
+arguments uh it's uh
+uh deal deal tones
+deal amount
+stock min amount stock
+deals limit payout
+sell price code and tiptoe violet andrew
+said about these parameters
+in his debut and
+we just call one message to flex client
+for deploy price with buy
+i think that is all
+okay for cancel order
+it's the same we just
+pack structures for android contracts
+and just just send it
+in one message
+yep really easy
+right okay
+well um i think that's all
+so not to keep you long
+guys and thank you thank you very much
+we didn't cover the tip three
+because the tip three um
+[Music]
+they're they weren't they are not part
+of the contest so we don't need to cover
+them but there are also in the
+repository
+so you can like use the bots and to
+deploy this chip three
+this tip three of the say of the of the
+the tip three that you need and to work
+on this exchange again
+the tip three so in order to list your
+token
+you need to create a tip three on this
+exchange now
+it means that if you have another type
+of tip three token
+for example in the bridge ethereum
+bridge
+we have another type of tip3 token right
+so in order to trade this tip3 talking
+on this exchange
+you will need to create a proxy contract
+a kind of a
+well kind of escrow contract
+which you send your the tip three with
+escrow contract will have two
+two tip three codes and uh you send
+there
+the whatever the other three
+token and you mint this
+tip three tokens for to use for the
+exchange
+and uh you know and backwards when
+you're done
+and so on so so that's that's fairly
+simple
+logic here yeah maybe a few words about
+free debut yeah but that's as i said i
+mean
+yeah we can talk about the cheap 3d bot
+sure but it's not it wasn't really part
+of that but
+definitely it will be helpful um
+again to for so if you have maybe a few
+words
+yeah sure please share the screen i'm
+waiting i'm waiting for you to share the
+screen
+so yeah okay so anyone can can do that
+and create this bridge between history
+yeah it's a separate debate it's it
+can be used um without uh flex
+uh stuff and the main goal of this
+depart is to easily
+create uh or mint new tip free tokens
+on the blockchain and we already tested
+it
+uh in a serve the browser
+and it looks very easy just if you click
+clicks to to to mint you token
+it has a two ability to ability to
+to mint your token or cre or choose
+existing one and you can grant then you
+can grant
+these tokens to to token wallets
+and to meet new uh to free token
+you just need to say like
+next next next or the bot will generate
+this interface for you
+uh to to deploy to free
+route then the bot will ask you
+uh the name of the
+to free some other details like a symbol
+and a
+number of decimals in total supply
+you need just to enter this values and
+then
+say yes sign the the transaction to
+deploy
+tip free wallet and that's all
+you need to create your until free token
+and then you can restart the debug and
+choose not to meet but
+to to grant tokens from this
+uh fresh tip free route to
+any other wallets buy buy
+tip free address tip frequency address
+is it yeah this is
+menu for this or you can use another way
+if you have a flex
+client you can just enter
+it's phrase and uh the address of the
+tip
+free world will be generated
+automatically and then you can transfer
+to it
+to grant some tokens to it and
+uh that's all it's it's for it's the
+version for the contest and now we have
+some improvements in this
+uh bot uh the main
+improvement is that now to see your
+minted tip free tokens you don't need to
+enter the address of the
+free route you just
+choose the button to see
+all your minted tokens and the bot will
+cure all uh deep free routes by
+uh as
+michael shown it the bot uses sdk
+function query accounts by hash
+and it will print
+all your
+tokens minted previously then you can
+choose
+one of them and to grant this tokens to
+others
+and i think that's all that's a quick
+view
+of this bot yeah that's great there is
+some bug with decibels i think
+in uh in somewhere i don't remember
+where in flex debot i think
+so jury you should be aware i mean i
+think if you put
+more than more than three in decimals i
+don't remember exactly
+it's not really more than zero more than
+zero
+don't use any decimals for now there is
+a known bag in that
+um so but again we're not changing
+anything we're not uploading new code
+so yeah there is a bug
+so on that positive note let us conclude
+our you know meeting and thank you
+everyone michael andrew
+nikita for doing this great job
+and uh you know we we can t we will
+continue to work on that and we will
+move this into production i think this
+is very important
+um kind of stuff for freetown
+and for the freedom of trade
+thank you thank you all see you bye bye
+guys bye

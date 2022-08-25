@@ -1,0 +1,1108 @@
+guys
+let's wait
+remove usually
+hello everybody
+um
+all right
+let's begin so welcome everyone it's our
+38th weekly governance call for the
+default group of free tone
+so uh we have some updates today so
+let's see
+there's a bunch of proposals
+posted in the group
+but
+let's begin from from the start actually
+so starting from contest
+we have two contests that has finished
+uh recently so the first one is uh
+lending and borrowing contests uh sa so
+that was aiming to
+describe the discrepancies and the
+possibility of implementing the existing
+landing protocols on freetown
+and we had some some reports there and
+generally uh this is only confirmed
+in my thoughts and i also
+prefer my own analytics uh on what can
+be done or not and we will discuss uh
+about landing a bit later today
+so uh the payment for the lending
+borrowing contest will be performed
+today this evening so the contract is
+already deployed
+so we will just collect uh all the
+custodians and release the payment
+uh it will happen
+tonight
+uh
+next the next contest that has ended is
+a self-sovereign identity framework
+which is a huge actually the huge in
+terms of the quality of the works that
+were submitted to this contest but
+unfortunately uh it didn't get the
+quorum of jurors uh i don't know for
+what reason but
+uh
+now we need to prolong the voting period
+uh
+to let all those guys put impossible
+comments to
+to
+do this actually and we cannot use it
+this is
+really a very very good uh contest with
+uh
+solid participants
+uh and
+this is the beginning actually for the
+ssi framework
+um
+yeah so uh and uh
+link to this so i prepared a bunch of
+proposals this morning so the first one
+is that
+i made the analytics of jurors activity
+and talked to some jurors who have been
+not really active recently and
+of them first of all drug cellulity
+he doesn't have time to perform his
+journal duties so he decided to resign
+and this is the first one uh
+also uh
+we
+will run the additional contest for the
+jury selection just to have uh
+the number of jurors closer to 20
+so if you have some good candidates or
+you are not yet a juror and want to
+participate so please join but be
+prepared that
+being a juror is not an easy and easy an
+easy task actually and it requires a lot
+of your time and uh
+although it's very interesting job
+because
+you
+are reading a lot of good
+ideas and you are staying on the edge of
+the technology and
+on the thoughts of the people
+but
+please
+if you don't feel capable to allocate
+enough time
+and you see that we don't have
+contests so frequently but still they
+they're normally very big and complex so
+uh
+please assess your
+possibilities
+[Music]
+just uh be fair to yourself first of all
+so if you can or not
+um
+also uh
+uh i posted the long waited uh
+ethereum breach stage actually three and
+four combined because uh after the
+deeper analytics so uh both stages so uh
+they cannot be done one without another
+and there is no sentence split in them
+uh so and uh we will also
+run the audit within the
+uh within this
+contest
+of the solution so that uh at the end so
+we will get the
+uh working solution with the dao
+implemented and we have seen already
+maybe some pieces of this solution
+uh yeah so that's for proposals and also
+uh
+we had a lot of discussion about
+how to calculate jurors votes depend
+because
+they are not uh actually uh
+put the votes uh
+for all submissions time to time and
+if some submissions got the full uh full
+board of votes and others don't so how
+would you
+calculate every score that directly
+affects the price place and for this
+purpose uh i added to our procedural
+remarks documents the uh possibility to
+choose between three calculations
+actually so the first one is a default
+one uh
+where all those count as eligible ones
+and
+it is used by default and if you don't
+specify uh
+anything else
+uh and this just removes the ambiguity
+that
+currently exists
+the second node is the strict mode uh
+when
+you uh take the submission with the
+least number of rules
+uh you take this number and take the
+same number of worst
+scores in uh other submissions
+and then you define the winner so uh it
+means that if you
+got uh some rejects so these rejects
+will seriously affect
+uh and uh on the contrary there is a
+lose mode uh that uh takes uh
+the same number of the best scores
+published for your submission and uh
+in this mode uh if you get a lot of good
+uh
+good scores from jurors so this probably
+means that you will get the highest
+score
+uh
+all of it it uh
+really depends on the context creator so
+who will choose which modes or
+calculations of course
+he prefers
+and see
+his things is reasonable for this
+contest
+and this removes the ambiguity
+another um
+addition that is also linked to the jury
+is that after the discussion with some
+governance members and the jurors with
+the community so um i propose to
+increase the
+jury rewards first 4.5 to 9
+and also add 1 of the prize fund as a
+motivation for those jurors who uh
+really
+really spend their time and assess all
+of the submissions so except for abstain
+votes of course
+so you should really uh
+take your time and put some accepts or
+reject some submissions with the
+valuable comments reasoning why you did
+so
+and
+in such a case you uh are eligible to
+share the one percent of the price point
+as an educational reward
+this is done to motivate jurors uh
+really really
+performs the duty better
+and
+uh
+right now it is not as the case
+unfortunately yeah so we tried to uh put
+some rewards we try to notify people but
+still still uh people probably don't
+feel too motivated to assess all the
+submissions some other reasons uh we'll
+see how it goes so uh hope this will
+help us to increase the judging quality
+significantly
+uh and
+yeah so in the end
+i wanted
+the jury to be really fair and involved
+because we develop quite
+uh
+the products that are on the edge of the
+technology and economics so
+it's really necessary
+not only from the participant side to
+create all this technology and concepts
+but also for jurors to
+uh select the best the best of the best
+yes because in only this case will be
+the really uh the most advanced device
+system among other blockchains
+uh
+okay so do you have some questions
+for these updates
+or we can switch to the lending
+discussion raise your hand and say
+something
+yeah yeah
+you have youtube ah
+yeah hello
+uh
+um
+about um
+if you talk about a prolonged
+contest
+from ssi i want to clarify
+um
+this marks what we did for now because i
+tried and i bought it for this
+it stayed in on the uh feud only time go
+up or we need to
+one more time to voting
+same participants so no no extension of
+submission period definitely
+uh but at the same time uh
+i think it will
+will not be fair for those jurors who
+have posted already they vote uh to
+to restrict them to what
+actually because they had fewer time uh
+less time to analyze the work then yes
+who will just do this
+for the extended period so that's why in
+the proposal i put that
+those jurors who have already posted
+their votes they should do this again
+and uh
+if they want to change something so
+they're afraid to do so
+in fact they have their advance because
+uh some advanced
+because they already have read the
+documents and they already have some
+knowledge but now they will have some
+additional time to analyze deeper and
+maybe even run a session with
+participants but i personally would
+prefer to do
+but this means that uh
+voids uh now go out and
+everybody needs to revolt and forward uh
+reward uh one more time again yes or no
+most probably yes i um personally don't
+know if it's possible to transfer uh
+because how the voting extension works
+actually so uh the interface group that
+in fact deploys one additional contract
+and transfers all the
+data from the old ones to the new one uh
+except for the one parameter uh i don't
+know if they can transfer only
+submissions and without your
+yeah votes
+it's not so big work in this case
+because there are only four submissions
+for now it's not maybe so important even
+for me for example i did every time
+excel file where
+puts my opinion on my
+quote and after that working it needs to
+copy past one more time but uh for me
+important to understand to clarify
+alexander
+do i but but uh what what i want to
+check it in in reality so if the the
+juries uh already votes and if you're
+right that the new smart contract
+transfer it submission and previous uh
+let's say private marks in previous
+previous uh evaluation that that
+alexander and me for instance cannot
+re-vote it should be rejected let's
+check it easy to check
+and if uh you you will try to revoke and
+repost and it will be accepted so we
+will know for the next time that the
+in in such cases it's impossible to to
+reload uh and it transfer it from the
+old contract easy to do it yeah very
+useful right
+exactly exactly i will check with
+interface team or if it's possible to
+transfer only submissions without votes
+of the current jurors because for jurors
+i think it's not a big deal to cast for
+votes
+through easy vote with just one minute
+especially
+probably in this case
+right and probably that there is a time
+to discuss the first first suggestion i
+have is to enlarge to the that field of
+the the med of the description of the
+jurors let's say like in the it was in
+twitter history it's 140 40 um
+letters in the time to enlarge that
+because in most time there is not enough
+space to put explanation of it at the
+first first question of first suggestion
+let's say probably we should speak with
+the the the other governances and so on
+that the second suggestion is to
+trying to
+formalize
+categories of of
+evaluation let's say technical part or
+by the groups probably
+it will be complicate uh the process and
+i'm not sure about it but to discuss
+about that so now we have only the the
+few few the small fields to to explain
+something but some some sometimes it's
+not enough
+and
+uh the the one more things that i spot
+for the
+chrome extension contest on the ssi in
+the decks and so on is
+for one submission let's say for
+submission a
+uh voted
+four or six or nine jurors of of of 15
+or 16 for the second one in the same
+contest it's not the
+five or six but nine of it
+and what does it mean that's the average
+calculation it's completely different
+yeah it should be somehow it should be
+somehow harmonized and i don't know how
+i think about it but i i strongly
+believe that that that's the uh
+in in some
+such cases the average um
+evaluation should be completely
+different in frame and the one contest
+yeah actually uh
+to answer you so first uh you can use
+easy votes so it already supports i do a
+lot larger comments so it's it's not
+only it's not limited to
+140 symbols or so so you can accept
+really a big amount of things
+uh the second thing i didn't remember so
+uh
+what you ask it's about it's about to to
+split the um description of china to the
+uh
+the formal formal class it's it's
+actually not possible now uh it's uh
+there is a work done in parallel of the
+global jury groups uh specializing in in
+some specific areas
+uh however uh i don't know there's a
+problem there and most probably if it
+will come
+only with the governors to oh
+yeah the third one it's actually what i
+told in the beginning of the call is
+have a look on the new uh procedural
+remarks document so it contains already
+the calculation
+basis remark actually that you can as a
+contest create you can select uh so
+which mode and how the which scores will
+be considered legitimate at the moment
+of uh
+defining price places
+so uh i think it covers almost 100
+percent of situations
+good but uh will did
+this new edition of procedural
+procedural remarks will uh regard only
+on defy or you will try to spread it on
+the whole
+uh actually what happens is that defines
+that that sense is one of the most
+structured
+and sound sub governances and uh the the
+document that we initially created these
+procedural remarks i personally know
+it's it's been used at least in two or
+three other sub governances uh and
+hopefully they will also accept uh the
+second version of it so
+as a benchmark
+and also implement this but uh i can
+speak only for the device of governance
+anyway anyway let's let's discuss this
+this new edition that new version you
+you offer it in the later they will
+spoke with the kelly on the other side
+yeah please
+yeah uh hi maybe it is important to know
+that
+in a sec contest uh the rule about the
+reject vote
+was not also taken into account you can
+check according to some works maybe it
+is important to notice for the future
+what do you mean
+i mean that in procedural remarks we
+have the rule that uh when the jury
+votes uh reject yeah uh it counts as a
+zero yes but as you can see in landing
+and borrowing contest uh works which had
+uh rejects
+they still had average uh
+points uh without counting rejected
+you mean in the governance interface
+yeah yeah don't don't don't don't you
+owe it yeah i believe what i believe
+that the governor's interface is the
+some somehow mistaken calculator yes
+don't pay attention to it because uh it
+calculates uh the average score in
+its own specific manner
+and uh this is why a
+long time ago i proposed to change the
+consensus mechanism specifically for the
+device of governance
+because
+in the governance interface and first of
+all it considers
+that uh
+any proposal is
+uh accepted
+and unless it is specifically rejected
+by jurors and this is not convenient and
+it creates a lot of confusion
+that's why long ago we changed this to
+that every submission is considered
+rejected if it's not
+approved by the jurors so which is uh
+more fair and more
+easy to understand also uh
+specifically to the device of governance
+each of each contest inside uh contains
+the
+link to the procedural revised for
+reason
+because uh out there there is a
+procedure on how can you calculate uh
+the average score of how to calculate
+price places
+on what is the threshold score and a lot
+lot of other information because uh this
+is you know like uh
+safety measures uh are written by the
+blood the same principle pretty much is
+for our procedural remarks because we
+made some mistakes in the very beginning
+it's okay but we're learning our
+mistakes and
+we try to uh
+reflect how we believe the contrast
+system uh should work in this procedural
+remarks document
+and that's that's why i pay attention
+that there is a new uh update on to it
+uh published on the forum so please
+everyone have a look on it if you didn't
+read it uh still so it's it's important
+to do this now because
+uh there are a lot of useful information
+inside it and it's it really makes the
+voting
+and
+participation in the contest really
+clear and transparent
+so average points which are
+shown in this interface they are on and
+it recounts somehow
+yes
+actually speaking of landing contests
+there are um i can open the table
+while the vlad is checking his desktop
+lena too
+easy votes interface
+yep
+yeah there is i i strongly believe
+that's the the correct calculation in it
+not always but you should always
+consult the procedure specifically for
+the device of governance because
+all and easy votes and written stats and
+all other interfaces
+they are
+in fact tailored to be universal so
+instead
+of incorporate all the specific
+needs
+some sub government and their
+regulations uh in fact there are now two
+winners of this contest
+following the calculation method
+just
+this piece here
+so uh
+with
+the first place taking the
+two places taking the rewards and these
+ones for example they do not pass the
+threshold actually because uh rejects
+count as zero and they lower the score
+and also the the
+remainder of the price fund is not used
+uh again as for the procedure
+and uh
+yeah so congrats to winners they will
+receive the rewards today
+and so for all others just please delete
+the procedure
+so for now it's made only
+manually
+unfortunately yes but hopefully
+there are already some tools that
+facilitate a lot of calculation for
+example i personally use the one that
+was developed by the
+uh
+by daniel uh so it is called uh free
+throws
+because that's the torque
+so i will just
+uh but still it's a universal one that
+[Music]
+doesn't allow certain functionality and
+you need to every time check it manually
+hopefully
+one day you will automate all of this
+but not for now
+okay thank you
+okay so um
+any other questions guys on these
+proposals
+so the regarding the zuru exclusion did
+you have a chance to spoke with him
+personally and yeah yeah absolutely and
+he's fine because
+he is
+really involved in the activity of the
+defy lines now and
+talks to the other marketplace players
+and he simply doesn't have time to
+to assess the submissions on contacts
+and we agree with him that we will
+remove him from the jury
+so he is absolutely fine
+so and if i'm right that we are still
+didn't updated the smart contract about
+the nimrod exclusion right
+yeah actually uh we
+didn't update not the uh only the
+sub governance giver so right so his
+public key is still there also he cannot
+do anything because it has the five of
+seven uh
+signatures
+required to submit the transaction
+right but we will redeploy it without
+public key
+but what i what am i why am i i'm asking
+that
+uh probably it's the time to do
+to do not do twice
+that double work uh probably we will
+have to say
+we'll update it one time with the nimrod
+exclusion there was zero exclusion after
+the voting no no zura is not excluded
+from the membership right
+actually actually he's still a member of
+the government he performs his duties
+custodian as well got it sure for the
+for the payment in the the government
+absolutely absolutely yeah so he just
+haven't have no time to to to judge him
+sort of sorted out a lot of
+papers yeah
+it's a heavy work you know so uh to to
+read out of all these papers and to
+install them to try to understand how
+they work so to ask questions so it's
+really time consuming
+okay
+uh so let's move on so uh
+let's discuss the results of the lending
+contest uh which is uh
+resulted in being quite interesting one
+uh and
+we
+got some insights from it so
+uh the major insight is that
+it confirmed uh what what i suppose but
+but still
+most of the
+landing protocols that currently exist
+in the ethereum are possible to
+to transfer
+to free tone
+there is not so much functionality
+inside it that cannot be done
+[Music]
+directly directly i underline this work
+because
+anton has proposed as a
+way to implement
+flash loans
+on free tone kind of so i don't know if
+he's here probably not so i will ask him
+maybe to
+come to the next
+weekly call and explain more in detail
+his concept
+but still all this landing mechanics
+borrowing mechanics uh roping uh
+liquidation uh
+and so on so forth all of these are
+possible
+of course they will require uh some
+reworking because first of all we do not
+for example have chain link on free time
+so we have
+our own oracle being developed
+at a separate contest as it will be
+used by most of the solutions is that
+it's of course uh uh needed uh to
+pay attention to the asynchronous nature
+of free tone and the distributed nature
+and specificities that exist in the
+blockchain uh but still all of all this
+is possible which is a very great news
+uh one more finding that i personally
+learned uh analyzing all these protocols
+is that uh
+for example in other there is a very
+very good
+mathematicians
+behind all the processes so they
+calculate uh all the risk scores and
+they create different
+way models to
+rebalance
+the
+portfolio and to
+define the
+thresholds for different coins uh
+which currently doesn't exist in crypto
+yeah so
+of course we can easily take this
+analytics and just copy paste it from
+other but without the deep understanding
+on why
+they selected uh
+this or that ratio so uh
+it is
+not a good way to go
+so uh
+what i would do actually is first of all
+i would run additional contests or to
+for building the mass model
+for landing uh based on the other
+and maybe grounding all the results and
+how they can be reduced in future
+actually so what i mean is that
+uh in case
+uh we would like uh or other operators
+landing platform would like to add some
+additional coins and
+how he should score it
+because uh of course in other
+documentation now it is a state as a
+result of
+the mathematician boards
+but if you need to approach
+an absolutely new asset so what is what
+would be the procedure and uh
+i would uh maybe run the contest that uh
+will
+help to explain uh all of this stuff and
+also propose a model on how to add new
+assets to this learning protocol
+uh and also speaking of implementation
+part um
+we can already start approaching the
+first implementation phase maybe the
+simplest one
+uh
+i would personally of course target the
+market leaders
+and mostly uh copy the models of other
+compounds and maker
+they are not
+so much different from each other and
+they proved
+by the time
+that they uh very good ones uh but again
+uh
+i think that we will discover a lot a
+lot of
+peculiarities when trying to implement
+this in freedom
+uh
+so
+guys who have read the submissions and
+all these
+ideas that guys have proposed
+please
+express yourself
+what do you think about this
+really no ideas
+or is it too complex subject to discuss
+for now
+okay okay
+okay in this case i will draft some
+contests for mass models for the lending
+protocol and
+also uh
+try to approach the what's what would be
+the first stage of this lensing
+implementation because
+uh definitely the lending protocol is
+something really neat here because it's
+it's really
+a missing piece for some high-level uh
+protocols
+that may come here
+uh later and that we will be promoting
+from the fireline sites to
+the solutions to the free time
+um
+okay
+i also wanted to
+announce and you may have heard already
+this on the weekly call but still i want
+to
+say it again so we have uh two big
+uh
+wins actually so
+we have two uh existing defy projects
+with a good liquidity coming to the
+freetown ecosystem the first one is crux
+so uh for those of you who
+may not know so it is a stable coin
+packed to us dollar algorithmic so it's
+it's a
+hybrid stable coin so part of it is
+backed by resource and part of it is
+algorithmically uh balanced
+so it's uh really an interesting project
+with its own community
+and
+this community will be coming here
+and
+soon we will
+also announce about this partnership if
+it's already not done i didn't see the
+news yet
+uh so and uh most probably
+it will be
+uh also participating in the farming
+program so please keep an eye on it and
+uh on the harmony and secrets
+another one is the stasis
+it is a stable coin
+packed to euro
+and
+they will be
+coming out trucks
+and
+this is also a good win because they
+have something like 50 or 60
+million viewers
+in tvl
+so uh and this is actually what we
+really need uh
+right now because we need
+some native stable coins and with both
+uh products we agreed uh on two stages
+of the first stages that they will
+simply recently add the support of the
+coins to the bridge so they could easily
+transfer the native
+tokens through the bridge to the
+frequency system and at the second stage
+so uh we will
+they will
+build the
+the free-to-native version of this table
+from not the rocked one but the native
+one which is also a great quest to use
+and it has a huge huge already
+especially in the professional community
+so uh good news for all of us and
+i hope that it will
+boost and boost for its own
+future
+um
+okay so yeah yeah elena please
+yeah uh coming back to the topic of
+london and borrowing
+i just wanted to
+mark and know that our
+sridev team we took second place in the
+contest and
+i didn't really have much time to
+do essay but we're still grateful for
+the opportunity to think about the topic
+and we also wanted to
+say that if you need any assistance or
+help
+absolutely
+with the draft you can just
+message text us and we
+thank you thank you of course and i
+invite everyone who wants to participate
+so
+i will just draft the contest and
+drop it in the group so if anyone wants
+to join the discussion
+because
+i see different views on how this uh
+issue can be tackled and that's great
+actually because uh the more concepts we
+have the more ideas we have that do not
+just simply follow the what already
+exists in the market but also try to
+uh
+to reach some new frontiers and uh
+create some new ideas that maybe in
+future will be dominated in the market
+so the better yeah so uh
+uh
+i invite everyone to join for discussion
+thank you elena
+thank you
+okay that's pretty from the site uh so
+we have some additional topics discussed
+so now the time so we have still 20
+minutes to discuss
+yes yes
+um i want to edit some
+something about ssi contest i had a
+yesterday
+conversation with one of from jury
+alexey novikov
+and
+he was totally disagree
+alexander he disappeared
+maybe it's better i have no bad
+connection if not
+yeah we hear you know
+oh no okay
+let's let's try
+um
+it's about
+some
+artist bonds in
+ssi contest
+and where i put a good mark because i
+know this team like
+famous uh especially one from famous
+specialist in ssi femme
+and uh i was sure that uh they
+understand the stem very good and was a
+very good explanation on their white
+paper
+and
+maybe um i
+i looked that's very
+not so good understanding how free tone
+works but
+uh i decided that a good team with good
+understanding of this term it's much
+important that uh
+[Music]
+okay
+maybe i'm explaining in chat maybe it
+will be better and we explain
+in charts yes
+yeah yeah thank you i think what
+alexander tried to say that uh
+some some jurors so they express
+alternative opinions that
+in such a contest there should first
+come the understanding of how return
+works and
+only after that uh all other uh
+therapeutical concepts behind there all
+as a side framework
+uh and uh
+both concepts uh both attend yes to this
+question are true and both of them can
+exist and that's good that we have both
+of them actually um if you remember uh
+in the very beginning when we were
+starting the
+device of governance uh actually i was
+saying and i still stick with this
+this idea that
+the more diverse the jury is the more
+adequate
+score
+and because
+we have a lot of uh people who
+understand good finance there's a lot of
+people who understand well how friton
+works
+and all of them have their own opinion
+and it's absolutely
+good for for all of us if we have
+both opinions
+here because otherwise it will be just
+uh you know um
+shifts into only one
+part of the problem
+and so
+i personally like that we have different
+abilities
+yes i agree with you
+thank you
+yes
+yes but i just wanted to clarify you
+said regarding the stables of racks and
+stages that
+on the second stage they will
+make the native implementation
+what did you mean by native because in
+return we already have tip three which
+we
+mean as stable
+i mean that
+they will
+create
+so right now the infrastructure is uh
+tailored specifically to the ethereum
+network
+so and all of the business processes all
+of the uh
+smart contracts uh etc etc all of this
+is packed to ethereum
+when i say that at the second stage they
+will uh
+create the native the native stable
+coins to free tone it's pretty much what
+like uh what tesla does so uh initially
+if you remember they were on the omni
+protocol then they uh added the erc20
+version of uh usdt then they added
+patron and so on so forth so this is
+pretty pretty similar case so they have
+the
+single custody for the reserves
+that uh stay behind the stable coin
+but this liquidity uh
+will be splitted actually uh between two
+networks already so between ethereum and
+free tone whereas uh
+at the first stage what actually happens
+is that they uh
+whole liquidity
+is backed
+that is backed by uh by the reserves
+stay in ethereum
+even the k is the case that they
+transfer the coins through uh through
+the bridge doesn't change the fact that
+um
+the original coin still stays in the
+theory
+uh the tip three tokens that is issued
+by uh by the bridge uh against this uh
+locked rc20 version is a stable coin to
+stable coin
+or derivative
+so uh so
+the second season will create the level
+one talking uh
+directly on crypto
+okay so they will
+make some
+mechanisms to directly stabilize uh
+using some
+uh in intra free-to-own mechanisms yeah
+yeah that's why
+okay but i don't think that
+it is a good stage for the fire alliance
+because there were
+will be no
+no locks so no no locked uh tokens
+yes and no uh from one side uh the more
+resource the bridge has uh in its
+evolves the marines can
+earn on it
+that's true but on the other side the
+more protocols move natively to free
+tone the better is the visibility of the
+whole project and the more
+other projects are coming the ecosystem
+so and that's our ultimate uh target
+that we have a lot of our native
+projects here and
+a lot of attention to free tone itself
+and not only to serve you know like
+operating only with rock tokens
+so speaking widely uh in the strategic
+standpoint it's better when projects
+move natively to future
+yeah of course of course
+thank you well thanks for questioning
+okay any other questions guys please
+yeah elena please
+yeah i just wanted also to say that uh
+tomorrow is the last day of voting
+uh protesting
+uh yes implementation
+yeah thank you so much i forgot
+yeah and maybe somebody didn't see in
+the chats uh we created short video
+presentation about uh everything was
+done in our tonsil project during the
+second stage so
+yeah
+if anybody has any questions or comments
+we're
+open for discussions
+thanks thank you elena i will also send
+a reminder to all jurors now uh
+because uh all of the participant
+participants if i'm not wrong have
+prepared the demo videos
+and you know i'm really grateful for
+this because it really facilitates the
+judging process
+uh
+yeah i will think for everyone because
+uh i think in fact it's a bit more than
+one day uh it's
+one day and some some hours still like
+today and tomorrow tomorrow night yeah
+yeah but but better not to put this
+until the very last moment
+of course by the way vlad i want to
+express the respect to alina and his uh
+her team
+about her
+there's activity in the
+promotion and the pushing
+all the the device of gov and so on so
+how they are remind or promote or trying
+to to ask for amy
+session and so on so one of the best
+examples how the the the defy community
+should should be here very good alina um
+respects you see himself thank you very
+much thank you thank you very much it's
+very nice here
+okay
+good good
+uh
+okay seems no more discussions so uh
+i'll start my traditional countdown so
+three
+two
+one
+ivan is not here okay so that's it
+okay guys thank you very much for
+attending it it was a very interesting
+discussion today so and uh see you next
+week same time thank you take care yeah

@@ -1,0 +1,3806 @@
+good morning participants and viewers so
+i'm really grateful to welcome here in
+the last day of our hackathon in
+belgrade serbia so it was a challenge it
+was a challenge and uh most of you have
+done an excellent job
+so now we are coming to uh the
+culmination of our uh program the final
+pitches of all the projects that were
+prepared
+uh on this excellent hackathon so and uh
+the first team to to start uh will be
+the cap crew so i hope they are here
+with us on the zoom call
+so but before they start so i want to
+make uh a couple of words about the on
+organizational site so uh we have fixed
+the certain time for each team so no
+more than half an hour for for your
+pitches
+so please be online at the specific time
+so if any team finishes earlier so uh
+it's okay so we'll just uh pause for
+some time until the next team is ready
+at the
+time
+uh later today so uh after all the
+pitches are done uh the jurors will take
+some time to finalize their decisions
+and prepare the list of winners
+meanwhile uh for those of you who are
+watching this stream and for the teams
+as well so uh i would like to
+remind that we have the
+people's choice award uh in each of the
+tracks
+and uh we will publish the special form
+uh to vote for
+all the teams
+that you liked the most so after all the
+pictures are done
+so and uh be ready to vote for your
+favorite uh team and support them
+because they can also get the people's
+awards
+on top of
+the
+har skills
+so
+now
+further ado so
+let's welcome the cap crew team
+who will pitch the project
+guys are you here
+we don't hear you
+you are unmuted
+uh
+now it's good now it's good
+and and now and now
+no it's okay
+oh great uh welcome everybody it was
+very exciting days and i'm ready to
+start my presentation
+i will try to briefly talk about the
+project and more about our bridge and
+show a little demo
+so
+let's start i hope you see my screen yes
+uh
+can can you see my screen yes
+yes yes we can yes yes
+so uh exudi
+is an nft based blockchain project
+where a traditional race board game
+meets hairs of magic mechanics powered
+by the blockchain and nft technology
+and we really try to create a bridge
+from real world to blockchain world
+and
+between all
+and between different blockchains in
+this world too
+that's why our track is cross chain
+excellence
+yeah by the way
+this sentence was created before
+uh
+before this hackathon because when we
+planned
+uh have plans about creating this
+project
+we thought about the bridge and between
+real and blockchain and between
+blockchains too that's why one of our
+mission is to create the bridge between
+traditional board games and the emerging
+world of nft games those boarding
+generations together
+because i i think most of you play
+different board games with your family
+i like a system contains some very
+important topics like nft browser game
+physical copy it's not less important
+because it's one of interesting thing in
+our project
+nintendo switch game
+and what is more important cross chain
+breach and dao
+so i will show later a nft browser game
+so it's very easy the main aim of this
+game is to beat your opponent and to be
+the to be the first to reach the finish
+line by overcoming obstacles and it
+fails that come your way as well
+completing missions
+physical copy
+for holders of premium nfc nfcs we will
+produce the physical versions of our
+birds
+boards i will talk about this later and
+yes we have some developers who develop
+some
+indie games for nintendo switch and by
+the way i'm
+a player
+i'm a good player too i like this
+console and we decided that we would
+integrate our game on this platform too
+and by the way it can be the real one of
+the first
+games in blockchain
+and
+console i will start with the uh yeah
+uh
+and then the next part and one of the
+most important part is cross chain
+breach that's what uh about we will talk
+today more deeply
+so our users will also be able to
+transfer the token in their valid from
+one blockchain to another by using the
+oculus bridge process technology
+and why do we need why do they need this
+uh as i have talked before
+uh users can play
+and they will be able to play for money
+that's why there will be a special type
+of rooms with entry fees paid by players
+which will form a price pool which
+participant will be fighting for
+and
+the most important and interesting thing
+that there will be two types of these
+rooms
+the first type is cross chain rooms and
+the next time is single blockchain rooms
+what it means
+participants pay entry fee in any tokens
+that they like
+supported by a big study
+so its price pool consists of different
+tokens for example imagine it can be
+like a battle between blockchains for
+example you have a friends from i don't
+know avalanche or near and uh you are
+from our scale so you pay
+your fee in errors then somebody paid in
+fx or
+other tokens and then
+who win of the game will get the price
+in his tokens that's why it uh
+that's why we need to use this invisible
+bridge technology
+to easily uh exchange token with some
+fees and
+give it to the users
+the next and very important part while
+we need bridge 2 and by the way while we
+use framework for a process it's there
+so the dao will be implemented to make
+strategic decisions such as centering
+into partnership holding tournaments and
+so on
+and every epic study holder will be able
+to wait with their tokens that's why
+we'll integrate this
+and we will have some different roles
+like investors partners and what is more
+important uh
+i will tell about this a little bit
+later sorry for fast that one of the
+main industry problems in nft that it
+has a very weak connection with the real
+nfg um
+with the with the most traditional games
+let's return back that's why
+uh one of the most important part of
+this tao will be game manufacturers and
+terminal associations
+uh and by the way families yes because i
+think it can be very interesting to
+create you know like a clan in this dao
+and you will play and so on
+uh
+that's why
+we will use uh framework and some part
+of contracts like download contract
+proposal contract and we will continue
+we start with integration uh the bridge
+which i will show you now and the next
+stage of our integration will be
+integration of tao and uh invisible
+bridge in our games which i will show
+you a little bit later
+uh piece of the tokens will be used to
+level up guild beiges unlock deeper
+access it's just some list of ideas like
+cross guild tournaments i think it can
+be very interesting thou voting for nft
+creation
+for in-house events and rewards it's the
+first list of what we will have but it
+can be more
+um i will briefly talk about the game
+economy and other parts of our project
+and go to the demo
+yeah the main uh part of
+pcd4 was their free-to-play model allows
+players to get with the accounted with
+the game with zero friction
+but they can have extra boards extra
+boards tournament pairs skins and other
+and other things and the most
+interesting is pixie box it's like a
+random box of different energies by the
+way for different kind of different
+blockchains that's why we need to use
+the bridge too
+uh i will go briefly through game
+industry problems uh
+i have already talked about weak
+connection with traditional gamers
+and we will
+make solution for this because our main
+mission to connect um
+real world and blockchain world also
+there are not a lot of games for
+consoles and we will
+solve this problem too and by the way we
+have some
+research and many k board game
+manufacturers are looking for
+new ways to interact with customers
+that's uh where we provide our main
+solution pixudin as you can see
+here on this uh
+slide and that's why we need to frame
+work bridge framework and our framework
+to build community and to build
+uh like you know
+multi-chain now
+yeah it's market outlook uh design
+choice yes i like dandy i like sega and
+i like cold games
+uh and many people like pixel art we
+make a little research about this too
+that's why the main style of our first
+boards was chosen pixel pixels pixlr
+yep our little customer expectation
+strategy
+and our roadmap as you can see we have
+already have
+some points about our development but
+actually it's tau integration with the
+greek help by optus and um multichain
+bridge yes
+so uh next i will go to the website i
+hope you can see it just second i will
+share all my screen
+so is the game
+and first what we have done we easily
+integrate the bridge
+let's go to the
+game
+for example if i log out we can login
+one more time
+let's do it
+just a second
+by the way you can try it on game
+pixely.com too
+so uh later i will show you how we can
+create the game
+it can be a little slowly on my computer
+because of zoom
+but the first uh demonstration of pixel
+develop and x2d uh bridge actually octus
+rocks bro brock's success bridge
+let's
+uh
+let's wait by loading
+so yes it's connect my valid
+so we can choose blockchain i will
+choose for example error scale and
+avalanche because we plan to integrate
+this
+i have some
+evers
+two
+reptiles actually
+and let's start our exchange process
+so let's wait for
+some
+time
+and while the transaction is
+preparing
+and we need to
+wait for
+checked by players i will try to briefly
+show you the game
+you can create a game
+uh here we will be a little later add
+the beads you can choose the beat and uh
+as i
+just a second as i show it on this
+slide
+yes
+it's a design soon it will be
+transferred to the website you can
+choose
+blockchain and you you can choose uh
+currency okay
+so we can create the game
+example
+and it will be like this
+uh by the way if someone one now he can
+join us
+i will check
+the transfer and we'll return to this
+page
+so it's currently checking
+uh
+while we are waiting for
+checking i will
+um
+i will maybe open one more incognito
+window and will show you how actually
+work
+this game hacks try to do it
+very very
+shortly while we're waiting for
+bridge
+okay let's choose another wallet
+and i can join someone game for example
+i have game
+ever let's join
+or maybe
+my apps maybe i can join this game
+somebody waiting maybe here for me
+just one second
+and
+so
+so uh as you can see by the way while we
+are loading the game we need to release
+the transfer in our launch let's do it
+to check that a bridge is working in our
+game
+let's do it just one second
+my meta mask is loading
+uh sorry for speed again it's because of
+zoom sometimes my browser becomes slowly
+let's wait
+please to finish our demonstration
+maybe because i
+upload the game
+let's reload the page
+oh i have it
+you can see
+that i need to sign the
+transaction just a second i will do it
+and
+yep
+i press the button and it's confirmed
+now
+so
+uh we just need to wait for tokens
+um
+so
+we create
+uh so we're on the way to create the
+game
+we have already created something like
+mvp of our project and by the way
+for us this hackathon was a great
+opportunity because we discussed about
+integration payments and bridges a
+little bit later but when i said
+we decided
+just do it and we did it we integrate
+the bridge we are ready to integrate dao
+and other and other and uh bid mechanics
+on our in our game
+and i think that it can be
+very interesting that you can play
+with uh
+some people with different blockchains
+in one in in one uh on one board
+you can play it with different tokens
+but using the bridge
+we can play together
+and get our tokens
+play turn
+game 5
+nft some text it's pixuv
+thank you very much
+thank you so much so it's excellent
+presentation and uh
+well i have nothing to say so it's a
+really cool product and
+so i really enjoyed to see how you uh
+integrated october's bridge technology
+into your business flows
+uh so uh now the time for questions so
+guys uh is there any question from the
+offline audience please
+okay i have
+slime
+okay hi um
+so have a question one question why
+why do you need a token for in this game
+what so why do i need to transfer tokens
+from
+some networks into this game what's the
+point of the token in this game
+you mean
+talking for dao or talking for the game
+we don't need special token for the game
+in our game users the main the main
+difference from other games that in this
+game
+uh
+users can use any token from their
+blockchain which we have in our uh in
+this bridge in this bridge
+uh that's why user can use
+any different token
+uh in this game uh we don't need special
+so these tokens uh create a prize pool
+for which participants are fighting for
+right
+so yeah
+actually
+okay thank you
+thank you for the question thanks any
+other questions guys please
+raise your hand
+okay maybe we have some online questions
+no questions okay so thank you very much
+guys for your presentation so excellent
+work uh so
+thank you for coming and participating
+in our hackathon so uh now we
+will wait a few minutes for the next uh
+team to join
+so uh
+see you in a while
+okay thank you
+okay guys so uh we are ready to uh
+listen to the pitch of the second team
+so tin lap
+uh so hope you guys are here with us so
+uh please oh i see myself on tv
+nice
+so please
+take the screen and show us your
+excellent presentation
+uh hello
+hello
+yes okay so our team his name is
+certainly love so i'll share my screen
+do you see my screen
+so okay
+okay hello everyone so today we will
+demonstrate you our product and this
+name is uh
+curry
+um
+this platform is
+uh
+for
+uh transactions of cryptoballots uh
+cryptocurrency
+uh
+let uh
+let introduce uh our team so uh we have
+mobile uh developer front and back end
+developer and i'm project manager
+um we are from kazakhstan
+so uh what about our project
+our product as a multi-functional crypto
+ballot of future development on web
+freeno it technology
+uh
+this wallet can help to
+do transactions of cryptocurrency
+and
+uh to to
+fast manipulate with cryptocurrency and
+also
+to do payment with qr code
+uh so
+um our
+uh see like traditional money will in
+the future will not demand uh like uh
+cryptocurrency
+so and our project will
+help everyone to
+do transactions with a
+future development so what we did during
+hackathon so uh first of all we did a ua
+ux design for website and app
+and we have mvp website and app
+for android
+and also we did a little
+market analysis
+we
+compared to it with
+similar projects
+and
+i want to show show you uh the ui ux
+design of our map
+app
+as you can see our app uh has uh
+such features like
+uh qr code uh
+transactions of cryptocurrency
+and a login
+uh so uh this is our your uh design of
+our website so uh
+later i will show you evp and you will
+see the functionality
+uh we did a research uh
+of our target audience
+so uh we asked people from businesses
+and who uh
+like from our university and uh from
+people in different countries who
+who
+works in the fear of cryptocurrency
+and um
+they say that the demand of uh
+this currency uh
+grow girls
+[Music]
+through time and as you can see in
+january
+not
+much people use this currency and now
+the
+popularity of uh
+this sphere is
+growth every time so um what about
+people
+that people from all countries can use
+our product
+and age of course
+18 plus and also uh
+psychological who wants and likes to
+um
+uh use cryptocurrency
+so um
+we
+saw that uh we can help uh the companies
+like broccolis and everscale to
+uh
+to
+[Music]
+give and
+uh recommend our
+uh features of our app
+for example we we can see that um
+such companies has online have online
+values access to crypto but we also can
+demonstrate our qr code for payments
+through cryptocurrency and also
+multifunctional uh app with uh secured
+data security
+and which will help to
+[Music]
+store your old data
+uh in
+insecure place
+so
+what about monetization how will develop
+this app
+uh
+we
+we want to uh for for the uh for first
+time to uh take
+commissions from transfers
+but also uh
+we want to
+uh
+we want
+all the companies invest in us and we'll
+develop our app in the future more and
+more
+so what about milestones uh
+uh we
+develo during the hackathon we developed
+our
+um
+idea uh into this uh
+like uh cryptocurrency wallet
+and uh in august we want to continue
+developing android development market
+analysis of course in september we want
+to uh
+connect hosting and develop our
+front-end features uh then backend
+banking
+testing and
+in in the winter we want to
+uh
+like test our
+app and
+continue in the marketplace
+so uh what we need for the future
+development uh we need
+a good market analysis of course
+to
+compare with all the companies what they
+need to
+uh develop develop
+in their app and uh
+what is a demand in
+market uh place
+so
+also we need to choose the right ipi
+and ios
+developers and of course finance
+financial accounting is needed
+so um
+as you
+you can contact me
+i am project manager of our team so um
+right now i will demonstrate you
+our
+uh
+site
+so uh with it during the hackathon with
+it in vp of our site
+can you see yes
+so
+um
+this is our rep as you can see we
+use css html javascript
+you can see the features
+uh in the end of our site you can
+download our app
+so and
+of course you know we can uh change our
+background to our site
+uh then you can register it on our
+site
+so you can write here the name and
+submit
+and also you can
+uh
+write
+the number of our cards
+credit cards months here and cvv
+and submit
+and
+this will be page your registration was
+successful
+go back
+so um
+now we will demonstrate our app
+so
+uh right now we will begin demonstrating
+the uh ux ui design of our application
+so uh here is
+uh the main feature which we have used
+everywhere it's called glassmorphism
+which is being trendy and popular
+in the recent years so that's why we
+decided to use such design so as arena
+had already mentioned curious
+multifunctional crypto wallet of the
+future development uh on web
+development on web 3.0 internet
+technologies created to facilitate
+facilitate and improve the life of
+cryptocurrency users so the main page
+welcomes you with this message so
+welcome to curie and as you accept all
+the requirements you get started
+clicking this button
+then uh you will have to connect your
+wallet uh there is no need to
+register since uh the
+future application will be connected to
+the one of this
+wallets mentioned so uh then
+you have to connect
+one of the partner wallets to work with
+this application and the data will be
+protected with
+blockchain technologies and uh after
+this uh you have to select one of the uh
+mentioned cryptocurrencies uh crypto
+wallets and then finish registration uh
+then you will have the secret phrase
+which will be also connected with the
+wallet for example here uh we have the
+meta masks and uh in this blurred
+text area you have to paste the uh
+secret message uh which will come to
+your uh wallet then you press go
+and uh the wallet will be
+shown here and as you can see here is
+the encrypted
+encrypted number of your card with the
+uh
+like money and cryptocurrency available
+uh and uh here is some uh
+here is a button which you can uh
+where you can see the available amount
+of cryptocurrency in your world and it's
+the profile then after uh seeing this
+you can go to the receives and here uh
+there are some
+uh transfers which were done uh with
+your wallet uh for example
+here you can see received from uh
+someone which you can see
+uh which you can see and after this uh
+you
+have to say uh you see how many um
+how many uh how much amount of the
+cryptocurrency was transferred to your
+wallet
+and then you have the uh like feature of
+scanning some qr and um
+like purchasing something uh any service
+uh and
+any purchases you you can pay uh and
+it's used in
+all the areas of everyday life
+it's only it's done uh with your own
+crypto wallet using qr functions and
+uh then the last but not least uh you
+have transfers so uh as we have already
+mentioned before uh you can also uh like
+select the wallet which you can transfer
+any amount of money from uh for example
+here it's bitcoins and uh some user uh
+available
+like who was already registered in this
+application and after uh some
+manipulations you press the button done
+and after
+the amount of money will be transferred
+to that wallet
+so uh it's uh quickly uh about the ux ui
+design and uh arjun will continue with
+his uh prototype of the mobile
+application thanks
+okay hello everyone do you hear me
+okay uh hello elder participants and
+viewers i'm a member of the team
+searcher lab my name is karimat zhang
+glad to meet you uh now i would like to
+present the mvp of our project
+firstly i will share my screen
+[Music]
+okay
+okay uh
+do you see it yeah uh the application
+was made on android but in the past and
+to do also on ios uh when we uh firstly
+um
+first event we launch the application
+[Music]
+first we want to launch their
+application
+there will be a splash screen here and
+firstly there will be information uh
+about to accept the terms of agreement
+after accepting this condition the user
+gives permission about to use the data
+uh further plans to make information
+about wallace which is our partners
+after that user choose a crypto wallet
+which he will connect uh for example in
+our case it's a popular wallet metamask
+then as we know will be user
+authentication for general example we
+made a secret phrase
+our words such as for example uh
+covers purple
+next
+click this button and there will be
+information about user profile uh
+the main menu where they will
+information about the user balance uh
+his wallet token and on the top and the
+bottom will be an overview of the wallet
+where there'll be information about what
+currencies the user has and in what
+amount
+future in the
+registers
+there will be information about the
+about the receipt of funds or
+values from different users who have
+wallets and what amount uh one of the
+main functions we which we want to make
+is qr with the help of which in the
+future will be improved the technologies
+uh users can pay for any purchase with
+the help of simple application uh
+and the last section uh it's a fantasy
+uh of our team it's a possibility of
+improving and speeding up the process of
+transferring to crypto wallets with this
+application most likely this will be
+possible in the future but definitely
+today this idea will be an innovation uh
+this all works
+[Music]
+okay uh
+thank you uh for
+attention okay
+we have finished
+thank you so much for presentation
+the first question maybe will i ask
+myself so actually how do you plan
+to integrate the octus bridge or every
+scale technology within your application
+guys
+um
+planning to integrate the system uh by
+uh
+by connecting with the wallets uh for
+example partner wallets it will be in
+the future if they will accept our idea
+and
+yeah the cd innovation because
+today we know
+our technology is going to web 3
+website and
+in the future this will be really
+innovation for example uh purchasing
+something with qr it really uh will be
+possible uh we think
+okay uh and uh any plans uh for some
+cross chain functionality for your
+wallet
+um
+if you need this
+if you mean uh about the question
+multiplication or uh manipulations with
+the walls you mean um
+for example we have some uh cross chain
+bridges for example uh
+there are some
+decentralized applications which are for
+example like uh which are connected to
+the meta verses and we can integrate our
+application to the games for example the
+game of the first team maybe
+because right now the situation is uh
+for example in our country we have got
+an application uh which is called caspi
+dot uh he said which uh
+like holds all the uh money uh
+which all the
+citizens of the kazakhstan use it for
+example uh we right now we are uh how to
+say cancelling the
+uh cash money and uh going to the step
+of the uh holding money online which is
+uh web2no but uh no one are no one is
+holding a cryptocurrency in their
+wallets and uh for example before kaspic
+is that will integrate uh these
+technologies there might be
+like many years and if for example the
+platforms or technologies like everscale
+will integrate to our country to the
+countries of central asia with
+its destructionalized networks i guess
+in the future
+it can be a huge market like a new
+market to
+this platform
+okay thank you uh is there any questions
+guys from the audience please
+yeah
+hello
+hey yeah so i just have a question about
+the working process um what was the most
+challenging aspect of putting this
+together for you guys
+to hear us so yeah i swear the
+junior and middle developers of course
+the blockchain technologies are new
+facilities for us and i guess uh
+the main
+challenge for us uh
+is the fact that in our country and
+maybe in the cis countries which are
+previous which were members so the ussr
+uh the cryptocurrencies are uh like a
+new uh market to uh like to integrate
+into our countries and uh
+right now we are totally dependent to
+the for example uh any wallets any uh
+virtual wallets uh since uh in our
+countries there are no uh how they say
+uh like we are the new uh players on
+this market and that's why the main
+challenge is that we are dependent on
+the abroad technologies
+okay okay thank you
+okay thank you guys
+any other questions
+any online questions guys
+nothing okay thank you so much for a
+presentation
+some applauses to you
+so we will make again a short pose and
+will continue at
+12 am
+12 pm
+at the noon belgrade time thank you so
+much
+okay guys we're ready to uh listen to
+the pitch of the next team everscale
+guild who are offline here with us in
+belgrade so guys please take a floor so
+uh here's the camera
+here's a mic so please
+hello everyone uh we're team um
+everscale guild
+um
+our team consists of four people
+us two are front enders
+and we also have
+a full stack developer and the team
+leader
+ilyar
+we also have one designer
+that's our whole team and we made this
+website
+uh so yeah uh our team leader is eliar
+but since uh it happens that uh i'm here
+offline so i will present our project
+um
+so uh this is uh that's how it looks
+um
+[Music]
+it's an app that um
+kind of like rock paper scissors
+it's basically the same but
+uh
+we rename it um so it's slashing never
+write paper it's um
+[Music]
+it's um
+like words from blockchain
+it's uh that's what our
+template
+uh came up
+so
+uh yeah we have um
+our logo our name and um
+a list of uh beds
+so basically how it works
+first we log out
+log into our app
+we did the authorization
+next
+oh
+yes and we also can uh
+look out um we login with our wallet
+and
+[Music]
+we have user one
+for example
+we'll call it alice and alice makes a
+bet
+she chooses either
+rock paper or scissors she um set them
+out of
+coins that she will um
+like pet
+and
+yeah she made a bed
+and then uh another user uh you also
+look into our app and he
+uh see the pets that are currently in um
+in the process and he can uh um like
+make another bet to beat um alice
+and um
+so yeah bob makes uh opposite bed and
+tries to beat at least he also chooses
+rock paper scissors
+and
+next
+oh
+we also
+the main idea was that we could choose
+the wallet
+so it would be the
+cross chain
+relations
+we now have every scale and we could
+could add metamask i'm not sure if
+they are added it already but the main
+idea was that we could do that
+um could add any wallet and
+[Music]
+login and then um make a bet that's how
+it looks in our app so we choose rock
+paper scissors we
+set amount of
+coins and we also
+um
+it might uh
+be another realization of random number
+so uh why we need random number that's
+because
+uh when alice makes a bet
+she
+sends
+her hash with her choice and random
+number and
+it
+generates a hash
+so um
+she sent the hash and bob when he wants
+also to make a bet he see the hash and
+he
+will be sure that it wouldn't would not
+change
+so
+when he uh makes
+another bite um
+the
+the shoes that alice made and the
+original number um
+she she has only um only she has that
+secret
+and
+when bob makes another bet
+um he
+will see that um yes exactly that's the
+same hash and she couldn't like
+is there either way she could see that
+he um
+he would like paper and
+she had um
+rock and she couldn't change it later so
+it would be fair
+for a game
+and yeah so after we click make a bet we
+create a hash
+under hood and
+then the new bed will appear on the list
+that's how
+it looks now if someone click on the bed
+and he will choose rock paper scissors
+like um
+and
+he
+beat it so if
+bet was
+answered so if someone make another bed
+it would appear like uh and green
+and if
+it's
+the bed hasn't uh been uh
+processed by any anyone it's just uh
+alice that make a bed and pop has none
+answered it's in orange
+so um
+after um
+yeah after that's what i just said
+after bob makes a choice alice share his
+secret and pop
+well now if he won or not
+and the coins that was
+taken after ellis made a bet they will
+be transferred
+to the winner
+[Music]
+that's the schema of the our app
+it might look
+a little bit complicated but basically
+what we
+have like alice
+bob
+and
+that's how
+yeah how our server will practice it
+what we
+don't have right now it's a vault well
+where
+we ideally wanted to store uh the secret
+that alice had
+uh now we started in local storage but i
+know it's not an
+ideal scenario
+are we working on it
+so yeah uh alice makes um a bet
+[Music]
+it creates nft and bob then create
+another to
+beat
+alice's bed
+um
+so that's
+basically
+the idea yes
+um
+what we have in our uh goals what we
+want to improve
+i want to yeah crocheting that's uh in a
+process of realization we
+i want to
+like i said to make blockchain storage
+to keep secret
+and
+show who won the bet right now we we
+know it but it's not um we have to
+improve our ui we have to show it like
+um
+to to the user that um
+on front end so yeah
+um
+thank you and uh yeah also we have um
+another platform where we
+test our transactions um it's not on the
+presentation but
+um
+there are
+also um
+we can there also make a bet we can
+answer to it we can
+uh redeem our price if everyone so
+maybe if you would be interested i will
+show it later
+so
+thank you
+thank you guys so excellent presentation
+uh so um same question as to the
+previous team so uh what's uh the value
+of the cross chain in your application
+so how do you plan to use it
+and how your application will evolve to
+give more access to
+your users from other networks yeah
+so
+the idea was that we could
+if we don't have ever skill wallet or
+have any other wallet we can use it to
+make a bet or to beat someone's bed
+so um
+yeah that's was the idea
+and what does
+yeah maybe uh show you some of your
+plans so on uh how you plan to evolve
+this game maybe you have some other
+games on your mind yes yes well uh what
+i had here in the upcoming course uh
+that's uh the main um like tracks that
+we want to improve
+uh and
+yeah we're planning to
+uh develop this project after a
+hackathon um and we want to
+um
+well that that's my importance that we
+want to prefer now maybe um we will um
+um
+ex
+expand the variations that we have not
+not just rock paper scissors
+uh there are many other variations and
+we can use to
+create
+more interesting game
+okay thank you so much guys do you have
+any questions from the audience please
+so can i pick one thank you
+yeah thank you guys for presentation
+again and uh i have planning to realize
+our game application
+um
+even uh when we uh finished developing
+uh like release at summer uh yeah maybe
+yeah uh we'll see how it goes uh i hope
+that we can uh yeah release it uh
+someday
+okay i will wait thank you thank you
+yeah i would definitely play for it
+uh another question please i got two
+questions is it is it your birthday
+today yes ah happy birthday
+and uh the second question is um so if
+two people make bets that aren't equal
+uh can they still play together or what
+is what's the protocol do you have to
+map the same amount uh they cannot uh
+the
+bob cannot
+put like any other value that's uh like
+automatically he put the same values at
+his head
+okay
+thank you
+okay another question uh yeah one more
+question please so bets are made only in
+ever coins right uh right now yes
+okay so when you
+[Music]
+log in by metamask your assets from
+metamask
+transfer to
+swapped to the everest right so that's
+the whole point that's
+how we
+had it in mind but maybe in a process
+we'll
+had some other ideas
+okay thank you
+and how will bets be determined how will
+the outcome of the rock paper scissors
+be determined uh have you guys planned
+on a
+like a model that wouldn't be able to
+people wouldn't be able to
+determine what would be more
+likely to land on whether it's rocks
+papers or scissors
+um you mean how um
+how user would um
+i don't
+for the game itself
+i think is that
+rock beats scissors
+well yeah but
+i guess it's truly uh
+on the people's choice so it's it's not
+generated as i got from the presentation
+not generated somehow on chain but
+rather people select like a real game
+okay okay
+yeah thank you yeah and as i said we uh
+we're planning to add more choices so it
+wouldn't be just free yeah
+excellent
+do we have any online questions
+not now okay guys thank you very much
+for your presentation
+uh and once again congrats with you was
+your birthday
+uh so uh
+we will meet in 15 minutes so the next
+theme and
+so stay online
+see
+okay guys uh
+our next participants uh will be the dj
+hustle team so uh welcome please take
+the lead
+hello hello hello guys thank you so much
+for
+invitation
+let me show the screen from my laptop
+i will record myself from the phone and
+the shorter screen from the laptop
+hold on
+yes
+so did you see my screen
+we do
+okay
+let's go so first of all thank you so
+much for the invitation we have spent a
+really great time by
+doing such a project
+it was really awesome because
+i had such experience like a one and a
+half year ago to spend all night
+in
+project generation so
+uh
+we are a dating hustle team and uh
+in our team we have two participants uh
+i am
+like a product owner and uh my friendly
+ like a creative director or
+like a creative director or
+a product designer and please
+be careful degen means not what you
+think firstly the again means
+centralized generation
+so
+get ready please
+uh
+now the world is already changed
+so uh we are moving from uh
+normal finances from uh normal market to
+d5
+we have a lot of strategies we have a
+lot of chains if you are using defy
+products you are using it at all
+everywhere you are using it in finance
+smart chain in every scale and phantom
+in avalanche etc etc
+and
+you have
+such
+strategies
+so for example if you are not a noob
+you are using defy on
+chains uh with
+some strategy like for example you can
+start with a lending protocol you can
+start with the native assets of the
+chain and then you can borrow some money
+to use it on d5 then you will have the
+strategy with
+two products so first product this is
+landing protocol and second for example
+farming
+and
+now you already need something to
+control it to maintain it so
+i if you also have a lot of strategies
+on different chains you need
+such a tool who will be
+he'll allow you to control the situation
+inside for example you need to
+maintain your position in the landing
+particle for example you need to change
+the pools in farming because you see
+a greater api on different farm farming
+pool
+and
+what you need to maintain
+how how you should just check it how you
+should change your positions and here's
+become
+zapper debunk xayon yield watch but
+all of this is little bit because
+you have a lot of problems inside
+such a projects didn't see your farming
+positions didn't see new farmings new
+pools
+you cannot interact with it you have
+some interactions like zaps so you can
+make the bush transaction but you can
+control your whole strategy
+and here is the calm google sheets
+whatever
+uh
+google sheets is like a
+startup killer in the web too and also
+startup killer and web 3.
+and
+from my perspective i use in the google
+sheets and create
+such a strategies
+it's for me because
+i
+have no any choices i can use zappers
+area et cetera et cetera and uh that's
+because i'm using google sheets and i
+even have an article about
+uh the default strategies and how you
+can control your assets uh by using
+whole shoes because
+you cannot use anything else you cannot
+use
+any dashboards you have no any strategy
+viewers inside the defy
+and
+okay okay so we have only the google
+sheets we have zappers area on debunk
+and what to do what to do if i a
+professional tj and farmer
+or a
+really high experienced defy enthusiast
+and i don't have my
+tool with strategies
+so uh imagine oh this is the next
+picture
+imagine you are
+a kid and
+you are
+playing with a lego so you'll create
+some sense by using cubics and
+you build it by yourself you can change
+it you can
+create it
+inside different environments
+and you're happy so uh
+let me introduce to you the defy lab
+farming strategy builder
+we can start connect wallet but yeah
+yeah hold on hold on we have a lot of
+problems inside you say to me like what
+the farming strategy
+[Music]
+hold on
+non-custodial how it can be
+non-custodial what about the changes in
+strategies for example we will have some
+changes inside the positions of the
+lending protocols and what about the
+updates so
+we need to maintain a lot of stuff
+inside a lot of widgets of
+projects
+and yes
+you're right but
+this is really non-custodial service
+because we will have active auto
+compound where triggers so we have the
+page and the ability to
+trigger the contract by uh any other
+users like
+protocol users or maybe developers who
+create the bots so they can
+just trigger the component
+trigger the contract for auto
+compounding for
+harvesting and
+for maintaining the strategy and after
+the trigger
+they receive some trigger fees
+also we have the governments for all
+beholders
+for example if the strategy
+uh need to change something
+in landing protocol position so we will
+have a status julenium protocol and then
+alternative the farmer
+if you're using this strategy you
+receive the lps so
+and you'll be able to propose
+some voting in the governments to change
+for example the borrow limit inside
+lenin protocol and
+if the lp holders decide to change it
+contract will change and what about the
+projects update so
+we will have the update process
+when
+integrated projects inside this protocol
+will have
+ability to
+just send us the pull requests we will
+review it and we will update
+the whole projects okay
+we can move forward and uh we can start
+so this is the main page
+uh we created the prototype of
+the app when we can build
+your pharmaceutical first thing we need
+to do is connect wallet and read the
+disclaimer disclaimer is a really good
+stuff
+in our d5 rule so this protocol is not
+responsible for your assets and the way
+i don't plan to steal your money we have
+our own money but anything can happen
+and you should agree and sign this
+disclaimer by using your wallet
+after it
+you will
+go into the creative form
+and
+this is a
+long part of my presentation so we can
+start firstly with it and then we can
+check my forms explore forms and
+triggers
+so we can start only with ever volume
+because we cannot start with lending
+protocol
+with any other protocols
+and
+let's start never wallet okay we will
+have it on our uh
+on our desk
+then we can set it
+we put the we push the button of this
+gear and we will have the balances we
+will choose
+the favor
+we can choose like 25 15 percent okay so
+we choose max
+then we are able to
+choose
+we are able to choose any other product
+so for example we will choose the
+landing we will have the landing also on
+our decks and we can draw this line from
+the wallet to the landing after it will
+set the language so we can
+land wherever because we choose whether
+from the wallet and we can borrow dye
+for example also we choose
+borrow limit
+okay
+uh then we are
+want to participate with the farming in
+the strategy so we can take the farming
+from this
+instruments and put it on our desks
+then we can set it
+for example we have the farming pools
+like dire weather weather cube usdc
+wherever etc etc we can have a lot of
+farming pools a lot of projects
+farming here so we have to dive ever
+with 60 percentage epr
+and
+put the buttons there of slippage that
+means
+that
+after the borrowing die we will swap die
+into
+whoever the half of it into whatever
+with zero slippage so we are don't care
+about the slippage if something changed
+okay we also don't care about the price
+in fact if you are using
+one uh
+dex one imm protocol behind this stuff
+uh in any strategy where i don't care
+about any price impacts about any
+sleepage so you should just agree with
+it
+okay
+then we
+want to
+[Music]
+invest our rewards from flat tube
+farming to our pools
+so we are set
+ever pulse
+take it to the desk and we can set it by
+choosing here
+right uh
+okay and uh then we have the full start
+strategy so we have to start with the
+error wallet then we are going to the
+landing protocol to land together and
+borrow diet and we'll go to flat tube
+farming to
+uh
+farm
+and then we
+harvest all rewards swap it into
+ever and earn error
+so after it we can deploy the farming we
+should enter the farming name the
+farming description trigger fee
+and the performance fee because we can
+earn some money
+by sharing our strategy with others
+push the button confirm and deploy then
+we approve everything for new smart
+contract which was created from
+the contract factory and then we push
+the button run and we have our strategy
+so we're now on the page my farms and
+here we have strategies
+this one the first strategy that we
+created we can
+for example
+harvest or reinvest our owner rewards
+because we are creating this strategy
+and we have our owner fee we can update
+a farm we can work vote for for foreign
+updates and we can invest and withdraw
+money also we can check the notification
+and check the whole page to the strategy
+let's check
+here we have a description of
+this farming strategy with some picture
+we can open this hem with some info like
+api apr the number of investors tvl uh
+how much to out the compounded per day
+the profit received risks and the fee so
+you can see your stake here you can
+check everything about your state you
+can even hours harvest the reward
+if the strategy have the reward because
+if the strategy
+uh final step is some staking or after
+compounding you will have no reward here
+only if your owner you will have the
+reward
+of
+this strategy
+okay somehow
+for some
+reason i cannot scroll below
+one second
+let me reload the figma file
+okay now we are able to scroll
+so
+uh as i mentioned before we started with
+the
+uh part of the information for this
+farming strategy then we have the
+strategy update proposal for example
+uh we will have the updates
+like
+behind the market situation
+we can
+for example maintain this strategy in
+one case if you are using the lending
+protocol in this strategy we can change
+the portal limit so for example you
+start with 60 percentage and we would
+like to change it to 20 because of the
+risks and you're like a participant of
+this strategy able to propose an update
+for the strategy
+and all lp holders should vote for this
+update
+if
+that they take the major
+part of the voting
+we will process these changes to the
+smart contracts
+also you have like a strategy owner
+reward
+this
+block will be only if you are the owner
+of the strategy and you are able to
+reinvest this owner reward inside the
+strategy or you're able to harvest
+and some stuff behind it like a timeline
+starts of the apy investors tvl
+weekly and monthly and the risks points
+when we integrate the products inside
+i mean this
+uh
+by by saying integrate the products and
+creating this
+widgets with the products and some
+setting insights on iterating the smart
+contracts inside our protocol uh we will
+set the risk parameters so for example
+if we are using the imm protocol with
+this strategy we will have impermanent
+loss
+risk will have some slippage and price
+impact risks
+uh let's go to explore farms
+you can create farms here or you can
+explore
+farms of others
+corner and you'll see how the
+all major information about the firms
+like epi pr risks investors performance
+fee etc etc
+and here we have the triggers and
+these triggers help us to be
+non-custodial so
+we are
+creating different contract for
+different strategies we have like a
+contract factory inside this product and
+when you set your strategy we will
+create
+the
+different contract for you and everyone
+can trigger that contract for the
+trigger fee
+and
+that's how it works so for example uh we
+will
+be able to earn a little bit more money
+than past fees we will push the button
+trigger
+submit the transaction and
+our contract will auto compound
+everything hovers everything and invest
+everything
+this is an
+mvp prototype which we made
+during the hackathon night
+let's uh move to the presentation
+about the monetization models we have
+the project monetization models firstly
+the performance fee as i said from the
+strategies but for the whole projects we
+will take like uh
+0.5 or 0.2
+from all strategies of all users of all
+assets then you can have the paid
+feature section so for example
+uh some projects some projects will be
+happy to
+pay us
+for future their strategy
+and we can have the enter integration
+fee
+inside the project monetizations for
+example we can take the business
+development behind this project and
+agree with the new partners and
+new projects inside our farming
+strategies to be integrated by some fees
+so we can charge from them like
+enter ticket fee
+also for the user incentives uh user
+will have a
+owner strategy fee so if you create the
+farm you the pharmaceutical you can earn
+the rewards like
+0.1 percentage or 0.2 from
+all performance
+if
+strategy will earn something you will
+earn
+the part
+of all
+also the trigger fee as i said before
+and the uh one of the users saying gives
+high yields from the strategies because
+we have higher api and apr
+behind all of these parts inside so
+our projects brings the value beside
+it's our
+own
+token and bonsinomics
+to be honest for now we have the time
+when we have a lot of tokens a lot of
+ponzis and
+from my perspectives the great projects
+can work without own token because a
+compound can work without talking
+unislope can work without talking
+synthetics can work now synthetics scan
+without talking because we are
+length uh
+synthetics
+so we have the parts of the projects
+which
+are working without the token and
+after it if we will have the value from
+this product we can create some token
+for investors for the users even here we
+have that economic feature because we
+have a lot of user insane tips like uh
+own strategy fee
+we will have uh
+the rewards uh in a strategy we'll have
+the owner rewards and we'll have the
+trigger rewards and uh
+because
+of the projects inside the strategy and
+talking of these projects we will have a
+lot of ways
+how to
+pay this reward and we can
+buy back rapid ever under the hood for
+all rewards and then distributed behind
+all users
+or available to harvest
+and
+that can
+like
+increase the price of
+rapid ever or of any other tokens maybe
+our own token if we decide to create it
+but
+i
+don't want to create it because
+we are
+trying to be a product which
+create the value without depositing
+without the tokens
+and seriously how do we
+launch this product
+so firstly we should validate an idea in
+the hackathon then we should assemble a
+team from the dayton castle community
+that's my community with a lot of d5
+farmers and different enthusiasts that
+we can uh have a grant from the
+ecosystem for mvp then we can pitch to
+funds for the first round like a 2-3
+millions then we can develop large mvp
+collect analytics and calculate the unit
+economics and then we have another pitch
+for the phones to the second round for
+five millions and uh finally developed
+in product piece
+and why way i choose everscale so define
+every scale there is an initial stage
+and we have lower gas fees but the first
+one is a major different initial stage
+because
+we just have
+a few products which we can simply
+integrate and
+then continue our growth with these
+products and
+it will help us easily integrate any
+older products after it
+and
+what did we miss in the prototype so
+we worked
+a lot with my friend we spent all night
+but we missed some features the one
+feature we missed is the setting the
+coffee sense to maintain strategy for
+example
+in the voting process you will be able
+to
+vote in some
+coefficients and before it in the
+strategy you should set it so for
+example the voting can be
+in changing pools in some farming
+strategy or in changing oral limit in
+the landing particle also we are lose
+the entire process of devoting and
+accepting changes because
+we create this user flow
+we will have like 15 screens in it
+also you lose the private strategy
+because uh someone's don't want to see
+they don't want to share
+your
+own strategy and uh
+it's a really powerful feature because
+uh i just saw the opportunities i want
+to create the strategy and
+even we are miss the strategy clubs or
+the strategy groups for example they can
+come together with five or ten people's
+chest shoulder strategy and that's it
+with any other kids also that means the
+assets analytics so within our strategy
+in deep i mean we'll have a lot of
+assets inside the strategy and we should
+have the analytics behind it so for
+example in the whole strategy i would
+love to see
+uh the risk parameters for the lending
+protocols like how much money we already
+borrowed how much money we are landed
+what's uh the collateral factor what's
+the borrow limit just to understand is
+it safe to invest or not
+also build the strategy approval process
+uh we have some ideas how we can improve
+how how we can uh maintain this process
+like for example after
+the
+half a million
+tvl inside the strategy it becomes
+public or we can review it by our hands
+or
+it will have like a voting process uh
+from
+the
+other strategy users
+also will lose
+about five pop-ups
+in our prototype and infinity of
+tooltips because there we should have a
+lot of tool tips to explain everything
+for the user
+and
+thank you so much i'm really happy to be
+a participant on this hackathon
+uh we're
+like
+spent a really great night
+and
+we can
+continue with the questions if you have
+so
+yeah
+excellent presentation guys uh so uh the
+first question is typical so pretty much
+uh like to any other team so uh how do
+you plan to use uh
+cross chain and specifically october's
+bridge in your technology
+and uh
+which specific protocols would you
+target who is it uh we are having no any
+plans to use the cross chain and
+bridge inside this product because it's
+useless
+for this product we cannot create a
+strategy like cross chain strategies
+because we have a lot of problems inside
+for example you can
+hold the money on the on on the first
+chain in the lending protocol and then
+trying to use the breach
+and
+use the farming on the other chains
+if something happened behalf this part
+you will lose your whole strategy and
+you lose your whole
+assets inside so it's really uh like a
+risk factor for this type of product of
+using the cross chain first what we
+should do is the mvp on only one chain
+with like three or five projects after
+it we can think about the cross chain
+but uh behind this uh have a lot of
+problems
+okay
+any other questions guys please
+yes we actually have one question from
+our community
+so
+is there any code ready for digging
+hustle
+this is the question
+is there any training is is there any
+code ready for digging hustle no no no
+we have no any
+codes behind it we have no it helps we
+don't write any line of the code because
+we are participating in uiux perfection
+and
+we have no coder in our team for this
+hackathon
+okay any other questions guys please
+nothing uh okay thank you very much for
+the presentation once again and
+so we will be welcoming our next
+participant in three minutes
+okay thank you so much
+hello mr dj
+okay guys uh so it's now time for the
+next team uh w3u i'm here
+okay i see excellent so go on guys
+please
+okay
+are you with us
+uh-huh
+oh yeah okay
+one second please
+um
+[Music]
+do you see yes yes yes we do
+okay
+uh hello everyone uh today we would like
+to
+show our product called short hub
+we put a lot of work
+this idea was inspired by
+vitalik buterin
+and his white paper about soulbound
+token
+where there is an idea
+the trust is ensured by reputation
+our solution includes several tokens
+reflecting a use of reputation and
+allowing to transfer these tokens
+between
+several blockchains
+via ever skill cross chain
+right now uh
+it supports uh everscale and ethereum
+but in the future
+we will add
+supporting another
+blockchains
+today everybody knows how it's important
+to
+provide end users
+[Music]
+opportunity to interact with uh
+product
+without any problems uh because a lot of
+a lot of projects today
+uh give more attention technology
+than more
+[Music]
+than more interface that's why we create
+a website with convenience and nice
+interface where users easily understand
+how to get their reputation and use it
+on different services of web free
+[Music]
+okay okay yeah
+so
+our product uh right now is just a
+website uh that is like showcase for our
+further
+work and what it does is actually
+uh have the uh like step-by-step guide
+how the future users gonna
+like
+interact with other uh further library
+about the library i'm gonna talk a
+little bit further
+so um
+the um on the website we have like the
+connection of the wallet and uh the
+button that computes the reputation for
+the user for the current uh address
+uh and i guess
+after the reputation is computed he can
+produce
+the
+soul bound token on the everscale
+or and
+further transfer this
+token on other blockchains
+so yeah um
+the next uh site
+okay so what is the actually our
+reputation token um so our reputation
+token is uh actually is a non-functional
+token
+so after the user is
+tapped on the button on the website the
+reputation uh for him is computed um
+let's take a minute and i will explain
+you how we right now compute the
+reputation
+so um other um current uh technology
+interacts with the octus bridge api
+so uh right now the formula is not that
+complicated um
+because it's temporary solution
+and
+how it works it's um
+checks for the address all of his
+transactions on there
+every scale and count their amounts
+and divide them by the old transaction
+he has and this is the current
+reputation
+but i wanna repeat it's a temporary
+solution
+so
+uh this uh
+this number reputation is put uh put it
+into a non-funchable token this
+non-fungible token is our sbt
+uh and um uh
+after the all of this these
+interactions
+the
+svg is finally minted and deployed on
+the network
+on the everscale blockchain
+and
+what user can do about it he can um
+transfer it to other chains i can give
+you a brief example
+let's imagine that we have one
+developer and he builds a product for
+um allowing people
+uh
+uh to
+uh compute their reputation on every
+scale
+so he uh he simply uh
+uh he or she uh connects um our library
+and
+um for one line of code and he can
+easily
+uh compute reputation from uh for the
+user
+let's imagine um another scenario we
+have other developers who
+are working on uh for instance the
+website for landing
+um on ethereum
+uh so uh and they wanna to allow to use
+uh like they wanna
+um only specific amount of users use
+their function functionality so what
+they can do they can
+also import our uh
+library and uh
+like one line of code for instance um
+check the user's uh
+reputation
+sorry it's my cat
+and
+this reputation is
+easily gathered from every scale and if
+it's good then
+they can allow user to use the landing
+if not
+it's not allowed to
+and
+all right current smart contracts are
+written on solidity and deployed
+on the network using clock lift
+i want to talk a bit more about the
+implementation
+uh so um
+um there is one one big problem uh
+because um when the user created a
+soulbound token on
+ethereum blockchain um he
+cannot transfer it to um
+other chains because uh current
+octus bridge not allow to transfer the
+non-functional token
+so we have a simple
+uh hack for this
+uh this hack is um
+like using uh uses the functional token
+so this uh reputation uh is
+from non-tangible token goes to fungible
+token this punchable token is
+transferred to uh another chain using
+octus bridge and uh on the other chain
+um
+we produce a sl bound token this is a
+temporary implementation but they think
+that the next versions of ocus breach
+can allow us to easily
+transfer all bound tokens
+uh
+yeah
+next
+it's really simple other developers can
+um uh implement the connection on the
+wallets and
+import our library this library can
+either
+compute the reputation of the user uh
+and creates album token or it can breach
+uh um
+uh this um uh like uh soul bound talking
+to other chains
+yeah or request from other chain the
+reputation from over every scale
+there's so many scenarios
+[Music]
+okay
+the next slide please
+oh well excuse me for a minute um uh
+timothy can you please uh
+uh
+continue
+okay okay
+uh this is our team and
+right now maybe
+i would say several sentences about uh
+future
+uh
+how romance had
+we created a website and we implemented
+several tokens it's fungible talking and
+non-fungible talking
+but in the future
+we think
+it was
+it will be only one fungible one
+non-fungible token
+and this token
+will be transferred between blockchain
+and uh
+to
+reflect uh users reputations
+um
+[Music]
+maybe
+that's all thank you so much
+yeah thank you
+thank you guys excellent presentation so
+um actually just a small commander uh
+yeah in fact uh octus bridge doesn't
+support the nft transfer for now but uh
+because there are a lot of situations uh
+that you need to tackle uh in terms of
+nfc transfer but we plan doing this in
+the nearest future so it's already in
+development
+um yeah so actually uh my first question
+uh to you uh
+would be
+what kind of scoring do you see
+to check the reputation would it be an
+aggregate score for uh
+for a user or rather it would be split
+into categories
+um i can answer this question please
+um our librarian can be easily uh
+changed
+because other developers can for
+instance pull uh edit pull request into
+it or
+rewrite the whole algorithm for
+computing the reputation
+if other developers think that a current
+algorithm is bad it's bad
+uh to be honest they can easily
+create their work and edit the algorithm
+maybe choose their own apis
+uh yeah
+it's really like scalable solution
+customizable also yeah
+okay thank you uh do you have any
+questions guys
+uh for now we don't have any uh
+yeah uh okay do we have some online
+questions yeah
+okay in this case so thank you again
+guys for your presentation i really like
+the ideas that you tackled on so do you
+have actually any code in place
+yeah yeah we have um the implementation
+of the website um
+so you can check it out or we have not
+fully built smart contracts uh yeah
+and because we have limited amount of
+time but if we like had more time we
+would
+make a lot of like better products okay
+super and do you plan to continue
+working on this project
+yeah it's yeah of course because we
+think that the idea of uh like soulbound
+tokens is um
+really
+right now
+uh so
+like
+um like so great and no one implemented
+actually but we can be the first uh one
+who build it
+yeah it's really interesting excellent
+okay thank you guys again for for coming
+for presentation participation in the
+hackathon so now we will make the break
+for the lunch so and so we see each
+other so according to the agenda
+something like
+2 30pm if i'm strong so uh
+bill great time
+2 pm bill great time
+okay thanks
+okay thank you a lot bye
+okay guys uh so time for our next
+participants uh the identics team so
+guys are you here with us
+perfect hi hi there
+so uh please take the screen and share
+your presentation
+yeah sure just give me
+30 seconds
+okay how much time do i have for the
+presentation for the demonstration uh
+you have something like 20 25 minutes
+depends on the number of questions so i
+would target 20 minutes to leave some
+some space for for questions if any yeah
+that's fine
+can you see my screen yes
+cool so let's get started
+uh first off we are ident xsbt team
+which attempted to create a solution for
+this separate decentralized reputation
+for the ever scale community i suppose
+that uh everybody's everybody heard
+about
+a paper that was published by uh vitalik
+buterin in authorship in may 2022
+on the case of uh decentralized
+reputation on ethereum and other
+blockchains
+where he proposed uh to create a kind of
+uh
+core smart contract which is called
+seoul and to associate with this smart
+contract other
+uh non-fungible tokens
+which called sbt sold bounded tokens
+which can
+demonstrate some reputational events
+that are related to a
+specific person
+so uh we observed the landscape of the
+everscale community and decided that
+okay there is still no
+proper sbt implementation and we decided
+to employ to employ uh vitalik's
+architecture and create
+maybe one of the first nodes but one of
+the first
+blockchain
+solution
+on the sbt architecture so today i am
+going to demonstrate you uh like our use
+case and our
+definition of gun what we really did
+during this uh two days of friday and
+saturday and um what we managed to do
+and what we are going to do with it
+further
+uh so bringing some context to this
+intro to the case of decentralized
+reputation i support that
+everybody understand that uh there is
+kind of a problem in the field of web 3
+where we have said anonymous accounts
+numerous of them and we still do not
+know uh how many real person like human
+beings are using uh
+any blockchain ecosystem including
+everscale
+and that's the problem for
+all investors for all projects because
+uh there are lots of botnets that
+simulate
+like kind of activity economical
+activity uh which can be then used to
+get significant air drops from battery
+services therefore uh like we believe
+that current air drop paradigm is not
+effective uh and we believe that there
+must be kind of
+reputational events which are provided
+and verified by human beings or by
+organizations which can prove that this
+account is real it is not just some kind
+of economical activity which is
+performed by botnet uh like this person
+is real and this person performs certain
+activity that is appreciated by third
+parties
+uh the other point is that uh many
+people in uh the world of web 3 they
+don't have a clear
+user journey roadmap when they onboard
+web3 ecosystem they still do not do not
+know what to do here
+and that's kind of a problem and we
+believe that the system of decentralized
+reputation may create a new system of
+incentivization for these users if you
+understand that if you gain a certain
+reputation uh
+work in a proper way or do something in
+a proper way join dials make certain
+contributions create nft collections uh
+that can be recorded and all these
+reputational events later can be used uh
+by you to get bonuses benefits access to
+what uh clubs or whatever
+therefore we believe that uh like
+decentralized reputation is a good case
+for a
+proper web 3 user journey map
+and we decided to use the architecture
+that was proposed by vitalik
+during our implementation but in our
+implementation we created a sole
+contract which is a controller for
+reputational events for sbts sold bound
+tokens and we created sbts as well we
+created three spd's
+uh like
+these
+contracts were created on the basis of
+uh
+tip four token like nfc token itself and
+we uh additionally created the
+collection for uh these tokens
+uh we did not manage to create a social
+recovery mechanism because like it
+requires several more days to implement
+and we did not um
+prepare for this hackathon in advance
+uh therefore uh like social recovery is
+not something that that we are going to
+do in
+our next milestones
+of the project
+so some words about like our use case
+uh we created a system of uh
+achievements which were received by a
+person
+uh
+in advance for example you used um
+for example octopus bridge or you used a
+flat cube for quite some time and you
+traded a lot and you had a pretty pretty
+good volume so you receive uh an
+achievement from this third-party
+services that okay this soul uh and this
+person uh is really good now like
+he or she uh
+did lots of good stuff in our ecosystem
+or traded a lot or made lots of
+transactions therefore we will uh award
+this person an achievement that like you
+are like dex master or like cocktails
+british master whatever
+uh so the person receives this uh sbt
+slow bounded token which is associated
+to his sole contract and then the person
+imports uh his uh sbt to our service and
+uh the verifier like and and you like
+for example decentralized exchange
+verifies these sbts
+checks these smart contracts checked his
+his soul
+and uh then he allows to perform certain
+actions for on this platform for example
+give the access to a
+like
+huge
+like trade movie limits or something
+like this or from a great
+leverage
+for trading
+so uh in our case like uh sole contract
+is uh pre-issued and you start with sbt
+issuance
+uh like we also like issued uh these
+sbts and then you import it
+and
+like when you import it then you proceed
+proceed with the presenting it then this
+contracts to the verifier and the
+verifier automatically checks uh your
+sbds
+uh we decided to simulate some backend
+logics uh most of the like of the
+verifications and checks are performed
+on the front end and because of like
+lack of time for us
+so and now i would like to demonstrate
+you uh the use case itself and then i
+will proceed with my presentation
+so uh firstly we should uh
+insert here like firstly obviously first
+we should connect our wallet of course
+yeah we did everything on the test net
+okay i connected my wallet but then
+uh
+i should it may take some time
+so please be patient
+then i should insert our sew contract
+address
+you can find it in the test net
+so i logged in with my sole contract
+address and here you can see that
+this verifier requires me to provide him
+three
+uh sbts like that i am experienced
+trader that i am cross chain master and
+then that i am a premium club member so
+like conflict coupon office bishop black
+grandpa's that obviously is just
+fictional
+sbts
+which can be made in future
+and here you can see like like the
+address of the collection
+where you can find this
+spts so
+uh what i'm gonna do next
+uh
+next i'm going to
+import
+uh
+our
+sbts
+so i should insert enter sbt token
+address
+uh and during my demonstration i will
+just import two tokens and mint another
+one
+okay here i can
+just wait for a second
+it may take some time
+because everything is live
+okay
+okay i inserted my collection address
+and here i can find
+nft address and then address for the
+personality
+and
+insert it here
+okay imported the first one
+then
+i'm importing
+the second one
+so when i'm now i'm going to
+add the third one
+let me just wait for a second let's mint
+it
+a private club member
+remains
+okay
+so address
+oops
+remove the keyboard
+sending a message
+so waiting for the fastest test net
+okay
+it's done
+yeah it's here
+so i'm copying the third nft address
+and important so uh here we have like
+kind of automated uh verification scheme
+because we decided to hard hold it
+because like basically this verification
+skill depends on the
+needs of a certain verifier if for
+example this my awesome exchange will
+need much more
+um
+like sbts from various collections not
+from the one collection obviously they
+can
+create their own data scheme and
+this data schema can be performed on the
+smart contract so basically we can do
+everything uh on chain but it is
+something that we are going to do
+in our further milestones
+so uh let me proceed with
+my presentation
+here is like our definition of done sole
+contract sbt insurance model
+sbt collection and like front-end app
+for demonstrating the use case and
+verification of the sbts so everything
+you can find in our github repositories
+and some words about further steps
+we would like to proceed with the
+development of the social recovery tool
+because we believe that it is of huge
+importance uh people may uh lose their
+keys they may want to transfer
+uh like
+some parts of their reputation uh
+but it's not an orthodox scheme for
+vitalik but anyway
+uh
+obviously we want to automate like the
+soul creation because like in this use
+case it is hardcoded but we want our
+users to create uh their their own souls
+in uh
+user-friendly interface without using
+ibs and jsons and
+copying addresses as i did in our
+demonstration and we would like to
+create the verification that data scheme
+uh for
+any um
+like
+ever scale community participant because
+we believe that uh this use case is of
+huge importance and uh that's how every
+scale community may create clear
+incentivization path for uh like
+newcomers that are coming from other
+blockchains and uh that can be can that
+can be a distinctive feature
+that uh
+will move uh every scale to the top
+so that's it some credits to my guys who
+participated in this hackathon um like
+i'm very grateful that they worked hard
+because they expected that the deadline
+will be on sunday but it appeared that
+it is it was on saturdays therefore we
+worked uh the whole night from friday to
+saturday therefore thank you guys it was
+an amazing job i'm really proud of you
+so
+thank you thank you everyone for giving
+me the opportunity to demonstrate our
+use case
+thank you very much so excellent
+presentation guys
+uh so the first question traditionally
+so how do you plan to
+use octa's bridge technology so within
+your product
+well basically we can use octopus breach
+well uh um
+when the oculus bridge will implement uh
+cross chain entities obviously that will
+be the greatest case from my personal
+perspective the greatest case for
+cross-chain reputation
+so we are waiting for this solution
+because uh
+basically you can create sole contracts
+which will be controlled in the rescale
+network and you may create sbts in other
+networks and oculus bridge may
+be a tool for managing this therefore we
+are waiting for this technology stack of
+focus breach
+okay thank you
+do you have any question guys
+nothing so uh thank you so much for
+pitching your project uh
+so
+i i enjoy you joining us this hackathon
+so and we will see each other in 15
+minutes with our next team
+thank you
+okay guys so uh we are ready to listen
+to our next participants uh mycelium lab
+guys are here
+perfect please speak closer to the
+microphone because it's
+very quiet
+okay
+no better thank you
+uh can you see my presentation yes
+um hello everyone my name is emily our
+team presents a project called everboy
+at the hackathon we created nft game
+cartridges
+that can contain chip 8 byte code
+and nft marketplace smart contracts
+also we created a web application in
+which you can buy an nft cartridge and
+play it on our web emulator
+uh chip 8
+is a virtual machine of old
+8-bit games like
+space invaders
+pacman
+our
+target audience
+in the first picture
+we can see game cartridges collectors uh
+like me
+these people
+like new technologies
+retro video games
+game consoles
+they are
+our target audience
+in the second picture we can see a retro
+assembler game developer who post his
+games on github
+and has some audience on youtube or
+telegram
+uh to these people we will give an
+opportunity to sell their games on our
+marketplace
+not only for their audience
+after the packaging is over we will
+start preparing our platform to launch
+to do this we will refine the technical
+part
+uh as well as write old games and create
+new original games
+in order to avoid copyright problems
+uh
+no later than a month after
+the end of crypto inter we will going to
+place our nft games on third-party
+platforms and conduct a marketing
+campaign to attract users to our
+platform
+we hope that the funds
+raised
+in the first phase
+will help us to add online idea and
+high-level
+language compiler
+uh so that more developers will be able
+to sell their games on our platform and
+pay us five percent fee ah they also
+some chains
+of releasing nft cartridges in
+conjunction with nintendo they will
+never pass uh
+up an opportunity to sell old games for
+the price of new games
+here
+you can see our interface
+this is
+our games
+uh
+and uh
+emulator looks like this
+uh then i will um
+i will show
+the demo
+uh
+some features that we're going to
+implement after the hackathon
+uh future you can add emulator frame to
+you web applications that can allows
+users
+to play
+chip 8 games
+when they are waiting for transaction
+confirmation or something else
+this will help users stay on your
+app longer
+i also want to create online idea like
+octoproject to
+[Music]
+chip 8 bytecode which can help
+helps chip 8 game developers
+create test and sell their games
+thanks
+let's watch
+live demo
+uh
+this is uh
+my games
+uh like uh
+tank pacman tetris
+second
+space invaders
+then
+we can see the market
+this is my games but i can buy it
+for example
+let's play
+[Music]
+games
+for example space invaders
+uh maybe
+fun game
+um
+a russian invasion
+here
+we can
+drop the bombs
+for the
+peaceful town
+tetris
+and that is all
+okay guys uh thank you so much so a
+traditional question uh
+so how do you plan to leverage uh
+the octopus bridge technology for
+example uh for your game
+um
+we
+we can
+connect
+uh other
+chains
+uh
+for example fbm chains
+like a polygon
+ethereum
+binance to
+uh
+buy
+nft cartridges on our marketplace
+okay thank you
+are there any questions guys please
+we have one question
+uh well maybe you already said it but i
+will be available on mobile i think
+mobile gaming right now is more suitable
+for these kind of games than
+desktop
+um
+our
+nearest plans are targeted to
+web up games
+and
+old retro games
+but
+we can
+in future create a framework or
+library to swift or
+[Music]
+react native uh
+that can help
+mobile gamers
+play
+their
+nft games
+on the
+mobile platform
+thank you i don't get this right that
+the source code of the bytecode of the
+game itself of these stores inside the
+nft
+yes yes
+cool
+that's totally cool
+uh okay if there are no more questions
+thank you guys for your presentation and
+uh in
+20 minutes so we will listen to other
+participants thank you so much
+goodbye thank you
+okay time for
+another team so eternal labs so please
+come to the floor
+we'll be presenting
+take your ticket mic
+do you need one more
+uh two more
+two more okay i have only two
+so please
+shall we
+uh do you have your slides yes yes
+did you send them to the guys
+yes
+presentation
+i'm not sure
+okay we have technical difficulties just
+a second
+guys please output the presentation so
+you guys will forward
+you can use the hdmi yeah
+okay
+it will be visible
+on the stream
+okay
+okay perfect we see it
+well hello
+uh
+it is nice it is a pleasure being here
+and um
+i hope you're all having a lovely day
+uh we are
+uh team eternal
+uh we come from novi sad and we have
+made adele factory
+uh
+just second
+uh
+shall we come here
+we have made
+the doll factory smart contract uh
+for uh developed for users uh to be able
+to create their own dow
+uh with much more ease than usual
+uh the idea behind it is to make octus
+bridge even more uh decentralized
+by giving every user the possibility to
+manipulate their own dow in their on
+their own accord
+uh the dell factory contract deploys an
+existing optimization contract uh dal
+route thus making integration with octus
+bridge simpler
+uh
+dow factory
+dot sol contract written in solidity uh
+is created based on contracts that are
+already uh
+in the octus bridge
+that it uses and it relies on them in
+order to make uh the root contract
+deployment uh possible
+it consists of two methods uh the deploy
+method uh
+which is the heart of the contract and
+it's based on the platform code and uh
+proposal conf
+configuration struct uh containing
+information about voting its duration
+etc uh and deploys the new down returns
+addresses of the deployed dolls
+withdraw gas is the second uh method
+it use
+if a user wants to
+uh abort the deployment for any reason
+uh gas for deploying the new dial will
+be transferred
+to the address specified in the function
+functions parameters
+uh in the next few steps uh we will uh
+these are the commands that should be
+typed in uh in order to generate
+the desired output
+so
+these two steps
+are
+used to generate the code and save it to
+the dell factory.code file and we shall
+create the api
+and it's going to be stored in the
+abi.json
+dell factory.api.js
+the third one
+is um
+as you can see uh it outputs the path uh
+in the
+path from the input
+then
+it is compiled save to the dollar
+factory tvc and the contract address
+that uh is used
+also
+these are the
+uh next few steps uh the commands uh
+will get the raw addresses uh and uh
+after that uh
+address of the deployed contract
+um
+i don't want to take more of your time
+by looking at this
+uh
+so we get to the dow
+daru deployment
+uh so after the successful uh deploy
+deployment of the owl factory
+you will need to generate the
+platform.tvc file
+in order to decode it and use it for the
+dial deployment
+later
+these are the next few commands that
+should be used to achieve it
+uh and this should be the generated
+output
+uh
+then
+we can go to the next step
+uh dolph uh this is how uh
+uh
+so in these steps we are using the
+ever bitey
+executor
+we will input the address of the
+deployed contract and load the abbey
+file so that we can see all of the
+functions that are available
+in the deployed contracts
+uh in this step we are using the address
+of the dao factory so that we can deploy
+new dao root
+okay so
+here is the
+output when we clicked on the search
+button
+it consists out of
+constructor uh the deploy method and
+withdraw gas method
+we will call the deploy method for
+deploying dow root
+so
+when we click on the deploy method
+there will be
+parameters that are needed for the dow
+root constructor constructor so that a
+new download can be deployed
+so first is the platform quote
+that is the decoded code from the
+platform.sol
+contract
+next is the proposal configuration
+configuration struct
+which consists out of
+the next parameters that are necessary
+for
+deploying new proposal through the dow
+root
+and then when we fill out all the
+parameters we will click on send
+external
+so that
+the contract can interact with each
+other and deploy the new dow route
+and this is the output
+of
+of the method deploy
+and the
+the return value is the address of the
+new deployed contract the dow root
+contract
+yes
+and
+that's about it
+and that's about it okay guys
+thank you so much um so do you plan uh
+on extending this functionality to a
+fully functional so think with
+interfaces and
+yeah yes yes
+we were thinking about
+making the
+interface
+we were thinking about making the
+interface like
+uh
+in the flat cube for creating the new
+custom token
+something like that so that the user can
+input their own
+parameters and just click
+uh deploy the
+or create the perfect will it be
+possible to update the dow
+configuration after the deployment uh it
+should be
+should be okay perfect uh and uh in
+which way so uh this new deploy dao so
+facilitates interaction with uh octo
+bridge
+uh can you repeat the question
+you said that uh this way so we need to
+play your own down so you it will be
+much easier for you to interact with
+octus bridge then so can you maybe give
+a bit more details about uh how you see
+this work
+uh well i see it work
+our our primary idea was to make it uh
+for the
+new octus bridge feature that's why it
+is deploying the dow root contract from
+the octus bridge contract okay
+but
+any user can
+use it for their own platform just to
+adjust
+the parameters
+and
+the configuration needed
+okay thank you so much guys do you have
+any questions
+uh please take the mic so that's our
+remote people could hear as well
+so
+do you
+have a plan to improve your solution is
+after deploy is taking contracts and
+automatically
+configure this
+with
+new dao
+we didn't think of that so far but you
+gave us a great idea
+thank you
+any other questions guys please
+maybe something online
+thank you for excellent presentation so
+uh thank you for uh for your
+efforts and uh so we have uh only one
+team uh left if i'm not wrong so uh
+so let's listen to them in 20 minutes
+thank you guys thank you as well
+okay uh so uh last but not least the
+evereef team so uh we'll be presenting
+as a solution now so it is
+the last of the teams on our list after
+which
+the jury will go for the final decision
+making
+uh
+so
+yeah guys from evereef are you here
+guys
+hello
+it seems they decided not to pitch
+okay let's give give them a minute so uh
+so but in case they are not coming in a
+minute so then we will skip this speech
+and we'll go for decision making this
+case
+hello
+yes finally super i'm here
+please share the screen with us and move
+on
+yeah just give me a second
+okay uh do you see
+yes yes we do
+awesome um so let me start from the
+introduction
+uh my name is daniel i am a ceo of
+evereef
+entertainment application
+that allows to host
+and join parties
+in virtual
+real environment
+so anyone can start their own
+event or party
+uh in any place of the world just by
+using the application that is now
+available on ios only for
+cypriot users
+and
+they
+can earn money and tokens from
+participating those events
+so let's break down the
+core loop of the
+application
+so because of the
+model of the applications it is closed
+so
+not any not everyone can actually um
+register in the application because
+a user needs to have some special qr
+code
+so that he could access the application
+and register himself
+so we have we have example of john who
+is not a user of evereef but his friend
+alex has qr code and he already
+registered in the application so alex
+can share his qr code as an actual as an
+activation link
+to
+for john to join and register himself
+um
+straight after uh when when john joins
+uh the brave he receives one token
+called irv talking don't mix it with
+every scale packing like different names
+so
+at that time john
+owner of qr code he has some special
+costume that allows him to earn tokens
+just just because of um
+inviting people
+from through his qr code
+so how does actually work he has costume
+that is broke
+is broken down into four parts uh first
+part is the head
+second one is body third one is legs and
+fourth one is feet
+uh this is very similar to vulcan io
+application
+on step and move to earn
+but
+in this case
+those four parts of the costume allow
+user to
+increase and enhance the earning rates
+of
+our native token
+so uh first attribute that
+part of the costume has is popularity
+popularity is the
+discount on
+events that user can pick to enter some
+events because we have several events
+arranged so first event can be some
+small party in lima soul
+with 20 people
+and that's it
+and
+second one is closed party only for
+uh very good programmers and it's paid
+party so not everyone who wants to join
+can actually join
+so they need to pay some money so if you
+have very high score of popularity you
+can decrease
+the price you need to pay to join this
+party so you get discount
+so another attribute is accessibility
+accessibility uh allows you to attend
+different events
+so if you have very low costing you
+cannot join
+some uh very good
+and
+valuable events such as
+exhibition of
+like startups if you if you see
+uh
+and you cannot and you cannot join like
+some
+exhibition this elon musk for example if
+he wants to create some room in skype
+zoom or in reality
+so by having the epic
+rarity in costume you can actually allow
+yourself to join this event and
+start earning even more money in there
+so the third attribute is called luck
+this is the
+rev this is the percentage of
+probabilities that you get
+if you want to receive a part of the
+costume
+so once you open the application in your
+city
+and you can open them up and you can see
+some points of event on the map and you
+can pick for example every scale
+hackathon
+so you can press
+join button just like here we have
+exclusive crypto punks for example
+once you once you've joined this this
+application you can now get to it
+and
+start on
+hunting for those costume parts so if
+you've played pokemon go there is a
+special technology for
+augmented reality where you can open the
+camera and catch pokemon in our case
+this is exactly the same
+you can
+actually get some
+very rare item of your costume just by
+opening the camera and catching the uh
+part of the costume
+so the fourth one is littleness this is
+chances of receiving extra event tasks
+so if you want to increase and get even
+more tokens from the events that you uh
+participating now you can
+actually get this if you have very good
+question
+and the last one is durability it shows
+when you would need to repair your
+costume to keep it using
+so those items they they can be
+purchased on marketplace or they can be
+hunted
+on different events just like in pokemon
+you can also upgrade the level of them
+you can increase the
+perks and you can transfer them to any
+metaverse you want such as the
+centerland or any other like it's like
+sandbox and you can use exactly the same
+visual
+uh part of the costume in reality so
+after some time in our future roadmap
+you will be able to
+order the exactly the same physical
+version of the costumes which you have
+on your character in our application
+so let's get back to the core loop now
+we have decomposed the
+costumes
+so once the user joined the event he
+needs to activate his geolocation on his
+phone and press button
+start
+right from this application will um
+receive information about the costume
+user has
+and give him specific hourly rate
+of tokens he can earn while he is uh
+participating in this particular event
+so after the event the ending he can go
+to workshop he can upgrade he can repair
+he can
+make something better with his costume
+and lastly he can decide okay guys i
+want to sell my costume and buy some
+something new
+uh and the loop starts again
+um
+i'm not sure if i can ask whether you
+have questions i don't need to continue
+uh i think that you
+need to go on so and we will ask
+questions at the very end okay no
+problem
+okay
+currently we have two clients
+of this application
+first one is on ios
+we have made it with swift and second
+one web client
+it's react and jungle
+so we
+are looking for
+our teammates we want to
+get more team members in our team so if
+you have some experience so you know
+somebody who can
+create smart contracts or help us with
+any of the
+uh served stock
+technological stack please please chat
+chat with me and direct message me
+uh this this so this is our four
+features that is available now you can
+create uh a party in any location you
+want so let's say decentraland you want
+to create party metaphors you can pick
+any date you like you can make it
+physical like in europe in your city
+with physical joining or you can join in
+metabolism and party there and you can
+make it paid for free
+with 345 years for example also you can
+integrate your entities that you have in
+your wallet now and customize the
+profile
+you can also see
+the statistics of how many array events
+you've organized and visited
+you also can
+chat with your friends
+and join any events on the map or in
+virtual reality
+so
+when it comes to the marketing
+we don't require
+much
+uh spending and marketing because we
+want to go through community
+uh this is why we decided to create a
+task pool mechanism
+that allows pretty one every user to
+take particular task
+completed and receive tokens
+so how it actually works
+we have
+alex who is a youtuber he has 2 000 of
+subscribers on youtube
+and he is in his years
+uh if you
+bring
+100 people
+and register them in every eighth we
+will receive 100 tokens
+so and he asks him asks himself can i
+actually do it do i have enough people
+in my subscriptions to complete this
+task and if the answer is he can pick
+this task he can bring those hundred
+users and he will get a hundred tokens
+to him that he can
+later use in our marketplace
+and further on also we have season pass
+it's a limited time event
+like
+you can just fulfill some tasks such as
+take five pictures of different bars
+become started brave make three videos
+or add five reps to your wishlist so you
+can also receive those daily tasks
+on daily basis
+so
+let's talk about the monetization for
+business
+uh what differs us from the step and and
+vulcan is that we have a more stable
+economic model so we know that
+in step and it pretty much depends
+depending on
+how many new users
+will come to the application and
+purchase their tokens and purchase
+sneakers
+in our case we have reverse model
+because
+we also have perspective of user and
+also we have perspective of the business
+who
+or any host who wants to host event or
+party
+so
+they would need to
+use their resources uh to make it look
+better and unique so they can actually
+uh go and start on selling their
+entities with us for example
+uh they can also create paid rates
+um
+if they create paid rates that it works
+in the same way they if they
+say i can bring 1000 people to the
+application i want to get back
+or sorry 1000 of your tokens and then
+sell it later
+or they can integrate with
+everything and he created custom things
+together and sell further
+uh so this was pretty much it
+because of our application is now uh
+opened and i can share activation code
+with you if everyone if anyone wants it
+we can
+give you some places and spots invite
+list
+if you can earn the highest amount of
+earth tokens and different perks tokens
+after um
+it will last for one month so within
+these months um
+after you start on earning those things
+uh we can give you a certificate
+and top three
+five percent you'll get uh free loot box
+that is worth of um
+from five hundred two thousand dollars
+and uh the rest will get very good uh
+discounts on the white list for the
+pre-sale of
+initial nifty offering
+so um
+our
+road map lays like this we have designed
+the
+mock-up landing page light paper and
+information but we still need feedback
+and changes in case if you have
+something to say or suggest
+we have website website prototype
+social kick-off and ios application
+lounge launching
+and now our task is to integrate with
+people with different bars
+and currently we integrate in different
+high fashion brands
+to collaborate with them such as gucci
+or brother to digitize their items and
+introduce them in a costume manner
+so
+we have some commitments
+from them and now negotiating the
+terms and we will later announce it
+further
+so here is my contact details
+this is my phone number you can use it
+for whatsapp or
+telegram this is our website and
+our email in case you if you are an
+investor and wants to help us with the
+precedent round or you have some
+feedback please
+do not hesitate to message me
+so yes
+okay
+thank you
+uh so actually um
+so uh what's your vision about the cross
+chains about how you are planning to use
+octopus bridge and your technology so is
+it some somewhat useful for your
+application
+uh yes uh 400
+because for us uh current blockchain
+system like layer one or layer two of
+edm compatible blockchains they sort of
+separate islands
+that have their small populations and we
+cannot
+connect to each other so this is why we
+think as if we want to make the
+blockchain available for everyone no
+matter what blockchain they actually use
+and like so uh
+yes
+we would further integrate uh every
+single blockchain to allow
+huge experience for our users and the
+thing is is our model our model doesn't
+require
+require web3 users current of three
+users to join and start on earning money
+no we go through a different way
+we will allow
+anyone who is not familiar with
+blockchain at all
+to start on earning because we
+want to integrate some crypto processing
+uh system payments such as ramp dot io
+or xola and ftg account to allow them to
+purchase it from their debit or credit
+cards in apple pay
+okay
+any more questions guys please
+please
+hey i wanted to ask you where the items
+will be stored is there
+like an in-game wallet or will you
+integrate a surfboard or ever wallet
+um yes uh we will integrate um
+um
+every scale uh no no we will not create
+our custom wallet we will use uh
+another wallet such as every scale
+wallet or metamask
+or any other worlds people use now
+so the owners will have a full control
+of their items
+absolutely yes yes
+okay
+okay thank you
+any other question
+please
+uh yes hi maybe you already told about
+it but where will these people meet
+like it will be a metaverse or it will
+be like just an audience room like like
+a group chat or and
+if it is more than just an audience
+a room or group or chat
+how could they interact with each other
+maybe couldn't can could they show the
+outfit or something like that
+absolutely yes uh because our events
+going to be hosted in
+reality and virtual reality so i live in
+limassol with cyprus and we've already
+initiated several events with evereef
+so we have i.t
+parties over here and some of them now
+we use our application to create and to
+join so this is actual physical place
+it's like um
+cafe and they join there they speak to
+each other and they scan each other or
+like give some talking so
+like talk about their business but just
+they're using uh a brave as the
+application so and it can be and can
+also be a metaverse like something which
+is online
+uh maybe in skype maybe twitch or
+youtube because this is all field for us
+to actually gather together and enjoy
+time
+okay thank you
+thank you
+thanks
+any more questions guys please
+no okay thank you for your presentation
+uh so now the jurors will take uh some
+time uh to
+decide who will be the winners of our
+hackathon so uh
+we'll be announcing the winners and run
+the
+awards ceremony at 5 30 pm uh belgrade
+time so stay connected
+[Applause]
+okay guys uh
+this uh pleasant moment has come
+so uh
+this is the beginning of our award
+ceremony so uh but before we start so i
+want really to uh
+say thanks to all of you so who are here
+with us offline and those who were
+working and participating remotely for
+your excellent work so it was a really
+big pleasure to work with you with uh
+all these days
+i really hope that we will see all of
+you uh at least one more time at our
+next event i don't know yet where it
+will take place but still so you
+remember we have
+the formats that you can participate
+both offline and online
+uh so
+uh all of you know that we have
+proclaimed the
+voting for
+people's choice awards
+on our discord channel so uh we decided
+to give
+the opportunity to the community to vote
+for
+all of your works
+so and now let me announce the winners
+of the people's choice awards
+uh in the track
+cross chain excellence
+the winner is
+cap crew
+[Music]
+okay you can put it here
+we don't have a representative of capcom
+here no don't we okay
+in the track development for developers
+the winner is
+eternal team
+please guys come here
+take your check
+we'll explain later what you need to do
+with it
+okay thank you
+and in the last track
+ux ui perfection the winner is 13 lab
+[Music]
+cool thank you everyone thank you
+our passionate community who have voted
+and we were monitoring how is it going
+so it was really better you know than
+the
+cockroach race
+when you put stakes
+on each player
+okay so
+now
+we would like to announce the winners
+of
+our main main challenge
+so and we will start
+from the track development for
+developers
+the third place
+goes
+to the w3u team please
+[Applause]
+hey where's the music
+okay
+the second prize
+goes
+to the identics team please
+guys where's the music i want to hear
+front fires
+okay cool
+[Music]
+[Laughter]
+[Music]
+and the winner
+of the track of development for
+developers
+is the eternal team
+guys please come again again
+[Music]
+say to us a few words
+please
+just a second i will give you the mic
+what are your feelings uh this was
+really really amazing experience and we
+are so happy
+and there are no words to
+explain how we feel right now
+thank you very much okay cool same thing
+same thing
+okay guys congrats once again
+okay
+now uh the track for ux ui perfection
+so it was a challenge there were quite a
+number of teams who were competing in
+this track
+uh i will start from the fifth place
+actually five teams appear to
+register on this track
+the fifth place goes to satin lab
+the fourth place
+goes to ever ave
+now we start coming to the most
+interesting part
+the third place
+goes
+to everscale guild please guys come here
+and as you are here safely
+hello hello i want to thank roxas team
+for organizing this event i'm really
+thankful and all i also want to thank my
+mom for sending me the link
+of the hackathon
+cool
+yes it was a very nice experience i
+met
+very cool people so thank you guys
+thank you thank you for participation
+and happy birthday once again yeah
+okay
+the second
+prize goes
+to the mycelium lab
+guys are you here with us
+still yeah yeah i see you they are happy
+you're happy
+do you see your price yeah here it is
+yeah say a few words please
+it's a great honor to be here and
+participate
+[Laughter]
+i would like to
+thank brooks's team and my teammates
+also i appreciate a lot of the other
+teams incredible projects
+congratulations to all
+thank you
+and congratulations to you
+and the first place in the track ux ui
+perfection
+it goes to
+digit hassle
+guys are you here with us
+seems no
+okay okay well done
+okay so we have only one track left
+which is a named uh cross chain
+excellence
+okay let's put it here
+uh and it so happens that we have only
+one team that managed to stay until the
+very end although quite a number of
+teams has tried but i understand it's
+complex tasks the most complex of
+everyone uh so the winner of the cross
+chain excellence track is a cab crew
+so hello yes hey here
+uh
+uh uh can you hear me yeah yeah we can
+to be honest i have a lot of to say
+because this hackathon was the first
+time was the first time when i
+show our project
+about game nft pixel pixody
+and
+i wanna
+say something especially
+uh big thanks to broxus for organizing
+such hackathon
+and what is more important
+uh
+in such time when you know crypt is
+going up down
+some questions and so on and
+actually in this time it's very
+important to hold such events
+and
+i want to say for everyone that
+despite everything now one of the best
+time to
+create your projects
+don't give up
+and if you can plan your business model
+your economy of your project
+uh to be alive in the in such time
+you can be sure that when it will be a
+little bit better
+you you will be
+uh successful for sure
+and the last uh but not least
+big big thanks uh to our team
+to our great design developers
+because
+you cannot do such thing only by
+yourself
+that's why big thanks to organization
+big thanks to brooksus and
+let's go
+thank you thank you so much
+this is the end of our official part for
+this event so and i also want to say
+thank you not only to all participants
+guys you are great and uh i'm really
+grateful to you that you managed to come
+here and spend you spent your time to
+participate in our small challenge but i
+also uh want to say say thanks to uh
+brooks's team who made this possible i'm
+just a speaker he has talking heads so
+you know
+and all the work is done by the guys who
+are just hiding out there so
+eugene anthony
+boss alexanders dmitry brian lily and
+all other guys who uh have helped uh to
+make this happen a special thanks goes
+to dunya who is our local event manager
+who
+managed to organize all this stuff and
+of course to our brilliant sound team
+who made all the communication possible
+to our photographers and video operators
+who will later
+publish a lot of nice footages from this
+event
+i don't say goodbye so because we will
+see definitely once more and i also want
+to remind that today
+for those who are in belgrade uh we have
+a closing party uh at 8 30. so
+please check the notification on our
+news channel there is a place specified
+on google so see you there in a couple
+of hours just to enjoy and relax finally
+after this challenging few days
+thank you once again
+[Applause]
+and finished
+great
+[Music]
+but i can't help but hide my suspicion
+cause it ain't quite as dumb as i see

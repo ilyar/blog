@@ -1,0 +1,1612 @@
+don't quote me though
+guys
+hey alex from sigma
+hi having fun
+hey
+no
+no spend this time unfortunately
+but it's kind of fun
+maybe later tonight
+have fun
+no on a serious note it's about two
+times bigger than last year i see my
+dubai
+so um
+maybe
+i know
+roughly two times bigger so it's
+interesting i probably should have
+sponsored them
+that's good that's excellent
+cool
+all right look um
+we've got uh let me make sure we have
+everybody that we need
+got darkwing we have john
+yeah i think we're good okay all right
+let's uh let's start
+um yes
+clear my throat
+uh hi everybody welcome to everscale
+community call number 96 thank you for
+joining us and we have yet another uh
+stellar lineup today so we're gonna hear
+about uh nft
+standardization i think uh everybody saw
+that in the uh the uh announcement
+um we have quite
+a few uh
+africa ever scale projects and use cases
+that are going to come up which i'm very
+very excited about and we're going to
+hear an update from everscale academy as
+well uh so yeah uh it's going to be good
+before we get started i'm going to do my
+usual repetitive
+blah blah blah but you know for anybody
+that's joining us maybe for the first
+time maybe on youtube and doesn't know
+uh want to make sure everybody's clear
+so unless you're um
+unless you're churning butter or milking
+a bull uh and this is by
+a reference uh to a movie called kingpin
+if you haven't seen it you should see it
+it's really really funny anyway um
+please turn your cameras on we'd love to
+see you
+uh please save any questions you have
+until each presenter is finished
+uh please use the razer hand feature in
+zoom to do so if you're on youtube
+please leave your questions in the
+comments section we'll get to them at
+the end
+and of course yeah we always do this in
+english so um just before we get started
+though i do have a small little uh
+comment i want to make
+there was some uh discrepancy uh about
+the dune swap
+uh so
+i posted a comment in the main chat
+saying that basically it's on hold which
+technically that was
+was past tense correct
+uh but immediately after it was
+rectified uh a road map was created so
+everybody
+from the dune community
+panic not
+uh everything is going to be just fine
+the swap is going to happen
+and the road map itself i believe is
+going to be published and announced
+very soon i mean i've already seen a
+draft so so not to worry we're moving
+forward the problem is solved at least
+as far as i understand so yeah my little
+um my little two cents okay uh let's
+begin uh the way we always do with
+technical updates from mita peter if
+you're ready
+yeah i am ready do you hear me well
+i do because i'm in the middle of uh
+anyway um i'm in belgrade now actually
+meeting some team members here for uh
+that so we have been relocating to
+um to more quieter to quieter places so
+anyway as you all know
+we had rolled well no not all but the
+validators now we have rolled out the
+update
+which did two things
+first of all it fixed the the shard
+that has stopped
+uh on sunday
+and um
+but uh apart from that we also like it
+was actually a big update that we
+prepared for a long time that i spoke
+about
+and
+this update contains a huge amount of
+actually stuff like the
+penny cast
+fixes and uh
+several instructions to tv and new tbm
+instructions like my code and uh init
+code hash instructions and
+zero trif instruction and um
+zero three oops sorry
+did i did you lose me no
+no no no we can hear that okay yeah so z
+zero zero three f and zero three two and
+zero three four naught and zero three if
+not two and zero
+swap if and zero swap if two and zero
+swap if not and zero swap if not two
+um
+so yeah
+then
+um we will release a
+special documentation about all of these
+instructions and
+then
+we also changed an account format
+and
+there has been a compression um that
+everybody was asked about uh introduced
+in this release
+and the
+set lip code and changelip code was
+disabled which uh
+library stuff and
+some fixes for validator are not
+validating and some fixes security fixes
+on the adl
+uh and so on so
+these um has been delivered the shards
+have been fixed because that was also
+part of the security updates anyway so
+it fixed this as well for unica for any
+cost
+and uh like by the way
+um now
+all of this
+so some of these are activated already
+like zero
+uh instructions that i have uh mentioned
+and uh some insecurity fixes and uh
+disabled of lib codes and stuff that was
+have been activated and some of them has
+not been activated yet
+like uh like my code and they need code
+hash instruction and the account format
+change and traffic compression has not
+been activated yet we will wait until we
+we need to wait until the network is
+passed to release like block version 20.
+so block version 21 block version 22
+that's what we want to see
+um like more than 90
+something percent activated once it's
+done we will activate these features
+because these features are incompatible
+with everything including of course cpus
+plus node but also
+including
+up to version 20
+of the current snows there are some
+percentage of validators still running
+version 15 and 16s and whatnot
+so i don't know how to make it very
+clear that they actually you cannot do
+that guys like you need to update
+the network
+so um
+yeah so
+bottom line waiting for
+network to upgrade to propagate
+and
+then we will activate all these
+excellent features extensions and some
+and more stuff so yeah
+that's all from me i think
+thanks a lot
+thank you mita uh we have a question or
+a comment from
+uh ben
+hey guys uh yeah just a quick one nature
+um a couple of people have uh noted in
+the telegram chats recently that the
+number of validators has seen a little
+bit of a drop off uh is this due to in
+layman's terms i'm kind of asking for um
+is this due to like you say people not
+updating would you say
+no
+no and
+it has nothing to do with me
+um
+this is a governance
+change that has been done
+to exclude some malicious validators
+again
+i have nothing to do with that
+i didn't vote for this
+so you need to ask
+the global governance for
+explanations about this stuff not me
+okay and it's not related to technical
+stuff at all
+i also know that a couple of uh the
+nodes went down uh in the uh uh from the
+uh uh france folks the dune folks
+but we're working on actually fixing
+that now
+so
+yeah
+excellent excellent thank you
+okay um next uh we have uh john canery
+uh from everscale africa and uh
+and darkweed and lexi from
+uh everscale academy uh
+and i think i mentioned earlier there's
+a bunch of projects that they're doing
+uh there's uh
+something called the logic link exchange
+which i guess is still beta but uh it's
+going to
+bring on uh things like m-pesa to
+onboard new users table banking
+uh they have their own native token
+called the uh is it the shuja shuja
+um i
+understand it's an arabic word for hero
+yeah arabic word for it means brave or
+hero or something like that and they
+have their own nft marketplace starting
+called imara so um uh john and i chatted
+a little bit i think john is gonna start
+first and darkwing you're gonna follow
+up right that's that's how we're going
+to do this so yeah yeah
+thank you ron
+uh thank you for giving me this
+opportunity
+uh the basket community
+to present to you our projects for
+africa
+in this presentation i will demonstrate
+our intentions that are in progress some
+complete and others in developmental
+stage
+the main motivation
+being to engage
+in specific endeavors
+based on research on requirements of the
+african community
+the activities
+and
+we wish to also upgrade those activities
+and offer a trustless platform
+to be used by the intended audiences
+it is our hope also that uh whatever we
+are working on
+will be of our great or immense benefit
+to
+[Music]
+the eva scale global community
+so i will
+briefly share my screen
+and be able to
+present to you guys and show you what
+you are doing
+please
+yes
+uh
+it's still blank i think
+maybe some problem with connection john
+yeah
+are you able to see my screen
+we see that yours you were wanting to
+share but it's still just
+uh black with it
+just has uh it says has started sharing
+the screen but we don't actually see it
+if you wanna you can maybe try to send
+me
+your part of presentation maybe i can
+try to share
+just an option
+yeah
+maybe it will work
+okay
+i'll just try to log in with another
+machine uh
+just
+[Music]
+um
+do we want to maybe uh just shuffle uh
+the presentations maybe we start with uh
+what the next presentation would be in
+the top never mind there we go i think
+we're seeing something
+that says not respond uh we can uh
+can maybe
+okay
+yeah um
+maybe alex you can go first uh okay
+uh
+okay uh i can start with the second
+presentation and then you
+uh
+will share no problem okay
+okay
+just just a second i will share the
+screen uh please can can you please uh
+turn off your sharing and i will share
+uh can you please oh yes thank you
+okay
+um
+just a second just
+okay
+uh
+okay
+uh yes let's start with uh presenting at
+the african ft marketplace in mara
+so uh it's a
+marketplace which actually just a second
+[Music]
+some technical
+problems today
+um
+okay do you see my screen yes
+yes
+yes great
+uh
+so it's a nft marketplace which is
+created for african artists and painters
+and everybody who want to create
+something great for africa and place it
+as nft
+i will briefly show
+some pages from
+this marketplace its
+main page
+its
+explore page by the way part of this
+page i think all this page uh are now in
+development and by the way
+uh
+we have already published it uh on uh
+domain uh email.space uh but after we
+will
+test it after we will test all mechanics
+we will officially publish it uh in
+every scale groups and invite everybody
+to test it finally
+uh
+so
+yep just some pages uh to show you user
+profile
+design uh the design was prepared
+special uh was prepared to
+show
+some specifics of everyone art and so on
+so what is domain uh it's uh that will
+use a native suggested token
+on
+marketplace on any marketplace too and
+by the way one of the
+idea which we
+which we are currently discussed that uh
+you know that is the problem that is the
+usual problem when for example you need
+to decide uh somebody
+place some bad picture in on your
+marketplace and you need to decide
+delete it or not
+to solve this problem
+we discuss it and propose to create uh
+something like dao
+actually dao
+uh
+with this uh token
+and
+um token holders
+will decide what to do for example like
+in process and i'll we will create
+proposal for example delete this item
+because of these this and this
+and uh with dao we will decide to delete
+it
+or not
+uh current roadmap that end of march we
+will uh
+fully uh finish the developing uh
+developing stage
+uh enable in april for usability test
+and beta test
+may officially for production release
+and also in the on the may we will start
+promotion
+and user attraction it means marketing
+and all our stuff to attract more and
+more users create something on this
+smart place
+uh and just some little sentence to add
+from the from me uh
+that
+we are looking and waiting for
+uh
+nft officially uh
+nft standard from everscale community to
+use it uh on this uh marketplace
+too so i can say
+welcome to amara african nft marketplace
+and
+soon we'll we will
+publish
+this marketplace for testing for
+feedback and other stuff
+and i think it will be
+really great project especially we can
+attract
+more
+uh
+more people from african countries and i
+think there are a lot of artists there
+thank you
+that's fantastic very good very very
+good so you're actually going to have a
+consensus uh based on uh people who hold
+your tokens to decide whether or not a
+uh
+an nft is is worth going
+up for sale or not
+yeah i think that dao is the best way to
+solve this problem when we need to
+decide is it proper or is it proper or
+not and i think that should you talk and
+that our suggested token can endow can
+solve this problem and it will be more
+more technical and more interesting
+okay um john uh are you ready
+yeah yeah i'm ready sorry about that
+that's okay that happens
+uh just a second i will
+stop my sharing
+[Music]
+interesting
+oh i know
+okay
+okay thank you
+thank you john
+yes
+yeah
+okay there we are we can see it
+yes so
+uh once again i apologize for
+the technical mishap it's okay
+technology is never perfect
+yeah
+so um
+ever scale african projects are as
+follows we have three
+categories as at the moment
+one is a local exchange
+that is uh m-pesa power
+second is a table banking it's a digital
+type of banking platform
+that is meant to on board the unbound
+and the branch of course
+then we have the nft marketplace which
+was to come the third presentation but
+had to be
+done before this one
+so those are the three projects that we
+are we undertaking
+as uh evascal africa
+so the
+details and features of the local
+exchange are uh m-pesa integration
+uh which is a new feature and it's rare
+i think i've only seen it on binance but
+not to the extent that you are doing it
+because in binance they are doing
+registration of merchants who are and
+better traders
+so as the exchange itself is uh
+is an m-versa registered
+uh trading platform
+from the service providers called
+safaricom we have a bulk steel number
+and
+when we make our videos we'll explain
+this uh further
+through youtube
+the exchange also will have uh the
+normal asset conversion and trading
+an escrow service to link the users and
+the merchants
+and custodial wallets
+we also have
+some
+population in africa without smartphones
+so we have the ssd message code that is
+given by the
+sim card and the
+phone and then there's a transaction
+providers
+the application that we have
+developed is
+i can i've gotten some screenshots from
+it so that it will be easier and faster
+for me to
+uh
+present today
+so this is how the login page looks like
+it's not fully developed graphic-wise
+but uh from the technicians and the
+developers they they've been able to
+produce this
+for demonstration purposes
+uh we have the
+normal login
+uh
+and
+we shall begin the testing phase later
+next week
+and hopefully launch
+visa product by april
+our dashboard
+looks like that
+it has
+these particular tokens that are here
+to start with
+we have the on the left side we have the
+dashboard which shows you your wallet
+balances your deposits total withdrawals
+and normally what an exchange does
+the second item will be the table
+banking
+which
+will be a major part of this i'll
+explain it in another slide
+later on but generally this is how
+the assets are displayed
+the prices are in real time and updated
+uh on the second on this uh screen we
+have
+the invesa
+integration part
+now we can deposit
+crypto assets normally how we do from
+external or from within
+but now we can be able to buy
+crypto assets you can buy e-box you can
+buy
+usdt you can buy bitcoin directly from
+your phone
+so for the mps are registered users
+they can be able to
+uh just put a figure
+and send from the system which will send
+a message to their phone
+and they will be able to deposit money
+to the
+bulk steel number for logic click
+exchange
+and the tokens will be automatically
+credited into their wallet
+uh withdrawal will still be the opposite
+of
+deposit you can be able to sell your
+assets
+and receive money
+through the investor and this initially
+it's uh the phone and sim card
+together so you'll be able to get
+your
+uh your funds your fiat currency
+on the phone
+once you you create a
+withdrawal
+another feature that we have for the
+exchange is something called merchants
+it's a merchant uh platform
+so you can register the much and
+sell your assets
+at a premium
+a premium price
+will be registering you on this platform
+so that
+you can be able to sell
+uh your assets
+to willing buyers who come to this
+platform and mainly
+uh through an escrow service
+that addresses the
+transability between
+the seller and the buyer
+we also have sorry we also have now we
+have the buyers
+registration merchants and we have the
+sellers so the people who are buying can
+register as buyers in their system
+advice assets at a discounted price of
+cost and they can be able to set
+themselves up
+and sell at the same time
+uh we also have the normal assets
+conversion
+from one currency to another
+the platform is able to do that
+we can be able to transfer
+the assets
+directly from an external wallet to our
+wallet from
+our wallet to an external vice versa
+now a little bit of a table banking
+which is uh the second product
+in production
+uh
+i'll explain a little bit of what it is
+and how it works
+now uh table banking is investment in
+groups where a group of people bring
+their funds together and
+save to do some some some kind of
+project
+they can decide to bring money monthly
+and give it to one person
+these are practices that are very common
+in africa
+so we decided to create a
+platform a trustless
+platform
+which members can actually transact
+without actually meeting and
+we are laying down the group membership
+platform
+how an administrator can create those
+his members
+how he can
+be able to create rules for that group
+uh how uh
+a group a specific uh investment group
+can get funding
+and how we can
+deal with the escrow service
+holding securities for investors who are
+investing in this group
+we also have a section whereby we will
+be collecting
+data from our regular users
+and give them a credit score
+which
+other financial
+investments
+groups would like to know
+about creditworthiness of some
+individuals will be able to go for that
+we also look at
+the point of
+investments from these groups because
+they will be saving a lot of funds
+uh how they can be earning through
+staking and other auxiliary products
+that will be unleashing and uh table
+banking
+on the final part on my presentation uh
+all these platforms uh will be
+inaugurating a
+native token to
+be used within the ecosystem
+so shija will be on board and this will
+be a utility
+ecosystem currency
+of course we'll have uh evas in it we
+tend to create a
+pool for it and uh
+currently we are in discussion on the
+economics
+and we hope that it will be an
+additional investment avenue
+for inverse scalar network users
+uh
+i was to introduce image but of course
+mother has been presented so
+my
+presentation comes to an end uh thank
+you and i apologize for the technical
+digits
+no worries at all john no worries at all
+it happens all the time believe me
+if everything isn't
+just
+i it was fantastic uh let's see um
+does anybody have questions i don't see
+any hands raised uh
+i don't see anything on youtube but i
+think people will likely
+write wrong
+can i ask one
+you can of course of course
+john first of all thank you very much
+it's amazing alex of course uh what kind
+of help do you guys need from the
+community from
+are you 4k
+or foreign
+well um i know maybe you would refer to
+the funding part
+um
+at the moment we're able to get
+local investors
+at the expense of getting uh
+the projects being centralized so that's
+something that i'm trying to avoid
+uh people funding and
+owning their projects
+it's something i have to god but uh we
+have agreed with the sub governance that
+uh despite
+people funding us
+to run the campaigns
+uh we will once once we launch we'll be
+able to go to d5 alliance and try to see
+whether we can get funding
+for the marketing part and roll out of
+the project itself
+[Music]
+yes i'm done
+make sense you can take a look at the
+grounds
+that the defy lines is doing as well
+uh so that's one of the
+yes
+alex is going out a little bit so yeah
+yeah yeah absolutely i think uh an
+application to the grants program here
+would be absolutely fantastic and uh i
+would
+personally
+say good
+i will do it we'll do it we'll be there
+yeah yeah
+that that's your that's your access to
+funding
+yes
+john thank you so very much thank you
+excellent presentation very interesting
+stuff
+very very
+just just fantastic things all right
+okay um let's move to our next presenter
+and speaking of nfts uh everscale uh has
+been working on nft
+uh
+something will be out very very soon we
+brought marina back with us from it gold
+and i guess uh marina you have a little
+bit to share right
+that's right hi everyone nice to meet
+you again well perhaps uh you know that
+the community did not accept the nfc
+alliance proposal but
+life
+goes on we continue to work on our
+primary goals and as ron already said
+for almost two months
+nft alliance uh was working on
+implementation of the nft standard in
+everscale
+why is it uh because everscale is as an
+asynchronous blockchain
+uh never
+adopted any standards for the nft and
+uh the ones we have in other networks
+are not effective in this case
+so the task was to discuss the existing
+established practices and develop a
+solution that considers features on our
+network
+representative
+uh representatives of itigold grand
+bazaar scale punks broxas tonium and
+other active community members attended
+the discussion in the working chat in
+telegram and a document containing the
+nft standard and three substandards
+became the result of this
+friendly cooperation
+around may i ask you please to post two
+links
+to alliance github and general
+documentation from
+our
+chat and zoom here for our youtube
+audience
+i'd be glad to right
+well guys let me briefly
+go through the main points
+of the standard
+um
+the tip 4.1
+non-fungible token in general
+the standard which describes working
+with nft creating managing and
+eliminating it
+the implementation of this standard is
+the minimum sufficient condition for
+creating
+your own
+new and ethical actions
+the
+substandard tip 4.2
+which describes
+the
+storage of json metadata in nft
+everscale did not standardized
+the storage of the content component
+before
+and each team made its own decisions and
+schemes and we've considered the minimum
+necessary data set that will allow to
+refuse reuse nft and display it
+similarly in different browsers
+uh that's what
+uh tip 4.2 standard is about
+um tip 4.3 about on-chain indexes it
+describes indexing of nft by indexes in
+the blockchain for a quick search
+of nft in collections and among owners
+following this standard simplifies the
+search of new collections and nft for
+existing and new explorers of the
+network
+and at last tip 4.4
+on chain storage this substandard
+describes data storage inside work
+chains
+following this standard will allow
+storing data inside the blockchain
+making it resistant to value of services
+and at the moment the technical
+limitation of the network
+allows storing not more than four
+megabytes but i hope this will be
+um
+larger soon
+well
+um
+the next
+goals the process on the standardization
+are to further development of the
+standard and transferring
+all nft alliance members products to
+this standard there will be also a
+possibility for users to upgrade
+previous nfts to the new standard
+and of course grand bazaar io
+will be among the first to support the
+standard
+then we are going to create
+uh some tools for convenient landing of
+new developers in nft and game five
+sectors
+and of course to support these users
+and
+have to say that we also plan to
+standardize connecting wallets to
+off-chain solutions
+that is why the next go for the alliance
+development team will be
+what we call ever connect
+a technology that will allow all the
+products and websites markets on the
+network to support a single standard of
+operation regardless on which wallet the
+user uses
+it will be challenging and uplift
+because it is necessary that all wallets
+support the technology but first
+negotiations have already begun so i
+believe it will be fine although it will
+take some time and
+that's all from me for today guys thank
+you for listening
+maybe any questions
+thank you marina thank you very much um
+yeah um and you know i have to admit um
+sort of know what's going on over there
+so uh
+yeah we have a couple of folks that are
+friends of ours that are that are also
+helping so yeah fantastic um i'd
+actually i actually expected a lot of
+questions to come up and
+surprisingly i'm not seeing anybody oh
+okay um we do have one from youtube and
+since we don't have too many from
+youtube i can ask it now
+um
+uh a gentleman asks can you please show
+the code
+or interface
+of
+nft
+and then he says oh i didn't notice
+thanks okay
+we definitely can show the code in
+github so please welcome i uh i believe
+that um yeah i i put it in there
+so yeah
+answer this question
+uh enter the chat
+um
+if you need it really we have several
+groups and telegram where you can find
+some information on the standard and get
+some news and maybe ask
+admins privately about
+any information you need we will try to
+guide you
+welcome
+thank you very much marina thank you
+bravo
+very good
+okay
+uh
+all right let's uh let's move on uh
+we're gonna go back to darkwing uh who
+started us off uh
+about the goings-on at the everscale
+academy and i have to apologize to him
+personally because uh he's been trying
+to get a slot for everscale academy on
+the call for several weeks and and by
+the way this is
+a really small thing for everybody else
+if you have anything that you'd like to
+present on the weekly call you can just
+dm me uh at ronmelo and telegram that's
+at r-o-n-m-i
+if you want to present something we'd
+love to have you we'd love to schedule
+you ahead but right now we're like
+backed up like a couple weeks ahead of
+time i mean i can tell you that by
+tomorrow we'll probably have everything
+locked up for next week so um so please
+yeah we if you have something you want
+to say don't just sit in the background
+come and you know come and tell your
+story say what you want to say bring
+your project bring use case bring
+whatever um this way everybody knows and
+uh and so forth so anyway um
+darkwing
+everscale academy
+yep just one second
+i will share my screen
+again okay do you see the presentation
+yes you see the presentation
+yes
+uh so yes i will start uh this
+presentation with um
+use case and especially use case how we
+plan to organize the work with courses
+[Music]
+so
+we plan and actually have now three user
+types it's a student teacher and then
+[Music]
+and each
+has their own user flow
+and how it's so how it's happened uh
+happens so teacher plays a course for
+evers we take about uh 15
+for placing the course by the way we
+will discuss it this percent with uh
+other academy members one more time
+tomorrow
+and uh we take uh two hours uh for
+every of for
+every enroll for every enroll to meet uh
+nft certificate for their
+students
+uh because we decide in in the academy
+we decide to make a little partnership
+with grand bazaar and now uh with them
+we will try to make a nappy uh and by
+the way it will be it will be useful for
+both of us because they can use this
+this fee for other partners and we can
+use it to
+demonstrate
+you mean api right api yeah api api and
+we can use to demonstrate the
+certificates on our website because now
+it's i free
+uh by the way
+uh some days ago we start to meet
+certificates and transfer uh them to the
+students
+and i think it's good case because
+from this little step finally we can
+test the
+concept that only entity address
+can be approved
+for
+for somebody that
+uh students really take uh this uh
+course
+so uh from sorry uh so uh for the
+student it will be easier find the
+course buy it forevers complete the
+course and get nft uh certificate
+and about the admin uh
+path
+uh
+i like i like the idea of dao
+and by it uh by and i think that in the
+academy we will discuss it it's
+currently on discussion on the on
+discussion but uh also creating some
+doubt and one of the point why i like to
+create the dao it's to
+decide um
+just to decide is sample core is some
+course good or not
+okay
+uh here i described the
+the total use case
+create course we check it
+all the steps
+uh
+energy certificates available only in
+paid courses it means the teacher must
+create
+just a course for one ever to
+share
+certificates
+uh also uh
+about academy that
+academy and especially our advisors like
+kenny murros of uh try to use every
+opportunity with help for proxies and
+debriefs and uh
+as you can see here
+we especially evgeny participate in
+number of
+conference
+for gba in u.s
+and conference which organized by gba
+by the way some presentation of this
+conference you can find on the website
+in the
+presentation page
+so
+i will try to make it
+more shortly so uh academic token yes uh
+we create academy token which is called
+academy and yes the economics uh now uh
+discussion but uh we plan to use it uh
+to use this coin for dao for payments
+and for locating budget and academy
+maybe two
+[Music]
+there are some ideas that guinea
+proposed that terror scale foundation
+creates the academy endowment as follows
+you can see some points of this
+endowment
+and finally
+[Music]
+the now ecosystem
+includes and will include such resources
+like error scale academy ever scale
+codes it will be
+redeveloped
+and updated after full testing overscale
+academy and the board monsters also need
+more time because a lot of the updates
+in
+academia
+and by the way we have started some very
+useful courses with african community
+and i think we will continue to do that
+so now the road map is that ah end of
+march we will test paid courses and nft
+certificates by the way i invite
+everybody to for
+additional call i guess on monday i will
+do
+official announcement in the groups and
+i really want to invite everybody to
+test
+in real time to test to ask and
+and so on because
+one day and
+all work i think
+is done that's why i will make
+announcement for monday to test it
+finally and so on
+also april will be for engaged community
+in making courses by the way i started
+to make courses with my own
+i start with some
+very
+uh
+very easy
+courses like how to
+start first simple web app in every
+scale
+uh but really want to make more courses
+which are more related to development
+and i and
+i hope all developer all developers will
+help us in this too and i will try to
+create courses and other our members
+uh also from
+uh from april uh
+we i personally wanna change our main
+engine because
+previously we use already
+developed
+lms system and from april after testing
+current engine i will start i will start
+to
+remake it
+for getting more
+good parameters of scalability in react
+or
+angular
+uh
+so
+yeah uh separate roadmap for every score
+every scale codes to moderate and
+harmonize the existing documentation and
+every scale course
+and about the boatman starts monsters a
+little bit later
+will be announced uh additional roadmap
+uh so
+uh
+i learned with this uh because really
+too many directions in academy which we
+wanted to implement skates make courses
+and so on that's why a lot of work to do
+but finally i think it will be
+good for our scale
+community need more need a lot of time
+but
+bring a lot of value uh i will get i i
+will so now
+you've given me more
+if you want to add something
+it's yeah i see i see he's here and he's
+got his hand raised so uh eugene
+yes uh thanks ron can you hear me
+absolutely yeah first of all yeah alex
+thank you for good work uh uh uh alex as
+you all guys know has been an active
+contributor to the academy continues to
+be one
+so thank you very much i also wanted to
+extend the word of thanks to a number of
+our initial members
+including andre fidos of gerard dashea
+and many others
+who voiced support
+for the academy and essentially
+suggested also broxas obviously and
+suggested some ways we should improve
+which we listen to very carefully one of
+the suggestions that we received is to
+commercialize
+academy activities so what alex was
+describing today is just an example
+uh where we would be collecting fees uh
+for providing services to teachers
+students
+and uh that would be one source of
+revenue the other one would be uh
+developing courses needed by the
+community like which ones are the
+priority we expect to be told
+uh for example by defy alliance that
+there is a demand for such and such
+course and then we implement it with a
+corresponding
+budget or funding whatever
+available specifically to achieve that
+goal by the community
+uh another example of monetization
+strategies that we are pursuing right
+now is to
+place uh it's already in the works
+actively um to place uh government will
+train association certification
+uh courses online and uh also provide uh
+successful students with nft
+certificates
+uh gba has approved this provided
+already material and so we just need to
+implement that would be a third way to
+monetize and of course another one that
+alex mentioned
+uh economics and corresponding uh
+potential revenue for the academy for
+the endowment which we would love to
+create um
+all of that uh will be reflected in the
+updated proposal which i expect to be
+published this week and i'm respectful
+asking everyone to support it thank you
+ron
+thank you thank you eugene so i raised
+my hand
+can you just talk a little bit more
+about how you see the endowment working
+i i want to i want to understand so um
+traditionally for for those people who
+don't understand what an endowment is
+it's basically a fund that doesn't get
+touched right there's a certain amount
+of of tokens in this case usually money
+that gets put into uh a
+fund
+it never leaves it just collects a
+certain amount of interest right uh
+staking if you will uh percentages and
+that's the the cream that rises on top
+that is what is used to fund different
+types of of projects
+so
+my question is one how much uh of an
+endowment are you looking for and um
+do you have any more details
+yes ron you described it exactly right
+what we tried to achieve is a situation
+where
+no sales
+of evers
+that were dedicated to um a foundation
+are needed
+right and they are kept exactly where
+they are at the moment
+instead
+they are used for various approved
+investment activities approved by the
+management of the foundation right
+and those activities like you mentioned
+once taking there may be some others uh
+that
+money is used and any success any
+increase in value of that investment
+minus whatever minimal costs
+uh is indeed spent on a particular goal
+in our case uh on ever scale academy
+needs
+so this is what we would like like to do
+this will be reflected in the proposal
+exactly wrong literally as you described
+and
+we believe that this is a good way not
+to
+create any selling pressure on ever but
+instead
+create
+the funding create the funding with that
+original money that is used for
+educational purposes that's the idea
+right
+yeah i can see a lot of applications for
+something like that like um
+is is the technology that are are you
+able to do that now are we are we
+capable of doing that i i have i've i i
+think it's i as you know you and i
+talked about this i always was a was a
+fan of this my question is do we have
+the ability to do it now
+yes if we assume that a multi-sig
+for foundation
+you know decision makers
+is available uh that's really what is
+needed um
+because in any case all of this
+is directly control should be directly
+controlled by the foundation right
+and they are able to make decisions
+collectively or whatever the mechanism
+is
+as to what type of investment
+they would like to see right basics
+taking for example maybe the safest one
+or whatever else they might come up with
+there's a lot of finance guys on board
+there i believe they can advise
+and so
+they control that investment and
+whatever is received on a monthly basis
+is sent to another wallet
+which is dedicated uh to um
+let's say fixed expenses so so to say by
+the academy one of the things we would
+love to do
+is to actually bring in a couple of
+professionals
+uh maybe and those people will need a
+salary so if we are able from from the
+cream from the cream
+of course of course so to answer your
+question about the amount i think we
+should go
+in in the reverse
+we should first estimate what the
+reasonable expenses for like really
+really useful uh team would be
+and then simply say okay if we invested
+five percent per annum
+uh what should be the principal amount
+very simple so uh i'm sure a foundation
+can certainly do that but the concept
+is not that we're asking for a
+particular amount
+uh the concept is that we are asking for
+the principle to be introduced that some
+amount is invested and the cream as
+you're saying
+is used to pay for education and help us
+the academy achieve what we really want
+to do uh onboarding new users through
+education
+you're just asking you're just asking
+for the soil that goes nowhere but the
+trees that grow and
+the foliage
+in the fruit yeah
+which
+which emerges is is just
+for the picking i i love this idea i am
+not enough uh technologically uh astute
+to say whether it will work or not but
+we know it works in the off chain world
+i can absolutely see this working in the
+on-chain world at least i hope to see it
+working so yeah that's um i support this
+idea very very highly support this idea
+thank you
+thank you that's all from me today
+okay um i don't does anybody have
+questions i mean
+no uh let me check youtube
+uh
+nope uh so
+okay hang on let me pull up my
+cheat sheet for our final segment i was
+trying to come up with something clever
+i didn't really come up with anything
+that clever today but
+our final segment uh last but most
+certainly not least our dearest beloved
+curly top huggable hipster
+how do you like that but never mind the
+ coins podcast man himself ben
+coins podcast man himself ben
+ben's bits
+a couple of minutes before two o'clock
+this week excellent excellent yeah
+we got it well some excellent
+presentations this week so uh really
+hang on hang on hang on can we um i
+don't see
+uh you um
+is it just me
+oh there we are yep now i see
+i i see you you see me excellent
+excellent right my bits for the week
+let's get these over with uh flat cube
+have announced a bounty program for
+english uh written educational content
+so if if you're good with a pen if you
+can write a few words and you want to
+earn yourself a little bit of a bounty
+um all the details are on the everscale
+news channel
+everlend is quite an interesting little
+startup uh which have recently had their
+token sale which is uh very cool it's
+the first which is going on on the
+particular platform so again do check
+that out
+uh something i've not looked into myself
+too deeply yet i know there are maybe a
+few geographical restrictions for some
+uh but easy pay can't i assume it's
+pronounced easy pay i've only ever seen
+it wrote down but i i zi um is a credit
+debit card which you can directly use
+with ever as i understand it which is i
+mean to say that's cool is uh that's
+very understanding understatement that's
+friggin fantastic exactly
+i do like an understatement
+right so uh
+dot io they've updated the ticker at
+last ah that isn't that nice sake and i
+mean i i don't do trading talk but i
+think there was a little bit of a bump
+which kind of you know may have come
+from a million things but hopefully that
+was an
+in the visibility factor at the very
+least
+as ron kind of mentioned at the start
+but if you weren't here for the very
+start of the meeting uh june yay
+there is progress there is there's much
+progress i don't want to
+you know say more than i know however i
+believe
+believe a batch has been moved or is
+been moving and
+the wheels are turning again at last and
+they're they're more than turning
+actually the
+the proposal put forward by damien and
+fabricenko is actually quite interesting
+so uh
+i don't know ron hopefully they'll be
+coming up to uh say a few words on one
+of the weeks coming
+uh i do miss fabrice's face
+and the final bit i've got for you this
+week uh about votes on everdao
+so i i mean
+far be it from me to get all preaching
+uh you know that kind of thing but just
+just a little bit of kind of common
+sense advice guys
+a dow indicates kind of community
+participation um
+if this is gonna work you know i'm sure
+we've all heard kind of very silly
+stories about downs on other projects
+which have almost been lambasted with
+preproster preposterous try saying that
+word three times preposterous proposals
+um you know for for this really to work
+properly you know everyone has to take
+an interest now i'm a little bit guilty
+i'm only just sort of looking over
+evidel and all that but you know the the
+more people out of us who are on there
+you may think you're a small fish but
+you know small fish kind of fill the
+pond at the end of the day don't we
+so
+if we don't all get on there and vote
+then you know
+something you really don't like might
+pass on a vote one day and then there's
+sweet all you can do about it so
+dowels are a beautiful thing they are a
+technological innovation
+but they do come with their own inherent
+kind of factor so yeah that that's my
+kind of two cents on the dow situation
+i think it's a brilliant initiative but
+we you know we do need as many people as
+possible keeping eyes on it
+and that's my bits thank you very much
+and thank you very much um and actually
+i have um
+um a couple of things right um uh mita
+had to to uh and i see there's a
+question uh or comment from elena i
+apologize is it okay if i skip in line
+i'm
+i'm violating my own rules but uh
+there was a question regarding governow
+was whether it uses smv
+uh and i don't know if anybody can
+answer that and uh from the looks of it
+i don't see that anybody here could
+uh mita asked that question and i
+second that question whether it uses the
+smv gossip i'm
+i hate the word assume because we all
+know it spells an ass out of you and me
+but nevertheless i assume
+um that it does and if it doesn't we'd
+like to hear that um
+regarding uh everland everland everland
+right would be the proper way to say it
+um i'd love to have them on this call
+next week
+so if you can hook that up that would be
+good easy pay as well or i see
+eyesight
+easy
+easy pay so that that's for me um
+alina yes please
+yes uh yes hi everybody i'm sorry to
+interrupt you i just heard our project
+was mentioned twice already
+uh yeah my name is alina and i represent
+creative team we work for
+everscale for more than a year and last
+week on friday we launched our everscale
+everscalend.com uh project lending
+platform i'm sorry we didn't manage to
+get into today's agenda
+but uh we definitely do our best too
+yeah yeah
+absolutely absolutely i i saw it
+and i don't remember who i wrote to i
+wrote somebody said can somebody please
+give me the person who who would do this
+i i absolutely so you're in for next
+tuesday okay great uh we'll do a great
+big presentation i just wanted to
+mention that now yeah we have talking
+sale and uh we had news in all ever
+scale uh sources this saturday so you
+can easily find our website and from
+there you can go to land uh our token
+name is land and you can go to uh
+token sale and take part in this and
+next time yes sure i can tell you more
+and bring you a big presentation about
+us but uh sorry uh i would like also to
+say that tomorrow we plan to do i'm a
+session on everscale platform
+so i think you will see the news about
+it very soon um feel free to enjoy we
+will be grateful for your questions and
+comments
+thank you very much yes thank you thank
+you thank you the ama session everybody
+go to that tomorrow what time
+uh it will be 8 p.m moscow time 8 pm
+oscar time which makes it
+oh jeez here we go utc five yeah utc
+ipm utc 6 pm uh cet and by the way that
+changes in one day and i believe the
+time the clocks anyway
+yeah the clocks move in one day so
+everybody look at your uh daylight
+savings time uh locally us has already
+moved europe is going to move either
+today or tomorrow if i'm not mistaken
+um and i had one more uh just comment
+that i wanted to make there was a uh
+article
+that came out on a medium
+well that came out on medium but it
+obviously got retweeted
+which is how to store and manage ever
+and chuck this one is for you
+uh the
+uh mention of deebots
+in the surf wallet was
+very um passive
+and i would like to ask whoever
+wrote the article if they can just add a
+little bit more about d-bots because for
+me personally i think the d-bot aspect
+of the eversurf wallet is probably it's
+you know uh it's it's it's major uh
+uh asset and uh the the the the way that
+it was presented was very
+in the article my personal feeling you
+know you can yell at me if you like but
+uh i felt like it just sort of grazed
+over one of the most important factors
+that the surf wallet has so
+please if there's anybody who could
+redact edit
+uh i would encourage you to do so uh
+it's a very important thing so sorry
+my own um
+let's call it uh
+shameless plug
+thank you
+everybody for coming thank you very much
+have a great week have a great weekend
+uh and please come back same time
+tuesday
+and we'll
+see you then
+bye
+thank you everyone take care all right
+bye everyone
+thank you bye
+bye bye guys great week

@@ -1,0 +1,44 @@
+everscale has its own nft standard
+called tip 4 or true nft which is a
+product of collaboration between all the
+everscale developers and teams on the
+network how does it work from a
+technical standpoint the first and most
+obvious difference of nfts on everscale
+is the storage of information unlike
+ethereum where one smart contract stores
+everything about the owner traits and
+metadatas of the nft collection
+everscale follows a distributed paradigm
+each nft is a small smart contract with
+its owner and each nft collection has
+one smart contract that stores all
+information about the collection there
+are also smart contract indexes for each
+nft each wallet has its own end index
+and each collection has its own index
+which enables fast on chain searches we
+can quickly find all collections all
+collections with the same code hash all
+nfts of one particular wallet and all
+nfts of the wallet with the collection
+filter another important feature is
+small fees for keeping a smart contract
+alive everscale requires payment for
+data storage of every smart contract nft
+index or regular wallet however the fees
+are really small for example storage of
+the punk
+number 294 nft costs its owner about
+0.075 ever per year the collection's
+author also pays for storage but if
+something happens to the collection's
+contract the nft of this collection
+won't be affected the last feature is
+the cost of issuance and speed of the
+blockchain everscale is one of the
+fastest and cheapest blockchains on the
+market so minting nfts on it is cheap
+too tip 4 is a big step forward for the
+ecosystem and all wallets on everscale
+are going to support it

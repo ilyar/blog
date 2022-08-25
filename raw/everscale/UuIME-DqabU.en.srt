@@ -1,0 +1,815 @@
+1
+00:00:00,480 --> 00:00:02,950
+
+minecraft is an outstandingly successful
+
+2
+00:00:02,950 --> 00:00:02,960
+minecraft is an outstandingly successful
+ 
+
+3
+00:00:02,960 --> 00:00:06,389
+minecraft is an outstandingly successful
+game more than 126 million active
+
+4
+00:00:06,389 --> 00:00:06,399
+game more than 126 million active
+ 
+
+5
+00:00:06,399 --> 00:00:10,230
+game more than 126 million active
+players in 2021 600 million copies sold
+
+6
+00:00:10,230 --> 00:00:10,240
+players in 2021 600 million copies sold
+ 
+
+7
+00:00:10,240 --> 00:00:12,070
+players in 2021 600 million copies sold
+and a daily playing audience which
+
+8
+00:00:12,070 --> 00:00:12,080
+and a daily playing audience which
+ 
+
+9
+00:00:12,080 --> 00:00:14,870
+and a daily playing audience which
+exceeds 200 000 players
+
+10
+00:00:14,870 --> 00:00:14,880
+exceeds 200 000 players
+ 
+
+11
+00:00:14,880 --> 00:00:17,109
+exceeds 200 000 players
+all these solid numbers make us wonder
+
+12
+00:00:17,109 --> 00:00:17,119
+all these solid numbers make us wonder
+ 
+
+13
+00:00:17,119 --> 00:00:19,189
+all these solid numbers make us wonder
+what if we were to merge minecraft and
+
+14
+00:00:19,189 --> 00:00:19,199
+what if we were to merge minecraft and
+ 
+
+15
+00:00:19,199 --> 00:00:21,189
+what if we were to merge minecraft and
+the everscale blockchain
+
+16
+00:00:21,189 --> 00:00:21,199
+the everscale blockchain
+ 
+
+17
+00:00:21,199 --> 00:00:24,150
+the everscale blockchain
+the result is the evercraft game pilot
+
+18
+00:00:24,150 --> 00:00:24,160
+the result is the evercraft game pilot
+ 
+
+19
+00:00:24,160 --> 00:00:26,630
+the result is the evercraft game pilot
+the first showcase of the future gamefy
+
+20
+00:00:26,630 --> 00:00:26,640
+the first showcase of the future gamefy
+ 
+
+21
+00:00:26,640 --> 00:00:29,109
+the first showcase of the future gamefy
+and metaverse sdk
+
+22
+00:00:29,109 --> 00:00:29,119
+and metaverse sdk
+ 
+
+23
+00:00:29,119 --> 00:00:30,790
+and metaverse sdk
+so what's the point of using a
+
+24
+00:00:30,790 --> 00:00:30,800
+so what's the point of using a
+ 
+
+25
+00:00:30,800 --> 00:00:32,709
+so what's the point of using a
+blockchain in games
+
+26
+00:00:32,709 --> 00:00:32,719
+blockchain in games
+ 
+
+27
+00:00:32,719 --> 00:00:34,630
+blockchain in games
+we've already covered it in the game fi
+
+28
+00:00:34,630 --> 00:00:34,640
+we've already covered it in the game fi
+ 
+
+29
+00:00:34,640 --> 00:00:37,510
+we've already covered it in the game fi
+sdk video but it's worth repeating it
+
+30
+00:00:37,510 --> 00:00:37,520
+sdk video but it's worth repeating it
+ 
+
+31
+00:00:37,520 --> 00:00:40,389
+sdk video but it's worth repeating it
+unlocks more opportunities for dedicated
+
+32
+00:00:40,389 --> 00:00:40,399
+unlocks more opportunities for dedicated
+ 
+
+33
+00:00:40,399 --> 00:00:41,590
+unlocks more opportunities for dedicated
+players
+
+34
+00:00:41,590 --> 00:00:41,600
+players
+ 
+
+35
+00:00:41,600 --> 00:00:43,430
+players
+the players will be able to monetize
+
+36
+00:00:43,430 --> 00:00:43,440
+the players will be able to monetize
+ 
+
+37
+00:00:43,440 --> 00:00:45,910
+the players will be able to monetize
+their gaming time by participating in
+
+38
+00:00:45,910 --> 00:00:45,920
+their gaming time by participating in
+ 
+
+39
+00:00:45,920 --> 00:00:48,470
+their gaming time by participating in
+the in-game economy which gets connected
+
+40
+00:00:48,470 --> 00:00:48,480
+the in-game economy which gets connected
+ 
+
+41
+00:00:48,480 --> 00:00:50,869
+the in-game economy which gets connected
+to the d5 economy via the everscale
+
+42
+00:00:50,869 --> 00:00:50,879
+to the d5 economy via the everscale
+ 
+
+43
+00:00:50,879 --> 00:00:53,910
+to the d5 economy via the everscale
+blockchain so what if a newcomer needs a
+
+44
+00:00:53,910 --> 00:00:53,920
+blockchain so what if a newcomer needs a
+ 
+
+45
+00:00:53,920 --> 00:00:55,510
+blockchain so what if a newcomer needs a
+lot of black stones or bricks for
+
+46
+00:00:55,510 --> 00:00:55,520
+lot of black stones or bricks for
+ 
+
+47
+00:00:55,520 --> 00:00:58,389
+lot of black stones or bricks for
+crafting but doesn't want to spend time
+
+48
+00:00:58,389 --> 00:00:58,399
+crafting but doesn't want to spend time
+ 
+
+49
+00:00:58,399 --> 00:01:00,869
+crafting but doesn't want to spend time
+grinding or farming but for these
+
+50
+00:01:00,869 --> 00:01:00,879
+grinding or farming but for these
+ 
+
+51
+00:01:00,879 --> 00:01:03,510
+grinding or farming but for these
+resources they can buy the resources
+
+52
+00:01:03,510 --> 00:01:03,520
+resources they can buy the resources
+ 
+
+53
+00:01:03,520 --> 00:01:05,270
+resources they can buy the resources
+that they so much need from other
+
+54
+00:01:05,270 --> 00:01:05,280
+that they so much need from other
+ 
+
+55
+00:01:05,280 --> 00:01:06,310
+that they so much need from other
+players
+
+56
+00:01:06,310 --> 00:01:06,320
+players
+ 
+
+57
+00:01:06,320 --> 00:01:08,390
+players
+the most rare and valuable resources
+
+58
+00:01:08,390 --> 00:01:08,400
+the most rare and valuable resources
+ 
+
+59
+00:01:08,400 --> 00:01:10,630
+the most rare and valuable resources
+will obviously be priced a lot higher
+
+60
+00:01:10,630 --> 00:01:10,640
+will obviously be priced a lot higher
+ 
+
+61
+00:01:10,640 --> 00:01:13,190
+will obviously be priced a lot higher
+and it will essentially be buying other
+
+62
+00:01:13,190 --> 00:01:13,200
+and it will essentially be buying other
+ 
+
+63
+00:01:13,200 --> 00:01:15,910
+and it will essentially be buying other
+players time this is then a huge leap
+
+64
+00:01:15,910 --> 00:01:15,920
+players time this is then a huge leap
+ 
+
+65
+00:01:15,920 --> 00:01:18,630
+players time this is then a huge leap
+forward for the whole gaming industry in
+
+66
+00:01:18,630 --> 00:01:18,640
+forward for the whole gaming industry in
+ 
+
+67
+00:01:18,640 --> 00:01:21,270
+forward for the whole gaming industry in
+evercraft every game asset will become a
+
+68
+00:01:21,270 --> 00:01:21,280
+evercraft every game asset will become a
+ 
+
+69
+00:01:21,280 --> 00:01:22,950
+evercraft every game asset will become a
+separate nft
+
+70
+00:01:22,950 --> 00:01:22,960
+separate nft
+ 
+
+71
+00:01:22,960 --> 00:01:25,350
+separate nft
+this means that it will be possible to
+
+72
+00:01:25,350 --> 00:01:25,360
+this means that it will be possible to
+ 
+
+73
+00:01:25,360 --> 00:01:27,910
+this means that it will be possible to
+trade resources between players and buy
+
+74
+00:01:27,910 --> 00:01:27,920
+trade resources between players and buy
+ 
+
+75
+00:01:27,920 --> 00:01:30,310
+trade resources between players and buy
+them in the in-game shop trade them on
+
+76
+00:01:30,310 --> 00:01:30,320
+them in the in-game shop trade them on
+ 
+
+77
+00:01:30,320 --> 00:01:33,350
+them in the in-game shop trade them on
+special marketplaces and move resources
+
+78
+00:01:33,350 --> 00:01:33,360
+special marketplaces and move resources
+ 
+
+79
+00:01:33,360 --> 00:01:35,830
+special marketplaces and move resources
+between different servers with ease
+
+80
+00:01:35,830 --> 00:01:35,840
+between different servers with ease
+ 
+
+81
+00:01:35,840 --> 00:01:37,830
+between different servers with ease
+of course all payment options will be
+
+82
+00:01:37,830 --> 00:01:37,840
+of course all payment options will be
+ 
+
+83
+00:01:37,840 --> 00:01:40,469
+of course all payment options will be
+based on the ever token but there's much
+
+84
+00:01:40,469 --> 00:01:40,479
+based on the ever token but there's much
+ 
+
+85
+00:01:40,479 --> 00:01:41,990
+based on the ever token but there's much
+more in evercraft
+
+86
+00:01:41,990 --> 00:01:42,000
+more in evercraft
+ 
+
+87
+00:01:42,000 --> 00:01:44,310
+more in evercraft
+all land on the evercraft server will be
+
+88
+00:01:44,310 --> 00:01:44,320
+all land on the evercraft server will be
+ 
+
+89
+00:01:44,320 --> 00:01:45,670
+all land on the evercraft server will be
+tokenized
+
+90
+00:01:45,670 --> 00:01:45,680
+tokenized
+ 
+
+91
+00:01:45,680 --> 00:01:47,350
+tokenized
+brands and businesses will be able to
+
+92
+00:01:47,350 --> 00:01:47,360
+brands and businesses will be able to
+ 
+
+93
+00:01:47,360 --> 00:01:49,590
+brands and businesses will be able to
+buy land to establish virtual offices
+
+94
+00:01:49,590 --> 00:01:49,600
+buy land to establish virtual offices
+ 
+
+95
+00:01:49,600 --> 00:01:51,910
+buy land to establish virtual offices
+and have nft exhibitions
+
+96
+00:01:51,910 --> 00:01:51,920
+and have nft exhibitions
+ 
+
+97
+00:01:51,920 --> 00:01:53,429
+and have nft exhibitions
+regular players will also have an
+
+98
+00:01:53,429 --> 00:01:53,439
+regular players will also have an
+ 
+
+99
+00:01:53,439 --> 00:01:55,910
+regular players will also have an
+opportunity to do the same everyone has
+
+100
+00:01:55,910 --> 00:01:55,920
+opportunity to do the same everyone has
+ 
+
+101
+00:01:55,920 --> 00:01:58,310
+opportunity to do the same everyone has
+the same rights on the game server every
+
+102
+00:01:58,310 --> 00:01:58,320
+the same rights on the game server every
+ 
+
+103
+00:01:58,320 --> 00:02:00,230
+the same rights on the game server every
+active server will be able to establish
+
+104
+00:02:00,230 --> 00:02:00,240
+active server will be able to establish
+ 
+
+105
+00:02:00,240 --> 00:02:02,069
+active server will be able to establish
+its own dow for players to vote on
+
+106
+00:02:02,069 --> 00:02:02,079
+its own dow for players to vote on
+ 
+
+107
+00:02:02,079 --> 00:02:05,109
+its own dow for players to vote on
+important aspects of server management
+
+108
+00:02:05,109 --> 00:02:05,119
+important aspects of server management
+ 
+
+109
+00:02:05,119 --> 00:02:06,870
+important aspects of server management
+another essential aspect is the
+
+110
+00:02:06,870 --> 00:02:06,880
+another essential aspect is the
+ 
+
+111
+00:02:06,880 --> 00:02:09,270
+another essential aspect is the
+competitive side of gaming players will
+
+112
+00:02:09,270 --> 00:02:09,280
+competitive side of gaming players will
+ 
+
+113
+00:02:09,280 --> 00:02:12,070
+competitive side of gaming players will
+be able to form pro teams clans and
+
+114
+00:02:12,070 --> 00:02:12,080
+be able to form pro teams clans and
+ 
+
+115
+00:02:12,080 --> 00:02:14,390
+be able to form pro teams clans and
+participate in tournaments events and
+
+116
+00:02:14,390 --> 00:02:14,400
+participate in tournaments events and
+ 
+
+117
+00:02:14,400 --> 00:02:18,229
+participate in tournaments events and
+various challenges including pvp jewels
+
+118
+00:02:18,229 --> 00:02:18,239
+various challenges including pvp jewels
+ 
+
+119
+00:02:18,239 --> 00:02:19,910
+various challenges including pvp jewels
+to climb higher in the ranks on the
+
+120
+00:02:19,910 --> 00:02:19,920
+to climb higher in the ranks on the
+ 
+
+121
+00:02:19,920 --> 00:02:21,110
+to climb higher in the ranks on the
+leaderboard
+
+122
+00:02:21,110 --> 00:02:21,120
+leaderboard
+ 
+
+123
+00:02:21,120 --> 00:02:22,550
+leaderboard
+some additional things planned for
+
+124
+00:02:22,550 --> 00:02:22,560
+some additional things planned for
+ 
+
+125
+00:02:22,560 --> 00:02:25,030
+some additional things planned for
+evercraft include decentralized
+
+126
+00:02:25,030 --> 00:02:25,040
+evercraft include decentralized
+ 
+
+127
+00:02:25,040 --> 00:02:28,630
+evercraft include decentralized
+identities integration cross-server play
+
+128
+00:02:28,630 --> 00:02:28,640
+identities integration cross-server play
+ 
+
+129
+00:02:28,640 --> 00:02:31,670
+identities integration cross-server play
+cross-server asset transfers conversions
+
+130
+00:02:31,670 --> 00:02:31,680
+cross-server asset transfers conversions
+ 
+
+131
+00:02:31,680 --> 00:02:33,910
+cross-server asset transfers conversions
+of in-game paintings and sculptures to
+
+132
+00:02:33,910 --> 00:02:33,920
+of in-game paintings and sculptures to
+ 
+
+133
+00:02:33,920 --> 00:02:35,110
+of in-game paintings and sculptures to
+nfts
+
+134
+00:02:35,110 --> 00:02:35,120
+nfts
+ 
+
+135
+00:02:35,120 --> 00:02:36,470
+nfts
+back and forth
+
+136
+00:02:36,470 --> 00:02:36,480
+back and forth
+ 
+
+137
+00:02:36,480 --> 00:02:38,309
+back and forth
+nft auctions
+
+138
+00:02:38,309 --> 00:02:38,319
+nft auctions
+ 
+
+139
+00:02:38,319 --> 00:02:40,390
+nft auctions
+flat cube integration
+
+140
+00:02:40,390 --> 00:02:40,400
+flat cube integration
+ 
+
+141
+00:02:40,400 --> 00:02:42,390
+flat cube integration
+services for businesses
+
+142
+00:02:42,390 --> 00:02:42,400
+services for businesses
+ 
+
+143
+00:02:42,400 --> 00:02:45,030
+services for businesses
+all this makes evercraft an ideal case
+
+144
+00:02:45,030 --> 00:02:45,040
+all this makes evercraft an ideal case
+ 
+
+145
+00:02:45,040 --> 00:02:47,030
+all this makes evercraft an ideal case
+for showing all capabilities of our
+
+146
+00:02:47,030 --> 00:02:47,040
+for showing all capabilities of our
+ 
+
+147
+00:02:47,040 --> 00:02:50,070
+for showing all capabilities of our
+powerful game fight and metaverse sdk
+
+148
+00:02:50,070 --> 00:02:50,080
+powerful game fight and metaverse sdk
+ 
+
+149
+00:02:50,080 --> 00:02:52,229
+powerful game fight and metaverse sdk
+some mentioned features is still being
+
+150
+00:02:52,229 --> 00:02:52,239
+some mentioned features is still being
+ 
+
+151
+00:02:52,239 --> 00:02:54,309
+some mentioned features is still being
+developed and may change a little bit
+
+152
+00:02:54,309 --> 00:02:54,319
+developed and may change a little bit
+ 
+
+153
+00:02:54,319 --> 00:02:56,229
+developed and may change a little bit
+but all the main features including
+
+154
+00:02:56,229 --> 00:02:56,239
+but all the main features including
+ 
+
+155
+00:02:56,239 --> 00:02:58,710
+but all the main features including
+tokenized assets will be available at
+
+156
+00:02:58,710 --> 00:02:58,720
+tokenized assets will be available at
+ 
+
+157
+00:02:58,720 --> 00:03:00,949
+tokenized assets will be available at
+launch and the game will be constantly
+
+158
+00:03:00,949 --> 00:03:00,959
+launch and the game will be constantly
+ 
+
+159
+00:03:00,959 --> 00:03:03,350
+launch and the game will be constantly
+updated according to the roadmap we'll
+
+160
+00:03:03,350 --> 00:03:03,360
+updated according to the roadmap we'll
+ 
+
+161
+00:03:03,360 --> 00:03:06,070
+updated according to the roadmap we'll
+announce the launch time later catch you
+
+162
+00:03:06,070 --> 00:03:06,080
+announce the launch time later catch you
+ 
+
+163
+00:03:06,080 --> 00:03:09,080
+announce the launch time later catch you
+soon
+

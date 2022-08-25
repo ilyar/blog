@@ -1,0 +1,1462 @@
+hello everyone
+hi
+hi guys
+hello hello
+okay so traditionally let's wait for one
+more minute and let's start
+okay
+i think we can start
+so hello everyone
+welcome to our 40th weekly device of
+governance
+call
+so it's 40 weeks that we are
+running this this calls
+uh without any any misses i find it
+wrong
+so and that's that's a good good
+stability i would call it like this
+so we have
+some agenda for today so and
+i will start from contest updates
+uh actually
+uh as discussed last time uh we will
+prolong the distributed validator oracle
+contest uh until the end of august
+because no submissions were applied and
+uh at least with such prolongation so we
+have at least two contestants that
+promised to join the contest so that's
+good and hopefully
+uh we will find someone else
+uh
+also of uh there are 18 days left and
+here for submission to st town
+implementation contest uh there's only
+one on review
+and also 19 days left for the new
+selection of freeton defy jury
+so uh if you have some
+good candidates for the jury so please
+please submit so if you want you can do
+this yourself as well
+uh
+and also uh 50 days left until the
+implementation
+end of the implementation stages three
+and four for the steering bridge
+i have created the the prolongation
+proposal uh just few a few moments ago
+and uh
+if there are some uh
+governance members so please please go
+to the proposal interface and
+vote for it
+we needed to be approved and for some
+reason i see that the procedural remarks
+on contest version 2 has not passed last
+time
+although i was sure that we collected
+enough votes so i will just make some
+investigation and
+let's discuss what was wrong so if
+simply someone didn't have time or
+there was some reason for not voting
+uh all right so that's it for updates uh
+now about uh good news so we have done
+two payouts uh payout for two contests
+actually it was a
+uh deck stage two uh contests and also
+the
+uh free thrones of sovereign identity
+framework stage stage one
+so congrats to winners and all the
+rewards uh on your wallet
+already next
+news is about the crystal wallet that is
+used uh on the constellation of process
+defy products uh so you may have seen
+this big announcement so the
+wallet was uh dramatically improved so
+now it supports multi seats multi
+accounts multi keys multi signatures and
+uh
+multi networks so actually there is a
+multi update
+so if you didn't try it yet so please
+enjoy so we know about some minor bugs
+and in it already thanks to the early
+early users
+and if you find something else so please
+do not hesitate to
+pin me and
+tell what you found so
+we will improve it definitely the next
+version
+uh
+next news is about the governments to
+tokens
+so i will be preparing the proposal for
+the active members uh who
+would will get these tokens to
+vote
+in the governors to o
+interface so you may have seen such news
+from different sub governances coming
+from here there
+so yeah
+i will just publish it soon
+uh
+next news is about the new giver address
+as
+uh numerous
+has
+left the defy sub governance so we
+finally mind the appropriate address for
+the defy giver and it will start with d5
+actually so
+it's just a fun fact uh so hopefully we
+will be able to
+migrate all the funds to a new giver and
+with a new
+set of custodians
+because uh in past it was really really
+challenging to collect five out of seven
+custodians uh especially keep in mind
+that one of them has left us
+so um
+so do not be afraid that there will be
+one big chunk of money moving from the
+defy giver to a new address so i will
+post the new one
+later here
+as soon as we test it that all the
+custodians have access and uh
+all the keys are working so just the
+final checks
+um
+all right so that's about news uh now
+sergey
+here
+no he's not here yet
+just let helping him
+uh he wanted to tell
+about the crystal handshake program
+meanwhile i'm pinging him so alex yes
+you wanted to ask something
+what uh sorry i missed what is the
+reason for a new giver
+uh in in the past giver there were seven
+concussed audience uh
+one of them was uh who was included in
+the
+first set of uh
+governance members and this the
+signature scheme uh was five out of
+seven signatures
+uh that's required uh
+to collect at least five people uh as
+nimrod has left us so uh first of all
+it's not secure to keep the person who
+is not in charge of certain sub
+governance anymore
+and uh we have deployed a new one uh
+with six
+remaining governance members
+and uh change the signature scheme to
+four out of six so just to speed up all
+the payouts to uh
+to winners of contests
+ah so in short the reason is the initial
+member list
+we announced about this a long time ago
+but uh
+finally we managed to to
+get it done
+simply so
+too many things will be done okay sergey
+is with us uh today so a gay uh okay
+yeah alina you have some some questions
+yeah i have a question about one of news
+uh can you please tell more about go
+about go
+into zero tokens because before that we
+only heard about golf tokens from uh
+dance system i guess meets us yeah
+it's
+actually uh pretty much uh same same
+thing uh as far as i understand so
+unfortunately meteor is not with us okay
+i am here yeah are you here oh maybe you
+can you can just explain
+it's it will start from dance it's a
+dance like
+governance talkers that can be used in
+smb voting and the the smv voting will
+be for dance first as an as a as a first
+like test experiment and so on
+but um but this talking like
+maybe extent its users may be extended
+to other you know in in near future to
+other
+um voting
+proposals for stuff like that so we're
+gradually
+like starting to
+uh to roll out the governance
+uh the bftg the governance to zero
+system and that's the first kind of
+application so
+i don't think we will deploy like
+hundreds of things covered in tokens i
+think that they will just add usage to
+these months
+yeah pretty much logically right
+paddle please
+yes i
+talked with rahman
+meter as you proposed
+uh they were unaware that they should do
+the deployment but they promised to
+create an instruction by like on monday
+uh
+and yes but key is enough
+due to reasons i explained
+before on the vex call uh so
+um
+now i mean just waiting for for
+collecting all approved
+uh list of pakis uh from sub governments
+and hopefully next week the process will
+start
+because uh
+jenny mccarroll is on vacation so
+probably we'll be able to do it next
+week
+okay okay so
+actually uh there will be not only uh
+sub governance members uh or custodians
+uh called letter z wish but also we will
+include and uh propose to include
+some of you um has been uh active
+members of this sub governance to
+receive these tokens as well so
+uh i'm just now collecting the shortlist
+of those who will be proposed from our
+site
+okay so uh now sergey please uh tell us
+a bit more about crystal handshake
+program
+because some people already have seen
+some years of it
+yeah yeah about this program uh we are
+starting first pull with this program
+now
+uh it will be
+one of a nifty project in ethereum
+ecosystem
+and
+also
+away in group
+blockchain pro
+it's one of the groups who are working
+with the file yarns and
+support our different pr activity
+so about this program of why we launch
+it and how it will be work
+uh inferior mecha system there are a lot
+of different projects uh it's thousands
+and thousand projects who are trying to
+[Music]
+attract liquidity in freedom
+and because uh very
+biggest competition between between this
+project
+uh where they're moving to polygon to
+bnb uh two new year and to another
+project
+uh now with return there are no any
+project uh who attract defeated in
+fliton
+and
+and we will start work with projects
+with who have some somehow hard hard
+criteria
+first criteria it should be project who
+cover first round
+and
+first round should be on the with lock
+up and wasting period
+the second condition it should be
+project without any free flow at the
+market
+so it on swap will be first
+exchange for it project
+and
+the third condition uh projects uh
+must supply
+uh
+liquidity in their token for pool
+and uh supply liquidity for farming uh
+and maybe of some project three five we
+will change condition uh we have a lot
+of projects within this negotiation now
+and we'll watch how it will work
+for their project it's interesting
+because
+they want to start to work with return
+community
+and
+for us it's interesting because our
+community will will get
+potential opportunity vs different
+tokens and earn money or lose money of
+course is its market
+yeah in their tokens and
+it will be involve a new new project and
+new community to our system
+and of course
+when this project will involve to
+photonic system we will start work with
+our ecosystem
+uh for example
+its first project
+will
+launch different mft in in return
+and nifty bridge with us
+and we in this in these conditions in
+return we have no risks
+in liquidity because we are working only
+with project without without free flow
+okay
+i actually uh um posted the uh more
+detailed description of the program uh
+on the device
+uh so please
+just look through through the article
+some of you may be already seen this
+before
+uh so this is actually needed to to
+boost the number of uh good projects and
+uh what sergey didn't say is actually
+that uh all such projects will be really
+tightly uh
+through uh through the
+compliance parts through the due
+diligence part uh
+by the defile lines and uh only the best
+of the best will will be able to
+participate in this program and the
+number of uh places is limited so
+actually for the coming two months there
+are only five places one of which is
+already occupied
+uh
+so
+if you know such projects you have good
+contacts with the
+founders so please please
+send them the link and
+they can
+should contact us and
+propose the project
+yes ivan please
+yeah
+sergey you talked about breach and
+vibration will be two two-sided breacher
+will be like returned to uh to outside
+bridge or
+uh what is it what kind of what
+capabilities of the bridge
+of course of course breaches
+to site
+yeah that's nice
+uh and but
+unfortunately in uh in in in nfts there
+are a lot of different standards
+and um
+and it will work with uh standard of
+sale company that
+and uh
+i think maybe it will not work with a
+different standard now in the same place
+but i think it's it's normal situation
+step by step we will go to
+unique standards
+for some time
+what do you think about the true trinity
+like brighton labs released
+a few days ago
+i i i
+i don't i don't uh learn this standard i
+i work before no not only nft my my word
+is defy
+okay
+oh yeah by the way
+by the way uh i i recently like brought
+you about bitcoin stuff and i added yes
+yes let's let's go let's let's start to
+chat with them today
+okay
+because bitcoin is very interesting
+project
+which one
+bitcoin
+git coin i mean okay yeah
+yeah cool guys
+all right so let's move on uh
+so uh guys from dev team uh kindly
+prepared the draft for the third stage
+of the free tone decks
+implementation contest so uh alina maybe
+you can just say for words about this
+uh yes sure uh as we discussed before
+on the previous weekly call we prepared
+a document which states
+the terms for final third stage of
+implementation of the decks and we
+tagged
+uh all the
+participants from previous
+previous stage
+i again uh tag the post so everybody can
+check it out again who didn't see it
+yeah um there are some
+organizational moments like usual
+and there are
+parts like general requirements um what
+must include application
+and criteria uh evaluation and hard and
+soft criteria uh and also artifacts
+there are
+it looks like a lot of information but
+we try to be more specific
+uh and we also try to use some phrases
+to
+make it uh possible to
+meet the criteria for any kind of
+architecture
+so yeah i will be
+happy if
+everybody can enjoy the document and we
+can put it for walking very soon like
+this week before the next weekly call
+yeah i tell everybody again i don't see
+the point to read the whole document and
+waste everybody's time
+absolutely absolutely so everyone can
+open the google doc and
+have a look on their own
+yeah
+just just to make it more noticeable
+here on the car absolutely absolutely i
+will just pin it
+does it exist in the forum
+not yet because uh
+we have not that many participants and
+do not uh
+like uh
+to make it more clear to publish on on
+the forum but it's not a problem we can
+put it it doesn't take much time
+yeah please put it into the forum just
+as a good way to discuss it
+okay
+okay very good
+yeah and zoro please
+hello everyone uh so do we discuss some
+minor detail or well major details from
+there now uh do we have like like a few
+minutes to uh
+yeah we can um but i i doubt that
+everyone has already uh
+deeply uh learned it and uh maybe
+it's worse to
+draw attention to this and uh discuss in
+details next time so as you wish up to
+you
+yeah just some some minor things and
+well
+i actually expected
+people to have already seen it so yeah
+maybe
+i'll explain it it's not really some
+complicated stuff so um there's the um
+general requirement uh
+about the yield farming
+uh so it says like this uh the contracts
+and methods for maintaining like so a
+general requirement for for the tax
+solution contracts and methods for many
+maintaining liquidity and users
+uh which includes yield farming
+remuneration market making and other
+ways of maintaining
+so
+um yeah i was thinking uh
+is this uh
+should this be a general requirement for
+for the future future products uh like
+taxes uh um
+um well since
+uh
+well you guys
+have um yield farming already in your
+product in process exchange and i
+believe it's open source so is there
+any sense to develop this stuff if if
+there's already a solution like that or
+maybe it's easier to include the open
+source uh
+if it's needed in double taxes later on
+maybe it should be included
+uh
+maybe
+well
+converted from
+that's clear yeah yeah
+should it be there or what do you guys
+think
+alina maybe you
+uh yeah uh
+we just probably would
+i cannot tell you like right now because
+we were looking at our own project first
+and
+we were thinking we had like purpose of
+uh
+finalizing project and make it like uh
+working by itself in the future and be
+able to work effectively so yeah we
+added yield farming but
+we can think uh about this uh question
+and uh we of course we can discuss it
+and
+[Music]
+take into account different uh
+small things which can be
+we can still take time uh to implement
+uh open source code into our project
+or maybe somebody else has also opinion
+on that
+yeah i just think that um it will be
+something like
+including
+an already
+complete part like i don't know
+like developing a governance mechanism
+that is already developed in freetown
+ecosystem so uh why
+why would we
+um want to
+expand
+all the teams time on on development
+something that is already working in
+other
+solutions freedom interior ecosystem i'm
+not sure if if brox's
+yield farming stuff is
+open source i'm pretty sure yes it is
+yeah well since it's open source i
+thought that maybe it's like
+not very uh
+maybe
+we cannot we cannot tell from scratch if
+it's compatible with the with our system
+but we we have to check that thank you
+okay yeah another thing uh is um i've
+noticed in some parts of it i'm not sure
+if the proposal will be included in both
+uh language variants in the
+like on the forum and in the
+to the voting but there's some parts in
+there that i've noticed maybe are
+not very good translation but uh there
+was um
+a part about making the most out of fees
+and uh
+um
+most of the commissions and storage fees
+yeah yeah i believe what it meant
+what it was meant to be uh is making
+effective uh use of the
+of the uh
+well fees collection mechanism and stuff
+like that so maybe double check that
+translation because it's not clear
+by now document is open for comments so
+you can leave the comments uh in any
+part of it and this is why we wanted to
+put it in the
+chat before put it on the forum uh yeah
+but we'll do it today anyway
+okay
+okay yeah and um well last but but not
+least i wanted to ask everyone if if
+if you guys think that uh
+the current um
+system for
+evaluation
+is
+is fine i mean that it's not formal or
+that it's not like
+standardized because we have uh
+in in both the previous uh contests and
+in this one we have
+hard criteria and soft criteria which
+could be probably easily translated into
+it sort of like a standardized system to
+to
+maybe
+help judges
+[Music]
+to to help judges have a standardized
+to
+objectively
+judge every solution and to have like a
+set of scores that can be then
+translated into
+a single score that we have in the
+governance right now so
+what do you guys think if
+should should we
+think about
+um well
+maybe standardizing the
+the evaluation process or is it okay as
+it is right now
+good idea
+to be honest sorry sorry for this
+please
+yeah i just uh communicate with some
+other uh some other
+sub governance and yeah some of them
+they really do have already have this
+thing and they
+put scores according to each criteria
+for example uh minimum and maximum and
+they put some score and they still uh
+leave some points for
+um
+personal sub subjective points from
+jurors
+yeah i don't know i i just didn't feel
+any problems with the
+scores we have now but if jurors have
+some troubles with the valuation
+probably yes i don't think it's a
+problem for us
+i
+yeah alexey i think had some more
+comments on that
+yeah it's a good idea because it's
+it's one of the
+way to
+make more clear
+assessments of the
+different submissions and it will be
+it will give a more
+like understanding for participants
+while they get such
+marks and
+make whole process more clear and
+transparent
+so i completely support this
+uh it's
+on one side it's it's a good approach uh
+actually to make kind of uh recommended
+assessment framework yeah so what what
+jurors should look like which should
+look at
+when checking the solution
+but on the other side uh i don't think
+that including this in the contest
+criteria is is a good idea actually
+because
+uh
+in this way you can you are removing the
+um
+how to put it
+the
+not subjective uh i mean that
+some judges uh can use their own
+criteria system to assess this or that
+work uh and uh
+if they can explain uh why they uh
+put this mark
+so uh what's the reason to impose uh
+some some different system to them
+because uh this was in the very heart of
+return actually to to let judges
+their own decision
+uh make their own decision and of course
+we can recommend but we cannot
+of insist we can insist and we shouldn't
+use because uh
+no no no remember it is just a function
+it's a function when we get the entrance
+for a
+contest description and submission and
+the result of this function is the mark
+or what you call this exactly and this
+function should be
+repeatable and should be
+reproducible so
+alex
+we talked with you about this uh several
+times already so let's just stop it here
+uh so
+people no no no
+no no no alex people are not robots
+and everyone has their own
+grounds and has their own set of
+criteria so
+we
+have people alex sorry sorry let me
+interrupt you so uh we have jury with
+different uh
+competencies and uh skills so we have
+good economists among us and we have
+good programmers among us and uh they
+judge from their standpoint
+so programmers judge from the technical
+standpoint and economists judge from the
+financial flossing points and the user
+convenience and so on and so forth
+you can recommend
+alex sorry you can recommend certain
+approaches but yeah it's always up to
+jurors uh
+to decide on the final score so and you
+cannot uh prohibit this or insist uh
+this is that approach as ultimately uh
+and truth
+truth one
+so uh
+otherwise we will get uh
+all this uh [\h__\h] that is happening in in
+some mems up governance and in uh with
+all these gift cards so uh
+and so forth i can remember several
+contests when they tried to impose such
+system and in the end it just masked the
+inefficiency of jurors so uh and just
+served for the
+uh
+specific submissions
+so uh i won't don't want to see it here
+so sorry
+yeah you don't i don't want to see here
+either like the mess that we have now
+when one jury member is a session one
+completely undescribable in
+completely absent point from the contest
+description as others you remember
+uh assess some other side of the
+solution and in this case the result is
+not
+connected to the
+uh the submission itself is connected
+for example if you have
+more
+jury members like
+from
+user interface or more developers this
+is uh
+that's why we should have a balanced
+jury actually so we should have some
+representatives having a good technical
+skills and some other representatives
+having some financial skills and we
+should have a significant number of such
+jurors that's why there is a contest
+already running uh for recruiting
+additional jurors here
+if we all allow every jury to use their
+own scale why do we need the
+contest description at all
+why do we bother in
+jurors
+jurors should look at what should be
+delivered in the contest and not uh
+the country should not regulate on how
+they judge
+these are two different topics
+yeah this is what we are missing here
+no uh it's it's uh it's not something
+missing so actually we have a procedure
+on how to uh
+calculate the results price places
+actually as that uh for some reason has
+failed in the interface uh and i will
+check this why why was the reason
+although everyone supported it
+there's
+you can choose between different types
+of calculation methodics uh
+on winner's side so it can be strict
+lose or default mode
+i explained this last time so what was
+all of this about
+but
+there should never be as a direct
+indication to jurors on how to judge
+because in this case we don't need
+jurors
+have it but but right now uh there are
+people with different skills who are uh
+assessing uh
+complex technical and financial works so
+and uh that's really uh
+will demotivate first of all them uh
+because they do not get uh
+such high rewards yeah to to serve such
+simple functions you can easily recruit
+uh several people who just uh scan
+and just put marks so and this will
+remove the whole sense of judging by
+independent community
+yeah because of this i am saying that
+all jury members should have the same
+scale same criteria you can recommend
+but you cannot insist so
+it's up to you
+to propose it to jurors and uh
+they can use or cannot use uh your
+proposed scale but if it's helpful for
+them so if it's uh fair in uh the ice so
+it's okay
+but it should not be a condition in the
+contest
+you are scaring us with the situation
+that we have now right now we have a
+very dismotivated
+contest when every jury
+uh uh assisted by his own like
+criterious unknown criterias very
+different criteria
+this is
+that we have now
+this all very
+uh motivated for participants this is a
+problem
+come on come on guys uh all jurors are
+known
+if you have some questions to jurors so
+please go and ask it's not only
+on the other side when jurors should go
+and ask participants but it's absolutely
+symmetrical
+if you have some questions to jurors so
+just go and ask
+come on and just let's stop this
+discussion because it's not fruitful at
+all
+there will know there will be no
+indic direct indication on how to judge
+because it
+simply will ruin the motivational jurors
+and their proficiency
+because and nobody knows if this
+proposed uh assessment scheme is ideal
+or not it's it's only is a uh well let's
+call it a market can show it
+over there it's an unprovable statement
+yeah pretty much it's a assessment scale
+can i say hi guys
+excuse me for interrupting
+but
+i have a few words to add i think there
+is no in fact contradiction because
+uh it's uh that's right that uh proposal
+uh contest proposal uh do not uh should
+not have any
+rules and indication of how to judge but
+we have
+very complex uh contests and there are
+many uh hard criterias and soft
+criterias uh inside the contest proposal
+and that criterias are uh
+already uh indicators of uh how to
+measure how to judge
+um not not how but what what to do what
+okay okay there are two different topics
+again uh what to judge right you're
+right but uh every point uh
+from the contest proposal uh should
+should be taken into account i think we
+understand this
+or everybody understands this so
+as i
+understand the proposed schema is just a
+formalization
+of
+the scoring not not a measure to
+a point
+to judge to
+make his decision somehow it's just a
+formalization to make the
+uh
+judging clearer clear and and the votes
+will be made more transparent will will
+be more transparent
+it's like
+a scoring a card
+which
+used in many many places uh
+many many years
+the issue the issue here is that
+you uh intentionally frame uh and limit
+the extent to which jurors can judge
+and areas i know
+exactly so so
+that's why i'm against this because you
+directly uh indicate that you should
+should have this area this area and this
+area and you should put scores like this
+so uh this
+just
+seems very good but in fact what it does
+it
+restricts
+jurors to certain
+judging behavior
+and
+if they for example see that for example
+you have a good
+work yeah but it has some drawbacks but
+in overall this work deserves the first
+place but
+due to this framework
+this work gets low score
+and we are here not to to you know just
+uh for uh to run contests for the sake
+of context we are here to build the
+excellent defy ecosystem
+yes that will that will attract users
+and that will
+actually
+create such good products and framing
+the judge's decisions is is a bad
+precedent
+okay i understand you um
+i i'm just thinking about uh the
+formalization of the criterias written
+in the contest proposal but if you think
+that uh
+every judge
+can
+bring some
+some his own opinion and that opinion uh
+should have an ability to prevail over
+the technical requirements i understand
+you but
+not exactly they they uh look there are
+hard criteria that should be met uh by
+the contest
+but how to interpret the level to which
+this criteria met it should be up to a
+juror
+because
+if it's written uh in hot criteria that
+you should put a smiling face on the
+page
+you can just take the first shitty
+smiley uh from the internet and put it
+there or draw it by your hand and make
+it organically
+integrated into the page uh
+both of them are technically met's
+requirements
+and uh if you directly indicate that uh
+you should indicate
+binary uh for example that it's met or
+not yeah so it's it's not like not
+working like this
+and believe me there are hundreds of
+different criteria uh in a juror's mind
+when he's assessing this work he's
+comparing
+different solutions with each other and
+uh
+that's why i'm saying it's it's not
+prohibited to recommend
+some approaches and i believe that over
+the time so we will get some kind of uh
+good good practice
+yes i think yes i think that we can
+somehow join two approaches because
+um
+the proposed approach
+makes much more transparency to
+some of them absolutely for the tremor
+transmissive don't get me wrong okay i'm
+just against the uh tight in the hands
+of each uh
+participant
+yes of course we we should
+make uh we should
+uh leave the ability for for judges to
+uh make their own decision and
+make the
+remark and
+comment comments
+uh if they think for example that
+some solution will not work in the real
+life i understand absolutely
+and we i think that we should postpone
+this very complex question to the next
+meeting or so
+and uh think about how we can
+really improve and make a step forward
+in fact
+okay
+yeah thank you thank you
+you had something to say
+yeah
+well pretty much
+everything i wanted to say has been said
+by you guys but yeah i i think that we
+can we can easily combine two approaches
+to leave
+um
+some space for interpretation for each
+other individually and also give them a
+framework and
+also the reason i wanted to to propose
+this is that i i've seen that it was
+really hard for judges because of many
+different uh contests that were
+overlapping and they really had very
+small amount of time well very little
+time to
+to
+assess everything and
+uh the solutions are really complex so
+if they're there's some sort of like a
+framework that allows them to
+uh to
+get basic uh understanding uh of
+the heart criteria and of how hard and
+soft criteria are met and then also add
+some
+subjective opinion from them maybe it
+will be easier and faster for them and
+uh less complex for them to
+and less overwhelming for them to you
+know
+again
+you can always recommend and propose
+some uh
+good approaches so uh
+i'm not against this again don't get me
+wrong i'm against imposing some
+approaches
+because it takes out creativity and
+freedom of uh jurors
+so that's it uh okay so uh sorry guys i
+have to to interrupt this discussion
+because we have one more topic to
+discuss uh sorry thank you thank you
+guys for for your opinions
+uh
+they're really really available
+so and it's not an easy question by the
+way yeah
+a little less can we leave it for the
+next time then i guess yeah yes yes
+absolutely i will just schedule some
+time to discuss next time uh so we have
+uh the discussion on the
+self-sovereign identity by vladimir so
+he has raised his hand already
+so we have 15 minutes yet
+yeah thank you by the way i raised hands
+to to
+how to say to
+support that answer
+about the previous tough topic and the
+for sure 100 percent agree that we
+start to think and start to implement
+dividing to the two group of of
+evaluation stuff something formal one
+and formal one
+by the way the heart criteria in
+software theory it is first step to do
+that for sure there is a very very
+complicated question how to make a
+matrix of of
+uh supposed
+scales or or
+marks for
+some some
+card criteria but anyway it should be
+done somehow where it should be
+applicable it should be where is not
+we we
+can discuss or can think about it okay
+maybe or maybe
+ssi will be a solution sure let's make
+by the way yes by the way yes and i will
+try to to talk it shortly right now so
+about the ssi the cell salary
+identification uh we have
+four submission and the the voting is is
+finished what i'm gonna do
+until next call until next thursday is
+to connect uh all of that submissions
+and all that authors and
+talk shortly with them about the how
+they
+intends to continue this activity or not
+are they capable have resources or need
+some resources because uh deeply
+involved in in this subject
+for last months and
+meanwhile i'm trying to not trying
+started to
+outline the
+the
+next
+phase development phase contest whereas
+the smart contracts whereas the toolkit
+or sdk let's say
+for for working with
+the id what means digital identities
+distributed identities uh in documents
+verified credentials for for tom
+blockchain for free tone i mean and uh
+i i know that one one of team one of the
+team already uh requested to talk with
+someone with the free tone community
+to
+to outline uh not mvp but like let's say
+the working prototype how ssi uh should
+help to to to work with the community
+reputation i mean the forum mostly and
+i'm offer it uh to to work or to play
+with the jurors uh probably the
+governance and sub governance members i
+mean uh anonymous observed
+[Music]
+credentials and uh on the next call i'm
+gonna present what what i learned from
+the teams and probably it should be
+draft published to discuss uh for
+technical developments uh phase so i'm
+very excited on incident i strongly
+believe that for reputation we can we
+can start on the real
+real implementation of ssi on our
+blockchain and community that's it okay
+okay thank you vladimir uh i'm actually
+looking um
+from you and other participants of the
+first stitch of the contest
+the
+road map for implementation because ssi
+is far more complex than it seems on the
+first side
+and
+exactly
+it's
+i'm not sure that uh we already have all
+the functional elements uh ready in free
+time for for now so i may be wrong
+hopefully
+it's it it should be two or three weeks
+later and
+i will request the
+our gurus in core
+frison to discuss it with us because we
+already have we already have some
+technical guys who are asking me but i'm
+it's out of my knowledge to to discuss
+on the the
+um appropriate level so i will ask the
+proxy so probably media will advise some
+some people to short
+consultants or even the workshop to to
+advice
+how to and where to look let's say
+because because we know it on the
+application level and we know it's on
+the let's say ssi level and the
+but we need to go deeply on the level of
+the core level of the working with the
+blockchain
+okay
+so but uh i i just wanted to say that uh
+despite that we may not have already
+some some blocks for needed for society
+to function well uh we at least can
+outline the way to go so and
+try to to split it in some uh stages
+that will just
+yeah yeah with deliverables
+with two months uh with two months uh
+period stage per stage good yeah good
+good
+yeah there is a ton the id on uh
+distributed decentralized id methods
+implementation it's
+very good
+and enough deliverables for
+first first stage for
+okay very good
+by the way but i would like to add here
+that the the very important is to like
+not
+developing some like solution inside a
+vacuum
+but practical
+uh kind of use case like
+so so introduce some use case
+just as as soon as possible
+uh not not just kind of protocol which
+is not used anywhere exactly let's let's
+do that in the parallel i mean the use
+case of the taunt community reputation
+it's number one in the jurors and
+government members reputation and
+activity tracking is number two and
+our systems by the way
+and our system is number three for sure
+because i i know the requests here
+[Music]
+in this in this case we need to to do
+some customer development
+with
+uh brooks let's say for for dao because
+i know it's a hot
+topic in
+the end of the summer and for jurors in
+defy subgauss at least as we heard few
+minutes ago as well
+yeah yeah
+it's not only for the sub gap uh uh it's
+actually as we are moving towards uh
+creating the
+uh
+independent groups or proficient jurors
+for different uh with different skills
+so uh i think the ssi will will fit
+there very well
+because from developer i'm sorry from
+developer standpoint ssi is just three
+letters
+just
+maybe maybe i'm wrong maybe i'm wrong
+but but
+yeah
+can you repeat this just yeah yeah i i
+just just want to say that from the
+developer's standpoint kind of which is
+kind of not
+in into not not really into business
+kind of stuff it's the ssi concept is
+just the three letters uh and it just
+about some idea you mean you mean you
+mean just just an acronym about
+something some some subject rights in
+identification
+yeah yeah yeah nothing more so i see
+yeah
+okay and that's why that's why you're
+asking about the use case and what's the
+real implementation can be right okay
+yes yes yes because i understand like i
+can like
+maybe some have some thoughts about kind
+of i'm receiving some achievement here
+and then i can disclose this information
+to another application and have some
+benefits inside it but uh
+kind of it's not really formal yeah yeah
+from from from the you end user
+perspective it's a looking like you said
+for sure but for for the developers
+it's completely different angle but for
+the uh issuer
+and verifier right
+there are different rules okay we can
+discuss it later because it's very
+very
+uh important to to educate people about
+the the the real implementation
+that's so and vlad
+not about only the jurors but about the
+free tone forum as well because i see
+that huge flutes about it who the guy
+who is very deeply involved in all these
+bus it's a roman d or not so probably
+ron who who i need to talk with
+i think roman d is uh the right person
+because he he i think has the most
+knowledge about the community of
+freetown
+um yeah i i i also wanted to add uh
+about
+the use case of ssi is actually
+kara's implementation of self-sovereign
+identity identity is is actually the
+basic infrastructure layer so if you
+remember so we discussed already
+in some previous calls that
+right now we are still building the
+basics so and
+these basics are needed to
+let us create some more high level
+solutions like for example uh
+uncollateralized credits so that
+requires some scoring models that
+require
+some better knowledge about the person
+and making sure that
+this person has attraction on his
+history
+and for all for example if we would like
+to develop some ecommerce stuff
+on friton
+that will be
+purely
+web free like with likes to say
+uh so uh
+there may be
+a need to to check some information
+about the the customer like i don't know
+if he met uh meets certain age criteria
+i can buy
+just imagine he can buy some beers
+online yeah uh but the website needs to
+check if he has 18 years already and
+with ssi frameworks uh the website can
+uh check this information without
+disclosing the real identity of the
+people for sure and
+this is the whole reason um
+behind yeah there is a zero zero
+knowledge the proof is working up there
+as well for sure yeah and yeah we can
+mention we can mention it in the request
+of the next phase but for sure
+in case you said that the website is the
+very fire
+he he able to to verify or or can bring
+the role of issue let's say it may be
+useful for our
+implementation of our use cases okay i
+will try i will try to draft it and put
+it on the forum to discussion group as
+well
+yeah
+just just one more thing i want to say
+that uh if you uh track
+some political news so you may have
+heard that european union adopted a new
+resolution that
+actually uh implements as a signed place
+and sure sure there is a standard up
+there i have the documents yeah
+absolutely as of now
+and more than that one estonian company
+can contact us and they
+who
+have integration with that european
+standard
+the back end the classical one
+completely nothing to do with blockchain
+at the moment but they uh contacted us
+in in dubai in the last events and we
+shortly spoke with them about how to
+combine is it was the free tone
+activities
+with the the standard implementation
+with european it should be very
+interesting as well as estonia is a part
+of the european union and probably we
+can find some use case or prototyping
+there i just wanted to say that uh this
+is a good opportunity for freetown to
+become
+to find some
+application
+not only for financial purposes and
+if return becomes the blockchain
+the blockchain that is used by
+government governments for
+uh
+just ssi purposes so it i think it will
+be a huge win for the whole blockchain
+the for follow of the ecosystem
+and uh speaking about estonia that's
+actually not maybe everyone knows this
+but estonia is one of the purely digital
+countries and uh besides the fact that
+you can uh open a cryptocurrency company
+there
+that everybody everybody knows it
+actually implemented uh the
+digital nomad program that allows
+almost everyone from uh from the around
+the world to open a company in estonia
+with getting just the electronic key
+named
+residency and
+you can manage all your company and all
+your needs
+with this digital key which is in fact
+is a part of the
+ssi framework
+so uh
+yeah so this is just
+some some thoughts another one another
+one good use case it's the
+uh crypto developer let's say or
+blockchain developer
+most of them or not most but number of
+them they do not disclose the the real
+identities
+there is a reason because they they have
+some
+enough money in crypto and they trying
+to keep the anonymity and so on and but
+the the one of the submissions is the
+submission number one is to step on he's
+bring this idea and say let's let's talk
+about that because the
+number of people who are developing in
+the ethereum let's say and they we
+should convert it into the religion of
+of the friton let's say but let's start
+the platform to attract them for it's
+for sure you should blockchain agnostic
+i mean that that stuff of uh end user
+portal and so on but another one good
+use case
+so
+to disclose to disclose that the track
+records the
+i don't know the
+tv etc but never mind it's a little bit
+later in the prototyping in august or
+something and now it's the phase to
+develop the methods
+to create a resolution and be able to
+identify the blockchain
+okay uh so our time is over actually so
+i really thankful to everyone who
+participated in the discussion although
+we may not uh agree on certain points so
+it's good to have to hear different
+opinions and let's continue this next
+time
+so when uh we will specifically allocate
+time for this
+uh so
+i just
+wanted to wish you a nice weekend and
+talk to you in a week
+thank you
+bye thank you
+bye

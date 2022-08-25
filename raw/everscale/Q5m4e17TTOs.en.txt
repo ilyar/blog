@@ -1,0 +1,821 @@
+how can I hear
+so
+so you can’t hear
+he
+now gave her audible now audible
+now it went great
+ladies so I brought the presentation on the screen
+it’s visible yes it’s visible so let’s start with a small
+introduction welcome everyone to our ama
+session of crypto itself today us
+vladimir to the founder of crypto today
+in detail  he will tell you what he does in crypto
+in general, in general, he works and
+answer the questions of users who
+were sent and which you can ask
+now right on the u tube
+vladimir God bless
+you to introduce yourself and tell about the project for free thank you very much for the presentation,
+that's right, I'm one of the co-founders of the
+armelle company  crypto, we have
+several of our key products about
+one of them, today I will just
+tell you about a specific
+insight into the key features of this product, well
+, I will conduct a small demonstration of how
+it works in practice, and for those who do not
+know who we are, we are generally natives  from
+data analytics, in general, for many years we have
+implemented various  e analytical
+projects for large businesses from the
+banking industry
+from automotive structures from
+production and logistics and at the
+same time
+invested in various
+crypto projects, that is, it
+was quite close and familiar to us
+for a long time and our
+professional skills took place
+plus a team of these specialists  analysts
+allowed us
+to build a fairly series of effective
+dashboards for the Iberian la version
+just became for us such a certain
+testing ground that allowed us to
+implement the most daring ideas that you
+somehow implemented for our customers to one degree or another,
+and
+plus to realize something that, in principle, is not
+the customer always gave us the opportunity to
+realize due to certain
+commercial relations that we had with
+them here, but we allowed ourselves
+to create here, let me remind you what is called, in
+the end we found
+to do what we are very good at doing,
+we began to collect data, aggregate
+them, process both  quench from various
+sources, and moreover, we are talking
+not only about transactions that are visible in the
+blockchain, but in principle, various
+specialized telegram groups, open
+forums, and so on, and all these
+various sources that we have
+accumulated and recently exceeded
+a hundred at the moment  we built
+various cohorts, divided addresses into a
+cluster, and at some point in time
+we saw that we had so much data that
+it allows us to assemble a full-fledged
+commercial product and implement the
+ideas that we had, this
+product is called internal and the beholder
+is a tool  which allows you to
+analyze transactions and
+addresses of various project exercises,
+taking into account the fact that we initially built on the
+basis of be a platform the leading bay of platforms
+such as clixsense microsoft power bi, but
+at the moment we have gone much further,
+that is, all the developments that we are in the
+process of this way  realized
+we were allowed to create our full-fledged
+very strong  a product that allows you to
+conduct fairly deep
+investigations is a whole program an
+analytical system
+that actually sees where the funds go,
+it enriches with additional data
+what data I will show you a little later
+that as a result we
+get a visual graph of connections that
+allow you to conveniently analyze
+where the funds flow  and
+issue in the context of risk addresses via
+api so that our partners can
+verify the reliability of one or another
+counterparty On February 4 this year, we
+received a universal grant and since then
+quite a lot has been done to
+date, our team, including
+thirty-five permanent employees
+who work every day  work on the
+development of this project and what
+we get is the principle of a very strong
+drive 1
+what I would like to note when we talk
+about crypto users, for analysis,
+as a rule, they use scanners such
+as from orsk, such as blockchain trans
+can euro scan and  and so on, and the key
+issue of all these scanners
+is that sometimes there is a lot of data
+because of the addresses, it is not entirely
+clear who sent the funds where and it
+is very laborious to
+figure it out and
+we have not yet touched on the topic that
+users one way or another their tokens are
+users  one way or another they
+interact with various contracts with more
+contracts they send for validation
+they send musty king they
+send for farming they don’t send
+their funds to the dow in order to influence
+the decision that is made on the network and
+scanners become very difficult
+tools to understand what exactly
+happened without saying  about when you need to
+quickly find the relationship between addresses,
+quickly understand what exactly is happening, and
+in the connection graph it’s clear and just
+wedding that there is each circle, this is the
+vertex, conditionally speaking, the address and all the
+tokens that it sends the address of
+another address, we see seeing one line
+but at the same time  we can easily
+dive deeper and  see what
+transactions directly constituted this
+interaction if we have a two-way
+interaction, respectively, a double line
+will be at the expense of a line that
+displays the relationship of this
+address with other addresses, of
+course we have and not only faith
+, we have these three tokens which are
+quite a lot and very often it is
+necessary to understand  interaction, taking into account
+all this information that
+we currently have, we have implemented this story
+through equivalents, we
+directly bring type 3 tokens to dollars,
+we bring the carpet in accordance with the
+exchange rate on the date of the transaction and
+thus we see the equivalent of an example in
+dollars, how much one address sent to
+another  we see directly in what
+currency in this case here 1
+transaction was carried out in and sdt here
+we actually see the date when this
+happened we see which
+tokens directly interacted in the exchange between
+these two addresses when hovering the
+mouse cursor over each specific  th address,
+we will also see what
+balance it currently has and what is called an
+express such soon or what
+we currently have, and
+then a very interesting thing begins, we give
+detailed information about this
+address, and we issue information not
+only in  in the context of his current balances
+that he currently has
+in different tokens, but we display
+information, including how much
+specifically he has in farming,
+how much he sent to stating, how much he
+has directly in one type or another type
+3 currents are not located, we display
+information in the context of ari soon when the
+first transaction was made we
+structure it what we are really
+good at understanding it how to
+enrich the data in the end we
+display information who is behind this
+address and this information is
+very carefully
+verified by compliance officers they collect various
+sources there is  always a list of those
+sources that confirm
+whether this address belongs to one or
+another user, we have a
+fairly constant work of complaints
+officers from a research on the analysis of
+clustering this data, we see the
+historical balance of how it changed and we
+see directly with whom this
+user filtered, that is, with whom
+this address interacts and relatively
+speaking  where we believe that it
+has several examples of certain
+addresses, we certainly show
+information in the context of ri soon and we
+would like to show users how
+this risk was formed about from which
+other addresses with whom
+this address interacts in the process of work, how much
+it sends to other users
+how much he received from smart
+distribution contracts how much he sent to
+deepcool and how much he sent to
+farming how much he sent to many
+different sources and we blow what kind of
+holistic information and at the same time we also give the
+user the opportunity to
+look in the context of, for example,
+specific transactions and
+switch  to read an example in the context of tokens,
+how many people interacted with the dts union,
+how many interacted through give, and
+so on, the
+next block is just our very strong
+competence, this is aspen enrichment of
+information from open sources of
+information, we aggregate gigantic
+arrays of data, we with them verify their processed data, and
+ultimately structure them to give
+a holistic picture and the most remarkable thing in
+this story is that here we
+give our clients the opportunity to specify
+one or another address, mark it and the
+system will tell him, possibly based
+on the entered data,
+additional information that he
+did not know, for example, in which groups the
+user is in which data he has
+interests based on various sources
+and, accordingly, will create a more
+consistent impression regarding the
+counterparty with whom he works.
+it is also useful to google this or
+that address and we do it for the
+user automatically, we issue
+information in the context of the given address
+that we are currently viewing from the point of
+view of issuance in the same Google and
+plus the mention of this address or
+this user in various so
+-called data links which  it also allows us
+to enrich our information that we
+know about the person we have done quite a
+lot and what we have done
+makes me quite proud of
+our product when we showed this
+product to our partners there is a
+leading analytical platform
+clixsense when they saw the whole thing
+they invited us as  the speaker to
+present here the product that we
+got in Kazakhstan, we again
+flew the sultan killed, showed how we
+conduct crypt investigation of hard
+incidents, how we analyze and
+pasteurize certain addresses 2 hours, we did not
+participate in the second quarter in the
+conference technician what was held in
+Moscow  at  we have implemented a lot of
+things initially, in general, this
+product was built on the basis of the bio platform,
+but it has long gone beyond the
+bio platform as such, we have implemented
+our own functionality, our own
+platform, which allows an increment to
+load data in the context of a transaction
+in order to ensure a high
+speed of loading information, we
+implemented the possibility of saving the
+created investigation when we
+conduct some kind of audit so
+that all this can be saved and returned
+to it a little later, we have connected,
+in addition to the euro, also various types of inflows by
+us now and we are connecting a number of
+blockchains, we have created an api for our
+clients in order to  they could
+receive certain risks this quarter
+3 is also going quite well we have
+already scheduled for september and the
+arrivals in baku in tashkent with this
+product in october and november we
+have planned london and moscow with
+performances where we will present the
+whole thing in order to
+we are also negotiating with our
+colleagues, we are not sure within this
+portal, these negotiations have been successfully completed
+in order to provide risks in the
+context of those addresses of those blockchains with
+which they currently interact
+and r scale through bridges and to the
+current  we have not marked the moment yet,
+but it is a matter of time, of course, when
+we will start marking, but already at the current
+moment, at the final stage, such
+negotiations are underway, we have a
+lot of work processes related to the
+improvement of ari models, soon,
+taking into account quite a lot of factors
+, we will eventually lead to  models where
+for each partner there will be a flexible model
+re soon that they can independently
+build for themselves what they specifically
+need, how they perceive
+certain categories of addresses, for example, this is the
+same gambling and so on, we are very
+actively enriching with various data sets
+and marked out simply  huge
+number of addresses  various smart
+contracts of
+couples that you are currently spinning are
+happening and this work is happening
+every day 35 people
+are working on this product every day and we
+also have very high expectations of the action of
+what will happen next, in
+addition to the noted conferences, we also
+finalize the product so that the results of ri
+soon, which our
+users request was recorded in the blockchain, this
+can be very important so that
+after a while if you are asked
+why you decided to work with this or that
+address, so that you can show
+that in the past I checked this address
+and it had a good iori indicator
+soon we are improving the
+calculation model so that everything works even faster
+we are moving towards other
+project exercises we automate as much as possible
+we will enable our users to
+log in using their crypto address
+without entering a login password and
+many many many other things we have
+planned as part of the fact that  we
+are doing, we have come
+a long way in terms of
+implementation,
+plus we
+have also created a small to be
+both for our users, which allows you to
+mark up this or that address if you wish, this
+will all go directly to us will be
+verified and will eventually be
+entered  to the database, of
+course, we will come up with a
+motivational program for those people
+who will take an active part
+in this process.
+Also, I
+draw your attention to the fact that in this water we
+have a
+wonderful option on our website that is to report
+some kind of incident if
+you have become  a victim of
+scammers and scammers have stolen funds from you
+, feel free to contact there,
+be afraid, it turns out a form that you
+can fill out, you can write to us
+through our website ask for help, we will
+certainly try to help you in
+order to find the intruders and
+try to return these funds.
+what would
+you like marks  it’s very sad and ready to answer your
+questions, it’s
+very sad presentation, but
+he forgot at sharam if necessary, I’ll
+turn on a video demonstration so that
+people can see the
+live demo how it all happens how
+it happens work in our
+tool
+but let
+’s see this interface in this case is found
+in the address  line here or at the address, the
+system automatically looks in this
+case, it found the user who
+owns this address, then it
+displays all the colored balls on the connection graph,
+which means these are marked addresses,
+respectively, we immediately understand by color
+what type of address the interaction
+in this case, this user is
+quite a lot  interacts with
+addresses with more distribution contracts
+participation in various contests that
+were previously
+different exchange dex with whom he
+interacts purple these are other
+users as such on hover
+we respectively see his name ivory
+score
+interaction with each of the addresses the
+total amount of interaction we m  we can
+click on one address or another if
+we want to see what interactions with whom the
+next address can
+move the position accordingly is
+saved so that we can
+visually compose a
+certain route, as we are used to, as
+it is convenient for us, we can sometimes
+encounter such a situation when there are a lot of
+addresses  and we have to work with this somehow,
+there are several options,
+either a filter by amount, or a filter by
+time, or a filter by different types of
+addresses, for example, we don’t want to see that a
+person interacts with more
+distribution contracts and we want to
+let’s exclude him, we accordingly
+choose what to exclude and remain  all the
+rest, you can select certain
+specific addresses when we clearly know
+what we want to find any user
+opens the system automatically
+rebuilds the
+visualization so that it can be
+placed as if for a more optimal location,
+but in this case, the example shows
+quite a lot of smart contracts
+connected  connected with the token swap in our own
+and we turn them off there, and now it is simplified in the
+perception of all information, a very big
+job is done by our guys, compliance
+officers who place, among other things,
+smart contracts that are responsible for the
+return of commissions, because if
+we look
+at certain transactions for
+certain  the addressee can be thousands
+hundreds tens of thousands of transactions and it
+is not entirely clear with whom this user is
+interacting,
+and when there is a specific signature that this
+address is responsible for returning part of the commission
+when making this or that exchange, it
+immediately becomes clear that there is no point in
+researching in that direction because
+there is no  there is no valuable information, for example,
+depending on your task, you
+can see right here a
+certain risk it express and at the same time
+you can also fall into the card to
+see all the information that
+you displayed as part of the presentation, in
+this case we see that quite
+large funds were sent
+users in the dow, respectively, a
+person takes an active enough
+part in making a decision and a verst or
+a lot of such things and who
+initiated who graduated this address with whom
+it is interconnected what other
+addresses in this cluster can be searched by
+address can be searched by name can be
+searched by  many other parameters
+in order to answer some of your
+questions like so
+very much
+it can look almost 1 comment
+let's move it to different so questions
+so the
+first user asks the
+question I am a regular
+user and anza
+vestment shares how do I avoid the controller on the
+disk great question  in fact, the
+correct operation in the blockchain and it
+is very important because if you
+accept non-dating funds today and in
+the end it turns out to be dirty
+funds, you may have a certain
+problem problems of what nature the
+first these funds can be
+blocked by the exchange this time you
+may have  questions with
+pr  if these
+funds were stolen somehow
+there is a statement to the law enforcement
+agencies and the law enforcement agencies are
+sent to the exchange this information
+you will need to explain who what
+how and so on and what is even worse
+is that if you accept to your
+main address  all funds and these
+funds will turn out to be involved in some
+not very pleasant cases; in fact, your
+clean funds will mix with dirty
+funds and your risk
+will worsen  addresses
+for transactions, even if it turns out
+that something is wrong with these addresses,
+at least you don’t stain your fixed assets,
+and we certainly recommend
+checking those counterparties with whom you
+work in order not to get
+unnecessary risks by
+sowing to new addresses, this is
+really very worthwhile  advice
+from the author good evening  the product is really
+very cool and how to get access to it
+what about privacy not all
+users want their addresses to be
+published and it can be punishable
+great question means see the first one
+at the moment this product is
+being tested in a closed circle i.e.
+certain clients have already gained access
+to  to this tool, you can write
+us a request via mail, we will
+individually consider each such
+request unconditionally
+2 pascal please, the second part of the question
+there were several points
+about the privacy of the built-in one,
+so look, we use open
+data sources, that is, in fact, we
+simplify the process that
+users can do this  that is, all this
+information is not some kind of our
+secret data as such, we simply
+simplify the process as much as possible and
+automate the collection of data from the Internet
+and their structuring, therefore, from the point of
+view of the law, there is no
+violation here,
+and if the user wants to stay
+anonymous it is absolutely his right
+I respect this right very much and moreover he
+just has to observe a certain
+digital hygiene in the process of work I
+know specific people who
+want to remain anonymous they
+simply do not remain anonymous and declare
+certain due
+precautions if they do not want to
+publish any of their own  personal
+information is quite real tasks
+and
+what tools do you use when
+collecting data about
+in fact we use a lot of
+different data from
+clustering to studying the
+patterns of behavior patterns, plus
+we structure the information
+that is currently and so presented in the
+public domain the question is simply  its
+proper processing, rallies and
+enrichment, by and large, what
+exactly we do our companies with
+officers use ebay systems and
+many different scripts that
+automatically process the whole thing,
+they use those open sources
+that everyone has  how many of you have just in a
+convenient way the whole thing is displayed on the
+ogres of communication
+with
+whether you have a large staff of
+analytics I believe that our team
+is currently small 35 people
+who are currently working full-
+time on this product but we are
+quite
+ambitious  taking into account the plans that
+we have set, taking into account the
+tasks that we are facing, we are
+now expanding very actively, and looking at
+how our team is being modified, our
+team is directly taking pride in the fact
+that it’s really cool,
+very strong specialists, we recently
+got a very strong
+mathematician programmer who  teaching to significantly
+improve the rice cortex system, we have
+a data engineer who, due to the
+correct database architecture,
+speeds up the process of work or the
+service itself, we have simply
+outstanding guys who are well
+versed in analytics work
+professionally work
+bio tools reveals certain
+new patterns  ty and almost
+every week I heard about some
+small breakthrough of us, moreover, the
+team also got a habit every
+Friday we are going to call up
+our team is very large and it
+is actually spread around the world and we call up and
+exchange certain significant
+achievements that we have made in  within the framework of the
+past week as a whole for the team, it’s not
+that very invigorating event,
+realizing that this and this and this is done, but
+it’s really cool,
+plus for us, in order for the guys to work more
+efficiently, the return was not the
+maximum from these thirty-five
+people who are currently  yes,
+we have a mandatory internal
+training system, all of us guys study
+blockchain technologies because guys come to us
+with varying degrees of training
+and are not programmers and the date the satanists themselves,
+as sometimes they don’t joke with us, and we
+give everyone clear and understandable tools, we
+tell how it works  so that
+they better understand the end
+user who works  with this
+tool and who is on the other side of the addresses
+here you can immediately
+attach the following to this question what specialists
+do you need how to get on your team
+we have a career section you can
+write there there is already a
+certain one at the moment 6 if my memory serves me right
+vacancies in the end
+all of these vacancies all of the resumes of which
+we receive goes to our enchant
+manager enchant manager analyzes
+accordingly contacts you in
+order to further determine how
+strong you are and how you can be useful within the
+framework of this product how we can
+be useful
+to you come  we will always be happy to
+super before
+we send a link to the site so the next
+question is
+if the method if from the most if the most
+effective way to get the scammer
+to return pokie to the
+deceased evil is dynamization
+is called this is the most effective way
+that
+allows you to return funds funds
+can be returned in different ways you can return
+funds to the floor sometimes thanks  it’s
+just that when you
+communicate there are no words, nor are we exclusively for the
+legal side of this issue
+when you communicate with a person when you
+explain that a person stumbled and
+it’s better to return the funds we have
+precedents where people returned the
+funds were identified as scammers
+we brought the
+victim together as a result we talked
+acted as mediators in these negotiations
+, in the end, we did not go to apologize and
+return the funds together such cases,
+but if a
+person does not want to return the funds,
+there is always a law, we already have
+certain materials on the site what
+to do if you have stolen the crypt
+there are specific links
+where to turn depending on the exchange as a
+whole if you find yourself in such a situation,
+please contact consultations we will help you
+tell you what to do how
+to respond quickly to this therefore please contact
+us we will always be happy
+to help  aim or
+crypto with mixers does not work we are very
+fast  we are moving towards technologies
+that will allow us to
+work with this quite effectively and I
+will certainly show the calculated time, but
+globally I feel quite
+good about
+this, this is my personal position, because if a
+person wants to remain
+confidential and does nothing of the sort,
+I believe that he has the right
+to remain  confidential if his
+choice to be used by mixers I respect
+him this choice of
+face mixers was also
+possible to understand the situation side to the beach
+is it considered bad or good that the language of the
+discussion on this matter is because it allegedly
+slowed down the technology development of
+technology but at the same time how would
+you know  there is, for example, a hammer, I
+consider it a little current as a tool for
+just hammering nails, and someone
+may consider a hammer as a
+tool to beat people and of
+course I condemn if a
+person uses mixers
+to launder dirty dirty money, then
+I relate to this  it's bad if a person
+uses it for that  o in order to remain
+anonymous, I feel good about this,
+what is happening now on the docash side, it’s
+difficult for me to somehow comment on behalf of a
+ml crypto, I think that the
+system that equalizes all needs
+is wrong, it seems to me that
+some more flexible
+mechanism of work should be used,
+perhaps partial regulation
+participants in order for us to remain
+in the legal field
+where it will be possible to prove, relatively speaking, the
+purity of the funds that I bring to the
+mixer without disclosing my own
+identity, and
+I believe that in this approach I have the
+right to maintain confidentiality,
+but regarding the fact that the developers
+specifically closed this, I certainly
+condemn  this is an equalization, relatively
+speaking,
+they are trying to impose a certain
+decision by force instead of sitting down at the
+negotiating table and discussing in discussions
+how to prevent
+laundering it by laundering funds through
+mixers while maintaining anonymity,
+so if we are talking about the arrests of
+developers, of course I
+I feel bad about it
+so more questions no
+question answered the
+hair wants to add something at the end of the
+next month and a half we will also have
+one very interesting announcement of a product
+that will allow us to
+work efficiently with scammers and it
+will make skill games less attractive
+to them for the next two months this is in
+within the framework of the work of our company, this is not
+a beholder product, this is a separate product and
+it will be very interesting and it
+will actually allow almost everyone to
+use it a very interesting
+solution will I don’t want to
+tell you ahead of time what its essence is, but
+those people who took part in the
+discussions of this  product in
+providing feedback, they
+highly appreciated it, we just
+have a lot of requests
+regarding various crypto incidents
+before and not only about or once the key we
+have a fairly large advertising
+campaign in the whole world, we
+have studied so many cases of
+fraud directly over the past six months  in  when you wonder
+how inventive these scammers
+are in the process of coming up with schemes and we
+understand that some schemes that
+have long existed in the crypto world
+are slowly beginning to penetrate
+into the
+Iberian one, this saddens us,
+but we intend to deal with this
+now, moreover, a rather interesting one will appear on the site
+the section that
+will be devoted to such an interesting
+example of crypto fraud, some
+examples just concern even the
+scale game, that is, people asked us for
+help to
+figure it out, unfortunately people made
+quite
+stupid mistakes, they made the transmission of the seed
+phrase, although they were quite intelligent guys,
+but due to the fact that they believed that it was  there was
+a technical support employee, they
+provided him with information by filling out a Google
+form,
+we are like that,
+we will probably cover the frame, then we
+will interact with you and what cases
+can be additionally published
+in our various telegram groups
+so that more users can and
+get acquainted with  different schemes
+fraud there are quite
+interesting cases in general, we try to write
+interesting enough so that the average
+user would be curious to read yes,
+I think this is some kind of serious
+community in order to increase the
+education of cryptocurrency storage security
+, we have articles already ready, they
+will be released this week, so what
+will come out if  if you want, I can send you
+links so that
+those who are interested can
+get acquainted with the
+sound is gone
+yes, let's say let's
+get it here we are just sending a
+parcel to
+someone who asked to get into the team
+here we go Rome will tell the community is
+healthy, well
+thank you to joke that you
+presented said very cool  xenu
+moving
+straight very much the site I look very beautifully
+updated also looked stopped
+thank you super thank us thank you
+thank you sharply and happily

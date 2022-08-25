@@ -1,0 +1,1017 @@
+hi everybody this is sergey
+hello
+okay let's wait a couple minutes
+for everyone to join who is interested
+and then we will start
+all right um
+so
+uh hello everyone so welcome to the 61st
+uh weekly defy governance call so we
+have one topic for today
+to discuss
+so the long-awaited uh ever never
+contest stage two
+so today is presented by the prevented
+team uh so guys uh if you're ready
+please the floor is yours
+okay so hi everybody my name is probably
+most of you already know me
+and
+i am
+one of the directors of problem damn
+mostly
+mostly while working on formal
+verification but also where they are
+developing some smart contracts and
+today together with my colleague
+who is a key developer of the never
+project
+we're going to
+[Music]
+describe you this project
+and to answer your questions
+unfortunately andrey who is also the key
+member of this project uh he's not able
+to join us today
+you know these days are very difficult
+for everybody
+so but we'll try to
+survive without him
+uh okay so please let me share the
+screen
+yes
+okay
+i can do it
+okay
+do you see my stream
+yes we do great yes
+okay let's start with a few words
+what is never
+in general um is impossibility
+it was called node
+as a reverse
+name for tone but after rebranding the
+new name is never
+never is a stable coil
+with a price quite
+with the
+price ever close to
+one american dollar
+and unlike uh some other
+solutions like a
+well-known udt for example
+it's not based on
+any centralization it's not based on
+any fiat liquidity etc it's
+fully decentralized and the price is
+granted by the system itself
+then
+[Music]
+later we will describe the basic
+principles and how it should be
+organized
+uh
+about the form of the never coin
+right now we plan to see it as a native
+one
+because
+as you probably know if i'm not wrong
+the scale system allows
+to have up to 64 native coins maybe i'm
+wrong
+please correct me if
+you haven't
+but uh and
+we're going to introduce never as one of
+these
+yeah maybe uh sorry sir maybe it's it's
+worth also to mention because not
+everyone knows what the currency
+collection uh
+is
+uh actually the the peculiarity of the
+protocol we are using is that it can has
+uh many native uh coins that can be used
+also for gas payment and surf is the
+system currency so and currently we have
+only one system currency which you know
+as ever
+and uh potentially as srj said you can
+add a few a few more and never is
+expected to be one of those
+okay
+and uh
+in case if something goes wrong and if
+bible benches will not be able to
+introduce as a native coin in this case
+uh the
+backup plan
+is to design it as a tip three uh
+tip three coin
+but it is definitely
+a less preferred
+approach
+i would also say uh i would also uh
+know that it's not
+tip three but rather tip three point one
+because we had the uh standards update
+recently yeah i know
+yeah okay it's worse to reflect this
+sure maybe now it's type 3 yes but in
+the future must be type 3.1
+yes or no
+yeah
+should be
+okay so let's let's move on to the next
+slide
+and let's say a few words about the key
+players or the key actor actors of this
+process they're called validators
+uh the
+the goal of validators is to set up the
+basic range between never and ever
+so so
+these are supposed to work in the
+foreign way
+they uh suggest
+some rapes
+such as them in a disclosed
+equilibrium so nobody can can can
+see them before rewind
+and upon the time of revealing
+all their
+suggestions are
+revealed
+and
+uh so the
+media rate is considered as a basic rate
+for uh for for the never ever
+uh
+rate um i change rate
+so so
+those radiators who failed to provide
+the race close to the median one
+uh uh
+warned um
+from
+consideration from
+this round
+and in case of repetitions
+can be slashed
+because
+such a
+such behavior is considered as
+potentially suspicious
+and
+intemperate
+to
+provide the real
+rate
+validators are
+expected to use so-called oracles
+that are of chain agents
+that takes
+the current rates from the popular
+exchanges
+like for example
+bitcoin exchange
+and
+uh um
+um
+and and
+[Music]
+these oracles are able to provide the
+information to build data centers
+use this uh this data to make their
+decisions
+it's not mandatory for the validators to
+use a standard oracle they can they're
+free to use anyone but it's strictly
+encouraged
+and
+by using the uh the standard oracles all
+the
+good
+uh owners validators are supposed to
+have approximately the same
+rate from never to ever
+that
+allows us to
+set up a good and fair
+exchange rate for
+for for this pair
+apparently while we
+implemented
+oracles and uh
+and most of the other holidays will lead
+us during the phase one of the contest
+and uh
+everybody could
+can look at the
+at our solutions for defined number five
+contest number 24.
+by the way i forgot
+i want to say that
+this solution is fully based on
+certified contest number fourteen
+uh
+[Music]
+on the article created by media
+graciously and andre russian
+so if you need any details any any deep
+technical details you can look in
+into that article
+okay any questions so far
+i'm sorry i'm sorry i'm saying something
+and i'm muted
+so actually
+my first question here uh is
+which
+exchanges
+so
+oracle
+can uh or validator of the system yeah
+so can provide any data in fact uh about
+the exchange rate of uh ever to us
+dollar
+uh so uh what happens uh if for example
+someone takes uh as input data
+uh some exchange that this uh provides
+so this doesn't have enough liquidity
+for example for forever and that's why
+it's exchange rate fluctuates a lot and
+also uh
+on
+on average so it provides the wrong date
+so will this validate to be slashed uh
+or what happens with him so how how's
+the slashing mechanism works actually
+actually uh yes
+this is
+for the current round
+and in case of
+repetitions it
+can be slashed
+yeah but it's slashing uh is hard
+meaning that it
+slashes all the stake of the validator
+or
+it rather slashes a
+part of it
+actually
+if i
+if
+i'm
+if i'm right
+there for the final solution about it
+is not made yet and it's for phase three
+so three of our activity
+and uh uh
+counties are some discussions around it
+so for example media is uh
+has a very hard opinion and here he
+needs uh he thinks that it will be a
+very hard session
+uh for example uh i think that it should
+be
+a much softer process
+correct me if i'm wrong
+uh as i know now it's uh
+it's developed like a
+streak
+killing we
+remove
+the whole stake at the moment
+but yeah it's
+this
+decision can be easily um
+remain remade uh so
+we
+this decision is for phase three yeah we
+should wait for meetings and
+meet this decision
+okay
+guys any other questions on this part
+okay uh so uh actually what uh
+are you going to
+continue the presentation so uh yeah
+okay please please go on
+okay so
+let's move to the next part when once
+the basic price is
+found
+it's considered as a base
+as a base default price
+for
+upcoming never ever auctions
+never evolution
+mechanism for
+even
+reverification of terrain
+provided by the validators
+and
+corrects it
+according to the
+desire of the participants who
+who actually like to buy never or
+sell levels
+so these auctions are implemented as a
+weekly auction weekly auction is a
+sealed beat second price auction
+the the minimal loads are pretty pretty
+high
+so uh
+so
+enters
+any kind of strange
+bits can be slashed
+that does not encourage
+participants to use as a fair price and
+not not to play
+with some uh
+not to try to
+to
+artificially change the rate
+um
+well when they all when the auction
+is complete the winners
+get the required loads
+and all the other participants
+are able to uh are welcome to
+make the direct
+exchange
+you you use the price
+found by the auction plus some practice
+and a significant fear
+the exact
+amount of fear
+is being discussed and will be found and
+will be found later basically i i think
+it's a
+degree parameter
+any questions
+no that's basically him
+guys please
+okay i think you can move
+as i already mentioned
+as a previous slide the minimum load is
+pretty high
+and
+[Music]
+very few participants can afford it
+to
+increase the ability of participants to
+participate in these auctions
+the auction
+mechanism is uh
+adjacent so it's basically something
+like depool
+but for
+uh
+auctions so the participants can uh
+uh
+to be able to buy a big lot
+[Music]
+how participants can select uh the best
+uh the auction if participants do not
+know the price
+but
+they have some strategy for example
+then they can use the information from
+the particular exchanges
+then can
+say use
+more aggressive high higher prices or
+more conservative lower prices
+but i didn't get the question
+that the auction is the joint
+business mechanism yeah
+okay so then
+it means that uh somebody should select
+the price which is offered by that beat
+and i just had this should
+uh
+adhere to
+to that price
+to that offer
+actually maybe i need some help from
+vadim here
+yeah i know i know the answer in a
+current version of design
+the ocean has its owner its
+admin
+and
+its person or maybe even contract uh who
+makes the decision
+so participants only gives
+gives a currency and the owner makes a
+decision
+i think it's
+really
+will be worse to have
+a set of
+information about hd auction in fact
+explaining
+who is it and
+how the price is formed actually so the
+price algorithm that
+this validator is using and
+on this basis people will be selecting
+this was at the auction
+but uh i agree with spiders without
+knowing
+anyone so i personally wouldn't put any
+any penny in each of these directions
+unless i know
+how they behave
+i i agree they definitely need to
+explain their strategy beforehand
+and somehow are you that
+do you plan to provide some interface
+for this
+what do you mean do we
+i guess no because
+strategy is a strategy the ocean the
+ocean's owner can do it anything
+as
+they want and
+can advertise it in
+anyhow
+as they want but i guess
+it can be implemented for example
+as
+some
+owner contract with public
+public code
+but
+i don't know how how exactly should it
+work
+so so owner is not the person owner is
+uh is a contract
+i personally based on my experience
+would recommend you uh in any case you
+will have the project page so somehow
+yeah so and for people be able to deploy
+the validators whatever
+uh also
+have uh the tool on your web page for
+each validator to provide description at
+least about them and
+how they are calculating the price
+because otherwise it's a black box so it
+doesn't work like this
+okay maybe we should work on uh
+how to how to how to um
+work uh
+huh
+how uh owners of the oceans can uh
+determine their strategies maybe i don't
+know it's the point to think
+uh how how often auctions
+go
+is it like each block or every 10 blocks
+or
+how it works
+uh i guess it's about uh every
+every every few minutes or maybe every
+hour because uh uh
+price uh
+pri pri oracle's uh price calculation is
+not not so fast it takes
+about 20 or 30 seconds
+but then there will be huge slippage
+because yes
+you you yeah you provided some
+of course when you go into the auction
+uh you
+you can look at the current price on the
+market and those those oracles they
+provide just indicative range for an
+auction but still okay uh
+it's it's a question to andre andre and
+media uh it's their decision uh
+we when we know we know uh about that
+problem uh
+it's uh this design is uh
+uh is uh um
+experimental
+experimental here uh uh
+it's it's it's the idea how how should
+work they don't think it's it's a big
+deal
+i'm not economist i can't i can't uh
+say anything
+okay guys okay but you should uh
+yeah you should understand what you're
+doing
+i mean
+yeah my question is that
+how quickly
+auction will be executed
+so you you made a bid and then in how
+many
+seconds blocks you'll get the
+conversion
+uh i guess though only uh the only
+one only problem only issue that should
+suspend the process is how fast
+uh the auctions owners or maybe
+personal participants
+make their these bits so it can take i
+don't know if
+if you if you a few meals a few seconds
+then
+the time in
+in which
+they
+have have guaranteed to
+receive information about auction starts
+make
+decisions send it to blockchain
+[Music]
+uh i would recommend actually
+having the set time
+of
+auctions so i mean that's a duration so
+and everyone who made it uh he made it
+if not if he's not because this case you
+would be able at least to guarantee the
+delivery of of the price uh
+[Music]
+timeline so means that for example you
+have auction each 30 seconds
+and
+each second the price is defined
+okay um
+yeah sure it's it should be just uh uh
+value in some conflict system conflict
+uh but uh
+uh yeah yeah it should value
+okay
+guys any other questions please
+uh i have a question uh is the auction
+is the participant of regular auction
+because in original paper
+it states that it's separate auctions
+the auctions two
+to two the auctions and two regular
+options
+uh in
+our
+current understanding of the
+of the process the ocean is participant
+of regular auction
+it's just aggregate a
+contract yeah it's it's it's a
+kind of kind of uh fake participants uh
+who
+uh
+who are a combination of a smaller
+participant yeah it's liquidity pool
+the question is that
+actual from
+usability point of view
+and if auctions uh
+quite
+happen quite often then it is no way for
+regular users to be able to
+uh
+participate because then they should
+like
+sit and wait before they send some uh
+tokens to
+the auctions and the other question is
+that for example if you participated in
+the election contract which didn't win
+so then uh what happens then you don't
+you don't
+get exchange
+as i know as i know uh in it's
+it's not specified in the paper uh but
+my
+personal opinion is that the oceans
+should be
+re-runnable
+and
+like in
+depots
+any participant who can
+[Applause]
+put put it to a checkbox that
+they
+want to continue participating continue
+their participation
+and uh wait wait wait wait wait uh
+wait for successful of successful
+auction
+it should
+such behavior should be possible for uh
+participants
+to wait success to wait for success
+okay
+i have another question as well so um
+two questions indeed um
+the first one uh is about the uh reward
+distribution so uh
+so first first thing is uh how the
+reward uh from where the report appears
+yeah so and
+then how it is distributed between
+validators
+it's
+[Music]
+it's not specified for now
+uh
+very very there is uh there is a few
+possible strategies so it can be
+uh
+it can be a auctions fee it can be a
+transfer fee uh it
+can be
+a part of emission
+and
+this decision decision is not made for
+now
+but can you at least please uh propose
+those scenarios because i asked this
+question last time so it's the first
+stage so
+and uh
+it was too early maybe but now when
+you're approaching the
+uh implementation station the auctions
+should if they ser
+function as depooled so they also should
+include the functionality
+for
+distributing rewards
+and in this case so
+it really
+may be affected by how the economic
+model is implemented
+so i would recommend
+at least defining a few ways on how the
+economics can function
+and the second
+question is when there is a slashing
+appears on some validator so where does
+his stake goes
+so
+there is a distribution between all
+other players and on what basis
+or it's just
+returned and his address is banned
+or some some other scenario
+um
+it's not specified for now it can be in
+in in any scenario and
+as i understand it's
+this solution is uh integration of
+solution between different parts so it
+should be on the final uh third
+stage of the project
+first to more about writing
+the systems
+oracle
+validators
+and auction dia auction
+third is about to combine all the stuff
+together
+okay
+well i think media joined us very cool
+media maybe you have the answer to my
+question about the economic model for
+the system
+which i didn't know which i didn't hear
+the main question is uh uh what is the
+motivation for uh validators uh to
+participate in the system so where money
+come from
+and how is he distributed
+well it distributes according to the
+stakes
+and in the white paper
+there is a it's described the mechanism
+which i don't remember now but there are
+some commissions that uh taken from
+auctions
+and these commissions are
+kind of they're it's described
+in the white paper what what how the uh
+like what what sort of commissions
+um
+is distributed between
+[Music]
+okay because uh i remember that we
+discussed it some time ago so uh whether
+or not this system so will be it will
+have the fees for people who are willing
+to um
+uh
+yeah so actually sell a lot or buy a lot
+of uh neighbors uh
+like 99 sure i mean i may remember that
+that that's part of the white paper
+okay
+and uh are there any uh plans to uh use
+the collateral that
+is back in the never uh
+exchange rate
+uh
+in some i don't know in landing
+protocols or whatever so just to make
+money no this is a stabilization uh
+collateral so
+it should be used to stabilize the the
+system
+because that exactly provides like an
+insurance that provides
+the guarantees that um
+that you it's like a central bank uh
+you know preserve
+it ensures that there is no run on the
+bank
+like uh because people know that there
+is always
+a guarantee
+that whatever happens
+um
+like
+the the
+the everest will be exchanged numbers
+will be always essential with the within
+the current price
+um that is currently projected by
+by
+the oracles
+okay so the answer is no
+yeah the answer is no and and right but
+again um
+because if it would be over
+collateralized then then you know what
+will happen
+yeah obviously it's like the collateral
+which is over collateralized
+means that
+or i would say under collateralize in
+this respect and that means no
+collateral
+yeah so if you use it in the lending
+protocols then then then you're kind of
+basically just reducing the
+characterization
+okay okay very good so um one uh maybe
+last question from my side so uh whether
+or not the system is going to have a
+dial so uh to configure all the
+parameters of this uh
+never stabilization system
+well we know when i thought that it's
+need to have a dow because like these
+validators that are are actually valid
+they call oracles that validating it
+and then the main governance now i think
+should should govern the system because
+it's a system it's a system protocol
+and that's always was kind of like the
+idea was to create a system level
+protocol okay and and what is what it
+what is important to mention is and i
+thought by the way that oracles are
+already uh implemented now
+yeah they were implemented
+so i would suggest additional kind of
+small contest to add
+or maybe it's already there i didn't
+really see the implementation sorry um
+it is very important to add actually uh
+to the oracle data possibility to uh
+suggest arbitrary data not only the like
+dollar for example curve
+uh price
+so and that is important because if we
+already have a protocol
+that
+kind of ensures the data is correct
+meaning that the oracle data is correct
+and we should use it to
+uh to kind of provide all sorts of data
+different other data
+for example if someone wants to start a
+synthetic asset of a projection apple
+stock price within the system
+then apart from the auction part so the
+auction part is only forever and ever
+but the oracles can
+actually take and make more money by
+that
+by by also by also providing for the
+same mechanism providing not the dollar
+price data but
+you know i will stock price data or you
+know tesla stock right there price date
+or whatever what not
+then
+and i i really want to use it in flex
+because then any
+any decks
+can then create very easily create a
+synthetic asset
+based on this and
+pay
+back
+under certain conditions like paid back
+to the validators for providing this
+this this data and that will create kind
+of universal oracle more or less within
+the system on the system level
+um which i think is a very beneficial
+idea and
+i think that will create a lot of boost
+for
+kind of
+as well basically it will position
+um the access on every scale being able
+to
+provide same like kind of same
+[Music]
+services any centralized exchange uh
+even not the crypto only one but for
+example we can really go and and kind of
+i don't know
+compete with ftx
+okay and it's easily done because again
+the the protocol is already there
+there's just an additional layer that
+need to be
+written to
+kind of absorb that data and pay for it
+which is which yeah i will write
+actually i'm thinking about that already
+for a few weeks now
+because i really want to make it and
+flex make all sorts of data available on
+flex it is very important that it will
+be decentralized
+because then the regulator
+as you may know regulator already acted
+upon
+a decentralized protocol so like less
+centralized protocols which tried to do
+the same thing as you know there were
+several protocols who got subpoenaed by
+scc because they
+they started trading regular assets on
+the blockchain
+so therefore it is very important that
+the provision of the service
+uh and
+it will be decentralized and then the
+service
+that it's um based upon this data like
+the provision of the data is centralized
+and the the service of the data is
+separated from the provision of the data
+the service that you built on top of
+that so the asset itself like the this
+synthetic part of it
+in the decks is completely decoupled
+from the data provided by the oracles
+and has completely different like uh
+governance
+and both also decentralized right and
+then and then it's also decentralized i
+mean it's only dex then in this case
+like what do you do
+okay so someone is providing some data
+someone else is smart has a smart
+contract
+that
+you know make it trading on the on the
+data possible and what do what you're
+gonna do i mean
+it's impossible to
+to prevent this right so
+um so i think this is very important and
+i think that i will propose some
+extension
+later on of course when once this is
+finished to to allow such thing as an
+extension to the oracle's data
+and that will provide i think additional
+nice fit nice
+kind of uh possibilities still your
+question of the monetization it will
+provide additional monetization for the
+validators to
+provide this data
+very good
+okay guys
+any questions
+please no uh okay let's move on
+here
+actually basically i'm almost done just
+uh the last slides are mostly about the
+current situation we already discussed
+it so phase one is currently uh has been
+completed
+so
+it's a
+partial implementation of nervous
+validate and uh and oracle's mechanism
+so for phase 2 we propose oxygen
+direction
+and
+phase 3 the last
+the rest of the project
+so also looks like
+currently we need to
+explicitly uh
+address some issues that arise and your
+durian today
+for example about um
+[Music]
+about the strategy of the dear joey
+auctions and
+some other
+and then we'll
+represent this document for your bro
+okay very good so uh concerning the
+contest itself so uh
+i uh
+runs through the contest so and made
+some fixes in the wording
+uh so because most of the things that
+you put there is already present in the
+procedural remarks and we are
+sticking to them so when we are running
+the content on this in the device of
+governance
+uh so uh and a couple of things that i'm
+missing uh hot criteria and the real
+deliverables so please add those uh to
+make the
+uh transparent uh
+understanding to jurors and to
+participants so how this contest should
+be judged uh you can uh take as an
+example the ssi stage three uh contest
+so i will send you the link
+uh so please add those parts and we can
+uh hopefully launch the contest today
+for coin design i mean it should be i
+think um the from the currency
+collection right i don't know if that's
+how it's yeah it's status there so it's
+stated as a main case but also as a
+backup plan for
+to support the tip 3.1 token
+um uh well i would just stick to the
+currency collection i think this is like
+an important systemic uh stablecoin no
+need to do the t3 variation sergey then
+in this case please remove the tip three
+uh
+token implementation okay
+yeah no need for that
+good
+it's redundant just additional effort
+all right uh so thank you guys from
+prevent the team thank you sergey
+so it was a nice presentation and a good
+discussion in my opinion so uh so
+when you are done with the boarding uh
+things with the contest and just ping me
+and i will launch the contest
+in the governance interface
+uh so actually this was the only topic
+for today and
+not so many news yet
+but hopefully so we will start
+collecting more more and more news
+uh especially uh i know that guys from
+uh the
+uh defy lines are now just uh almost
+finished building the website for the
+everscale
+and
+more and more information is appearing
+there
+and also uh
+they will be
+merging the
+the fire lines website into the
+everscale website to make the homogenic
+place where one can find
+any information about the everscale
+so
+if you have any other topics we have a
+few minutes left
+for today so please raise your hand
+three two one no no topics okay guys so
+thank you for attending today and i will
+publish the recording once it's
+converted so and
+see you next time next week hopefully
+okay bye thank you
+thanks baby

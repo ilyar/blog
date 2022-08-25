@@ -1,0 +1,1226 @@
+[Music]
+[Applause]
+hello everyone and welcome to
+greater bay area blockchain week i'm
+olga yarzewski head of content for an
+exchange group and you're mc today
+this panel is quite special for the
+event agenda as
+it is aimed at answering a very
+important blockchain question
+how to bridge the permissioned and
+permissionless worlds
+and to address this we have an amazing
+set of experts sitting on this panel
+today
+let me do a quick round of introductions
+he found a
+ceo of red day technology one of the
+four founding members of the blockchain
+based service network bsn hi ifan thank
+you for being here
+hi everybody hi alexander filatov ceo
+and founder of tone labs
+hi alexander hi great to be here
+thanks for being here dr weishan long
+chairman at
+digi node initiative hi dr law
+good to see you hi everyone pleasure to
+be here
+thank you and uh han fang zhang senior
+engineer at bitu1 blockchain it's one of
+the networks which have recently joined
+the bsn hi hankfang
+hi everyone thank you so much again for
+coming together for this panel well i
+would like
+uh to start with you ifan since we've
+had a very interesting talk
+at hong kong blockchain week in november
+a lot has happened for bsn and
+i have to say it is rapidly turning into
+a major infrastructure that is actually
+used by
+projects and developers worldwide and
+um i know that to ensure that and to
+comply with the chinese regulation the
+bsn is actually split into two
+which is the chinese domestic version
+that supports
+uh permissioned or enterprise
+blockchains and the international net
+network right which includes
+public blockchains also so can you
+please tell us what is happening with
+bsn now
+and um what are you doing to drive
+blockchain adoption
+in china and worldwide okay uh
+that that's a very good question but uh
+let me class uh clarify a little bit
+it's a psn still one ps network
+we just displayed the governance of bsn
+into two parts
+appears in china which means the
+governor
+anything everything happens on on
+on ps and inside time and the biasing
+international
+governs the the uh anything related to
+bsn outside china it's just like
+internet right in china there's a
+central
+central government agency to govern
+internet
+but in the usa is another agency you
+know
+in the u.s so but it's still one
+internet
+so one psn so yeah uh but the
+the reason for that uh split up because
+the the regulations in china
+it doesn't support public chain and it
+doesn't support cryptocurrency
+so by the outside we need you know
+because
+biasing integrates all kind of uh
+technol blockchain technology so outside
+china we can integrate public chains
+so and and you know support the public
+chains
+so uh that's why we split uh governance
+supply into two
+so and uh since november we already uh
+we integrate the you know more
+more technology we integrate
+the the you know the uh remote public
+chains
+but most importantly is in china
+we launched what we call the open
+permission machine
+project uh the we call the opb
+what opb is is basically because in
+china
+it's not really you know
+legal to basically run the public chain
+nodes
+okay and and and also which means for
+chinese developers
+it's really it's actually very
+troublesome for them to connect to a
+public team
+and under and and they cannot buy
+cryptocurrency so
+they actually cannot pay for the gas uh
+on
+on the public chain but because china is
+really push for the blockchain
+technology and then
+you know it's really moved fast you know
+therefore the other developer
+also can get familiar with this kind of
+public exchange environment
+development environment public chain so
+so
+so we will launch the open permission
+blockchain
+project which is we bring the public
+chain
+inside china but convert that into a
+permission
+version and and and take out the
+cryptocurrency
+and the so-so so chinese developer and
+the chinese business
+they can use this permission version
+of a public exchange environment and to
+develop
+their own applications uh similar to the
+public chain
+and because there are no
+cryptocurrencies so they pay
+the gas with fair money so we need to
+build the the gateways payment gateways
+everything integrates the traditional
+payment system with
+a blockchain framework so uh
+i think uh uh uh because free tongue is
+is the newest member of the opb project
+i think uh alex can can talk about that
+more
+uh next yeah thank you
+thank you this is very interesting i
+have a quick follow-up question so
+um how does psn evaluate projects to
+import them and what's the main criteria
+for that uh the the first one
+is uh it's the device diversify
+which means we don't want just use one
+uh technology
+even with our interchange services we
+use two unaware ideas through the third
+one the first one
+so uh the first one is divide diversify
+and the next one is
+you know it's really really good for
+developer
+to develop applications okay that's a
+very
+very main criteria because there's some
+changes
+just for for example bitcoins it's
+it's insurance you cannot deploy smart
+contract on bitcoins there
+it cannot be used to develop uh
+applications and
+you say we don't integrate bitcoin
+that chain so so that's the second one
+it's a really really you know
+and also is the maternity of the chin
+uh uh because we really you need
+you know not only you have chin you have
+the you know all kind of development
+tools
+you'll have you know uh uh sdks you have
+you know everything's ready for for
+developers easier to use your chain to
+develop
+uh applications so uh and for public
+chain we
+we integrate outside china we actually
+looking for you know
+the basically the most popular ones the
+most people use that
+so that that's usually you know we
+integrate first
+interesting thank you so much thank you
+um i would like to uh
+stay in um the great bear greater bay
+area of china
+since it's um the topic of our
+conference and let's
+now put a spotlight on um this region
+and here's to you dr law and can you
+please tell us more about the diginode
+initiative
+and um i know that it's it is a region
+specific initiative right well
+uh yes and no because this is um uh
+a company based in hong kong and we have
+exclusive license with bsn
+to be the portals for hong kong and
+macau
+and obviously that will be putting
+ourselves
+into the center of the quicker bay area
+right
+so but in theory we are open for
+business we want to help bsn to expand
+internationally and bridge the gap
+between china
+and the rest of the world in particular
+the one bearing role economy so
+we are supposed to um able to serve
+everyone uh in the world uh so it's not
+only limited to
+to the quicker bay area but but
+we internally have our interest focus
+which is definitely
+uh the the hong kong sunshine and the
+nearby region
+and we also want to focus on fintech
+industry
+yeah uh sorry let me jump in the
+champion a little bit let me explain a
+little bit
+what's a bsm portal okay so so uh
+[Music]
+the way we build bison is the
+infrastructure so
+psn doesn't serve and the user
+and the developer direct directly so so
+you have to go through a portal
+so this portal is it's it's like a front
+end of
+the psn so but each company can build a
+portal
+any way they want because they design
+and build the front and everything
+the process the interface the payment
+system the user management
+system you can build anywhere you want
+we psn
+provide apis to the portal so the portal
+through the api
+to communicate with psn to deploy
+a a project to deploy to creations
+to to to generate certificates to access
+public chains
+throughout the apis so all the user
+information
+stay in the portal uh on bism we don't
+have
+any personal information from any portal
+so there's no
+api to collect personal information
+so all the users belong to the portal
+that's portal spanish
+what biases do is support the portal so
+so the portal
+operator are our customers not under
+developers so
+thanks for the explanation really it's a
+very complex infrastructure and it's
+really important to learn and to know
+how it works dr la do you have anything
+to add i was wondering if
+other greater bay area parts will be
+joining the network too
+other than hong kong and macau
+uh as far as i know there are several
+other portals in the rest of
+the world and bsn will be
+growing the presence in
+all different parts of the world of
+course we want to uh
+because of the importance of hong kong
+in reaching the
+china and the rest of the world so this
+particular region
+is very important and we are part of
+china hong kong is part of china
+yet hong kong is a very international
+city and a lot of foreigners
+with a lot of connection to different
+countries so i think we are in a very
+good position
+to provide a portal service and we are
+trying hard to make it easy to use
+and and and for people to we are
+organizing
+and promoting the communities so we are
+focusing helping
+developers to build something on top of
+bsn
+all right it's interesting thank you um
+well
+alexander now to you well first of all
+thanks so much for being here
+uh it's great to have you and can you
+update us on what's been happening uh
+since
+uh freetown got abandoned by telegram
+can you tell us more about the situation
+in the developers community sure
+sure well the freedom was launched in
+may last year
+as a decentralized community-driven
+network uh
+and it evolved since then we have more
+than 400
+validators and uh we enjoy you know
+relatively large community and very
+quickly growing we see about three
+thousand developers in our ecosystem
+and we love integration with bsm because
+i'm a big believer that
+permissionless and permissioned you know
+technology
+should coexist their mission list is
+more open it's more like
+revolution and permission is more like
+an evolution
+you know and typically governments and
+enterprises don't like revolutions they
+prefer you know
+logical technological evolutions so i
+think once you breach the two
+you get beauties of the two worlds you
+allow governments
+you know to get comfortable with the
+technology and control what they would
+like to control
+uh you know and then you allow uh you
+allow developers in china outside of
+china
+access to technology which is very
+scalable we can talk about that if it's
+of any interest
+uh to get access to the developer tools
+that simplify development
+yet be fully compliant with local
+regulations so this is
+we love this project this is interesting
+you know because
+usually uh permissioned and
+permissionless
+speakers i mean um don't really support
+a
+friendship narrative it's usually like
+an
+agreement let me just let me just stay
+on my philosophy for a second
+first of all of course i mean
+permissionless is
+uh is the future because it's more open
+you know
+it engages you know more people it's
+easier people love
+freedom that there is nobody to control
+however again
+governments and enterprises you know
+don't typically like that stuff
+uh and uh what i also like about bsn
+project
+is that typically in the blockchain
+space people
+focus on the first use case which is you
+know cryptocurrency transfers b2b
+transfers
+because cryptocurrencies are not allowed
+in china
+it means that the developers will focus
+on more like
+let's call it enterprise applications
+and use cases that don't necessarily
+engage cryptocurrency
+but you know leverage the power of the
+smart smart contract technology
+whereas execute some business logic you
+know transparency and whatever
+so i think what china is going to bring
+to the global blockchain table
+is a lot of non-crypto projects more
+like in the in the business logic and
+enterprise
+uh and i think that's great because
+typically people tend to focus you know
+on the most obvious ones around
+cryptocurrencies you know
+wallets exchanges taxes etc etc
+so i think we're just going to see you
+know very unique innovation
+coming out of china and that's why we
+love that they would have access to
+technology as well
+in addition to that chinese government
+recently increased
+investment into digital innovative
+projects and that includes
+blockchain too okay um
+well um i would love to uh hear
+uh from hankfang uh and um
+can you please tell us more what is
+bitiwan technology
+and i know that the big one bsn
+collaboration happened in november
+right and what this partnership is
+mainly aimed at
+and what are the results so far
+are you in you tanking
+uh hello can you hear me
+yes okay uh let me
+just give a briefly introduce about the
+bun champ
+uh we established the project at 2014
+and uh we launched the first dtn champ
+at 2018.
+right now we have more than 15
+decentralized applications running on
+our feature
+mentioned and our clients from different
+level from start company to larger scan
+company
+and also to some project servers
+our local government uh
+so the bitcoin chain is a very
+uh high performance low cost
+and uh public chain and uh
+we give a very smoothly developer
+experience to
+other developers uh it's just a
+like feminine always a two way over
+there you can build your own blockchain
+and uh we we don't actually
+we we now only focus on the
+public change so but we get a lot of
+inspires
+by uh let's miss mr kerr
+the bsn the
+what you said about the connect between
+uh
+the promised and the permanentes
+blockchain project is very inspiring and
+i think we were more nation
+about that so the portfolio mentioned
+i think it's very good solution if
+we have that tools we may
+try to like be the summer connect
+to other blockchain projects as well as
+the data translation is safe and it's
+sync
+so uh right now the btn chain
+uh we have a very good speed
+the tps's around the 300 and
+we offer easter material uh
+virtual machine and the way over java
+uh virtual machine and also go land and
+we're working on
+uh invest more popular language into our
+system like javascript
+all the things and we have a system that
+is a uh self-developed uh uh
+it's called the milky chain it's same
+concept from
+the polka's parachute but we achieve it
+different way and
+which way to actually early than polka
+so i think this is a brilliant
+introduction if you have any questions
+you can ask me
+anyone wants to follow up on the event
+you want to pull up in this
+collaboration with the public
+blockchain yeah so outside china on bsc
+international we integrate public chains
+so the purpose is uh
+for developers obviously one gateway can
+access
+thousands change so it's cheaper easier
+and
+you know it's it's uh it's just
+convenient for for developers if you
+want to build a smart exchange
+small wallet you know just just one
+gateway you
+you got iris so uh so uh uh uh
+uh bitcoin is one of the the chin we
+integrate as
+they are from china and also they are
+actually
+i think they have the permission version
+he just doesn't want to yeah
+it's closer so he has one and
+so it's uh it's uh uh under under the
+company i actually is a very very
+well-known
+uh staff okay black action stuff in
+china
+uh and they have that like so the worst
+six
+you know the most uh patents regarding
+blockchain
+in the world probably just behind the
+ali group
+so it's a very famous company in china
+interesting well congratulations on a
+great collaboration
+um speaking from the developer side and
+i love that you mentioned actually the
+cost of developing public chain
+applications
+sometimes it's not affordable for
+developers and
+what can be done to reduce this cost and
+i would like to first address that
+question with alexander
+what's been happening in the developers
+community is this a
+problem sure well what we build at
+friton by way i mean like broad
+developer community not just on labs
+which is a core
+developer is we build a whole what we
+call operating system
+which is essentially a breach between
+the blockchain protocol itself
+which is more of like a decentralized
+microprocessor speaking you know
+computer science language
+and then whatever sits on top and
+bridges to developers and uh
+and final users we typically call it
+operating system so we call it
+it includes a whole bunch of tools for
+developers you know we have
+a very comprehensive software
+development kit we have two compilers
+one first solidity which is obviously
+the most popular
+language so far being used in ethereum
+uh we have one
+llvm compiler which is cnc plus plus
+compatible
+sdk by the way supports 20 computer
+languages
+and we have a whole bunch of bindings
+you know with graphql with databases
+which simplify development and the idea
+is to um
+you know create the firebase like
+experience
+remember in mobile applications until
+firebase came along
+it was very expensive and difficult to
+build mobile applications
+and the firebase basically remove the
+need for the whole back-end so you would
+just you know focus on the front-end
+and user experience so that's what our
+return os brings to the plate as well
+um i can give you one example we
+released last week
+a technology called dbots which is like
+a smart contract
+that bridges uh basically bridges the
+front end with the back end
+trying to simplify my language and we
+announced like an official contest for
+the first debate
+and the first the winner came in 25
+minutes i mean 25 minutes from
+technology released
+to the first debate so we think it's
+going to be very powerful
+in an unleashed load of innovation in
+the space and also bring developers from
+the
+non-blockchain space uh which i think is
+very much needed if we want
+blockchain that great technology to take
+off
+a growing audience amazing iphone what
+about
+what do you have to say about this
+you're mute
+sorry uh you know therefore you know
+developer can
+you know develop applications cheaply
+one solution is take out the
+cryptocurrency
+okay just just think about the public
+chain as a decentralized
+specialized the crown services so you
+can deploy your application
+you know you just pay the fair money for
+the resources
+i mean just remember public kitchen is
+not all about the cryptocurrency
+it's a decentralized infrastructure
+people can
+build the application on and communicate
+easily transfer data easily and securely
+so if because the public machine
+has cryptocurrencies so you can see most
+most almost 99
+of the application is built around
+cryptocurrency
+that means that means how can public
+chain
+be used to solve traditional i.t
+problems
+so i and because we talked with all the
+large corporations
+banks the problem with with the diplo
+traditional i.t application on public
+chain is
+the money they they make for traditional
+ideas
+is a fair man but if they deploy the
+application on public
+chain they pay cryptocurrency fair money
+cryptocurrency they cannot control the
+cost
+so the one solution is take out
+cryptocurrency
+and use ceremonies so for traditional
+i.t system
+they make money in fair money and pay
+the cost in
+money then balance okay so that's
+actually
+we we talked with alex that's actually
+we are testing
+this concept with open permission
+because in china we take out the
+cryptocurrency
+right and then you pay the fair money
+for the gas
+and deploy your traditional application
+to solve traditional
+problems without cryptocurrency so
+that's
+actually one concept i really need you
+know
+to everybody needs to explore which
+means
+in the future there will be public
+change just supporting cbd6
+and fair money but of course i i think
+most
+public chain probably including the free
+time if you
+ask you know a public chain without
+cryptocurrency sometimes
+it's no longer a public chain because a
+lack of
+the the you know the the the the best
+things of the public chain
+so but but there's needs for the simple
+cloud services decentralize the cloud
+services
+so i i think there will be a niche
+market there yeah
+yes i agree with that myself is a
+believer of a bitcoin and ether
+and i got my first bitcoin at 2012
+after that these are come out with the
+capability to carry data
+that's for developers let's say it's
+cutting edge
+after ether there are a lot of a new
+project new tech
+release on blockchain community it's
+very exciting
+but the problem is that most of the
+new tech there's a star project they are
+way too expensive for individual
+developer or small company
+like uh for polka
+the parrot the pair chant how much he
+gonna
+pay for that part only the deposit
+i heard is around a hundred thousand
+dollar
+yeah and for easter version two how much
+you're gonna deposit it's big amount
+easier that stopped people to even try
+to build something on this public chain
+that's why we view the btn chain
+let's say it's a one purpose will be the
+btn chain with over same
+servers but with much lower cost
+how much is going to cost the um btn
+chain if you want to build some
+decentralized application on btn chain
+costs nothing right now you only have
+to pay your servers that's
+you always need to pay your service fee
+and
+after that the only thing you need to
+pay is the translation fee
+the transition fee the bitten chain is a
+multi-chain architecture which means
+all the transition that's happened on
+your
+apparent channel it's not gonna cost
+you anything the transition phase only
+happens when you sync your data from
+your parent chain to the main chain
+and we have a promotion for all the
+smart team and developers that use
+ptn channel as base to view the
+decentralized application
+we will offer more than 10 000 btn
+as a stark foundation that will cover
+all the
+transition fees for a very long time so
+basically
+right now you use btn chains totally
+free whatever is help you
+build your old chair and you can release
+your application on that chain and
+about today's topic the uh
+permission and the permission leads
+btns is only focused on the public chain
+right now
+but the architecture of a big chain
+chain
+is a mutation is keratin architecture
+which means we are we can
+easily connect to other blockchain if
+it's necessary
+actually we have an upgrade in the
+middle of last year
+after the upgrade the btns user
+developer can easily do the cross-chain
+transition to other public chain like
+bitcoin
+ether we will cover more at the in the
+future
+and uh yeah between btn where
+we'll be very glad to be the bridge
+to communicate to towards
+the permission word and the permission
+is word
+interesting dr law what about this uh
+hybrid model
+adoption in in hong kong since this is
+international hub
+yeah yes i i i agree with uh mr her
+about this point um take for example
+argo rent
+which is one of the promising uh um
+permissionless train invented by the
+famous
+mit professor turning award winner
+and they go into china and they go as a
+opv right open permission blockchain
+and the the the
+lack of the algo within china forcing
+them to
+focus or experiment with maybe
+in the future with the dcep from china
+to substitute that
+and make it into a very stable
+value when you you don't have to uh
+worry about the fluctuation in this
+in the exchange market about
+the value right and and that i think is
+open
+for a lot of niche application for the
+future for people to explore that
+and if that will further accelerate the
+development
+of dcep because the tcp is not only
+used in regular retail payment
+on all this usage but also in a lot of
+new
+interesting blockchain applications i
+think that is actually very good
+so i really agree with that point of
+view
+now on the other side i also think it's
+interesting to look at
+this is algorand going from outside into
+china but the
+opposite direction i think is also um
+becoming
+um the future uh trends
+for example i see some of the very
+famous um
+permission blockchain live because in
+china
+which is uh quite widely adopted now
+because
+they are not allowed to do uh
+permissionless blockchain in china so
+they
+force them to do it outside china if
+there's a need
+if they can use hong kong as a place to
+launch it and use the hong kong
+developers that's our hope that we will
+attract a lot to developer to help to
+build this
+application and this new application in
+the future
+could be something interesting to
+combine some of the
+permissioned nature in china and the
+permission less
+nature outside china now a lot of new
+innovation i think could happen in the
+future
+using that hybrid model so i'm very
+optimistic about this kind of trends
+and let me jump in a little bit so
+but for bsn we are integrating our
+blockchain technology so we
+we we actually is neutral okay we
+integrate
+public chain within integrated
+permission machine
+so we see a lot of us cases so we see
+there's a need for open permission in
+china and
+also we see a need for non
+you know cryptocurrency public exchange
+worldwide
+so i really hope some company pay
+attention to this
+and develop something they can come to
+us okay we can put some money in and
+develop this publication without
+cryptocurrency so there's a
+publishing with cryptocurrency there are
+publishing without
+cryptocurrency there are open permission
+machine
+okay uh permission version of public
+change and there is
+purely permission machine all together
+in the grid on bsn and how you can use
+those technologies go through meet
+professor lowe's portal
+okay go to the portal and you can all
+use all those streams
+together that's how we link everybody
+together
+posters machines and developers and the
+cloud resources we also integrate all
+the core resources
+onto psn now speaking of
+links so during this event gpa
+blockchain week we've been
+actually talking a lot with speakers
+about interoperability
+and the importance of cross-chain
+features are there any services
+represented for cross-chain needs in
+in bsn and what is the main challenge
+here
+actually uh actually there's two uh two
+major points why we even do bsn the
+first one is
+reduce the cost like everybody even high
+school students they can access to
+blockchain technology okay
+it should be very cheap to build the
+privacy and the tests all
+it should be very cheap to access any
+public chain and
+they can test you know the technology so
+so that's
+that's the first point the second one
+actually is the interpretability
+because we consider right now uh no
+matter if it's privacy
+or a public chain they are like internet
+in the early 1990s
+okay because eventually they should link
+together
+the data flows from one chain to
+inaudible
+in the 1990s from one internet to
+another
+internet it become internet then you
+know we all see how internet changed
+everything in our life so i think
+eventually there will be something
+to connect all the chains for example
+from
+a smart contract from one chain to call
+another smart contract on
+another chain to transfer assets to
+transfer data should be very very easy
+so so so that's why one major
+major focus of bsn is
+to build the interoperability within bsn
+just remember within bison we have ides
+for anything
+we have ids for any smart contract we
+have ids for you know all the
+you know data centers so we can easily
+to find other genes
+on the open internet it's hard to find
+other things
+to connect with but within bsn
+environment it's much easier to do
+so we are doing a lot of research and
+working with
+you know like pogba cosmos all those
+companies try to build
+some uh ambiance and a system level
+protocol which means you don't need to
+change any layer one you don't even need
+to deploy a smart contract on your chain
+and call a local particle and connect
+with
+other chains it is not there yet we are
+still you know working in progress
+well that's a very important work anyway
+alex what about
+what can you say about interoperability
+it's one of the
+major issues for the developers
+communities of course
+we were big fans we already have a
+bridge with
+we're currently in integration with bsn
+as dr eufan mentioned we have a breach
+with ethereum
+we're finalizing by the way i always
+mean community developer community
+finalizing the bridge to polka dot uh
+teslas
+uh and a few other networks you know in
+certain sequence
+uh and i think like if you want to think
+about it philosophically
+i think blockchain already passed what
+you know we call the netscape moment
+in iit industry netscape moment if we go
+back to 1994
+is when users discover that using
+internet is relatively simple
+you know when netscape navigator came
+out but i don't think we yet had a an
+iphone moment
+and an iphone moment in 2007 is when
+people said okay it's so cool that i
+gotta have it
+and i don't think we're there yet
+because you know chain is exponential
+and i think interoperability is one of
+the keys to getting to the
+iphone moment a little bit faster you
+know maybe in the next couple of years
+to be optimistic so that everyone wants
+to have their own blockchain
+not the blockchain but that people
+wouldn't because obviously blockchain
+brings
+benefits you know uh that we all know
+like transparency you know immutability
+the trust if it's permission link is
+permissionless as well
+and but it had downsides you know
+technologies couldn't deliver
+scalability uh that is required and also
+the level of adoption
+and user experience but now it's there
+the tools are there
+you know ui ux is their performances
+there for example
+in our chain the blocks are formed in
+0.2 seconds
+because of the dynamic charging or
+multi-threading to be more precise
+and that's very fast no that's good for
+fintech that's good for any gaming
+application
+so uh it's getting there and i think it
+will start
+biting market share away from
+centralized i.t
+uh i mean i mean decentralized software
+and what bsn is doing in china is
+actually one of the way to accelerate
+that you know that adoption uh wherever
+it makes sense obviously from
+you know centralized classical a.t to a
+more decentralized
+um so centralized
+nature and decentralized nature actually
+can and must coexist
+after all um by the way
+i as you know it is often said that if
+you even question yourself
+if you need blockchain then most
+probably you don't need it
+in your you know in your company in the
+innovative program
+what can you say about the um enterprise
+adoption because
+enterprise use is very important how do
+you assess the speed of this adoption is
+it
+really easy now to implement blockchain
+into enterprise or commercial systems
+in china and outside of china or big
+companies are still very slow to do it
+yeah i i mean it's like alex
+just said it's very very early right now
+right now it's like
+1993 of the internet most people still
+you know at that time you say internet
+why were you even using internet what's
+what's the internet then in 1995 people
+say what's internet is the email
+okay that simplest application email is
+the internet
+so after 30 years you'll see how the
+internet changes
+the whole world all the business logics
+all the business scenarios all the
+business
+process but remember on in china
+until 2005 the big financial
+institutions and the governments begin
+to use the internet to serve people
+okay 10 years 10 years after
+1995. so so so blockchain technology
+will be quicker
+but it still takes a while okay right
+now people say what's blockchain
+technology crypto cryptocurrency because
+it's
+the simplest application
+um based on blockchain technology
+but remember all the company
+all the banks even right now many many
+individual developers
+explore the blockchain technology to try
+to build
+you know the the the blockchain
+technology decentralized the concept
+into their commercial it system so so
+there will be
+many many user cases and that will also
+push
+to improve the the underlying framework
+you know just like
+i said there will be many many times you
+know with crypto
+currency results and the permission
+chain
+and the hybrid chain like half
+permission
+and you know some kind of you know
+public kind of governance some kind of
+design
+so so i i i think there will be many
+type but uh
+but i i think i need the three years
+three to five years
+really really to reach you know a mess
+you know begin the mass adoption under
+the
+cbd6 and the digital currency will help
+will help
+dr law do you agree with this evaluation
+three to five years
+plus a cbdc well
+uh china's cbdc will be coming out very
+soon will be less than maybe one or two
+years
+if my information is correct um
+i think another trend pushing this
+faster is
+this early stage of institutional now
+uh putting the treasury and buying
+bitcoin as a
+as a reserve and that trend
+is is now starting to spread to
+some other companies right and if you
+think about this if
+uh international company multinational
+start to adopt and realize they can buy
+bitcoin and hold it and use it for for
+for reserve purpose the next question
+they will think about is what other
+blockchain technology we can use right
+so this
+um i think have a very positive uh
+effect in the mindset
+because previously still a lot of people
+think oh this is uh this is not
+legitimate
+this is um this is a policy scheme this
+is uh worth nothing they will collapse
+all this kind of doubt i think was
+influencing a lot of my share and with
+this
+um kind of a new trend i think
+we will have a positive uh event uh an
+effect
+on the adoption on blockchain in big
+companies now
+i also want to echo one thing i
+mentioned earlier
+when in
+in the permission world where you want
+to
+um using cbdc
+um to replace the the proper chain
+uh currency uh one very good example
+is actually that i noticed is actually
+in switzerland that they're building one
+of the next generation
+digital security exchange now this
+exchange
+is built on quarter technology but they
+also
+point out the mission is to use the
+swiss switzerlands
+uh cbdc to be the vehicle for trading
+this
+digital current digital security in the
+future
+so this is two step actually using
+digital cbdc
+and buying digital securities right and
+these are both
+very big uh impact on our capital
+markets
+because right exchange with all this
+security being tokenized
+will be eventually a big thing so that's
+the thing that i hope
+will eventually trigger to happen in
+china as well
+when when more use case of the cbdc will
+be adopted into
+other financial applications so that's
+thank you yeah digital securities and
+tokenization is another
+very big and very hot topic and it
+really varies depending on jurisdiction
+as far as we know right alex okay
+um alex um i'm sorry we are out of time
+um i urge you to make your
+last point and uh we're gonna just
+quickly wrap it up
+sure well again we're very excited about
+cooperation with bsn
+i don't you want to repeat what i said
+at the beginning but i think
+china like kind of to a large extent
+china led
+to this kind of payment revolution in
+the last 20 years you know
+transcending the whole generation of iq
+i think china will play a similar
+similar role um you know you know in the
+blockchain space driving adoption
+beyond the cryptocurrencies to the other
+use cases and we're
+we're very excited to you know welcome
+chinese developers on our platform
+uh and um we would certainly you know we
+would certainly make them happy with our
+tools and they would find that
+development on the blockchain
+can be you know just just a few days i
+can give you one example the nft
+subject is very hard so when we
+introduce the technology for nft tokens
+two weeks ago
+three weeks ago um in freetown
+it took the first it took guys it took
+three developers and only two weeks
+to come up with the first nft
+marketplace on freight on
+two weeks three developers and uh you
+know they sold their first collection
+and made thirty thousand dollars in one
+day
+isn't that amazing uh so i think
+innovation like that will continue to
+accelerate
+thank you so much well i think we
+actually had
+several building blocks and that bridge
+between permissioned and permissionless
+blockchain
+being put during this panel thank you so
+much everyone for being here today
+unfortunately our time is up
+but i urge you to enjoy the rest of the
+conference we have an amazing content
+coming up um if on here everyday
+technology alexander vladov of ton labs
+doctor law
+of diginote and um um hefenjang of bt1
+um
+unfortunately we lost his video
+transmission thank you so much everyone
+and uh
+i really enjoyed uh talking to you today
+and um
+have a good day and stay healthy thank
+you everyone
+bye-bye bye dr law
+[Music]
+you

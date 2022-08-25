@@ -1,0 +1,67 @@
+everscales remp
+what is it
+remp stands for reliable external
+messaging protocol and it's a major
+technological milestone forever scale
+it makes the network faster and more
+reliable let's try to give rem an
+overview so we can understand how
+important it is for the network
+reliable message queue
+in everscale messages deliver
+information and instructions from one
+smart contract to another or from a user
+to a smart contract
+messages initiate transactions which are
+executed by smart contracts there are
+two types of messages in everscale
+internal a message from one account on
+the blockchain to another that can carry
+information about a transaction these
+don't require a cryptographic signature
+external a message sent and received
+from an external source outside the
+blockchain usually from the user's
+device external messages need to be
+signed with the user's key
+in other blockchains external messages
+can be a problem as there's no way to
+define a strict queue order and priority
+that's why blockchain users have to deal
+with front running when messages they
+send with trading orders for dexes are
+of low priority than front runners
+orders remp solves this problem and
+makes everscale the only blockchain in
+the world that guarantees a strict order
+for message execution
+how remp changes the game the main
+purpose of remp is to guarantee that
+messages are delivered from any network
+participants in a particular order
+within a sub-second time frame when a
+network participant sends a message to
+the network it gets accepted by the
+current validators and included in the
+message queue cat chain mqc with a
+timestamp the validators send
+confirmation of acceptance to the user
+and the message is guaranteed to be
+included in the block even if the block
+production fails the messages will be
+included in the same order they were
+received in the next block if a message
+doesn't end up being included in the
+block all of the validators have their
+stakes slashed
+there's also replay protection and
+anti-spam protection what's more remp
+means users can get a sub second
+response in dap interfaces because we
+already know the message queue order
+when we click thanks to this everscale
+becomes not only the fastest blockchain
+in terms of transactions per second but
+also the most interactive
+blurring the lines between regular
+applications and dapps

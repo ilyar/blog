@@ -1,0 +1,69 @@
+nfts are a very important part of the
+blockchain industry out of all
+blockchain technology applications they
+are the easiest to understand and they
+bring new users who are interested in
+use cases not technical details that's
+why everscale aims to provide the best
+experience to nft creators and
+developers we cover the new tip 4 nft
+standard in another video but in
+addition to the standard it's essential
+to have clear documentation with a
+standard developer's kit with ready to
+use methods
+software development kit standard
+software development kit sdk is a set of
+software tools that help developers
+create applications quickly and easily
+sdks include many libraries with
+functions that developers can integrate
+into their code
+the nft sdk was developed by the it gold
+team the creators of various nft
+platforms including gram bazaar and one
+of the co-authors of tip four the main
+principle in creating the sdk is for it
+to be developer friendly and easy to use
+nfts have a lot of basic functionality
+such as ownership management
+transference issuance burning and so on
+but the functionality does not have many
+standard usage practices for example
+there might be a private collection in
+which only the author can create nfts
+or there could be a public collection
+where any user can issue nft tokens
+belonging to it but the author's
+signature would be required
+the list goes on
+there's breeding nfts by creating a new
+one with the properties of its parents
+creating nfts that interact with each
+other and much more
+the nft sdk has all of the above and
+other practices as templates
+this means that any developer can get
+what they need at the click of a button
+using the wizard or command line it's
+easy to choose a template in the sdk and
+then use it while adding your own
+methods
+the result is quick nft creation for
+your game or other needs
+during the sdk's development the idea
+was to create a set of library
+implementations of basic functionality
+which could be expanded without
+interfering with the main implementation
+developers need to focus on shipping
+their product there's no need to think
+about basic functionality and what's
+more as the ecosystem grows more basic
+functionality will be added over time
+the sdk will be open to everyone
+available on various open source
+platforms under an open license
+learn more about the everscale network
+all the necessary links are in the
+description below see you next time

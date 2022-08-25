@@ -1,0 +1,4885 @@
+1
+00:00:02,399 --> 00:00:03,030
+
+hi all
+
+2
+00:00:03,030 --> 00:00:03,040
+hi all
+ 
+
+3
+00:00:03,040 --> 00:00:04,390
+hi all
+[Music]
+
+4
+00:00:04,390 --> 00:00:04,400
+[Music]
+ 
+
+5
+00:00:04,400 --> 00:00:06,550
+[Music]
+my name is mithya garashevsk i'm cto of
+
+6
+00:00:06,550 --> 00:00:06,560
+my name is mithya garashevsk i'm cto of
+ 
+
+7
+00:00:06,560 --> 00:00:09,830
+my name is mithya garashevsk i'm cto of
+don labs a core developer of freetown
+
+8
+00:00:09,830 --> 00:00:09,840
+don labs a core developer of freetown
+ 
+
+9
+00:00:09,840 --> 00:00:12,310
+don labs a core developer of freetown
+network which is currently
+
+10
+00:00:12,310 --> 00:00:12,320
+network which is currently
+ 
+
+11
+00:00:12,320 --> 00:00:15,430
+network which is currently
+the fastest and most scalable blockchain
+
+12
+00:00:15,430 --> 00:00:15,440
+the fastest and most scalable blockchain
+ 
+
+13
+00:00:15,440 --> 00:00:16,710
+the fastest and most scalable blockchain
+in the world
+
+14
+00:00:16,710 --> 00:00:16,720
+in the world
+ 
+
+15
+00:00:16,720 --> 00:00:19,510
+in the world
+but the topic of my today's
+
+16
+00:00:19,510 --> 00:00:19,520
+but the topic of my today's
+ 
+
+17
+00:00:19,520 --> 00:00:20,470
+but the topic of my today's
+talk
+
+18
+00:00:20,470 --> 00:00:20,480
+talk
+ 
+
+19
+00:00:20,480 --> 00:00:21,429
+talk
+is
+
+20
+00:00:21,429 --> 00:00:21,439
+is
+ 
+
+21
+00:00:21,439 --> 00:00:23,910
+is
+some challenges building decentralized
+
+22
+00:00:23,910 --> 00:00:23,920
+some challenges building decentralized
+ 
+
+23
+00:00:23,920 --> 00:00:26,630
+some challenges building decentralized
+internet
+
+24
+00:00:26,630 --> 00:00:26,640
+
+ 
+
+25
+00:00:26,640 --> 00:00:28,230
+
+and i named it
+
+26
+00:00:28,230 --> 00:00:28,240
+and i named it
+ 
+
+27
+00:00:28,240 --> 00:00:30,630
+and i named it
+building decentralized internet and not
+
+28
+00:00:30,630 --> 00:00:30,640
+building decentralized internet and not
+ 
+
+29
+00:00:30,640 --> 00:00:33,270
+building decentralized internet and not
+just a decentralized application or uh
+
+30
+00:00:33,270 --> 00:00:33,280
+just a decentralized application or uh
+ 
+
+31
+00:00:33,280 --> 00:00:36,709
+just a decentralized application or uh
+or a blockchain decentralized
+
+32
+00:00:36,709 --> 00:00:36,719
+or a blockchain decentralized
+ 
+
+33
+00:00:36,719 --> 00:00:38,069
+or a blockchain decentralized
+is because
+
+34
+00:00:38,069 --> 00:00:38,079
+is because
+ 
+
+35
+00:00:38,079 --> 00:00:39,590
+is because
+we believe that
+
+36
+00:00:39,590 --> 00:00:39,600
+we believe that
+ 
+
+37
+00:00:39,600 --> 00:00:41,350
+we believe that
+it's not enough just to build a
+
+38
+00:00:41,350 --> 00:00:41,360
+it's not enough just to build a
+ 
+
+39
+00:00:41,360 --> 00:00:43,510
+it's not enough just to build a
+financial decentralized financial
+
+40
+00:00:43,510 --> 00:00:43,520
+financial decentralized financial
+ 
+
+41
+00:00:43,520 --> 00:00:46,389
+financial decentralized financial
+application or decentralized financial
+
+42
+00:00:46,389 --> 00:00:46,399
+application or decentralized financial
+ 
+
+43
+00:00:46,399 --> 00:00:48,069
+application or decentralized financial
+backbone
+
+44
+00:00:48,069 --> 00:00:48,079
+backbone
+ 
+
+45
+00:00:48,079 --> 00:00:50,150
+backbone
+um we believe that
+
+46
+00:00:50,150 --> 00:00:50,160
+um we believe that
+ 
+
+47
+00:00:50,160 --> 00:00:52,069
+um we believe that
+we have a problem of centralization of
+
+48
+00:00:52,069 --> 00:00:52,079
+we have a problem of centralization of
+ 
+
+49
+00:00:52,079 --> 00:00:55,430
+we have a problem of centralization of
+the internet today and um
+
+50
+00:00:55,430 --> 00:00:55,440
+the internet today and um
+ 
+
+51
+00:00:55,440 --> 00:00:57,270
+the internet today and um
+just give a brief example why do i think
+
+52
+00:00:57,270 --> 00:00:57,280
+just give a brief example why do i think
+ 
+
+53
+00:00:57,280 --> 00:01:00,790
+just give a brief example why do i think
+it's not such a good idea
+
+54
+00:01:00,790 --> 00:01:00,800
+it's not such a good idea
+ 
+
+55
+00:01:00,800 --> 00:01:02,150
+it's not such a good idea
+simply because
+
+56
+00:01:02,150 --> 00:01:02,160
+simply because
+ 
+
+57
+00:01:02,160 --> 00:01:05,189
+simply because
+the laws of evolution tells us
+
+58
+00:01:05,189 --> 00:01:05,199
+the laws of evolution tells us
+ 
+
+59
+00:01:05,199 --> 00:01:07,510
+the laws of evolution tells us
+that we would not be sitting today
+
+60
+00:01:07,510 --> 00:01:07,520
+that we would not be sitting today
+ 
+
+61
+00:01:07,520 --> 00:01:10,149
+that we would not be sitting today
+if if the evolution process would be
+
+62
+00:01:10,149 --> 00:01:10,159
+if if the evolution process would be
+ 
+
+63
+00:01:10,159 --> 00:01:11,429
+if if the evolution process would be
+centralized
+
+64
+00:01:11,429 --> 00:01:11,439
+centralized
+ 
+
+65
+00:01:11,439 --> 00:01:14,310
+centralized
+meaning
+
+66
+00:01:14,310 --> 00:01:14,320
+
+ 
+
+67
+00:01:14,320 --> 00:01:15,350
+
+people
+
+68
+00:01:15,350 --> 00:01:15,360
+people
+ 
+
+69
+00:01:15,360 --> 00:01:18,550
+people
+or species doesn't matter they tend to
+
+70
+00:01:18,550 --> 00:01:18,560
+or species doesn't matter they tend to
+ 
+
+71
+00:01:18,560 --> 00:01:20,630
+or species doesn't matter they tend to
+make wrong decisions sometimes
+
+72
+00:01:20,630 --> 00:01:20,640
+make wrong decisions sometimes
+ 
+
+73
+00:01:20,640 --> 00:01:23,350
+make wrong decisions sometimes
+and sometimes these wrong decisions
+
+74
+00:01:23,350 --> 00:01:23,360
+and sometimes these wrong decisions
+ 
+
+75
+00:01:23,360 --> 00:01:26,149
+and sometimes these wrong decisions
+are just deadly
+
+76
+00:01:26,149 --> 00:01:26,159
+are just deadly
+ 
+
+77
+00:01:26,159 --> 00:01:30,390
+are just deadly
+so imagine if the evolution
+
+78
+00:01:30,390 --> 00:01:30,400
+so imagine if the evolution
+ 
+
+79
+00:01:30,400 --> 00:01:31,270
+so imagine if the evolution
+where
+
+80
+00:01:31,270 --> 00:01:31,280
+where
+ 
+
+81
+00:01:31,280 --> 00:01:34,149
+where
+all this pieces would reach one decision
+
+82
+00:01:34,149 --> 00:01:34,159
+all this pieces would reach one decision
+ 
+
+83
+00:01:34,159 --> 00:01:36,230
+all this pieces would reach one decision
+i think this this business would live
+
+84
+00:01:36,230 --> 00:01:36,240
+i think this this business would live
+ 
+
+85
+00:01:36,240 --> 00:01:37,830
+i think this this business would live
+very very short
+
+86
+00:01:37,830 --> 00:01:37,840
+very very short
+ 
+
+87
+00:01:37,840 --> 00:01:38,710
+very very short
+time
+
+88
+00:01:38,710 --> 00:01:38,720
+time
+ 
+
+89
+00:01:38,720 --> 00:01:40,310
+time
+because simply because they would make
+
+90
+00:01:40,310 --> 00:01:40,320
+because simply because they would make
+ 
+
+91
+00:01:40,320 --> 00:01:41,830
+because simply because they would make
+her some wrong decision and they would
+
+92
+00:01:41,830 --> 00:01:41,840
+her some wrong decision and they would
+ 
+
+93
+00:01:41,840 --> 00:01:44,310
+her some wrong decision and they would
+be all dead
+
+94
+00:01:44,310 --> 00:01:44,320
+be all dead
+ 
+
+95
+00:01:44,320 --> 00:01:46,469
+be all dead
+so we need to allow
+
+96
+00:01:46,469 --> 00:01:46,479
+so we need to allow
+ 
+
+97
+00:01:46,479 --> 00:01:48,550
+so we need to allow
+this process where
+
+98
+00:01:48,550 --> 00:01:48,560
+this process where
+ 
+
+99
+00:01:48,560 --> 00:01:49,910
+this process where
+a lot of groups
+
+100
+00:01:49,910 --> 00:01:49,920
+a lot of groups
+ 
+
+101
+00:01:49,920 --> 00:01:53,270
+a lot of groups
+a lot of people species that reaching
+
+102
+00:01:53,270 --> 00:01:53,280
+a lot of people species that reaching
+ 
+
+103
+00:01:53,280 --> 00:01:55,830
+a lot of people species that reaching
+different decisions in a decentralized
+
+104
+00:01:55,830 --> 00:01:55,840
+different decisions in a decentralized
+ 
+
+105
+00:01:55,840 --> 00:01:57,590
+different decisions in a decentralized
+way
+
+106
+00:01:57,590 --> 00:01:57,600
+way
+ 
+
+107
+00:01:57,600 --> 00:01:58,469
+way
+and
+
+108
+00:01:58,469 --> 00:01:58,479
+and
+ 
+
+109
+00:01:58,479 --> 00:01:59,749
+and
+now
+
+110
+00:01:59,749 --> 00:01:59,759
+now
+ 
+
+111
+00:01:59,759 --> 00:02:02,230
+now
+how do we do that
+
+112
+00:02:02,230 --> 00:02:02,240
+how do we do that
+ 
+
+113
+00:02:02,240 --> 00:02:04,310
+how do we do that
+and of course bitcoin was the first to
+
+114
+00:02:04,310 --> 00:02:04,320
+and of course bitcoin was the first to
+ 
+
+115
+00:02:04,320 --> 00:02:05,429
+and of course bitcoin was the first to
+build
+
+116
+00:02:05,429 --> 00:02:05,439
+build
+ 
+
+117
+00:02:05,439 --> 00:02:07,670
+build
+such a such a network where
+
+118
+00:02:07,670 --> 00:02:07,680
+such a such a network where
+ 
+
+119
+00:02:07,680 --> 00:02:10,469
+such a such a network where
+where it allowed for the first time uh
+
+120
+00:02:10,469 --> 00:02:10,479
+where it allowed for the first time uh
+ 
+
+121
+00:02:10,479 --> 00:02:11,750
+where it allowed for the first time uh
+for
+
+122
+00:02:11,750 --> 00:02:11,760
+for
+ 
+
+123
+00:02:11,760 --> 00:02:14,309
+for
+people who joined the network
+
+124
+00:02:14,309 --> 00:02:14,319
+people who joined the network
+ 
+
+125
+00:02:14,319 --> 00:02:16,790
+people who joined the network
+to not need to trust each other
+
+126
+00:02:16,790 --> 00:02:16,800
+to not need to trust each other
+ 
+
+127
+00:02:16,800 --> 00:02:19,270
+to not need to trust each other
+and there is no point of trust in
+
+128
+00:02:19,270 --> 00:02:19,280
+and there is no point of trust in
+ 
+
+129
+00:02:19,280 --> 00:02:20,309
+and there is no point of trust in
+blockchain
+
+130
+00:02:20,309 --> 00:02:20,319
+blockchain
+ 
+
+131
+00:02:20,319 --> 00:02:22,790
+blockchain
+in a public blockchain and that's
+
+132
+00:02:22,790 --> 00:02:22,800
+in a public blockchain and that's
+ 
+
+133
+00:02:22,800 --> 00:02:25,350
+in a public blockchain and that's
+exactly why i think private blockchains
+
+134
+00:02:25,350 --> 00:02:25,360
+exactly why i think private blockchains
+ 
+
+135
+00:02:25,360 --> 00:02:29,030
+exactly why i think private blockchains
+are just meaningless just it's just a
+
+136
+00:02:29,030 --> 00:02:29,040
+are just meaningless just it's just a
+ 
+
+137
+00:02:29,040 --> 00:02:32,790
+are just meaningless just it's just a
+wrong branch of an evolution
+
+138
+00:02:32,790 --> 00:02:32,800
+wrong branch of an evolution
+ 
+
+139
+00:02:32,800 --> 00:02:34,630
+wrong branch of an evolution
+of the technology
+
+140
+00:02:34,630 --> 00:02:34,640
+of the technology
+ 
+
+141
+00:02:34,640 --> 00:02:35,670
+of the technology
+okay so
+
+142
+00:02:35,670 --> 00:02:35,680
+okay so
+ 
+
+143
+00:02:35,680 --> 00:02:38,390
+okay so
+if we have a trustless network
+
+144
+00:02:38,390 --> 00:02:38,400
+if we have a trustless network
+ 
+
+145
+00:02:38,400 --> 00:02:40,949
+if we have a trustless network
+so of course satoshi wanted this network
+
+146
+00:02:40,949 --> 00:02:40,959
+so of course satoshi wanted this network
+ 
+
+147
+00:02:40,959 --> 00:02:42,550
+so of course satoshi wanted this network
+to be financial
+
+148
+00:02:42,550 --> 00:02:42,560
+to be financial
+ 
+
+149
+00:02:42,560 --> 00:02:43,589
+to be financial
+uh
+
+150
+00:02:43,589 --> 00:02:43,599
+uh
+ 
+
+151
+00:02:43,599 --> 00:02:46,710
+uh
+backbone to to provide for trustless
+
+152
+00:02:46,710 --> 00:02:46,720
+backbone to to provide for trustless
+ 
+
+153
+00:02:46,720 --> 00:02:48,070
+backbone to to provide for trustless
+finance
+
+154
+00:02:48,070 --> 00:02:48,080
+finance
+ 
+
+155
+00:02:48,080 --> 00:02:49,110
+finance
+and
+
+156
+00:02:49,110 --> 00:02:49,120
+and
+ 
+
+157
+00:02:49,120 --> 00:02:51,030
+and
+in a developed this way all the way up
+
+158
+00:02:51,030 --> 00:02:51,040
+in a developed this way all the way up
+ 
+
+159
+00:02:51,040 --> 00:02:53,030
+in a developed this way all the way up
+to today
+
+160
+00:02:53,030 --> 00:02:53,040
+to today
+ 
+
+161
+00:02:53,040 --> 00:02:55,110
+to today
+but in parallel to this
+
+162
+00:02:55,110 --> 00:02:55,120
+but in parallel to this
+ 
+
+163
+00:02:55,120 --> 00:02:57,030
+but in parallel to this
+there is there is an internet right
+
+164
+00:02:57,030 --> 00:02:57,040
+there is there is an internet right
+ 
+
+165
+00:02:57,040 --> 00:02:58,949
+there is there is an internet right
+there is a larger internet there are
+
+166
+00:02:58,949 --> 00:02:58,959
+there is a larger internet there are
+ 
+
+167
+00:02:58,959 --> 00:03:00,390
+there is a larger internet there are
+where users
+
+168
+00:03:00,390 --> 00:03:00,400
+where users
+ 
+
+169
+00:03:00,400 --> 00:03:02,710
+where users
+are putting their data on they have
+
+170
+00:03:02,710 --> 00:03:02,720
+are putting their data on they have
+ 
+
+171
+00:03:02,720 --> 00:03:05,270
+are putting their data on they have
+applications that they're running right
+
+172
+00:03:05,270 --> 00:03:05,280
+applications that they're running right
+ 
+
+173
+00:03:05,280 --> 00:03:06,869
+applications that they're running right
+and this
+
+174
+00:03:06,869 --> 00:03:06,879
+and this
+ 
+
+175
+00:03:06,879 --> 00:03:08,309
+and this
+internet
+
+176
+00:03:08,309 --> 00:03:08,319
+internet
+ 
+
+177
+00:03:08,319 --> 00:03:09,830
+internet
+evolution
+
+178
+00:03:09,830 --> 00:03:09,840
+evolution
+ 
+
+179
+00:03:09,840 --> 00:03:11,990
+evolution
+it made just an opposite direction
+
+180
+00:03:11,990 --> 00:03:12,000
+it made just an opposite direction
+ 
+
+181
+00:03:12,000 --> 00:03:14,309
+it made just an opposite direction
+completely it just went to the opposite
+
+182
+00:03:14,309 --> 00:03:14,319
+completely it just went to the opposite
+ 
+
+183
+00:03:14,319 --> 00:03:15,350
+completely it just went to the opposite
+direction
+
+184
+00:03:15,350 --> 00:03:15,360
+direction
+ 
+
+185
+00:03:15,360 --> 00:03:17,750
+direction
+where it started to become monopolized
+
+186
+00:03:17,750 --> 00:03:17,760
+where it started to become monopolized
+ 
+
+187
+00:03:17,760 --> 00:03:20,070
+where it started to become monopolized
+by very few entities and i'm talking
+
+188
+00:03:20,070 --> 00:03:20,080
+by very few entities and i'm talking
+ 
+
+189
+00:03:20,080 --> 00:03:21,830
+by very few entities and i'm talking
+about google i'm talking about you know
+
+190
+00:03:21,830 --> 00:03:21,840
+about google i'm talking about you know
+ 
+
+191
+00:03:21,840 --> 00:03:23,830
+about google i'm talking about you know
+facebook and so on
+
+192
+00:03:23,830 --> 00:03:23,840
+facebook and so on
+ 
+
+193
+00:03:23,840 --> 00:03:25,110
+facebook and so on
+in this
+
+194
+00:03:25,110 --> 00:03:25,120
+in this
+ 
+
+195
+00:03:25,120 --> 00:03:27,910
+in this
+um this monopolization of course is
+
+196
+00:03:27,910 --> 00:03:27,920
+um this monopolization of course is
+ 
+
+197
+00:03:27,920 --> 00:03:29,830
+um this monopolization of course is
+wrong on in the market because like
+
+198
+00:03:29,830 --> 00:03:29,840
+wrong on in the market because like
+ 
+
+199
+00:03:29,840 --> 00:03:31,509
+wrong on in the market because like
+governments around the world are trying
+
+200
+00:03:31,509 --> 00:03:31,519
+governments around the world are trying
+ 
+
+201
+00:03:31,519 --> 00:03:33,270
+governments around the world are trying
+to fight monopolization all the time
+
+202
+00:03:33,270 --> 00:03:33,280
+to fight monopolization all the time
+ 
+
+203
+00:03:33,280 --> 00:03:36,229
+to fight monopolization all the time
+because the market becomes inefficient
+
+204
+00:03:36,229 --> 00:03:36,239
+because the market becomes inefficient
+ 
+
+205
+00:03:36,239 --> 00:03:38,949
+because the market becomes inefficient
+while in the internet it went this
+
+206
+00:03:38,949 --> 00:03:38,959
+while in the internet it went this
+ 
+
+207
+00:03:38,959 --> 00:03:40,309
+while in the internet it went this
+direction
+
+208
+00:03:40,309 --> 00:03:40,319
+direction
+ 
+
+209
+00:03:40,319 --> 00:03:42,149
+direction
+be and it went with this direction
+
+210
+00:03:42,149 --> 00:03:42,159
+be and it went with this direction
+ 
+
+211
+00:03:42,159 --> 00:03:43,670
+be and it went with this direction
+because every market actually if you
+
+212
+00:03:43,670 --> 00:03:43,680
+because every market actually if you
+ 
+
+213
+00:03:43,680 --> 00:03:46,550
+because every market actually if you
+don't regulate the market it will sooner
+
+214
+00:03:46,550 --> 00:03:46,560
+don't regulate the market it will sooner
+ 
+
+215
+00:03:46,560 --> 00:03:48,789
+don't regulate the market it will sooner
+or later become monopolized because
+
+216
+00:03:48,789 --> 00:03:48,799
+or later become monopolized because
+ 
+
+217
+00:03:48,799 --> 00:03:50,630
+or later become monopolized because
+simply because that's the motivation of
+
+218
+00:03:50,630 --> 00:03:50,640
+simply because that's the motivation of
+ 
+
+219
+00:03:50,640 --> 00:03:52,149
+simply because that's the motivation of
+the party the motivation of economic
+
+220
+00:03:52,149 --> 00:03:52,159
+the party the motivation of economic
+ 
+
+221
+00:03:52,159 --> 00:03:54,229
+the party the motivation of economic
+parts in the market is to grab as much
+
+222
+00:03:54,229 --> 00:03:54,239
+parts in the market is to grab as much
+ 
+
+223
+00:03:54,239 --> 00:03:56,309
+parts in the market is to grab as much
+power as possible in the way of revenues
+
+224
+00:03:56,309 --> 00:03:56,319
+power as possible in the way of revenues
+ 
+
+225
+00:03:56,319 --> 00:03:58,630
+power as possible in the way of revenues
+right that's what the enterprise is
+
+226
+00:03:58,630 --> 00:03:58,640
+right that's what the enterprise is
+ 
+
+227
+00:03:58,640 --> 00:04:01,670
+right that's what the enterprise is
+optimized for is making revenue
+
+228
+00:04:01,670 --> 00:04:01,680
+optimized for is making revenue
+ 
+
+229
+00:04:01,680 --> 00:04:04,070
+optimized for is making revenue
+same thing when you allow
+
+230
+00:04:04,070 --> 00:04:04,080
+same thing when you allow
+ 
+
+231
+00:04:04,080 --> 00:04:05,429
+same thing when you allow
+the internet
+
+232
+00:04:05,429 --> 00:04:05,439
+the internet
+ 
+
+233
+00:04:05,439 --> 00:04:06,630
+the internet
+um
+
+234
+00:04:06,630 --> 00:04:06,640
+um
+ 
+
+235
+00:04:06,640 --> 00:04:08,229
+um
+to develop like the businesses on the
+
+236
+00:04:08,229 --> 00:04:08,239
+to develop like the businesses on the
+ 
+
+237
+00:04:08,239 --> 00:04:10,149
+to develop like the businesses on the
+internet these businesses will will tend
+
+238
+00:04:10,149 --> 00:04:10,159
+internet these businesses will will tend
+ 
+
+239
+00:04:10,159 --> 00:04:12,789
+internet these businesses will will tend
+to monopolize in exactly like in any
+
+240
+00:04:12,789 --> 00:04:12,799
+to monopolize in exactly like in any
+ 
+
+241
+00:04:12,799 --> 00:04:14,070
+to monopolize in exactly like in any
+other market and that's what we are
+
+242
+00:04:14,070 --> 00:04:14,080
+other market and that's what we are
+ 
+
+243
+00:04:14,080 --> 00:04:16,229
+other market and that's what we are
+witnessing today so right so we have the
+
+244
+00:04:16,229 --> 00:04:16,239
+witnessing today so right so we have the
+ 
+
+245
+00:04:16,239 --> 00:04:18,069
+witnessing today so right so we have the
+internet which is a bad one of all the
+
+246
+00:04:18,069 --> 00:04:18,079
+internet which is a bad one of all the
+ 
+
+247
+00:04:18,079 --> 00:04:21,270
+internet which is a bad one of all the
+data and all the human knowledge which
+
+248
+00:04:21,270 --> 00:04:21,280
+data and all the human knowledge which
+ 
+
+249
+00:04:21,280 --> 00:04:23,749
+data and all the human knowledge which
+is monopolized by very few parties
+
+250
+00:04:23,749 --> 00:04:23,759
+is monopolized by very few parties
+ 
+
+251
+00:04:23,759 --> 00:04:26,469
+is monopolized by very few parties
+and i i don't think this is such a good
+
+252
+00:04:26,469 --> 00:04:26,479
+and i i don't think this is such a good
+ 
+
+253
+00:04:26,479 --> 00:04:27,830
+and i i don't think this is such a good
+development
+
+254
+00:04:27,830 --> 00:04:27,840
+development
+ 
+
+255
+00:04:27,840 --> 00:04:30,870
+development
+if you think about the evolution
+
+256
+00:04:30,870 --> 00:04:30,880
+if you think about the evolution
+ 
+
+257
+00:04:30,880 --> 00:04:32,150
+if you think about the evolution
+and process we described in the
+
+258
+00:04:32,150 --> 00:04:32,160
+and process we described in the
+ 
+
+259
+00:04:32,160 --> 00:04:33,350
+and process we described in the
+beginning
+
+260
+00:04:33,350 --> 00:04:33,360
+beginning
+ 
+
+261
+00:04:33,360 --> 00:04:34,070
+beginning
+so
+
+262
+00:04:34,070 --> 00:04:34,080
+so
+ 
+
+263
+00:04:34,080 --> 00:04:35,670
+so
+for that
+
+264
+00:04:35,670 --> 00:04:35,680
+for that
+ 
+
+265
+00:04:35,680 --> 00:04:37,749
+for that
+we thought okay so let's we have
+
+266
+00:04:37,749 --> 00:04:37,759
+we thought okay so let's we have
+ 
+
+267
+00:04:37,759 --> 00:04:39,110
+we thought okay so let's we have
+industrialized technology we have a
+
+268
+00:04:39,110 --> 00:04:39,120
+industrialized technology we have a
+ 
+
+269
+00:04:39,120 --> 00:04:41,189
+industrialized technology we have a
+technology like the backbone like the
+
+270
+00:04:41,189 --> 00:04:41,199
+technology like the backbone like the
+ 
+
+271
+00:04:41,199 --> 00:04:43,510
+technology like the backbone like the
+database and we can run an applications
+
+272
+00:04:43,510 --> 00:04:43,520
+database and we can run an applications
+ 
+
+273
+00:04:43,520 --> 00:04:45,189
+database and we can run an applications
+on this database now
+
+274
+00:04:45,189 --> 00:04:45,199
+on this database now
+ 
+
+275
+00:04:45,199 --> 00:04:47,270
+on this database now
+um and it's a it's decentralized meaning
+
+276
+00:04:47,270 --> 00:04:47,280
+um and it's a it's decentralized meaning
+ 
+
+277
+00:04:47,280 --> 00:04:48,710
+um and it's a it's decentralized meaning
+the parties don't need to trust each
+
+278
+00:04:48,710 --> 00:04:48,720
+the parties don't need to trust each
+ 
+
+279
+00:04:48,720 --> 00:04:51,909
+the parties don't need to trust each
+other so why wouldn't that be good idea
+
+280
+00:04:51,909 --> 00:04:51,919
+other so why wouldn't that be good idea
+ 
+
+281
+00:04:51,919 --> 00:04:53,990
+other so why wouldn't that be good idea
+maybe to put these applications that
+
+282
+00:04:53,990 --> 00:04:54,000
+maybe to put these applications that
+ 
+
+283
+00:04:54,000 --> 00:04:55,830
+maybe to put these applications that
+just just not just financial application
+
+284
+00:04:55,830 --> 00:04:55,840
+just just not just financial application
+ 
+
+285
+00:04:55,840 --> 00:04:58,390
+just just not just financial application
+but basically any application
+
+286
+00:04:58,390 --> 00:04:58,400
+but basically any application
+ 
+
+287
+00:04:58,400 --> 00:04:59,830
+but basically any application
+or at least some
+
+288
+00:04:59,830 --> 00:04:59,840
+or at least some
+ 
+
+289
+00:04:59,840 --> 00:05:01,909
+or at least some
+portion of this application which which
+
+290
+00:05:01,909 --> 00:05:01,919
+portion of this application which which
+ 
+
+291
+00:05:01,919 --> 00:05:04,469
+portion of this application which which
+requires that to put that part in a
+
+292
+00:05:04,469 --> 00:05:04,479
+requires that to put that part in a
+ 
+
+293
+00:05:04,479 --> 00:05:06,790
+requires that to put that part in a
+decentralized way
+
+294
+00:05:06,790 --> 00:05:06,800
+decentralized way
+ 
+
+295
+00:05:06,800 --> 00:05:09,510
+decentralized way
+on a decentralized network so
+
+296
+00:05:09,510 --> 00:05:09,520
+on a decentralized network so
+ 
+
+297
+00:05:09,520 --> 00:05:12,310
+on a decentralized network so
+what would we need to do to even
+
+298
+00:05:12,310 --> 00:05:12,320
+what would we need to do to even
+ 
+
+299
+00:05:12,320 --> 00:05:16,550
+what would we need to do to even
+technically to allow this kind of
+
+300
+00:05:16,550 --> 00:05:16,560
+technically to allow this kind of
+ 
+
+301
+00:05:16,560 --> 00:05:19,189
+technically to allow this kind of
+thing right so first of all
+
+302
+00:05:19,189 --> 00:05:19,199
+thing right so first of all
+ 
+
+303
+00:05:19,199 --> 00:05:23,029
+thing right so first of all
+it is it it must be
+
+304
+00:05:23,029 --> 00:05:23,039
+
+ 
+
+305
+00:05:23,039 --> 00:05:25,749
+
+the demand on this on this backbone is
+
+306
+00:05:25,749 --> 00:05:25,759
+the demand on this on this backbone is
+ 
+
+307
+00:05:25,759 --> 00:05:27,990
+the demand on this on this backbone is
+would be huge right because
+
+308
+00:05:27,990 --> 00:05:28,000
+would be huge right because
+ 
+
+309
+00:05:28,000 --> 00:05:30,070
+would be huge right because
+it um there are millions of people who
+
+310
+00:05:30,070 --> 00:05:30,080
+it um there are millions of people who
+ 
+
+311
+00:05:30,080 --> 00:05:31,590
+it um there are millions of people who
+are using internet today there are there
+
+312
+00:05:31,590 --> 00:05:31,600
+are using internet today there are there
+ 
+
+313
+00:05:31,600 --> 00:05:33,510
+are using internet today there are there
+are like millions of applications which
+
+314
+00:05:33,510 --> 00:05:33,520
+are like millions of applications which
+ 
+
+315
+00:05:33,520 --> 00:05:36,550
+are like millions of applications which
+which which the internet is is uh
+
+316
+00:05:36,550 --> 00:05:36,560
+which which the internet is is uh
+ 
+
+317
+00:05:36,560 --> 00:05:38,870
+which which the internet is is uh
+um is used for
+
+318
+00:05:38,870 --> 00:05:38,880
+um is used for
+ 
+
+319
+00:05:38,880 --> 00:05:41,110
+um is used for
+so what kind of requirements would we
+
+320
+00:05:41,110 --> 00:05:41,120
+so what kind of requirements would we
+ 
+
+321
+00:05:41,120 --> 00:05:43,990
+so what kind of requirements would we
+need to talk about here if we want if we
+
+322
+00:05:43,990 --> 00:05:44,000
+need to talk about here if we want if we
+ 
+
+323
+00:05:44,000 --> 00:05:46,550
+need to talk about here if we want if we
+want this i will share my screen now
+
+324
+00:05:46,550 --> 00:05:46,560
+want this i will share my screen now
+ 
+
+325
+00:05:46,560 --> 00:05:48,550
+want this i will share my screen now
+for a second
+
+326
+00:05:48,550 --> 00:05:48,560
+for a second
+ 
+
+327
+00:05:48,560 --> 00:05:49,909
+for a second
+and uh
+
+328
+00:05:49,909 --> 00:05:49,919
+and uh
+ 
+
+329
+00:05:49,919 --> 00:05:52,469
+and uh
+let's see i just put one it's not even
+
+330
+00:05:52,469 --> 00:05:52,479
+let's see i just put one it's not even
+ 
+
+331
+00:05:52,479 --> 00:05:53,590
+let's see i just put one it's not even
+slight
+
+332
+00:05:53,590 --> 00:05:53,600
+slight
+ 
+
+333
+00:05:53,600 --> 00:05:55,270
+slight
+um
+
+334
+00:05:55,270 --> 00:05:55,280
+um
+ 
+
+335
+00:05:55,280 --> 00:05:57,350
+um
+to do that
+
+336
+00:05:57,350 --> 00:05:57,360
+to do that
+ 
+
+337
+00:05:57,360 --> 00:05:58,390
+to do that
+so
+
+338
+00:05:58,390 --> 00:05:58,400
+so
+ 
+
+339
+00:05:58,400 --> 00:06:01,189
+so
+i put four kind of four properties of
+
+340
+00:06:01,189 --> 00:06:01,199
+i put four kind of four properties of
+ 
+
+341
+00:06:01,199 --> 00:06:05,990
+i put four kind of four properties of
+this of this back one
+
+342
+00:06:05,990 --> 00:06:06,000
+
+ 
+
+343
+00:06:06,000 --> 00:06:07,270
+
+it need to be
+
+344
+00:06:07,270 --> 00:06:07,280
+it need to be
+ 
+
+345
+00:06:07,280 --> 00:06:10,230
+it need to be
+fast it need to be secure it needs to be
+
+346
+00:06:10,230 --> 00:06:10,240
+fast it need to be secure it needs to be
+ 
+
+347
+00:06:10,240 --> 00:06:12,070
+fast it need to be secure it needs to be
+something we called
+
+348
+00:06:12,070 --> 00:06:12,080
+something we called
+ 
+
+349
+00:06:12,080 --> 00:06:14,950
+something we called
+valuable and sustainable
+
+350
+00:06:14,950 --> 00:06:14,960
+valuable and sustainable
+ 
+
+351
+00:06:14,960 --> 00:06:17,749
+valuable and sustainable
+available right sustainable
+
+352
+00:06:17,749 --> 00:06:17,759
+available right sustainable
+ 
+
+353
+00:06:17,759 --> 00:06:18,870
+available right sustainable
+um
+
+354
+00:06:18,870 --> 00:06:18,880
+um
+ 
+
+355
+00:06:18,880 --> 00:06:21,350
+um
+i will briefly go for all of this
+
+356
+00:06:21,350 --> 00:06:21,360
+i will briefly go for all of this
+ 
+
+357
+00:06:21,360 --> 00:06:23,510
+i will briefly go for all of this
+um and i believe that all of them are
+
+358
+00:06:23,510 --> 00:06:23,520
+um and i believe that all of them are
+ 
+
+359
+00:06:23,520 --> 00:06:24,629
+um and i believe that all of them are
+required
+
+360
+00:06:24,629 --> 00:06:24,639
+required
+ 
+
+361
+00:06:24,639 --> 00:06:27,430
+required
+right so
+
+362
+00:06:27,430 --> 00:06:27,440
+
+ 
+
+363
+00:06:27,440 --> 00:06:28,870
+
+so first of all it should be fast and
+
+364
+00:06:28,870 --> 00:06:28,880
+so first of all it should be fast and
+ 
+
+365
+00:06:28,880 --> 00:06:31,430
+so first of all it should be fast and
+fast of course is a kind of
+
+366
+00:06:31,430 --> 00:06:31,440
+fast of course is a kind of
+ 
+
+367
+00:06:31,440 --> 00:06:34,950
+fast of course is a kind of
+not precise word but um let's
+
+368
+00:06:34,950 --> 00:06:34,960
+not precise word but um let's
+ 
+
+369
+00:06:34,960 --> 00:06:37,029
+not precise word but um let's
+just break it up so it need to be low
+
+370
+00:06:37,029 --> 00:06:37,039
+just break it up so it need to be low
+ 
+
+371
+00:06:37,039 --> 00:06:39,270
+just break it up so it need to be low
+latency and by low latency i mean if you
+
+372
+00:06:39,270 --> 00:06:39,280
+latency and by low latency i mean if you
+ 
+
+373
+00:06:39,280 --> 00:06:40,870
+latency and by low latency i mean if you
+go to like social network and you
+
+374
+00:06:40,870 --> 00:06:40,880
+go to like social network and you
+ 
+
+375
+00:06:40,880 --> 00:06:43,029
+go to like social network and you
+refresh a page or you put a post you
+
+376
+00:06:43,029 --> 00:06:43,039
+refresh a page or you put a post you
+ 
+
+377
+00:06:43,039 --> 00:06:45,749
+refresh a page or you put a post you
+don't expect that you know um post to
+
+378
+00:06:45,749 --> 00:06:45,759
+don't expect that you know um post to
+ 
+
+379
+00:06:45,759 --> 00:06:46,950
+don't expect that you know um post to
+appear in
+
+380
+00:06:46,950 --> 00:06:46,960
+appear in
+ 
+
+381
+00:06:46,960 --> 00:06:49,110
+appear in
+in an hour
+
+382
+00:06:49,110 --> 00:06:49,120
+in an hour
+ 
+
+383
+00:06:49,120 --> 00:06:51,430
+in an hour
+or and even in 20 seconds you you like
+
+384
+00:06:51,430 --> 00:06:51,440
+or and even in 20 seconds you you like
+ 
+
+385
+00:06:51,440 --> 00:06:53,270
+or and even in 20 seconds you you like
+hit the button you wait one two three
+
+386
+00:06:53,270 --> 00:06:53,280
+hit the button you wait one two three
+ 
+
+387
+00:06:53,280 --> 00:06:55,270
+hit the button you wait one two three
+well that's it i mean that's more or
+
+388
+00:06:55,270 --> 00:06:55,280
+well that's it i mean that's more or
+ 
+
+389
+00:06:55,280 --> 00:06:59,830
+well that's it i mean that's more or
+less the span of user uh kind of um
+
+390
+00:06:59,830 --> 00:06:59,840
+less the span of user uh kind of um
+ 
+
+391
+00:06:59,840 --> 00:07:01,670
+less the span of user uh kind of um
+ready to wait for this to appear on the
+
+392
+00:07:01,670 --> 00:07:01,680
+ready to wait for this to appear on the
+ 
+
+393
+00:07:01,680 --> 00:07:03,189
+ready to wait for this to appear on the
+on the website so it should be really
+
+394
+00:07:03,189 --> 00:07:03,199
+on the website so it should be really
+ 
+
+395
+00:07:03,199 --> 00:07:05,430
+on the website so it should be really
+low latency stuff
+
+396
+00:07:05,430 --> 00:07:05,440
+low latency stuff
+ 
+
+397
+00:07:05,440 --> 00:07:06,790
+low latency stuff
+then it should have a very high
+
+398
+00:07:06,790 --> 00:07:06,800
+then it should have a very high
+ 
+
+399
+00:07:06,800 --> 00:07:08,469
+then it should have a very high
+throughput because like there are a lot
+
+400
+00:07:08,469 --> 00:07:08,479
+throughput because like there are a lot
+ 
+
+401
+00:07:08,479 --> 00:07:11,029
+throughput because like there are a lot
+of these users potentially who would you
+
+402
+00:07:11,029 --> 00:07:11,039
+of these users potentially who would you
+ 
+
+403
+00:07:11,039 --> 00:07:13,830
+of these users potentially who would you
+know want to do that simultaneously
+
+404
+00:07:13,830 --> 00:07:13,840
+know want to do that simultaneously
+ 
+
+405
+00:07:13,840 --> 00:07:14,790
+know want to do that simultaneously
+so
+
+406
+00:07:14,790 --> 00:07:14,800
+so
+ 
+
+407
+00:07:14,800 --> 00:07:17,270
+so
+we talk about let's say twitter
+
+408
+00:07:17,270 --> 00:07:17,280
+we talk about let's say twitter
+ 
+
+409
+00:07:17,280 --> 00:07:18,070
+we talk about let's say twitter
+right
+
+410
+00:07:18,070 --> 00:07:18,080
+right
+ 
+
+411
+00:07:18,080 --> 00:07:20,150
+right
+so twitter has like i don't know 20 30
+
+412
+00:07:20,150 --> 00:07:20,160
+so twitter has like i don't know 20 30
+ 
+
+413
+00:07:20,160 --> 00:07:22,550
+so twitter has like i don't know 20 30
+000 transactions per second just just on
+
+414
+00:07:22,550 --> 00:07:22,560
+000 transactions per second just just on
+ 
+
+415
+00:07:22,560 --> 00:07:24,469
+000 transactions per second just just on
+there on their feed
+
+416
+00:07:24,469 --> 00:07:24,479
+there on their feed
+ 
+
+417
+00:07:24,479 --> 00:07:26,950
+there on their feed
+around the world and uh
+
+418
+00:07:26,950 --> 00:07:26,960
+around the world and uh
+ 
+
+419
+00:07:26,960 --> 00:07:28,710
+around the world and uh
+and they on the high peaks like it can
+
+420
+00:07:28,710 --> 00:07:28,720
+and they on the high peaks like it can
+ 
+
+421
+00:07:28,720 --> 00:07:30,950
+and they on the high peaks like it can
+have to like what 60
+
+422
+00:07:30,950 --> 00:07:30,960
+have to like what 60
+ 
+
+423
+00:07:30,960 --> 00:07:32,230
+have to like what 60
+70
+
+424
+00:07:32,230 --> 00:07:32,240
+70
+ 
+
+425
+00:07:32,240 --> 00:07:34,390
+70
+000 tps
+
+426
+00:07:34,390 --> 00:07:34,400
+000 tps
+ 
+
+427
+00:07:34,400 --> 00:07:35,909
+000 tps
+right
+
+428
+00:07:35,909 --> 00:07:35,919
+right
+ 
+
+429
+00:07:35,919 --> 00:07:37,430
+right
+and it should be infinitely scalable
+
+430
+00:07:37,430 --> 00:07:37,440
+and it should be infinitely scalable
+ 
+
+431
+00:07:37,440 --> 00:07:39,510
+and it should be infinitely scalable
+because if i want tomorrow to develop
+
+432
+00:07:39,510 --> 00:07:39,520
+because if i want tomorrow to develop
+ 
+
+433
+00:07:39,520 --> 00:07:41,430
+because if i want tomorrow to develop
+new application i can define i'm an
+
+434
+00:07:41,430 --> 00:07:41,440
+new application i can define i'm an
+ 
+
+435
+00:07:41,440 --> 00:07:43,749
+new application i can define i'm an
+entrepreneur or developer i wrote some
+
+436
+00:07:43,749 --> 00:07:43,759
+entrepreneur or developer i wrote some
+ 
+
+437
+00:07:43,759 --> 00:07:45,029
+entrepreneur or developer i wrote some
+application and there are millions of
+
+438
+00:07:45,029 --> 00:07:45,039
+application and there are millions of
+ 
+
+439
+00:07:45,039 --> 00:07:46,550
+application and there are millions of
+users suddenly want to use it like i
+
+440
+00:07:46,550 --> 00:07:46,560
+users suddenly want to use it like i
+ 
+
+441
+00:07:46,560 --> 00:07:48,150
+users suddenly want to use it like i
+wrote the tik tok or whatever and there
+
+442
+00:07:48,150 --> 00:07:48,160
+wrote the tik tok or whatever and there
+ 
+
+443
+00:07:48,160 --> 00:07:50,150
+wrote the tik tok or whatever and there
+are millions of users want to use it
+
+444
+00:07:50,150 --> 00:07:50,160
+are millions of users want to use it
+ 
+
+445
+00:07:50,160 --> 00:07:52,390
+are millions of users want to use it
+well this network should scale with that
+
+446
+00:07:52,390 --> 00:07:52,400
+well this network should scale with that
+ 
+
+447
+00:07:52,400 --> 00:07:53,909
+well this network should scale with that
+right so it should be like almost
+
+448
+00:07:53,909 --> 00:07:53,919
+right so it should be like almost
+ 
+
+449
+00:07:53,919 --> 00:07:55,510
+right so it should be like almost
+infinitely scalable because we don't
+
+450
+00:07:55,510 --> 00:07:55,520
+infinitely scalable because we don't
+ 
+
+451
+00:07:55,520 --> 00:07:57,110
+infinitely scalable because we don't
+know how many of this application would
+
+452
+00:07:57,110 --> 00:07:57,120
+know how many of this application would
+ 
+
+453
+00:07:57,120 --> 00:07:59,430
+know how many of this application would
+appear
+
+454
+00:07:59,430 --> 00:07:59,440
+appear
+ 
+
+455
+00:07:59,440 --> 00:08:01,749
+appear
+now then it should be really secure
+
+456
+00:08:01,749 --> 00:08:01,759
+now then it should be really secure
+ 
+
+457
+00:08:01,759 --> 00:08:04,150
+now then it should be really secure
+because if we don't do that secure and
+
+458
+00:08:04,150 --> 00:08:04,160
+because if we don't do that secure and
+ 
+
+459
+00:08:04,160 --> 00:08:05,430
+because if we don't do that secure and
+i'm not talking about only financial
+
+460
+00:08:05,430 --> 00:08:05,440
+i'm not talking about only financial
+ 
+
+461
+00:08:05,440 --> 00:08:07,350
+i'm not talking about only financial
+first it's a very bad like if you have a
+
+462
+00:08:07,350 --> 00:08:07,360
+first it's a very bad like if you have a
+ 
+
+463
+00:08:07,360 --> 00:08:08,550
+first it's a very bad like if you have a
+financial application which is not
+
+464
+00:08:08,550 --> 00:08:08,560
+financial application which is not
+ 
+
+465
+00:08:08,560 --> 00:08:10,950
+financial application which is not
+secure but even if i'm not talking about
+
+466
+00:08:10,950 --> 00:08:10,960
+secure but even if i'm not talking about
+ 
+
+467
+00:08:10,960 --> 00:08:12,469
+secure but even if i'm not talking about
+financial application
+
+468
+00:08:12,469 --> 00:08:12,479
+financial application
+ 
+
+469
+00:08:12,479 --> 00:08:14,469
+financial application
+just you know you're putting all your
+
+470
+00:08:14,469 --> 00:08:14,479
+just you know you're putting all your
+ 
+
+471
+00:08:14,479 --> 00:08:16,550
+just you know you're putting all your
+data and we know that
+
+472
+00:08:16,550 --> 00:08:16,560
+data and we know that
+ 
+
+473
+00:08:16,560 --> 00:08:19,110
+data and we know that
+right now you put all your data in the
+
+474
+00:08:19,110 --> 00:08:19,120
+right now you put all your data in the
+ 
+
+475
+00:08:19,120 --> 00:08:21,749
+right now you put all your data in the
+hands of like google or whatever
+
+476
+00:08:21,749 --> 00:08:21,759
+hands of like google or whatever
+ 
+
+477
+00:08:21,759 --> 00:08:23,350
+hands of like google or whatever
+and um
+
+478
+00:08:23,350 --> 00:08:23,360
+and um
+ 
+
+479
+00:08:23,360 --> 00:08:25,990
+and um
+and and we and of course that is exactly
+
+480
+00:08:25,990 --> 00:08:26,000
+and and we and of course that is exactly
+ 
+
+481
+00:08:26,000 --> 00:08:28,710
+and and we and of course that is exactly
+the power of the of their monopolization
+
+482
+00:08:28,710 --> 00:08:28,720
+the power of the of their monopolization
+ 
+
+483
+00:08:28,720 --> 00:08:30,950
+the power of the of their monopolization
+because like they have this data now
+
+484
+00:08:30,950 --> 00:08:30,960
+because like they have this data now
+ 
+
+485
+00:08:30,960 --> 00:08:33,509
+because like they have this data now
+they can use that data to sell your data
+
+486
+00:08:33,509 --> 00:08:33,519
+they can use that data to sell your data
+ 
+
+487
+00:08:33,519 --> 00:08:35,509
+they can use that data to sell your data
+basically and so on and so forth
+
+488
+00:08:35,509 --> 00:08:35,519
+basically and so on and so forth
+ 
+
+489
+00:08:35,519 --> 00:08:37,670
+basically and so on and so forth
+so user need to be in control of of its
+
+490
+00:08:37,670 --> 00:08:37,680
+so user need to be in control of of its
+ 
+
+491
+00:08:37,680 --> 00:08:39,350
+so user need to be in control of of its
+data if we want really to decentralize
+
+492
+00:08:39,350 --> 00:08:39,360
+data if we want really to decentralize
+ 
+
+493
+00:08:39,360 --> 00:08:41,350
+data if we want really to decentralize
+the internet
+
+494
+00:08:41,350 --> 00:08:41,360
+the internet
+ 
+
+495
+00:08:41,360 --> 00:08:43,430
+the internet
+in order to do that you need to be
+
+496
+00:08:43,430 --> 00:08:43,440
+in order to do that you need to be
+ 
+
+497
+00:08:43,440 --> 00:08:45,829
+in order to do that you need to be
+secure like there's no of course
+
+498
+00:08:45,829 --> 00:08:45,839
+secure like there's no of course
+ 
+
+499
+00:08:45,839 --> 00:08:47,990
+secure like there's no of course
+arguing about that
+
+500
+00:08:47,990 --> 00:08:48,000
+arguing about that
+ 
+
+501
+00:08:48,000 --> 00:08:50,870
+arguing about that
+what we call millable is is is something
+
+502
+00:08:50,870 --> 00:08:50,880
+what we call millable is is is something
+ 
+
+503
+00:08:50,880 --> 00:08:52,829
+what we call millable is is is something
+nasim taleb called
+
+504
+00:08:52,829 --> 00:08:52,839
+nasim taleb called
+ 
+
+505
+00:08:52,839 --> 00:08:54,710
+nasim taleb called
+scientific
+
+506
+00:08:54,710 --> 00:08:54,720
+scientific
+ 
+
+507
+00:08:54,720 --> 00:08:55,829
+scientific
+it's um
+
+508
+00:08:55,829 --> 00:08:55,839
+it's um
+ 
+
+509
+00:08:55,839 --> 00:08:58,230
+it's um
+it's basically what happens to
+
+510
+00:08:58,230 --> 00:08:58,240
+it's basically what happens to
+ 
+
+511
+00:08:58,240 --> 00:08:59,509
+it's basically what happens to
+um
+
+512
+00:08:59,509 --> 00:08:59,519
+um
+ 
+
+513
+00:08:59,519 --> 00:09:00,790
+um
+if you want
+
+514
+00:09:00,790 --> 00:09:00,800
+if you want
+ 
+
+515
+00:09:00,800 --> 00:09:02,870
+if you want
+this system to like say you want to
+
+516
+00:09:02,870 --> 00:09:02,880
+this system to like say you want to
+ 
+
+517
+00:09:02,880 --> 00:09:04,550
+this system to like say you want to
+upgrade this system
+
+518
+00:09:04,550 --> 00:09:04,560
+upgrade this system
+ 
+
+519
+00:09:04,560 --> 00:09:06,389
+upgrade this system
+right
+
+520
+00:09:06,389 --> 00:09:06,399
+right
+ 
+
+521
+00:09:06,399 --> 00:09:09,750
+right
+who is deciding what need to be upgraded
+
+522
+00:09:09,750 --> 00:09:09,760
+who is deciding what need to be upgraded
+ 
+
+523
+00:09:09,760 --> 00:09:12,710
+who is deciding what need to be upgraded
+and and should we put your code on it or
+
+524
+00:09:12,710 --> 00:09:12,720
+and and should we put your code on it or
+ 
+
+525
+00:09:12,720 --> 00:09:14,949
+and and should we put your code on it or
+not right if there are rules of the
+
+526
+00:09:14,949 --> 00:09:14,959
+not right if there are rules of the
+ 
+
+527
+00:09:14,959 --> 00:09:17,990
+not right if there are rules of the
+protocol um who decide
+
+528
+00:09:17,990 --> 00:09:18,000
+protocol um who decide
+ 
+
+529
+00:09:18,000 --> 00:09:19,670
+protocol um who decide
+how this rules changes if we need to
+
+530
+00:09:19,670 --> 00:09:19,680
+how this rules changes if we need to
+ 
+
+531
+00:09:19,680 --> 00:09:20,710
+how this rules changes if we need to
+change them
+
+532
+00:09:20,710 --> 00:09:20,720
+change them
+ 
+
+533
+00:09:20,720 --> 00:09:22,550
+change them
+and we need to change them to adopt
+
+534
+00:09:22,550 --> 00:09:22,560
+and we need to change them to adopt
+ 
+
+535
+00:09:22,560 --> 00:09:24,870
+and we need to change them to adopt
+simply for you know future growth or
+
+536
+00:09:24,870 --> 00:09:24,880
+simply for you know future growth or
+ 
+
+537
+00:09:24,880 --> 00:09:27,670
+simply for you know future growth or
+needs or bugs change whatever
+
+538
+00:09:27,670 --> 00:09:27,680
+needs or bugs change whatever
+ 
+
+539
+00:09:27,680 --> 00:09:29,990
+needs or bugs change whatever
+and if you look even at the bitcoin how
+
+540
+00:09:29,990 --> 00:09:30,000
+and if you look even at the bitcoin how
+ 
+
+541
+00:09:30,000 --> 00:09:32,710
+and if you look even at the bitcoin how
+they do that
+
+542
+00:09:32,710 --> 00:09:32,720
+
+ 
+
+543
+00:09:32,720 --> 00:09:33,990
+
+um
+
+544
+00:09:33,990 --> 00:09:34,000
+um
+ 
+
+545
+00:09:34,000 --> 00:09:36,790
+um
+the repository where bitcoin repository
+
+546
+00:09:36,790 --> 00:09:36,800
+the repository where bitcoin repository
+ 
+
+547
+00:09:36,800 --> 00:09:39,910
+the repository where bitcoin repository
+code is centralized today
+
+548
+00:09:39,910 --> 00:09:39,920
+code is centralized today
+ 
+
+549
+00:09:39,920 --> 00:09:40,630
+code is centralized today
+so
+
+550
+00:09:40,630 --> 00:09:40,640
+so
+ 
+
+551
+00:09:40,640 --> 00:09:43,829
+so
+presumably it's just it's just not
+
+552
+00:09:43,829 --> 00:09:43,839
+presumably it's just it's just not
+ 
+
+553
+00:09:43,839 --> 00:09:46,230
+presumably it's just it's just not
+it's just not decentralized enough of
+
+554
+00:09:46,230 --> 00:09:46,240
+it's just not decentralized enough of
+ 
+
+555
+00:09:46,240 --> 00:09:47,829
+it's just not decentralized enough of
+course there are like governance
+
+556
+00:09:47,829 --> 00:09:47,839
+course there are like governance
+ 
+
+557
+00:09:47,839 --> 00:09:49,910
+course there are like governance
+structures which are like community
+
+558
+00:09:49,910 --> 00:09:49,920
+structures which are like community
+ 
+
+559
+00:09:49,920 --> 00:09:51,670
+structures which are like community
+governance structures that may be
+
+560
+00:09:51,670 --> 00:09:51,680
+governance structures that may be
+ 
+
+561
+00:09:51,680 --> 00:09:53,190
+governance structures that may be
+decentralized
+
+562
+00:09:53,190 --> 00:09:53,200
+decentralized
+ 
+
+563
+00:09:53,200 --> 00:09:53,990
+decentralized
+um
+
+564
+00:09:53,990 --> 00:09:54,000
+um
+ 
+
+565
+00:09:54,000 --> 00:09:56,630
+um
+but until the point where you make all
+
+566
+00:09:56,630 --> 00:09:56,640
+but until the point where you make all
+ 
+
+567
+00:09:56,640 --> 00:09:59,590
+but until the point where you make all
+of it decentralized and also in such a
+
+568
+00:09:59,590 --> 00:09:59,600
+of it decentralized and also in such a
+ 
+
+569
+00:09:59,600 --> 00:10:00,790
+of it decentralized and also in such a
+way where
+
+570
+00:10:00,790 --> 00:10:00,800
+way where
+ 
+
+571
+00:10:00,800 --> 00:10:03,750
+way where
+um this decentralization kind of
+
+572
+00:10:03,750 --> 00:10:03,760
+um this decentralization kind of
+ 
+
+573
+00:10:03,760 --> 00:10:05,269
+um this decentralization kind of
+is upgradeable
+
+574
+00:10:05,269 --> 00:10:05,279
+is upgradeable
+ 
+
+575
+00:10:05,279 --> 00:10:08,230
+is upgradeable
+meaning if if tomorrow community changes
+
+576
+00:10:08,230 --> 00:10:08,240
+meaning if if tomorrow community changes
+ 
+
+577
+00:10:08,240 --> 00:10:10,069
+meaning if if tomorrow community changes
+the network should not stop and the
+
+578
+00:10:10,069 --> 00:10:10,079
+the network should not stop and the
+ 
+
+579
+00:10:10,079 --> 00:10:12,230
+the network should not stop and the
+network development shouldn't stop right
+
+580
+00:10:12,230 --> 00:10:12,240
+network development shouldn't stop right
+ 
+
+581
+00:10:12,240 --> 00:10:14,790
+network development shouldn't stop right
+so you need some kind of rules
+
+582
+00:10:14,790 --> 00:10:14,800
+so you need some kind of rules
+ 
+
+583
+00:10:14,800 --> 00:10:17,509
+so you need some kind of rules
+governance rules which would be which
+
+584
+00:10:17,509 --> 00:10:17,519
+governance rules which would be which
+ 
+
+585
+00:10:17,519 --> 00:10:18,949
+governance rules which would be which
+would be flexible which would be
+
+586
+00:10:18,949 --> 00:10:18,959
+would be flexible which would be
+ 
+
+587
+00:10:18,959 --> 00:10:21,910
+would be flexible which would be
+anti-fragile
+
+588
+00:10:21,910 --> 00:10:21,920
+anti-fragile
+ 
+
+589
+00:10:21,920 --> 00:10:23,750
+anti-fragile
+and the last thing of course you need it
+
+590
+00:10:23,750 --> 00:10:23,760
+and the last thing of course you need it
+ 
+
+591
+00:10:23,760 --> 00:10:25,350
+and the last thing of course you need it
+to be sustainable because if it's not
+
+592
+00:10:25,350 --> 00:10:25,360
+to be sustainable because if it's not
+ 
+
+593
+00:10:25,360 --> 00:10:27,190
+to be sustainable because if it's not
+sustainable nobody will support it right
+
+594
+00:10:27,190 --> 00:10:27,200
+sustainable nobody will support it right
+ 
+
+595
+00:10:27,200 --> 00:10:29,030
+sustainable nobody will support it right
+so if you if you have a validators on
+
+596
+00:10:29,030 --> 00:10:29,040
+so if you if you have a validators on
+ 
+
+597
+00:10:29,040 --> 00:10:31,030
+so if you if you have a validators on
+the network you have you have more
+
+598
+00:10:31,030 --> 00:10:31,040
+the network you have you have more
+ 
+
+599
+00:10:31,040 --> 00:10:33,910
+the network you have you have more
+miners whatever um right you need an
+
+600
+00:10:33,910 --> 00:10:33,920
+miners whatever um right you need an
+ 
+
+601
+00:10:33,920 --> 00:10:35,829
+miners whatever um right you need an
+economic system
+
+602
+00:10:35,829 --> 00:10:35,839
+economic system
+ 
+
+603
+00:10:35,839 --> 00:10:37,750
+economic system
+where um
+
+604
+00:10:37,750 --> 00:10:37,760
+where um
+ 
+
+605
+00:10:37,760 --> 00:10:39,829
+where um
+doesn't matter what happens
+
+606
+00:10:39,829 --> 00:10:39,839
+doesn't matter what happens
+ 
+
+607
+00:10:39,839 --> 00:10:43,829
+doesn't matter what happens
+it will always be profitable to to run
+
+608
+00:10:43,829 --> 00:10:43,839
+it will always be profitable to to run
+ 
+
+609
+00:10:43,839 --> 00:10:46,150
+it will always be profitable to to run
+your network uh of course if the users
+
+610
+00:10:46,150 --> 00:10:46,160
+your network uh of course if the users
+ 
+
+611
+00:10:46,160 --> 00:10:47,829
+your network uh of course if the users
+are there if the users are not there
+
+612
+00:10:47,829 --> 00:10:47,839
+are there if the users are not there
+ 
+
+613
+00:10:47,839 --> 00:10:48,790
+are there if the users are not there
+then
+
+614
+00:10:48,790 --> 00:10:48,800
+then
+ 
+
+615
+00:10:48,800 --> 00:10:50,069
+then
+yeah well
+
+616
+00:10:50,069 --> 00:10:50,079
+yeah well
+ 
+
+617
+00:10:50,079 --> 00:10:52,069
+yeah well
+nobody needs the network
+
+618
+00:10:52,069 --> 00:10:52,079
+nobody needs the network
+ 
+
+619
+00:10:52,079 --> 00:10:53,910
+nobody needs the network
+right
+
+620
+00:10:53,910 --> 00:10:53,920
+right
+ 
+
+621
+00:10:53,920 --> 00:10:56,630
+right
+and the last point is it should be
+
+622
+00:10:56,630 --> 00:10:56,640
+and the last point is it should be
+ 
+
+623
+00:10:56,640 --> 00:10:59,110
+and the last point is it should be
+sustainable in a way that where the new
+
+624
+00:10:59,110 --> 00:10:59,120
+sustainable in a way that where the new
+ 
+
+625
+00:10:59,120 --> 00:11:00,550
+sustainable in a way that where the new
+entrepreneurs
+
+626
+00:11:00,550 --> 00:11:00,560
+entrepreneurs
+ 
+
+627
+00:11:00,560 --> 00:11:02,790
+entrepreneurs
+like developers want to join the network
+
+628
+00:11:02,790 --> 00:11:02,800
+like developers want to join the network
+ 
+
+629
+00:11:02,800 --> 00:11:04,550
+like developers want to join the network
+do something on that it should be it
+
+630
+00:11:04,550 --> 00:11:04,560
+do something on that it should be it
+ 
+
+631
+00:11:04,560 --> 00:11:05,990
+do something on that it should be it
+should provide some incentive for them
+
+632
+00:11:05,990 --> 00:11:06,000
+should provide some incentive for them
+ 
+
+633
+00:11:06,000 --> 00:11:07,590
+should provide some incentive for them
+to do that
+
+634
+00:11:07,590 --> 00:11:07,600
+to do that
+ 
+
+635
+00:11:07,600 --> 00:11:09,350
+to do that
+and so i think that
+
+636
+00:11:09,350 --> 00:11:09,360
+and so i think that
+ 
+
+637
+00:11:09,360 --> 00:11:11,110
+and so i think that
+more or less this is the framework this
+
+638
+00:11:11,110 --> 00:11:11,120
+more or less this is the framework this
+ 
+
+639
+00:11:11,120 --> 00:11:12,150
+more or less this is the framework this
+for me
+
+640
+00:11:12,150 --> 00:11:12,160
+for me
+ 
+
+641
+00:11:12,160 --> 00:11:14,870
+for me
+this is the frame of for like to
+
+642
+00:11:14,870 --> 00:11:14,880
+this is the frame of for like to
+ 
+
+643
+00:11:14,880 --> 00:11:15,990
+this is the frame of for like to
+building
+
+644
+00:11:15,990 --> 00:11:16,000
+building
+ 
+
+645
+00:11:16,000 --> 00:11:16,949
+building
+the
+
+646
+00:11:16,949 --> 00:11:16,959
+the
+ 
+
+647
+00:11:16,959 --> 00:11:18,790
+the
+this decentralized internet now if you
+
+648
+00:11:18,790 --> 00:11:18,800
+this decentralized internet now if you
+ 
+
+649
+00:11:18,800 --> 00:11:21,190
+this decentralized internet now if you
+look today and just
+
+650
+00:11:21,190 --> 00:11:21,200
+look today and just
+ 
+
+651
+00:11:21,200 --> 00:11:22,949
+look today and just
+take that framework
+
+652
+00:11:22,949 --> 00:11:22,959
+take that framework
+ 
+
+653
+00:11:22,959 --> 00:11:25,509
+take that framework
+and apply it to any blockchain that you
+
+654
+00:11:25,509 --> 00:11:25,519
+and apply it to any blockchain that you
+ 
+
+655
+00:11:25,519 --> 00:11:26,630
+and apply it to any blockchain that you
+know
+
+656
+00:11:26,630 --> 00:11:26,640
+know
+ 
+
+657
+00:11:26,640 --> 00:11:29,670
+know
+today and you will see very quickly
+
+658
+00:11:29,670 --> 00:11:29,680
+today and you will see very quickly
+ 
+
+659
+00:11:29,680 --> 00:11:30,550
+today and you will see very quickly
+that
+
+660
+00:11:30,550 --> 00:11:30,560
+that
+ 
+
+661
+00:11:30,560 --> 00:11:33,590
+that
+there are no blockchain today which
+
+662
+00:11:33,590 --> 00:11:33,600
+there are no blockchain today which
+ 
+
+663
+00:11:33,600 --> 00:11:34,710
+there are no blockchain today which
+actually
+
+664
+00:11:34,710 --> 00:11:34,720
+actually
+ 
+
+665
+00:11:34,720 --> 00:11:36,389
+actually
+um
+
+666
+00:11:36,389 --> 00:11:36,399
+um
+ 
+
+667
+00:11:36,399 --> 00:11:38,150
+um
+fits all these points
+
+668
+00:11:38,150 --> 00:11:38,160
+fits all these points
+ 
+
+669
+00:11:38,160 --> 00:11:39,590
+fits all these points
+right so
+
+670
+00:11:39,590 --> 00:11:39,600
+right so
+ 
+
+671
+00:11:39,600 --> 00:11:41,030
+right so
+there is simply no
+
+672
+00:11:41,030 --> 00:11:41,040
+there is simply no
+ 
+
+673
+00:11:41,040 --> 00:11:43,670
+there is simply no
+no protocol today which allows for
+
+674
+00:11:43,670 --> 00:11:43,680
+no protocol today which allows for
+ 
+
+675
+00:11:43,680 --> 00:11:47,829
+no protocol today which allows for
+creation of decentralized internet yet
+
+676
+00:11:47,829 --> 00:11:47,839
+
+ 
+
+677
+00:11:47,839 --> 00:11:50,150
+
+and they all of all of the protocols
+
+678
+00:11:50,150 --> 00:11:50,160
+and they all of all of the protocols
+ 
+
+679
+00:11:50,160 --> 00:11:52,790
+and they all of all of the protocols
+they have like their
+
+680
+00:11:52,790 --> 00:11:52,800
+they have like their
+ 
+
+681
+00:11:52,800 --> 00:11:55,350
+they have like their
+good side their strong side something
+
+682
+00:11:55,350 --> 00:11:55,360
+good side their strong side something
+ 
+
+683
+00:11:55,360 --> 00:11:57,430
+good side their strong side something
+that they do really well like for
+
+684
+00:11:57,430 --> 00:11:57,440
+that they do really well like for
+ 
+
+685
+00:11:57,440 --> 00:11:59,269
+that they do really well like for
+example you like there is a huge
+
+686
+00:11:59,269 --> 00:11:59,279
+example you like there is a huge
+ 
+
+687
+00:11:59,279 --> 00:12:02,069
+example you like there is a huge
+community of developers on ethereum
+
+688
+00:12:02,069 --> 00:12:02,079
+community of developers on ethereum
+ 
+
+689
+00:12:02,079 --> 00:12:02,949
+community of developers on ethereum
+and
+
+690
+00:12:02,949 --> 00:12:02,959
+and
+ 
+
+691
+00:12:02,959 --> 00:12:04,710
+and
+you know they write a lot of solidity
+
+692
+00:12:04,710 --> 00:12:04,720
+you know they write a lot of solidity
+ 
+
+693
+00:12:04,720 --> 00:12:07,110
+you know they write a lot of solidity
+smart contracts
+
+694
+00:12:07,110 --> 00:12:07,120
+smart contracts
+ 
+
+695
+00:12:07,120 --> 00:12:08,710
+smart contracts
+more or less they all of course copy
+
+696
+00:12:08,710 --> 00:12:08,720
+more or less they all of course copy
+ 
+
+697
+00:12:08,720 --> 00:12:11,190
+more or less they all of course copy
+pasting but that's not the point so you
+
+698
+00:12:11,190 --> 00:12:11,200
+pasting but that's not the point so you
+ 
+
+699
+00:12:11,200 --> 00:12:13,670
+pasting but that's not the point so you
+have this a lot so they like
+
+700
+00:12:13,670 --> 00:12:13,680
+have this a lot so they like
+ 
+
+701
+00:12:13,680 --> 00:12:16,550
+have this a lot so they like
+the ethereum to teach us or
+
+702
+00:12:16,550 --> 00:12:16,560
+the ethereum to teach us or
+ 
+
+703
+00:12:16,560 --> 00:12:19,590
+the ethereum to teach us or
+taught us that you can you can write
+
+704
+00:12:19,590 --> 00:12:19,600
+taught us that you can you can write
+ 
+
+705
+00:12:19,600 --> 00:12:21,750
+taught us that you can you can write
+applications on the blockchain
+
+706
+00:12:21,750 --> 00:12:21,760
+applications on the blockchain
+ 
+
+707
+00:12:21,760 --> 00:12:22,870
+applications on the blockchain
+but um
+
+708
+00:12:22,870 --> 00:12:22,880
+but um
+ 
+
+709
+00:12:22,880 --> 00:12:25,910
+but um
+the network itself is just not
+
+710
+00:12:25,910 --> 00:12:25,920
+the network itself is just not
+ 
+
+711
+00:12:25,920 --> 00:12:29,190
+the network itself is just not
+scalable at all so when we thought about
+
+712
+00:12:29,190 --> 00:12:29,200
+scalable at all so when we thought about
+ 
+
+713
+00:12:29,200 --> 00:12:32,150
+scalable at all so when we thought about
+that framework um
+
+714
+00:12:32,150 --> 00:12:32,160
+that framework um
+ 
+
+715
+00:12:32,160 --> 00:12:34,949
+that framework um
+we thought that this is the design that
+
+716
+00:12:34,949 --> 00:12:34,959
+we thought that this is the design that
+ 
+
+717
+00:12:34,959 --> 00:12:37,190
+we thought that this is the design that
+goals that we have right so
+
+718
+00:12:37,190 --> 00:12:37,200
+goals that we have right so
+ 
+
+719
+00:12:37,200 --> 00:12:39,190
+goals that we have right so
+and of course i'm not going to talk now
+
+720
+00:12:39,190 --> 00:12:39,200
+and of course i'm not going to talk now
+ 
+
+721
+00:12:39,200 --> 00:12:42,230
+and of course i'm not going to talk now
+about how how we tackle that and that's
+
+722
+00:12:42,230 --> 00:12:42,240
+about how how we tackle that and that's
+ 
+
+723
+00:12:42,240 --> 00:12:44,310
+about how how we tackle that and that's
+not the point when you can check it from
+
+724
+00:12:44,310 --> 00:12:44,320
+not the point when you can check it from
+ 
+
+725
+00:12:44,320 --> 00:12:45,750
+not the point when you can check it from
+freetown
+
+726
+00:12:45,750 --> 00:12:45,760
+freetown
+ 
+
+727
+00:12:45,760 --> 00:12:47,990
+freetown
+node organs and technical papers and but
+
+728
+00:12:47,990 --> 00:12:48,000
+node organs and technical papers and but
+ 
+
+729
+00:12:48,000 --> 00:12:49,110
+node organs and technical papers and but
+there are
+
+730
+00:12:49,110 --> 00:12:49,120
+there are
+ 
+
+731
+00:12:49,120 --> 00:12:51,269
+there are
+of course all basically many blockchains
+
+732
+00:12:51,269 --> 00:12:51,279
+of course all basically many blockchains
+ 
+
+733
+00:12:51,279 --> 00:12:53,030
+of course all basically many blockchains
+trying to solve that
+
+734
+00:12:53,030 --> 00:12:53,040
+trying to solve that
+ 
+
+735
+00:12:53,040 --> 00:12:54,069
+trying to solve that
+problem
+
+736
+00:12:54,069 --> 00:12:54,079
+problem
+ 
+
+737
+00:12:54,079 --> 00:12:55,910
+problem
+um of like but
+
+738
+00:12:55,910 --> 00:12:55,920
+um of like but
+ 
+
+739
+00:12:55,920 --> 00:12:57,990
+um of like but
+again you need to talk
+
+740
+00:12:57,990 --> 00:12:58,000
+again you need to talk
+ 
+
+741
+00:12:58,000 --> 00:12:59,829
+again you need to talk
+about this whole complex of these
+
+742
+00:12:59,829 --> 00:12:59,839
+about this whole complex of these
+ 
+
+743
+00:12:59,839 --> 00:13:02,790
+about this whole complex of these
+problems because if you just solve one
+
+744
+00:13:02,790 --> 00:13:02,800
+problems because if you just solve one
+ 
+
+745
+00:13:02,800 --> 00:13:04,069
+problems because if you just solve one
+you will not build a centralized
+
+746
+00:13:04,069 --> 00:13:04,079
+you will not build a centralized
+ 
+
+747
+00:13:04,079 --> 00:13:05,590
+you will not build a centralized
+internet you may build decentralized
+
+748
+00:13:05,590 --> 00:13:05,600
+internet you may build decentralized
+ 
+
+749
+00:13:05,600 --> 00:13:07,750
+internet you may build decentralized
+finance yes but you won't build
+
+750
+00:13:07,750 --> 00:13:07,760
+finance yes but you won't build
+ 
+
+751
+00:13:07,760 --> 00:13:09,910
+finance yes but you won't build
+decentralized internet
+
+752
+00:13:09,910 --> 00:13:09,920
+decentralized internet
+ 
+
+753
+00:13:09,920 --> 00:13:11,430
+decentralized internet
+nor a backbone for decentralized
+
+754
+00:13:11,430 --> 00:13:11,440
+nor a backbone for decentralized
+ 
+
+755
+00:13:11,440 --> 00:13:14,389
+nor a backbone for decentralized
+internet um so for example you can have
+
+756
+00:13:14,389 --> 00:13:14,399
+internet um so for example you can have
+ 
+
+757
+00:13:14,399 --> 00:13:16,629
+internet um so for example you can have
+a very like fast blockchain fast meaning
+
+758
+00:13:16,629 --> 00:13:16,639
+a very like fast blockchain fast meaning
+ 
+
+759
+00:13:16,639 --> 00:13:19,590
+a very like fast blockchain fast meaning
+like low latency high throughput
+
+760
+00:13:19,590 --> 00:13:19,600
+like low latency high throughput
+ 
+
+761
+00:13:19,600 --> 00:13:22,069
+like low latency high throughput
+but if you don't have governance um
+
+762
+00:13:22,069 --> 00:13:22,079
+but if you don't have governance um
+ 
+
+763
+00:13:22,079 --> 00:13:23,910
+but if you don't have governance um
+which is which is decentralized and you
+
+764
+00:13:23,910 --> 00:13:23,920
+which is which is decentralized and you
+ 
+
+765
+00:13:23,920 --> 00:13:25,829
+which is which is decentralized and you
+don't have it's a sustainable economy
+
+766
+00:13:25,829 --> 00:13:25,839
+don't have it's a sustainable economy
+ 
+
+767
+00:13:25,839 --> 00:13:28,550
+don't have it's a sustainable economy
+then that just won't work
+
+768
+00:13:28,550 --> 00:13:28,560
+then that just won't work
+ 
+
+769
+00:13:28,560 --> 00:13:31,190
+then that just won't work
+now when we talk about our design of
+
+770
+00:13:31,190 --> 00:13:31,200
+now when we talk about our design of
+ 
+
+771
+00:13:31,200 --> 00:13:33,430
+now when we talk about our design of
+course with these goals
+
+772
+00:13:33,430 --> 00:13:33,440
+course with these goals
+ 
+
+773
+00:13:33,440 --> 00:13:35,110
+course with these goals
+we kind of
+
+774
+00:13:35,110 --> 00:13:35,120
+we kind of
+ 
+
+775
+00:13:35,120 --> 00:13:36,870
+we kind of
+it changes a lot the perspective of what
+
+776
+00:13:36,870 --> 00:13:36,880
+it changes a lot the perspective of what
+ 
+
+777
+00:13:36,880 --> 00:13:39,189
+it changes a lot the perspective of what
+you're trying to do for example like
+
+778
+00:13:39,189 --> 00:13:39,199
+you're trying to do for example like
+ 
+
+779
+00:13:39,199 --> 00:13:41,590
+you're trying to do for example like
+if you if you take one chain solution
+
+780
+00:13:41,590 --> 00:13:41,600
+if you if you take one chain solution
+ 
+
+781
+00:13:41,600 --> 00:13:43,750
+if you if you take one chain solution
+and you just built very fast chain but
+
+782
+00:13:43,750 --> 00:13:43,760
+and you just built very fast chain but
+ 
+
+783
+00:13:43,760 --> 00:13:45,990
+and you just built very fast chain but
+you will still have um scalability
+
+784
+00:13:45,990 --> 00:13:46,000
+you will still have um scalability
+ 
+
+785
+00:13:46,000 --> 00:13:48,870
+you will still have um scalability
+issues because it's not infinite then
+
+786
+00:13:48,870 --> 00:13:48,880
+issues because it's not infinite then
+ 
+
+787
+00:13:48,880 --> 00:13:51,269
+issues because it's not infinite then
+you can then you quickly realize okay
+
+788
+00:13:51,269 --> 00:13:51,279
+you can then you quickly realize okay
+ 
+
+789
+00:13:51,279 --> 00:13:54,550
+you can then you quickly realize okay
+you can build a very fine um order book
+
+790
+00:13:54,550 --> 00:13:54,560
+you can build a very fine um order book
+ 
+
+791
+00:13:54,560 --> 00:13:57,670
+you can build a very fine um order book
+uh kind of um decentralized exchange but
+
+792
+00:13:57,670 --> 00:13:57,680
+uh kind of um decentralized exchange but
+ 
+
+793
+00:13:57,680 --> 00:13:59,829
+uh kind of um decentralized exchange but
+that's about it and because you will hit
+
+794
+00:13:59,829 --> 00:13:59,839
+that's about it and because you will hit
+ 
+
+795
+00:13:59,839 --> 00:14:01,750
+that's about it and because you will hit
+the limit upper limit of your of your
+
+796
+00:14:01,750 --> 00:14:01,760
+the limit upper limit of your of your
+ 
+
+797
+00:14:01,760 --> 00:14:04,470
+the limit upper limit of your of your
+scalability which will be i don't know
+
+798
+00:14:04,470 --> 00:14:04,480
+scalability which will be i don't know
+ 
+
+799
+00:14:04,480 --> 00:14:06,949
+scalability which will be i don't know
+even few hundred thousand tps but then
+
+800
+00:14:06,949 --> 00:14:06,959
+even few hundred thousand tps but then
+ 
+
+801
+00:14:06,959 --> 00:14:09,269
+even few hundred thousand tps but then
+it stops so how would you do the next
+
+802
+00:14:09,269 --> 00:14:09,279
+it stops so how would you do the next
+ 
+
+803
+00:14:09,279 --> 00:14:11,509
+it stops so how would you do the next
+one if you do if a developer comes to
+
+804
+00:14:11,509 --> 00:14:11,519
+one if you do if a developer comes to
+ 
+
+805
+00:14:11,519 --> 00:14:12,710
+one if you do if a developer comes to
+you and say okay i have another
+
+806
+00:14:12,710 --> 00:14:12,720
+you and say okay i have another
+ 
+
+807
+00:14:12,720 --> 00:14:14,629
+you and say okay i have another
+application and i need another million
+
+808
+00:14:14,629 --> 00:14:14,639
+application and i need another million
+ 
+
+809
+00:14:14,639 --> 00:14:17,189
+application and i need another million
+transaction per second more or less
+
+810
+00:14:17,189 --> 00:14:17,199
+transaction per second more or less
+ 
+
+811
+00:14:17,199 --> 00:14:18,310
+transaction per second more or less
+what you're going to do
+
+812
+00:14:18,310 --> 00:14:18,320
+what you're going to do
+ 
+
+813
+00:14:18,320 --> 00:14:20,949
+what you're going to do
+[Music]
+
+814
+00:14:20,949 --> 00:14:20,959
+[Music]
+ 
+
+815
+00:14:20,959 --> 00:14:21,790
+[Music]
+so um
+
+816
+00:14:21,790 --> 00:14:21,800
+so um
+ 
+
+817
+00:14:21,800 --> 00:14:23,750
+so um
+[Music]
+
+818
+00:14:23,750 --> 00:14:23,760
+[Music]
+ 
+
+819
+00:14:23,760 --> 00:14:26,710
+[Music]
+so so we need this infinite scalability
+
+820
+00:14:26,710 --> 00:14:26,720
+so so we need this infinite scalability
+ 
+
+821
+00:14:26,720 --> 00:14:27,990
+so so we need this infinite scalability
+and the infinite scalability you can
+
+822
+00:14:27,990 --> 00:14:28,000
+and the infinite scalability you can
+ 
+
+823
+00:14:28,000 --> 00:14:29,189
+and the infinite scalability you can
+only build
+
+824
+00:14:29,189 --> 00:14:29,199
+only build
+ 
+
+825
+00:14:29,199 --> 00:14:31,350
+only build
+with well it's you can't even build it
+
+826
+00:14:31,350 --> 00:14:31,360
+with well it's you can't even build it
+ 
+
+827
+00:14:31,360 --> 00:14:33,269
+with well it's you can't even build it
+with sharding
+
+828
+00:14:33,269 --> 00:14:33,279
+with sharding
+ 
+
+829
+00:14:33,279 --> 00:14:35,590
+with sharding
+because you will build just
+
+830
+00:14:35,590 --> 00:14:35,600
+because you will build just
+ 
+
+831
+00:14:35,600 --> 00:14:36,629
+because you will build just
+um
+
+832
+00:14:36,629 --> 00:14:36,639
+um
+ 
+
+833
+00:14:36,639 --> 00:14:39,030
+um
+scalability but you won't you won't do
+
+834
+00:14:39,030 --> 00:14:39,040
+scalability but you won't you won't do
+ 
+
+835
+00:14:39,040 --> 00:14:41,590
+scalability but you won't you won't do
+that fast and because like if you just
+
+836
+00:14:41,590 --> 00:14:41,600
+that fast and because like if you just
+ 
+
+837
+00:14:41,600 --> 00:14:43,990
+that fast and because like if you just
+shard every all the time
+
+838
+00:14:43,990 --> 00:14:44,000
+shard every all the time
+ 
+
+839
+00:14:44,000 --> 00:14:47,030
+shard every all the time
+it won't be low latency for example
+
+840
+00:14:47,030 --> 00:14:47,040
+it won't be low latency for example
+ 
+
+841
+00:14:47,040 --> 00:14:48,870
+it won't be low latency for example
+so there are compromises in each step
+
+842
+00:14:48,870 --> 00:14:48,880
+so there are compromises in each step
+ 
+
+843
+00:14:48,880 --> 00:14:51,030
+so there are compromises in each step
+and if you think about security for
+
+844
+00:14:51,030 --> 00:14:51,040
+and if you think about security for
+ 
+
+845
+00:14:51,040 --> 00:14:53,110
+and if you think about security for
+example if you share it a lot
+
+846
+00:14:53,110 --> 00:14:53,120
+example if you share it a lot
+ 
+
+847
+00:14:53,120 --> 00:14:54,949
+example if you share it a lot
+and you don't have a consensus which
+
+848
+00:14:54,949 --> 00:14:54,959
+and you don't have a consensus which
+ 
+
+849
+00:14:54,959 --> 00:14:57,110
+and you don't have a consensus which
+which provides security guarantees which
+
+850
+00:14:57,110 --> 00:14:57,120
+which provides security guarantees which
+ 
+
+851
+00:14:57,120 --> 00:14:59,189
+which provides security guarantees which
+are you know
+
+852
+00:14:59,189 --> 00:14:59,199
+are you know
+ 
+
+853
+00:14:59,199 --> 00:15:01,030
+are you know
+built for sharding if you don't solve
+
+854
+00:15:01,030 --> 00:15:01,040
+built for sharding if you don't solve
+ 
+
+855
+00:15:01,040 --> 00:15:02,710
+built for sharding if you don't solve
+that the sharding the security
+
+856
+00:15:02,710 --> 00:15:02,720
+that the sharding the security
+ 
+
+857
+00:15:02,720 --> 00:15:03,910
+that the sharding the security
+guarantees for charging which is really
+
+858
+00:15:03,910 --> 00:15:03,920
+guarantees for charging which is really
+ 
+
+859
+00:15:03,920 --> 00:15:05,509
+guarantees for charging which is really
+hard
+
+860
+00:15:05,509 --> 00:15:05,519
+hard
+ 
+
+861
+00:15:05,519 --> 00:15:07,350
+hard
+then then you cannot have sharding
+
+862
+00:15:07,350 --> 00:15:07,360
+then then you cannot have sharding
+ 
+
+863
+00:15:07,360 --> 00:15:09,350
+then then you cannot have sharding
+because you won't have security right or
+
+864
+00:15:09,350 --> 00:15:09,360
+because you won't have security right or
+ 
+
+865
+00:15:09,360 --> 00:15:11,509
+because you won't have security right or
+you simply jeopardize the user security
+
+866
+00:15:11,509 --> 00:15:11,519
+you simply jeopardize the user security
+ 
+
+867
+00:15:11,519 --> 00:15:13,590
+you simply jeopardize the user security
+if you have sharding and i'm talking
+
+868
+00:15:13,590 --> 00:15:13,600
+if you have sharding and i'm talking
+ 
+
+869
+00:15:13,600 --> 00:15:15,509
+if you have sharding and i'm talking
+about layer 2 solutions for example and
+
+870
+00:15:15,509 --> 00:15:15,519
+about layer 2 solutions for example and
+ 
+
+871
+00:15:15,519 --> 00:15:16,870
+about layer 2 solutions for example and
+all that
+
+872
+00:15:16,870 --> 00:15:16,880
+all that
+ 
+
+873
+00:15:16,880 --> 00:15:19,350
+all that
+and you can build layer 2 layer 3 layer
+
+874
+00:15:19,350 --> 00:15:19,360
+and you can build layer 2 layer 3 layer
+ 
+
+875
+00:15:19,360 --> 00:15:21,350
+and you can build layer 2 layer 3 layer
+4 what you have today more or less kind
+
+876
+00:15:21,350 --> 00:15:21,360
+4 what you have today more or less kind
+ 
+
+877
+00:15:21,360 --> 00:15:24,230
+4 what you have today more or less kind
+of a solution but the problem is that on
+
+878
+00:15:24,230 --> 00:15:24,240
+of a solution but the problem is that on
+ 
+
+879
+00:15:24,240 --> 00:15:25,750
+of a solution but the problem is that on
+if you go for all these layers for the
+
+880
+00:15:25,750 --> 00:15:25,760
+if you go for all these layers for the
+ 
+
+881
+00:15:25,760 --> 00:15:28,150
+if you go for all these layers for the
+user and i'm talking web3 which okay so
+
+882
+00:15:28,150 --> 00:15:28,160
+user and i'm talking web3 which okay so
+ 
+
+883
+00:15:28,160 --> 00:15:30,710
+user and i'm talking web3 which okay so
+let's say layer one um network which
+
+884
+00:15:30,710 --> 00:15:30,720
+let's say layer one um network which
+ 
+
+885
+00:15:30,720 --> 00:15:32,389
+let's say layer one um network which
+provides security currencies layer two
+
+886
+00:15:32,389 --> 00:15:32,399
+provides security currencies layer two
+ 
+
+887
+00:15:32,399 --> 00:15:34,870
+provides security currencies layer two
+network which provides the scalability
+
+888
+00:15:34,870 --> 00:15:34,880
+network which provides the scalability
+ 
+
+889
+00:15:34,880 --> 00:15:36,389
+network which provides the scalability
+layer three now which which provides
+
+890
+00:15:36,389 --> 00:15:36,399
+layer three now which which provides
+ 
+
+891
+00:15:36,399 --> 00:15:37,910
+layer three now which which provides
+like a user interface we're going
+
+892
+00:15:37,910 --> 00:15:37,920
+like a user interface we're going
+ 
+
+893
+00:15:37,920 --> 00:15:40,230
+like a user interface we're going
+through this whole web three stack if
+
+894
+00:15:40,230 --> 00:15:40,240
+through this whole web three stack if
+ 
+
+895
+00:15:40,240 --> 00:15:41,350
+through this whole web three stack if
+you just connect all these pieces
+
+896
+00:15:41,350 --> 00:15:41,360
+you just connect all these pieces
+ 
+
+897
+00:15:41,360 --> 00:15:43,670
+you just connect all these pieces
+together
+
+898
+00:15:43,670 --> 00:15:43,680
+together
+ 
+
+899
+00:15:43,680 --> 00:15:46,389
+together
+if you hit a button
+
+900
+00:15:46,389 --> 00:15:46,399
+if you hit a button
+ 
+
+901
+00:15:46,399 --> 00:15:47,749
+if you hit a button
+it will take you like i don't know how
+
+902
+00:15:47,749 --> 00:15:47,759
+it will take you like i don't know how
+ 
+
+903
+00:15:47,759 --> 00:15:50,550
+it will take you like i don't know how
+much time like it's it's it's not you
+
+904
+00:15:50,550 --> 00:15:50,560
+much time like it's it's it's not you
+ 
+
+905
+00:15:50,560 --> 00:15:53,189
+much time like it's it's it's not you
+simply cannot
+
+906
+00:15:53,189 --> 00:15:53,199
+simply cannot
+ 
+
+907
+00:15:53,199 --> 00:15:55,749
+simply cannot
+you need to think of a system that would
+
+908
+00:15:55,749 --> 00:15:55,759
+you need to think of a system that would
+ 
+
+909
+00:15:55,759 --> 00:15:57,509
+you need to think of a system that would
+have all these components tied together
+
+910
+00:15:57,509 --> 00:15:57,519
+have all these components tied together
+ 
+
+911
+00:15:57,519 --> 00:15:59,509
+have all these components tied together
+in one kind of network
+
+912
+00:15:59,509 --> 00:15:59,519
+in one kind of network
+ 
+
+913
+00:15:59,519 --> 00:16:01,189
+in one kind of network
+layer one
+
+914
+00:16:01,189 --> 00:16:01,199
+layer one
+ 
+
+915
+00:16:01,199 --> 00:16:03,430
+layer one
+and because without that you you simply
+
+916
+00:16:03,430 --> 00:16:03,440
+and because without that you you simply
+ 
+
+917
+00:16:03,440 --> 00:16:05,990
+and because without that you you simply
+cannot hit all these design goals
+
+918
+00:16:05,990 --> 00:16:06,000
+cannot hit all these design goals
+ 
+
+919
+00:16:06,000 --> 00:16:08,550
+cannot hit all these design goals
+just they're very simple um kind of
+
+920
+00:16:08,550 --> 00:16:08,560
+just they're very simple um kind of
+ 
+
+921
+00:16:08,560 --> 00:16:10,389
+just they're very simple um kind of
+stuff right
+
+922
+00:16:10,389 --> 00:16:10,399
+stuff right
+ 
+
+923
+00:16:10,399 --> 00:16:13,269
+stuff right
+um
+
+924
+00:16:13,269 --> 00:16:13,279
+
+ 
+
+925
+00:16:13,279 --> 00:16:14,710
+
+then and then you have all this
+
+926
+00:16:14,710 --> 00:16:14,720
+then and then you have all this
+ 
+
+927
+00:16:14,720 --> 00:16:16,310
+then and then you have all this
+decentralized governance and in the
+
+928
+00:16:16,310 --> 00:16:16,320
+decentralized governance and in the
+ 
+
+929
+00:16:16,320 --> 00:16:19,430
+decentralized governance and in the
+economy in which i i don't even want to
+
+930
+00:16:19,430 --> 00:16:19,440
+economy in which i i don't even want to
+ 
+
+931
+00:16:19,440 --> 00:16:21,590
+economy in which i i don't even want to
+start to talk about now because we don't
+
+932
+00:16:21,590 --> 00:16:21,600
+start to talk about now because we don't
+ 
+
+933
+00:16:21,600 --> 00:16:22,870
+start to talk about now because we don't
+have time for that
+
+934
+00:16:22,870 --> 00:16:22,880
+have time for that
+ 
+
+935
+00:16:22,880 --> 00:16:23,829
+have time for that
+so
+
+936
+00:16:23,829 --> 00:16:23,839
+so
+ 
+
+937
+00:16:23,839 --> 00:16:25,269
+so
+anyway
+
+938
+00:16:25,269 --> 00:16:25,279
+anyway
+ 
+
+939
+00:16:25,279 --> 00:16:27,269
+anyway
+just for a conclusion
+
+940
+00:16:27,269 --> 00:16:27,279
+just for a conclusion
+ 
+
+941
+00:16:27,279 --> 00:16:29,030
+just for a conclusion
+this is the framework i'm thinking about
+
+942
+00:16:29,030 --> 00:16:29,040
+this is the framework i'm thinking about
+ 
+
+943
+00:16:29,040 --> 00:16:30,790
+this is the framework i'm thinking about
+when i'm thinking about like the next
+
+944
+00:16:30,790 --> 00:16:30,800
+when i'm thinking about like the next
+ 
+
+945
+00:16:30,800 --> 00:16:32,470
+when i'm thinking about like the next
+generation blockchains
+
+946
+00:16:32,470 --> 00:16:32,480
+generation blockchains
+ 
+
+947
+00:16:32,480 --> 00:16:34,150
+generation blockchains
+this was our design goals when we
+
+948
+00:16:34,150 --> 00:16:34,160
+this was our design goals when we
+ 
+
+949
+00:16:34,160 --> 00:16:36,710
+this was our design goals when we
+created ours and i think that you need
+
+950
+00:16:36,710 --> 00:16:36,720
+created ours and i think that you need
+ 
+
+951
+00:16:36,720 --> 00:16:39,269
+created ours and i think that you need
+to check every well i check every
+
+952
+00:16:39,269 --> 00:16:39,279
+to check every well i check every
+ 
+
+953
+00:16:39,279 --> 00:16:41,189
+to check every well i check every
+blockchain or every kind of
+
+954
+00:16:41,189 --> 00:16:41,199
+blockchain or every kind of
+ 
+
+955
+00:16:41,199 --> 00:16:43,269
+blockchain or every kind of
+infrastructure solution
+
+956
+00:16:43,269 --> 00:16:43,279
+infrastructure solution
+ 
+
+957
+00:16:43,279 --> 00:16:45,670
+infrastructure solution
+um in the blockchain space today against
+
+958
+00:16:45,670 --> 00:16:45,680
+um in the blockchain space today against
+ 
+
+959
+00:16:45,680 --> 00:16:47,910
+um in the blockchain space today against
+these principles and if it doesn't fit
+
+960
+00:16:47,910 --> 00:16:47,920
+these principles and if it doesn't fit
+ 
+
+961
+00:16:47,920 --> 00:16:50,150
+these principles and if it doesn't fit
+then i say okay fine it has a limited
+
+962
+00:16:50,150 --> 00:16:50,160
+then i say okay fine it has a limited
+ 
+
+963
+00:16:50,160 --> 00:16:53,509
+then i say okay fine it has a limited
+like scope of that or that which is fine
+
+964
+00:16:53,509 --> 00:16:53,519
+like scope of that or that which is fine
+ 
+
+965
+00:16:53,519 --> 00:16:54,550
+like scope of that or that which is fine
+i guess
+
+966
+00:16:54,550 --> 00:16:54,560
+i guess
+ 
+
+967
+00:16:54,560 --> 00:16:57,350
+i guess
+um but well our goal was to build a
+
+968
+00:16:57,350 --> 00:16:57,360
+um but well our goal was to build a
+ 
+
+969
+00:16:57,360 --> 00:16:59,110
+um but well our goal was to build a
+decentralized internet because we think
+
+970
+00:16:59,110 --> 00:16:59,120
+decentralized internet because we think
+ 
+
+971
+00:16:59,120 --> 00:17:01,030
+decentralized internet because we think
+that there is a problem with the current
+
+972
+00:17:01,030 --> 00:17:01,040
+that there is a problem with the current
+ 
+
+973
+00:17:01,040 --> 00:17:01,990
+that there is a problem with the current
+one
+
+974
+00:17:01,990 --> 00:17:02,000
+one
+ 
+
+975
+00:17:02,000 --> 00:17:03,670
+one
+thank you very much
+
+976
+00:17:03,670 --> 00:17:03,680
+thank you very much
+ 
+
+977
+00:17:03,680 --> 00:17:07,799
+thank you very much
+and you know see you again
+

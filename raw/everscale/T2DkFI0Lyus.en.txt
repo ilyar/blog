@@ -1,0 +1,1364 @@
+so go
+hi all uh welcome to our ama session uh
+today uh we are going to discuss uh the
+very important topics
+and today our guests are sergey shashf
+co-founder of broxas and uh what is
+often amarov
+will tell us more about the
+past
+past and future updates
+so sergey
+okay guys so we will start
+we set up updates and we immigrated from
+t3 to keep free one
+and
+we
+prepare this process during
+four maybe five five months it was
+crucial for our adoption in another
+network
+and for new users
+unfortunately
+we have some potential potential back in
+depreciable and we solved it
+and we understood that we
+must stop migration before big big mass
+adoption
+uh because we all like like wall
+we have worked with us during the last
+two years
+and we and you i think you don't know
+what's what's spain
+but new users
+not ready not ready to
+support different migrations
+and which is why we did it and
+we
+didn't launch a lot of marketing
+activities and partnership what they had
+planned before
+because they didn't create risks
+whisper applied migration it was very
+hard for us for boxes
+because we spent
+a lot of resource for it
+without business radio
+but it's necessary
+it's necessary because for fit it's
+impossible to
+to going forward and
+to to work with a big uh big adoption
+uh so
+uh uh i know that there are a lot of
+questions in mhm session but we will
+start from main questions
+uh what
+what uh broxas did with uh query and
+relay
+why we did it and what we can do in
+network
+uh
+if you reviewed uh some another
+blockchain for example ethereum and you
+know how compound work how they work
+how hdtv work and another
+they all have
+a lot of
+some potential
+potential potential potential problem
+and we must verma solve it and we must
+do
+uh for example if some duty money from
+uh dark
+internet will will go will go for us and
+you'll try go go from us and if some
+user
+will
+deploy a smart contract uh and uh
+move on with some content to black hole
+uh all to another place uh he will he
+lost it
+and um
+we are working in very
+in very extreme environment
+we are working in uh network what kind
+of dates every day and we are planning
+to
+change
+consensus
+and
+different improvements in protocol
+it's a work of aviarix labs
+and we have changing different
+compilers
+and
+we have a lot of potential risks
+and uh
+and i have personal
+responsibility for this risks
+and
+and we decided a lot of months ago
+uh that
+we will have different administrative
+administrative tools
+like at work in in the eye for example
+in compound to its guard role
+and uh and emergency mode and the
+emergency meals and then guards in vitro
+uh we can we can do
+uh some different things and
+for example we can burn token and we can
+restore token in another place
+but uh it's impossible to move this
+token from for example from agriculture
+to other networks
+uh because our streams it's a different
+people and they didn't know
+about about
+uh himself for example uh quartz in
+ethereum arts in the area scale it's uh
+independent people
+and yeah they don't know each other
+yeah and they know each other
+and uh when we start migration uh we got
+we got risk
+because uh during migration dow can't
+work
+uh and and also now is very slow
+uh for in our bridge now we can set up
+one decision during seven days not less
+and it's very optimistic
+it's missing seven days uh in our
+practice it's up to 10 14 days
+and
+because uh we can we can we have large
+function uh guard function work
+uh universe migration
+and uh one of relay from korea
+uh attack network it's not only about
+selling tokens it's
+about responsibility because all relays
+had wasting
+and also
+during migration they have a
+possibility to provide a wrong
+transaction
+and because network's not stable
+we had possibility to attack our network
+and trying to stall to store money
+and i had no another nice choice my
+choice
+about about uh
+uh
+or cultural art and stupid decision
+uh what uh
+tao of bridge will do with its money in
+future it will be our decision
+we will provide our data
+about this incident
+and afraid thou will be able to stop and
+decision and we like remember now of
+course we will accept it
+so about this
+what what we can do in the emergency
+node it's similar to collectors to
+another network
+for example in multi-chain and we have
+near to
+one billion liquidity now or eight
+billion feet an
+they can print money in another network
+and they can build money
+and uh we also have requests it's the
+best best practice in in real world a
+lot of people know about it
+but it's for it's work like this
+and um this is uh one one point and
+another point
+i said uh we have uh incident some
+months ago and uh we get requests
+about about one of our users
+who move
+money from from gettra
+and
+we must to provide data about about this
+incident and show all direction how it's
+worked
+all bridges all the excess
+are
+doing similar things every day
+but a lot of people don't know about it
+but it's how it's not performed
+well please please continue about uh
+technical part of course yeah so uh
+thank you sergey so and uh yeah actually
+i want to add also that
+um
+we in our work in our uh
+architecture so we
+used the best practices that uh are used
+in the
+not only crypto world with with the
+major protocols so uh but also
+uh it's a traditional finance world so
+there are common practices on how you
+operate uh and how you make decisions
+concerning
+the
+incidents so there are special protocols
+for such incidents
+and there are special roles uh nest
+sergey said they named guardians and
+typically
+geographically
+distributed uh to avoid attack a
+possible attack at all the people
+and typically there are uh
+several teams of guardians who
+don't know each other to to
+really
+mitigate the risk of
+some cooperation between them so and all
+of this
+was implemented in in the british
+protocol and as of now so we strongly
+believe that it is one of the most
+secure uh solutions in the market and uh
+we strongly uh stick to this
+uh so now uh let's let's get to the to
+the migration that's how how it works so
+and spencer gay said that we had four to
+five months to prepare it it's it's not
+a joke it's totally a really
+difficult work that we started
+uh at early october and a trunk and
+even although the standard itself was
+not yet approved
+at that moment but
+uh the just to describe the sequence of
+uh
+things that needs to be done to upgrade
+such such solution such complex solution
+at the bridge
+so uh it took quite a long period of
+time and that's only why why we were
+able to perform the migration of all of
+our tools
+over a short period of time we
+almost precisely uh met the deadline so
+uh
+there were a few few things
+just uh that could happen so but uh
+the major migration so was done on time
+and only some interfaces were just
+rolling out on sixteenths
+um so what actually uh
+was done uh is that uh the technical
+team of broadcast has uh redeployed the
+whole set of of smart contracts and each
+redeployment for you just to understand
+is uh
+dozens of signatures of different
+multi-signature wallets that are used in
+the emergency mode and all the
+coordination with relayers and update of
+relayer nodes and uh also
+update of all the interfaces wallets uh
+uh preparation of different instructions
+and manuals for for people and
+communication part
+so although uh i see that uh even even
+today this was not uh enough we did our
+best to
+uh keep all the users informed what what
+is going on and
+answering the questions and the support
+was
+really doing the job 24 7
+to answer all potential questions
+still there are some some questions
+horizons
+in such course of difficult uh such a
+difficult migration it's
+uh
+it's typical that people don't
+understand the whole scope and start
+asking questions when when when so but
+yeah
+actually
+everything is done on time so and i'm
+really
+grateful for those users who were
+patient and uh really supported us over
+this migration this was the most biggest
+the biggest migration we ever did so and
+that was a tremendous work that uh
+we
+have done
+uh
+so um i propose maybe let's let's move
+to questions from so uh i see that there
+is a number of them
+before questions i want to
+uh to describe something about
+about korean tiger about korean problem
+uh
+yeah in korea
+it's not it's not one country and it's
+not one man
+it's a different group of people
+and uh we have one group of what
+like every scale and uh
+available tokens and we move it to
+to the total blocks of the pools
+and
+they
+provide a lot of possibility and both
+and they create a lot of effort for us
+in korea and in japan too
+and
+we have
+one another another another team
+and
+we stim had the control on the
+under
+luji tokens and and uh it was uh like
+how to say it
+like like one kind of fraud
+and uh we have decision how to solve it
+uh we start to do it we start doing it
+from
+units of attack and also
+some governance keys in every scale i
+change
+and
+also we are planning to run
+to run
+some mechanics some mechanics for lugia
+uh because uh because we need to
+to protect network from um
+from from enemies
+so of its remark i think we need to
+start our
+yeah this was a cool article about the
+fraud protection yeah
+um so let's move on to the
+questions from our community
+uh the first question uh is um
+why octus why flat cube
+um
+that's a few comments about this uh so
+first of all uh
+after the abandon of the network itself
+so it became obvious that we can no
+longer
+uh live with uh the word tone in the
+name in our product because it was uh
+bearing a lot of reputational risks and
+a lot of confusions uh appear from that
+uh so we had a choice
+and really a very long-lasting
+discussion about where we would like to
+go with our branding either we would
+like to continue um
+keeping all the products under the one
+umbrella brands so beans brochures or
+something else whatever scale whatever
+or we would like those products to to
+live their own life and have their own
+roadmap and potentially become a
+separate companies
+with their own future and investors and
+whatever
+and um in the end of uh january we had
+the strategy session that you have seen
+some artifacts from it in our medium
+where we decided to
+first of all uh have uh uh
+own dao on the on our decks so meaning
+that it will have its own token its
+own token holders its own
+governance members
+and also we decided that uh both bridge
+and dex should have the the own unique
+names
+um
+after that there was quite quite a
+several number of uh brainstorms
+on on how to name them and uh
+the main challenge was that we wanted
+the products to be named uh simple
+from one side and
+easy to remember
+and on the other hand to have them um
+protected in terms of the trademarks
+potential accusations on the usage of
+trademarks of someone
+uh so after we have selected the short
+list of names so we started to do the
+trademark search and analyzing so
+which domain names are free and uh which
+names are used in the
+in our industry because our industry
+surprisingly became one of the
+biggest consumer of good names
+and a lot of names were that we invented
+were already occupied so some
+several dozens of them
+so finally uh
+we have selected several uh names and
+shortlists both for decks and for the
+bridge
+and uh
+finally we decided to name
+the bridge doctors
+because it is an entity staying in
+between of different networks connecting
+them all together like an octopus has
+several hands but on the other
+hand octopuses
+are one of the smartest animals
+on the earth and if you just
+look at the other research so they are
+considered the third
+smartest animal after
+a human and dolphin
+in the world
+so and having the octus
+um as a name so it's as simple to
+pronounce easy to remember and noctus
+bridge uh really resembles
+uh
+how
+the bridge is perceived
+uh flat cube is a bit
+more different story so uh and um
+we always imagined uh having our decks
+not just uh as a simple replica of
+unisport or some some other index from
+from evm world
+but rather we wanted to to have it like
+um
+hub for different uh different
+activities that the hub that can have
+many faces it can uh this use
+used for several different purposes for
+launch pads for
+other case cases so it's like pretty
+much like hypercube that's
+the technology that we used to have uh
+never scale but no longer
+uh but uh this is a cube with
+many many faces
+and uh but on the other hand uh this is
+something that can be
+uh
+sticks really simply so this is
+something as simple as a square so like
+flat cube
+is a square
+is one of them one of the
+most famous figures and primitives and
+uh it is uh very simple and easy to
+understand
+so uh and this is actually our creditor
+so we try to do our
+complex really complex products as
+simple as possible uh up to the level
+uh that even a non-educated user can
+easily understand how to use it
+so yeah we decided that flat cube is a
+good name also it is rhythmical
+technically sounding and easy to
+remember
+and the token as you
+everyone may have noticed it is named
+cube
+so
+it will have its own icon so it's it's
+under developments probably we will have
+some temporary icons just to have it on
+the
+interface but uh all of our products
+will receive the as a unique identity
+soon
+as we used to have
+to say another scale
+but we want them to be really
+recognizable and easy to remember
+so i hope you really hope that you like
+the new names
+i've got the
+[Music]
+private message uh is there a trademark
+are you registered
+trademark
+yeah it's it's in progress now
+okay okay and there are one more comment
+on youtube that uh octopus is pretty
+strong branding uh if done right
+uh it's all in
+in one and elsa beaten off rock and roll
+thank you thank you
+yeah
+uh the next question is um
+when ledger integration uh because uh if
+i'm not mistaken there was a post from
+sergei pateken
+in twitter that
+uh he said he made the screenshot yeah
+the ledger integration can you tell us
+more about it yeah i will describe about
+treasure uh we had the solution for
+leisure integration in may
+of last year
+yeah a lot of months ago
+and um
+but pleasure had a very big query of
+different projects who
+who wants to launch solution
+and
+if you in ethereum network and um it's
+easier
+if you're not ethereum you have two ways
+one way is uh
+wait some time and second way is bring
+out money
+uh because the young network without
+without investments
+uh
+we
+we await
+and we we spent some months when we're
+waiting but
+now it's really in progress
+because we're working with our github
+and
+we update
+a lot of things
+because they do change different
+standards and
+when we finish ui
+i hope
+in
+one month we will we will publish it and
+legend will support us
+because we started in may of last year
+it was a lot of months ago
+yeah and also uh
+recently we also updated the
+ledger application to support
+the tokens of new standard
+so currently it is in review and you can
+already by the way try the ledger
+application by yourself by
+going to a ledger live application and
+switching it into the developer modes so
+there you will find since they have a
+scale
+but uh so we are still uh as sergey said
+so they are expecting from us some
+interfaces to test the ledger
+application
+and uh
+we have the integration with
+ledger sdk at the level of our wallet
+score megaton that you may find our
+github as well
+uh so for for many many months and
+several several times already managed to
+update it so now the turn is for
+interface team so uh once we finalize
+all the stuff linked with the migration
+of
+our products so there's still some minor
+things to be done
+so we will update the wallet uh
+correspondingly and provided
+for testing to a larger team so and once
+they have it so they will perform the
+internal security audit so hopefully it
+will not take that much time because now
+we
+managed to significantly improve the
+speed of communication with them so now
+we have a dedicated manager who
+is answering quite sweetly well not the
+best but uh still uh so we deserve huge
+progress
+and hopefully uh shortly we will see
+the full support of ledger in uh the
+july
+i mean the scaling ledger map
+yeah that's amazing news that uh
+communities waited so long time yeah
+cool great job
+uh
+next question uh is about the contests
+uh all contests are already stopped
+uh is there any plan uh on how giver
+tokens will be distributed in the future
+uh sure yeah yeah about planes um
+looking for plan uh for
+continue different reforms as they
+started from the far east
+and uh
+the first state is a totally solve of
+korean problem
+uh the second stage
+is a
+reform for partnerships
+because
+a lot of our partnerships
+were under investigation
+and
+i think
+90 percent plus of partnership will be
+closed totally
+another partnership will get settlement
+for example with last range
+or maybe some condition would maybe what
+they will should
+should to solve before or before last
+range
+and uh
+now i am
+and uh another another members of
+allianz and labs in negotiations
+we have partnerships
+and uh well fair consensus we will
+provide it to public information
+it's about partnerships about about
+sub-governance
+it's also
+uh to be in information
+um we are trying now to
+convert some governance to a service
+model
+uh for example for modification
+it's very um
+uh we're working on the total amazing
+job uh because
+we need uh a good audit in our system
+and formalification
+and
+it's a necessary service for projects
+who want to launch in our no no no
+network
+and uh where you can work like a service
+uh right here they can get money from
+giver
+and uh provide services for different
+projects and uh some some governments
+will be able to transform to this model
+uh some some sort of governance should
+transfer to dow model and uh to work but
+one way
+main point
+they all should have
+uh
+some some kind of business
+uh who will work with governance because
+because without business it's uh
+it's work uh not
+uh like like we estimated
+uh and a loss of government should be
+closed
+uh because they didn't bring any value
+for network
+and uh
+and i think it will be about balance in
+march
+before partnerships because some
+partnerships uh have a lot of potential
+obligations for network
+and defeats to governance and i think up
+to end of the end of march uh all if all
+reforms will be done
+and uh faith it will be transparency
+network for fall
+and uh about about warfare community and
+totally agree
+that
+people from community should to
+should bring somebody for network and
+get some kind of rewards and it's for
+now for example there is an amazing
+channel with different mems about about
+their scale i have running it always
+and uh it's like contest and that's work
+and if if you will compare each
+activity
+we are spend
+maybe some thousands of favors
+first
+first mems contest
+spend
+near to
+two hundred thousand of my favorites
+maybe more
+and if you compare this model as a
+model how it works like this it's a
+crucial more efficiency
+thank you thank you sergey for letting
+us know about the giver uh tokens reform
+uh there's uh additional question um
+why did you make a blockchain explorer
+for tonkwein
+oh it's very it's very interesting
+question
+i answered
+tweets in private oldest times
+first of all
+this network have no good
+good experience transparency
+transparency
+and we bring transparency for this
+network because a lot of people can't
+understand
+where tokens are now
+how we
+moved from one address to another
+address of water exchange countries and
+etc
+and
+because we want to bring transparency
+and some dependent people
+who will
+uh who will use it for different purpose
+uh we
+develop we develop this explorer
+it's first reason and
+another reason
+all links from those forums
+are moving to our products
+and for us it's
+free advertising
+all
+cool cool
+yeah
+um
+next question when binance when other
+exchanges what the current status
+about does the exchanges
+the fallians are working on it and
+[Music]
+i think we will have several listings in
+in march and april
+about about finance it's
+it's it's like it's like from one point
+of point of view it's up on the mountain
+uh because binding sets uh number one in
+in users and individual
+but from another
+point the scale is not about not about
+shilling
+and it's not about how to develop any
+ and uh corrupt binance and listing
+and uh corrupt binance and listing
+and get this in combinance
+and sell to different hamsters his
+tokens in the
+it's not okay guys
+of course of course
+sooner or later
+we will be on violence
+but
+not in one month
+it's on day after another exchange
+and
+yeah full support
+um
+next question uh about the situation
+around the
+crystal hands program funds
+their updates
+i thought about it on my last time i say
+session but it was in russian
+so particularly we we get we get money
+from funds to pistol hands
+it was up to end of december
+uh in january all crypto market
+was still
+in down
+and uh only when it grows when markets
+are growing up
+uh funds return to us and uh it's uh
+it's negotiation uh we had potential
+this investor stall
+and
+when this investors will commit around
+half eight it will be
+very quickly
+a lot of people are working on their
+desk
+thanks thanks yeah please stay keep
+don't yeah
+uh
+the next question uh what
+uh uh are you planning to add ever uh
+in wallets like exodus
+uh because we're already
+almost integrated in ledger maybe there
+are exodus or other wallets
+it's it's a matter of partnership
+different partnership and expansion uh
+two different wallets and
+actually this is the part of the work of
+the defy lines and
+the sales agents and business
+development hunters
+who are scouting the market and daily
+talking
+to different wallets different payment
+solutions different products
+uh convincing them to at least
+ever scale into those networks uh
+moreover so um
+we have developed this as you may know
+the api which is named just ever wallet
+api so uh to facilitate the listing and
+add the support and support to any kind
+of solution
+and this really helps a lot and
+i hope that
+we will see a lot of good names
+appearing but
+uh
+for instance we already have several big
+wallets who have integrated
+like free wallets like
+cracterium or some other wallets and of
+course this work will continue
+thank you
+next question uh when new partnerships
+which kind of partnerships
+any any of them
+i think i think partnership is an old
+model uh because it uh
+we're trying to do it and unfortunately
+it didn't work
+and um continue will be in the grants
+program
+uh now it's from franklin's and second
+stage is from
+foundation
+it's like works in another network
+uh the
+question are are we already partnered
+with cardana can we do the same with
+near and polygon
+i think same same with polygon in
+scenario i don't know how how to
+how to achieve it quickly
+but i know how to
+uh how to do it with cardana in texas
+because kadana and tesla's now had
+a lot of problems with blockchain and
+they are looking for different
+potential air to solution but we'll be
+able
+delivery
+different tools for ecosystem
+and
+in gardana i worked under it
+and they started from six
+maybe four months ago
+and uh we created uh one bridge and uh
+second bridge will be our partner and
+the federal bridge will be only one way
+how to move
+and uh
+we and it will uh bring a lot of
+liquidity and users for us
+amazing
+and its main reason for our update from
+uh t32 to tip 3.1
+yeah we need more liquidity providers
+cool
+when initial members provide a report
+as we remember new initial members will
+receive 1 million tokens
+i i can't answer to this question
+because we didn't discuss it with other
+initial members and in our global sub
+governance community
+but i think with it this will you'll be
+proposed from from every slaps
+about it and uh for continue wasting all
+initial members
+will uh
+will provide
+will provide reports what we did uh if
+we will not provide it i think we will
+not uh
+get twisting
+yeah cool decision cool decision
+it's it's it's not it's not decision
+it's my personal opinion
+yeah but i think that community will
+support it for them as me
+uh
+what will happen
+failed
+partnerships can they start to return
+funds to the giver or
+do you believe this
+yes
+i think i think uh bad partnership uh
+sold eithers
+and they have no errors and of course we
+will not uh return money together
+it's only in you now
+in our dreams
+yes also no legal obligation from the
+side because in the this
+partnership model that was used in the
+scale of return back there
+so
+neither of uh other partners signed any
+legally binding papers
+obliging them to to perform
+and this is one of the reasons why this
+model didn't work and
+there was no best thing there were no no
+things like um
+locking uh for
+the
+partnership
+fee so for a certain period of time so
+and
+unless you control the money or you have
+legally buying documents so it's just
+well almost impossible to
+to get something back so
+i personally don't believe that we will
+get
+yeah that's it
+um next question uh
+what uh is there a grand program road
+map uh what will happen after the
+15 million stocking distribution
+um
+maybe uh first i i would like to make a
+few comments about what's going on with
+the grants program itself so we managed
+to to build a really strong team now who
+is researching the projects uh daily so
+they have they have several calls per
+day with different projects and
+they
+really carefully analyze them and
+perform due diligence of these projects
+and
+several of them that were of course
+focused on the other scales i have
+received the sa grants
+at the beginning but there are several
+new ones that that are coming so and you
+will hear the name soon that are real
+really nice and uh
+the lights believe that they will bring
+a lot of value to the network
+uh
+but
+i would like to remind that this stage
+of the grants program
+is the initial stage and it's uh this
+this is a stage for experiments so
+because we do not yet uh know which kind
+of projects will bring the most value to
+the network and
+although we already have quite a good
+stream of such projects that are
+coming
+into the funnel um
+we would like to scale it much much
+wider
+and uh but to understand better uh which
+projects
+we need and how to approach them how to
+motivate them to participate in this
+grant program
+uh so we need to get some experience so
+and we are getting it now and uh
+i think that's in a few months so uh
+after at least a dozen of projects are
+approved and 100 is filtered
+so we will be able to make some
+conclusions and
+significantly
+establish a significantly solid
+uh process of grasping
+but until then so it is really difficult
+to speak about roadmap i would like also
+to remind that have a scale still a
+young network and
+this project so we need these projects
+more than they need us
+and this is a really pragmatic approach
+that we can stand and
+we need
+to start being uh
+attractable attractive in ice for bigger
+projects and
+getting the first
+[Music]
+stage implemented
+successfully is crucial for this because
+after that so we will be able to scale
+it up and bring some uh some much much
+bigger and major
+protocols to our network
+i hope that's by the way we will uh
+manage to have an mma session with the
+grand grants team
+maybe next month so uh
+they will explain in details what they
+are doing and
+which kind of projects they are
+negotiating
+yeah
+as as rome said baby steps yeah i think
+it's a great idea uh create a my session
+program for a team of grants onboarding
+because we have nearly 27 people
+uh in this group and uh
+for
+for two people it's full time
+for
+five people it's uh partial time
+and it's really strong process and and i
+think we're ready to
+to do it public
+explain how it's worked
+yeah it will be
+amazing for the community to letting
+know uh what's
+going on with
+grant receivers yeah
+uh so let's move to the youtube
+questions um there is a question from
+constantine
+uh can custom tip 3.1 token
+not from the white list be added to
+external
+cx exchanges uh will there be any guide
+guidelines instructions or documentation
+to better understand this process
+um
+okay what because
+yeah so actually this is one of the
+points we are working on in the defy
+lines
+really strongly because it's uh
+for us it's important not only to to
+have uh ever
+on sexes
+but also to ensure that those
+centralized exchanges integrated the
+scale natively
+with the full support of
+not only the native currency but also
+for
+uh for tokens of the projects
+uh
+of course
+after that there will be the gate will
+be opened uh not the gate io i mean but
+the gate for for a new project so to
+approach exchanges and uh negotiate with
+them and propose and teach the project
+to be listed and so on so forth
+but uh what we are doing now so we're
+trying to at least ensure that it is
+possible
+so and uh together with the main listing
+gets the possibility
+for
+for native tokens also will appear there
+uh yes and uh
+about about uh g51 listing in success
+we we started this process about uh two
+weeks ago
+and uh we will provide special software
+and uh we have some aliasing exchanges
+for it
+and uh we will start it from a bridge
+maybe grand bazaar tokens maybe some
+other tokens
+and we spray
+will be free from
+for four tickets
+because we are first
+in in in this way
+but uh when we will provide some
+successful cases
+it will possible for all for working our
+system
+uh there are additional question uh is
+there uh
+will brokers to be able provide the
+technical support or if necessary
+yeah that's actually what we're doing so
+we uh
+help them exchanges to integrate uh
+especially with our wallet api
+that already has the support for such
+tokens and they can be easily added just
+like
+erc20
+announces the process of your statement
+listing is mostly due diligence and not
+technical stuff because you can easily
+add any erc20 token technically on any
+exchange but
+the major times taken to agree on the
+listing terms on the due diligence part
+and so on so forth but
+nobody cares about the technical side
+and we want to to achieve the same level
+of
+easiness on uh technical addition of new
+tokens to texas
+um next question was from ever how can i
+purchase cube token uh i provided that
+you can buy it on decks
+and yeah
+maybe you will be an airdrop or
+something like that in the near future
+about taking cube
+yeah yeah
+yeah no
+um have another idea
+it's um it's not about about their drops
+uh it's not it's not you should not work
+well like bridge it will be in
+summoner's economy
+uh
+we didn't
+launch this token
+and
+we didn't bring it published but
+we got a lot of
+people who want to buy on private
+and
+but we will launch it on their own
+on
+launchpad um launchpad will go in in two
+weeks
+uh because we have wait for tprivan
+tokens too
+and um coupe will not be first project
+in launchpad it will be one create
+deposit protocol
+and coop will be number two maybe one
+two three on launchpad and we will be
+able for all
+and we will change farming
+uh we will not farm either uh we will we
+will start farming cube token
+cube token will get uh best practice
+from uh
+chain network uh like uh pancake sushi
+uh
+and uh and etc
+and uh it will be only only one way how
+to get it and how how to use it because
+we
+provided a big
+big power for this locking
+and
+i think all the projects will want to
+help it we
+want to use it
+and
+and well and uh also
+uh we will provide
+some a gift for our community
+we will launch
+community tokens like soon
+in uh flat tube next week
+because uh guys you was we were with us
+during during court of months
+and it gives us
+for you
+cool cool
+no we'll be waiting
+i i would like also to add that uh once
+uh the tokenomics of the cube talking is
+ready
+to publish so we will share it for sure
+and uh
+so now this is just easier
+so
+just
+you can uh for now try to guess what
+will be in the tokenomics documents for
+for the keep talking and
+uh i i i can just uh give a price to the
+ones who
+will guess the most precisely how it
+work and which features uh will appear
+there so the one who will
+just guess the more precisely uh what
+will be in the tokenics and how it will
+work so and i will get 1000 levels from
+me
+so
+just a small small game
+big big
+prize
+just be creative
+yeah
+uh
+there are one more question uh does it
+mean ledger will became a validator at
+everscale network or it won't support
+sticking for now
+uh there was no discussions for the
+newsletter uh about this
+so for now we need to ensure the
+technical integration of uh our currency
+and tokens
+it's a letter software because we really
+need it and
+we get a lot of requests from
+institutional investors
+to have it but uh
+yes we
+plan to approach the major market
+players and becoming
+validators and maybe sometimes layers in
+the bridge so uh
+just to add the
+attention to the network and
+get the better backers for
+for the whole network for the project
+so
+but for now
+there was no direct discussion
+yeah
+[Music]
+um
+the next question uh
+hi uh
+are any game five projects is going to
+launch on everscale network
+ever corrupt
+[Laughter]
+i'm just kidding uh actually
+i know that
+there was a game developed by the
+chinese community named have a lot
+so i do not actually know about the
+status of this game so how is going on
+so maybe they will
+share some updates about this
+and
+also
+i have seen several projects in the
+pipeline of the grants team
+so maybe
+at least one or several of them will
+manage
+to to go through the funnel and get the
+ground so it was a good of us
+uh but also uh
+on each conference you know in each
+meetup so we are talking uh to different
+uh gamify metaverse
+uh projects uh and uh explain the
+benefits of the skill for sure so
+maybe one of those projects will appear
+here but no
+straight commitments yet
+uh
+when will give a reform from media gold
+to voting by government governance
+yeah i don't know too about about
+reforms uh
+i can't uh
+set up a decision about it and uh if
+there is constant decision and
+never
+can start decisions
+how to do it
+and believe me now it's
+it's not
+it's hard it's always hard discussion
+because um if you will uh return uh to
+one year or more to our past
+it uh it will not have discussion how to
+how to stop decision about providing
+tokens given teacher
+now now it's it's all discussion
+yeah
+and when you think uh
+what do you think that it will be
+accepted or not just to fully answer it
+from
+his question
+sorry roman i don't i don't really
+understand
+uh yeah uh
+your opinion uh do you think that
+this reform
+are good or not
+that's
+a problem
+let's wait for me to publish it and then
+we will discuss it because but i
+i did i didn't see draft about about
+reform and description of it
+okay
+okay so um there's no more questions we
+already answered on all questions on
+youtube
+uh
+on this note i can say just uh thanks
+thanks uh
+sergey and what is love that you came
+and explained uh
+the future plans for our english
+speaking community
+yeah and guys in the end of this ama one
+remark from uh from from my side
+uh
+you can provide
+any
+initiatives from your side you can
+for example set up a mac station with me
+vlad media vladimir and uh
+and different people
+because it can bring a big way
+for us
+uh you can you can do some some things
+wow
+please do it
+yeah especially if you have access to to
+external community communities
+please do it and uh if this necessary
+bring value for network believe me
+uh we will see it
+and we will be able to reward
+from aliens from brooks for me
+personally it doesn't matter
+yeah
+just just stop talking just do it yeah
+yes yes because because every day
+i'm i'm reading some some different
+charts
+and different opinion and oh my god we
+didn't create it or we didn't create it
+or
+wish
+we can shoot and uh
+we can create bait and scissor please do
+it guys
+one can dig 10 can watch it
+[Laughter]
+better vice versa
+yeah
+okay oh thank you thank you guys

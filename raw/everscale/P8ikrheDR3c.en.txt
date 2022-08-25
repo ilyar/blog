@@ -1,0 +1,889 @@
+hello
+hi
+hello everyone
+hello
+uh okay so let's wait one minute
+after that we will start
+okay
+so welcome everyone to our 64th weekly
+defy galleries call so we have the
+presentation of flex beta uh today so
+later so without further ado please
+take the screen
+sure i will
+second
+okay so well a lot of you
+as we see now
+join the the closed group for the
+testing
+of the closed beta
+um
+and so i don't know if
+you know this
+some of you have been already been able
+to test as i saw
+and so i will quickly
+like just summarize what
+what is it again
+[Music]
+now
+before
+that i will just tell that of course
+currently this is not the latest version
+because this is the latest public
+version of course we have a
+we have a
+more advanced version which we're
+testing internally yet but we will roll
+out discussions into this closed beta as
+they are
+progressing
+so um
+so a lot of feedback that we already
+that you are giving now we already got
+and it will be uh refactoring but uh
+again
+nevertheless please please
+suggest anything or report anything that
+you see
+so
+just again few words about
+about how it works
+so
+the website that you're using now it
+won't be the website it won't be the web
+interface it will it will be electron
+standalone applications for for all the
+platforms
+separately and the reason for that is
+is that we want
+this experience that you can currently
+like if i press here yeah it shows this
+i don't know if you see my mouse but
+i choose this
+5.5
+and uh and i
+and i want to execute this order
+all i have to do is this
+right that's all so i just clicked on
+this by 30 phillips nothing else and so
+we don't want the confirmation for
+every step
+of your trading because
+this is how
+uh normal trading should look like
+here's my order has been executed that's
+it
+now it's all changed
+this is this is the the taker order and
+i just bought it for five and a five you
+can see this is my trade it just
+happened now 1603.
+so and that's experience we really want
+for the user because we want to go after
+finance with that ftx finance whatever
+so
+in order to do that we need to manage
+keys
+and um management of the keys and flex
+is a is a very complicated
+thing
+but which allows very
+non-complicated user experience
+hopefully yeah but for managing these
+keys
+we don't want to leave it in the browser
+so
+therefore the decision has been taken to
+make it a standalone application like
+you have today in interactive brokers
+for example or some other like clients
+that you used to happen as a normal
+trader
+this is this allows us to have um the
+built-in
+experience of multi-trader kind of team
+uh policy based trading as an
+institutional trader would demand
+and that's already done it's already
+implemented and if you go to flex right
+now when you start the account
+you will see this qr code which will
+send you to
+auth debug and serve and auto debug and
+serve
+is actually
+what you if you
+if you're not an individual trader but
+if you want to create a team
+of traders then you will just pass this
+link to your superior to your manager
+and your manager will operate the old
+debut from his account from the central
+account which can be mortgage account
+for example and uh and then he will give
+you or she will give you
+the allowance like she will send you
+deposit you into your account this
+like so i have this deposit so this was
+deposited
+and if you go and you do it yourself if
+you send if you just use your qr code
+with your own surf account and you will
+go through this procedure now today this
+debot is very complicated not
+complicated but it's it involves several
+steps
+these steps
+are there to deploy all the accounts
+that are necessary accounts and index
+accounts
+because we need to
+know
+uh how many of these wallets has been
+deployed to in order to manage that it
+can support like 100 traders and each of
+the traders will have you know many
+may have many
+tip three because right now it's only
+flx
+you have the market on the influence but
+obviously you can have many of the you
+will have many of the currencies here
+and in order to manage all that
+you need to deploy a lot of a lot of
+stuff a lot of indexes and and so on and
+so forth so
+therefore it's it's currently it will be
+refactored this debate so it will be
+easier
+but but right now you just go through
+the steps
+there so once you are once you are done
+and yeah we know that there is a lot of
+like unnecessary complexities where they
+ask you twice to what um amount you want
+to deposit and not very intuitive we're
+working on making this much simpler this
+devote
+but if you go through that if you click
+all the buttons you will see this
+that will give you like the amount of
+the t3 this all of that is three tip
+three
+so you have tokens right now like evers
+and about some flex already
+and you have also the the
+the native evers on each of these tip
+three these are just to pay the fees
+right so you have to remember that's
+that was i was making the mistake by
+deploying by depositing hundred thousand
+and because of this debt when i used it
+first time i also didn't know what it
+all means so yeah that that happens
+but anyway you can destroy the account
+you can you can take this money back so
+it's not you know it's not stuck there
+forever but nevertheless
+so these are these are the keys now
+flex will not
+use
+a native token so it all wrapped but we
+are not going to tell that it's wrapped
+the user doesn't need to know that for
+from our perspective so all tokens you
+will see here will be just
+if you go to
+binance today all the tokens that you
+have there or the currencies that you
+have that are all wrapped
+because they're all just numbers in the
+database but nobody tell you that and
+use and we don't want to complicate user
+live to
+go and to
+go wrap the token unwrap the tokens see
+this is wrap talk and not trap talking
+we just operate on this is the token
+this is your balance and when you go
+withdraw this which currently is not
+working yet but when you there will be a
+button withdraw here when you withdraw
+the tokens the wrap the wrapper will
+just do automatically
+will deposit you unwrap tokens back into
+your wallet
+and it will all be like users won't
+don't need to know that that they have
+rap tokens so so it's it will never be
+here so
+we will see bta btc here like bitcoin
+you will see ethereum here and all of
+the tokens
+without any knowledge of the europe not
+trapped not not interesting
+okay what else so
+um
+here you you will see all your like
+balances including the balances that are
+currently in orders
+um which means inorders means here
+basically my maker orders so remember
+that flex supports in taker maker now
+taker maker is one of the
+you know
+obviously inherited features of the
+order book exchange the difference
+between taker maker for for
+whoever doesn't know that is that
+maker
+is somebody who provides liquidity
+so for example i have two orders where i
+am making so i i i'm you know 970 and
+600 rotating 5.3 this this
+this is my order was yeah this is my
+order you see this is on open order i
+provided this liquidity whoever will
+trade against me here so taker will will
+want to come and execute that
+uh i will see it here as a here as a
+maker so that's execution against my
+open order as a maker and i get the fees
+kickback so this fee is actually i'm i'm
+making that fee
+the taker pays
+the fee and part of the fees goes to
+maker whoever provided the liquidity so
+this is one of the things where we
+encourage someone to provide liquidity
+because on every trade you get you get
+obviously the kickback in infants so now
+you can see all this all this kickbacks
+and here in your trade history
+trades are here these are all the trades
+well
+last several trades of the
+yeah you know of the whole thing
+here is an order book and here is the
+trading view and depth uh
+so you can see the order book depth here
+and you can go and see
+like
+oh depth of the whole because you you
+don't see all the order book here
+because you only see like you know
+whatever is fitting here so in order to
+see all the order book here we can go
+here and you can see it's quite deep
+someone wants to buy them on 0.1
+anyway
+uh so yeah and and then a normal trade
+in view like in any other exchange with
+all the
+nice features
+that you can have here
+um and so on so that's that's pretty
+standard now see here you see
+like the
+you know statistics um
+for the for this particular market token
+felix against them
+now
+what works right now it's actually
+these orders currently are not limit
+orders so this is
+just going to change i mean the limit
+order is not yet implemented will not be
+in the first version it will be in the
+second version quite soon but we we
+would just want to
+first deal with spot order so everything
+you see here is spot so if i click here
+6 and 230
+great 230 tokens on 6 i can buy some of
+them let's say i want to buy like 30
+immediate or cancel this works this flag
+means that the order will be executed or
+not so if it's not executed i will get
+the funds back
+um
+so let's let's put this order so i i
+will i'm going to buy here and i will
+limit order will not perform this
+operation like that limit order if i put
+six
+uh you know price six and 30 it will
+actually collect the 30 from from here
+from 5.6 here it was executed yeah the
+5.6 because it's better price okay so
+limit order will actually go search for
+better price the best execution and in
+your limits of course the limits you
+will need to uh
+okay but i i hope you know what limit
+orders means
+okay but
+of course we will support limit orders
+because it's actually limit order board
+distributed limit order book so yeah
+limit orders will be executed but not on
+the first step so right now you you will
+just need to click and you know spot
+do the manual work of limit orders
+but because it's very fast
+actually as you can see
+you can manage that quite quite easily
+this
+other than that because limit order will
+be executed on the bots so in a way it's
+the same like the bots will see whatever
+you see
+and it will just execute that
+automatically the logic that you can do
+manually okay so so nothing fancy and we
+will do limit orders quite simply
+but um
+[Music]
+but right now it's uh the more
+interesting types of orders are good
+good until executed
+and stuff like that which which will be
+quite tricky to implement but we will do
+that as well so right now okay
+immediately cancel works post order
+works that's a make your order so if i
+put if i put
+cell
+num six and thirds the same you see here
+is still
+uh there so if i put that here right now
+in pause that it will be adding here
+nobody will will you know it will not be
+executed so i will just add liquidity
+here with this order
+on that by the way
+we have a bug right now in um
+in subscriptions because we moved from
+pooling to subscriptions
+some subscriptions don't work um in i
+think in order book so you may not see
+this updated but
+uh it will be fixed today
+if it's not fixed already
+all right so you have this post if you
+don't put post or
+image of the cancel if you execute an
+order that will be it if you don't have
+the full order
+fulfillment it will execute the taker
+order on the part that it has
+as it is possible to fulfill and then
+the rest will be left as a maker order
+so it's like partial maker partial taker
+quite simple
+quite
+standard stuff actually
+so um
+well i think uh that's more or less that
+actually
+questions
+good thank you so much media for
+presentation
+uh no has questions yes no please
+will it be possible to cancel orders for
+example yeah absolutely yep so of course
+no
+we don't want any cancel no of course
+the cancel order uh is already done in
+the newest version of the but we're not
+yet not going to make it
+you know
+days time
+okay
+any other questions guys please
+uh okay maybe a question for myself
+yeah well don't forget to raise your
+hand
+sorry
+will there be any guides for developers
+to to develop on top of flex and it's
+already it's already is it's already
+there there is a there is a
+documentation already for flex and flex
+apis flex and yeah yeah but there is no
+there is no market maker sort of
+documentation how to develop market but
+there is a base contract for market
+maker but uh
+like uh the examples which are
+likely the euro market makers are pretty
+complex so uh either some like starter
+guide for for implementing simple
+strategies
+well um you can you have two ways to
+implement strategies
+uh one way is through
+uh debots
+like or or external apis is what the way
+you want it doesn't matter
+which which will be executed by your
+server
+that's one
+uh simple kind of solution to that if
+you want to decentralize market maker
+then you must execute it the way we
+provide the sample for imo so you can
+take our ammo use it or or change it
+but in general
+um
+you will need to can amms are complex
+you will need to understand how it works
+in order to like write something or they
+take our amm by the way this is not the
+last version the last version will be
+published soon but um nevertheless they
+you will have to take our contracts and
+use yeah notifications because you will
+need your market maker to understand the
+last order so yeah you will need to kind
+of
+uh unfortunately learn all that
+yeah for sure and the the second
+question is
+i'm thinking about the
+uh
+the platform there are a lot of
+platforms
+on top of centralized exchange which is
+like uh like a bill you have building
+blocks like averages and the different
+analytics stuff and you can like
+combine them to implement strategies and
+script and uh how how
+how do one approach to build such a
+product so what what you're doing by api
+yeah you take the api that we provide
+this is a special endpoint for flex uh
+so special cloud endpoint for flex
+you go which will be chargeable right
+now it's free but it will be it will be
+for me of course
+so um so you go there it implements
+very specific queries
+on top of flex order book which are
+optimized to performance
+to performing those queries
+like for example
+it can return you
+the
+array of contracts assaulted
+by certain
+key oh wow that's great yeah yeah so so
+it it makes an optimization for
+performance of the queries for the for
+the order book so you go there
+and you study this api
+and then you you just
+you know implement whatever you want
+on top of it so you can take historic
+data you can query with historic data
+with that and so on and so forth yeah
+cool and uh continuing the the the topic
+of uh salted contracts how do
+the
+the dub cluster
+double so imagine i i hold some dub
+server and i want to extend it with with
+some uh extended like indexes for for
+assaulted contracts how is there any
+like documentation or approach which
+no
+this is something that is um you will
+have to develop yourself if you want not
+to use cloud because this is the cloud
+uh cloud did a lot of efforts and
+supporting this and uh they probably
+want to charge for that
+um so if you're okay so you can use our
+you can
+yeah there is no place to open source
+that
+obviously you can do that yourself you
+can take the server and optimize the
+queries and so on for what you need to
+work with flex because all the obviously
+everything is on chain so you can you
+can quite easily
+kind of study that and do that
+but because guys already did that they
+want some money monetization of the of
+this thing and flex by the way is going
+to pay clout as well
+you know for sure for sure and yeah and
+the last one i promise the last one for
+me is uh uh so imagine i have uh like no
+not imagine i have uh light nodes like
+light light client process light line
+which is like separate implementation
+and how do you think uh does it uh
+is it is it hard to to uh
+introduce some support of like indexing
+here
+so well i i'm i'm not very i'm not very
+i understand i just need to say
+i know address it for example
+yeah well i i'm
+i think uh it will be quite hard but uh
+i'm not very very familiar with the
+you know
+what what uh
+limits kind of roxas introduced
+to this um
+to the to the implementation of the
+of the last node so i don't know what
+what information they do have there and
+so on
+all right thank you
+you can text me questions yes i i will
+check with with guys that's not really
+important i'm just i'm just wondering
+just for us maybe no
+that's actually a good question so that
+we could also understand
+ways people are using uh
+indexer sdk so
+uh
+well well yeah you need to update you
+need to update it by the way to you yeah
+we're already already in progress
+because like people are complaining
+yeah
+okay
+no please
+i don't know if this is the right place
+to ask but can you explain how does how
+will the market
+orders will work because that sounds
+complex
+the market yes
+well the market order is the is the
+current best price order
+opened right you want it's it's just a
+swap basically so the easy swap will be
+with the that we will determine the
+best price of open order so the best
+open order price right now is you know
+5.6
+then it will be just executing this
+market and if it's not fulfilled
+if you have like if you want to buy 400
+it will be just do 5.6 and then find 5.7
+so in a way it's like reverse limit
+order
+um
+that's it
+it's not a very complex option
+my market order is quite not complex
+so somehow concurrently so if somebody
+uh wants to eat
+the the
+glass
+yes
+just just just just just take the just
+put the last large orchard order on the
+market larger than like take all this if
+you want to eat all that
+just just you know
+make a arithmetic operation
+yeah yeah and if somebody sends the same
+message
+will be will we be concurrently eat
+this
+uh whoever comes first as you know
+okay so so is it atomic for the one who
+came first
+it is the one who came first it is it is
+not
+it is a classic
+uh order protocol it is not
+fancy stuff like new york stock exchange
+is doing
+but
+they have a problem
+they are trying to solve because
+of this
+of the
+you know of the limitations of the
+algae limit they're not limitations but
+deficiencies or differences over
+efficiencies okay of the algorithmic
+trading
+i don't know how to put towards the foot
+on this but anyway so this is
+because they have this so they need to
+introduce more like
+a little bit fair
+stuff into the market so they that's why
+they are
+uh
+thinking about like imagine a high
+volume but we are we are yeah but we are
+i think because
+uh it is quite uh
+you know in in the case of blockchain
+particularly never scale implementation
+flex
+um it is quite hard to get unfair
+advantage
+simply because you are
+i don't know you have more resources
+right because it will still be you will
+still need to
+have a lot of validators on the network
+control you know yourself in order to
+make it possible for you to somehow
+squeeze your
+your
+orders uh you know and it will be
+very hard to do anyway because once
+because your
+your
+external message does not go to the
+to the order book
+as you have right now in any other decks
+like solana where your external message
+is actually what what goes to the order
+book in our case of course it goes first
+to your wallet contract which resides in
+one place and then it goes the internal
+message to the and because of the
+different timings of this block
+executions
+you you don't you can't predict this
+like you can't predict
+what order your internal message will
+come to the order book even if you
+control validators it will be hard to do
+yeah but you can you can see
+no you cannot see other orders i mean
+but you can but when you will see other
+orders it will be already too late
+ah understood because of time
+yes
+so i don't currently see
+i thought about that a lot actually i
+don't see a like a real strategy that
+you can perform
+here with the and take advantage of the
+just
+of that
+right
+the front running it's it's really hard
+to implement front training here
+especially
+sorry especially when the when the
+project when the queue of the external
+messages would be would work
+oh the ramp yes the ramp it's almost
+impossible yeah
+the drama is almost impossible okay
+i also wonder so uh on traditional
+exchanges
+on success i mean so uh when you uh want
+to
+get the better performance so you try to
+put your market makers into the same
+collocation
+the exchange is using
+but uh in terms of uh of flags so
+which which way could
+help one
+to
+perform implement the hft so is it
+possible here even
+it is possible but fair meaning that you
+can have
+you can analyze the order book you can
+put algorithms you can make algorithms
+sell imm in a way in is hft
+because i am reading the orders on chain
+getting notifications unchained from
+every order executed and then can can
+perform some strategies you can
+obviously do that off chain it will just
+make you
+one more
+message
+i would say
+it's almost the same
+and
+i don't think you can i don't i don't as
+i said i don't see a strategy
+where one can just clearly have an
+advantage like
+taking
+a validator and putting this in the
+collocation or
+i don't know
+the other validates it just won't help
+you in this respect
+because because it's so mitigated by the
+architecture of the blockchain so in
+that respect i think it's much fairer
+much more fair
+um
+way of trading than any
+sex today
+okay
+but the market maker and but yeah and
+the market maker obviously has an
+advantage of of size always you know so
+it's a fair advantage it's a fair
+advantage right if you put make your
+orders you will make some money on maker
+orders of course you can make some money
+on the
+not only on the
+like the fees
+structures but of course
+you know we will introduce obviously the
+liquidity
+farming like you did in the in the
+cube
+and and so so to encourage more
+liquidity the market maker liquidity and
+you know there are there will be
+obviously many ways to do to do money as
+a market makers
+good
+and by the way so the fee structure so
+uh
+for now it is controlled by uh by your
+team but do you have
+some mechanisms to introduce a
+decentralized way of how these fees will
+be controlled obviously so they set uh
+for each payer separately
+meaning their rebates and the fees so
+yeah the fees are controlled by will be
+controlled by dao
+so there will be obviously
+felix talking will will control the dao
+and the dao will decide on all this and
+all this is is not just the fees
+structure but also
+the
+the liquidity because the fees are
+taking the native tokens and they are
+all these fees which are which these
+fees which are take your pace they all
+collected into the smart contracts of
+this and this reserve smart contracts
+and this reserve smart contracts
+they uh always accumulate
+the fees they will never pay them out
+and the structure is fair thou structure
+so you the only way to get this
+fees out
+is to
+exchange burn some some ethics tokens
+against them
+um so the the flx tokens they have
+limited supply so
+like um
+and
+in this in this reserves because they
+will always grow
+like
+except for when someone is is is
+you know burning their felix tokens
+against them but it's it's it will be
+real rare really rare because
+it's better to send to just celebrate
+than just to burn
+and um and this
+will give the possibility to use these
+reserves as for example additional
+liquidity or loans or or you know
+supporting the marginal trading and so
+on and so forth and all that decisions
+will be taken right now as well
+okay so and um when do you think
+you will
+be able to launch the dow so
+what what is the plan
+um
+it we are going to launch the dow quite
+soon because the the flex token is
+already
+like on sale
+to some
+investors
+and uh but they're not physically yet
+available
+but there will be ideal on flex itself
+so
+maybe the dao won't have like the full
+functionality
+but
+the flex token will come first and then
+the functionality which connects to this
+tokens will come a little later just
+because simply to write that take time
+but yeah
+i mean we we want to go it's like as
+soon as possible that's the answer we're
+not planning like to do it
+in in a year or something
+good good
+okay so uh guys any more questions
+submitted please
+okay seems there are no no more
+questions so thank you very much media
+for this beautiful presentation so and
+uh
+yeah so we i also have seen that there
+are quite a number of people coming to
+this uh beta testing group
+so hopefully they will provide some
+valuable comment to you and help you to
+improve the product
+yes thank you yes so i call to everyone
+so please please
+as usual the user's feedback is
+something that developers appreciate the
+most and this is something that really
+helps uh
+to understand better your needs
+uh okay so uh actually
+uh this is
+all for today uh so there are two
+contests running currently uh the one
+for ssi stage four and the other one for
+the never stage two so for some reason
+they as usual didn't deploy in the
+interface but i already asked interface
+team to do this
+so uh and uh if i remember it well it
+will end
+in six weeks from start so this is
+something like end of april
+uh so if you feel capable please go and
+participate in this contest so the more
+the mother's merrier
+and
+yeah that's pretty it for today so if
+you have any other topics to discuss
+just raise your hands and please
+and if not so
+i will count three
+two
+one
+okay guys thank you for coming and thank
+you as usual so see you next time uh
+hopefully next week at the same time so
+now it is 3 p.m ct so
+thank you who noted this
+so see you next week then
+ciao

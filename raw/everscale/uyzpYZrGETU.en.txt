@@ -1,0 +1,2013 @@
+he's on another goal
+no it's getting all set up now
+i've just got the notification mind we
+are we are live huh cool we're good
+i think everybody's here too great and
+so many people have cameras on too
+danila come back you've got a great
+setup
+yeah sorry
+great
+okay good day everybody welcome to
+weekly meet number 102. we have a very
+full agenda today with some really good
+presentations from the community
+and before we jump in i want to remind
+you all that the everscale two-year
+party is this saturday may 7th don't
+miss it we have two great celebrations
+so if you want to get on a plane and go
+to bali and party then you know do it go
+to everpoint dot io get your tickets and
+fly over or you could just join the
+metaverse party which is
+you know you could
+sit in your pjs and party
+but if you want more information
+yes well it's true
+anyway if you want um more information
+on that just
+drop a message in the chat and you know
+everybody will provide some information
+so um let's just jump over to the tech
+updates meecha
+all yours hello
+yeah i have a couple of
+dates
+so first of all um
+this is the
+the current network
+version
+setup so you can see that we have about
+27 currently 25 percent version 24 block
+version 24. this is a very very
+important update
+and this is slowly being rolled rolled
+out
+now
+very slowly because
+the node stops for about
+an hour sometimes
+when updated
+and so we cannot just release the date
+we couldn't just release that date
+and everyone would jump on that the
+network would stall so we had to go one
+by one and we're still doing this as you
+can see so there's about like again
+25 network has been updated we will
+continue
+uh doing this and hope by next uh next
+call
+network will switch to this new
+new new kind of well new update version
+which uh then enable compression
+and so many other wonderful
+uh upgrades to the protocols and other
+stuff
+um
+so
+yeah
+so this is first thing
+first of all so again to validators
+don't rush don't need to rush
+you can
+go to sergey turin
+and ask him
+for information and he will
+give you
+this information where to go what update
+that he has all the instructions
+and alternatively he can you can install
+his scripts
+and his scripts
+uh will update your note automatically
+and will do it intelligently also so
+the script will
+choose the time for your note to be
+upgraded
+safely
+so
+you can go lazy way
+with
+certainly great scripts or you can go
+active way and just thinking
+i know he hates me by now but it's okay
+anyway
+so this is one thing
+another thing
+is
+we'll make the announcement today
+and you all are welcome
+to the 10th of may
+gosh launch
+which will happen during
+dockercon
+conference
+where we will present
+the gosh
+in a one of the
+just
+very few
+docker
+partners
+for their upcoming
+release of the new product which
+i
+cannot
+detail right now as i am under nda
+so we have been partnering with docker
+for gosh release
+and there are super
+super interesting
+stuff
+that's going to be released
+on
+um
+on may 10th actually it's going to be
+released a little bit sooner
+but on may 10th will be
+the docker conference dockercon
+um where we will present the full
+solution and you will all be able to see
+what it is
+actually
+um
+so yeah well i will i will have an
+announcement with the link to the
+conference it's free you can register
+and go there will be a present a 10
+minutes
+presentation of gosh
+on dockercon
+so please you know join you're welcome
+to join this
+and
+when the time comes i will also announce
+several other things when i'm allowed to
+do so
+um
+you know with a with a docker release
+schedule
+so this is very exciting news we've been
+working like crazy for last three months
+on that
+just sleepless nights
+um
+very excited not everything is 100 ready
+but you know i still have a few days
+um
+so yeah and i also would like to thank
+of course like next tuesday i think
+will be i don't know if it will be after
+the presentation before so it will be
+interesting but
+anyway i want to thanks all people who
+contributed and uh
+to the to the development of this um
+like the
+the everex team
+the preventer team
+and uh ivan's team
+[Music]
+was on the call yeah great work everyone
+and um yeah will be very exciting you
+will see
+the clerics and the products very
+exciting
+stack
+so yeah um
+thrilled
+to
+kind of
+for you to try it will there be online
+stream of confidence
+uh sorry yeah
+it's one of the yeah it's one of the
+i think it's one of the
+so presentations in general
+of the selected partners and when i say
+selected partners i mean
+google
+vmware
+gosh
+yeah
+it's it's yeah it's that good so see you
+all there
+thank you that's huge news thank you for
+sharing that michael um and
+congratulations on the partnership with
+docker it's amazing
+and good luck on the presentation too
+looking forward to uh
+telling us about it next week or the
+week after whichever day it falls well
+yeah it depends on how when when the
+presentation will be in terms of towards
+the like if it will be before or after
+yeah
+good luck
+speaking of developers uh we have ivan
+here who wants to jump in with a psa for
+the community to create some tasks for
+developers
+uh yeah
+that's it can you see my screen
+yep all good
+all right
+so
+uh so on the screen you see
+uh
+the bitcoin platform
+so we have uh
+uh recently launched a
+pro account
+with bitcoin
+and it allows us to
+among other things it allows us to
+create bounties
+so
+we tested a few bounces already
+uh one bounty
+for for 300 usd approval
+so
+so what it allows us to do uh is to
+connect github issues
+to this platform and this platform
+doesn't create the payment for those who
+who accomplish some tasks
+so various tasks that would be minor
+tasks major tasks projects researches or
+just community engagement anything
+so uh
+and uh the the bitcoin platform has a
+huge developer community throughout all
+the world so this is a major hackathon
+platform actually
+and um
+despite having some pro accounts and the
+availability of this like functionality
+we also will
+i just want to announce that we will
+have a special
+like unique special event hosted on
+bitcoin so that will that will be online
+hackathon called
+ever scale
+error scale escalator
+so
+and we
+are preparing of course some workshops
+demos
+and
+[Music]
+some like challenging projects
+with all of the
+ecosystem
+ecosystem partners who will be making
+financially this hackathon broke system
+it vault maybe everex
+by the way if you want to join please
+take a look
+so uh what what i want to ask the
+community for uh is to
+please ping me
+uh
+here's the qr code was my contact
+uh
+think me if if your company or your team
+wants to develop something and you want
+a front-end for back-end or
+uh smart contact stuff or some
+architectural design or you want to just
+engage with developer community
+so tell me about your project don't know
+what what tasks you have
+we can break them down and uh
+um like engage the worldwide developer
+community to contribute to the open
+source because bitcoin is a major
+platform for funding open source
+contributions
+uh and uh
+like the bounties is a separate check
+uh
+and the the hackathon is a separate
+track so
+for the hackathon we need like some some
+challenging and cool tasks as well so i
+have some something in mind
+uh related to bridge related to some
+defy related to creating some
+social like analog of social
+applications like twitter
+uh on chain etc etc by the way inspired
+by
+gosh stuff
+like it's it's all possible on every
+scale so and we and we want to show to
+the world that that our platform is is
+basically a
+like decentralized back end so
+so if you have some like ideas or dreams
+what you want to build on every scale
+this is like this is a point this is a
+possibility to bring it to life
+so
+uh so yeah just think me by this qr code
+with any ideas how you want to be like
+present on this platform with bounties
+either either bounties or or on the
+hackathon itself if you want to be
+presented one hackathon of course you
+like need to back your uh your
+challenges with some funds but we'll
+like speak to about that personally like
+we can support you from
+from process fund or defile fund
+whatever
+so so yeah depends on on what you have
+in mind
+so yeah so for example like there will
+be a presentation of uh like dao creator
+uh from eugene and uh this this is
+perfectly fits for for for such thing
+so uh like i personally want to
+to see like
+dao creation dogs
+in in the like
+for a hackathon check
+so yeah so that that's basically it
+so please thank me if you have something
+in mind and we will like bring it to
+life thank you
+cool great thank you for sharing i know
+that you've been driving this
+partnership with bitcoin for a long time
+so i'm happy to see it
+see it working out
+do you think that they'll ever
+um
+let us
+give rewards or bounties than ever
+uh well
+yeah
+they actually integrated uh a coin on on
+other networks so
+ever on bnb and on ethereum so it will
+be available uh for native integration
+they need some more time because they
+are fully packed up with resources
+like development tasks but we can create
+a bounty actually to integrate that to
+their back end because they are open
+source so
+yeah i want to create such paths but
+well will the people request accept it
+or not it totally depends on on bitcoin
+team uh so so yeah but but we will like
+push for that if if someone wants to
+contribute please please write me
+cool
+okay thank you for sharing i hope that
+works out
+let's give away all the evidence yeah
+that was like a pretty like expensive
+stuff so yeah i hope so
+yeah but we hope it will work out so
+like yeah prepare for like for working
+with developer community because we need
+to like to resist the the inflow of
+developers and we want them to to not
+like turn their backs on us that that's
+important definitely yeah prepare
+discords prepare telegrams prepare
+everything
+do you want to drop the the link to the
+git coin page uh actually it's uh it's
+um it's a
+git coin dot
+co everscale minus work i will i will
+just drop it in zoom chat and then just
+please share it yeah i'll put it on
+youtube
+cool that's it okay i need to run yeah
+thank you okay
+five and
+get out you need to
+so next up on the agenda is the aml safe
+the anti-money laundering safe which is
+really cool uh the team i think they are
+the ninth grant winner from the defy
+alliance and this team decided to add
+everscale and ever to the pull-up
+supported blockchains that they have
+and we have danila here
+uh to tell us more about the project hi
+daniela and welcome to our weekly call
+hi guys thanks for having me
+so can i share the screen
+yes do you have rights uh can you
+okay it's working
+it's working okay
+um
+okay so
+so do you see it yeah
+okay yeah um
+okay guys um thank hi again
+so let me introduce uh to community
+mlsafe so the first crypto world with
+embedded ammo model
+so what is actually is so we are
+building the web 3.0 decentralized
+wallet with the features that you expect
+to see in
+uh decentralized wallet like exchange
+sending money buy and sell crypto with
+the credit card but what you are not
+expecting to see is the am our aml
+feature
+and for those of you who don't know what
+is ml it's actually
+for anti-money laundry and you might be
+asking
+why is even in crypto world because the
+crypto is transparent it's secured and
+anonymous
+yeah that's all true about crypto but
+let me show you like one example
+so imagine we have employer and
+freelancer and they actually decided to
+get paid in crypto
+and the regular the common way uh how
+they do that is
+uh employer from the wallet one sending
+crypto to freelancer to
+world of the two
+and
+after the freelancer receiving the money
+they do virtually handshake and say
+goodbye to each other
+and after that all of the freelancers
+look like this
+so they're actually really excited
+because they get paid and
+the cryptos on the balance and they
+think there is nothing to worry about so
+everything is okay
+but what if i told you that this crypto
+uh was not the crypto that you are
+regular thinking of
+what if i told you that this crypto was
+spoiled
+and if we close look to the scripter
+that might be like this
+uh it could be the crypto from the
+stolen wallets it could be the tokens
+used uh in dark markets in its uh like
+etc etc it could be scam tokens and so
+on
+and after the receiving descriptor to
+your wallet you right now are sharing
+the reputation of that crypto and your
+entire wallet uh just get spoiled
+and
+um okay so what
+uh how does the affect your real life
+and what's
+how does that affect you especially
+um but we are not stopping there um
+we're going
+further
+and for example if you want to
+[Music]
+like window this money what you what
+like freelancers usually do they go to
+oh sorry they go to
+like crypt exchange for example finance
+hobby
+might be dead centralized exchange like
+one inch and actually like send the
+money to these exchanges and after
+sending this money they actually could
+receive the message uh with the copy uh
+sorry due to our email policy blah blah
+blah
+your account was banned and we are
+suspect that you are related to this
+kind of illegal activities
+and you could see this kind of picture
+so
+you just receive 100 uct and your entire
+balance on all of your platforms could
+be banned uh due to ammo policy
+why this happened uh because actually we
+know about this crypto that this crypto
+came from the dark sources and these uh
+crypt exchanges use the same algorithms
+that we do to
+know uh exactly where is this crypto
+come from and to mark the script as
+the legal services
+and after this picture many freelancers
+look like this
+because they really like
+they
+scare it because they're all money has
+gone
+and they don't even know if it's
+possible to
+unbound the accounts and block their
+money so this is really really scary
+situation and actually it's happened
+every single day we have a lot of
+customers that come to us with the same
+problem
+so um what we suggest and what we are
+approaching here so how the future how
+we see the future um dealing with uh
+crypto
+will go to
+so for example
+um so for example we suggest uh
+before you receiving any amount of money
+you just ask kindly to other side could
+you please provide me the
+wallet address from which you are going
+to send me money and you could check
+this address for example
+he give you the employer give you the
+wallet you just check it and you'll see
+this picture
+and that's mean that it's so dangerous
+to make any kind of partnership or
+dealing with this address and you are
+it's it's safe to
+not dealing with this partner what you
+can do here you could ask do you have
+another wallet uh
+from which you could send me money and
+he could give you another wallet and you
+could check it and if you see this
+picture so we absolutely save to go and
+there is no way you get banned in the
+future
+um so the funny fact is that employer
+could
+could they they actually don't know
+about the
+situation of their bullets so that's
+it's um it's not reason to blame them
+because they don't know to
+where this money comes from and it
+doesn't mean that employer wanted to
+like trick you and want to send you
+stolen money they don't know if even
+so
+um and
+this is like we come why are we doing
+this why we're doing this product
+because we want to help people we want
+to help people to save the money we
+wanted to
+uh help people to be aware of the
+dark part of the internet their script
+comes from
+sometimes and yeah to be
+[Music]
+and to prevent being blocked on the
+crypto exchange platforms
+and what we can tell about the crypto
+wallets actually uh literally everything
+so we have 25 sources that we analyze uh
+we group them in uh in three groups it's
+dangerous sources suspicious sources and
+trusted services and we analyze it all
+of that and we will give you your risk
+score or the risks or of your partner so
+um if you're on on a red zone it's mean
+that you have a high chance of being
+blocked and the crypt exchange plus or
+even in debt centralized crypto
+exchanges like uni swap or one inch
+because they use the same algorithm as
+we do and they actually uh
+they actually too care about the ml
+policy
+yeah so if you're in a green zone you're
+safe to go it's like nothing worried
+about and we provided the detailed
+analytics there you can see um of like
+the exact amount of um
+of money that received from this wallet
+from different sources and what's
+interesting here is that the small
+amount of dangerous sources are really
+impact a lot to your wallet so for
+example if you have five percent of dark
+market
+um
+funds it's it's make uh a big chance of
+being blocked because it's a lot it's
+like less than one percent is okay but
+it's it's very dangerous too
+um
+so we supported uh most popular
+blockchains bitcoin ethereum and all of
+the erc20 tokens the non-smart channel
+tools the tokens based on the
+uh bc uh tron and all of the tokens
+based on the
+on the tron blockchain and coming soon
+everscale
+um
+really really coming soon yeah we're
+hoping to and later this year the
+polygon and solana come in two as well
+you might be asking is it free so do you
+have to pay something for that actually
+the first three ml checks
+in our application is free for all users
+so you could check your wallet you could
+check the walls of your
+partners contractors yeah whatever and
+actually you will be surprised
+i can tell you you will be so surprised
+about the reputation of your wallet and
+the reputation of quality that you're
+dealing with so yeah it's definitely fun
+to
+check it for yourself
+um and
+if you need more it starts like as less
+as
+0.3 dollars per one check
+um and if you don't need any of ml
+functions you could still use animal
+safe like a regular crypto wallet with
+air scale support so it's absolutely
+free to use like a normal wallet
+um so yeah that's all um
+it's like i just like simplified all of
+the picture here because you know it's
+like a little little bit complicated if
+you go into ml policy but i just wanted
+to make it simple to give you an idea of
+how it's work
+and if you have any question i would
+like to answer it
+wow that was a fascinating presentation
+this is an excellent uh project imagine
+imagine having your salary paid in
+crypto and then one day the feds show up
+at your door and think you're like a
+human trafficker and sees all your money
+and everything that's a horror story
+but but what you've made is is really
+useful and it's definitely worth the
+peace of mind like you just can't pass
+up
+what 30 cents
+to keep your salary
+that's amazing yeah it's
+it's like if you pay 30 cents it's like
+you know like a backups yeah you pay 30
+cents to make sure that everything is
+okay yeah it's like is it worth it to
+like save your like all the savings that
+you have on your wallet i think so
+yeah 100
+we have a question from ben
+half question half compliment i just
+want to
+say that is one of the cleanest uh
+most uh enthralling presentations we've
+ever had on these weekly meetups i think
+so uh just a round of applause to uh
+yourself and whoever put that slideshow
+together that's that's brilliant work
+um yeah um half the question is
+basically uh revolving around and i know
+it sounds obvious and you probably said
+it but just to kind of uh feed you the
+line um is it ready can can a a
+simpleton like me go off and go check my
+wallets now
+yeah definitely actually actually you
+could actually we have like
+you could create your uh new wallet or
+you could import the wallet like from
+the seed phrase or whatever you want
+and yeah you could you could you could
+see and uh the um the cool feature is
+you uh checked your ethereum address
+that means that uh that would be the one
+i'd be worried about to be honest yeah
+all of your
+all of your rc20 tokens will be in this
+statistic as well so we will show you
+your entire portfolio uh the risk score
+of your entire wallet
+well given the amount of um dodgy erc20
+tokens that have been dropped into our
+wallet over the years and i i hope you
+have a good capacity for
+these systems i may be testing your
+service but yeah fantastic work guys
+honestly i'm blown over by that great
+work thank you so much thank you so much
+guys are there any other questions i
+don't see hands up
+um can you please stop sharing your
+screen and
+let people know if they have any
+questions how to how to ping you um
+maybe if there's a team chat on telegram
+i know that your website is amlsafe.io
+people can go there
+so if there's anything else just
+let us
+know okay
+okay so moving on next on the agenda the
+everscale japan chapter recently
+organized and co-sponsored a hackathon
+for japanese developers
+so they're on boarding more talent to
+the everscale ecosystem and we have
+dunya here to tell us more about the
+hackathon so welcome dunya
+yeah uh thank you for inviting me so
+hello uh this is junior from japan sg so
+i want to give you a brief report on the
+event held by japan sg so first of all
+i'm not very good at in at english
+conversations so if you have any
+comments or questions please send me a
+text
+while talking
+so
+[Music]
+we co-hosted an event called the
+japanese year horizon from april uh
+16th to
+24th
+with the jpyc company
+jpyc is also the japanese yen's stable
+coin
+this was a second for time for us
+ten teams of 19 talented devs
+participated in this hacksan
+who competed to implement products using
+jpyc
+for us
+the goal of the jpyc hacksaw was to
+expand evasco's recognition among
+engineers in japan
+so currently a jpyc is distributed on
+major blockchains israel polygon average
+and other even compatible change
+jpyc is not yet available on everscale
+so realistically from a liquidity
+perspective it is currently very
+difficult to distribute jpyc on ever
+scale
+so however the first step for any
+technology is to get engineers
+interested in ever scale
+so therefore
+we concentrated on making engineers
+interested in evasco's technology
+through the event
+on the first day of the event
+ever-skilled japan's representative
+ayama introduced eva scale
+fortunately some of their participants
+were interested in everscale
+however
+they were disappointed when i told them
+they
+that they cannot implement
+evm
+so of course i told them that the ebm
+workchain will be raised
+then
+they said they would like to try
+everscribe if avm is implemented on a
+pascal
+so the hacksaw made it clear
+that engineers still have a strong
+desire for evm so we hope to see the evm
+blockchain out as soon as possible
+so we will continue to increase evasco's
+exposure through
+hacksaws and blockchain events
+so this was a brief update regarding the
+hacksaw from japan sg so if you have any
+comments or questions please send me a
+text during the meet up i will respond
+as much as possible thank you
+okay great thank you yeah um
+while having this hackathon did anybody
+come back to you with any concerns or
+feedback such as
+not enough resources or content in the
+japanese language for japanese
+developers
+uh excuse me i didn't catch it so
+please text
+for sticks and
+so okay i can write it to you
+oh yeah i'll write it to you no problem
+yeah
+okay thank you very much
+uh does anybody have any other questions
+virginia
+i think that's probably best is if we
+put the questions into text and uh
+junior can obviously uh read and
+translate them across and we'll come
+back to that at the end maybe that's
+easier for you buddy
+yep sounds good
+okay then we'll move on to the next
+topic on our agenda and this one's a
+very important one um
+and it's also a very important project
+which is going on in the background so
+very few know about it because the team
+is very focused
+and working very quickly and efficiently
+it was built as a response
+on the
+attack on ukraine
+and the country became understandably
+concerned about its art its culture
+and history and needed a way to safely
+preserve it
+so to loop everybody in
+our wonderful ben interviewed eugene who
+is
+just neck deep in the museum heritage
+project
+and he's going to share it with us now
+yeah
+yeah thank you for teeing me up i'm just
+going to uh quickly blitter while i make
+sure i can work the map this week
+you don't want to share the video player
+but yes uh just to frame it a little bit
+obviously um did this uh this topic does
+relate to geopolitical issues indirectly
+uh but obviously uh this isn't about
+politics this isn't about you know that
+kind of thing this is about people and
+it's about everscale basically and
+what's being built in the ecosystem uh
+so obviously you know
+if anyone does have any strong opinions
+and
+i mean i don't really feel like i should
+have to say this but just in case you
+know please let's obviously keep on
+topic here and uh try and understand the
+nuances of the situation and on that
+note let's uh just check there we go
+how's that looking joe
+looks good it looks good and if you just
+want to give me a quick uh bibbidi bob
+if you can hear it when it starts going
+hello
+i've just introduced myself here i
+imagine on the weekly meet-up but it's
+it's kind of late here in the uk closer
+to midnight than not and uh
+myself ends up you know in by now i'm
+the man the myth the legend uh mr eugene
+morozov and i've got something very very
+cool and exciting and heartwarming to
+tell you about
+um yeah i'm not going to say too much
+about it because i'm a bit of a
+blithering idiot by this time i guess
+this time of night uh but eugene you can
+always talk can you
+it froze
+first come about and could you maybe
+we froze have we or uh it stopped then
+it began again
+okey doke i think it might have been uh
+i
+did something on my end so right
+you kind of tie in who uh
+the maria is who the main people are you
+know what what is what is it we want to
+tell people about you
+of course ben
+thanks for asking those questions
+this initiative which we call museums
+heritage
+started when a member of uh governmental
+chain association
+uh by the name maria escuela
+who is
+through her work
+through her colleagues a member of the
+international museums coalition
+and they essentially were asking a
+question
+how can a blockchain community
+help
+museums
+and galleries that
+are at risk of being uh damaged or
+heard in any possible way or maybe you
+know polluted as a result of
+uh
+a war
+going on
+obviously no secret there is uh
+there's a big one going on in the world
+right now which is you know obviously uh
+very close to a lot of people's hearts
+and we're we're not here to be political
+though uh but so yeah i mean but please
+do continue
+yes and so we thought about how do we
+can respond and uh
+actually a number of people came up with
+um an idea that
+we can help uh by
+creating an immutable record of museums
+collection
+that will be stored forever um on
+blockchain as evidence as a catalog of
+what the collection
+was a particular time
+that
+also obviously opens a possibility for
+now museums to
+monetize um
+some of the collections that they have
+and receive so much needed
+cash
+of course i mean i know here in the uk
+especially since covid and a lot of you
+know other kind of events
+uh galleries and public you know
+exhibition centers gig houses all the
+all these types of businesses are really
+you know they're struggling they are in
+a tough place places which have been
+open 50 100 years
+you know
+obviously for any cultural institution
+or museum in the world perhaps
+except maybe the wealthiest privately
+supported collections
+um and
+i believe it was um
+obvious that um we should come up with
+something
+that will help those museums preserve
+and then in the future
+monetize their holdings
+and this
+initiative was supported by
+a number of people in the labor scale
+community
+and
+essentially a very short period of time
+in about
+three weeks
+we had an mvp
+which essentially allowed
+allows any physio to call in volunteers
+follow special instructions to
+produce 2d and 3d images
+of uh paintings and
+sculptures
+of course so i mean um just so you kind
+of like
+you know i say
+this is something that
+yeah we're not talking about a pipeline
+project we're not talking about
+something which is coming soon we're
+literally talking about something which
+is
+you know where it's being put into
+action now the the people are out there
+having the conversations you know
+hopefully yeah i mean i'll let you carry
+on again so i'm a bugger for doing that
+and i i'm always over talking to you
+eugene but
+yeah i mean this is something which is
+genuinely it's not for profit directly
+in that kind of way but this is the
+technology that everscale is all about
+literally out there in the real world
+not only solving a problem but you know
+yes essentially yeah finding creative
+solutions to problems which
+down the road as well
+yes and it also showcased what the
+community can do because in a very short
+period of time the the usable
+tool
+solution has been put in place
+and people from many different countries
+participated in that
+yeah i mean obviously we are quite short
+on time here so one of the main things i
+wanted to get across is obviously
+as you mentioned earlier there's a lady
+with the government blockchain
+association um and maria and when trump
+pronounced her second name uh but yes
+yeah i mean she is literally very very
+directly affected by world events at the
+minute so this is
+such a project of passion and
+unfortunately you know i was hoping to
+be able to have this conversation with
+her this evening um but yeah maria
+obviously i look forward to speaking to
+you soon and and forgive me for my
+poetic soul
+a nation's identity is principally
+defined by its people however it is the
+poetry and art and music to which they
+revel and the buildings and churches and
+monuments in which they laugh and cry
+and sing which helps them to define who
+and what their identity
+identity represents
+by embarking upon this project to
+preserve as much of ukraine's history as
+possible but again also this is a
+project that's applicable to anything
+we ensure the next generation and those
+after them and those after them can not
+only remember but find the beauty in the
+works of their brothers their sisters
+their fathers their grandfathers
+forever on ever to add a corny line to
+the end but yeah i mean oh i was pretty
+damn proud of that and that's how much
+this means three folks so
+um yeah any final words
+thank you very much bird well in which
+case i'll take that as high praise and
+yes um i think back to me
+well
+there we go i'm sure you can all see i'm
+blushing maybe a little bit uh obviously
+i'm a bit of a sensitive emotional soul
+so uh yeah like i say um you can see
+this is a big very cool thing on some
+levels and very important and
+and there are lots of people on the
+school working behind it um
+i think maybe it's best not to take too
+many questions on the topic otherwise i
+might start getting all the
+and show my emotional side too much
+around here but uh yeah and thank you
+very much
+that's great museums heritage that's
+that's a really wonderful project if if
+anybody wants to find out more about
+what's going on or if they want to
+contribute their time or skills how can
+how can they do this
+i would say uh the mr legend uh mr
+morozov is the uh the best gentleman to
+get in touch with to find out who's
+doing what with what oh and here comes
+his cheeky little face hey cool hello
+sir
+well hello and greetings from western
+hemisphere everyone yes we have a chat
+uh in telegram called museums heritage
+or you can write directly to me
+we are actually in need of some experts
+in 3d photography
+we also in need of volunteers um around
+museums that are able to come in and do
+the uh taking pictures process
+uh we certainly could use uh dam
+specialist digital asset management
+where all the data is being stored until
+we move it to blockchain and of course
+we need the blockchain people to move
+the damn module uh to blockchain
+eventually for
+immutable storage so reach out to me
+thank you
+great thank you eugene thank you ben
+great presentation and funny video too
+i like the overlays
+so uh moving on we have
+roman here uh roman and evgeny who i'm
+not sure if you've seen him on the call
+before a bit of a new face here but he's
+been a member of the community for a
+long time he's also
+an i.t entrepreneur they will be sharing
+a few concepts regarding dow designs
+templates for automated smart contracts
+and a proposal for the architecture
+of the dao
+constructor
+so a gentleman the floor is yours
+okay hello everyone my name is eugene
+i am a tea entrepreneur in from
+traditional sphere food touch and
+building touch
+and i am the member of everscale
+community
+and my english is not very well
+that's why sometimes i will
+ask roma to help me
+ira man and few guys from community got
+together and we have prepared free
+proposal of our
+proposals for the
+debate for criticism and your
+suggestions
+now the first proposal is principles of
+the dao's pending treasuries
+second is template of the dao smart
+contract and the last one is dao
+construction architecture
+and we invite each other of you and the
+whole community to help us
+uh okay uh
+roma
+next slide list
+firstly
+we uh all you know what in the
+white paper
+we
+can
+read about st token but now
+if we want to
+vote in the tower
+we must
+to
+to withdraw our tokens and to go to that
+that's
+not very
+useful
+and
+we want uh
+to remind you about
+the esta token and
+to speed up
+to speed up it
+next the creation of the smart contract
+template
+this is
+this is a template for creating proposal
+and
+contracts which are made by proposal
+creators to the community
+and contract
+for automating a proposal to smart
+contract
+and the last
+it's about
+how to spending
+treasuries some principles how to do it
+next slide from please
+uh
+there
+that's three proposals and
+we want to create
+a cpm uh we have a reputation system uh
+it's uh
+we called its estimated reputation
+system
+this is an address reputation explorer
+and
+we
+proposed to develop a dao constructor to
+manage
+how to spend treasuries
+of the everscale community
+[Music]
+we
+try to describe and create
+at a plate for adult smart contract and
+here is you
+see
+all
+point what
+need to
+create a contract
+to optimizate it in the smart contract
+next
+please
+the
+dao constructor
+have
+four type of the
+wallets first it is uh the violet or the
+treasuries
+we know all its type of
+of address
+uh
+the second type is multi-sync
+of the proposals which
+is controlled by their community
+next type of their wallets is multithink
+of proposals which controlled by
+proposals team
+and the last one
+the
+the private well it's all the practicums
+with our
+uh that our
+proposals now it's need to the second
+violet need to
+community again to control spending
+their points
+for example
+the
+community vote to some proposal
+and
+that
+get opportunity to
+to transfer money from the treasuries uh
+to the wallet of proposals
+on that violet we can
+collect a
+different different events what we
+see then we implemented
+some
+idea
+[Music]
+roma can you help me the next
+part i see it's presentation only
+today and see only one half
+of this presentation
+uh yeah i just want to add that
+there are many problems that we found uh
+during the uh
+exploration of the adele construction
+architecture uh
+the many community members have seen
+that uh
+that they
+won't be able uh to
+uh
+uh to
+withdraw uh
+their tokens for the farming as you
+didn't mention
+uh their
+other problems as uh
+bad partners uh who
+can say stole the tokens and uh the
+community cannot
+uh ask them uh to
+take uh tokens back on the
+treasury and we decided to to
+to implement uh
+such dell constructor to um
+to solve those problems and here uh we
+market the main problems that current
+system has because the current uh
+currently uh the system has on the
+few points that you you should have uh
+100 000 to
+to submit your proposal
+uh secondly you can uh make a short
+description there
+and nothing
+so uh here's a
+well structured solution uh that usually
+suggested uh to implement
+like a crm system uh that can
+solve this task there will be a
+responsible persons uh who
+who community can choose so
+uh
+let me show it then
+uh just
+yeah
+the
+treasures spending yeah
+so uh here is it maybe uh will be better
+if i share another presentation maybe
+you will be better if i show the figma
+uh structure
+uh
+just
+just a moment
+just are you guys designing the stuff
+together right
+yeah
+in just a moment
+so here is a figma
+moment
+here's the pink one
+loving the new haircut roman
+yeah yeah just just give me a moment
+here is it
+so yeah uh
+so uh we can compare uh what uh we have
+uh now
+uh on the everdal
+platform
+so if all there uh you'll find that
+uh the current
+system is quite simple
+uh there's no responsible persons for
+this proposals so communities should i
+should find the relevant person and most
+of them are uh defy and representatives
+or core development teams uh our
+solution helps to
+to uh
+all teams maybe new teams or some teams
+from the community join this platform
+uh apply here and be selected as a
+verified team this merit
+system
+uh
+all communities could see their merit uh
+can we trust them or maybe we should not
+trust them
+and cetera um
+so uh if you see here as i mentioned
+that it's quite simple
+uh description nothing else uh we
+uh we want to suggest make it more
+um
+more understandable for the uh for the
+users for the newcomers who has
+one hundred thousand tokens on the bats
+but it is not uh only this
+uh eat uh
+yeah what what your internet's kind of
+going out
+uh
+no it's okay
+[Music]
+okay it's okay right now uh okay just
+just repeat the last sentence
+uh yeah uh
+i i mean that uh he will be selected as
+an initiator
+yeah and the initiator
+can suggest uh the primary team who will
+be responsible to implement the solution
+yes
+so uh secondly uh he should uh the
+initiator should uh input
+the stages
+uh the uh dates of the start of this
+proposal uh he should input the budget
+after stages
+and
+he can
+add more stages or
+there might be only one stage as well
+yeah
+so uh the next uh there will be a task
+we'll uh on the fire and finally we will
+get the task uh there will be a
+responsible person uh for this proposal
+um
+there'll be a
+few tasks that he should uh he should do
+for example
+allocate funds something or
+for example hire a manager find a
+agency or promote ever scale let's say
+uh
+in china or any other country
+uh
+this uh proposal this will be divided
+for the few stages uh they might be not
+only one uh initiator of this contract
+because uh as we describe it in the uh
+in the dow architecture that uh
+another point uh of the problem that uh
+now uh all uh community members has uh
+100 000 uh errors on their wallet so uh
+this solution also helps to to make
+uh to make a pool uh
+in the smart contract uh they put uh for
+example let's say uh 5 000 errors uh
+for 20 people they allocate all funds
+here there and initiator of the contract
+can submit a proposal
+this uh this all these stages
+yeah and finally he can provide the
+information about himself
+that's all
+regarding the uh full architecture
+crm system i can say cryptocrm system
+okay that's great i love the the new
+everdao
+website and it's it's intuitive it's
+clear it's well organized i think it's
+great for new users
+and what you've just just
+told us about the the pool where people
+can just put in 5 000 instead of having
+like a really high barrier i think
+that's a great idea to lower the entry
+cool thank you for everyone does anybody
+have questions
+uh
+well
+yeah i have i have a few um so
+like i i you're proposing like a
+enhancement for the user experience of
+creating proposals
+like just to allow a community to
+submit their own their own like
+initiative and that that's really cool
+and
+yeah
+had you been
+had you already talked talk about was
+like smart contract developers or was
+maybe uh everdao developers on
+so
+uh do you have any feedbacks from
+community
+can you please share what
+like what feedbacks do you have or maybe
+like um
+yeah that
+maybe oh yeah we actually collect that
+we actually collect the feedback
+uh from the community it's already
+posted on the forum everyone can uh
+participate for discussion there uh
+regarding uh developer system uh
+i always as a community manager i always
+since launch of the free throne expert
+on i always suggested that such system
+should be implemented in a
+real uh golf 2.0 uh system and
+uh
+as we see that uh
+it works
+works quite well and
+there are a few steps that can help make
+it better and better and so of course if
+someone has a suggestion
+welcome
+on the forum and suggest the idea
+cool
+i also want to clarify so imagine that
+someone submits the stages the budgets
+and the
+nominates the initiators etc etc raises
+the pool and the proposal for example
+initial proposal is voted and the budget
+for the first stage is allocated and uh
+like uh is it possible
+like to stop the funding if something
+goes wrong
+so
+yeah uh as we describe it in the
+proposal because uh here just uh
+templated of the
+of our suggestion on the forum uh they
+describe it uh
+more deeply uh that there will be two
+options uh for that uh of course the
+community can vote uh for the for the
+for the stop uh the stage uh if
+something went wrong
+and uh
+another they'll be like uh like uh i
+suggested uh in the analytic uh in
+supports of guardians that
+uh they should be like a guaranteer a
+smart contract that can
+uh
+they can stop uh such project purchases
+uh
+if
+for example partner or the team uh is
+doing something bad let's say
+okay so anytime community can vote with
+tokens
+uh like
+50 plus one percent right
+uh there's no like 50 plus one uh at
+this moment their
+quorum of 5 million tokens
+on every doll
+yeah there is no uh 15 plus one anymore
+yeah i mean i mean to stop to stop to
+stop the the funding uh you need like
+the decision to be like yes so
+like you
+you need people to be like active right
+and uh to vote on stopping something
+yeah uh people will be active uh of
+course if there will be a sd ever uh
+implementation because uh we made our
+own research that there are many people
+uh who has
+uh quite a lot of errors on their
+wallets but they uh won't be able to
+vote for the proposal because they're
+they're in farming or and staking and it
+takes some times uh to to withdraw money
+and vote for this this is the ever of
+course it's uh it can bring us uh many
+waters on the other dawn
+yeah actually no actually
+uh like yeah i will write maybe one
+forum
+some some technical like uh suggestions
+on how can you engage people who locked
+their friends funds somewhere else like
+but but it's it it it actually will need
+some collaboration with with dex uh
+developers like if you imagine if dex
+developers would give you some token
+which would be a proof that you are
+staking some amount of money in their in
+their farm then then you can use that
+token in in in the governance as well
+and if you have this oracle who
+uh like oracle contract who will provide
+the
+the the information that that this like
+token costs
+some amount of errors
+uh on the market and then then you
+actually have like this utility to the
+world
+but but yeah that's a little bit
+complicated system i think and uh
+yeah and maybe you have some speaking of
+time frames
+how how do you think how soon can we
+launch an mvp maybe without this this
+technical uh
+like st ever and and stuff but but just
+basic implementation uh how do you think
+uh how soon we can launch it and then
+the another question is how will it work
+together with current implementation so
+do you want to replace or do you want
+just to create a separate now
+uh
+regarding the first question uh
+i don't like this word
+uh
+i can say that uh it might be uh
+implemented very fast depends on the
+community needs
+because we have enough resources in the
+ecosystem
+and in the free town actually we had
+such resources
+uh but we didn't
+and uh
+regarding the uh
+questions
+will be happy if you provide the
+feedback on the forum and
+of course we could uh invite the
+technical guys
+to comment it as well
+ben did you have a question
+uh i did it was kind of covered there
+but i suppose just just uh to get a kind
+of shorter summary from your roman um
+you mentioned that the uh the kind of
+threshold the quorum there was five
+million ever if i heard you right
+no yeah the current uh
+system
+so
+just wondering um kind of how that
+figure was decided upon i mean by what
+the kind of short simpler version of um
+why why 5 million specifically because
+yeah
+to ask the difficult questions that that
+seems
+kind of like i can i can take that i can
+take this place
+so the the the everdao currently is just
+a fork of bridge down and it has the
+same totally the same numbers so uh on
+the bridge thou you have you have the
+same quorum and and then the same
+proposal cost so they they just didn't
+change the numbers but anytime you can
+submit a proposal to change this and uh
+yeah so so it's fully configurable
+so
+yeah yeah i think i think roman just
+said that that currently we have the
+thresholds
+yeah so i was just kind of thinking you
+know uh big big drama worst case
+scenario um
+obviously in the way it's set up then
+there's no hypothetical way where some
+malevolent doctor evil type could come
+by what would it be
+i mean a little over two million dollars
+worth of uh ever
+and then lambast the the dell system
+with changes to obviously uh
+you know uh perform some sort of
+dastardly deed yeah in the current set
+up that that wouldn't
+really be possible is what you said i
+think that community can vote uh to
+to decrease uh such amount of tokens uh
+if they're needed and well no what i
+worry is i mean obviously now now that
+everscale is growing and you know
+scaling infinitely two million dollars
+is
+you know to some people it could be
+quite a small price to
+perform
+much much bigger
+because there should be
+in my opinion in my own opinion that uh
+they should uh
+be able to vote not on the community
+members maybe in wales uh if they want
+and if you take a look and the other uh
+blockchain systems and other projects
+like uh uh trust wallet this is exactly
+why i asked because i know that they
+have the new lands yeah well yeah i mean
+i know you have your unique swap in
+itself um unless i'm kind of mixing
+things but uh was subject to uh quite a
+few very ridiculous proposals which went
+through uh thanks to some twitter
+influencer who wanted to wind people up
+and had too many uni swap tokens there
+dropped to him
+so you know i just yeah i mean obviously
+if that figure's flexible and he's you
+know kind of in tune with the the amount
+of usage and the amount of tokens on the
+system then yeah that would answer kind
+of the question and appease my english
+paranoia thank you very much guys
+and actually i i'd like to remind that
+there also is a like another model of uh
+voting uh like decision making algorithm
+called soft majority voting but mitch is
+not here so i'm for i will be like uh
+i'm very familiar with smg and all the
+uh lectures i've had on it from each
+other just just just i just wanted to
+remind you that it's already uh like in
+production it will be actually maybe
+used in in some future like
+projects
+very soon i'm under nga but but very
+soon and uh also yeah and uh and yeah i
+just want to remind the concept of
+person b so so you have this like pool
+of maximum votes and you have this
+tokens and uh if somebody is like uh
+against
+then the the amount of votes you need to
+raise votes for
+uh the amount of votes for you need to
+collect
+raises with the amount uh so the more
+people votes no the more people should
+uh votes
+yes to to to make this happen and if
+nobody and if nobody
+votes
+negative then you need just 10
+people to vote
+uh for
+to to make the decision happen so you
+don't need this threshold of 50 plus fun
+like you you need only to like 10 10
+people who will agree and if nobody like
+wants to
+like votes vote no if if nobody cares
+then decision just made and if somebody
+votes like no some five percent people
+then you need like five or ten percent
+more people just to to to beat them and
+uh and uh so this will this uh this is a
+solution for uh the low participation
+problem yeah absolutely just uh just how
+debt in-depth you're going with your
+answers literally it tells me that this
+is uh something you guys have thought
+about and thought about and i say it's
+different obviously you know with doing
+the uh the podcast and all that kind of
+thing you know i look at a lot of these
+kind of more ridiculous things that do
+happen and yeah i don't
+yeah brilliant work guys again thank you
+very much i think uh the main problem is
+not uh regarding the ivan uh suggestion
+i think the main problem is not uh
+regarding the smd
+and uh the soft majority volunteer and
+so on the main problem is implementation
+who will do that
+we can vote for the many proposals you
+can suggest whatever you want but the
+main problem who will implement it
+yeah yeah that's that's uh like uh i am
+uh again i'm referring to the bitcoin
+platform let's create a bounty let's
+create an issue for that let's uh like
+uh do an open call to all of the
+developers
+from from bitcoin team we will have the
+marketing support for uh this this could
+be
+uh this could become a actually a task
+for a hackathon so
+we can engage people to participate and
+motivate them with funds
+i think ivan we could cooperate in that
+way because there are needs a verified
+team uh who should be able uh to
+implement uh this proposal yeah let's do
+it let's do in my opinion yeah in my
+opinion just uh implementation of this
+proposal is main problem because i've
+seen in preton that we can vote for many
+proposals they might be accept but the
+main problem is that
+who will be implemented
+i mean just as a side note i'm sure you
+guys already know but there's um kind of
+models coming out at the minute and uh
+i won't name names but uh there was one
+particularly uh vitalik was tweeting
+about which
+again i'm not sure it's any better than
+other models but this is definitely
+quite unique yeah so yeah a non-token
+based down model so an interesting thing
+people are looking at at the minute so
+yeah sorry i i keep interrupting like
+this it's a one-on-one conversation
+sorry back to you
+jeff thanks that's a great idea roman
+and ivan yeah collaborate on that and
+see how much see if you can get some
+more developer activity and some tasks
+actually
+completed because everybody has tons of
+ideas but who
+who's really going to do it yeah
+that's great thank you for sharing that
+and uh and uh
+next up
+um
+fiddle dee dee
+crumpets and tea
+it's time for bits dodgy cheeky bits
+awaited
+for ye
+oh
+i feel special again thank you thank you
+jacob i hope you weren't up too late
+writing that all right i'll be honest my
+bits disappoint after that beautiful bit
+of poetry i've i've only picked up a
+couple of top ones for you because i
+mean
+you know the the secret sauce is here
+i'm getting all of this from the
+everscale telegram news feed and the
+twitter which you know yeah you're all
+following anyway aren't you so i'm just
+reminding you of stuff you already know
+really uh but yes the things which
+caught my eye um there was a w ever
+airdropped uh for ether blah blah blah
+two two two two cubes were dropped um
+there were two uh everest everest ever
+grants not ever scale grants evergrants
+uh receivers receives this week uh
+identics and i'm maybe pronouncing this
+incorrectly spatium
+seems like it should be pronounced
+spatium um but yeah both very
+interesting projects uh obviously as
+we've just been talking about everdao um
+there was a very busy day the other day
+we had i believe it was 11 separate
+issues being voted on and i think the
+vote may have closed before this call
+today but definitely worth checking out
+seeing how it works i've got involved in
+a couple myself it's yeah we're all
+learning as we go along you know don't
+think it's rocket science to get
+involved in these things
+and we need you obviously as you know
+all of this has just been said
+and the final thing i want to selfishly
+close on uh the never mind these coins
+rumor mill uh again been working really
+really really hard for you guys out
+there with this one um it's going out
+three times a week monday wednesday
+friday it's it's shortish i mean the
+last couple have been a little bit
+longer because we've been adding i've
+been adding a little bit more value
+content on direct market analysis and
+such uh but yes myself uh anastasia who
+some of you may know we are literally
+going now and kind of half an hour
+before the show starts we are going
+through all the latest kind of crypto
+gossip or the headlines all the things
+which might move markets and importantly
+you know kind of uh giving a lot of
+attention to what we we're doing here on
+everscale attracting an outside audience
+so
+um basically if you're not watching it
+you're missing out really yeah i'm
+trying to do something nice for you so
+watch it check it out it's like 10
+minutes every three days and then you
+don't have to bother with a load of
+other
+which which just tells you the same news
+but in a really boring way
+so yeah that's it for my bits go and get
+out of it
+bloody brilliant ben thank you very much
+so let's move on to q a as anybody on
+the call have any questions
+if not we can move on to youtube i know
+some things were sent through
+um yeah if i'm a
+quick announcement and a quick question
+so announcement
+on may 25 27 in washington d.c everscale
+is participating in the government
+blockchain association
+seminar for
+u.s lawmakers yes ladies and gentlemen
+we will be teaching congressmen and
+senators of the united states of america
+on blockchain
+so um a part of that uh seminar will be
+an art show a digital art show
+uh and a vote
+now everscale is conducting that vote
+and this will be the first ever in
+history 100 percent on chain
+end to end decentralized
+zero knowledge snark
+based voting
+thanks to all the people who are helping
+put that together so i would like all
+nft teams
+on everscale to come and present their
+works so that they can be voted on and
+support that event so
+please write to me all of you
+who do have nft-related projects i will
+help you um submit your works and make
+sure that they are voted on as well so
+25 27 of may uh the deadline to submit
+is a week before so basically this week
+i know everyone's busy but please pay
+attention
+and second uh just an announcement on
+another project um we definitely need uh
+some people who are experienced as i
+wrote in a message in the chat
+in uh rfld network nodes and in
+your last
+module so if you do have relevant
+publish please reach out we need your
+help thank you joanne back to you
+thank you very much eugene
+so our questions uh we're gonna have one
+for daniela if you're still around um
+somebody from youtube would like to know
+what do you mean by scam money and why
+is it dangerous
+uh yeah actually i just
+replied to
+um i think alex say
+so the scam money is actually the coins
+that were obtained by deception and uh
+the problem is you're asking why it's
+dangerous so the crypt and the money is
+not dangerous but it actually affect and
+impact to your wallet and um other
+centralized providers will see that
+these monies come from the dark part of
+the crypto and you just get banned
+that's all
+and there's nothing to worry about
+except being banned for your entire
+balance
+um yeah
+yeah
+okay and what will aml do after all
+transactions become private zk snarks is
+coming soon as i know
+actually i
+i
+i'm not get it um i know
+what is like private transaction because
+like uh if you're talking about the off
+chains you could do like any of change
+that you want
+but in sometimes you have you have to
+wind your money to your bank account or
+your credit card and to exchange your
+money to other crypto and in this point
+at this point you are have to dealing
+with the crypto exchange platforms in
+any case if even if they decentralize so
+at this case you will uh show them
+all that the money that you receive from
+the private transaction and they will
+like
+see is it okay or not anyway and they
+will decide is it ex
+accepted them or not
+indeed
+and last question is what if i receive
+money from a poisoned wallet then i
+return them all back in a short time
+will my wallet be spoiled as well or it
+will be fine as i returned all the money
+yeah actually so how's crypto crypto
+works uh so the crypto transaction is
+consists of the inputs and outputs yeah
+and if you're receiving for to your
+wallet this kind of spoiled inputs you
+have to be
+really really careful to send back the
+exact inputs that you just received
+because for example you just received
+100 uct and your world have 500 and you
+just
+send the 100 usd back but they actually
+mixed and you just sent
+like some parts of your money or even
+entire parts of your money and you just
+like mixed uh the spoiled money with
+your own and that's what your entire
+world gets get spoiled so you have to
+pick uh by hand the exact inputs that
+you just received and send them back in
+this case you you are safe but it's like
+not particular like your entire wallet
+you say if you have some reputation that
+you just receive this money and send
+them back it's some kind impact your
+wallet but not as much as you just like
+mix all this money and send it around to
+other other wallets
+yes
+worth checking first
+yeah
+and actually what i want wasn't
+mentioned that if you send money to the
+spoiled wallet uh as well your wallet
+can be spoiled because you are dealing
+with the
+um like illegal services
+so that's mean
+you have the bad reputation as well so
+be careful to send money
+yep
+okay thank you daniela i don't think we
+have any other questions
+once twice nope okay i think that's all
+thank you everybody for coming thank you
+for the great presentations and have a
+wonderful rest of your week
+thank you so much guys
+yeah bye bye
+bye

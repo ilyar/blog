@@ -1,0 +1,8311 @@
+1
+00:00:32,329 --> 00:00:37,370
+
+how can I hear
+
+2
+00:00:37,370 --> 00:00:37,380
+
+ 
+
+3
+00:00:37,380 --> 00:00:40,110
+
+so
+
+4
+00:00:40,110 --> 00:00:40,120
+so
+ 
+
+5
+00:00:40,120 --> 00:00:43,670
+so
+so you can’t hear
+
+6
+00:00:43,670 --> 00:00:43,680
+
+ 
+
+7
+00:00:43,680 --> 00:00:46,840
+
+he
+
+8
+00:00:46,840 --> 00:00:46,850
+
+ 
+
+9
+00:00:46,850 --> 00:00:50,090
+
+now gave her audible now audible
+
+10
+00:00:50,090 --> 00:00:50,100
+now gave her audible now audible
+ 
+
+11
+00:00:50,100 --> 00:00:53,190
+now gave her audible now audible
+now it went great
+
+12
+00:00:53,190 --> 00:00:53,200
+now it went great
+ 
+
+13
+00:00:53,200 --> 00:00:55,140
+now it went great
+ladies so I brought the presentation on the screen
+
+14
+00:00:55,140 --> 00:00:55,150
+ladies so I brought the presentation on the screen
+ 
+
+15
+00:00:55,150 --> 00:00:59,670
+ladies so I brought the presentation on the screen
+it’s visible yes it’s visible so let’s start with a small
+
+16
+00:00:59,670 --> 00:00:59,680
+it’s visible yes it’s visible so let’s start with a small
+ 
+
+17
+00:00:59,680 --> 00:01:02,490
+it’s visible yes it’s visible so let’s start with a small
+introduction welcome everyone to our ama
+
+18
+00:01:02,490 --> 00:01:02,500
+introduction welcome everyone to our ama
+ 
+
+19
+00:01:02,500 --> 00:01:05,369
+introduction welcome everyone to our ama
+session of crypto itself today us
+
+20
+00:01:05,369 --> 00:01:05,379
+session of crypto itself today us
+ 
+
+21
+00:01:05,379 --> 00:01:09,150
+session of crypto itself today us
+vladimir to the founder of crypto today
+
+22
+00:01:09,150 --> 00:01:09,160
+vladimir to the founder of crypto today
+ 
+
+23
+00:01:09,160 --> 00:01:12,780
+vladimir to the founder of crypto today
+in detail  he will tell you what he does in crypto
+
+24
+00:01:12,780 --> 00:01:12,790
+in detail  he will tell you what he does in crypto
+ 
+
+25
+00:01:12,790 --> 00:01:15,660
+in detail  he will tell you what he does in crypto
+in general, in general, he works and
+
+26
+00:01:15,660 --> 00:01:15,670
+in general, in general, he works and
+ 
+
+27
+00:01:15,670 --> 00:01:17,790
+in general, in general, he works and
+answer the questions of users who
+
+28
+00:01:17,790 --> 00:01:17,800
+answer the questions of users who
+ 
+
+29
+00:01:17,800 --> 00:01:19,710
+answer the questions of users who
+were sent and which you can ask
+
+30
+00:01:19,710 --> 00:01:19,720
+were sent and which you can ask
+ 
+
+31
+00:01:19,720 --> 00:01:22,100
+were sent and which you can ask
+now right on the u tube
+
+32
+00:01:22,100 --> 00:01:22,110
+now right on the u tube
+ 
+
+33
+00:01:22,110 --> 00:01:25,950
+now right on the u tube
+vladimir God bless
+
+34
+00:01:25,950 --> 00:01:29,030
+vladimir God bless
+ 
+
+35
+00:01:29,030 --> 00:01:29,040
+
+ 
+
+36
+00:01:29,040 --> 00:01:31,080
+
+you to introduce yourself and tell about the project for free thank you very much for the presentation,
+
+37
+00:01:31,080 --> 00:01:31,090
+you to introduce yourself and tell about the project for free thank you very much for the presentation,
+ 
+
+38
+00:01:31,090 --> 00:01:34,670
+you to introduce yourself and tell about the project for free thank you very much for the presentation,
+that's right, I'm one of the co-founders of the
+
+39
+00:01:34,670 --> 00:01:34,680
+that's right, I'm one of the co-founders of the
+ 
+
+40
+00:01:34,680 --> 00:01:37,350
+that's right, I'm one of the co-founders of the
+armelle company  crypto, we have
+
+41
+00:01:37,350 --> 00:01:37,360
+armelle company  crypto, we have
+ 
+
+42
+00:01:37,360 --> 00:01:41,880
+armelle company  crypto, we have
+several of our key products about
+
+43
+00:01:41,880 --> 00:01:41,890
+several of our key products about
+ 
+
+44
+00:01:41,890 --> 00:01:43,590
+several of our key products about
+one of them, today I will just
+
+45
+00:01:43,590 --> 00:01:43,600
+one of them, today I will just
+ 
+
+46
+00:01:43,600 --> 00:01:46,740
+one of them, today I will just
+tell you about a specific
+
+47
+00:01:46,740 --> 00:01:46,750
+tell you about a specific
+ 
+
+48
+00:01:46,750 --> 00:01:50,999
+tell you about a specific
+insight into the key features of this product, well
+
+49
+00:01:50,999 --> 00:01:51,009
+insight into the key features of this product, well
+ 
+
+50
+00:01:51,009 --> 00:01:53,730
+insight into the key features of this product, well
+, I will conduct a small demonstration of how
+
+51
+00:01:53,730 --> 00:01:53,740
+, I will conduct a small demonstration of how
+ 
+
+52
+00:01:53,740 --> 00:01:56,370
+, I will conduct a small demonstration of how
+it works in practice, and for those who do not
+
+53
+00:01:56,370 --> 00:01:56,380
+it works in practice, and for those who do not
+ 
+
+54
+00:01:56,380 --> 00:01:58,830
+it works in practice, and for those who do not
+know who we are, we are generally natives  from
+
+55
+00:01:58,830 --> 00:01:58,840
+know who we are, we are generally natives  from
+ 
+
+56
+00:01:58,840 --> 00:02:00,779
+know who we are, we are generally natives  from
+data analytics, in general, for many years we have
+
+57
+00:02:00,779 --> 00:02:00,789
+data analytics, in general, for many years we have
+ 
+
+58
+00:02:00,789 --> 00:02:02,370
+data analytics, in general, for many years we have
+implemented various  e analytical
+
+59
+00:02:02,370 --> 00:02:02,380
+implemented various  e analytical
+ 
+
+60
+00:02:02,380 --> 00:02:05,190
+implemented various  e analytical
+projects for large businesses from the
+
+61
+00:02:05,190 --> 00:02:05,200
+projects for large businesses from the
+ 
+
+62
+00:02:05,200 --> 00:02:06,779
+projects for large businesses from the
+banking industry
+
+63
+00:02:06,779 --> 00:02:06,789
+banking industry
+ 
+
+64
+00:02:06,789 --> 00:02:08,940
+banking industry
+from automotive structures from
+
+65
+00:02:08,940 --> 00:02:08,950
+from automotive structures from
+ 
+
+66
+00:02:08,950 --> 00:02:11,550
+from automotive structures from
+production and logistics and at the
+
+67
+00:02:11,550 --> 00:02:11,560
+production and logistics and at the
+ 
+
+68
+00:02:11,560 --> 00:02:12,320
+production and logistics and at the
+same time
+
+69
+00:02:12,320 --> 00:02:12,330
+same time
+ 
+
+70
+00:02:12,330 --> 00:02:14,850
+same time
+invested in various
+
+71
+00:02:14,850 --> 00:02:14,860
+invested in various
+ 
+
+72
+00:02:14,860 --> 00:02:17,040
+invested in various
+crypto projects, that is, it
+
+73
+00:02:17,040 --> 00:02:17,050
+crypto projects, that is, it
+ 
+
+74
+00:02:17,050 --> 00:02:18,809
+crypto projects, that is, it
+was quite close and familiar to us
+
+75
+00:02:18,809 --> 00:02:18,819
+was quite close and familiar to us
+ 
+
+76
+00:02:18,819 --> 00:02:21,780
+was quite close and familiar to us
+for a long time and our
+
+77
+00:02:21,780 --> 00:02:21,790
+for a long time and our
+ 
+
+78
+00:02:21,790 --> 00:02:23,880
+for a long time and our
+professional skills took place
+
+79
+00:02:23,880 --> 00:02:23,890
+professional skills took place
+ 
+
+80
+00:02:23,890 --> 00:02:26,270
+professional skills took place
+plus a team of these specialists  analysts
+
+81
+00:02:26,270 --> 00:02:26,280
+plus a team of these specialists  analysts
+ 
+
+82
+00:02:26,280 --> 00:02:28,130
+plus a team of these specialists  analysts
+allowed us
+
+83
+00:02:28,130 --> 00:02:28,140
+allowed us
+ 
+
+84
+00:02:28,140 --> 00:02:31,170
+allowed us
+to build a fairly series of effective
+
+85
+00:02:31,170 --> 00:02:31,180
+to build a fairly series of effective
+ 
+
+86
+00:02:31,180 --> 00:02:34,170
+to build a fairly series of effective
+dashboards for the Iberian la version
+
+87
+00:02:34,170 --> 00:02:34,180
+dashboards for the Iberian la version
+ 
+
+88
+00:02:34,180 --> 00:02:35,820
+dashboards for the Iberian la version
+just became for us such a certain
+
+89
+00:02:35,820 --> 00:02:35,830
+just became for us such a certain
+ 
+
+90
+00:02:35,830 --> 00:02:38,190
+just became for us such a certain
+testing ground that allowed us to
+
+91
+00:02:38,190 --> 00:02:38,200
+testing ground that allowed us to
+ 
+
+92
+00:02:38,200 --> 00:02:41,250
+testing ground that allowed us to
+implement the most daring ideas that you
+
+93
+00:02:41,250 --> 00:02:41,260
+implement the most daring ideas that you
+ 
+
+94
+00:02:41,260 --> 00:02:42,630
+implement the most daring ideas that you
+somehow implemented for our customers to one degree or another,
+
+95
+00:02:42,630 --> 00:02:42,640
+somehow implemented for our customers to one degree or another,
+ 
+
+96
+00:02:42,640 --> 00:02:44,850
+somehow implemented for our customers to one degree or another,
+and
+
+97
+00:02:44,850 --> 00:02:44,860
+and
+ 
+
+98
+00:02:44,860 --> 00:02:48,000
+and
+plus to realize something that, in principle, is not
+
+99
+00:02:48,000 --> 00:02:48,010
+plus to realize something that, in principle, is not
+ 
+
+100
+00:02:48,010 --> 00:02:50,370
+plus to realize something that, in principle, is not
+the customer always gave us the opportunity to
+
+101
+00:02:50,370 --> 00:02:50,380
+the customer always gave us the opportunity to
+ 
+
+102
+00:02:50,380 --> 00:02:52,230
+the customer always gave us the opportunity to
+realize due to certain
+
+103
+00:02:52,230 --> 00:02:52,240
+realize due to certain
+ 
+
+104
+00:02:52,240 --> 00:02:54,570
+realize due to certain
+commercial relations that we had with
+
+105
+00:02:54,570 --> 00:02:54,580
+commercial relations that we had with
+ 
+
+106
+00:02:54,580 --> 00:02:57,300
+commercial relations that we had with
+them here, but we allowed ourselves
+
+107
+00:02:57,300 --> 00:02:57,310
+them here, but we allowed ourselves
+ 
+
+108
+00:02:57,310 --> 00:03:00,990
+them here, but we allowed ourselves
+to create here, let me remind you what is called, in
+
+109
+00:03:00,990 --> 00:03:01,000
+to create here, let me remind you what is called, in
+ 
+
+110
+00:03:01,000 --> 00:03:03,030
+to create here, let me remind you what is called, in
+the end we found
+
+111
+00:03:03,030 --> 00:03:03,040
+the end we found
+ 
+
+112
+00:03:03,040 --> 00:03:05,280
+the end we found
+to do what we are very good at doing,
+
+113
+00:03:05,280 --> 00:03:05,290
+to do what we are very good at doing,
+ 
+
+114
+00:03:05,290 --> 00:03:08,560
+to do what we are very good at doing,
+we began to collect data, aggregate
+
+115
+00:03:08,560 --> 00:03:08,570
+we began to collect data, aggregate
+ 
+
+116
+00:03:08,570 --> 00:03:11,380
+we began to collect data, aggregate
+them, process both  quench from various
+
+117
+00:03:11,380 --> 00:03:11,390
+them, process both  quench from various
+ 
+
+118
+00:03:11,390 --> 00:03:13,630
+them, process both  quench from various
+sources, and moreover, we are talking
+
+119
+00:03:13,630 --> 00:03:13,640
+sources, and moreover, we are talking
+ 
+
+120
+00:03:13,640 --> 00:03:16,450
+sources, and moreover, we are talking
+not only about transactions that are visible in the
+
+121
+00:03:16,450 --> 00:03:16,460
+not only about transactions that are visible in the
+ 
+
+122
+00:03:16,460 --> 00:03:19,060
+not only about transactions that are visible in the
+blockchain, but in principle, various
+
+123
+00:03:19,060 --> 00:03:19,070
+blockchain, but in principle, various
+ 
+
+124
+00:03:19,070 --> 00:03:20,970
+blockchain, but in principle, various
+specialized telegram groups, open
+
+125
+00:03:20,970 --> 00:03:20,980
+specialized telegram groups, open
+ 
+
+126
+00:03:20,980 --> 00:03:24,310
+specialized telegram groups, open
+forums, and so on, and all these
+
+127
+00:03:24,310 --> 00:03:24,320
+forums, and so on, and all these
+ 
+
+128
+00:03:24,320 --> 00:03:25,810
+forums, and so on, and all these
+various sources that we have
+
+129
+00:03:25,810 --> 00:03:25,820
+various sources that we have
+ 
+
+130
+00:03:25,820 --> 00:03:27,520
+various sources that we have
+accumulated and recently exceeded
+
+131
+00:03:27,520 --> 00:03:27,530
+accumulated and recently exceeded
+ 
+
+132
+00:03:27,530 --> 00:03:30,790
+accumulated and recently exceeded
+a hundred at the moment  we built
+
+133
+00:03:30,790 --> 00:03:30,800
+a hundred at the moment  we built
+ 
+
+134
+00:03:30,800 --> 00:03:33,790
+a hundred at the moment  we built
+various cohorts, divided addresses into a
+
+135
+00:03:33,790 --> 00:03:33,800
+various cohorts, divided addresses into a
+ 
+
+136
+00:03:33,800 --> 00:03:36,160
+various cohorts, divided addresses into a
+cluster, and at some point in time
+
+137
+00:03:36,160 --> 00:03:36,170
+cluster, and at some point in time
+ 
+
+138
+00:03:36,170 --> 00:03:39,160
+cluster, and at some point in time
+we saw that we had so much data that
+
+139
+00:03:39,160 --> 00:03:39,170
+we saw that we had so much data that
+ 
+
+140
+00:03:39,170 --> 00:03:43,060
+we saw that we had so much data that
+it allows us to assemble a full-fledged
+
+141
+00:03:43,060 --> 00:03:43,070
+it allows us to assemble a full-fledged
+ 
+
+142
+00:03:43,070 --> 00:03:46,810
+it allows us to assemble a full-fledged
+commercial product and implement the
+
+143
+00:03:46,810 --> 00:03:46,820
+commercial product and implement the
+ 
+
+144
+00:03:46,820 --> 00:03:49,780
+commercial product and implement the
+ideas that we had, this
+
+145
+00:03:49,780 --> 00:03:49,790
+ideas that we had, this
+ 
+
+146
+00:03:49,790 --> 00:03:51,940
+ideas that we had, this
+product is called internal and the beholder
+
+147
+00:03:51,940 --> 00:03:51,950
+product is called internal and the beholder
+ 
+
+148
+00:03:51,950 --> 00:03:53,560
+product is called internal and the beholder
+is a tool  which allows you to
+
+149
+00:03:53,560 --> 00:03:53,570
+is a tool  which allows you to
+ 
+
+150
+00:03:53,570 --> 00:03:57,030
+is a tool  which allows you to
+analyze transactions and
+
+151
+00:03:57,030 --> 00:03:57,040
+analyze transactions and
+ 
+
+152
+00:03:57,040 --> 00:04:00,790
+analyze transactions and
+addresses of various project exercises,
+
+153
+00:04:00,790 --> 00:04:00,800
+addresses of various project exercises,
+ 
+
+154
+00:04:00,800 --> 00:04:02,680
+addresses of various project exercises,
+taking into account the fact that we initially built on the
+
+155
+00:04:02,680 --> 00:04:02,690
+taking into account the fact that we initially built on the
+ 
+
+156
+00:04:02,690 --> 00:04:04,870
+taking into account the fact that we initially built on the
+basis of be a platform the leading bay of platforms
+
+157
+00:04:04,870 --> 00:04:04,880
+basis of be a platform the leading bay of platforms
+ 
+
+158
+00:04:04,880 --> 00:04:08,110
+basis of be a platform the leading bay of platforms
+such as clixsense microsoft power bi, but
+
+159
+00:04:08,110 --> 00:04:08,120
+such as clixsense microsoft power bi, but
+ 
+
+160
+00:04:08,120 --> 00:04:10,509
+such as clixsense microsoft power bi, but
+at the moment we have gone much further,
+
+161
+00:04:10,509 --> 00:04:10,519
+at the moment we have gone much further,
+ 
+
+162
+00:04:10,519 --> 00:04:13,840
+at the moment we have gone much further,
+that is, all the developments that we are in the
+
+163
+00:04:13,840 --> 00:04:13,850
+that is, all the developments that we are in the
+ 
+
+164
+00:04:13,850 --> 00:04:15,970
+that is, all the developments that we are in the
+process of this way  realized
+
+165
+00:04:15,970 --> 00:04:15,980
+process of this way  realized
+ 
+
+166
+00:04:15,980 --> 00:04:19,270
+process of this way  realized
+we were allowed to create our full-fledged
+
+167
+00:04:19,270 --> 00:04:19,280
+we were allowed to create our full-fledged
+ 
+
+168
+00:04:19,280 --> 00:04:20,860
+we were allowed to create our full-fledged
+very strong  a product that allows you to
+
+169
+00:04:20,860 --> 00:04:20,870
+very strong  a product that allows you to
+ 
+
+170
+00:04:20,870 --> 00:04:23,580
+very strong  a product that allows you to
+conduct fairly deep
+
+171
+00:04:23,580 --> 00:04:23,590
+conduct fairly deep
+ 
+
+172
+00:04:23,590 --> 00:04:25,780
+conduct fairly deep
+investigations is a whole program an
+
+173
+00:04:25,780 --> 00:04:25,790
+investigations is a whole program an
+ 
+
+174
+00:04:25,790 --> 00:04:27,700
+investigations is a whole program an
+analytical system
+
+175
+00:04:27,700 --> 00:04:27,710
+analytical system
+ 
+
+176
+00:04:27,710 --> 00:04:30,880
+analytical system
+that actually sees where the funds go,
+
+177
+00:04:30,880 --> 00:04:30,890
+that actually sees where the funds go,
+ 
+
+178
+00:04:30,890 --> 00:04:32,940
+that actually sees where the funds go,
+it enriches with additional data
+
+179
+00:04:32,940 --> 00:04:32,950
+it enriches with additional data
+ 
+
+180
+00:04:32,950 --> 00:04:35,530
+it enriches with additional data
+what data I will show you a little later
+
+181
+00:04:35,530 --> 00:04:35,540
+what data I will show you a little later
+ 
+
+182
+00:04:35,540 --> 00:04:37,870
+what data I will show you a little later
+that as a result we
+
+183
+00:04:37,870 --> 00:04:37,880
+that as a result we
+ 
+
+184
+00:04:37,880 --> 00:04:41,500
+that as a result we
+get a visual graph of connections that
+
+185
+00:04:41,500 --> 00:04:41,510
+get a visual graph of connections that
+ 
+
+186
+00:04:41,510 --> 00:04:45,550
+get a visual graph of connections that
+allow you to conveniently analyze
+
+187
+00:04:45,550 --> 00:04:45,560
+allow you to conveniently analyze
+ 
+
+188
+00:04:45,560 --> 00:04:47,700
+allow you to conveniently analyze
+where the funds flow  and
+
+189
+00:04:47,700 --> 00:04:47,710
+where the funds flow  and
+ 
+
+190
+00:04:47,710 --> 00:04:50,710
+where the funds flow  and
+issue in the context of risk addresses via
+
+191
+00:04:50,710 --> 00:04:50,720
+issue in the context of risk addresses via
+ 
+
+192
+00:04:50,720 --> 00:04:54,450
+issue in the context of risk addresses via
+api so that our partners can
+
+193
+00:04:54,450 --> 00:04:54,460
+api so that our partners can
+ 
+
+194
+00:04:54,460 --> 00:04:57,690
+api so that our partners can
+verify the reliability of one or another
+
+195
+00:04:57,690 --> 00:04:57,700
+verify the reliability of one or another
+ 
+
+196
+00:04:57,700 --> 00:05:01,360
+verify the reliability of one or another
+counterparty On February 4 this year, we
+
+197
+00:05:01,360 --> 00:05:01,370
+counterparty On February 4 this year, we
+ 
+
+198
+00:05:01,370 --> 00:05:04,290
+counterparty On February 4 this year, we
+received a universal grant and since then
+
+199
+00:05:04,290 --> 00:05:04,300
+received a universal grant and since then
+ 
+
+200
+00:05:04,300 --> 00:05:07,420
+received a universal grant and since then
+quite a lot has been done to
+
+201
+00:05:07,420 --> 00:05:07,430
+quite a lot has been done to
+ 
+
+202
+00:05:07,430 --> 00:05:09,310
+quite a lot has been done to
+date, our team, including
+
+203
+00:05:09,310 --> 00:05:09,320
+date, our team, including
+ 
+
+204
+00:05:09,320 --> 00:05:11,020
+date, our team, including
+thirty-five permanent employees
+
+205
+00:05:11,020 --> 00:05:11,030
+thirty-five permanent employees
+ 
+
+206
+00:05:11,030 --> 00:05:13,300
+thirty-five permanent employees
+who work every day  work on the
+
+207
+00:05:13,300 --> 00:05:13,310
+who work every day  work on the
+ 
+
+208
+00:05:13,310 --> 00:05:16,150
+who work every day  work on the
+development of this project and what
+
+209
+00:05:16,150 --> 00:05:16,160
+development of this project and what
+ 
+
+210
+00:05:16,160 --> 00:05:17,980
+development of this project and what
+we get is the principle of a very strong
+
+211
+00:05:17,980 --> 00:05:17,990
+we get is the principle of a very strong
+ 
+
+212
+00:05:17,990 --> 00:05:20,110
+we get is the principle of a very strong
+drive 1
+
+213
+00:05:20,110 --> 00:05:20,120
+drive 1
+ 
+
+214
+00:05:20,120 --> 00:05:22,420
+drive 1
+what I would like to note when we talk
+
+215
+00:05:22,420 --> 00:05:22,430
+what I would like to note when we talk
+ 
+
+216
+00:05:22,430 --> 00:05:25,180
+what I would like to note when we talk
+about crypto users, for analysis,
+
+217
+00:05:25,180 --> 00:05:25,190
+about crypto users, for analysis,
+ 
+
+218
+00:05:25,190 --> 00:05:27,100
+about crypto users, for analysis,
+as a rule, they use scanners such
+
+219
+00:05:27,100 --> 00:05:27,110
+as a rule, they use scanners such
+ 
+
+220
+00:05:27,110 --> 00:05:30,400
+as a rule, they use scanners such
+as from orsk, such as blockchain trans
+
+221
+00:05:30,400 --> 00:05:30,410
+as from orsk, such as blockchain trans
+ 
+
+222
+00:05:30,410 --> 00:05:33,280
+as from orsk, such as blockchain trans
+can euro scan and  and so on, and the key
+
+223
+00:05:33,280 --> 00:05:33,290
+can euro scan and  and so on, and the key
+ 
+
+224
+00:05:33,290 --> 00:05:35,860
+can euro scan and  and so on, and the key
+issue of all these scanners
+
+225
+00:05:35,860 --> 00:05:35,870
+issue of all these scanners
+ 
+
+226
+00:05:35,870 --> 00:05:38,260
+issue of all these scanners
+is that sometimes there is a lot of data
+
+227
+00:05:38,260 --> 00:05:38,270
+is that sometimes there is a lot of data
+ 
+
+228
+00:05:38,270 --> 00:05:40,930
+is that sometimes there is a lot of data
+because of the addresses, it is not entirely
+
+229
+00:05:40,930 --> 00:05:40,940
+because of the addresses, it is not entirely
+ 
+
+230
+00:05:40,940 --> 00:05:43,390
+because of the addresses, it is not entirely
+clear who sent the funds where and it
+
+231
+00:05:43,390 --> 00:05:43,400
+clear who sent the funds where and it
+ 
+
+232
+00:05:43,400 --> 00:05:45,550
+clear who sent the funds where and it
+is very laborious to
+
+233
+00:05:45,550 --> 00:05:45,560
+is very laborious to
+ 
+
+234
+00:05:45,560 --> 00:05:46,830
+is very laborious to
+figure it out and
+
+235
+00:05:46,830 --> 00:05:46,840
+figure it out and
+ 
+
+236
+00:05:46,840 --> 00:05:49,950
+figure it out and
+we have not yet touched on the topic that
+
+237
+00:05:49,950 --> 00:05:49,960
+we have not yet touched on the topic that
+ 
+
+238
+00:05:49,960 --> 00:05:52,590
+we have not yet touched on the topic that
+users one way or another their tokens are
+
+239
+00:05:52,590 --> 00:05:52,600
+users one way or another their tokens are
+ 
+
+240
+00:05:52,600 --> 00:05:54,010
+users one way or another their tokens are
+users  one way or another they
+
+241
+00:05:54,010 --> 00:05:54,020
+users  one way or another they
+ 
+
+242
+00:05:54,020 --> 00:05:55,779
+users  one way or another they
+interact with various contracts with more
+
+243
+00:05:55,779 --> 00:05:55,789
+interact with various contracts with more
+ 
+
+244
+00:05:55,789 --> 00:05:58,090
+interact with various contracts with more
+contracts they send for validation
+
+245
+00:05:58,090 --> 00:05:58,100
+contracts they send for validation
+ 
+
+246
+00:05:58,100 --> 00:06:00,730
+contracts they send for validation
+they send musty king they
+
+247
+00:06:00,730 --> 00:06:00,740
+they send musty king they
+ 
+
+248
+00:06:00,740 --> 00:06:03,070
+they send musty king they
+send for farming they don’t send
+
+249
+00:06:03,070 --> 00:06:03,080
+send for farming they don’t send
+ 
+
+250
+00:06:03,080 --> 00:06:05,560
+send for farming they don’t send
+their funds to the dow in order to influence
+
+251
+00:06:05,560 --> 00:06:05,570
+their funds to the dow in order to influence
+ 
+
+252
+00:06:05,570 --> 00:06:09,060
+their funds to the dow in order to influence
+the decision that is made on the network and
+
+253
+00:06:09,060 --> 00:06:09,070
+the decision that is made on the network and
+ 
+
+254
+00:06:09,070 --> 00:06:11,230
+the decision that is made on the network and
+scanners become very difficult
+
+255
+00:06:11,230 --> 00:06:11,240
+scanners become very difficult
+ 
+
+256
+00:06:11,240 --> 00:06:13,810
+scanners become very difficult
+tools to understand what exactly
+
+257
+00:06:13,810 --> 00:06:13,820
+tools to understand what exactly
+ 
+
+258
+00:06:13,820 --> 00:06:17,080
+tools to understand what exactly
+happened without saying  about when you need to
+
+259
+00:06:17,080 --> 00:06:17,090
+happened without saying  about when you need to
+ 
+
+260
+00:06:17,090 --> 00:06:20,529
+happened without saying  about when you need to
+quickly find the relationship between addresses,
+
+261
+00:06:20,529 --> 00:06:20,539
+quickly find the relationship between addresses,
+ 
+
+262
+00:06:20,539 --> 00:06:22,830
+quickly find the relationship between addresses,
+quickly understand what exactly is happening, and
+
+263
+00:06:22,830 --> 00:06:22,840
+quickly understand what exactly is happening, and
+ 
+
+264
+00:06:22,840 --> 00:06:25,270
+quickly understand what exactly is happening, and
+in the connection graph it’s clear and just
+
+265
+00:06:25,270 --> 00:06:25,280
+in the connection graph it’s clear and just
+ 
+
+266
+00:06:25,280 --> 00:06:27,490
+in the connection graph it’s clear and just
+wedding that there is each circle, this is the
+
+267
+00:06:27,490 --> 00:06:27,500
+wedding that there is each circle, this is the
+ 
+
+268
+00:06:27,500 --> 00:06:29,920
+wedding that there is each circle, this is the
+vertex, conditionally speaking, the address and all the
+
+269
+00:06:29,920 --> 00:06:29,930
+vertex, conditionally speaking, the address and all the
+ 
+
+270
+00:06:29,930 --> 00:06:32,080
+vertex, conditionally speaking, the address and all the
+tokens that it sends the address of
+
+271
+00:06:32,080 --> 00:06:32,090
+tokens that it sends the address of
+ 
+
+272
+00:06:32,090 --> 00:06:34,870
+tokens that it sends the address of
+another address, we see seeing one line
+
+273
+00:06:34,870 --> 00:06:34,880
+another address, we see seeing one line
+ 
+
+274
+00:06:34,880 --> 00:06:36,760
+another address, we see seeing one line
+but at the same time  we can easily
+
+275
+00:06:36,760 --> 00:06:36,770
+but at the same time  we can easily
+ 
+
+276
+00:06:36,770 --> 00:06:38,650
+but at the same time  we can easily
+dive deeper and  see what
+
+277
+00:06:38,650 --> 00:06:38,660
+dive deeper and  see what
+ 
+
+278
+00:06:38,660 --> 00:06:40,629
+dive deeper and  see what
+transactions directly constituted this
+
+279
+00:06:40,629 --> 00:06:40,639
+transactions directly constituted this
+ 
+
+280
+00:06:40,639 --> 00:06:43,089
+transactions directly constituted this
+interaction if we have a two-way
+
+281
+00:06:43,089 --> 00:06:43,099
+interaction if we have a two-way
+ 
+
+282
+00:06:43,099 --> 00:06:44,770
+interaction if we have a two-way
+interaction, respectively, a double line
+
+283
+00:06:44,770 --> 00:06:44,780
+interaction, respectively, a double line
+ 
+
+284
+00:06:44,780 --> 00:06:46,150
+interaction, respectively, a double line
+will be at the expense of a line that
+
+285
+00:06:46,150 --> 00:06:46,160
+will be at the expense of a line that
+ 
+
+286
+00:06:46,160 --> 00:06:48,450
+will be at the expense of a line that
+displays the relationship of this
+
+287
+00:06:48,450 --> 00:06:48,460
+displays the relationship of this
+ 
+
+288
+00:06:48,460 --> 00:06:51,480
+displays the relationship of this
+address with other addresses, of
+
+289
+00:06:51,480 --> 00:06:51,490
+address with other addresses, of
+ 
+
+290
+00:06:51,490 --> 00:06:55,180
+address with other addresses, of
+course we have and not only faith
+
+291
+00:06:55,180 --> 00:06:55,190
+course we have and not only faith
+ 
+
+292
+00:06:55,190 --> 00:06:57,520
+course we have and not only faith
+, we have these three tokens which are
+
+293
+00:06:57,520 --> 00:06:57,530
+, we have these three tokens which are
+ 
+
+294
+00:06:57,530 --> 00:06:59,230
+, we have these three tokens which are
+quite a lot and very often it is
+
+295
+00:06:59,230 --> 00:06:59,240
+quite a lot and very often it is
+ 
+
+296
+00:06:59,240 --> 00:07:01,839
+quite a lot and very often it is
+necessary to understand  interaction, taking into account
+
+297
+00:07:01,839 --> 00:07:01,849
+necessary to understand  interaction, taking into account
+ 
+
+298
+00:07:01,849 --> 00:07:03,310
+necessary to understand  interaction, taking into account
+all this information that
+
+299
+00:07:03,310 --> 00:07:03,320
+all this information that
+ 
+
+300
+00:07:03,320 --> 00:07:06,070
+all this information that
+we currently have, we have implemented this story
+
+301
+00:07:06,070 --> 00:07:06,080
+we currently have, we have implemented this story
+ 
+
+302
+00:07:06,080 --> 00:07:08,170
+we currently have, we have implemented this story
+through equivalents, we
+
+303
+00:07:08,170 --> 00:07:08,180
+through equivalents, we
+ 
+
+304
+00:07:08,180 --> 00:07:10,839
+through equivalents, we
+directly bring type 3 tokens to dollars,
+
+305
+00:07:10,839 --> 00:07:10,849
+directly bring type 3 tokens to dollars,
+ 
+
+306
+00:07:10,849 --> 00:07:14,110
+directly bring type 3 tokens to dollars,
+we bring the carpet in accordance with the
+
+307
+00:07:14,110 --> 00:07:14,120
+we bring the carpet in accordance with the
+ 
+
+308
+00:07:14,120 --> 00:07:17,200
+we bring the carpet in accordance with the
+exchange rate on the date of the transaction and
+
+309
+00:07:17,200 --> 00:07:17,210
+exchange rate on the date of the transaction and
+ 
+
+310
+00:07:17,210 --> 00:07:19,210
+exchange rate on the date of the transaction and
+thus we see the equivalent of an example in
+
+311
+00:07:19,210 --> 00:07:19,220
+thus we see the equivalent of an example in
+ 
+
+312
+00:07:19,220 --> 00:07:21,010
+thus we see the equivalent of an example in
+dollars, how much one address sent to
+
+313
+00:07:21,010 --> 00:07:21,020
+dollars, how much one address sent to
+ 
+
+314
+00:07:21,020 --> 00:07:23,080
+dollars, how much one address sent to
+another  we see directly in what
+
+315
+00:07:23,080 --> 00:07:23,090
+another  we see directly in what
+ 
+
+316
+00:07:23,090 --> 00:07:25,510
+another  we see directly in what
+currency in this case here 1
+
+317
+00:07:25,510 --> 00:07:25,520
+currency in this case here 1
+ 
+
+318
+00:07:25,520 --> 00:07:28,450
+currency in this case here 1
+transaction was carried out in and sdt here
+
+319
+00:07:28,450 --> 00:07:28,460
+transaction was carried out in and sdt here
+ 
+
+320
+00:07:28,460 --> 00:07:30,040
+transaction was carried out in and sdt here
+we actually see the date when this
+
+321
+00:07:30,040 --> 00:07:30,050
+we actually see the date when this
+ 
+
+322
+00:07:30,050 --> 00:07:32,170
+we actually see the date when this
+happened we see which
+
+323
+00:07:32,170 --> 00:07:32,180
+happened we see which
+ 
+
+324
+00:07:32,180 --> 00:07:34,570
+happened we see which
+tokens directly interacted in the exchange between
+
+325
+00:07:34,570 --> 00:07:34,580
+tokens directly interacted in the exchange between
+ 
+
+326
+00:07:34,580 --> 00:07:37,059
+tokens directly interacted in the exchange between
+these two addresses when hovering the
+
+327
+00:07:37,059 --> 00:07:37,069
+these two addresses when hovering the
+ 
+
+328
+00:07:37,069 --> 00:07:40,150
+these two addresses when hovering the
+mouse cursor over each specific  th address,
+
+329
+00:07:40,150 --> 00:07:40,160
+mouse cursor over each specific  th address,
+ 
+
+330
+00:07:40,160 --> 00:07:42,219
+mouse cursor over each specific  th address,
+we will also see what
+
+331
+00:07:42,219 --> 00:07:42,229
+we will also see what
+ 
+
+332
+00:07:42,229 --> 00:07:44,200
+we will also see what
+balance it currently has and what is called an
+
+333
+00:07:44,200 --> 00:07:44,210
+balance it currently has and what is called an
+ 
+
+334
+00:07:44,210 --> 00:07:46,719
+balance it currently has and what is called an
+express such soon or what
+
+335
+00:07:46,719 --> 00:07:46,729
+express such soon or what
+ 
+
+336
+00:07:46,729 --> 00:07:48,999
+express such soon or what
+we currently have, and
+
+337
+00:07:48,999 --> 00:07:49,009
+we currently have, and
+ 
+
+338
+00:07:49,009 --> 00:07:51,820
+we currently have, and
+then a very interesting thing begins, we give
+
+339
+00:07:51,820 --> 00:07:51,830
+then a very interesting thing begins, we give
+ 
+
+340
+00:07:51,830 --> 00:07:53,770
+then a very interesting thing begins, we give
+detailed information about this
+
+341
+00:07:53,770 --> 00:07:53,780
+detailed information about this
+ 
+
+342
+00:07:53,780 --> 00:07:56,290
+detailed information about this
+address, and we issue information not
+
+343
+00:07:56,290 --> 00:07:56,300
+address, and we issue information not
+ 
+
+344
+00:07:56,300 --> 00:07:59,439
+address, and we issue information not
+only in  in the context of his current balances
+
+345
+00:07:59,439 --> 00:07:59,449
+only in  in the context of his current balances
+ 
+
+346
+00:07:59,449 --> 00:08:01,420
+only in  in the context of his current balances
+that he currently has
+
+347
+00:08:01,420 --> 00:08:01,430
+that he currently has
+ 
+
+348
+00:08:01,430 --> 00:08:03,370
+that he currently has
+in different tokens, but we display
+
+349
+00:08:03,370 --> 00:08:03,380
+in different tokens, but we display
+ 
+
+350
+00:08:03,380 --> 00:08:05,140
+in different tokens, but we display
+information, including how much
+
+351
+00:08:05,140 --> 00:08:05,150
+information, including how much
+ 
+
+352
+00:08:05,150 --> 00:08:07,300
+information, including how much
+specifically he has in farming,
+
+353
+00:08:07,300 --> 00:08:07,310
+specifically he has in farming,
+ 
+
+354
+00:08:07,310 --> 00:08:09,790
+specifically he has in farming,
+how much he sent to stating, how much he
+
+355
+00:08:09,790 --> 00:08:09,800
+how much he sent to stating, how much he
+ 
+
+356
+00:08:09,800 --> 00:08:11,260
+how much he sent to stating, how much he
+has directly in one type or another type
+
+357
+00:08:11,260 --> 00:08:11,270
+has directly in one type or another type
+ 
+
+358
+00:08:11,270 --> 00:08:13,330
+has directly in one type or another type
+3 currents are not located, we display
+
+359
+00:08:13,330 --> 00:08:13,340
+3 currents are not located, we display
+ 
+
+360
+00:08:13,340 --> 00:08:15,249
+3 currents are not located, we display
+information in the context of ari soon when the
+
+361
+00:08:15,249 --> 00:08:15,259
+information in the context of ari soon when the
+ 
+
+362
+00:08:15,259 --> 00:08:17,370
+information in the context of ari soon when the
+first transaction was made we
+
+363
+00:08:17,370 --> 00:08:17,380
+first transaction was made we
+ 
+
+364
+00:08:17,380 --> 00:08:19,860
+first transaction was made we
+structure it what we are really
+
+365
+00:08:19,860 --> 00:08:19,870
+structure it what we are really
+ 
+
+366
+00:08:19,870 --> 00:08:23,890
+structure it what we are really
+good at understanding it how to
+
+367
+00:08:23,890 --> 00:08:23,900
+good at understanding it how to
+ 
+
+368
+00:08:23,900 --> 00:08:26,140
+good at understanding it how to
+enrich the data in the end we
+
+369
+00:08:26,140 --> 00:08:26,150
+enrich the data in the end we
+ 
+
+370
+00:08:26,150 --> 00:08:29,439
+enrich the data in the end we
+display information who is behind this
+
+371
+00:08:29,439 --> 00:08:29,449
+display information who is behind this
+ 
+
+372
+00:08:29,449 --> 00:08:32,380
+display information who is behind this
+address and this information is
+
+373
+00:08:32,380 --> 00:08:32,390
+address and this information is
+ 
+
+374
+00:08:32,390 --> 00:08:34,029
+address and this information is
+very carefully
+
+375
+00:08:34,029 --> 00:08:34,039
+very carefully
+ 
+
+376
+00:08:34,039 --> 00:08:35,889
+very carefully
+verified by compliance officers they collect various
+
+377
+00:08:35,889 --> 00:08:35,899
+verified by compliance officers they collect various
+ 
+
+378
+00:08:35,899 --> 00:08:38,680
+verified by compliance officers they collect various
+sources there is  always a list of those
+
+379
+00:08:38,680 --> 00:08:38,690
+sources there is  always a list of those
+ 
+
+380
+00:08:38,690 --> 00:08:40,389
+sources there is  always a list of those
+sources that confirm
+
+381
+00:08:40,389 --> 00:08:40,399
+sources that confirm
+ 
+
+382
+00:08:40,399 --> 00:08:42,850
+sources that confirm
+whether this address belongs to one or
+
+383
+00:08:42,850 --> 00:08:42,860
+whether this address belongs to one or
+ 
+
+384
+00:08:42,860 --> 00:08:45,040
+whether this address belongs to one or
+another user, we have a
+
+385
+00:08:45,040 --> 00:08:45,050
+another user, we have a
+ 
+
+386
+00:08:45,050 --> 00:08:48,340
+another user, we have a
+fairly constant work of complaints
+
+387
+00:08:48,340 --> 00:08:48,350
+fairly constant work of complaints
+ 
+
+388
+00:08:48,350 --> 00:08:51,069
+fairly constant work of complaints
+officers from a research on the analysis of
+
+389
+00:08:51,069 --> 00:08:51,079
+officers from a research on the analysis of
+ 
+
+390
+00:08:51,079 --> 00:08:53,769
+officers from a research on the analysis of
+clustering this data, we see the
+
+391
+00:08:53,769 --> 00:08:53,779
+clustering this data, we see the
+ 
+
+392
+00:08:53,779 --> 00:08:56,199
+clustering this data, we see the
+historical balance of how it changed and we
+
+393
+00:08:56,199 --> 00:08:56,209
+historical balance of how it changed and we
+ 
+
+394
+00:08:56,209 --> 00:08:57,550
+historical balance of how it changed and we
+see directly with whom this
+
+395
+00:08:57,550 --> 00:08:57,560
+see directly with whom this
+ 
+
+396
+00:08:57,560 --> 00:09:00,660
+see directly with whom this
+user filtered, that is, with whom
+
+397
+00:09:00,660 --> 00:09:00,670
+user filtered, that is, with whom
+ 
+
+398
+00:09:00,670 --> 00:09:03,040
+user filtered, that is, with whom
+this address interacts and relatively
+
+399
+00:09:03,040 --> 00:09:03,050
+this address interacts and relatively
+ 
+
+400
+00:09:03,050 --> 00:09:04,990
+this address interacts and relatively
+speaking  where we believe that it
+
+401
+00:09:04,990 --> 00:09:05,000
+speaking  where we believe that it
+ 
+
+402
+00:09:05,000 --> 00:09:06,400
+speaking  where we believe that it
+has several examples of certain
+
+403
+00:09:06,400 --> 00:09:06,410
+has several examples of certain
+ 
+
+404
+00:09:06,410 --> 00:09:09,550
+has several examples of certain
+addresses, we certainly show
+
+405
+00:09:09,550 --> 00:09:09,560
+addresses, we certainly show
+ 
+
+406
+00:09:09,560 --> 00:09:11,290
+addresses, we certainly show
+information in the context of ri soon and we
+
+407
+00:09:11,290 --> 00:09:11,300
+information in the context of ri soon and we
+ 
+
+408
+00:09:11,300 --> 00:09:13,780
+information in the context of ri soon and we
+would like to show users how
+
+409
+00:09:13,780 --> 00:09:13,790
+would like to show users how
+ 
+
+410
+00:09:13,790 --> 00:09:16,449
+would like to show users how
+this risk was formed about from which
+
+411
+00:09:16,449 --> 00:09:16,459
+this risk was formed about from which
+ 
+
+412
+00:09:16,459 --> 00:09:18,790
+this risk was formed about from which
+other addresses with whom
+
+413
+00:09:18,790 --> 00:09:18,800
+other addresses with whom
+ 
+
+414
+00:09:18,800 --> 00:09:21,579
+other addresses with whom
+this address interacts in the process of work, how much
+
+415
+00:09:21,579 --> 00:09:21,589
+this address interacts in the process of work, how much
+ 
+
+416
+00:09:21,589 --> 00:09:22,960
+this address interacts in the process of work, how much
+it sends to other users
+
+417
+00:09:22,960 --> 00:09:22,970
+it sends to other users
+ 
+
+418
+00:09:22,970 --> 00:09:25,660
+it sends to other users
+how much he received from smart
+
+419
+00:09:25,660 --> 00:09:25,670
+how much he received from smart
+ 
+
+420
+00:09:25,670 --> 00:09:28,120
+how much he received from smart
+distribution contracts how much he sent to
+
+421
+00:09:28,120 --> 00:09:28,130
+distribution contracts how much he sent to
+ 
+
+422
+00:09:28,130 --> 00:09:29,440
+distribution contracts how much he sent to
+deepcool and how much he sent to
+
+423
+00:09:29,440 --> 00:09:29,450
+deepcool and how much he sent to
+ 
+
+424
+00:09:29,450 --> 00:09:31,720
+deepcool and how much he sent to
+farming how much he sent to many
+
+425
+00:09:31,720 --> 00:09:31,730
+farming how much he sent to many
+ 
+
+426
+00:09:31,730 --> 00:09:33,250
+farming how much he sent to many
+different sources and we blow what kind of
+
+427
+00:09:33,250 --> 00:09:33,260
+different sources and we blow what kind of
+ 
+
+428
+00:09:33,260 --> 00:09:35,500
+different sources and we blow what kind of
+holistic information and at the same time we also give the
+
+429
+00:09:35,500 --> 00:09:35,510
+holistic information and at the same time we also give the
+ 
+
+430
+00:09:35,510 --> 00:09:36,910
+holistic information and at the same time we also give the
+user the opportunity to
+
+431
+00:09:36,910 --> 00:09:36,920
+user the opportunity to
+ 
+
+432
+00:09:36,920 --> 00:09:38,850
+user the opportunity to
+look in the context of, for example,
+
+433
+00:09:38,850 --> 00:09:38,860
+look in the context of, for example,
+ 
+
+434
+00:09:38,860 --> 00:09:41,160
+look in the context of, for example,
+specific transactions and
+
+435
+00:09:41,160 --> 00:09:41,170
+specific transactions and
+ 
+
+436
+00:09:41,170 --> 00:09:43,740
+specific transactions and
+switch  to read an example in the context of tokens,
+
+437
+00:09:43,740 --> 00:09:43,750
+switch  to read an example in the context of tokens,
+ 
+
+438
+00:09:43,750 --> 00:09:47,019
+switch  to read an example in the context of tokens,
+how many people interacted with the dts union,
+
+439
+00:09:47,019 --> 00:09:47,029
+how many people interacted with the dts union,
+ 
+
+440
+00:09:47,029 --> 00:09:49,150
+how many people interacted with the dts union,
+how many interacted through give, and
+
+441
+00:09:49,150 --> 00:09:49,160
+how many interacted through give, and
+ 
+
+442
+00:09:49,160 --> 00:09:50,579
+how many interacted through give, and
+so on, the
+
+443
+00:09:50,579 --> 00:09:50,589
+so on, the
+ 
+
+444
+00:09:50,589 --> 00:09:53,740
+so on, the
+next block is just our very strong
+
+445
+00:09:53,740 --> 00:09:53,750
+next block is just our very strong
+ 
+
+446
+00:09:53,750 --> 00:09:56,800
+next block is just our very strong
+competence, this is aspen enrichment of
+
+447
+00:09:56,800 --> 00:09:56,810
+competence, this is aspen enrichment of
+ 
+
+448
+00:09:56,810 --> 00:09:58,740
+competence, this is aspen enrichment of
+information from open sources of
+
+449
+00:09:58,740 --> 00:09:58,750
+information from open sources of
+ 
+
+450
+00:09:58,750 --> 00:10:02,199
+information from open sources of
+information, we aggregate gigantic
+
+451
+00:10:02,199 --> 00:10:02,209
+information, we aggregate gigantic
+ 
+
+452
+00:10:02,209 --> 00:10:03,960
+information, we aggregate gigantic
+arrays of data, we with them verify their processed data, and
+
+453
+00:10:03,960 --> 00:10:05,650
+arrays of data, we with them verify their processed data, and
+ 
+
+454
+00:10:05,650 --> 00:10:05,660
+
+ 
+
+455
+00:10:05,660 --> 00:10:08,110
+
+ultimately structure them to give
+
+456
+00:10:08,110 --> 00:10:08,120
+ultimately structure them to give
+ 
+
+457
+00:10:08,120 --> 00:10:10,840
+ultimately structure them to give
+a holistic picture and the most remarkable thing in
+
+458
+00:10:10,840 --> 00:10:10,850
+a holistic picture and the most remarkable thing in
+ 
+
+459
+00:10:10,850 --> 00:10:12,940
+a holistic picture and the most remarkable thing in
+this story is that here we
+
+460
+00:10:12,940 --> 00:10:12,950
+this story is that here we
+ 
+
+461
+00:10:12,950 --> 00:10:15,040
+this story is that here we
+give our clients the opportunity to specify
+
+462
+00:10:15,040 --> 00:10:15,050
+give our clients the opportunity to specify
+ 
+
+463
+00:10:15,050 --> 00:10:17,710
+give our clients the opportunity to specify
+one or another address, mark it and the
+
+464
+00:10:17,710 --> 00:10:17,720
+one or another address, mark it and the
+ 
+
+465
+00:10:17,720 --> 00:10:19,720
+one or another address, mark it and the
+system will tell him, possibly based
+
+466
+00:10:19,720 --> 00:10:19,730
+system will tell him, possibly based
+ 
+
+467
+00:10:19,730 --> 00:10:20,889
+system will tell him, possibly based
+on the entered data,
+
+468
+00:10:20,889 --> 00:10:20,899
+on the entered data,
+ 
+
+469
+00:10:20,899 --> 00:10:23,170
+on the entered data,
+additional information that he
+
+470
+00:10:23,170 --> 00:10:23,180
+additional information that he
+ 
+
+471
+00:10:23,180 --> 00:10:25,810
+additional information that he
+did not know, for example, in which groups the
+
+472
+00:10:25,810 --> 00:10:25,820
+did not know, for example, in which groups the
+ 
+
+473
+00:10:25,820 --> 00:10:28,269
+did not know, for example, in which groups the
+user is in which data he has
+
+474
+00:10:28,269 --> 00:10:28,279
+user is in which data he has
+ 
+
+475
+00:10:28,279 --> 00:10:30,780
+user is in which data he has
+interests based on various sources
+
+476
+00:10:30,780 --> 00:10:30,790
+interests based on various sources
+ 
+
+477
+00:10:30,790 --> 00:10:34,329
+interests based on various sources
+and, accordingly, will create a more
+
+478
+00:10:34,329 --> 00:10:34,339
+and, accordingly, will create a more
+ 
+
+479
+00:10:34,339 --> 00:10:36,670
+and, accordingly, will create a more
+consistent impression regarding the
+
+480
+00:10:36,670 --> 00:10:36,680
+consistent impression regarding the
+ 
+
+481
+00:10:36,680 --> 00:10:39,030
+consistent impression regarding the
+counterparty with whom he works.
+
+482
+00:10:39,030 --> 00:10:42,340
+counterparty with whom he works.
+ 
+
+483
+00:10:42,340 --> 00:10:42,350
+
+ 
+
+484
+00:10:42,350 --> 00:10:43,650
+
+
+485
+00:10:43,650 --> 00:10:45,370
+
+ 
+
+486
+00:10:45,370 --> 00:10:47,889
+
+ 
+
+487
+00:10:47,889 --> 00:10:47,899
+
+ 
+
+488
+00:10:47,899 --> 00:10:51,250
+
+it is also useful to google this or
+
+489
+00:10:51,250 --> 00:10:51,260
+it is also useful to google this or
+ 
+
+490
+00:10:51,260 --> 00:10:53,110
+it is also useful to google this or
+that address and we do it for the
+
+491
+00:10:53,110 --> 00:10:53,120
+that address and we do it for the
+ 
+
+492
+00:10:53,120 --> 00:10:55,870
+that address and we do it for the
+user automatically, we issue
+
+493
+00:10:55,870 --> 00:10:55,880
+user automatically, we issue
+ 
+
+494
+00:10:55,880 --> 00:10:57,790
+user automatically, we issue
+information in the context of the given address
+
+495
+00:10:57,790 --> 00:10:57,800
+information in the context of the given address
+ 
+
+496
+00:10:57,800 --> 00:11:00,069
+information in the context of the given address
+that we are currently viewing from the point of
+
+497
+00:11:00,069 --> 00:11:00,079
+that we are currently viewing from the point of
+ 
+
+498
+00:11:00,079 --> 00:11:02,260
+that we are currently viewing from the point of
+view of issuance in the same Google and
+
+499
+00:11:02,260 --> 00:11:02,270
+view of issuance in the same Google and
+ 
+
+500
+00:11:02,270 --> 00:11:05,440
+view of issuance in the same Google and
+plus the mention of this address or
+
+501
+00:11:05,440 --> 00:11:05,450
+plus the mention of this address or
+ 
+
+502
+00:11:05,450 --> 00:11:07,540
+plus the mention of this address or
+this user in various so
+
+503
+00:11:07,540 --> 00:11:07,550
+this user in various so
+ 
+
+504
+00:11:07,550 --> 00:11:09,250
+this user in various so
+-called data links which  it also allows us
+
+505
+00:11:09,250 --> 00:11:09,260
+-called data links which  it also allows us
+ 
+
+506
+00:11:09,260 --> 00:11:12,069
+-called data links which  it also allows us
+to enrich our information that we
+
+507
+00:11:12,069 --> 00:11:12,079
+to enrich our information that we
+ 
+
+508
+00:11:12,079 --> 00:11:15,010
+to enrich our information that we
+know about the person we have done quite a
+
+509
+00:11:15,010 --> 00:11:15,020
+know about the person we have done quite a
+ 
+
+510
+00:11:15,020 --> 00:11:17,670
+know about the person we have done quite a
+lot and what we have done
+
+511
+00:11:17,670 --> 00:11:17,680
+lot and what we have done
+ 
+
+512
+00:11:17,680 --> 00:11:19,840
+lot and what we have done
+makes me quite proud of
+
+513
+00:11:19,840 --> 00:11:19,850
+makes me quite proud of
+ 
+
+514
+00:11:19,850 --> 00:11:23,889
+makes me quite proud of
+our product when we showed this
+
+515
+00:11:23,889 --> 00:11:23,899
+our product when we showed this
+ 
+
+516
+00:11:23,899 --> 00:11:26,290
+our product when we showed this
+product to our partners there is a
+
+517
+00:11:26,290 --> 00:11:26,300
+product to our partners there is a
+ 
+
+518
+00:11:26,300 --> 00:11:27,400
+product to our partners there is a
+leading analytical platform
+
+519
+00:11:27,400 --> 00:11:27,410
+leading analytical platform
+ 
+
+520
+00:11:27,410 --> 00:11:30,880
+leading analytical platform
+clixsense when they saw the whole thing
+
+521
+00:11:30,880 --> 00:11:30,890
+clixsense when they saw the whole thing
+ 
+
+522
+00:11:30,890 --> 00:11:33,400
+clixsense when they saw the whole thing
+they invited us as  the speaker to
+
+523
+00:11:33,400 --> 00:11:33,410
+they invited us as  the speaker to
+ 
+
+524
+00:11:33,410 --> 00:11:35,610
+they invited us as  the speaker to
+present here the product that we
+
+525
+00:11:35,610 --> 00:11:35,620
+present here the product that we
+ 
+
+526
+00:11:35,620 --> 00:11:38,170
+present here the product that we
+got in Kazakhstan, we again
+
+527
+00:11:38,170 --> 00:11:38,180
+got in Kazakhstan, we again
+ 
+
+528
+00:11:38,180 --> 00:11:40,420
+got in Kazakhstan, we again
+flew the sultan killed, showed how we
+
+529
+00:11:40,420 --> 00:11:40,430
+flew the sultan killed, showed how we
+ 
+
+530
+00:11:40,430 --> 00:11:42,670
+flew the sultan killed, showed how we
+conduct crypt investigation of hard
+
+531
+00:11:42,670 --> 00:11:42,680
+conduct crypt investigation of hard
+ 
+
+532
+00:11:42,680 --> 00:11:44,290
+conduct crypt investigation of hard
+incidents, how we analyze and
+
+533
+00:11:44,290 --> 00:11:44,300
+incidents, how we analyze and
+ 
+
+534
+00:11:44,300 --> 00:11:45,689
+incidents, how we analyze and
+
+535
+00:11:45,689 --> 00:11:45,699
+
+ 
+
+536
+00:11:45,699 --> 00:11:48,610
+
+pasteurize certain addresses 2 hours, we did not
+
+537
+00:11:48,610 --> 00:11:48,620
+pasteurize certain addresses 2 hours, we did not
+ 
+
+538
+00:11:48,620 --> 00:11:51,519
+pasteurize certain addresses 2 hours, we did not
+participate in the second quarter in the
+
+539
+00:11:51,519 --> 00:11:51,529
+participate in the second quarter in the
+ 
+
+540
+00:11:51,529 --> 00:11:54,009
+participate in the second quarter in the
+conference technician what was held in
+
+541
+00:11:54,009 --> 00:11:54,019
+conference technician what was held in
+ 
+
+542
+00:11:54,019 --> 00:11:55,750
+conference technician what was held in
+Moscow  at  we have implemented a lot of
+
+543
+00:11:55,750 --> 00:11:55,760
+Moscow  at  we have implemented a lot of
+ 
+
+544
+00:11:55,760 --> 00:11:58,930
+Moscow  at  we have implemented a lot of
+things initially, in general, this
+
+545
+00:11:58,930 --> 00:11:58,940
+things initially, in general, this
+ 
+
+546
+00:11:58,940 --> 00:12:00,910
+things initially, in general, this
+product was built on the basis of the bio platform,
+
+547
+00:12:00,910 --> 00:12:00,920
+product was built on the basis of the bio platform,
+ 
+
+548
+00:12:00,920 --> 00:12:03,759
+product was built on the basis of the bio platform,
+but it has long gone beyond the
+
+549
+00:12:03,759 --> 00:12:03,769
+but it has long gone beyond the
+ 
+
+550
+00:12:03,769 --> 00:12:05,740
+but it has long gone beyond the
+bio platform as such, we have implemented
+
+551
+00:12:05,740 --> 00:12:05,750
+bio platform as such, we have implemented
+ 
+
+552
+00:12:05,750 --> 00:12:07,420
+bio platform as such, we have implemented
+our own functionality, our own
+
+553
+00:12:07,420 --> 00:12:07,430
+our own functionality, our own
+ 
+
+554
+00:12:07,430 --> 00:12:09,610
+our own functionality, our own
+platform, which allows an increment to
+
+555
+00:12:09,610 --> 00:12:09,620
+platform, which allows an increment to
+ 
+
+556
+00:12:09,620 --> 00:12:11,350
+platform, which allows an increment to
+load data in the context of a transaction
+
+557
+00:12:11,350 --> 00:12:11,360
+load data in the context of a transaction
+ 
+
+558
+00:12:11,360 --> 00:12:13,000
+load data in the context of a transaction
+in order to ensure a high
+
+559
+00:12:13,000 --> 00:12:13,010
+in order to ensure a high
+ 
+
+560
+00:12:13,010 --> 00:12:15,009
+in order to ensure a high
+speed of loading information, we
+
+561
+00:12:15,009 --> 00:12:15,019
+speed of loading information, we
+ 
+
+562
+00:12:15,019 --> 00:12:17,440
+speed of loading information, we
+implemented the possibility of saving the
+
+563
+00:12:17,440 --> 00:12:17,450
+implemented the possibility of saving the
+ 
+
+564
+00:12:17,450 --> 00:12:19,389
+implemented the possibility of saving the
+created investigation when we
+
+565
+00:12:19,389 --> 00:12:19,399
+created investigation when we
+ 
+
+566
+00:12:19,399 --> 00:12:21,400
+created investigation when we
+conduct some kind of audit so
+
+567
+00:12:21,400 --> 00:12:21,410
+conduct some kind of audit so
+ 
+
+568
+00:12:21,410 --> 00:12:23,110
+conduct some kind of audit so
+that all this can be saved and returned
+
+569
+00:12:23,110 --> 00:12:23,120
+that all this can be saved and returned
+ 
+
+570
+00:12:23,120 --> 00:12:25,600
+that all this can be saved and returned
+to it a little later, we have connected,
+
+571
+00:12:25,600 --> 00:12:25,610
+to it a little later, we have connected,
+ 
+
+572
+00:12:25,610 --> 00:12:28,180
+to it a little later, we have connected,
+in addition to the euro, also various types of inflows by
+
+573
+00:12:28,180 --> 00:12:28,190
+in addition to the euro, also various types of inflows by
+ 
+
+574
+00:12:28,190 --> 00:12:30,490
+in addition to the euro, also various types of inflows by
+us now and we are connecting a number of
+
+575
+00:12:30,490 --> 00:12:30,500
+us now and we are connecting a number of
+ 
+
+576
+00:12:30,500 --> 00:12:33,069
+us now and we are connecting a number of
+blockchains, we have created an api for our
+
+577
+00:12:33,069 --> 00:12:33,079
+blockchains, we have created an api for our
+ 
+
+578
+00:12:33,079 --> 00:12:34,120
+blockchains, we have created an api for our
+clients in order to  they could
+
+579
+00:12:34,120 --> 00:12:34,130
+clients in order to  they could
+ 
+
+580
+00:12:34,130 --> 00:12:37,389
+clients in order to  they could
+receive certain risks this quarter
+
+581
+00:12:37,389 --> 00:12:37,399
+receive certain risks this quarter
+ 
+
+582
+00:12:37,399 --> 00:12:41,680
+receive certain risks this quarter
+3 is also going quite well we have
+
+583
+00:12:41,680 --> 00:12:41,690
+3 is also going quite well we have
+ 
+
+584
+00:12:41,690 --> 00:12:43,329
+3 is also going quite well we have
+already scheduled for september and the
+
+585
+00:12:43,329 --> 00:12:43,339
+already scheduled for september and the
+ 
+
+586
+00:12:43,339 --> 00:12:45,460
+already scheduled for september and the
+arrivals in baku in tashkent with this
+
+587
+00:12:45,460 --> 00:12:45,470
+arrivals in baku in tashkent with this
+ 
+
+588
+00:12:45,470 --> 00:12:49,030
+arrivals in baku in tashkent with this
+product in october and november we
+
+589
+00:12:49,030 --> 00:12:49,040
+product in october and november we
+ 
+
+590
+00:12:49,040 --> 00:12:51,100
+product in october and november we
+have planned london and moscow with
+
+591
+00:12:51,100 --> 00:12:51,110
+have planned london and moscow with
+ 
+
+592
+00:12:51,110 --> 00:12:53,199
+have planned london and moscow with
+performances where we will present the
+
+593
+00:12:53,199 --> 00:12:53,209
+performances where we will present the
+ 
+
+594
+00:12:53,209 --> 00:12:56,190
+performances where we will present the
+whole thing in order to
+
+595
+00:12:56,190 --> 00:12:58,660
+whole thing in order to
+ 
+
+596
+00:12:58,660 --> 00:12:58,670
+
+ 
+
+597
+00:12:58,670 --> 00:13:01,750
+
+we are also negotiating with our
+
+598
+00:13:01,750 --> 00:13:01,760
+we are also negotiating with our
+ 
+
+599
+00:13:01,760 --> 00:13:03,940
+we are also negotiating with our
+colleagues, we are not sure within this
+
+600
+00:13:03,940 --> 00:13:03,950
+colleagues, we are not sure within this
+ 
+
+601
+00:13:03,950 --> 00:13:06,250
+colleagues, we are not sure within this
+portal, these negotiations have been successfully completed
+
+602
+00:13:06,250 --> 00:13:06,260
+portal, these negotiations have been successfully completed
+ 
+
+603
+00:13:06,260 --> 00:13:09,160
+portal, these negotiations have been successfully completed
+in order to provide risks in the
+
+604
+00:13:09,160 --> 00:13:09,170
+in order to provide risks in the
+ 
+
+605
+00:13:09,170 --> 00:13:13,210
+in order to provide risks in the
+context of those addresses of those blockchains with
+
+606
+00:13:13,210 --> 00:13:13,220
+context of those addresses of those blockchains with
+ 
+
+607
+00:13:13,220 --> 00:13:15,610
+context of those addresses of those blockchains with
+which they currently interact
+
+608
+00:13:15,610 --> 00:13:15,620
+which they currently interact
+ 
+
+609
+00:13:15,620 --> 00:13:18,400
+which they currently interact
+and r scale through bridges and to the
+
+610
+00:13:18,400 --> 00:13:18,410
+and r scale through bridges and to the
+ 
+
+611
+00:13:18,410 --> 00:13:20,440
+and r scale through bridges and to the
+current  we have not marked the moment yet,
+
+612
+00:13:20,440 --> 00:13:20,450
+current  we have not marked the moment yet,
+ 
+
+613
+00:13:20,450 --> 00:13:22,210
+current  we have not marked the moment yet,
+but it is a matter of time, of course, when
+
+614
+00:13:22,210 --> 00:13:22,220
+but it is a matter of time, of course, when
+ 
+
+615
+00:13:22,220 --> 00:13:24,340
+but it is a matter of time, of course, when
+we will start marking, but already at the current
+
+616
+00:13:24,340 --> 00:13:24,350
+we will start marking, but already at the current
+ 
+
+617
+00:13:24,350 --> 00:13:26,079
+we will start marking, but already at the current
+moment, at the final stage, such
+
+618
+00:13:26,079 --> 00:13:26,089
+moment, at the final stage, such
+ 
+
+619
+00:13:26,089 --> 00:13:28,420
+moment, at the final stage, such
+negotiations are underway, we have a
+
+620
+00:13:28,420 --> 00:13:28,430
+negotiations are underway, we have a
+ 
+
+621
+00:13:28,430 --> 00:13:32,069
+negotiations are underway, we have a
+lot of work processes related to the
+
+622
+00:13:32,069 --> 00:13:32,079
+lot of work processes related to the
+ 
+
+623
+00:13:32,079 --> 00:13:34,930
+lot of work processes related to the
+improvement of ari models, soon,
+
+624
+00:13:34,930 --> 00:13:34,940
+improvement of ari models, soon,
+ 
+
+625
+00:13:34,940 --> 00:13:37,660
+improvement of ari models, soon,
+taking into account quite a lot of factors
+
+626
+00:13:37,660 --> 00:13:37,670
+taking into account quite a lot of factors
+ 
+
+627
+00:13:37,670 --> 00:13:39,939
+taking into account quite a lot of factors
+, we will eventually lead to  models where
+
+628
+00:13:39,939 --> 00:13:39,949
+, we will eventually lead to  models where
+ 
+
+629
+00:13:39,949 --> 00:13:42,939
+, we will eventually lead to  models where
+for each partner there will be a flexible model
+
+630
+00:13:42,939 --> 00:13:42,949
+for each partner there will be a flexible model
+ 
+
+631
+00:13:42,949 --> 00:13:44,860
+for each partner there will be a flexible model
+re soon that they can independently
+
+632
+00:13:44,860 --> 00:13:44,870
+re soon that they can independently
+ 
+
+633
+00:13:44,870 --> 00:13:47,590
+re soon that they can independently
+build for themselves what they specifically
+
+634
+00:13:47,590 --> 00:13:47,600
+build for themselves what they specifically
+ 
+
+635
+00:13:47,600 --> 00:13:49,720
+build for themselves what they specifically
+need, how they perceive
+
+636
+00:13:49,720 --> 00:13:49,730
+need, how they perceive
+ 
+
+637
+00:13:49,730 --> 00:13:52,060
+need, how they perceive
+certain categories of addresses, for example, this is the
+
+638
+00:13:52,060 --> 00:13:52,070
+certain categories of addresses, for example, this is the
+ 
+
+639
+00:13:52,070 --> 00:13:55,180
+certain categories of addresses, for example, this is the
+same gambling and so on, we are very
+
+640
+00:13:55,180 --> 00:13:55,190
+same gambling and so on, we are very
+ 
+
+641
+00:13:55,190 --> 00:13:57,579
+same gambling and so on, we are very
+actively enriching with various data sets
+
+642
+00:13:57,579 --> 00:13:57,589
+actively enriching with various data sets
+ 
+
+643
+00:13:57,589 --> 00:14:00,579
+actively enriching with various data sets
+and marked out simply  huge
+
+644
+00:14:00,579 --> 00:14:00,589
+and marked out simply  huge
+ 
+
+645
+00:14:00,589 --> 00:14:02,860
+and marked out simply  huge
+number of addresses  various smart
+
+646
+00:14:02,860 --> 00:14:02,870
+number of addresses  various smart
+ 
+
+647
+00:14:02,870 --> 00:14:04,260
+number of addresses  various smart
+contracts of
+
+648
+00:14:04,260 --> 00:14:04,270
+contracts of
+ 
+
+649
+00:14:04,270 --> 00:14:07,300
+contracts of
+couples that you are currently spinning are
+
+650
+00:14:07,300 --> 00:14:07,310
+couples that you are currently spinning are
+ 
+
+651
+00:14:07,310 --> 00:14:09,639
+couples that you are currently spinning are
+happening and this work is happening
+
+652
+00:14:09,639 --> 00:14:09,649
+happening and this work is happening
+ 
+
+653
+00:14:09,649 --> 00:14:12,190
+happening and this work is happening
+every day 35 people
+
+654
+00:14:12,190 --> 00:14:12,200
+every day 35 people
+ 
+
+655
+00:14:12,200 --> 00:14:15,430
+every day 35 people
+are working on this product every day and we
+
+656
+00:14:15,430 --> 00:14:15,440
+are working on this product every day and we
+ 
+
+657
+00:14:15,440 --> 00:14:17,800
+are working on this product every day and we
+also have very high expectations of the action of
+
+658
+00:14:17,800 --> 00:14:17,810
+also have very high expectations of the action of
+ 
+
+659
+00:14:17,810 --> 00:14:20,260
+also have very high expectations of the action of
+what will happen next, in
+
+660
+00:14:20,260 --> 00:14:20,270
+what will happen next, in
+ 
+
+661
+00:14:20,270 --> 00:14:23,580
+what will happen next, in
+addition to the noted conferences, we also
+
+662
+00:14:23,580 --> 00:14:23,590
+addition to the noted conferences, we also
+ 
+
+663
+00:14:23,590 --> 00:14:26,440
+addition to the noted conferences, we also
+finalize the product so that the results of ri
+
+664
+00:14:26,440 --> 00:14:26,450
+finalize the product so that the results of ri
+ 
+
+665
+00:14:26,450 --> 00:14:27,790
+finalize the product so that the results of ri
+soon, which our
+
+666
+00:14:27,790 --> 00:14:27,800
+soon, which our
+ 
+
+667
+00:14:27,800 --> 00:14:30,580
+soon, which our
+users request was recorded in the blockchain, this
+
+668
+00:14:30,580 --> 00:14:30,590
+users request was recorded in the blockchain, this
+ 
+
+669
+00:14:30,590 --> 00:14:32,610
+users request was recorded in the blockchain, this
+can be very important so that
+
+670
+00:14:32,610 --> 00:14:32,620
+can be very important so that
+ 
+
+671
+00:14:32,620 --> 00:14:35,620
+can be very important so that
+after a while if you are asked
+
+672
+00:14:35,620 --> 00:14:35,630
+after a while if you are asked
+ 
+
+673
+00:14:35,630 --> 00:14:38,040
+after a while if you are asked
+why you decided to work with this or that
+
+674
+00:14:38,040 --> 00:14:38,050
+why you decided to work with this or that
+ 
+
+675
+00:14:38,050 --> 00:14:40,390
+why you decided to work with this or that
+address, so that you can show
+
+676
+00:14:40,390 --> 00:14:40,400
+address, so that you can show
+ 
+
+677
+00:14:40,400 --> 00:14:42,730
+address, so that you can show
+that in the past I checked this address
+
+678
+00:14:42,730 --> 00:14:42,740
+that in the past I checked this address
+ 
+
+679
+00:14:42,740 --> 00:14:45,370
+that in the past I checked this address
+and it had a good iori indicator
+
+680
+00:14:45,370 --> 00:14:45,380
+and it had a good iori indicator
+ 
+
+681
+00:14:45,380 --> 00:14:49,050
+and it had a good iori indicator
+soon we are improving the
+
+682
+00:14:49,050 --> 00:14:49,060
+soon we are improving the
+ 
+
+683
+00:14:49,060 --> 00:14:52,320
+soon we are improving the
+calculation model so that everything works even faster
+
+684
+00:14:52,320 --> 00:14:52,330
+calculation model so that everything works even faster
+ 
+
+685
+00:14:52,330 --> 00:14:55,270
+calculation model so that everything works even faster
+we are moving towards other
+
+686
+00:14:55,270 --> 00:14:55,280
+we are moving towards other
+ 
+
+687
+00:14:55,280 --> 00:14:58,200
+we are moving towards other
+project exercises we automate as much as possible
+
+688
+00:14:58,200 --> 00:14:58,210
+project exercises we automate as much as possible
+ 
+
+689
+00:14:58,210 --> 00:15:00,820
+project exercises we automate as much as possible
+we will enable our users to
+
+690
+00:15:00,820 --> 00:15:00,830
+we will enable our users to
+ 
+
+691
+00:15:00,830 --> 00:15:03,250
+we will enable our users to
+log in using their crypto address
+
+692
+00:15:03,250 --> 00:15:03,260
+log in using their crypto address
+ 
+
+693
+00:15:03,260 --> 00:15:05,410
+log in using their crypto address
+without entering a login password and
+
+694
+00:15:05,410 --> 00:15:05,420
+without entering a login password and
+ 
+
+695
+00:15:05,420 --> 00:15:07,840
+without entering a login password and
+many many many other things we have
+
+696
+00:15:07,840 --> 00:15:07,850
+many many many other things we have
+ 
+
+697
+00:15:07,850 --> 00:15:10,030
+many many many other things we have
+planned as part of the fact that  we
+
+698
+00:15:10,030 --> 00:15:10,040
+planned as part of the fact that  we
+ 
+
+699
+00:15:10,040 --> 00:15:12,670
+planned as part of the fact that  we
+are doing, we have come
+
+700
+00:15:12,670 --> 00:15:12,680
+are doing, we have come
+ 
+
+701
+00:15:12,680 --> 00:15:15,220
+are doing, we have come
+a long way in terms of
+
+702
+00:15:15,220 --> 00:15:15,230
+a long way in terms of
+ 
+
+703
+00:15:15,230 --> 00:15:16,110
+a long way in terms of
+implementation,
+
+704
+00:15:16,110 --> 00:15:16,120
+implementation,
+ 
+
+705
+00:15:16,120 --> 00:15:18,700
+implementation,
+plus we
+
+706
+00:15:18,700 --> 00:15:18,710
+plus we
+ 
+
+707
+00:15:18,710 --> 00:15:23,200
+plus we
+have also created a small to be
+
+708
+00:15:23,200 --> 00:15:23,210
+have also created a small to be
+ 
+
+709
+00:15:23,210 --> 00:15:26,560
+have also created a small to be
+both for our users, which allows you to
+
+710
+00:15:26,560 --> 00:15:26,570
+both for our users, which allows you to
+ 
+
+711
+00:15:26,570 --> 00:15:29,260
+both for our users, which allows you to
+mark up this or that address if you wish, this
+
+712
+00:15:29,260 --> 00:15:29,270
+mark up this or that address if you wish, this
+ 
+
+713
+00:15:29,270 --> 00:15:31,000
+mark up this or that address if you wish, this
+will all go directly to us will be
+
+714
+00:15:31,000 --> 00:15:31,010
+will all go directly to us will be
+ 
+
+715
+00:15:31,010 --> 00:15:33,730
+will all go directly to us will be
+verified and will eventually be
+
+716
+00:15:33,730 --> 00:15:33,740
+verified and will eventually be
+ 
+
+717
+00:15:33,740 --> 00:15:35,670
+verified and will eventually be
+entered  to the database, of
+
+718
+00:15:35,670 --> 00:15:35,680
+entered  to the database, of
+ 
+
+719
+00:15:35,680 --> 00:15:37,810
+entered  to the database, of
+course, we will come up with a
+
+720
+00:15:37,810 --> 00:15:37,820
+course, we will come up with a
+ 
+
+721
+00:15:37,820 --> 00:15:39,820
+course, we will come up with a
+motivational program for those people
+
+722
+00:15:39,820 --> 00:15:39,830
+motivational program for those people
+ 
+
+723
+00:15:39,830 --> 00:15:41,770
+motivational program for those people
+who will take an active part
+
+724
+00:15:41,770 --> 00:15:41,780
+who will take an active part
+ 
+
+725
+00:15:41,780 --> 00:15:43,140
+who will take an active part
+in this process.
+
+726
+00:15:43,140 --> 00:15:43,150
+in this process.
+ 
+
+727
+00:15:43,150 --> 00:15:45,090
+in this process.
+Also, I
+
+728
+00:15:45,090 --> 00:15:45,100
+Also, I
+ 
+
+729
+00:15:45,100 --> 00:15:47,590
+Also, I
+draw your attention to the fact that in this water we
+
+730
+00:15:47,590 --> 00:15:47,600
+draw your attention to the fact that in this water we
+ 
+
+731
+00:15:47,600 --> 00:15:49,470
+draw your attention to the fact that in this water we
+have a
+
+732
+00:15:49,470 --> 00:15:49,480
+have a
+ 
+
+733
+00:15:49,480 --> 00:15:52,270
+have a
+wonderful option on our website that is to report
+
+734
+00:15:52,270 --> 00:15:52,280
+wonderful option on our website that is to report
+ 
+
+735
+00:15:52,280 --> 00:15:56,310
+wonderful option on our website that is to report
+some kind of incident if
+
+736
+00:15:56,310 --> 00:15:56,320
+some kind of incident if
+ 
+
+737
+00:15:56,320 --> 00:15:58,000
+some kind of incident if
+you have become  a victim of
+
+738
+00:15:58,000 --> 00:15:58,010
+you have become  a victim of
+ 
+
+739
+00:15:58,010 --> 00:16:00,310
+you have become  a victim of
+scammers and scammers have stolen funds from you
+
+740
+00:16:00,310 --> 00:16:00,320
+scammers and scammers have stolen funds from you
+ 
+
+741
+00:16:00,320 --> 00:16:03,280
+scammers and scammers have stolen funds from you
+, feel free to contact there,
+
+742
+00:16:03,280 --> 00:16:03,290
+, feel free to contact there,
+ 
+
+743
+00:16:03,290 --> 00:16:04,930
+, feel free to contact there,
+be afraid, it turns out a form that you
+
+744
+00:16:04,930 --> 00:16:04,940
+be afraid, it turns out a form that you
+ 
+
+745
+00:16:04,940 --> 00:16:07,510
+be afraid, it turns out a form that you
+can fill out, you can write to us
+
+746
+00:16:07,510 --> 00:16:07,520
+can fill out, you can write to us
+ 
+
+747
+00:16:07,520 --> 00:16:10,090
+can fill out, you can write to us
+through our website ask for help, we will
+
+748
+00:16:10,090 --> 00:16:10,100
+through our website ask for help, we will
+ 
+
+749
+00:16:10,100 --> 00:16:12,490
+through our website ask for help, we will
+certainly try to help you in
+
+750
+00:16:12,490 --> 00:16:12,500
+certainly try to help you in
+ 
+
+751
+00:16:12,500 --> 00:16:14,740
+certainly try to help you in
+order to find the intruders and
+
+752
+00:16:14,740 --> 00:16:14,750
+order to find the intruders and
+ 
+
+753
+00:16:14,750 --> 00:16:17,560
+order to find the intruders and
+try to return these funds.
+
+754
+00:16:17,560 --> 00:16:17,570
+try to return these funds.
+ 
+
+755
+00:16:17,570 --> 00:16:20,200
+try to return these funds.
+what would
+
+756
+00:16:20,200 --> 00:16:20,210
+what would
+ 
+
+757
+00:16:20,210 --> 00:16:23,290
+what would
+you like marks  it’s very sad and ready to answer your
+
+758
+00:16:23,290 --> 00:16:23,300
+you like marks  it’s very sad and ready to answer your
+ 
+
+759
+00:16:23,300 --> 00:16:27,710
+you like marks  it’s very sad and ready to answer your
+questions, it’s
+
+760
+00:16:27,710 --> 00:16:27,720
+
+ 
+
+761
+00:16:27,720 --> 00:16:30,740
+
+very sad presentation, but
+
+762
+00:16:30,740 --> 00:16:30,750
+very sad presentation, but
+ 
+
+763
+00:16:30,750 --> 00:16:35,210
+very sad presentation, but
+he forgot at sharam if necessary, I’ll
+
+764
+00:16:35,210 --> 00:16:35,220
+he forgot at sharam if necessary, I’ll
+ 
+
+765
+00:16:35,220 --> 00:16:37,410
+he forgot at sharam if necessary, I’ll
+turn on a video demonstration so that
+
+766
+00:16:37,410 --> 00:16:37,420
+turn on a video demonstration so that
+ 
+
+767
+00:16:37,420 --> 00:16:38,790
+turn on a video demonstration so that
+people can see the
+
+768
+00:16:38,790 --> 00:16:38,800
+people can see the
+ 
+
+769
+00:16:38,800 --> 00:16:41,939
+people can see the
+live demo how it all happens how
+
+770
+00:16:41,939 --> 00:16:41,949
+live demo how it all happens how
+ 
+
+771
+00:16:41,949 --> 00:16:43,590
+live demo how it all happens how
+it happens work in our
+
+772
+00:16:43,590 --> 00:16:43,600
+it happens work in our
+ 
+
+773
+00:16:43,600 --> 00:16:46,119
+it happens work in our
+tool
+
+774
+00:16:46,119 --> 00:16:46,129
+
+ 
+
+775
+00:16:46,129 --> 00:16:48,819
+
+but let
+
+776
+00:16:48,819 --> 00:16:48,829
+but let
+ 
+
+777
+00:16:48,829 --> 00:16:51,979
+but let
+’s see this interface in this case is found
+
+778
+00:16:51,979 --> 00:16:51,989
+’s see this interface in this case is found
+ 
+
+779
+00:16:51,989 --> 00:16:53,929
+’s see this interface in this case is found
+in the address  line here or at the address, the
+
+780
+00:16:53,929 --> 00:16:53,939
+in the address  line here or at the address, the
+ 
+
+781
+00:16:53,939 --> 00:16:55,849
+in the address  line here or at the address, the
+system automatically looks in this
+
+782
+00:16:55,849 --> 00:16:55,859
+system automatically looks in this
+ 
+
+783
+00:16:55,859 --> 00:16:58,489
+system automatically looks in this
+case, it found the user who
+
+784
+00:16:58,489 --> 00:16:58,499
+case, it found the user who
+ 
+
+785
+00:16:58,499 --> 00:17:00,679
+case, it found the user who
+owns this address, then it
+
+786
+00:17:00,679 --> 00:17:00,689
+owns this address, then it
+ 
+
+787
+00:17:00,689 --> 00:17:03,829
+owns this address, then it
+displays all the colored balls on the connection graph,
+
+788
+00:17:03,829 --> 00:17:03,839
+displays all the colored balls on the connection graph,
+ 
+
+789
+00:17:03,839 --> 00:17:05,679
+displays all the colored balls on the connection graph,
+which means these are marked addresses,
+
+790
+00:17:05,679 --> 00:17:05,689
+which means these are marked addresses,
+ 
+
+791
+00:17:05,689 --> 00:17:07,429
+which means these are marked addresses,
+respectively, we immediately understand by color
+
+792
+00:17:07,429 --> 00:17:07,439
+respectively, we immediately understand by color
+ 
+
+793
+00:17:07,439 --> 00:17:10,309
+respectively, we immediately understand by color
+what type of address the interaction
+
+794
+00:17:10,309 --> 00:17:10,319
+what type of address the interaction
+ 
+
+795
+00:17:10,319 --> 00:17:11,720
+what type of address the interaction
+in this case, this user is
+
+796
+00:17:11,720 --> 00:17:11,730
+in this case, this user is
+ 
+
+797
+00:17:11,730 --> 00:17:13,809
+in this case, this user is
+quite a lot  interacts with
+
+798
+00:17:13,809 --> 00:17:13,819
+quite a lot  interacts with
+ 
+
+799
+00:17:13,819 --> 00:17:16,999
+quite a lot  interacts with
+addresses with more distribution contracts
+
+800
+00:17:16,999 --> 00:17:17,009
+addresses with more distribution contracts
+ 
+
+801
+00:17:17,009 --> 00:17:19,100
+addresses with more distribution contracts
+participation in various contests that
+
+802
+00:17:19,100 --> 00:17:19,110
+participation in various contests that
+ 
+
+803
+00:17:19,110 --> 00:17:20,350
+participation in various contests that
+were previously
+
+804
+00:17:20,350 --> 00:17:20,360
+were previously
+ 
+
+805
+00:17:20,360 --> 00:17:22,850
+were previously
+different exchange dex with whom he
+
+806
+00:17:22,850 --> 00:17:22,860
+different exchange dex with whom he
+ 
+
+807
+00:17:22,860 --> 00:17:24,829
+different exchange dex with whom he
+interacts purple these are other
+
+808
+00:17:24,829 --> 00:17:24,839
+interacts purple these are other
+ 
+
+809
+00:17:24,839 --> 00:17:27,590
+interacts purple these are other
+users as such on hover
+
+810
+00:17:27,590 --> 00:17:27,600
+users as such on hover
+ 
+
+811
+00:17:27,600 --> 00:17:29,899
+users as such on hover
+we respectively see his name ivory
+
+812
+00:17:29,899 --> 00:17:29,909
+we respectively see his name ivory
+ 
+
+813
+00:17:29,909 --> 00:17:30,879
+we respectively see his name ivory
+score
+
+814
+00:17:30,879 --> 00:17:30,889
+score
+ 
+
+815
+00:17:30,889 --> 00:17:33,049
+score
+interaction with each of the addresses the
+
+816
+00:17:33,049 --> 00:17:33,059
+interaction with each of the addresses the
+ 
+
+817
+00:17:33,059 --> 00:17:35,899
+interaction with each of the addresses the
+total amount of interaction we m  we can
+
+818
+00:17:35,899 --> 00:17:35,909
+total amount of interaction we m  we can
+ 
+
+819
+00:17:35,909 --> 00:17:38,180
+total amount of interaction we m  we can
+click on one address or another if
+
+820
+00:17:38,180 --> 00:17:38,190
+click on one address or another if
+ 
+
+821
+00:17:38,190 --> 00:17:39,889
+click on one address or another if
+we want to see what interactions with whom the
+
+822
+00:17:39,889 --> 00:17:39,899
+we want to see what interactions with whom the
+ 
+
+823
+00:17:39,899 --> 00:17:42,680
+we want to see what interactions with whom the
+next address can
+
+824
+00:17:42,680 --> 00:17:42,690
+next address can
+ 
+
+825
+00:17:42,690 --> 00:17:44,840
+next address can
+move the position accordingly is
+
+826
+00:17:44,840 --> 00:17:44,850
+move the position accordingly is
+ 
+
+827
+00:17:44,850 --> 00:17:46,940
+move the position accordingly is
+saved so that we can
+
+828
+00:17:46,940 --> 00:17:46,950
+saved so that we can
+ 
+
+829
+00:17:46,950 --> 00:17:49,100
+saved so that we can
+visually compose a
+
+830
+00:17:49,100 --> 00:17:49,110
+visually compose a
+ 
+
+831
+00:17:49,110 --> 00:17:51,200
+visually compose a
+certain route, as we are used to, as
+
+832
+00:17:51,200 --> 00:17:51,210
+certain route, as we are used to, as
+ 
+
+833
+00:17:51,210 --> 00:17:54,350
+certain route, as we are used to, as
+it is convenient for us, we can sometimes
+
+834
+00:17:54,350 --> 00:17:54,360
+it is convenient for us, we can sometimes
+ 
+
+835
+00:17:54,360 --> 00:17:55,820
+it is convenient for us, we can sometimes
+encounter such a situation when there are a lot of
+
+836
+00:17:55,820 --> 00:17:55,830
+encounter such a situation when there are a lot of
+ 
+
+837
+00:17:55,830 --> 00:17:57,590
+encounter such a situation when there are a lot of
+addresses  and we have to work with this somehow,
+
+838
+00:17:57,590 --> 00:17:57,600
+addresses  and we have to work with this somehow,
+ 
+
+839
+00:17:57,600 --> 00:17:59,450
+addresses  and we have to work with this somehow,
+there are several options,
+
+840
+00:17:59,450 --> 00:17:59,460
+there are several options,
+ 
+
+841
+00:17:59,460 --> 00:18:02,539
+there are several options,
+either a filter by amount, or a filter by
+
+842
+00:18:02,539 --> 00:18:02,549
+either a filter by amount, or a filter by
+ 
+
+843
+00:18:02,549 --> 00:18:05,419
+either a filter by amount, or a filter by
+time, or a filter by different types of
+
+844
+00:18:05,419 --> 00:18:05,429
+time, or a filter by different types of
+ 
+
+845
+00:18:05,429 --> 00:18:08,779
+time, or a filter by different types of
+addresses, for example, we don’t want to see that a
+
+846
+00:18:08,779 --> 00:18:08,789
+addresses, for example, we don’t want to see that a
+ 
+
+847
+00:18:08,789 --> 00:18:11,060
+addresses, for example, we don’t want to see that a
+person interacts with more
+
+848
+00:18:11,060 --> 00:18:11,070
+person interacts with more
+ 
+
+849
+00:18:11,070 --> 00:18:12,950
+person interacts with more
+distribution contracts and we want to
+
+850
+00:18:12,950 --> 00:18:12,960
+distribution contracts and we want to
+ 
+
+851
+00:18:12,960 --> 00:18:14,960
+distribution contracts and we want to
+let’s exclude him, we accordingly
+
+852
+00:18:14,960 --> 00:18:14,970
+let’s exclude him, we accordingly
+ 
+
+853
+00:18:14,970 --> 00:18:17,629
+let’s exclude him, we accordingly
+choose what to exclude and remain  all the
+
+854
+00:18:17,629 --> 00:18:17,639
+choose what to exclude and remain  all the
+ 
+
+855
+00:18:17,639 --> 00:18:20,359
+choose what to exclude and remain  all the
+rest, you can select certain
+
+856
+00:18:20,359 --> 00:18:20,369
+rest, you can select certain
+ 
+
+857
+00:18:20,369 --> 00:18:22,399
+rest, you can select certain
+specific addresses when we clearly know
+
+858
+00:18:22,399 --> 00:18:22,409
+specific addresses when we clearly know
+ 
+
+859
+00:18:22,409 --> 00:18:24,739
+specific addresses when we clearly know
+what we want to find any user
+
+860
+00:18:24,739 --> 00:18:24,749
+what we want to find any user
+ 
+
+861
+00:18:24,749 --> 00:18:26,480
+what we want to find any user
+opens the system automatically
+
+862
+00:18:26,480 --> 00:18:26,490
+opens the system automatically
+ 
+
+863
+00:18:26,490 --> 00:18:27,940
+opens the system automatically
+rebuilds the
+
+864
+00:18:27,940 --> 00:18:27,950
+rebuilds the
+ 
+
+865
+00:18:27,950 --> 00:18:29,840
+rebuilds the
+visualization so that it can be
+
+866
+00:18:29,840 --> 00:18:29,850
+visualization so that it can be
+ 
+
+867
+00:18:29,850 --> 00:18:31,700
+visualization so that it can be
+placed as if for a more optimal location,
+
+868
+00:18:31,700 --> 00:18:31,710
+placed as if for a more optimal location,
+ 
+
+869
+00:18:31,710 --> 00:18:33,560
+placed as if for a more optimal location,
+but in this case, the example shows
+
+870
+00:18:33,560 --> 00:18:33,570
+but in this case, the example shows
+ 
+
+871
+00:18:33,570 --> 00:18:35,570
+but in this case, the example shows
+quite a lot of smart contracts
+
+872
+00:18:35,570 --> 00:18:35,580
+quite a lot of smart contracts
+ 
+
+873
+00:18:35,580 --> 00:18:37,820
+quite a lot of smart contracts
+connected  connected with the token swap in our own
+
+874
+00:18:37,820 --> 00:18:37,830
+connected  connected with the token swap in our own
+ 
+
+875
+00:18:37,830 --> 00:18:40,789
+connected  connected with the token swap in our own
+and we turn them off there, and now it is simplified in the
+
+876
+00:18:40,789 --> 00:18:40,799
+and we turn them off there, and now it is simplified in the
+ 
+
+877
+00:18:40,799 --> 00:18:44,299
+and we turn them off there, and now it is simplified in the
+perception of all information, a very big
+
+878
+00:18:44,299 --> 00:18:44,309
+perception of all information, a very big
+ 
+
+879
+00:18:44,309 --> 00:18:46,609
+perception of all information, a very big
+job is done by our guys, compliance
+
+880
+00:18:46,609 --> 00:18:46,619
+job is done by our guys, compliance
+ 
+
+881
+00:18:46,619 --> 00:18:49,629
+job is done by our guys, compliance
+officers who place, among other things,
+
+882
+00:18:49,629 --> 00:18:49,639
+officers who place, among other things,
+ 
+
+883
+00:18:49,639 --> 00:18:52,539
+officers who place, among other things,
+smart contracts that are responsible for the
+
+884
+00:18:52,539 --> 00:18:52,549
+smart contracts that are responsible for the
+ 
+
+885
+00:18:52,549 --> 00:18:55,190
+smart contracts that are responsible for the
+return of commissions, because if
+
+886
+00:18:55,190 --> 00:18:55,200
+return of commissions, because if
+ 
+
+887
+00:18:55,200 --> 00:18:56,930
+return of commissions, because if
+we look
+
+888
+00:18:56,930 --> 00:18:56,940
+we look
+ 
+
+889
+00:18:56,940 --> 00:18:59,120
+we look
+at certain transactions for
+
+890
+00:18:59,120 --> 00:18:59,130
+at certain transactions for
+ 
+
+891
+00:18:59,130 --> 00:19:01,060
+at certain transactions for
+certain  the addressee can be thousands
+
+892
+00:19:01,060 --> 00:19:01,070
+certain  the addressee can be thousands
+ 
+
+893
+00:19:01,070 --> 00:19:04,340
+certain  the addressee can be thousands
+hundreds tens of thousands of transactions and it
+
+894
+00:19:04,340 --> 00:19:04,350
+hundreds tens of thousands of transactions and it
+ 
+
+895
+00:19:04,350 --> 00:19:06,020
+hundreds tens of thousands of transactions and it
+is not entirely clear with whom this user is
+
+896
+00:19:06,020 --> 00:19:06,030
+is not entirely clear with whom this user is
+ 
+
+897
+00:19:06,030 --> 00:19:06,770
+is not entirely clear with whom this user is
+interacting,
+
+898
+00:19:06,770 --> 00:19:06,780
+interacting,
+ 
+
+899
+00:19:06,780 --> 00:19:08,830
+interacting,
+and when there is a specific signature that this
+
+900
+00:19:08,830 --> 00:19:08,840
+and when there is a specific signature that this
+ 
+
+901
+00:19:08,840 --> 00:19:11,960
+and when there is a specific signature that this
+address is responsible for returning part of the commission
+
+902
+00:19:11,960 --> 00:19:11,970
+address is responsible for returning part of the commission
+ 
+
+903
+00:19:11,970 --> 00:19:13,760
+address is responsible for returning part of the commission
+when making this or that exchange, it
+
+904
+00:19:13,760 --> 00:19:13,770
+when making this or that exchange, it
+ 
+
+905
+00:19:13,770 --> 00:19:15,610
+when making this or that exchange, it
+immediately becomes clear that there is no point in
+
+906
+00:19:15,610 --> 00:19:15,620
+immediately becomes clear that there is no point in
+ 
+
+907
+00:19:15,620 --> 00:19:17,900
+immediately becomes clear that there is no point in
+researching in that direction because
+
+908
+00:19:17,900 --> 00:19:17,910
+researching in that direction because
+ 
+
+909
+00:19:17,910 --> 00:19:20,210
+researching in that direction because
+there is no  there is no valuable information, for example,
+
+910
+00:19:20,210 --> 00:19:20,220
+there is no  there is no valuable information, for example,
+ 
+
+911
+00:19:20,220 --> 00:19:22,640
+there is no  there is no valuable information, for example,
+depending on your task, you
+
+912
+00:19:22,640 --> 00:19:22,650
+depending on your task, you
+ 
+
+913
+00:19:22,650 --> 00:19:23,960
+depending on your task, you
+can see right here a
+
+914
+00:19:23,960 --> 00:19:23,970
+can see right here a
+ 
+
+915
+00:19:23,970 --> 00:19:26,210
+can see right here a
+certain risk it express and at the same time
+
+916
+00:19:26,210 --> 00:19:26,220
+certain risk it express and at the same time
+ 
+
+917
+00:19:26,220 --> 00:19:28,100
+certain risk it express and at the same time
+you can also fall into the card to
+
+918
+00:19:28,100 --> 00:19:28,110
+you can also fall into the card to
+ 
+
+919
+00:19:28,110 --> 00:19:29,690
+you can also fall into the card to
+see all the information that
+
+920
+00:19:29,690 --> 00:19:29,700
+see all the information that
+ 
+
+921
+00:19:29,700 --> 00:19:32,450
+see all the information that
+you displayed as part of the presentation, in
+
+922
+00:19:32,450 --> 00:19:32,460
+you displayed as part of the presentation, in
+ 
+
+923
+00:19:32,460 --> 00:19:33,710
+you displayed as part of the presentation, in
+this case we see that quite
+
+924
+00:19:33,710 --> 00:19:33,720
+this case we see that quite
+ 
+
+925
+00:19:33,720 --> 00:19:35,810
+this case we see that quite
+large funds were sent
+
+926
+00:19:35,810 --> 00:19:35,820
+large funds were sent
+ 
+
+927
+00:19:35,820 --> 00:19:38,240
+large funds were sent
+users in the dow, respectively, a
+
+928
+00:19:38,240 --> 00:19:38,250
+users in the dow, respectively, a
+ 
+
+929
+00:19:38,250 --> 00:19:40,400
+users in the dow, respectively, a
+person takes an active enough
+
+930
+00:19:40,400 --> 00:19:40,410
+person takes an active enough
+ 
+
+931
+00:19:40,410 --> 00:19:43,250
+person takes an active enough
+part in making a decision and a verst or
+
+932
+00:19:43,250 --> 00:19:43,260
+part in making a decision and a verst or
+ 
+
+933
+00:19:43,260 --> 00:19:45,770
+part in making a decision and a verst or
+a lot of such things and who
+
+934
+00:19:45,770 --> 00:19:45,780
+a lot of such things and who
+ 
+
+935
+00:19:45,780 --> 00:19:48,890
+a lot of such things and who
+initiated who graduated this address with whom
+
+936
+00:19:48,890 --> 00:19:48,900
+initiated who graduated this address with whom
+ 
+
+937
+00:19:48,900 --> 00:19:51,470
+initiated who graduated this address with whom
+it is interconnected what other
+
+938
+00:19:51,470 --> 00:19:51,480
+it is interconnected what other
+ 
+
+939
+00:19:51,480 --> 00:19:53,720
+it is interconnected what other
+addresses in this cluster can be searched by
+
+940
+00:19:53,720 --> 00:19:53,730
+addresses in this cluster can be searched by
+ 
+
+941
+00:19:53,730 --> 00:19:55,460
+addresses in this cluster can be searched by
+address can be searched by name can be
+
+942
+00:19:55,460 --> 00:19:55,470
+address can be searched by name can be
+ 
+
+943
+00:19:55,470 --> 00:19:57,310
+address can be searched by name can be
+searched by  many other parameters
+
+944
+00:19:57,310 --> 00:19:57,320
+searched by  many other parameters
+ 
+
+945
+00:19:57,320 --> 00:19:59,840
+searched by  many other parameters
+in order to answer some of your
+
+946
+00:19:59,840 --> 00:19:59,850
+in order to answer some of your
+ 
+
+947
+00:19:59,850 --> 00:20:03,670
+in order to answer some of your
+questions like so
+
+948
+00:20:03,670 --> 00:20:03,680
+
+ 
+
+949
+00:20:03,680 --> 00:20:05,820
+
+very much
+
+950
+00:20:05,820 --> 00:20:05,830
+very much
+ 
+
+951
+00:20:05,830 --> 00:20:09,919
+very much
+it can look almost 1 comment
+
+952
+00:20:09,919 --> 00:20:09,929
+
+ 
+
+953
+00:20:09,929 --> 00:20:13,460
+
+let's move it to different so questions
+
+954
+00:20:13,460 --> 00:20:13,470
+let's move it to different so questions
+ 
+
+955
+00:20:13,470 --> 00:20:15,500
+let's move it to different so questions
+so the
+
+956
+00:20:15,500 --> 00:20:15,510
+so the
+ 
+
+957
+00:20:15,510 --> 00:20:18,830
+so the
+first user asks the
+
+958
+00:20:18,830 --> 00:20:18,840
+
+ 
+
+959
+00:20:18,840 --> 00:20:20,909
+
+question I am a regular
+
+960
+00:20:20,909 --> 00:20:20,919
+question I am a regular
+ 
+
+961
+00:20:20,919 --> 00:20:22,350
+question I am a regular
+user and anza
+
+962
+00:20:22,350 --> 00:20:22,360
+user and anza
+ 
+
+963
+00:20:22,360 --> 00:20:25,380
+user and anza
+vestment shares how do I avoid the controller on the
+
+964
+00:20:25,380 --> 00:20:25,390
+vestment shares how do I avoid the controller on the
+ 
+
+965
+00:20:25,390 --> 00:20:28,399
+vestment shares how do I avoid the controller on the
+disk great question  in fact, the
+
+966
+00:20:28,399 --> 00:20:28,409
+disk great question  in fact, the
+ 
+
+967
+00:20:28,409 --> 00:20:30,810
+disk great question  in fact, the
+correct operation in the blockchain and it
+
+968
+00:20:30,810 --> 00:20:30,820
+correct operation in the blockchain and it
+ 
+
+969
+00:20:30,820 --> 00:20:33,029
+correct operation in the blockchain and it
+is very important because if you
+
+970
+00:20:33,029 --> 00:20:33,039
+is very important because if you
+ 
+
+971
+00:20:33,039 --> 00:20:35,909
+is very important because if you
+accept non-dating funds today and in
+
+972
+00:20:35,909 --> 00:20:35,919
+accept non-dating funds today and in
+ 
+
+973
+00:20:35,919 --> 00:20:37,590
+accept non-dating funds today and in
+the end it turns out to be dirty
+
+974
+00:20:37,590 --> 00:20:37,600
+the end it turns out to be dirty
+ 
+
+975
+00:20:37,600 --> 00:20:39,029
+the end it turns out to be dirty
+funds, you may have a certain
+
+976
+00:20:39,029 --> 00:20:39,039
+funds, you may have a certain
+ 
+
+977
+00:20:39,039 --> 00:20:40,830
+funds, you may have a certain
+problem problems of what nature the
+
+978
+00:20:40,830 --> 00:20:40,840
+problem problems of what nature the
+ 
+
+979
+00:20:40,840 --> 00:20:42,750
+problem problems of what nature the
+first these funds can be
+
+980
+00:20:42,750 --> 00:20:42,760
+first these funds can be
+ 
+
+981
+00:20:42,760 --> 00:20:45,539
+first these funds can be
+blocked by the exchange this time you
+
+982
+00:20:45,539 --> 00:20:45,549
+blocked by the exchange this time you
+ 
+
+983
+00:20:45,549 --> 00:20:47,340
+blocked by the exchange this time you
+may have  questions with
+
+984
+00:20:47,340 --> 00:20:47,350
+may have  questions with
+ 
+
+985
+00:20:47,350 --> 00:20:49,710
+may have  questions with
+pr  if these
+
+986
+00:20:49,710 --> 00:20:49,720
+pr  if these
+ 
+
+987
+00:20:49,720 --> 00:20:51,779
+pr  if these
+funds were stolen somehow
+
+988
+00:20:51,779 --> 00:20:51,789
+funds were stolen somehow
+ 
+
+989
+00:20:51,789 --> 00:20:54,720
+funds were stolen somehow
+there is a statement to the law enforcement
+
+990
+00:20:54,720 --> 00:20:54,730
+there is a statement to the law enforcement
+ 
+
+991
+00:20:54,730 --> 00:20:56,190
+there is a statement to the law enforcement
+agencies and the law enforcement agencies are
+
+992
+00:20:56,190 --> 00:20:56,200
+agencies and the law enforcement agencies are
+ 
+
+993
+00:20:56,200 --> 00:20:58,700
+agencies and the law enforcement agencies are
+sent to the exchange this information
+
+994
+00:20:58,700 --> 00:20:58,710
+sent to the exchange this information
+ 
+
+995
+00:20:58,710 --> 00:21:01,680
+sent to the exchange this information
+you will need to explain who what
+
+996
+00:21:01,680 --> 00:21:01,690
+you will need to explain who what
+ 
+
+997
+00:21:01,690 --> 00:21:04,470
+you will need to explain who what
+how and so on and what is even worse
+
+998
+00:21:04,470 --> 00:21:04,480
+how and so on and what is even worse
+ 
+
+999
+00:21:04,480 --> 00:21:06,450
+how and so on and what is even worse
+is that if you accept to your
+
+1000
+00:21:06,450 --> 00:21:06,460
+is that if you accept to your
+ 
+
+1001
+00:21:06,460 --> 00:21:08,850
+is that if you accept to your
+main address  all funds and these
+
+1002
+00:21:08,850 --> 00:21:08,860
+main address  all funds and these
+ 
+
+1003
+00:21:08,860 --> 00:21:10,769
+main address  all funds and these
+funds will turn out to be involved in some
+
+1004
+00:21:10,769 --> 00:21:10,779
+funds will turn out to be involved in some
+ 
+
+1005
+00:21:10,779 --> 00:21:13,200
+funds will turn out to be involved in some
+not very pleasant cases; in fact, your
+
+1006
+00:21:13,200 --> 00:21:13,210
+not very pleasant cases; in fact, your
+ 
+
+1007
+00:21:13,210 --> 00:21:15,090
+not very pleasant cases; in fact, your
+clean funds will mix with dirty
+
+1008
+00:21:15,090 --> 00:21:15,100
+clean funds will mix with dirty
+ 
+
+1009
+00:21:15,100 --> 00:21:18,269
+clean funds will mix with dirty
+funds and your risk
+
+1010
+00:21:18,269 --> 00:21:21,299
+funds and your risk
+ 
+
+1011
+00:21:21,299 --> 00:21:22,950
+
+ 
+
+1012
+00:21:22,950 --> 00:21:24,860
+
+ 
+
+1013
+00:21:24,860 --> 00:21:24,870
+
+ 
+
+1014
+00:21:24,870 --> 00:21:27,889
+
+will worsen  addresses
+
+1015
+00:21:27,889 --> 00:21:27,899
+will worsen  addresses
+ 
+
+1016
+00:21:27,899 --> 00:21:31,080
+will worsen  addresses
+for transactions, even if it turns out
+
+1017
+00:21:31,080 --> 00:21:31,090
+for transactions, even if it turns out
+ 
+
+1018
+00:21:31,090 --> 00:21:32,879
+for transactions, even if it turns out
+that something is wrong with these addresses,
+
+1019
+00:21:32,879 --> 00:21:32,889
+that something is wrong with these addresses,
+ 
+
+1020
+00:21:32,889 --> 00:21:35,100
+that something is wrong with these addresses,
+at least you don’t stain your fixed assets,
+
+1021
+00:21:35,100 --> 00:21:35,110
+at least you don’t stain your fixed assets,
+ 
+
+1022
+00:21:35,110 --> 00:21:38,250
+at least you don’t stain your fixed assets,
+and we certainly recommend
+
+1023
+00:21:38,250 --> 00:21:38,260
+and we certainly recommend
+ 
+
+1024
+00:21:38,260 --> 00:21:40,350
+and we certainly recommend
+checking those counterparties with whom you
+
+1025
+00:21:40,350 --> 00:21:40,360
+checking those counterparties with whom you
+ 
+
+1026
+00:21:40,360 --> 00:21:42,000
+checking those counterparties with whom you
+work in order not to get
+
+1027
+00:21:42,000 --> 00:21:42,010
+work in order not to get
+ 
+
+1028
+00:21:42,010 --> 00:21:47,220
+work in order not to get
+unnecessary risks by
+
+1029
+00:21:47,220 --> 00:21:47,230
+
+ 
+
+1030
+00:21:47,230 --> 00:21:49,970
+
+sowing to new addresses, this is
+
+1031
+00:21:49,970 --> 00:21:49,980
+sowing to new addresses, this is
+ 
+
+1032
+00:21:49,980 --> 00:21:54,960
+sowing to new addresses, this is
+really very worthwhile  advice
+
+1033
+00:21:54,960 --> 00:21:54,970
+
+ 
+
+1034
+00:21:54,970 --> 00:21:57,690
+
+from the author good evening  the product is really
+
+1035
+00:21:57,690 --> 00:21:57,700
+from the author good evening  the product is really
+ 
+
+1036
+00:21:57,700 --> 00:21:59,820
+from the author good evening  the product is really
+very cool and how to get access to it
+
+1037
+00:21:59,820 --> 00:21:59,830
+very cool and how to get access to it
+ 
+
+1038
+00:21:59,830 --> 00:22:01,590
+very cool and how to get access to it
+what about privacy not all
+
+1039
+00:22:01,590 --> 00:22:01,600
+what about privacy not all
+ 
+
+1040
+00:22:01,600 --> 00:22:03,210
+what about privacy not all
+users want their addresses to be
+
+1041
+00:22:03,210 --> 00:22:03,220
+users want their addresses to be
+ 
+
+1042
+00:22:03,220 --> 00:22:08,180
+users want their addresses to be
+published and it can be punishable
+
+1043
+00:22:08,180 --> 00:22:08,190
+published and it can be punishable
+ 
+
+1044
+00:22:08,190 --> 00:22:10,560
+published and it can be punishable
+great question means see the first one
+
+1045
+00:22:10,560 --> 00:22:10,570
+great question means see the first one
+ 
+
+1046
+00:22:10,570 --> 00:22:12,570
+great question means see the first one
+at the moment this product is
+
+1047
+00:22:12,570 --> 00:22:12,580
+at the moment this product is
+ 
+
+1048
+00:22:12,580 --> 00:22:16,289
+at the moment this product is
+being tested in a closed circle i.e.
+
+1049
+00:22:16,289 --> 00:22:16,299
+being tested in a closed circle i.e.
+ 
+
+1050
+00:22:16,299 --> 00:22:18,419
+being tested in a closed circle i.e.
+certain clients have already gained access
+
+1051
+00:22:18,419 --> 00:22:18,429
+certain clients have already gained access
+ 
+
+1052
+00:22:18,429 --> 00:22:21,539
+certain clients have already gained access
+to  to this tool, you can write
+
+1053
+00:22:21,539 --> 00:22:21,549
+to  to this tool, you can write
+ 
+
+1054
+00:22:21,549 --> 00:22:25,409
+to  to this tool, you can write
+us a request via mail, we will
+
+1055
+00:22:25,409 --> 00:22:25,419
+us a request via mail, we will
+ 
+
+1056
+00:22:25,419 --> 00:22:26,940
+us a request via mail, we will
+individually consider each such
+
+1057
+00:22:26,940 --> 00:22:26,950
+individually consider each such
+ 
+
+1058
+00:22:26,950 --> 00:22:29,720
+individually consider each such
+request unconditionally
+
+1059
+00:22:29,720 --> 00:22:29,730
+request unconditionally
+ 
+
+1060
+00:22:29,730 --> 00:22:33,180
+request unconditionally
+2 pascal please, the second part of the question
+
+1061
+00:22:33,180 --> 00:22:33,190
+2 pascal please, the second part of the question
+ 
+
+1062
+00:22:33,190 --> 00:22:37,740
+2 pascal please, the second part of the question
+there were several points
+
+1063
+00:22:37,740 --> 00:22:37,750
+
+ 
+
+1064
+00:22:37,750 --> 00:22:40,400
+
+about the privacy of the built-in one,
+
+1065
+00:22:40,400 --> 00:22:40,410
+about the privacy of the built-in one,
+ 
+
+1066
+00:22:40,410 --> 00:22:43,440
+about the privacy of the built-in one,
+so look, we use open
+
+1067
+00:22:43,440 --> 00:22:43,450
+so look, we use open
+ 
+
+1068
+00:22:43,450 --> 00:22:45,210
+so look, we use open
+data sources, that is, in fact, we
+
+1069
+00:22:45,210 --> 00:22:45,220
+data sources, that is, in fact, we
+ 
+
+1070
+00:22:45,220 --> 00:22:48,510
+data sources, that is, in fact, we
+simplify the process that
+
+1071
+00:22:48,510 --> 00:22:48,520
+simplify the process that
+ 
+
+1072
+00:22:48,520 --> 00:22:49,890
+simplify the process that
+users can do this  that is, all this
+
+1073
+00:22:49,890 --> 00:22:49,900
+users can do this  that is, all this
+ 
+
+1074
+00:22:49,900 --> 00:22:52,730
+users can do this  that is, all this
+information is not some kind of our
+
+1075
+00:22:52,730 --> 00:22:52,740
+information is not some kind of our
+ 
+
+1076
+00:22:52,740 --> 00:22:55,680
+information is not some kind of our
+secret data as such, we simply
+
+1077
+00:22:55,680 --> 00:22:55,690
+secret data as such, we simply
+ 
+
+1078
+00:22:55,690 --> 00:22:57,450
+secret data as such, we simply
+simplify the process as much as possible and
+
+1079
+00:22:57,450 --> 00:22:57,460
+simplify the process as much as possible and
+ 
+
+1080
+00:22:57,460 --> 00:23:00,210
+simplify the process as much as possible and
+automate the collection of data from the Internet
+
+1081
+00:23:00,210 --> 00:23:00,220
+automate the collection of data from the Internet
+ 
+
+1082
+00:23:00,220 --> 00:23:02,340
+automate the collection of data from the Internet
+and their structuring, therefore, from the point of
+
+1083
+00:23:02,340 --> 00:23:02,350
+and their structuring, therefore, from the point of
+ 
+
+1084
+00:23:02,350 --> 00:23:04,560
+and their structuring, therefore, from the point of
+view of the law, there is no
+
+1085
+00:23:04,560 --> 00:23:04,570
+view of the law, there is no
+ 
+
+1086
+00:23:04,570 --> 00:23:08,290
+view of the law, there is no
+violation here,
+
+1087
+00:23:08,290 --> 00:23:08,300
+
+ 
+
+1088
+00:23:08,300 --> 00:23:10,900
+
+and if the user wants to stay
+
+1089
+00:23:10,900 --> 00:23:10,910
+and if the user wants to stay
+ 
+
+1090
+00:23:10,910 --> 00:23:12,940
+and if the user wants to stay
+anonymous it is absolutely his right
+
+1091
+00:23:12,940 --> 00:23:12,950
+anonymous it is absolutely his right
+ 
+
+1092
+00:23:12,950 --> 00:23:15,340
+anonymous it is absolutely his right
+I respect this right very much and moreover he
+
+1093
+00:23:15,340 --> 00:23:15,350
+I respect this right very much and moreover he
+ 
+
+1094
+00:23:15,350 --> 00:23:16,720
+I respect this right very much and moreover he
+just has to observe a certain
+
+1095
+00:23:16,720 --> 00:23:16,730
+just has to observe a certain
+ 
+
+1096
+00:23:16,730 --> 00:23:19,030
+just has to observe a certain
+digital hygiene in the process of work I
+
+1097
+00:23:19,030 --> 00:23:19,040
+digital hygiene in the process of work I
+ 
+
+1098
+00:23:19,040 --> 00:23:20,890
+digital hygiene in the process of work I
+know specific people who
+
+1099
+00:23:20,890 --> 00:23:20,900
+know specific people who
+ 
+
+1100
+00:23:20,900 --> 00:23:22,840
+know specific people who
+want to remain anonymous they
+
+1101
+00:23:22,840 --> 00:23:22,850
+want to remain anonymous they
+ 
+
+1102
+00:23:22,850 --> 00:23:25,300
+want to remain anonymous they
+simply do not remain anonymous and declare
+
+1103
+00:23:25,300 --> 00:23:25,310
+simply do not remain anonymous and declare
+ 
+
+1104
+00:23:25,310 --> 00:23:26,610
+simply do not remain anonymous and declare
+certain due
+
+1105
+00:23:26,610 --> 00:23:26,620
+certain due
+ 
+
+1106
+00:23:26,620 --> 00:23:28,720
+certain due
+precautions if they do not want to
+
+1107
+00:23:28,720 --> 00:23:28,730
+precautions if they do not want to
+ 
+
+1108
+00:23:28,730 --> 00:23:30,160
+precautions if they do not want to
+publish any of their own  personal
+
+1109
+00:23:30,160 --> 00:23:30,170
+publish any of their own  personal
+ 
+
+1110
+00:23:30,170 --> 00:23:36,190
+publish any of their own  personal
+information is quite real tasks
+
+1111
+00:23:36,190 --> 00:23:36,200
+
+ 
+
+1112
+00:23:36,200 --> 00:23:37,510
+
+and
+
+1113
+00:23:37,510 --> 00:23:37,520
+and
+ 
+
+1114
+00:23:37,520 --> 00:23:40,150
+and
+what tools do you use when
+
+1115
+00:23:40,150 --> 00:23:40,160
+what tools do you use when
+ 
+
+1116
+00:23:40,160 --> 00:23:42,790
+what tools do you use when
+collecting data about
+
+1117
+00:23:42,790 --> 00:23:42,800
+collecting data about
+ 
+
+1118
+00:23:42,800 --> 00:23:44,860
+collecting data about
+in fact we use a lot of
+
+1119
+00:23:44,860 --> 00:23:44,870
+in fact we use a lot of
+ 
+
+1120
+00:23:44,870 --> 00:23:46,780
+in fact we use a lot of
+different data from
+
+1121
+00:23:46,780 --> 00:23:46,790
+different data from
+ 
+
+1122
+00:23:46,790 --> 00:23:49,800
+different data from
+clustering to studying the
+
+1123
+00:23:49,800 --> 00:23:49,810
+clustering to studying the
+ 
+
+1124
+00:23:49,810 --> 00:23:52,900
+clustering to studying the
+patterns of behavior patterns, plus
+
+1125
+00:23:52,900 --> 00:23:52,910
+patterns of behavior patterns, plus
+ 
+
+1126
+00:23:52,910 --> 00:23:55,720
+patterns of behavior patterns, plus
+we structure the information
+
+1127
+00:23:55,720 --> 00:23:55,730
+we structure the information
+ 
+
+1128
+00:23:55,730 --> 00:23:58,630
+we structure the information
+that is currently and so presented in the
+
+1129
+00:23:58,630 --> 00:23:58,640
+that is currently and so presented in the
+ 
+
+1130
+00:23:58,640 --> 00:24:00,940
+that is currently and so presented in the
+public domain the question is simply  its
+
+1131
+00:24:00,940 --> 00:24:00,950
+public domain the question is simply  its
+ 
+
+1132
+00:24:00,950 --> 00:24:03,360
+public domain the question is simply  its
+proper processing, rallies and
+
+1133
+00:24:03,360 --> 00:24:03,370
+proper processing, rallies and
+ 
+
+1134
+00:24:03,370 --> 00:24:05,860
+proper processing, rallies and
+enrichment, by and large, what
+
+1135
+00:24:05,860 --> 00:24:05,870
+enrichment, by and large, what
+ 
+
+1136
+00:24:05,870 --> 00:24:08,470
+enrichment, by and large, what
+exactly we do our companies with
+
+1137
+00:24:08,470 --> 00:24:08,480
+exactly we do our companies with
+ 
+
+1138
+00:24:08,480 --> 00:24:10,830
+exactly we do our companies with
+officers use ebay systems and
+
+1139
+00:24:10,830 --> 00:24:10,840
+officers use ebay systems and
+ 
+
+1140
+00:24:10,840 --> 00:24:13,960
+officers use ebay systems and
+many different scripts that
+
+1141
+00:24:13,960 --> 00:24:13,970
+many different scripts that
+ 
+
+1142
+00:24:13,970 --> 00:24:15,910
+many different scripts that
+automatically process the whole thing,
+
+1143
+00:24:15,910 --> 00:24:15,920
+automatically process the whole thing,
+ 
+
+1144
+00:24:15,920 --> 00:24:19,750
+automatically process the whole thing,
+they use those open sources
+
+1145
+00:24:19,750 --> 00:24:19,760
+they use those open sources
+ 
+
+1146
+00:24:19,760 --> 00:24:21,940
+they use those open sources
+that everyone has  how many of you have just in a
+
+1147
+00:24:21,940 --> 00:24:21,950
+that everyone has  how many of you have just in a
+ 
+
+1148
+00:24:21,950 --> 00:24:24,100
+that everyone has  how many of you have just in a
+convenient way the whole thing is displayed on the
+
+1149
+00:24:24,100 --> 00:24:24,110
+convenient way the whole thing is displayed on the
+ 
+
+1150
+00:24:24,110 --> 00:24:30,030
+convenient way the whole thing is displayed on the
+ogres of communication
+
+1151
+00:24:30,030 --> 00:24:30,040
+
+ 
+
+1152
+00:24:30,040 --> 00:24:31,869
+
+with
+
+1153
+00:24:31,869 --> 00:24:31,879
+with
+ 
+
+1154
+00:24:31,879 --> 00:24:34,739
+with
+whether you have a large staff of
+
+1155
+00:24:34,739 --> 00:24:34,749
+whether you have a large staff of
+ 
+
+1156
+00:24:34,749 --> 00:24:39,189
+whether you have a large staff of
+analytics I believe that our team
+
+1157
+00:24:39,189 --> 00:24:39,199
+analytics I believe that our team
+ 
+
+1158
+00:24:39,199 --> 00:24:41,499
+analytics I believe that our team
+is currently small 35 people
+
+1159
+00:24:41,499 --> 00:24:41,509
+is currently small 35 people
+ 
+
+1160
+00:24:41,509 --> 00:24:43,689
+is currently small 35 people
+who are currently working full-
+
+1161
+00:24:43,689 --> 00:24:43,699
+who are currently working full-
+ 
+
+1162
+00:24:43,699 --> 00:24:46,239
+who are currently working full-
+time on this product but we are
+
+1163
+00:24:46,239 --> 00:24:46,249
+time on this product but we are
+ 
+
+1164
+00:24:46,249 --> 00:24:48,329
+time on this product but we are
+quite
+
+1165
+00:24:48,329 --> 00:24:48,339
+quite
+ 
+
+1166
+00:24:48,339 --> 00:24:51,309
+quite
+ambitious  taking into account the plans that
+
+1167
+00:24:51,309 --> 00:24:51,319
+ambitious  taking into account the plans that
+ 
+
+1168
+00:24:51,319 --> 00:24:53,909
+ambitious  taking into account the plans that
+we have set, taking into account the
+
+1169
+00:24:53,909 --> 00:24:53,919
+we have set, taking into account the
+ 
+
+1170
+00:24:53,919 --> 00:24:56,619
+we have set, taking into account the
+tasks that we are facing, we are
+
+1171
+00:24:56,619 --> 00:24:56,629
+tasks that we are facing, we are
+ 
+
+1172
+00:24:56,629 --> 00:24:59,769
+tasks that we are facing, we are
+now expanding very actively, and looking at
+
+1173
+00:24:59,769 --> 00:24:59,779
+now expanding very actively, and looking at
+ 
+
+1174
+00:24:59,779 --> 00:25:03,249
+now expanding very actively, and looking at
+how our team is being modified, our
+
+1175
+00:25:03,249 --> 00:25:03,259
+how our team is being modified, our
+ 
+
+1176
+00:25:03,259 --> 00:25:05,709
+how our team is being modified, our
+team is directly taking pride in the fact
+
+1177
+00:25:05,709 --> 00:25:05,719
+team is directly taking pride in the fact
+ 
+
+1178
+00:25:05,719 --> 00:25:06,969
+team is directly taking pride in the fact
+that it’s really cool,
+
+1179
+00:25:06,969 --> 00:25:06,979
+that it’s really cool,
+ 
+
+1180
+00:25:06,979 --> 00:25:11,229
+that it’s really cool,
+very strong specialists, we recently
+
+1181
+00:25:11,229 --> 00:25:11,239
+very strong specialists, we recently
+ 
+
+1182
+00:25:11,239 --> 00:25:12,609
+very strong specialists, we recently
+got a very strong
+
+1183
+00:25:12,609 --> 00:25:12,619
+got a very strong
+ 
+
+1184
+00:25:12,619 --> 00:25:15,039
+got a very strong
+mathematician programmer who  teaching to significantly
+
+1185
+00:25:15,039 --> 00:25:15,049
+mathematician programmer who  teaching to significantly
+ 
+
+1186
+00:25:15,049 --> 00:25:17,499
+mathematician programmer who  teaching to significantly
+improve the rice cortex system, we have
+
+1187
+00:25:17,499 --> 00:25:17,509
+improve the rice cortex system, we have
+ 
+
+1188
+00:25:17,509 --> 00:25:20,319
+improve the rice cortex system, we have
+a data engineer who, due to the
+
+1189
+00:25:20,319 --> 00:25:20,329
+a data engineer who, due to the
+ 
+
+1190
+00:25:20,329 --> 00:25:22,329
+a data engineer who, due to the
+correct database architecture,
+
+1191
+00:25:22,329 --> 00:25:22,339
+correct database architecture,
+ 
+
+1192
+00:25:22,339 --> 00:25:24,759
+correct database architecture,
+speeds up the process of work or the
+
+1193
+00:25:24,759 --> 00:25:24,769
+speeds up the process of work or the
+ 
+
+1194
+00:25:24,769 --> 00:25:26,799
+speeds up the process of work or the
+service itself, we have simply
+
+1195
+00:25:26,799 --> 00:25:26,809
+service itself, we have simply
+ 
+
+1196
+00:25:26,809 --> 00:25:28,989
+service itself, we have simply
+outstanding guys who are well
+
+1197
+00:25:28,989 --> 00:25:28,999
+outstanding guys who are well
+ 
+
+1198
+00:25:28,999 --> 00:25:31,419
+outstanding guys who are well
+versed in analytics work
+
+1199
+00:25:31,419 --> 00:25:31,429
+versed in analytics work
+ 
+
+1200
+00:25:31,429 --> 00:25:33,359
+versed in analytics work
+professionally work
+
+1201
+00:25:33,359 --> 00:25:33,369
+professionally work
+ 
+
+1202
+00:25:33,369 --> 00:25:35,739
+professionally work
+bio tools reveals certain
+
+1203
+00:25:35,739 --> 00:25:35,749
+bio tools reveals certain
+ 
+
+1204
+00:25:35,749 --> 00:25:38,499
+bio tools reveals certain
+new patterns  ty and almost
+
+1205
+00:25:38,499 --> 00:25:38,509
+new patterns  ty and almost
+ 
+
+1206
+00:25:38,509 --> 00:25:40,419
+new patterns  ty and almost
+every week I heard about some
+
+1207
+00:25:40,419 --> 00:25:40,429
+every week I heard about some
+ 
+
+1208
+00:25:40,429 --> 00:25:42,819
+every week I heard about some
+small breakthrough of us, moreover, the
+
+1209
+00:25:42,819 --> 00:25:42,829
+small breakthrough of us, moreover, the
+ 
+
+1210
+00:25:42,829 --> 00:25:46,239
+small breakthrough of us, moreover, the
+team also got a habit every
+
+1211
+00:25:46,239 --> 00:25:46,249
+team also got a habit every
+ 
+
+1212
+00:25:46,249 --> 00:25:48,459
+team also got a habit every
+Friday we are going to call up
+
+1213
+00:25:48,459 --> 00:25:48,469
+Friday we are going to call up
+ 
+
+1214
+00:25:48,469 --> 00:25:50,619
+Friday we are going to call up
+our team is very large and it
+
+1215
+00:25:50,619 --> 00:25:50,629
+our team is very large and it
+ 
+
+1216
+00:25:50,629 --> 00:25:53,919
+our team is very large and it
+is actually spread around the world and we call up and
+
+1217
+00:25:53,919 --> 00:25:53,929
+is actually spread around the world and we call up and
+ 
+
+1218
+00:25:53,929 --> 00:25:56,049
+is actually spread around the world and we call up and
+exchange certain significant
+
+1219
+00:25:56,049 --> 00:25:56,059
+exchange certain significant
+ 
+
+1220
+00:25:56,059 --> 00:25:58,059
+exchange certain significant
+achievements that we have made in  within the framework of the
+
+1221
+00:25:58,059 --> 00:25:58,069
+achievements that we have made in  within the framework of the
+ 
+
+1222
+00:25:58,069 --> 00:26:01,659
+achievements that we have made in  within the framework of the
+past week as a whole for the team, it’s not
+
+1223
+00:26:01,659 --> 00:26:01,669
+past week as a whole for the team, it’s not
+ 
+
+1224
+00:26:01,669 --> 00:26:04,299
+past week as a whole for the team, it’s not
+that very invigorating event,
+
+1225
+00:26:04,299 --> 00:26:04,309
+that very invigorating event,
+ 
+
+1226
+00:26:04,309 --> 00:26:06,579
+that very invigorating event,
+realizing that this and this and this is done, but
+
+1227
+00:26:06,579 --> 00:26:06,589
+realizing that this and this and this is done, but
+ 
+
+1228
+00:26:06,589 --> 00:26:08,159
+realizing that this and this and this is done, but
+it’s really cool,
+
+1229
+00:26:08,159 --> 00:26:08,169
+it’s really cool,
+ 
+
+1230
+00:26:08,169 --> 00:26:11,349
+it’s really cool,
+plus for us, in order for the guys to work more
+
+1231
+00:26:11,349 --> 00:26:11,359
+plus for us, in order for the guys to work more
+ 
+
+1232
+00:26:11,359 --> 00:26:14,019
+plus for us, in order for the guys to work more
+efficiently, the return was not the
+
+1233
+00:26:14,019 --> 00:26:14,029
+efficiently, the return was not the
+ 
+
+1234
+00:26:14,029 --> 00:26:17,049
+efficiently, the return was not the
+maximum from these thirty-five
+
+1235
+00:26:17,049 --> 00:26:17,059
+maximum from these thirty-five
+ 
+
+1236
+00:26:17,059 --> 00:26:18,969
+maximum from these thirty-five
+people who are currently  yes,
+
+1237
+00:26:18,969 --> 00:26:18,979
+people who are currently  yes,
+ 
+
+1238
+00:26:18,979 --> 00:26:21,069
+people who are currently  yes,
+we have a mandatory internal
+
+1239
+00:26:21,069 --> 00:26:21,079
+we have a mandatory internal
+ 
+
+1240
+00:26:21,079 --> 00:26:23,439
+we have a mandatory internal
+training system, all of us guys study
+
+1241
+00:26:23,439 --> 00:26:23,449
+training system, all of us guys study
+ 
+
+1242
+00:26:23,449 --> 00:26:25,959
+training system, all of us guys study
+blockchain technologies because guys come to us
+
+1243
+00:26:25,959 --> 00:26:25,969
+blockchain technologies because guys come to us
+ 
+
+1244
+00:26:25,969 --> 00:26:29,399
+blockchain technologies because guys come to us
+with varying degrees of training
+
+1245
+00:26:29,399 --> 00:26:29,409
+with varying degrees of training
+ 
+
+1246
+00:26:29,409 --> 00:26:32,949
+with varying degrees of training
+and are not programmers and the date the satanists themselves,
+
+1247
+00:26:32,949 --> 00:26:32,959
+and are not programmers and the date the satanists themselves,
+ 
+
+1248
+00:26:32,959 --> 00:26:37,239
+and are not programmers and the date the satanists themselves,
+as sometimes they don’t joke with us, and we
+
+1249
+00:26:37,239 --> 00:26:37,249
+as sometimes they don’t joke with us, and we
+ 
+
+1250
+00:26:37,249 --> 00:26:41,409
+as sometimes they don’t joke with us, and we
+give everyone clear and understandable tools, we
+
+1251
+00:26:41,409 --> 00:26:41,419
+give everyone clear and understandable tools, we
+ 
+
+1252
+00:26:41,419 --> 00:26:43,420
+give everyone clear and understandable tools, we
+tell how it works  so that
+
+1253
+00:26:43,420 --> 00:26:43,430
+tell how it works  so that
+ 
+
+1254
+00:26:43,430 --> 00:26:45,610
+tell how it works  so that
+they better understand the end
+
+1255
+00:26:45,610 --> 00:26:45,620
+they better understand the end
+ 
+
+1256
+00:26:45,620 --> 00:26:47,590
+they better understand the end
+user who works  with this
+
+1257
+00:26:47,590 --> 00:26:47,600
+user who works  with this
+ 
+
+1258
+00:26:47,600 --> 00:26:50,620
+user who works  with this
+tool and who is on the other side of the addresses
+
+1259
+00:26:50,620 --> 00:26:50,630
+tool and who is on the other side of the addresses
+ 
+
+1260
+00:26:50,630 --> 00:26:53,750
+tool and who is on the other side of the addresses
+
+1261
+00:26:53,750 --> 00:26:53,760
+
+ 
+
+1262
+00:26:53,760 --> 00:26:56,600
+
+here you can immediately
+
+1263
+00:26:56,600 --> 00:26:56,610
+here you can immediately
+ 
+
+1264
+00:26:56,610 --> 00:26:59,000
+here you can immediately
+attach the following to this question what specialists
+
+1265
+00:26:59,000 --> 00:26:59,010
+attach the following to this question what specialists
+ 
+
+1266
+00:26:59,010 --> 00:27:02,320
+attach the following to this question what specialists
+do you need how to get on your team
+
+1267
+00:27:02,320 --> 00:27:02,330
+do you need how to get on your team
+ 
+
+1268
+00:27:02,330 --> 00:27:06,460
+do you need how to get on your team
+we have a career section you can
+
+1269
+00:27:06,460 --> 00:27:06,470
+we have a career section you can
+ 
+
+1270
+00:27:06,470 --> 00:27:09,110
+we have a career section you can
+write there there is already a
+
+1271
+00:27:09,110 --> 00:27:09,120
+write there there is already a
+ 
+
+1272
+00:27:09,120 --> 00:27:10,760
+write there there is already a
+certain one at the moment 6 if my memory serves me right
+
+1273
+00:27:10,760 --> 00:27:10,770
+certain one at the moment 6 if my memory serves me right
+ 
+
+1274
+00:27:10,770 --> 00:27:12,070
+certain one at the moment 6 if my memory serves me right
+
+1275
+00:27:12,070 --> 00:27:12,080
+
+ 
+
+1276
+00:27:12,080 --> 00:27:15,020
+
+vacancies in the end
+
+1277
+00:27:15,020 --> 00:27:15,030
+vacancies in the end
+ 
+
+1278
+00:27:15,030 --> 00:27:17,090
+vacancies in the end
+all of these vacancies all of the resumes of which
+
+1279
+00:27:17,090 --> 00:27:17,100
+all of these vacancies all of the resumes of which
+ 
+
+1280
+00:27:17,100 --> 00:27:19,340
+all of these vacancies all of the resumes of which
+we receive goes to our enchant
+
+1281
+00:27:19,340 --> 00:27:19,350
+we receive goes to our enchant
+ 
+
+1282
+00:27:19,350 --> 00:27:21,290
+we receive goes to our enchant
+manager enchant manager analyzes
+
+1283
+00:27:21,290 --> 00:27:21,300
+manager enchant manager analyzes
+ 
+
+1284
+00:27:21,300 --> 00:27:23,570
+manager enchant manager analyzes
+accordingly contacts you in
+
+1285
+00:27:23,570 --> 00:27:23,580
+accordingly contacts you in
+ 
+
+1286
+00:27:23,580 --> 00:27:26,260
+accordingly contacts you in
+order to further determine how
+
+1287
+00:27:26,260 --> 00:27:26,270
+order to further determine how
+ 
+
+1288
+00:27:26,270 --> 00:27:29,540
+order to further determine how
+strong you are and how you can be useful within the
+
+1289
+00:27:29,540 --> 00:27:29,550
+strong you are and how you can be useful within the
+ 
+
+1290
+00:27:29,550 --> 00:27:31,220
+strong you are and how you can be useful within the
+framework of this product how we can
+
+1291
+00:27:31,220 --> 00:27:31,230
+framework of this product how we can
+ 
+
+1292
+00:27:31,230 --> 00:27:32,890
+framework of this product how we can
+be useful
+
+1293
+00:27:32,890 --> 00:27:32,900
+be useful
+ 
+
+1294
+00:27:32,900 --> 00:27:39,300
+be useful
+to you come  we will always be happy to
+
+1295
+00:27:39,300 --> 00:27:39,310
+
+ 
+
+1296
+00:27:39,310 --> 00:27:41,230
+
+super before
+
+1297
+00:27:41,230 --> 00:27:41,240
+super before
+ 
+
+1298
+00:27:41,240 --> 00:27:45,670
+super before
+we send a link to the site so the next
+
+1299
+00:27:45,670 --> 00:27:45,680
+we send a link to the site so the next
+ 
+
+1300
+00:27:45,680 --> 00:27:48,480
+we send a link to the site so the next
+question is
+
+1301
+00:27:48,480 --> 00:27:48,490
+
+ 
+
+1302
+00:27:48,490 --> 00:27:52,210
+
+if the method if from the most if the most
+
+1303
+00:27:52,210 --> 00:27:52,220
+if the method if from the most if the most
+ 
+
+1304
+00:27:52,220 --> 00:27:54,070
+if the method if from the most if the most
+effective way to get the scammer
+
+1305
+00:27:54,070 --> 00:27:54,080
+effective way to get the scammer
+ 
+
+1306
+00:27:54,080 --> 00:27:56,010
+effective way to get the scammer
+to return pokie to the
+
+1307
+00:27:56,010 --> 00:27:56,020
+to return pokie to the
+ 
+
+1308
+00:27:56,020 --> 00:27:59,980
+to return pokie to the
+deceased evil is dynamization
+
+1309
+00:27:59,980 --> 00:27:59,990
+deceased evil is dynamization
+ 
+
+1310
+00:27:59,990 --> 00:28:03,090
+deceased evil is dynamization
+is called this is the most effective way
+
+1311
+00:28:03,090 --> 00:28:03,100
+is called this is the most effective way
+ 
+
+1312
+00:28:03,100 --> 00:28:04,770
+is called this is the most effective way
+that
+
+1313
+00:28:04,770 --> 00:28:04,780
+that
+ 
+
+1314
+00:28:04,780 --> 00:28:07,540
+that
+allows you to return funds funds
+
+1315
+00:28:07,540 --> 00:28:07,550
+allows you to return funds funds
+ 
+
+1316
+00:28:07,550 --> 00:28:10,060
+allows you to return funds funds
+can be returned in different ways you can return
+
+1317
+00:28:10,060 --> 00:28:10,070
+can be returned in different ways you can return
+ 
+
+1318
+00:28:10,070 --> 00:28:12,850
+can be returned in different ways you can return
+funds to the floor sometimes thanks  it’s
+
+1319
+00:28:12,850 --> 00:28:12,860
+funds to the floor sometimes thanks  it’s
+ 
+
+1320
+00:28:12,860 --> 00:28:15,120
+funds to the floor sometimes thanks  it’s
+just that when you
+
+1321
+00:28:15,120 --> 00:28:15,130
+just that when you
+ 
+
+1322
+00:28:15,130 --> 00:28:19,330
+just that when you
+communicate there are no words, nor are we exclusively for the
+
+1323
+00:28:19,330 --> 00:28:19,340
+communicate there are no words, nor are we exclusively for the
+ 
+
+1324
+00:28:19,340 --> 00:28:21,330
+communicate there are no words, nor are we exclusively for the
+legal side of this issue
+
+1325
+00:28:21,330 --> 00:28:21,340
+legal side of this issue
+ 
+
+1326
+00:28:21,340 --> 00:28:25,270
+legal side of this issue
+when you communicate with a person when you
+
+1327
+00:28:25,270 --> 00:28:25,280
+when you communicate with a person when you
+ 
+
+1328
+00:28:25,280 --> 00:28:28,560
+when you communicate with a person when you
+explain that a person stumbled and
+
+1329
+00:28:28,560 --> 00:28:28,570
+explain that a person stumbled and
+ 
+
+1330
+00:28:28,570 --> 00:28:33,100
+explain that a person stumbled and
+it’s better to return the funds we have
+
+1331
+00:28:33,100 --> 00:28:33,110
+it’s better to return the funds we have
+ 
+
+1332
+00:28:33,110 --> 00:28:34,480
+it’s better to return the funds we have
+precedents where people returned the
+
+1333
+00:28:34,480 --> 00:28:34,490
+precedents where people returned the
+ 
+
+1334
+00:28:34,490 --> 00:28:38,010
+precedents where people returned the
+funds were identified as scammers
+
+1335
+00:28:38,010 --> 00:28:38,020
+funds were identified as scammers
+ 
+
+1336
+00:28:38,020 --> 00:28:41,430
+funds were identified as scammers
+we brought the
+
+1337
+00:28:41,430 --> 00:28:41,440
+we brought the
+ 
+
+1338
+00:28:41,440 --> 00:28:44,800
+we brought the
+victim together as a result we talked
+
+1339
+00:28:44,800 --> 00:28:44,810
+victim together as a result we talked
+ 
+
+1340
+00:28:44,810 --> 00:28:47,290
+victim together as a result we talked
+acted as mediators in these negotiations
+
+1341
+00:28:47,290 --> 00:28:47,300
+acted as mediators in these negotiations
+ 
+
+1342
+00:28:47,300 --> 00:28:50,140
+acted as mediators in these negotiations
+, in the end, we did not go to apologize and
+
+1343
+00:28:50,140 --> 00:28:50,150
+, in the end, we did not go to apologize and
+ 
+
+1344
+00:28:50,150 --> 00:28:53,600
+, in the end, we did not go to apologize and
+return the funds together such cases,
+
+1345
+00:28:53,600 --> 00:28:53,610
+return the funds together such cases,
+ 
+
+1346
+00:28:53,610 --> 00:28:56,020
+return the funds together such cases,
+but if a
+
+1347
+00:28:56,020 --> 00:28:56,030
+but if a
+ 
+
+1348
+00:28:56,030 --> 00:28:59,690
+but if a
+person does not want to return the funds,
+
+1349
+00:28:59,690 --> 00:28:59,700
+person does not want to return the funds,
+ 
+
+1350
+00:28:59,700 --> 00:29:03,350
+person does not want to return the funds,
+there is always a law, we already have
+
+1351
+00:29:03,350 --> 00:29:03,360
+there is always a law, we already have
+ 
+
+1352
+00:29:03,360 --> 00:29:05,810
+there is always a law, we already have
+certain materials on the site what
+
+1353
+00:29:05,810 --> 00:29:05,820
+certain materials on the site what
+ 
+
+1354
+00:29:05,820 --> 00:29:08,230
+certain materials on the site what
+to do if you have stolen the crypt
+
+1355
+00:29:08,230 --> 00:29:08,240
+to do if you have stolen the crypt
+ 
+
+1356
+00:29:08,240 --> 00:29:11,120
+to do if you have stolen the crypt
+there are specific links
+
+1357
+00:29:11,120 --> 00:29:11,130
+there are specific links
+ 
+
+1358
+00:29:11,130 --> 00:29:14,299
+there are specific links
+where to turn depending on the exchange as a
+
+1359
+00:29:14,299 --> 00:29:14,309
+where to turn depending on the exchange as a
+ 
+
+1360
+00:29:14,309 --> 00:29:16,400
+where to turn depending on the exchange as a
+whole if you find yourself in such a situation,
+
+1361
+00:29:16,400 --> 00:29:16,410
+whole if you find yourself in such a situation,
+ 
+
+1362
+00:29:16,410 --> 00:29:18,950
+whole if you find yourself in such a situation,
+please contact consultations we will help you
+
+1363
+00:29:18,950 --> 00:29:18,960
+please contact consultations we will help you
+ 
+
+1364
+00:29:18,960 --> 00:29:21,460
+please contact consultations we will help you
+tell you what to do how
+
+1365
+00:29:21,460 --> 00:29:21,470
+tell you what to do how
+ 
+
+1366
+00:29:21,470 --> 00:29:24,680
+tell you what to do how
+to respond quickly to this therefore please contact
+
+1367
+00:29:24,680 --> 00:29:24,690
+to respond quickly to this therefore please contact
+ 
+
+1368
+00:29:24,690 --> 00:29:29,510
+to respond quickly to this therefore please contact
+us we will always be happy
+
+1369
+00:29:29,510 --> 00:29:33,260
+
+ 
+
+1370
+00:29:33,260 --> 00:29:34,990
+
+ 
+
+1371
+00:29:34,990 --> 00:29:38,699
+
+ 
+
+1372
+00:29:38,699 --> 00:29:38,709
+
+ 
+
+1373
+00:29:38,709 --> 00:29:41,859
+
+to help  aim or
+
+1374
+00:29:41,859 --> 00:29:41,869
+to help  aim or
+ 
+
+1375
+00:29:41,869 --> 00:29:45,099
+to help  aim or
+crypto with mixers does not work we are very
+
+1376
+00:29:45,099 --> 00:29:45,109
+crypto with mixers does not work we are very
+ 
+
+1377
+00:29:45,109 --> 00:29:47,889
+crypto with mixers does not work we are very
+fast  we are moving towards technologies
+
+1378
+00:29:47,889 --> 00:29:47,899
+fast  we are moving towards technologies
+ 
+
+1379
+00:29:47,899 --> 00:29:49,719
+fast  we are moving towards technologies
+that will allow us to
+
+1380
+00:29:49,719 --> 00:29:49,729
+that will allow us to
+ 
+
+1381
+00:29:49,729 --> 00:29:51,789
+that will allow us to
+work with this quite effectively and I
+
+1382
+00:29:51,789 --> 00:29:51,799
+work with this quite effectively and I
+ 
+
+1383
+00:29:51,799 --> 00:29:55,180
+work with this quite effectively and I
+will certainly show the calculated time, but
+
+1384
+00:29:55,180 --> 00:29:55,190
+will certainly show the calculated time, but
+ 
+
+1385
+00:29:55,190 --> 00:29:57,579
+will certainly show the calculated time, but
+globally I feel quite
+
+1386
+00:29:57,579 --> 00:29:57,589
+globally I feel quite
+ 
+
+1387
+00:29:57,589 --> 00:29:58,739
+globally I feel quite
+good about
+
+1388
+00:29:58,739 --> 00:29:58,749
+good about
+ 
+
+1389
+00:29:58,749 --> 00:30:02,589
+good about
+this, this is my personal position, because if a
+
+1390
+00:30:02,589 --> 00:30:02,599
+this, this is my personal position, because if a
+ 
+
+1391
+00:30:02,599 --> 00:30:03,810
+this, this is my personal position, because if a
+person wants to remain
+
+1392
+00:30:03,810 --> 00:30:03,820
+person wants to remain
+ 
+
+1393
+00:30:03,820 --> 00:30:05,739
+person wants to remain
+confidential and does nothing of the sort,
+
+1394
+00:30:05,739 --> 00:30:05,749
+confidential and does nothing of the sort,
+ 
+
+1395
+00:30:05,749 --> 00:30:07,539
+confidential and does nothing of the sort,
+I believe that he has the right
+
+1396
+00:30:07,539 --> 00:30:07,549
+I believe that he has the right
+ 
+
+1397
+00:30:07,549 --> 00:30:09,519
+I believe that he has the right
+to remain  confidential if his
+
+1398
+00:30:09,519 --> 00:30:09,529
+to remain  confidential if his
+ 
+
+1399
+00:30:09,529 --> 00:30:12,609
+to remain  confidential if his
+choice to be used by mixers I respect
+
+1400
+00:30:12,609 --> 00:30:12,619
+choice to be used by mixers I respect
+ 
+
+1401
+00:30:12,619 --> 00:30:17,370
+choice to be used by mixers I respect
+him this choice of
+
+1402
+00:30:17,370 --> 00:30:19,320
+
+ 
+
+1403
+00:30:19,320 --> 00:30:19,330
+
+ 
+
+1404
+00:30:19,330 --> 00:30:23,919
+
+face mixers was also
+
+1405
+00:30:23,919 --> 00:30:23,929
+face mixers was also
+ 
+
+1406
+00:30:23,929 --> 00:30:26,960
+face mixers was also
+possible to understand the situation side to the beach
+
+1407
+00:30:26,960 --> 00:30:26,970
+possible to understand the situation side to the beach
+ 
+
+1408
+00:30:26,970 --> 00:30:32,499
+possible to understand the situation side to the beach
+is it considered bad or good that the language of the
+
+1409
+00:30:32,499 --> 00:30:32,509
+
+ 
+
+1410
+00:30:32,509 --> 00:30:35,210
+
+discussion on this matter is because it allegedly
+
+1411
+00:30:35,210 --> 00:30:35,220
+discussion on this matter is because it allegedly
+ 
+
+1412
+00:30:35,220 --> 00:30:37,369
+discussion on this matter is because it allegedly
+slowed down the technology development of
+
+1413
+00:30:37,369 --> 00:30:37,379
+slowed down the technology development of
+ 
+
+1414
+00:30:37,379 --> 00:30:42,129
+slowed down the technology development of
+technology but at the same time how would
+
+1415
+00:30:42,129 --> 00:30:42,139
+
+ 
+
+1416
+00:30:42,139 --> 00:30:45,529
+
+you know  there is, for example, a hammer, I
+
+1417
+00:30:45,529 --> 00:30:45,539
+you know  there is, for example, a hammer, I
+ 
+
+1418
+00:30:45,539 --> 00:30:47,269
+you know  there is, for example, a hammer, I
+consider it a little current as a tool for
+
+1419
+00:30:47,269 --> 00:30:47,279
+consider it a little current as a tool for
+ 
+
+1420
+00:30:47,279 --> 00:30:49,399
+consider it a little current as a tool for
+just hammering nails, and someone
+
+1421
+00:30:49,399 --> 00:30:49,409
+just hammering nails, and someone
+ 
+
+1422
+00:30:49,409 --> 00:30:51,049
+just hammering nails, and someone
+may consider a hammer as a
+
+1423
+00:30:51,049 --> 00:30:51,059
+may consider a hammer as a
+ 
+
+1424
+00:30:51,059 --> 00:30:53,259
+may consider a hammer as a
+tool to beat people and of
+
+1425
+00:30:53,259 --> 00:30:53,269
+tool to beat people and of
+ 
+
+1426
+00:30:53,269 --> 00:30:56,259
+tool to beat people and of
+course I condemn if a
+
+1427
+00:30:56,259 --> 00:30:56,269
+course I condemn if a
+ 
+
+1428
+00:30:56,269 --> 00:30:58,850
+course I condemn if a
+person uses mixers
+
+1429
+00:30:58,850 --> 00:30:58,860
+person uses mixers
+ 
+
+1430
+00:30:58,860 --> 00:31:01,159
+person uses mixers
+to launder dirty dirty money, then
+
+1431
+00:31:01,159 --> 00:31:01,169
+to launder dirty dirty money, then
+ 
+
+1432
+00:31:01,169 --> 00:31:03,320
+to launder dirty dirty money, then
+I relate to this  it's bad if a person
+
+1433
+00:31:03,320 --> 00:31:03,330
+I relate to this  it's bad if a person
+ 
+
+1434
+00:31:03,330 --> 00:31:05,060
+I relate to this  it's bad if a person
+uses it for that  o in order to remain
+
+1435
+00:31:05,060 --> 00:31:05,070
+uses it for that  o in order to remain
+ 
+
+1436
+00:31:05,070 --> 00:31:07,399
+uses it for that  o in order to remain
+anonymous, I feel good about this,
+
+1437
+00:31:07,399 --> 00:31:07,409
+anonymous, I feel good about this,
+ 
+
+1438
+00:31:07,409 --> 00:31:09,950
+anonymous, I feel good about this,
+what is happening now on the docash side, it’s
+
+1439
+00:31:09,950 --> 00:31:09,960
+what is happening now on the docash side, it’s
+ 
+
+1440
+00:31:09,960 --> 00:31:12,889
+what is happening now on the docash side, it’s
+difficult for me to somehow comment on behalf of a
+
+1441
+00:31:12,889 --> 00:31:12,899
+difficult for me to somehow comment on behalf of a
+ 
+
+1442
+00:31:12,899 --> 00:31:18,100
+difficult for me to somehow comment on behalf of a
+ml crypto, I think that the
+
+1443
+00:31:18,100 --> 00:31:18,110
+
+ 
+
+1444
+00:31:18,110 --> 00:31:22,190
+
+system that equalizes all needs
+
+1445
+00:31:22,190 --> 00:31:22,200
+system that equalizes all needs
+ 
+
+1446
+00:31:22,200 --> 00:31:24,350
+system that equalizes all needs
+is wrong, it seems to me that
+
+1447
+00:31:24,350 --> 00:31:24,360
+is wrong, it seems to me that
+ 
+
+1448
+00:31:24,360 --> 00:31:26,659
+is wrong, it seems to me that
+some more flexible
+
+1449
+00:31:26,659 --> 00:31:26,669
+some more flexible
+ 
+
+1450
+00:31:26,669 --> 00:31:28,749
+some more flexible
+mechanism of work should be used,
+
+1451
+00:31:28,749 --> 00:31:28,759
+mechanism of work should be used,
+ 
+
+1452
+00:31:28,759 --> 00:31:32,139
+mechanism of work should be used,
+perhaps partial regulation
+
+1453
+00:31:32,139 --> 00:31:32,149
+perhaps partial regulation
+ 
+
+1454
+00:31:32,149 --> 00:31:34,909
+perhaps partial regulation
+participants in order for us to remain
+
+1455
+00:31:34,909 --> 00:31:34,919
+participants in order for us to remain
+ 
+
+1456
+00:31:34,919 --> 00:31:37,580
+participants in order for us to remain
+in the legal field
+
+1457
+00:31:37,580 --> 00:31:37,590
+in the legal field
+ 
+
+1458
+00:31:37,590 --> 00:31:40,630
+in the legal field
+where it will be possible to prove, relatively speaking, the
+
+1459
+00:31:40,630 --> 00:31:40,640
+where it will be possible to prove, relatively speaking, the
+ 
+
+1460
+00:31:40,640 --> 00:31:44,960
+where it will be possible to prove, relatively speaking, the
+purity of the funds that I bring to the
+
+1461
+00:31:44,960 --> 00:31:44,970
+purity of the funds that I bring to the
+ 
+
+1462
+00:31:44,970 --> 00:31:47,240
+purity of the funds that I bring to the
+mixer without disclosing my own
+
+1463
+00:31:47,240 --> 00:31:47,250
+mixer without disclosing my own
+ 
+
+1464
+00:31:47,250 --> 00:31:48,730
+mixer without disclosing my own
+identity, and
+
+1465
+00:31:48,730 --> 00:31:48,740
+identity, and
+ 
+
+1466
+00:31:48,740 --> 00:31:52,370
+identity, and
+I believe that in this approach I have the
+
+1467
+00:31:52,370 --> 00:31:52,380
+I believe that in this approach I have the
+ 
+
+1468
+00:31:52,380 --> 00:31:56,799
+I believe that in this approach I have the
+right to maintain confidentiality,
+
+1469
+00:31:56,799 --> 00:31:56,809
+
+ 
+
+1470
+00:31:56,809 --> 00:31:59,999
+
+but regarding the fact that the developers
+
+1471
+00:31:59,999 --> 00:32:00,009
+but regarding the fact that the developers
+ 
+
+1472
+00:32:00,009 --> 00:32:03,039
+but regarding the fact that the developers
+specifically closed this, I certainly
+
+1473
+00:32:03,039 --> 00:32:03,049
+specifically closed this, I certainly
+ 
+
+1474
+00:32:03,049 --> 00:32:05,499
+specifically closed this, I certainly
+condemn  this is an equalization, relatively
+
+1475
+00:32:05,499 --> 00:32:05,509
+condemn  this is an equalization, relatively
+ 
+
+1476
+00:32:05,509 --> 00:32:06,720
+condemn  this is an equalization, relatively
+speaking,
+
+1477
+00:32:06,720 --> 00:32:06,730
+speaking,
+ 
+
+1478
+00:32:06,730 --> 00:32:10,600
+speaking,
+they are trying to impose a certain
+
+1479
+00:32:10,600 --> 00:32:10,610
+they are trying to impose a certain
+ 
+
+1480
+00:32:10,610 --> 00:32:13,600
+they are trying to impose a certain
+decision by force instead of sitting down at the
+
+1481
+00:32:13,600 --> 00:32:13,610
+decision by force instead of sitting down at the
+ 
+
+1482
+00:32:13,610 --> 00:32:15,580
+decision by force instead of sitting down at the
+negotiating table and discussing in discussions
+
+1483
+00:32:15,580 --> 00:32:15,590
+negotiating table and discussing in discussions
+ 
+
+1484
+00:32:15,590 --> 00:32:17,610
+negotiating table and discussing in discussions
+how to prevent
+
+1485
+00:32:17,610 --> 00:32:17,620
+how to prevent
+ 
+
+1486
+00:32:17,620 --> 00:32:21,610
+how to prevent
+laundering it by laundering funds through
+
+1487
+00:32:21,610 --> 00:32:21,620
+laundering it by laundering funds through
+ 
+
+1488
+00:32:21,620 --> 00:32:25,090
+laundering it by laundering funds through
+mixers while maintaining anonymity,
+
+1489
+00:32:25,090 --> 00:32:25,100
+mixers while maintaining anonymity,
+ 
+
+1490
+00:32:25,100 --> 00:32:28,020
+mixers while maintaining anonymity,
+so if we are talking about the arrests of
+
+1491
+00:32:28,020 --> 00:32:28,030
+so if we are talking about the arrests of
+ 
+
+1492
+00:32:28,030 --> 00:32:29,710
+so if we are talking about the arrests of
+developers, of course I
+
+1493
+00:32:29,710 --> 00:32:29,720
+developers, of course I
+ 
+
+1494
+00:32:29,720 --> 00:32:35,150
+developers, of course I
+I feel bad about it
+
+1495
+00:32:35,150 --> 00:32:35,160
+
+ 
+
+1496
+00:32:35,160 --> 00:32:39,250
+
+so more questions no
+
+1497
+00:32:39,250 --> 00:32:39,260
+so more questions no
+ 
+
+1498
+00:32:39,260 --> 00:32:41,380
+so more questions no
+question answered the
+
+1499
+00:32:41,380 --> 00:32:41,390
+question answered the
+ 
+
+1500
+00:32:41,390 --> 00:32:46,360
+question answered the
+hair wants to add something at the end of the
+
+1501
+00:32:46,360 --> 00:32:46,370
+
+ 
+
+1502
+00:32:46,370 --> 00:32:49,640
+
+next month and a half we will also have
+
+1503
+00:32:49,640 --> 00:32:49,650
+next month and a half we will also have
+ 
+
+1504
+00:32:49,650 --> 00:32:53,140
+next month and a half we will also have
+one very interesting announcement of a product
+
+1505
+00:32:53,140 --> 00:32:53,150
+one very interesting announcement of a product
+ 
+
+1506
+00:32:53,150 --> 00:32:56,200
+one very interesting announcement of a product
+that will allow us to
+
+1507
+00:32:56,200 --> 00:32:56,210
+that will allow us to
+ 
+
+1508
+00:32:56,210 --> 00:32:59,780
+that will allow us to
+work efficiently with scammers and it
+
+1509
+00:32:59,780 --> 00:32:59,790
+work efficiently with scammers and it
+ 
+
+1510
+00:32:59,790 --> 00:33:02,780
+work efficiently with scammers and it
+will make skill games less attractive
+
+1511
+00:33:02,780 --> 00:33:02,790
+will make skill games less attractive
+ 
+
+1512
+00:33:02,790 --> 00:33:04,850
+will make skill games less attractive
+to them for the next two months this is in
+
+1513
+00:33:04,850 --> 00:33:04,860
+to them for the next two months this is in
+ 
+
+1514
+00:33:04,860 --> 00:33:07,370
+to them for the next two months this is in
+within the framework of the work of our company, this is not
+
+1515
+00:33:07,370 --> 00:33:07,380
+within the framework of the work of our company, this is not
+ 
+
+1516
+00:33:07,380 --> 00:33:09,860
+within the framework of the work of our company, this is not
+a beholder product, this is a separate product and
+
+1517
+00:33:09,860 --> 00:33:09,870
+a beholder product, this is a separate product and
+ 
+
+1518
+00:33:09,870 --> 00:33:12,950
+a beholder product, this is a separate product and
+it will be very interesting and it
+
+1519
+00:33:12,950 --> 00:33:12,960
+it will be very interesting and it
+ 
+
+1520
+00:33:12,960 --> 00:33:14,990
+it will be very interesting and it
+will actually allow almost everyone to
+
+1521
+00:33:14,990 --> 00:33:15,000
+will actually allow almost everyone to
+ 
+
+1522
+00:33:15,000 --> 00:33:17,090
+will actually allow almost everyone to
+use it a very interesting
+
+1523
+00:33:17,090 --> 00:33:17,100
+use it a very interesting
+ 
+
+1524
+00:33:17,100 --> 00:33:19,730
+use it a very interesting
+solution will I don’t want to
+
+1525
+00:33:19,730 --> 00:33:19,740
+solution will I don’t want to
+ 
+
+1526
+00:33:19,740 --> 00:33:22,630
+solution will I don’t want to
+tell you ahead of time what its essence is, but
+
+1527
+00:33:22,630 --> 00:33:22,640
+tell you ahead of time what its essence is, but
+ 
+
+1528
+00:33:22,640 --> 00:33:26,080
+tell you ahead of time what its essence is, but
+those people who took part in the
+
+1529
+00:33:26,080 --> 00:33:26,090
+those people who took part in the
+ 
+
+1530
+00:33:26,090 --> 00:33:28,640
+those people who took part in the
+discussions of this  product in
+
+1531
+00:33:28,640 --> 00:33:28,650
+discussions of this  product in
+ 
+
+1532
+00:33:28,650 --> 00:33:31,010
+discussions of this  product in
+providing feedback, they
+
+1533
+00:33:31,010 --> 00:33:31,020
+providing feedback, they
+ 
+
+1534
+00:33:31,020 --> 00:33:33,250
+providing feedback, they
+highly appreciated it, we just
+
+1535
+00:33:33,250 --> 00:33:33,260
+highly appreciated it, we just
+ 
+
+1536
+00:33:33,260 --> 00:33:36,320
+highly appreciated it, we just
+have a lot of requests
+
+1537
+00:33:36,320 --> 00:33:36,330
+have a lot of requests
+ 
+
+1538
+00:33:36,330 --> 00:33:38,600
+have a lot of requests
+regarding various crypto incidents
+
+1539
+00:33:38,600 --> 00:33:38,610
+regarding various crypto incidents
+ 
+
+1540
+00:33:38,610 --> 00:33:40,250
+regarding various crypto incidents
+before and not only about or once the key we
+
+1541
+00:33:40,250 --> 00:33:40,260
+before and not only about or once the key we
+ 
+
+1542
+00:33:40,260 --> 00:33:42,320
+before and not only about or once the key we
+have a fairly large advertising
+
+1543
+00:33:42,320 --> 00:33:42,330
+have a fairly large advertising
+ 
+
+1544
+00:33:42,330 --> 00:33:46,810
+have a fairly large advertising
+campaign in the whole world, we
+
+1545
+00:33:46,810 --> 00:33:48,820
+campaign in the whole world, we
+ 
+
+1546
+00:33:48,820 --> 00:33:48,830
+
+ 
+
+1547
+00:33:48,830 --> 00:33:52,270
+
+have studied so many cases of
+
+1548
+00:33:52,270 --> 00:33:52,280
+have studied so many cases of
+ 
+
+1549
+00:33:52,280 --> 00:33:54,800
+have studied so many cases of
+fraud directly over the past six months  in  when you wonder
+
+1550
+00:33:54,800 --> 00:33:54,810
+fraud directly over the past six months  in  when you wonder
+ 
+
+1551
+00:33:54,810 --> 00:33:56,900
+fraud directly over the past six months  in  when you wonder
+how inventive these scammers
+
+1552
+00:33:56,900 --> 00:33:56,910
+how inventive these scammers
+ 
+
+1553
+00:33:56,910 --> 00:33:59,930
+how inventive these scammers
+are in the process of coming up with schemes and we
+
+1554
+00:33:59,930 --> 00:33:59,940
+are in the process of coming up with schemes and we
+ 
+
+1555
+00:33:59,940 --> 00:34:02,420
+are in the process of coming up with schemes and we
+understand that some schemes that
+
+1556
+00:34:02,420 --> 00:34:02,430
+understand that some schemes that
+ 
+
+1557
+00:34:02,430 --> 00:34:05,080
+understand that some schemes that
+have long existed in the crypto world
+
+1558
+00:34:05,080 --> 00:34:05,090
+have long existed in the crypto world
+ 
+
+1559
+00:34:05,090 --> 00:34:08,200
+have long existed in the crypto world
+are slowly beginning to penetrate
+
+1560
+00:34:08,200 --> 00:34:08,210
+are slowly beginning to penetrate
+ 
+
+1561
+00:34:08,210 --> 00:34:09,760
+are slowly beginning to penetrate
+into the
+
+1562
+00:34:09,760 --> 00:34:09,770
+into the
+ 
+
+1563
+00:34:09,770 --> 00:34:12,620
+into the
+Iberian one, this saddens us,
+
+1564
+00:34:12,620 --> 00:34:12,630
+Iberian one, this saddens us,
+ 
+
+1565
+00:34:12,630 --> 00:34:14,840
+Iberian one, this saddens us,
+but we intend to deal with this
+
+1566
+00:34:14,840 --> 00:34:14,850
+but we intend to deal with this
+ 
+
+1567
+00:34:14,850 --> 00:34:16,940
+but we intend to deal with this
+now, moreover, a rather interesting one will appear on the site
+
+1568
+00:34:16,940 --> 00:34:16,950
+now, moreover, a rather interesting one will appear on the site
+ 
+
+1569
+00:34:16,950 --> 00:34:19,159
+now, moreover, a rather interesting one will appear on the site
+the section that
+
+1570
+00:34:19,159 --> 00:34:19,169
+the section that
+ 
+
+1571
+00:34:19,169 --> 00:34:22,330
+the section that
+will be devoted to such an interesting
+
+1572
+00:34:22,330 --> 00:34:22,340
+will be devoted to such an interesting
+ 
+
+1573
+00:34:22,340 --> 00:34:25,909
+will be devoted to such an interesting
+example of crypto fraud, some
+
+1574
+00:34:25,909 --> 00:34:25,919
+example of crypto fraud, some
+ 
+
+1575
+00:34:25,919 --> 00:34:28,040
+example of crypto fraud, some
+examples just concern even the
+
+1576
+00:34:28,040 --> 00:34:28,050
+examples just concern even the
+ 
+
+1577
+00:34:28,050 --> 00:34:30,770
+examples just concern even the
+scale game, that is, people asked us for
+
+1578
+00:34:30,770 --> 00:34:30,780
+scale game, that is, people asked us for
+ 
+
+1579
+00:34:30,780 --> 00:34:31,669
+scale game, that is, people asked us for
+help to
+
+1580
+00:34:31,669 --> 00:34:31,679
+help to
+ 
+
+1581
+00:34:31,679 --> 00:34:35,030
+help to
+figure it out, unfortunately people made
+
+1582
+00:34:35,030 --> 00:34:35,040
+figure it out, unfortunately people made
+ 
+
+1583
+00:34:35,040 --> 00:34:36,220
+figure it out, unfortunately people made
+quite
+
+1584
+00:34:36,220 --> 00:34:36,230
+quite
+ 
+
+1585
+00:34:36,230 --> 00:34:40,190
+quite
+stupid mistakes, they made the transmission of the seed
+
+1586
+00:34:40,190 --> 00:34:40,200
+stupid mistakes, they made the transmission of the seed
+ 
+
+1587
+00:34:40,200 --> 00:34:43,490
+stupid mistakes, they made the transmission of the seed
+phrase, although they were quite intelligent guys,
+
+1588
+00:34:43,490 --> 00:34:43,500
+phrase, although they were quite intelligent guys,
+ 
+
+1589
+00:34:43,500 --> 00:34:46,130
+phrase, although they were quite intelligent guys,
+but due to the fact that they believed that it was  there was
+
+1590
+00:34:46,130 --> 00:34:46,140
+but due to the fact that they believed that it was  there was
+ 
+
+1591
+00:34:46,140 --> 00:34:49,630
+but due to the fact that they believed that it was  there was
+a technical support employee, they
+
+1592
+00:34:49,630 --> 00:34:49,640
+a technical support employee, they
+ 
+
+1593
+00:34:49,640 --> 00:34:52,460
+a technical support employee, they
+provided him with information by filling out a Google
+
+1594
+00:34:52,460 --> 00:34:52,470
+provided him with information by filling out a Google
+ 
+
+1595
+00:34:52,470 --> 00:34:55,770
+provided him with information by filling out a Google
+form,
+
+1596
+00:34:55,770 --> 00:34:55,780
+
+ 
+
+1597
+00:34:55,780 --> 00:34:56,970
+
+we are like that,
+
+1598
+00:34:56,970 --> 00:34:56,980
+we are like that,
+ 
+
+1599
+00:34:56,980 --> 00:34:59,370
+we are like that,
+we will probably cover the frame, then we
+
+1600
+00:34:59,370 --> 00:34:59,380
+we will probably cover the frame, then we
+ 
+
+1601
+00:34:59,380 --> 00:35:01,920
+we will probably cover the frame, then we
+will interact with you and what cases
+
+1602
+00:35:01,920 --> 00:35:01,930
+will interact with you and what cases
+ 
+
+1603
+00:35:01,930 --> 00:35:04,099
+will interact with you and what cases
+can be additionally published
+
+1604
+00:35:04,099 --> 00:35:04,109
+can be additionally published
+ 
+
+1605
+00:35:04,109 --> 00:35:07,800
+can be additionally published
+in our various telegram groups
+
+1606
+00:35:07,800 --> 00:35:07,810
+in our various telegram groups
+ 
+
+1607
+00:35:07,810 --> 00:35:09,900
+in our various telegram groups
+so that more users can and
+
+1608
+00:35:09,900 --> 00:35:09,910
+so that more users can and
+ 
+
+1609
+00:35:09,910 --> 00:35:11,660
+so that more users can and
+get acquainted with  different schemes
+
+1610
+00:35:11,660 --> 00:35:11,670
+get acquainted with  different schemes
+ 
+
+1611
+00:35:11,670 --> 00:35:13,440
+get acquainted with  different schemes
+fraud there are quite
+
+1612
+00:35:13,440 --> 00:35:13,450
+fraud there are quite
+ 
+
+1613
+00:35:13,450 --> 00:35:15,090
+fraud there are quite
+interesting cases in general, we try to write
+
+1614
+00:35:15,090 --> 00:35:15,100
+interesting cases in general, we try to write
+ 
+
+1615
+00:35:15,100 --> 00:35:16,650
+interesting cases in general, we try to write
+interesting enough so that the average
+
+1616
+00:35:16,650 --> 00:35:16,660
+interesting enough so that the average
+ 
+
+1617
+00:35:16,660 --> 00:35:19,980
+interesting enough so that the average
+user would be curious to read yes,
+
+1618
+00:35:19,980 --> 00:35:19,990
+user would be curious to read yes,
+ 
+
+1619
+00:35:19,990 --> 00:35:22,320
+user would be curious to read yes,
+I think this is some kind of serious
+
+1620
+00:35:22,320 --> 00:35:22,330
+I think this is some kind of serious
+ 
+
+1621
+00:35:22,330 --> 00:35:25,820
+I think this is some kind of serious
+community in order to increase the
+
+1622
+00:35:25,820 --> 00:35:25,830
+community in order to increase the
+ 
+
+1623
+00:35:25,830 --> 00:35:29,460
+community in order to increase the
+education of cryptocurrency storage security
+
+1624
+00:35:29,460 --> 00:35:29,470
+education of cryptocurrency storage security
+ 
+
+1625
+00:35:29,470 --> 00:35:32,460
+education of cryptocurrency storage security
+, we have articles already ready, they
+
+1626
+00:35:32,460 --> 00:35:32,470
+, we have articles already ready, they
+ 
+
+1627
+00:35:32,470 --> 00:35:34,830
+, we have articles already ready, they
+will be released this week, so what
+
+1628
+00:35:34,830 --> 00:35:34,840
+will be released this week, so what
+ 
+
+1629
+00:35:34,840 --> 00:35:36,390
+will be released this week, so what
+will come out if  if you want, I can send you
+
+1630
+00:35:36,390 --> 00:35:36,400
+will come out if  if you want, I can send you
+ 
+
+1631
+00:35:36,400 --> 00:35:39,140
+will come out if  if you want, I can send you
+links so that
+
+1632
+00:35:39,140 --> 00:35:39,150
+links so that
+ 
+
+1633
+00:35:39,150 --> 00:35:41,490
+links so that
+those who are interested can
+
+1634
+00:35:41,490 --> 00:35:41,500
+those who are interested can
+ 
+
+1635
+00:35:41,500 --> 00:35:45,890
+those who are interested can
+get acquainted with the
+
+1636
+00:35:45,890 --> 00:35:45,900
+
+ 
+
+1637
+00:35:45,900 --> 00:35:49,960
+
+sound is gone
+
+1638
+00:35:49,960 --> 00:35:49,970
+
+ 
+
+1639
+00:35:49,970 --> 00:35:52,349
+
+yes, let's say let's
+
+1640
+00:35:52,349 --> 00:35:52,359
+yes, let's say let's
+ 
+
+1641
+00:35:52,359 --> 00:35:54,760
+yes, let's say let's
+get it here we are just sending a
+
+1642
+00:35:54,760 --> 00:35:54,770
+get it here we are just sending a
+ 
+
+1643
+00:35:54,770 --> 00:35:56,099
+get it here we are just sending a
+parcel to
+
+1644
+00:35:56,099 --> 00:35:56,109
+parcel to
+ 
+
+1645
+00:35:56,109 --> 00:35:59,430
+parcel to
+someone who asked to get into the team
+
+1646
+00:35:59,430 --> 00:35:59,440
+someone who asked to get into the team
+ 
+
+1647
+00:35:59,440 --> 00:36:03,810
+someone who asked to get into the team
+here we go Rome will tell the community is
+
+1648
+00:36:03,810 --> 00:36:03,820
+here we go Rome will tell the community is
+ 
+
+1649
+00:36:03,820 --> 00:36:06,930
+here we go Rome will tell the community is
+healthy, well
+
+1650
+00:36:06,930 --> 00:36:06,940
+
+ 
+
+1651
+00:36:06,940 --> 00:36:09,780
+
+thank you to joke that you
+
+1652
+00:36:09,780 --> 00:36:09,790
+thank you to joke that you
+ 
+
+1653
+00:36:09,790 --> 00:36:12,970
+thank you to joke that you
+presented said very cool  xenu
+
+1654
+00:36:12,970 --> 00:36:12,980
+presented said very cool  xenu
+ 
+
+1655
+00:36:12,980 --> 00:36:14,440
+presented said very cool  xenu
+moving
+
+1656
+00:36:14,440 --> 00:36:14,450
+moving
+ 
+
+1657
+00:36:14,450 --> 00:36:16,359
+moving
+straight very much the site I look very beautifully
+
+1658
+00:36:16,359 --> 00:36:16,369
+straight very much the site I look very beautifully
+ 
+
+1659
+00:36:16,369 --> 00:36:18,450
+straight very much the site I look very beautifully
+updated also looked stopped
+
+1660
+00:36:18,450 --> 00:36:18,460
+updated also looked stopped
+ 
+
+1661
+00:36:18,460 --> 00:36:22,180
+updated also looked stopped
+thank you super thank us thank you
+
+1662
+00:36:22,180 --> 00:36:22,190
+thank you super thank us thank you
+ 
+
+1663
+00:36:22,190 --> 00:36:26,050
+thank you super thank us thank you
+thank you sharply and happily
+

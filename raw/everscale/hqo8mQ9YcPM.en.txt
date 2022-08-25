@@ -1,0 +1,1557 @@
+all right everyone
+so uh welcome to our 22nd
+weekly governance course of the d5
+return group
+it's a good day today so we have several
+news several updates and
+uh so let's let's make it sweet
+so first of all i will just drop you
+some news and updates about
+the brooks bridge hotenbridge ios you
+know it
+what's going on what happened over the
+previous two weeks and what's coming
+future
+next we'll discuss the stable contest uh
+leaded by alexander vartakin so uh there
+are also some updates and some
+topics for discussion uh next wintex
+team is ready to present the
+second stage of the polka dot bridge
+demo so we will
+have a good show today and also last but
+not least uh
+we will discuss the upgrade of tip three
+standards and uh i
+really hope that meteo will attend also
+and uh
+we'll i'm here oh you're here very good
+very good so
+uh there are several questions from the
+community that we will discuss a bit
+later so pl please don't don't leave
+so let's start from from the news uh
+actually
+as announced over the previous weekly
+main governance call so ton bridge io
+has launched the small
+bug bounty program and it
+lasted for over one week and we
+really grateful for all the community
+members who participated and
+helped us to improve the quality of the
+bridge
+and uh we are now collecting the results
+and
+we'll be announcing some special prizes
+uh
+i guess it will be early next week also
+what we are doing now so we are
+preparing the big bug bounty program so
+uh
+that will present i hope next week
+uh that just precedes the formal
+security audit
+of the breach so uh and there will be
+some good prizes so
+just keep subscribed and guys uh
+you will get to know first when it
+starts
+and yes all those who have submitted
+their current box they will also be
+eligible for participation
+so uh the only formal criteria is
+uh to publish it's a bug found in one of
+the
+bridge and
+so the bug should be unique
+next uh and another news about onbc so
+we have deployed
+uh root contracts for all other tokens
+that we promised so it's
+namely usdc dye robbed ethereum and
+dropped btc
+so uh i will publish root addresses
+today in the define group so just keep
+an eye on it and you can easily
+add them to your crystal wallet or use
+it through
+any other interface as you as you wish
+um yep uh so
+now the second topic is a stable coin
+contest so alexander here
+yes i am so the floor is yours please
+hello everyone maybe
+you saw yesterday
+my polls post in uh defile group
+about stages of
+development stablecoin contest
+the ram was if we look in decks
+there was four stages
+and
+it was more or less uh uh
+possible uh good um separate
+these four stages uh and do
+uh some smart counter contracts in one
+stage and the second
+and after that did some
+liquidity mechanism and
+[Music]
+ux yes interfaces
+um in stable coin i tried to do in the
+same way
+on the separate on four stages
+and but uh it was
+i didn't know how to do it i talked with
+different
+people about and we don't have uh one
+good opinion how to do it
+in different stages
+now i put some
+in group some plus on my message
+yes uh where we i
+suggest to think about how to do it
+and if somebody can help and
+now maybe we discuss a
+different opinion how to do
+different stages uh for stable con
+context
+uh the main problem that uh in stable
+coin
+everything so connects to each uh other
+but
+uh for example if we
+did some stable coil uh
+without uh um for example cdp
+and oracles it's it's nothing
+if we do stable coin and some alone or
+cdp
+mechanism and without oracles how we can
+test it
+it didn't work for my opinion
+uh and even uh to make oracles
+without a stablecoin mechanism
+it's mechanine for stabilization um
+can we test it
+maybe oracle yes but
+what we do with different than other
+things
+let's discuss if you have who has some
+opinions about it
+and maybe somebody can help me
+yes please raise hands
+well i will ignite uh so uh yeah dimitri
+please
+yeah you can say we don't hear you
+can you hear me no yes no
+okay please thank you uh thank you for a
+good informative uh proposal for four
+stages
+but uh my i think about
+some real implementation in which stage
+uh do everybody see
+the real implementation and launch of
+that stable coin so somebody can
+try to try to evaluate how stable it
+could be and how the stabilization works
+in real life
+maybe we should have the last stage for
+a real implementation
+when the launch real launch of that
+stable
+coin should be what do you think
+uh what do you recommend for example the
+first step
+uh no i i agree with your stages
+yes okay i think that
+they this overall task is uh
+very complex and it's hard to divide but
+uh i think it's reasonable to make some
+stages
+just like you wrote your proposal i
+think
+it's good steps
+um yes okay
+for example maslikov
+uh recommend yesterday um
+maybe um two stage
+uh there are various set of deck smart
+contracts
+uh where is smart contracts for stable
+coin
+and government governance coins
+and all mechanisms smart contracts of
+the long
+cdp or calculation of index to do it in
+one step
+it's good idea in case that
+it's really possible to test
+together but it's better idea that
+i think it's 70 or 80 percent of
+all work and we start to discuss
+maybe uh to do longer uh uh
+stage with maybe three months
+but um i know i'm not sure
+that it's a good idea
+to do one deep step for
+long time we will wait for example three
+months and
+in the end realize that don't have
+nothing
+it's better to do like scrum uh
+little steps more or less like scrub
+yet medley please yes i think that
+we should definitely have some
+measurable
+measurable goals for each stage so we
+can
+somehow judge some participants
+and understand who
+did the better uh one
+uh that's the main point and uh the
+uh if if we have the large stage
+uh which longs for several months it's
+it uh
+is a lesser lesser problem than the
+measure measurable
+some goals for each stage yeah
+great media please yeah i
+i kind of i'm lost because uh
+how the x contest is related to stable
+coin contest first um
+if you look in my message um at first
+i um show how it was in dex
+contest only that it was four states and
+it was uh more or less
+different steps with different
+mechanisms and uh
+are now about stable coin how we can do
+here well unlike example
+yes understood well the designs of
+stable coins
+and i'm of course referring to like our
+design with andrew for example
+are very different from other designs
+for example
+and i'm not sure we can pack it
+into steps that would be universal for
+all the designs so if there are several
+teams that would design
+several architectures of stablecoin
+which are completely different
+the design steps are not the same and
+they don't make sense
+for example for us to start with a smart
+contract what is smart contract for
+stable coin
+in i mean we have a completely different
+kind of situation we have a one uh
+one a set of contracts which are
+responsible for collecting
+oracle prices from validators and
+another set of con
+contracts which are the the weekly
+option
+the weekly auction for the for the price
+stabilization
+and the pool so
+you know like our auction yeah
+so yeah um i would not know where to
+start here
+like what what what applies to this
+now okay uh at least i think
+more or less three separate stage we
+have first
+it's uh some uh type of stabilization
+with stable coin
+second it's oracle and third it's a ux
+do you agree with this or not well
+i don't because in our case you have two
+stabilization mechanisms
+one a liquidity mechanism
+and then uh interfaces
+and since i believe that the interfaces
+and there are different interfaces by
+the way there is a different interface
+for validators
+there is you know for staking and all
+that stuff and then there is a different
+interface for
+um for liquidity pool providers and
+or reserve mechanism i would say and
+there is a different interface for
+auction
+and also auctions has a different
+interfaces one is for large
+uh buyers and sellers and another is for
+um you know for retail
+so and there is a special contract for
+retail by the way
+so i would not know
+which stage applied to which part of our
+implementation
+in this like i would propose to make it
+maybe more i would say general
+or even having it at one stage and just
+saying you know
+just do the implementation of whatever
+you want you have like three four months
+to do that and that's it
+maybe uh we can somehow define uh the
+scope of
+mvp so what we consider in the pins is
+in this case so
+uh before then for
+each yeah i agree that let's say but
+it's the same as i said like
+let's everyone will create an mvp and
+mvp means
+you know you cannot you know you're not
+going to
+expect it to be launched on the mainnet
+um
+but it should provide mechanics and may
+may lack some features
+something like that but just very
+generalized uh description
+i think because then the mvp in our case
+would mean very different uh have made
+very different meanings from meaning
+from the
+mvp of some other implementation i think
+but it's a better idea to
+separate stages not by
+functionality or by readiness yes
+maybe it's easy yeah yeah because
+everything
+in general right yes then in general but
+if you talk about in the
+minimum value product it's mean that
+value we have
+at least every team
+need to give minimal value it's mean
+that
+you can try you can test this is for
+example
+in my case for example it's stable coil
+that
+without governance mechanism without uh
+sorry i i don't think that has to do
+anything with the government because
+governance mechanisms for example in our
+case you don't have a governance
+mechanism
+it's built into the into the
+system and there is no you cannot
+separate if you
+but um i think what stablecoin need to
+prove
+on the mvp stage is actually the
+stability
+so we need to be able to um
+to actually kind of test the stability
+by
+inflicting a price rapid price changes
+downwards particularly and that should
+be the test case scenario
+but how you can do that without if if
+there is a mechanism based on value
+like based on some perception of the
+price
+then you cannot test it simply speaking
+you just won't be able to test it
+because the game mechanics will not
+be it cannot be simulated without money
+at stake
+now for example in your case uh you can
+start
+mvp without uh decentralized
+not nodes uh
+yes we can we can emulate the prices yes
+and relate to prices and uh
+but but but it won't what i'm saying is
+that it won't prove anything
+and the most important part in any
+stable coin isn't stability
+so on on the we're doing the mvp level
+but it's
+really just an mvp of the i would say
+functioning system with some user
+interfaces blah blah blah but
+we can we won't be able to test actually
+how this coin
+is going to really uh behave
+on in the real economic scenario
+right so we are not we're not going to
+be how we are going to
+kind of what what the um
+what the judgments like uh
+measurement should be okay guys i see
+that we have somehow stalked a bit here
+and
+so we have one more hand raised uh
+let's listen to ivan
+maybe he has some good ideas i just
+wanted to ask a question because like
+i'm not
+really uh expert so so the
+the the question is uh why do we need ux
+for stable coin contest like why are we
+even mentioned
+ux stage like because the does usdt have
+ux does die yes yeah it has
+well it's a product like it's a product
+but
+we don't speak a product we speaking
+about like
+implementation of of coin like
+smart contracts no
+if we talk about for example make it
+down
+uh if you don't you will not have
+interface for loan and
+this mechanism that somebody can give
+money and somebody
+can take money uh it's really
+will not work like stable coin mechanism
+uh in different stable coin different
+for example
+uh like usdt or we have uh in our
+design contest we had uh some
+uh submission whereas stability more or
+less like usdt but
+uh not without uh with um
+digital cryptocurrency there are
+no need special uix because
+there are no some liquidity mechanism or
+lawn or cdp it's mean that
+in really in here ivan you are right
+sometimes uh no need
+uh to speak about uh ux but sometimes
+yes
+like i just wanted to my opinion is like
+if if
+smart system works then you don't need
+ux to to some to proof or to like
+you don't need ux contest to say to say
+that
+okay we are ready
+yes it is just my opinion yeah i'm
+finished
+i think at this point we don't know
+maybe
+tbot interface will be enough but
+because we don't have a working
+implementation of debot interface
+i mean we do but we don't have that many
+examples
+uh which can use it in production ready
+system then why
+that's why we are kind of hedging this
+risk and
+we we don't know yet maybe we won't need
+this ui
+use interface stage maybe we will
+but we decided to put it in the context
+description
+so to show everyone that if by that time
+we don't have
+uh working or stable enough prototype or
+the community decides that it's not
+enough the keyboard interface is not
+enough
+it's not very convenient to use then
+we'll
+have the last stage dedicated to ux and
+ui
+and by the way the same logic applies to
+dex contest
+makes sense thank you
+okay uh so what's
+what's the solution so we need
+to agree on the next steps then so we
+should we make some kind of first meteor
+proposed more generic description
+of this mvp stage
+what do you think guys
+maybe we collect today tomorrow some
+opinion more
+and if no will better
+opinion maybe we make
+maybe not four maybe three stage and
+start from
+test from mvp second
+[Music]
+maybe already first maybe i'll
+bear some second mvp and third ready
+product with interface if it's neat or
+depots
+maybe like that okay
+what i propose is uh let's let's maybe
+finalize some kind of
+vision of this contest publish it and
+if there will be no big criticism
+until monday i would say let's publish
+it and run it
+so because we discussed for a long time
+and we need to move on with it
+yeah but one more meter um you said that
+the no the main things in stabilization
+but uh maybe not all submission
+um use special mechanism for
+stabilization
+for example some stable coils
+need for stabilization market makers and
+not automatic market makers
+i read some of uh submission and the
+remaining
+mechanism it's still a mechanism my
+point is um
+yes you mean that even your mechanism
+for stabilization you need uh
+used market makers even not automatic
+you need to give this mechanism for
+market making and not only that you need
+also to provide
+the risk they doesn't matter who
+or what should risk something in order
+to verify
+the the that this that the stable coin
+works for example
+like even in the usd scenario
+well if usdt if suddenly we tomorrow
+all of us know that there are there is
+no collateral
+in the in the form of u.s dollars in
+some bank account
+and it backed by nothing the well you
+will
+you kind of know what will happen to its
+price right
+yes so yeah so without the actual risk
+kind of uh factor in this game mechanic
+you will not be able to uh
+judge if the stable coin works or not
+yes but in case with usdt i think they
+didn't have special mechanism in this
+case
+this is the mechanism the fact that they
+collectorize
+you real us dollars in their bank
+account is the stabilization mechanism
+and everyone else on the market believes
+that they really
+have at least some of these dollars
+backing of the the usdt because if the
+market would not believe so
+the price of the usdt would be zero
+but uh if for example they have uh
+80 percent of characterization on 70 it
+doesn't mean that if yes it means
+yes it does meaning that uh right now
+that's why a lot of out money went out
+of usdt
+rapidly when they were like the the
+audit
+uh which which you know all this story
+so basically it affects
+the liquidity of the and after reaching
+certain point in liquidity
+um there the you would see the collapse
+of the price of
+usdt and therefore that's why they
+actually agreed in the end to this audit
+so they do have some usd some dollars
+making that
+up in the bank account otherwise you
+know otherwise we would see the
+the the the price collapse so what i my
+point is that on any stable coin
+mechanism doesn't matter what it is
+if it's automatic or not automatic fully
+on chain on on chain off chain
+combination or fully off chain
+you still need a real value behind this
+mechanism
+to test if this if the coin is stable
+because for example
+if tomorrow some guy who is known crook
+like a convicted felon
+will uh issue a stable coin and will say
+i back this stable coin with dollars in
+my account i don't think this
+uh this stable coin will you know have
+any value
+so it's also it's also depends not only
+in some points
+not only depends on the algorithms it
+can depend also on the
+like for example someone's um reputation
+but it's still a market and gay
+mechanics mechanism
+okay
+right any other points on the opinions
+on this
+three two one no good uh in this case we
+go to the next uh topic on today's
+agenda so
+uh wintex team is going to present the
+second stage of
+polka dot bridge so alex please
+yes good day everyone uh vladislav can i
+ask you to
+allow us to share a screen already
+already done
+dimitri yeah dmitry pablo okay can
+everyone see
+all right um the second milestone has
+come to an end
+and we are ready to present you the
+transfer
+of tokens between the two blockchains
+which is a
+substrate based chain and uh
+free tone chain uh it was very very hot
+in developing past few weeks
+we just finished and we will start the
+demonstration now
+as usual we are starting the two nodes
+on the screen as you can see
+one is a free turn node and another is a
+substrate base node
+okay it's ready
+setup sense let's start the setup
+okay this setup sends the initial value
+to contracts and deploy them
+to a local tone node also set up
+a substrate node for interacting with
+doton protocol
+now we are waiting for containers to
+finish the setup
+it may take some time but it will happen
+let's wait for this
+okay while this happening uh we we
+finish only the second stage out
+of four which means we are ready to
+transfer the tokens themselves but we
+still have so much to do in upfront of
+us
+like the economics part of it and etc
+etc
+okay let's see how it's going
+please bear with us it will happen
+okay it's uh it's done now
+so we are starting the relay node or
+bridge node itself
+okay it's all started well okay we will
+start transfer the first transfer will
+be from substrate base node
+to a free tone node and to do this we
+set the balance
+to account with a name of ton recipient
+yep okay this one uh it is zero now as
+you can see
+and we will top it up by
+10 000 for example as an example
+this is needed because we are in the
+development mode right now
+okay uh as we can see the balance has
+has it changed
+yeah okay we got the 10 000
+[Music]
+okay we are initiating the transfer of
+tokens from substrate account
+to well okay let's see the address
+to which uh we will top up the balance
+okay we see the pre-deployed wallet in a
+free tone network
+as you can see the balance is zero right
+now
+and the address we're copying the
+address to which we will
+send the money
+one second okay we will send 1000
+as an example and let's sign the
+transaction
+okay signing is successful now we check
+in the relay node log to see when the
+relay node will show us
+that it is got the event
+once again it may take some time for the
+blockchain to
+process this information
+okay the relay node is attempting to
+send a proposal about the token transfer
+it approves itself because at this stage
+we have uh
+only one relayer
+one second
+okay i think we have a little bit of a
+trouble we will try to
+troubleshoot it right now
+i think we copied the wrong address
+let's try again okay so why
+one second
+okay we will try to send one more time
+because the address we copied was wrong
+just a typo nothing to worry about okay
+and we are waiting in relay node again
+the message
+one second
+okay now it's all done the address is
+correct uh everything has happened relay
+node is attempted
+and because we have only one relayer we
+sign it signed itself that transaction
+now let's
+check our balance on the free tone side
+one second yeah
+one two
+three
+sometimes that might take some time
+because then
+okay just a minute we will
+check to see what's going on
+[Music]
+we um trouble only sister
+okay i think it may be because we have
+sent
+twice and the noun was repeated twice
+the same noun
+okay i'm sorry we started from yeah
+we one second maybe we should start
+from the beginning what do you think
+from
+from the very beginning yeah yeah okay
+we will try to redeploy everything i'm
+sorry terribly terribly sorry this
+happened because of the typo the noun
+has doubled it up
+it was working just a second ago
+just a human mistake
+okay we once again we're restarting the
+nodes
+and
+start the setup as well
+[Music]
+so we need finish for the notes
+okay
+when the relay node yeah ready this
+one second guys let us let us check how
+it starts
+okay just a second bear with us please
+okay okay well back
+almost back where we left it the last
+time one second
+i'm sorry we've checked this like a
+million times and it was working
+and as usual on the presentation it has
+to go wrong
+absolutely it was working like a million
+uh we will
+try to send once again uh we're starting
+from the zero
+we top up the balance of the user
+uh which is a tone recipient user by ten
+thousand
+okay
+[Music]
+okay
+now we copy the address now without a
+mistake this time around
+and we will try to send this well we
+will send this
+to an address
+that we copied just now
+yeah we will we will send one thousand
+because we have ten thousand on a
+balance
+we will send just a part of it partial
+okay
+we're just making sure that every every
+letter is correct with sorry
+signing the transaction and
+submit
+okay the balance has some money has gone
+away which is a thousand and now we
+we're waiting for that money
+in in another blockchain
+now we are we are still in a relay node
+waiting for the
+event to happen okay okay now it's
+gone well let's check the balance on uh
+uh yeah on the free tone side
+see if it has happened it was zero
+let's check the balance okay finally
+we go a thousand tokens dtn
+on the balance which is a perfect result
+okay all done uh
+now let's see how the transfer tokens
+the opposite way when we try to send
+money for
+try to set tokens i'm sorry in a console
+sending
+let's say 100 yes
+100 ton to our substrate
+we are sending yep
+and the second transaction yeah with the
+zeros
+yeah with the zero amount because the
+local tone doesn't produce the
+empty blocks so in a bridge log
+we can see the proposal yes it came
+through
+now we check the balance on the
+substrate
+side uh it's supposed to increase
+hold on a second let's see okay the
+balance has increased and let's see the
+transaction details that it exactly 100
+yep
+okay uh just just to explain the numbers
+on the substrate account are not whole
+uh because there was a commission on the
+substrate side when we
+transfer the money first so to conclude
+the token transfer between blockchains
+uh we also wanted to say in regards to
+continuous integration that we have
+created
+a few scripts to
+build and deliver our docket containers
+to docker hub
+which will improve the delivery process
+in the future for the next milestones
+in a system and everything that we have
+demonstrated today
+we are we will be ready to deploy
+tomorrow to the github
+and the documentation as well we will
+update it by tomorrow
+so everything we have shown you will see
+and you can check yourself
+starting from tomorrow and as always we
+asking the teams to join in testing and
+checking this milestone
+it was very hot and nice if
+during the check you have any questions
+we are welcoming everyone to ask these
+questions we will participate we will
+try to
+work together and if you have anything
+or any questions
+uh i'm sure we can resolve those
+and back to you i think uh vlad
+what is love yes thank you so much
+guys do you have any questions for the
+winter team
+really no
+come on don't be shy okay we we are
+sorry again
+it didn't supposed to break down
+it's okay always on the public
+demonstrations
+something must fail yes
+can you repeat the question uh you
+asking about the final product when it's
+already a bridge
+when when are you planning to release it
+uh it doesn't depend only on us because
+we finish the second stage at the moment
+and
+there will be another two contests up
+front of us it depends
+on when the teams will deploy those
+contracts
+or contests and when we'll be
+ready so we the time management
+we didn't actually count on it we did we
+don't really know it doesn't depend only
+on us it depends on on the team
+uh on freetown side
+yeah but you can take the initiative and
+prepare the contest
+yourself and just drop for discussions
+yes we will definitely do this uh
+let um maybe on the next week call we
+can answer your question or maybe we
+will answer in the telegram a little bit
+later
+we will have a look i understand the
+question we will have a look in it
+and we will answer definitely to you
+but like guys i'm probably missing
+something on the governance side
+so this is phase stage two right and
+eurozone
+only team that develops uh develops uh
+the bridge
+the polkadot bridge well yes yes
+like why do we need a contest can it be
+like a partnership proposal given that
+it was a discussion on this alexander so
+we had it
+i guess it was several months ago uh
+if i'm not drunk so we had this
+discussion with mita also
+on this point so when uh he's here yeah
+i remember yeah so
+yeah it doesn't change it doesn't change
+now anything
+would it be proposal or contest
+absolutely because the timing is the
+same it won't give any any progress on
+the timing and
+it's not fitting in the proposal
+description doesn't matter if you have a
+contest and even one participant in this
+context doesn't change anything
+yeah yeah i understand but just just
+like from the logic standpoint i mean i
+understand first stage one for design i
+understand for stage two
+like initial implementation but like if
+you have one
+team left nobody else would come to the
+contest and then make a lot of sense
+like
+well logical we don't know that
+we don't know that and there is no way
+to to distribute tokens otherwise
+proposals
+partnerships are not for that and you
+know partnerships has a criteria
+and the developers development contest
+has another criteria
+so it could what did it change nothing
+but at the same time and i'm okay but
+just
+doesn't really make a lot of sense from
+the logic standpoint
+it does because nobody prevents anyone
+else to actually participate even in the
+stage three we cannot
+be certain that no one just sit there
+and
+develop the whole thing and just rolled
+it in the third stage
+theoretically it's possible
+but anyway uh winter stream so uh
+i think that you can give some
+estimations uh on as
+timing that you need to to deliver the
+first the full thing
+and uh as you will just lead in
+uh this development and uh it is correct
+that you're
+the only one active team as far as i see
+so uh
+you can say that okay guys so we're
+ready to deliver it within one month
+so we can just make it simpler simpler
+so and with a much
+shorter period so no need to wait uh
+one month for each iteration okay yeah
+let's start yes we will look into this
+and we will do
+the estimation on the timing alexander
+thank you for the question
+and uh of course we will we will post
+this information so everyone can see
+okay uh mr mcquack please
+hello uh i just wanna comment one
+comment maybe you can share the link to
+the group to your github and so on
+um for others because
+i think uh yeah
+we will prepare the uh all the images
+that
+necessary to for you to have a look in
+the code if i if i understand correctly
+your question is uh
+when when you have when we can deploy
+this or what was the question
+just link to your github yes just link
+to your github uh
+yeah it will be tomorrow it will be
+ready by tomorrow and we will share that
+in uh
+in the chat in the telegram okay thank
+you
+thank you alexander nice
+guys uh how i understand it's finished
+uh second stage of implementation
+and uh julie start to voting or not
+yeah formally uh if i remember it well
+so
+uh we they need to apply so we all have
+applied already
+for the second stage of the contest and
+uh
+the jurors yes i can start voting
+facts if i if i think in the right way
+um one question more to winter's
+team do you have some ready container
+where
+we can take and do local testing
+for understanding that all what we
+see now them are working in this way
+in the same way and i think we need to
+do it yes
+like jury uh
+alexander yes uh we will just
+like the last time we will make sure
+that the containers are ready so
+and the instruction all the
+documentation that necessary to launch
+it
+we will include that just like the last
+time
+except that the code inside it is brand
+new because we had to rework
+many many things uh to make sure the
+tokens are transferred correctly
+and as soon as it's ready we will do the
+submission and of course you will see
+the
+code just as uh as the last time as
+usual yes okay
+last time was uh pretty good and was
+easy to testing uh your container
+and if it will be in the same way it
+will be good
+thank you alexander thank you thank you
+very very much yes we
+we are making sure that we it is as
+simple as it is possible technically
+very good so by the way i just checked
+so you have for this left
+until the submission so please keep an
+eye on the timing
+and afterwards jurors will come
+commonplace thank you thank you
+yes but we will finish and as soon as
+it's ready we will post the information
+okay okay very good thank you
+uh any other opinions guys
+three two one no uh all right
+uh so um then we move into the
+last topic of the today's agenda so it's
+more uh
+more the topic for discussion and just
+to hear
+uh different points of view um
+it's about the tip three uh token
+standard
+and uh right what's going on actually so
+uh we have uh several teams already
+improving uh and upgrading they stock in
+sterling because they
+uh lack some functionalities
+in it like for example for ton bridge
+or for dex implementations and
+uh there were several requests
+to give more uh idea on
+on how how this standard should evolve
+uh in future and uh yeah so
+i wish we will give word to media who
+was a developer of this standard so meet
+up please
+yeah so we just had this exact same
+discussion on
+uh developer experience of governance
+and even voted
+so let me just briefly you know
+explain what the discussion was
+arguments and
+conclusion at least from the developer
+experience of gov
+um i have created a repository i will
+share it
+in what in in today
+which is a tip 3 kind of consortium
+and the idea is the following
+so um let me explain
+so there is a tip three mechanism
+as you all know probably which is the
+mechanism of how to create a distributed
+token
+how to verify the code of the token on
+the other side how to trade between the
+token between the wallet stock and
+wallets
+individually now transfer meaning now
+um we call tip three
+this mechanism all the
+current proposals relate to
+interfaces of t3 token so different
+different interfaces and functions to
+kind of
+extend well the interface and
+the idea behind this was
+kind of um in process of
+how we standardize the
+api basically of this token
+now we started discussion with brooks's
+team on the aba proposals that they had
+and there is some proposal
+on the forum that listed there and so on
+and we were trying like to discuss
+of how we can harmonize this api
+we also in turn labs are implementing
+now distribute this decentralized
+exchange
+and uh we also kind of
+had a you know we needed to change
+the api as well and uh and we also
+needed to make it so
+that it will fit into one message
+deploy and when we
+kind of collected all of it together we
+realized that there is no way to do that
+meaning you cannot leave
+a creator talking with an interfaces
+that will be universally good for
+everyone
+that's one point another point much
+more problematic is that
+actually you cannot have a
+compatible tip three tokens on the level
+of interaction between t3 tokens because
+in order to make them compatible you
+need to make them binary compatible
+which is absolutely unrealistic because
+you would not only need to write them in
+the same language you would also
+need to compile them with the same
+compiler all the time
+which makes it absolutely no go
+so so this leaves us with the following
+we have a growing request for changing
+in the uh interface level making the
+uh compatibility issue
+an issue of the size actually of the
+of the token and at the same time we
+have a situation where we cannot
+actually ensure the binary compatibility
+of the token
+implementation which leads us
+to i think the only logical conclusion
+that we should not
+try to harmonize the interfaces because
+it doesn't make any sense
+therefore the uh proposal is the for and
+okay so let me uh pros and cons
+the process okay we don't harmonize that
+now because we actually cannot the
+cons of that is that now
+we have an on-chain compatibility
+problem
+composability problem and off chain
+compatibility problem
+now let's discuss two of them the on
+chain composibility problem because we
+cannot
+have the binary compatibility any way we
+will have it so when you
+have to create an interface for example
+a dex
+which need to talk to different type
+three implementations
+because you cannot harmonize them you
+will need to probably create some kind
+of contracts
+that will interface with them and
+then work around this issue either you
+create a large contract which
+which has all the interfaces that you
+need implemented there
+and has all the codes binary codes of
+the
+of this of this binary compatible
+meaning codes of all this
+tip tree that you want to support or you
+create some kind of wrappers
+around them that one deploy depose
+you know make a deposit of one code and
+getting another
+so there are ways around that the
+problem is that
+there is no way to to have a different
+way
+it's just not working um and on the
+front end size side the
+harmonization of the front end in
+freetone
+is reached through tibots
+mechanism and not through abi
+compatibility
+uh it's actually way more scalable i
+don't want to go into that again
+but debot solves this problem where abi
+compatibility
+does not so in a way you don't have a
+problem
+if you have a debot on the front end as
+long as you
+you only need to support the bot
+standards which is described in is
+consortium
+and having you know debot engine or
+implement your own debt engine or having
+debot engines part of sdk
+and you will once you do that you write
+your debot the way
+you like it to in to interrupt with
+whatever tip three tokens you want
+and that's how you achieve full uh
+compatibility
+and uh and you know uh extensibility
+to the on the interface level so this
+process
+serves already uh like a proxy between
+uh different interfaces different
+implementations
+there is no need for any proxy it's uh
+and surf is just an example of the
+blockchain browser
+which supports the bot you can create
+your own browser
+or add sdbot support in your
+wallet and it will immediately support
+all the debugs as long as you follow
+the debug engine start standards which
+described in is consortium
+so the idea is to have a
+same consortium for tip 3 and say
+that we actually like you can add
+interfaces as much as you like and the
+only rule is
+for t3 talking is that the the actual
+mechanism of
+tip 3 token is the same meaning you
+don't change that
+and if you want to change that then we
+need to talk because this is a security
+issue
+so you have this mechanism of verifying
+the code of the contract code and you
+know and and all that stuff
+internally and on the external side
+maybe
+we agree on like one or two interfaces
+like transfer for example something like
+that which
+should be supported anyway and then on
+top of that
+you can add as much as you want
+interfaces and if anyone wants to
+support your
+tip three api uh in t3 token
+it goes to this consortium where you
+list all these changes
+and and supports them on their own chain
+you know smart contract
+and we believe that this is the only way
+to actually you know have this kind of
+standard
+um support that and uh there was no
+objections on the
+no single objection to that on the
+developer experience level
+but let's i'm ready to you know let's
+discuss it if you have any objections
+in this sub governance
+okay guys please don't don't be shy
+raise your hands and ask questions
+or you need some time to digest
+absolute silence well uh in my opinion
+uh
+i i share your idea uh that we need some
+um
+some some uh how to name it someplace
+yeah where where we can synchronize on
+the
+tip three implementations so we're like
+you name it consortium
+so and uh let me again let me correct
+this is not about synchronization
+it's not about agreement anyone can
+list any interface additional interface
+or
+change of the interface in this
+consortium
+just on the purely the only thing
+that you need to follow there are two
+rules that you need to follow first
+don't change the token itself meaning
+the mechanism of the token inside
+second don't create
+like copies so
+you if someone already created this kind
+of interface
+if you want to change it propose a
+change but don't
+you know uh don't just invent a
+field if someone already implement this
+interface just follow this interface
+do you have some kind of website or some
+something like this i already created
+repository we'll share it today
+okay okay so please drop it to the
+default group as well
+so uh so that everyone can just go there
+and
+check uh
+all right i think that's more than
+enough information and
+it's actually answers most of the
+questions that appear in
+in the forum and chats if someone has
+some something to to say guys this is
+the right moment please
+and no uh all right so
+uh mr mr
+uh i understand correctly that
+midterm means that
+[Music]
+we don't need many deep
+free tokens and contracts
+because we have we can
+um we don't need to create new
+t3 we just can't create
+as i think we just can create new
+uh who will work with us
+no not correct no um
+is one part of the story uh for the what
+you create for the
+front end uh compatibility
+for the internal compatibility between
+tip3 tokens it cannot be achieved
+and therefore it doesn't make any sense
+to standardize
+the uh the interfaces so the abi
+of the debot if you want in the external
+methods
+or internal methods you can create as
+much as you want
+if you want someone else to be able to
+be compatible with your talk and you
+just list that in this consortium
+repository add that there and that's it
+you don't need to ask anyone else to do
+that
+yes i understand this yes yes
+thank you
+good yes
+i like in this story our tokens are
+considered standard without
+modifications
+it's good we get capability with
+values through the bot which is ready
+but um
+i'm not sure if this can be considered
+standard and
+i don't like is that everyone
+you have to embed a devote engine
+everywhere
+it's my opinion
+well the bot is a standard so jibot has
+a consortium which works on the standard
+it's a way as i explained in in direct
+sub governance
+the debug standard is exactly like html
+standard works
+you have a browser anyone can create a
+browser you have an html which has a
+standards which if you want to support
+on the browser level you support that
+any developer which wants to create an
+html
+which which is compatible with you know
+with the standard
+creates the html which compatible with
+the standards and if the browser
+supports that
+you will have your html works in that
+browser immediately
+that's the way web operated i don't
+think we need to change that
+and i don't think it's a failed model i
+think this model proved
+itself very good um
+it's just impossible to create
+compatibility on abi level we just
+discussed that so i don't think there is
+also not only that is good there is also
+no other way
+to do that so again you can
+create a you can be compatible with
+any abi on
+the tip three if you just implement it
+manually
+on the tip three consortium level so you
+have tip three there are listed
+you know interfaces there you can take
+these interfaces and implement them
+you know one by one in your wallet
+instead of implementing the debug engine
+uh it is is it a good way to do that
+i don't think so but it's up to you it's
+up to the wallet developer and they want
+to do it this way
+which is uh you know in ethereum proof
+that's
+absolutely you know not
+not good we can see that it's a failed
+model
+but if you want to follow that you have
+this choice so
+we kind of have all of the choices you
+want right
+and uh you know if you also
+like if you don't like then propose it
+because
+again as i said even if we create this
+universal standard of apis
+we will not be able to create a
+compatibility
+of the debugs on their own chain anyway
+so like i don't see why it shouldn't
+work
+i'm afraid that many of you start
+support without the boats typically
+for several lobby yes sure
+do it
+okay i can answer this
+you you can like in the text you just
+you just go to the consortium of tip
+three and you just support all the tip
+three
+uh that t3s that list that
+implementation that listed there
+um you cannot
+uh if there is a way to check
+compatibility
+by code by binary code you you you can
+do that so
+any code any tip three that follows
+a particular you know as a particular
+binary and and the interface standards
+combined com you know compiled with a
+similar
+same com compiler
+basically having the same binary code
+will be working with your decks
+but if you have a new token coming you
+will need to support that token
+meaning that if you have a token which
+is even the same token but just com
+compiled with the latest version um
+you will still need to add that into
+your into your decks
+and there is simply no way around that
+but i would say it's an improvement over
+what you have now
+um in other chains
+but it's not you know ideal
+well because there is no ideal in the
+world i guess
+as always a compromise
+well what we're doing with our decks
+just to add to that
+is that we uh create a wrapper
+and uh talk an internal token for the
+decks
+and you always can rap like
+you can you can
+you can create a like a wrapper factory
+which if the wrapper is wrapping into
+new
+your dex token then it will be
+automatically supported so if i have a
+talk and a tip tree token
+which i for some reason has you know
+interface changed or
+binary code changed then i just need to
+create a wrapper for your dex and it
+will work immediately so you don't
+you actually can't create this automatic
+way to automatically add tokens there is
+no problem with that
+i think is it worth to mention videos
+that you mentioned on the works called
+that
+there is a tip another tip in progress
+like maybe you
+can introduce
+oh you mean for the debot address
+discovery right
+yeah well but it's not related but it
+may be related to the
+to your yeah well it allows it allows it
+allows the
+given like project to automate the like
+uh design wants to add
+yes user wants to add some token he just
+like proposed this uh
+name of the token and everything well
+the question was about the dex that if
+you want to
+talk about the interface yeah then there
+will be a way
+to automate the discovery of the um
+of the debot from the address of the
+contract so you
+you have an address you can calculate
+the address of the debot
+to this contract actually to 2d bots one
+debate will be discovered based on the
+hash code
+of your contract so like any contract
+with the same hash code
+maybe may have just an address of the
+debot
+discoverable on the on the client side
+and also the debug which based on just
+this particular address
+so this particular address discoverable
+debug i mean it's quite easy to
+to realize that of course so you have
+you have two ways to you have
+you have a way to discover the general
+debate for the code
+of the contract for all the contracts
+deployed
+same contracts deployed and then also
+the bot for this particular your
+particular contracts
+and you just operate the way you want
+with this
+good that sounds very interesting
+uh yeah i really want to say something
+no uh okay guys thank you media for this
+very sophisticated and interesting
+discussion so uh
+still if you if any one of those who
+will listen to this or read to this
+so if you have any questions so don't
+hesitate to just uh
+leave your comments in the defy group
+mention media
+or maybe on the forum is a bad choice
+and
+yeah so i think this is pretty pretty
+clear now
+so how to act with c3 tokens
+uh so that's pretty it for today's
+agenda
+so uh if you have any open topics for
+discussion so please
+now the open scene time
+just raise your hands please
+three two one
+thank you everyone so see you same time
+next week
+and have a nice weekend bye-bye
+goodbye

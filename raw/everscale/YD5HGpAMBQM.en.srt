@@ -1,0 +1,435 @@
+1
+00:00:00,799 --> 00:00:03,990
+
+everscale has its own nft standard
+
+2
+00:00:03,990 --> 00:00:04,000
+everscale has its own nft standard
+ 
+
+3
+00:00:04,000 --> 00:00:07,749
+everscale has its own nft standard
+called tip 4 or true nft which is a
+
+4
+00:00:07,749 --> 00:00:07,759
+called tip 4 or true nft which is a
+ 
+
+5
+00:00:07,759 --> 00:00:10,230
+called tip 4 or true nft which is a
+product of collaboration between all the
+
+6
+00:00:10,230 --> 00:00:10,240
+product of collaboration between all the
+ 
+
+7
+00:00:10,240 --> 00:00:12,070
+product of collaboration between all the
+everscale developers and teams on the
+
+8
+00:00:12,070 --> 00:00:12,080
+everscale developers and teams on the
+ 
+
+9
+00:00:12,080 --> 00:00:13,749
+everscale developers and teams on the
+network how does it work from a
+
+10
+00:00:13,749 --> 00:00:13,759
+network how does it work from a
+ 
+
+11
+00:00:13,759 --> 00:00:16,310
+network how does it work from a
+technical standpoint the first and most
+
+12
+00:00:16,310 --> 00:00:16,320
+technical standpoint the first and most
+ 
+
+13
+00:00:16,320 --> 00:00:18,870
+technical standpoint the first and most
+obvious difference of nfts on everscale
+
+14
+00:00:18,870 --> 00:00:18,880
+obvious difference of nfts on everscale
+ 
+
+15
+00:00:18,880 --> 00:00:21,269
+obvious difference of nfts on everscale
+is the storage of information unlike
+
+16
+00:00:21,269 --> 00:00:21,279
+is the storage of information unlike
+ 
+
+17
+00:00:21,279 --> 00:00:23,750
+is the storage of information unlike
+ethereum where one smart contract stores
+
+18
+00:00:23,750 --> 00:00:23,760
+ethereum where one smart contract stores
+ 
+
+19
+00:00:23,760 --> 00:00:26,230
+ethereum where one smart contract stores
+everything about the owner traits and
+
+20
+00:00:26,230 --> 00:00:26,240
+everything about the owner traits and
+ 
+
+21
+00:00:26,240 --> 00:00:28,470
+everything about the owner traits and
+metadatas of the nft collection
+
+22
+00:00:28,470 --> 00:00:28,480
+metadatas of the nft collection
+ 
+
+23
+00:00:28,480 --> 00:00:31,269
+metadatas of the nft collection
+everscale follows a distributed paradigm
+
+24
+00:00:31,269 --> 00:00:31,279
+everscale follows a distributed paradigm
+ 
+
+25
+00:00:31,279 --> 00:00:34,310
+everscale follows a distributed paradigm
+each nft is a small smart contract with
+
+26
+00:00:34,310 --> 00:00:34,320
+each nft is a small smart contract with
+ 
+
+27
+00:00:34,320 --> 00:00:36,870
+each nft is a small smart contract with
+its owner and each nft collection has
+
+28
+00:00:36,870 --> 00:00:36,880
+its owner and each nft collection has
+ 
+
+29
+00:00:36,880 --> 00:00:38,869
+its owner and each nft collection has
+one smart contract that stores all
+
+30
+00:00:38,869 --> 00:00:38,879
+one smart contract that stores all
+ 
+
+31
+00:00:38,879 --> 00:00:41,030
+one smart contract that stores all
+information about the collection there
+
+32
+00:00:41,030 --> 00:00:41,040
+information about the collection there
+ 
+
+33
+00:00:41,040 --> 00:00:43,350
+information about the collection there
+are also smart contract indexes for each
+
+34
+00:00:43,350 --> 00:00:43,360
+are also smart contract indexes for each
+ 
+
+35
+00:00:43,360 --> 00:00:46,150
+are also smart contract indexes for each
+nft each wallet has its own end index
+
+36
+00:00:46,150 --> 00:00:46,160
+nft each wallet has its own end index
+ 
+
+37
+00:00:46,160 --> 00:00:48,310
+nft each wallet has its own end index
+and each collection has its own index
+
+38
+00:00:48,310 --> 00:00:48,320
+and each collection has its own index
+ 
+
+39
+00:00:48,320 --> 00:00:51,430
+and each collection has its own index
+which enables fast on chain searches we
+
+40
+00:00:51,430 --> 00:00:51,440
+which enables fast on chain searches we
+ 
+
+41
+00:00:51,440 --> 00:00:53,990
+which enables fast on chain searches we
+can quickly find all collections all
+
+42
+00:00:53,990 --> 00:00:54,000
+can quickly find all collections all
+ 
+
+43
+00:00:54,000 --> 00:00:56,069
+can quickly find all collections all
+collections with the same code hash all
+
+44
+00:00:56,069 --> 00:00:56,079
+collections with the same code hash all
+ 
+
+45
+00:00:56,079 --> 00:00:58,709
+collections with the same code hash all
+nfts of one particular wallet and all
+
+46
+00:00:58,709 --> 00:00:58,719
+nfts of one particular wallet and all
+ 
+
+47
+00:00:58,719 --> 00:01:00,869
+nfts of one particular wallet and all
+nfts of the wallet with the collection
+
+48
+00:01:00,869 --> 00:01:00,879
+nfts of the wallet with the collection
+ 
+
+49
+00:01:00,879 --> 00:01:03,110
+nfts of the wallet with the collection
+filter another important feature is
+
+50
+00:01:03,110 --> 00:01:03,120
+filter another important feature is
+ 
+
+51
+00:01:03,120 --> 00:01:05,030
+filter another important feature is
+small fees for keeping a smart contract
+
+52
+00:01:05,030 --> 00:01:05,040
+small fees for keeping a smart contract
+ 
+
+53
+00:01:05,040 --> 00:01:07,190
+small fees for keeping a smart contract
+alive everscale requires payment for
+
+54
+00:01:07,190 --> 00:01:07,200
+alive everscale requires payment for
+ 
+
+55
+00:01:07,200 --> 00:01:09,910
+alive everscale requires payment for
+data storage of every smart contract nft
+
+56
+00:01:09,910 --> 00:01:09,920
+data storage of every smart contract nft
+ 
+
+57
+00:01:09,920 --> 00:01:12,710
+data storage of every smart contract nft
+index or regular wallet however the fees
+
+58
+00:01:12,710 --> 00:01:12,720
+index or regular wallet however the fees
+ 
+
+59
+00:01:12,720 --> 00:01:15,990
+index or regular wallet however the fees
+are really small for example storage of
+
+60
+00:01:15,990 --> 00:01:16,000
+are really small for example storage of
+ 
+
+61
+00:01:16,000 --> 00:01:17,190
+are really small for example storage of
+the punk
+
+62
+00:01:17,190 --> 00:01:17,200
+the punk
+ 
+
+63
+00:01:17,200 --> 00:01:21,630
+the punk
+number 294 nft costs its owner about
+
+64
+00:01:21,630 --> 00:01:21,640
+number 294 nft costs its owner about
+ 
+
+65
+00:01:21,640 --> 00:01:24,390
+number 294 nft costs its owner about
+0.075 ever per year the collection's
+
+66
+00:01:24,390 --> 00:01:24,400
+0.075 ever per year the collection's
+ 
+
+67
+00:01:24,400 --> 00:01:26,710
+0.075 ever per year the collection's
+author also pays for storage but if
+
+68
+00:01:26,710 --> 00:01:26,720
+author also pays for storage but if
+ 
+
+69
+00:01:26,720 --> 00:01:28,550
+author also pays for storage but if
+something happens to the collection's
+
+70
+00:01:28,550 --> 00:01:28,560
+something happens to the collection's
+ 
+
+71
+00:01:28,560 --> 00:01:30,550
+something happens to the collection's
+contract the nft of this collection
+
+72
+00:01:30,550 --> 00:01:30,560
+contract the nft of this collection
+ 
+
+73
+00:01:30,560 --> 00:01:33,109
+contract the nft of this collection
+won't be affected the last feature is
+
+74
+00:01:33,109 --> 00:01:33,119
+won't be affected the last feature is
+ 
+
+75
+00:01:33,119 --> 00:01:35,109
+won't be affected the last feature is
+the cost of issuance and speed of the
+
+76
+00:01:35,109 --> 00:01:35,119
+the cost of issuance and speed of the
+ 
+
+77
+00:01:35,119 --> 00:01:37,109
+the cost of issuance and speed of the
+blockchain everscale is one of the
+
+78
+00:01:37,109 --> 00:01:37,119
+blockchain everscale is one of the
+ 
+
+79
+00:01:37,119 --> 00:01:39,190
+blockchain everscale is one of the
+fastest and cheapest blockchains on the
+
+80
+00:01:39,190 --> 00:01:39,200
+fastest and cheapest blockchains on the
+ 
+
+81
+00:01:39,200 --> 00:01:42,069
+fastest and cheapest blockchains on the
+market so minting nfts on it is cheap
+
+82
+00:01:42,069 --> 00:01:42,079
+market so minting nfts on it is cheap
+ 
+
+83
+00:01:42,079 --> 00:01:44,789
+market so minting nfts on it is cheap
+too tip 4 is a big step forward for the
+
+84
+00:01:44,789 --> 00:01:44,799
+too tip 4 is a big step forward for the
+ 
+
+85
+00:01:44,799 --> 00:01:47,749
+too tip 4 is a big step forward for the
+ecosystem and all wallets on everscale
+
+86
+00:01:47,749 --> 00:01:47,759
+ecosystem and all wallets on everscale
+ 
+
+87
+00:01:47,759 --> 00:01:51,799
+ecosystem and all wallets on everscale
+are going to support it
+

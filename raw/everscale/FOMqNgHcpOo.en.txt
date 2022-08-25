@@ -1,0 +1,1575 @@
+[Music]
+yes
+[Music]
+foreign
+[Laughter]
+is
+um
+[Music]
+something like that
+[Music]
+hello
+[Music]
+hello
+nice do you hear me
+yes yes
+yeah we can
+i
+ready
+okay do you hear me now
+okay very good
+there was some issue zoom for some
+reason didn't see my mic
+uh all right guys so welcome at our 48th
+uh weekly defy governance call
+so we have
+a very interesting agenda for today and
+then a guest
+a special guest who will tell us about a
+very interesting topic about the
+compliance in the divide sector
+uh
+so we will come to this in a while and i
+will present our guest
+but let's traditionally begin from the
+contest update
+uh so actually we have finally finally
+from the third attempt we have finished
+the st town contest and uh we finally
+got a quorum and
+now it's time for calculation of votes
+uh but
+so far as i can see is a threshold has
+passed
+i can finally congratulate anton
+with a william first and and single
+plays uh in this contest uh and i also
+together with other governance members
+planned the call we serve with him to
+discuss the future development of the
+stone concept
+and
+also
+some
+other participants of the device of
+governance also already took a step
+ahead and
+as far as i can see started integration
+of this concept but i will keep this for
+a while so they will tell it themselves
+so
+actually this leads us to the
+discussion of the payment
+session planning uh hopefully we will do
+this early next week
+uh probably monday or tuesday so we will
+discuss this with our payment group and
+we'll arrange the payment
+uh and
+after the call with uh with anton so we
+will decide
+on
+uh
+if we need uh additional iteration of
+the contest uh for the
+uh implementation integration stage for
+example uh or this is fine by now and
+he will do it this is
+uh so speaking about other contests uh
+actually the validator oracle contest
+has passed into the voting stage and
+so please if you're a juror in this
+contest uh
+do not hesitate to go there and check uh
+one actually one submission so i really
+hope that it will be a bit more uh
+taken into account that we prolonged it
+several times
+uh
+yeah so
+please please do
+uh speaking about other contests so we
+have uh have the decks uh stage three uh
+underway so we are still 11 days left
+for for the submissions and uh also uh
+the ethereum bridge uh but i can already
+tell now that uh unfortunately uh
+brooks's team
+is extremely occupied now with the
+deployment of the second version of the
+bridge in the main net
+and uh
+so we are not able to prepare as a
+submission now so and
+most probably will not be able to
+dedicate some time to this in the coming
+two weeks because we will be performing
+a lot of checks and to make sure that
+everything works fine on the main net
+and we will get back to this topic maybe
+in the next meeting or a meeting after
+uh and also the uh free tons of
+sovereign identity framework stage two
+uh still underway so there are 22 days
+left
+so not nothing to to tell about this for
+now
+uh now let's come to the topic uh with
+our invited guest so please welcome
+sasha anthropov who is the co-founder of
+the purify
+startup so and a very good
+background track in different ml systems
+including ml both asia finance casper
+labs
+so yeah please sasha
+hey guys hey everyone hi vlad thanks uh
+thanks for the intro
+um
+glad to be here and uh saying hi
+to everyone in
+on the call i already see some of the
+familiar faces here
+um so glad to be here uh
+yeah so beautify is a startup is our
+latest
+essentially is our latest
+uh development um
+trying to solve
+um a growing or or a growing problem
+that we see in device space
+originally this project came to life as
+a result of our work
+at aml book
+so my partners are the founders of ml
+bot and
+health safe
+and
+essentially we started receiving over
+the last
+i don't know year or two we started
+receiving a lot of
+inquiries from
+just people
+investors and retail retail investors
+that
+somehow they utilized d5 for the sexy
+returns and they went on centralized
+exchange and their account was blocked
+because like the ml risk was high
+so those people were coming to mlbot and
+asking questions what they could do to
+unlock unblock it and we started
+realizing with the growing narrative
+from odin from all the regulators around
+the world that
+the focus
+right now
+is really on defy we started digging
+into
+the problem and we
+looks like we found the core of that
+problem
+and
+started working on a solution to help
+conscious defy investors participants
+projects and institutional investors to
+be able to interact with defy market
+with uh defy
+services or or instruments
+and
+mitigate risks
+um that
+there are there are already associated
+with some of the projects with coins
+that have
+high ml rescore
+as as scary and harsh as this could
+sound defy compliance and aml all
+together in one sentence
+um
+being at a certain extent as a crypto
+anarchist and at heart but being a
+realist in life
+we we
+we understand that
+the reality is that all the financial
+institutions
+regulators stratify uh organizations
+won't really happen
+won't allow the d5 sector to grow
+substantially unless there are certain
+understandable
+procedures in place
+and i'm referring to aml
+uh i wouldn't touch the topic of kyc
+because that's like that's a sensitive
+topic as well for especially for d5
+space
+but i'd rather focus on aml and the you
+know the the necessity of that in order
+to
+have
+two industries like the alternative
+finance which
+we love and which is what defy is in
+reality
+and the traditional finance or legacy
+finance
+to actually merge and
+in my opinion or in an opinion of our
+team
+the only way for real mass adoption to
+happen
+is to enable
+um
+traditional finance boys large
+organizations from
+legacy financial systems to actually
+interact with
+d5
+but safely
+and uh once this happens then we can you
+know we can actually start saying that
+you know the actual the real mass
+adoption
+is on the way
+so that's uh on a very
+high level overview of what is the
+what are we working on and what is the
+long goal like long mission
+and goal that we're working on
+um
+[Music]
+without without i don't i don't like you
+know shameless self promotion
+uh it's more of a it's more of a idea to
+discuss the problem that is you know
+that exists and that is
+that shows it's
+actually growing substantially every
+month
+and and it is more of a you know sharing
+our experience
+and uh you know overview
+of what's been going on within the aml
+space and d5 and generally within the
+regulators
+and
+giving some of the examples of how the
+narrative from
+core participants of this space without
+naming the actual companies or players
+but like
+uh i guess you will all probably
+understand who i'm talking about like
+one of the biggest like is a good
+example of how important this problem is
+right now for large organizations in d5
+um
+one story so six or seven months ago
+when we were just working on a concept
+forming the concept of purify we were
+discussing with
+um with a few strategic entities who we
+wanted to see as potentially investors
+or partners
+and again without naming names those
+were uh like the biggest
+um
+dexes
+uh i would say like an aggregator and i
+i believe you you'll connect the dots
+um
+and so we were discussing with them
+about the partnership and back then they
+were like
+saying oh no hell no we don't need that
+what is like why would we need
+compliance why would we need aml
+we don't really care there is no like
+regulator is not gonna come and even if
+they do we're not an entity we're just a
+bunch of smart contracts they can't do
+anything
+so then
+fast forward six months later
+now we are discussing with them about
+actual
+collaboration and integrating our
+products
+that are currently being developed
+but integrating our product
+for its core purpose
+enabling
+enabling those organizations to actually
+filter
+incoming uh liquidity
+or incoming assets with high with high
+ml risk score and more to that like
+so the narrative within the last six
+months changed dramatically
+and we already seen in parallel we
+already see the companies like
+ava and compound are already launching
+institutional grade liquidity pools with
+ml kyc
+and custody solutions
+and that is together with the actual
+situation like
+you know on the ground
+we see that this is already a growing
+and like a growing trend
+that
+for
+coming month there's more and more
+uh dexes
+bridges liquidity pool operators landing
+borrowing protocols
+everyone's starting to think about the
+need to kind of you know
+make sure that
+the assets that are actually being you
+know stolen
+or some you know illicit funds
+associated with dark web they're
+actually not participating in their
+pools
+sorry uh do you think that um
+we are coming to a moment when uh
+popular liquidity uh
+pools will be separated into two big
+chunks so the one uh
+pure and innocent i would say
+for big companies uh to interact with
+this uh
+uh
+a huge market and other is for crypto
+anarchists or
+civil punks who
+doesn't care about the quality of the
+crypto but uh
+they value the privacy and um
+they how to put it
+and security of the funds more
+so uh and wouldn't that uh harm the
+overall business of those defy operators
+uh that's a very good question and i
+think this is a spot on the train like
+what's really happening lately
+um
+what we see and what we feel and all of
+our investors and the people who speak
+from the institutional background
+like you know hedge fund operators
+pension fund operators people
+the people and entities that have
+hundreds of billions and trillions under
+management
+people who have nothing to do with
+crypto except there probably have some
+exposure
+in you know on a personal capacity
+and
+everyone agrees that there will be a
+very
+clear distinction from
+entities in the d5 space who
+will take on the new regulation that is
+coming who will comply and who won't
+and looks like for companies in order to
+reach high tbl and in order to onboard
+institutional
+assets or funds
+they will have to
+kind of do not de-anonymize their
+wallets
+they will have to comply in a certain
+way and check the ml risks
+for their investors and for the projects
+who won't just basically will will
+remain you know will remain in the
+underground
+and i'm not saying this is bad
+this is good for both sides in my
+opinion like the more
+regulators come in and start saying you
+know you have to comply and this and
+that start creating like the real really
+strict
+rules or at least try to create those
+strict rules the more technology
+um
+for anonymous uh coins
+you know mixers
+all of that stuff will evolve even
+further
+um
+so
+i don't think it will be a bad thing i
+think it's inevitable and we'll just
+have to work around it
+okay thank you and um another question i
+really have in my mind is about
+what a typical
+vectors of attack by government agencies
+will be on the default operators so
+because as you say
+they are just a combination of smart
+contracts and at maximum they provide
+some front ends to those smart contracts
+and even if a company that stays behind
+the front end will disappear or be
+blocked in certain uh regulations
+uh
+it will not stop uh those smart
+contracts from existence so actually and
+anyone for example can uh deploy a copy
+of
+uni swap or social swap interface and
+interact with those smart contracts
+still
+so uh how how do you think
+governments will
+try to approach this uh this
+problematics
+you mean govern governments
+yeah regulate regulators so yeah so
+those who uh try to impose certain um
+aml rules yeah
+that's
+that's a good question um i don't know
+if i have uh
+you know
+the correct answer
+uh but my thinking is that you know we
+already see
+how
+uh
+certain agencies from us
+started to block
+certain wallets of certain d5 projects
+i honestly
+not sure
+how that would
+you know stop
+uh
+you know the same companies or doing you
+know similar similar activities
+because essentially i mean they
+they take the ownership of the private
+keys or where they they block the work
+they sorry they block operation of
+of those projects by confiscating the
+private keys which is which sounds like
+like i don't know
+it's
+actually
+doesn't sound doesn't sound right yeah
+and secondly like
+well the anonymizing of wallets is
+already happening
+i mean
+take take take into account
+you know that the that chain analysis
+is only worth
+a few billion of dollars uh because of
+the governmental contracts
+yeah absolutely and there and there's
+and their system is actually very
+sophisticated
+we we tested till uh we tested uh i
+cannot well i'm not gonna name again the
+companies because i don't want to create
+any
+issues for us in the future
+we we basically work with aml service
+providers and utilize their tech
+and we can
+in real time we screen the wallets and
+transactions
+and we compare different aml service
+providers
+and what the result is
+we see that
+um tier one or the major i would say
+three four five ml service providers
+um
+again i don't want to publicly you know
+say the names because that would create
+certain
+um
+negativity potentially but anyway
+um they look they don't like to be
+compared none of them but we compare
+them and we see that
+one service provider
+and their result is absolutely like
+completely different from another so
+there is no
+um i would say there is no
+um benchmark probably exactly yeah there
+is no benchmark there is no
+black or black or white yet there is no
+rule of thumb
+we see that
+uh an organization
+uh one of the largest organizations just
+screens all all the addresses that
+participate with
+d5
+in the defy space again like if you
+participate with a uni swap
+your wallet will be automatically
+flagged as as high risk
+right now that's the reality
+um
+it's on everyone's agenda i mean among
+all the regulators right fatf scc
+um to find ways how to regulate uh defy
+space but we but we from other angle we
+see that ml service providers don't
+don't don't understand what's going on
+inside they see any transaction
+you know with
+with associated
+funds from one of the you know from one
+of the exploits
+um they see they see it as normal but in
+the same time if you if you interacted
+with with you know any decks you will be
+flagged
+and yeah
+and that's by the way is a really
+interesting problematic because because
+um
+on one hand yes
+we all know that frosters attempt to
+launder the money through taxes and
+some other services or disease and so on
+so forth but on the other hand there are
+uh if i have some uh some crypto that
+they uh absolutely legally purchased
+and uh i would like to purchase another
+crypto for it uh that is listed only on
+decks so
+and for a small portion of my funds so
+and
+creating uh the strong link between me
+and high risk is absolutely
+uh incorrect just because the regulators
+do not want to
+dig deeper and try to understand what's
+going on inside and um on the other hand
+uh the axes are
+time to time used as a big mixers
+that's true and
+that's a raising issue in the world and
+i don't really think that anyone can
+block them yeah because
+the only way to block all this smart
+contracts execution is uh just by
+stopping the network so
+this is the only reliable
+way to do this but you cannot stall for
+example ethereum
+because there are so many nodes that
+support its work
+so
+that means that uh aml services for for
+d5 products um
+are more like a reputational uh step
+that uh uh shows to
+a big
+investment guys that it's safe
+to interact with this with this device
+service and this means that uh in the
+coming future
+in my opinion we will see the situation
+when uh
+those ml scanning services blockchain
+analysis services
+will have to uh significantly improve
+the analysis methods yeah exactly just
+to understand that there are no more
+just a single deck but there may be
+different different liquidity pools with
+a different quality of crypto inside
+uh and yeah just so complicated they
+work of course
+yeah i totally agree vlad and i before
+before you ended up by saying that ml
+analytics should improve
+which is i agree 100
+you said something uh that i wanted to
+comment on in the beginning that
+um when you interact with the dex
+um
+regulators will treat you like
+you know like a high risk um
+entity or or you know a person
+but is essentially regulators are
+counting on analytics data taken from
+aml service providers and a ml service
+providers don't know about how to
+regulate
+uh how to analyze transactions
+absolutely within within d5 i'm not
+talking about like
+analyzing the
+transactions that
+are happening inside the decks
+which is doable but which is but but
+very complicated
+but also like
+for them what is really rocket science
+is is trying to
+um
+[Music]
+trying to create this trying to create a
+system that will
+essentially
+unfold what's really going on inside the
+mixers
+there are ways how
+you know you can kind of like
+associate certain transaction
+when it goes in and out
+there is no hundred percent and for them
+this is kind of like they have to go in
+i don't know
+tens of thousands light years away in
+terms of technical development to
+understand that because right now a
+single a simple transaction can be
+um
+you know
+viewed or labeled as high risk for no
+reason
+so there is like
+we realized that when we started working
+with you know different ml service
+providers different databases
+and we realized like you know if we were
+really to
+build up a system that would
+uh really help
+um
+individual investors or or organizations
+to say hey actual our risk score is not
+10 or is not like 80 percent
+uh we're actually we have the mlk oscs
+and stuff so we hope that
+the system that we're that we that we're
+building
+will also enable
+the reverse engineer uh that's risk
+score for the entities who want to
+implement that and go talk to a ml
+service provider and say hey this is
+actually not a risk like high risk
+transaction
+and for them again like aml is one thing
+which is which is what which is what is
+important at this
+like
+right now
+but further down the road there also
+have to be
+i i expect uh
+i don't like it but i expect that the
+kyc will have to be in place as well
+and that's a whole different ballpark
+kyc and uh
+i like it only because
+we we will essentially come from web 2.3
+to
+2.0 to 3.0
+and uh self-sovereign identity and did
+systems
+uh and kyc have to be in place and i
+know stephan here is already kind of
+like yeah yeah not only but also
+vladimir putin
+is ready
+yeah i have a quick requirement here
+i just watched the conference yesterday
+and right inside in the stream site
+uh which is public but i guess someone
+uh maybe didn't care about it so it's
+not just us who are thinking about it
+it's actually uh some of the bigger
+players do as well so i i have a friend
+who was like one of the initial founders
+of some ssi companies like four or five
+years back and she was working at mit
+she built this company with educational
+credentials and recently i think
+one or two weeks ago she joined the
+company or organization that is called
+center
+and that is organization founded by
+circle creator of usdc and coinbase
+and that's exactly the single
+focus of that organization is i i guess
+it will be nonprofit but they building a
+product that will use a sovereign
+identity in order to create uh
+portable provable kyc aml uh payment uh
+confirmation just all type of document
+that will basically merge these two
+words so uh
+based if you again if if you follow the
+us recently they have this little bit of
+tension this is this as you see um
+[Music]
+with the center
+um
+i'm i'm gonna have to call this her
+tomorrow
+i'm not involved but uh they just
+started it's like
+probably was announced or it was it went
+public last week um
+but i think uh what they're trying to do
+they're trying to show that
+cryptocurrency payments can be
+as
+transparent and
+easy to understand for regulators as
+banking payments
+except it's
+cheaper faster more convenient
+uh less friction for the customers so
+and that
+i totally agree with your uh what you
+said in the beginning that's that would
+lead to massive option so when
+regulators understand that it's fine and
+when people understand that it is fine
+and it's actually better faster and
+simpler and more convenient then we will
+have everybody
+i have one more point uh going back to
+what vlad vlad was saying so also
+not probably not many people
+yet think about it or understand but
+so if you think on the big guys in d5
+space like top 5 top 10 projects in with
+tbl
+of the compound
+along some you know along those names
+their biggest investors are already
+institutional
+entities
+but right now
+they just participate in you know in
+their lending protocol by you know
+generating for 15
+13 15 or 16
+apy and for them this is amazing but
+again um
+if you only part if you only um if you
+only
+participate in those liquidity pools
+this is one thing
+because the kind of
+like they kind of control who's who's
+getting in or who's not but like if you
+want to go and you know and start uh
+dig deeper if you're going digit
+then you know there's like all the money
+that you will that you will generate
+there
+there is a high pers there is high
+chance that it will be questioned or it
+will be blocked
+and this is and this is a role
+a roadblock for a lot of
+smaller or bigger institutional
+investors to coming in
+um
+uh into the space
+uh right now they're already participate
+so my point is that they're already
+participating in the biggest protocols
+with with
+you know
+managing the risks on their own
+and only when ave and compound started
+getting in aml and kyc and custody in
+place this is when it opened up the
+doors for
+a lot of inflow of
+liquidity
+yeah so there's a moment when you are
+big enough to
+when you have to think about such kind
+of issues
+uh yes thank you so much sasha uh so um
+what are your common plans in terms of
+your purify product so uh do you plan to
+start from the ethereum and maybe layer
+two solutions first of all or maybe you
+are planning also to route it to some
+other
+networks like polkadot or solana or
+friton
+tell us about
+look
+right now we are in the process of
+[Music]
+we are building a product which should
+be live in the next
+i would say four weeks
+and that will be a web uh sdk like
+front-end sdk
+that could be connected with
+uh d5 protocols
+but
+uh and will be connected connected with
+our dashboard as well
+that will enable
+dexes or or d5 projects
+to screen um the incoming liquidity
+it will be the
+the filtering of high risk liquidity
+will only in the first iteration will be
+realized through
+front end like if you get a high risk
+then literally the button that says sign
+the transaction won't work
+and it will it will require a very
+simple
+front-end sdk integration
+and we will do the rest
+um
+that's that right now i'm personally
+with my team i'm working on customer
+development with a number of entities to
+make sure that the product we're
+actually thinking that is needed on the
+market is actually needed
+so
+that's that um in the meantime
+in the meantime
+we are working on a service offering
+that we offer to
+pre-idol projects and pre-id and ideal
+platforms
+uh for the projects to start from the
+beginning
+before they raise funds to uh
+be conscious about the ml risk of the
+money that they're you know receiving in
+the private rounds
+um
+so we're working manually we're working
+with
+with a number of projects
+talking about
+layer one or layer two
+uh for us
+the next
+probably next week
+or two will be integrate
+we'll be launching
+we'll be releasing news about polygon
+so we're really we're working with matic
+uh quite closely and uh we'll be
+integrating
+um creating a pair in one of the dexes
+there
+and some partnerships as well those will
+be announced very very soon
+um
+when you ask about layer ones
+so right now we are we are on um if and
+bsc but we are in talks with uh with i
+mean we already partnered with casper
+labs
+um well it was the lowest hanging fruit
+obviously
+but
+we will be utilizing their
+infrastructure to store
+some part of our
+data
+non-sensitive data there
+in their public permission environment
+we are in talks with pretty much
+all the major player ones
+um and our our
+product and our business is
+by providing
+the aml analytics
+for projects and and retail users so the
+more layer ones we will connect the
+better for the entire ecosystem
+and therefore quickly answering your
+question we are in talks with solana
+we're in talks with cava
+conflux with you guys
+um
+with the polka
+so the pipeline of integrations is quite
+uh big it's just the bandwidth of our
+technical team is is obviously limited
+like with with every startup but yeah
+further down the road i hope that our
+our project will be featured on
+uh as many layer ones as possible
+the problem here though
+and this is something that not yet many
+people understand
+the problem is that even if we um
+integrate on a layer one
+which is
+not if or bsc or or bitcoin for example
+um
+we won't be automatically able to
+perform ml screening on chain ml screens
+because
+as
+as we discussed with you previously but
+it's worth saying you know to to the
+rest of the participants that
+before
+uh any ml um screening can happen on
+chain
+uh the the network itself has to go
+through
+kind of like a heavy
+uh
+heavy duty work of
+clustering and indexing their entire
+chain
+and this is something goes you know this
+is something you know boring and
+technical but there should be for any
+change there should be
+uh
+there's
+there should be certain steps before we
+can actually work with them and this is
+something that we're offering as well to
+some of our you know layer one
+uh interested layer ones
+uh that are that like what we do that
+they realize that the pro the project
+the problem sorry the problem is there
+they realize that it's relevant
+but
+uh they can't really do anything about
+it so we're offering them part of the
+integration we're offering them to take
+on
+this task which is quite complicated and
+requires grants etc but
+this is uh there is this is how we form
+partnerships essentially long-term
+engagements and partnerships
+okay thank you thank you very much
+so guys we do have some some other
+questions before we move on
+three two one no questions no question
+good so thank you sasha for attending
+here so it was really uh pleasant and
+interesting discussion so i hope that it
+will be not the last one so when we will
+continue discussing such interesting
+topics
+uh so and now uh yeah we we switch to
+next topic on our agenda
+uh so uh as you know uh there is a
+multi-conference coming on and
+alexander
+this morning just pinged me and asked if
+we are going to send someone there so uh
+alex please so say a few words about
+this
+thank you
+[Music]
+as you know remember
+we participated in
+ibc
+sigma
+conference in dubai in may
+it was
+pretty good and thankful
+and
+now the next step uh we will have from
+16 up to 18 of november this year
+the same conference on malta
+and
+freetown sponsor and
+we have some free plays for
+our members and in this
+time
+freeton decided to do it a little bit in
+our way before we did one contest for
+all free tone blockchain
+and everybody who want to participate
+do the submission
+now
+we decide to
+change and every sub-governments
+will
+present their
+participants
+the maximum um
+free tone weighed
+five person from
+every sub governance
+and
+compensate this five percent
+with three thousand ton crystal for each
+from them
+for
+this conference
+um but it's um doesn't mean then uh if
+for example we decide that we need more
+participants from our
+sub governance
+or we need to pay more for them we can
+decide it
+inside of our garments
+or we discuss or do some proposal
+and um
+um
+purpose uh to uh present uh our
+sub governance present our project
+uh what's this uh device of governments
+and free tone what's this uh defy uh
+allianz
+uh tone bridge
+uh
+what
+projects
+will be finished now what we wait taxes
+uh what our nearest future
+and um
+return wait that we
+finished with uh this
+contents or how we do it uh
+in
+up to first of october
+maybe this is uh term will be prolonged
+but they ask
+can you finish uh to this term
+and um
+for example uh
+um some another sub governments decide
+to do contests and some
+participants can
+[Music]
+put their submission
+and explain why
+they
+the better
+member for this conference
+we can do in the same way or discuss uh
+maybe in another way maybe
+more easy or more suitable for
+defy
+because
+we have not only some governance uh we
+have a little bit more
+for example we need to talk about tom
+swapp um
+and we need
+some representative from
+defile yards
+and one
+before we start to discuss and maybe now
+or later one big question
+that um we have a special
+rules about code
+i think maybe it's better if i share
+screen a little bit
+uh
+yeah the place i gave the permission
+okay
+because
+this is information
+from
+mult
+organizator from
+sigma
+and um here some
+scheme
+um how um
+members
+participant and conference
+what they need to do about covet rules
+and uh
+here two zones red zone in dark red zone
+for starting to explain
+uh
+russia for example and dark red zone
+most of
+europe
+or maybe all europe in red zone
+for example uh serbia in red zone
+belarus in red zone
+but russian and dark red zone if you are
+in red zone you need to
+go by left part here
+and
+if you spend before 40 days in red zone
+you live in i don't know
+in europe or was in belarus for example
+for 14 days before
+and you can prove it uh and you fall
+vaccinated it means you don't have uh
+much problem uh you only must to show
+your documents about vaccine and and
+this is what's in but that
+recognized from public health
+organization unfortunately sputnik 5 not
+in this list
+uh but maybe something changed for now
+uh even if you and red zone but not
+fully vaccinated uh you will go uh for
+another um
+in this came another way and
+unfortunately you must have 40 days
+guaranteed maybe for most of personally
+not suitable he one most big problem in
+dark red zone i mean from russia for
+example
+uh
+you will
+have 40 days currently okay okay you
+must to have some better etc but
+14 days current time
+um
+i send a link
+to this
+form to this scam
+and so you can look more gently
+it's mean that um
+maybe
+in some reason uh we
+must to have not five person uh in list
+for
+this traveling maybe more and uh if
+someone cannot to travel because
+had called or
+not
+vaccinated fully vaccinated before 14
+days before two weeks uh before
+conference it's important uh one
+[Music]
+important thing
+uh in this case if somebody can
+not travel uh in a for example in our
+list
+10 person
+uh
+we start to choose in our person who
+will travel this is one idea how to do
+um
+for more
+um suitable way more
+and uh
+well maybe it's pretty well about this
+samantha conference
+uh
+maybe somebody have comments or
+ideas how to do better
+yeah it's quite a challenging task to
+together
+not only speaking about what to do there
+yes
+ask to change the place from the monster
+to the i don't know yeah this was my
+first proposal
+i i think the the better way will be you
+know to deliver there a big monitor or
+several monitors with representatives of
+the device of golf on the other side
+and
+anyone can come and ask any questions so
+it will be much more productive than to
+to stay 14 days in the quarantine and
+[Music]
+yeah
+so
+this is not
+something that's really is fascinating
+uh
+i'm in this case surprised that um
+sigma has chosen uh malted for running
+this conference
+and uh but okay so
+i think the same rules will be in every
+european community country
+it's mean that
+must choose if not why the not european
+they should choose
+serbia so serbia is a good place
+especially
+it's easy
+uh every serbian person who lived 14
+days before my conference can come
+without
+a
+test
+on without a vaccinated certificate
+uh i also see the hand raised mid
+replace so we have something
+hello uh one simple question for alex uh
+did you know something uh for turkish uh
+people if uh somebody in turkey uh for
+14 days or
+longer bit
+today
+if we look on this page i send it
+already links to
+our chat here chat i mean
+zoom chat
+here in the
+list of red country zone
+and if you go on
+turkish turkish in red zone yes not in
+dark red zone
+in dark red zones some
+countries like barbados bolivia and
+russia it's uh
+i don't know
+i don't have answers from some politics
+i think not more
+yeah okay i think it's i think it's
+about the
+legacy of the communists
+yeah
+okay okay okay so um uh but frankly
+speaking so uh before we uh even think
+about who can go there and uh if they
+permitted to go there so um
+i propose to think about so what are our
+objectives as the defy uh sub-governance
+of this conference
+and uh what we would like to set as
+objectives for ourselves uh to deliver
+uh as a result of this conference
+because uh
+last time we've got uh
+several good contacts from the
+conference but uh of course there is
+always something to do better than it
+was
+uh so um
+what i would propose is
+for everyone to
+send the ideas uh on what can be done
+what we can achieve
+um
+it's multiconference and
+what kind of products or we would like
+to promote what kind of
+kind of projects we would like to hire
+for freetown and invite them to build
+these solutions here so uh in my opinion
+uh we have uh the defy roadmap that and
+we have some some
+missing
+bricks in it so and like uh the credit
+protocol like uh
+the oracles well maybe oracles will be
+fixed but like the stable coins or and
+some other higher level solutions uh and
+the conference may be a good way to find
+those teams who would like to join us
+and help us build
+those solutions natively on free tom
+uh if you have some other thoughts so
+please please express and uh
+just maybe share the your thoughts in
+the in public in the defy group
+i agree with the teens and maybe the
+best idea what we
+need from this conference next big idea
+um for example beef phone conference
+clip on zoro we had some interesting
+meeting with
+team from defy
+projects uh
+when we can have connection with them
+and even
+listed uh tom crystal talking or
+uh or more and more and uh how i know on
+this conference they will be
+the next time
+and
+because now our connections in some way
+uh maybe it's i am
+stopped in stop way yes we try to
+discuss but uh wait one month maybe it's
+better to meet them uh on conference and
+speak maybe drink something can speak
+like more in friendly situations yeah
+absolutely to
+get the informal connections
+as i like this name
+okay
+yeah absolutely
+uh okay guys so uh we have just one
+more topic
+left so and seven minutes to talk so
+anzor would like to
+propose some something for our jurors
+and tell some updates
+yeah hello everyone uh hello again um i
+won't take much of your time it's just
+uh
+um in in other sub governance uh in nfts
+of governance there's been uh a content
+a contest recently uh and it's a quiet
+well an important and complex topic
+this contest was dedicated to the
+ethereum
+friton nft bridge
+and
+or more specifically to it to the
+architecture and uh
+design
+part of this
+solution so there's been two two
+submissions there
+which are
+well let's say they're suboptimal
+and
+yeah it's really
+it's really hard to tell that from the
+jurors
+votes on those submissions but if you
+dive deeper
+it will be quite obvious that
+well
+there is um
+a ready product cannot be made from this
+so
+you you can't proceed with this
+architecture and uh
+of course it's a it's a complex topic
+it's a it's a technical uh
+it's there's a lot of technical stuff
+not rocket science but i mean not rocket
+science at least for
+for uh
+for people who are experienced
+with defy nft and blockchain but still
+so the proposal
+is to or rather maybe
+a topic for discussion is to
+ask
+jurors from other sub-governances such
+as for more technical sub-governance
+sub-currencies like developer experience
+and
+defy to participate in voting for
+nft contests
+because
+well it's as complex as defy in terms of
+technical stuff
+and uh experience from of the dividers
+is very needed in in nft sub governance
+for it to go forward
+um and
+yeah
+i think it will be
+i'm not sure how to organize this though
+i i'm open to
+to to discussion for this for this but i
+think this is a very simple and
+effective uh
+solution to to help the nft sub
+governance move forward and produce some
+well good results in terms of products
+and
+well even designs at this at this stage
+yeah actually um i have the answer to to
+you on this so uh i just dropped the
+link so we actually if you remember have
+adopted the
+specific uh regulation on external
+jurors involvement for the deficit
+governance itself because uh
+we still miss
+smart contract experts and for certain
+contests where we would like to attract
+them so we agreed with the devex subgolf
+to
+include specifically the jurors for
+certain contests
+and uh however the initial uh memorandum
+of of the deficit governance didn't
+suppose this so we explicitly pro
+adopted the
+uh
+the regulation on this so uh what i
+would propose you in terms of the infts
+of golf is to
+uh
+just maybe copy this document and just
+change few words uh and uh the only
+things on a procedural standpoint that
+you will need to to tackle is first of
+all uh to explicitly specify the list of
+uh the jurors you would like to invite
+to the contest and
+if i remember it well so there is a
+certain limitation on the number of
+jurors for for contests it's it's not
+very big uh so it sounds like
+or maybe 32 or a bit more but maybe they
+have changed something in terms of a
+smart contract and second is that for
+each contest where you are using uh the
+non-standard jury so you need to ping
+the
+interface team for them to deploy the
+correct set of jurors uh and on the
+other side yeah it's uh
+absolutely simple procedure
+uh in terms of the nft breach uh it was
+really
+well a surprise for me because we
+actually have the function in ethereum
+bridge that can be easily expanded
+to support nfts as well so i have
+already told this already to alex that
+the bridge is built in such a way that
+the only thing you need to do is just to
+write the adapter for for the specific
+type of content for ethereum site and
+for the freetown site and deploy this
+set of contracts uh with a new version
+that is currently being deployed by uh
+by brock's team
+you will have the opportunity to run
+this proposal through the dow system
+already and uh so we hope that we will
+manage to get the interfaces done
+within uh coming two weeks uh
+well no promises but if there will be no
+interfaces it still can be done just
+through the
+tonus
+calls so it's it's not that complex so
+of course we will provide with all the
+resolve the instructions
+uh yeah and uh
+i'm saying this not to promote brox's
+bridge
+but just to say that
+each bridge between two
+networks uh is a very very complicated
+system that
+and you need to take care of such hell
+amount of uh
+peculiarities that uh
+you will not be able to do this
+without having specific experts and
+security experts on your site
+because we have run uh
+already three or four audits security
+audits of our solution to get the uh
+uh
+well
+the level of security that we consider
+sufficient yeah still there are some
+minor bugs of course that will be fixed
+in the coming releases but they cannot
+lead to the stealing of funds or assets
+or interrupting the
+work of the bridge
+but to do this so we had to really
+invest
+the efforts of
+more than 10 people for over the course
+of uh six months so you can imagine the
+level of complexity of this stuff so
+that's why uh
+i personally think that the easiest way
+to build the nft bridge is to just make
+the expansion for the existent on bridge
+io that will let you to uh to transfer a
+certain type of content and then you can
+easily land all these nfts wherever you
+like
+uh yeah we'll discuss this also in
+person with alex next week uh just to
+get to dig into the details and um
+for better understand so how how this
+can
+this should work actually
+yeah and you had some uh some other
+update as well yeah i just wanted to add
+that uh that we we know about um we know
+about security because because it's it's
+really like a very very complex topic uh
+regarding the taxes then the bridges we
+as we started well the auditing process
+for our dax it's become apparent that
+there is lots of stuff stuff absolutely
+you know what i mean
+yeah yeah yeah
+um so um
+uh yeah i i had another announcement
+just a short one uh about the it's gonna
+it's related to st town contest so uh at
+our uh devi space uh platform uh which
+is like the evolution of of the
+uh uh decentralized exchange that we
+developed for the contests we
+implemented staking certificates
+supporting through nft
+so that uh users that stake free tone
+well tone crystals
+can
+leverage this to to get liquidity
+even if their stake is locked for a
+certain amount of time
+so they can
+they can
+this is why we're so obsessed with the
+nft bridge as well because
+because
+uh it will allow to transfer liquidity
+from free ton even further even if your
+stake is locked for like 12 months or 48
+months or whatever any kind of nft token
+yeah yes yes yes so you can you can send
+it
+you can uh you can sell it you can use
+it as uh as the uh
+well um
+you know
+as a collateral yeah as a collateral so
+it's uh yeah it's really cool i'm not
+gonna
+spend too much time now to to talk about
+it but just a short announcement we'll
+present it later yeah yeah please if you
+have some presentation uh
+or maybe some explanatory video so it
+will really be nice to see it please
+just drop it maybe either to the defy
+group or maybe we can just schedule some
+time for you next time to explain more
+in details yeah cool thank you
+okay very good uh so actually we are run
+out of time so no no more time for
+discussing certain topics for today so
+um
+i really want to thank you everyone for
+coming so it was really interesting and
+pleasant discussions this time
+as usual of course
+so i wish you everyone a nice weekend
+and see you next week
+bye-bye
+all right thank you

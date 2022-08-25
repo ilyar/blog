@@ -1,0 +1,825 @@
+yeah my
+i think it's my settings it was super
+loud like bonjourno i i like to make an
+entrance we know that
+hey
+have you learned any more mandarin since
+me hell yeah
+where is everybody we got three
+four four
+here we go
+oh it's gonna be a good one today isn't
+it i've got loads on the agenda looking
+forward to uh showing you all this uh
+interview with gerald
+um
+i love batman
+it's gonna be groovy
+let's give a couple more minutes
+well we're live on youtube now so i
+don't know if you want to uh like yeah
+i'll be getting a little song or
+something for us while we wait you would
+like to sing would you don't know i
+think you should this time
+no
+i don't know you're the singer i'm not i
+know no one wants to wear mr jingles for
+a full night
+no one will ever come back to the call
+again
+sure you can't be that bad
+okay i got a
+message people might be running a little
+bit late
+but
+never live
+should probably join anywho
+alex
+all right let's hope that eugene joins
+soon and we'll see hey alex
+kind of oh yeah i remember that shirt at
+first i thought it was a yankee shirt
+because the stripes
+look like stripes at first it's like
+yeah sneaky fan
+all right
+okay let's begin anywho
+so happy tuesday guys welcome to
+communally commute community call number
+104 we've had a great start to the week
+and i hope you did too
+everscales twitter is now verified with
+a blue mark yeah
+and the everscale anniversary nft
+collection launched and it's up for
+grabs so free nfts guys get them while
+they're hot and since midnight last
+night anyone can participate in
+liquidity mining of eva tokens in two
+new farming pools on the dexada platform
+which is a chain agnostic everscale
+powered dex
+when flex right when flex
+i know
+so time to put those cardano assets to
+work
+and i know that there has been one
+special subject burning in everybody's
+mind these days which is the launch of
+gosh
+but please if you have questions
+relating to gosh please save them for
+tomorrow's ama which is scheduled may
+18th at 4 pm utc
+so
+if you do have questions feel free to
+ask them in the chats hashtag gosh ama
+and i'll field them or you could just
+ping me and i'll
+collect them into the doc prepared for
+tomorrow
+so without further ado let's get on to
+the tech updates meet you all yours
+hello
+um
+yeah
+so the updates very simple we finally
+got a little bit action on the mod
+update
+site
+which means that the percentages are
+growing on the on the upgrades and i
+know there are finally a line of people
+went to
+sergey
+to get the instructions because the node
+sometimes we we witnessed a node
+shutting down for like three
+hours
+to to save the state
+after the update um it will be gradual
+um so
+you should get patience but the most
+important part that we get through this
+this week that's the goal
+so we need still everyone to go to
+sergey to get instructions to get all
+the details and to uh and to upgrade the
+notes gradually one by one waiting until
+the node is syncing again which can take
+from one to three hours
+um
+once that's over with then we
+can release many other things there was
+accident on devnet uh this accident was
+caused by a smart contract
+stopping the shark
+it is related to the last fix we did
+which we kind of uh
+we
+didn't fix one of the cases basically
+because the fixes are very harsh
+like
+we don't have basically time to
+you know show us the stopping so we need
+to fix
+very quickly
+and sometimes some things are stepping
+from
+you know from our attention or from
+tests and uh that's what happened so
+we've quickly quickly fixed it the
+devnet was fixed within a couple of
+hours we kind of recognized what we
+missed and we fixed that
+and everything is fine
+but again all these fixes will be
+introduced to the main net once the
+once this this current update is
+in place
+that's i think really
+it in terms of technical updates then
+everything else will fall
+into picture once we get this updated
+okay great get those nodes upgraded
+you've been saying it for weeks and
+weeks on end so hopefully i know this is
+the last week
+get it done
+so uh thank you very much michael moving
+on to the agenda we have the maven
+credit union interview
+ben our very wonderful benjamin
+interviewed gerard dash the executive
+director of the gba the government
+blockchain association
+and he's going to be sharing what has
+been dubbed as the most sustainable
+blockchain credit union ever
+benjamin
+there we go so yes um
+that's a fantastic intro i can't really
+add much more to that um gerard as i say
+is a fantastic storyteller a great man
+um i don't get enough chance to speak to
+him uh hopefully i've edited the
+interview together well
+although actually i've just realized
+that maybe the wrong file
+um so let's just quickly no it's not
+there we go i'm doubting myself in my
+mac abilities again so um if you can
+just give me a thumbs up or a quick nod
+and let me know this is all working well
+when i start three two one
+so gerard fantastic to uh have you on
+camera again buddy it's been too long
+going this far six or twelve months
+since last we spoke
+um i know you are busier than well most
+uh most legions of men i know um but
+specifically i've got five minutes to
+talk to you here today for the lovely
+everscale community about
+come on
+and i'll make sure i get this the right
+way around the may 25th events for the
+gba blockchain and sustainable
+uh economic
+development so i can't read my own
+inviting here guys
+and uh also this kind of ties very
+nicely into a very exciting partnership
+for our partnership opportunity again
+i'll let you reveal the details uh with
+maven credit union
+so yeah gerald please tell us tell us
+more about this sure well great
+ben thank you so much for having me on
+on your show and i mean great
+of your work um yeah so so this is
+really fascinating and let me sort of
+start from the blockchain cryptocurrency
+space right as we know a lot of folks
+have uh been put off by sec and right
+regulators in building blockchain and
+cryptocurrency projects right a
+fascinating thing happened there's a
+there's a guy by the name of joseph lowe
+he's the chairman of the uh of the
+credit union and he he looked at the
+correct the credit union legislation and
+he said you know
+it looks like they're talking about a
+blockchain
+because if you look at a credit union
+and you look at a blockchain a credit
+union is um it's a nonprofit so it's not
+centrally controlled right it is uh it
+has a field of membership which means
+it's permission communication
+of course exactly
+you have to make decisions based on
+um a survey of its members we call it
+consensus
+so he looked at this and he said wow
+i don't know when the legislation was
+written maybe the 1970s but it's like
+they talked we were talking about
+watching so he said can we build the
+very first blockchain based credit union
+uh a credit union without people and
+branches literally a blockchain that
+delivers the same banking services
+right that a bank would except being
+completely decentralized so sorry
+obviously it is an idea which i've done
+i've seen
+it's been floated around in the past and
+i've he has never come to life
+in a true
+true way
+that i've been aware of up until now but
+of course i mean the decentralization
+didn't start with blockchain did it
+credit unions are
+an evolution of stuff
+and so
+well let me just share this a little bit
+so
+so this is potentially the very first
+licensed decentralized autonomous
+organization right
+in the banking financial services system
+so what what's amazing about that is
+they realize that if they organize
+around a credit union
+they're outside of the jurisdiction of
+the sec
+so all of the all of the barriers
+pushing back on these projects right
+essentially don't apply in the credit
+union so they came to us and they asked
+us if we could work with them and or
+feel the membership blah blah blah
+and then they're trying to build out a
+banking court
+and uh i told him it's got to be a gba
+member
+so uh uh they were talking to non-gda
+members i said that's not really good
+for me so
+they went to everscale and ever scale
+one
+well yeah a lot of people don't know
+right
+of course
+they will know when the very the world's
+first blockchain based credit union is
+built on a core
+that is provided by everscale and so
+we're still working out the details um
+this will be phenomenal for the
+community it bring great recognition and
+credibility um so we're really super
+excited about the partnership yeah i
+mean
+yeah
+everything you've just said above times
+10 of course and he's fed very much into
+my uh next question there so we can
+throw that sticky pan away about what
+you think this means for the everscale
+community directly
+and i think obviously the main kind of
+question here then is uh may 25th gerard
+uh the the event that's going on there
+how does this all tie together um i
+understand there's an nft contest as
+well maybe you want to mention quickly
+and some very exciting people going to
+be there
+yeah so if you go to uh
+right gbaglobal.org
+blockchain
+um yeah you'll see information about the
+event so we're bringing people together
+from around the world i think uh we've
+got like 28 embassies uh like 30
+different uh net federal government
+agencies uh state local and they're all
+coming together to connect communicate
+and collaborate and we focus on the idea
+of governance as opposed to government
+can we remove government right and bring
+in decentralized processes right and
+create an environment of governance
+so that we can continue to grow our
+economies in a way that's sustainable
+right so you know we are looking at the
+environmental stuff that that's
+important but we're also talking about
+financial inclusion we're also talking
+about
+economies right
+uh you know when when the us government
+continues to print money
+right because it can is that how
+sustainable is that
+so we're we're bringing
+public and private sector
+together to focus on and and i think
+this is hugely important forever skill
+because we want every skill to be a more
+and more uh important part of our group
+definitely i mean of course we we know
+here we've got the technology to do some
+amazing things and the community with
+the
+obviously the
+the drive to do it i'm gonna name drop
+for you a little bit here uh we've got
+uh people from embassies in canada
+argentina el salvador india
+saudi arabia philippines czech republic
+uh bahrain belgium uh these are just the
+embassies we've got coming up our us
+defense health agency representatives um
+more u.s house representatives than i
+could name if this was a 15-minute
+interview
+um it really is a very very impressive
+event you put together there sir
+um so yeah will we be able to watch
+along with this on youtube or other
+tickets can is it going out live
+how can we get involved in support yeah
+so there are tickets that there are
+virtual online tech gifts uh it will be
+recorded and uh it will be broadcast
+later on on the gba youtube channel um
+do you guys have a youtube channel also
+i think we do yeah yeah of course
+that's where everyone's watching us now
+okay
+so we're moving available to you to you
+guys so uh brilliant up here
+yeah and then we uh if you go to if you
+look at the government blockchain
+association youtube channel you also see
+all kinds of stuff from priorities
+excellent well um i'll make sure to ping
+a load of links up for this and uh yeah
+thank you ever so much for speaking to
+me tonight jared um
+yeah may 25th day to remember and back
+to either joanne or me or me and joanne
+um speaking to you live
+well i i i think there we have it folks
+i mean drop drop the mic
+where am i
+i can't see myself but yes i mean yes uh
+gerard
+summing up everything that uh this means
+to us in yeah more succinct fashion than
+i could really uh begin to so
+um i believe eugene may be able to
+answer a few questions relating to this
+if anyone has any um but probably i
+would suggest best to wait until after
+eugene's presentation as well because it
+all sort of ties together i mean
+eugene's a very very busy man as we all
+know so yeah thank you very much that's
+great thank you ben that was a really
+great interview and thanks for getting
+gerard to spend some time with us too
+uh yeah that's absolutely a great
+initiative um
+it'll definitely be an impressive event
+and everybody should definitely check it
+out on the gba youtube channel for sure
+and sign up on their website
+yeah thank you very much
+um
+shall we move on to
+the next on next point on our agenda is
+the boogie on bali
+last week alex shared with us with us
+some insights from everscale's two-year
+anniversary
+the event in bali and today we have a
+nikita here who will show some photos
+and perhaps some
+videos actually
+actually uh joe i thought that uh
+my god what my colleagues on broadcast
+uh would be at the left of the show
+for those videos some of the photos
+videos were shared on um on
+our smm channels and uh
+most of it is still in uh
+in the editing so you will see lots of
+stuff
+there i actually wanted to
+um
+share
+some collaborations that were
+executed i would say or done at the
+conference because uh you know the
+meaning of any meeting is uh
+the ability people you know to
+communicate
+we've actually had a really productive
+uh meeting with coin market cap
+and i hope you will see actually some
+people already that are subscribed to
+coin market cap news channel uh
+newsletter got
+an email
+uh with the everscale branding in it
+and i don't know if anybody noticed uh
+alex i think you did or maybe we shared
+some thoughts about it
+and we will be
+uh gold sponsor of um
+[Music]
+online coin market cap conference i mean
+by us i mean
+so that's actually the thing i wanted to
+wanted to share with you guys because um
+actually a lot of you know
+making a conference in bali was quite
+polarizing because it's actually on
+an opposite side of the world that some
+of our
+representatives of our
+ecosystem
+live
+but it made
+communications with the guys that
+situated in asia much much easier
+and uh so we really had a productive uh
+time with the guys in asia again and uh
+part of the poor market cap team that
+situated in asia so again we will soon
+have much more collaboration with one
+market cap
+and that's a good thing so i will not be
+able to share any um
+photos and videos unfortunately because
+i i thought that
+somebody from uh my team would help me
+out with that but again every all the
+all the
+materials will be shared through our
+social media
+and our
+you know all the cool photos and videos
+that's basically uh
+the most important thing i wanted to
+share with you maybe some questions and
+some of that
+because i know i know alexa i know alex
+share a lot of stuff we shared a lot of
+live uh to the social media too
+um so most of the people that uh
+actually up today to our social media
+are up to date
+okay
+well yeah i think what you're sharing
+now is even better is there any way that
+people can learn more about the
+conference the coin market cap
+conference that we're going to
+everything will be shared uh everything
+will be shared uh
+this week uh as student to finalize it
+everything will be shared so
+all you guys will know 100 percent about
+it just in the near future
+okay
+and what conference are you at now
+uh uh sorry i actually um i actually now
+we're not at the conference uh i
+actually now uh in dubai trying to
+arrange asp meetings with people
+interested in again the ecosystem so uh
+yeah dubai again okay busy busy yeah
+yeah
+okay cool well we'll look forward to um
+all the content one since edited and you
+could share more
+about bali
+cool thank you nikita
+so moving on we're going to talk about a
+devote everybody knows who this next
+fella is he is the one and only eugene
+morozov so he's here to share with us a
+few things that have been going on in
+the world of devote with the zk
+end-to-end ballot return system which is
+due to be piloted in washington at the
+end of the month which is very exciting
+eugene
+yes hello hello can you hear me yes and
+we can see it too
+excellent so uh thank you very much for
+inviting me to speak um
+indeed this project is being piloted uh
+during the uh
+uh global uh government blockchain
+association event uh which is happening
+in washington dc
+on may 25 uh 27 this is essentially a
+seminar or a class
+designed primarily for
+u.s legislature
+yes u.s congressmen and u.s senators
+who want to learn
+more about
+blockchain who want to learn more about
+what is possible
+before they step in into their
+regulation mode
+so i think it's very very important to
+explain uh what
+great advantages
+blockchain can bring to many things
+including governance
+so we were offered an opportunity
+to act
+as those people that will conduct
+the vote the vote happens to be on a
+best
+nft that will be submitted um
+to the art show at the conference but
+the principles of that vote can be
+applied to any other type of elections
+so essentially what we're being offered
+is a true
+true ever scale community project that
+goes back very deeply
+to the very beginning of our network as
+well
+we call it zero knowledge
+end to end
+decentralized core functionality
+ballot return system on blockchain
+why is that important why is that needed
+well
+we believe at the moment there is no
+system in the world
+that would be
+open to all fast enough affordable
+secure undisputable
+voting
+now
+what problem does that address
+some of you may know that legislature in
+many countries including the u.s
+is prescribing the need for permanent
+separation it's called permanent
+separation of voter affidavit which is
+essentially an identification of the
+voter
+and the voter ballot itself
+the choices so the identification and
+the choices must be permanently
+separated and no existing mobile voting
+system allows for that essentially any
+administrator can simply go of the
+system can go and see who voted how and
+that's not allowed now that is severely
+limiting the use of
+mobile voting in the world
+so
+what we did about that is to offer an
+end-to-end decentralized 100 on chain
+zero knowledge snarks based technology
+it is built of course on linearly
+scalable average scale blockchain it is
+100 compliant with that legal
+requirement
+it's open source free software license
+and it's a real system it's a real app
+that we build
+all of that is based on uh the winner of
+one of the ever scale
+network contests that were run uh the
+winner happens to be the mill foundation
+headed by mikhail komarov and you will
+see the link to github on your screen
+uh there is another group under
+alexander's vesting who is now building
+the front end to that app which will be
+showcasing
+in washington dc
+what is really fascinating about this is
+the story it originated in our attempt
+to dispute the infamous now mit and
+harvard paper on blockchain faults in
+election systems the community
+essentially responded with the
+theoretical papers one of which was
+simply brilliant by
+tomsk
+university uh professors
+which allowed for a theoretical
+foundation
+of what was later developed as part of
+the cryptographies of governance
+contest
+to build the zero knowledge snarks based
+solution which is essentially what was
+done and then we
+decided to move on and actually make
+that a working app which is exactly what
+happened with the help of a large team
+that is working right now
+and so on 25 27 of may
+we will be having a global premiere
+of zero knowledge snarks
+voting system please come
+vote for the best nft and support our
+efforts thank you very much i will be
+pleased to answer any questions anyone
+may have joanne back to you
+thank you eugene wow that was a
+fantastic presentation and it's amazing
+to see
+an everscale contest coming to life and
+being implemented
+in such an important way it's it's
+it's inspiring thank you very much for
+sharing this especially the roadmap that
+we see here if anybody has any questions
+please um
+chime in i don't see any hands raised
+um
+does anybody have any questions for
+eugene
+don't see any
+okay i'm just gonna butt in and say
+eugene would i be uh spoiling anything
+if i shared a little screenshot on
+twitter of that or uh uh am i under some
+sort of oath
+go ahead
+it's live on youtube so
+do what you want can't get in trouble
+now
+small question for me eugene if i may um
+so what when would this be kind of
+practically implemented somewhere you
+see vogin in one of the countries or
+an audit or something just some kind of
+you know practical confirmation
+good question thank you so we are
+piloting this on the vote for the best
+nft in the art show just to stay away
+from any political issues clearly
+however we already have signed uh nda
+agreements with a number of reputable uh
+us companies
+that are very much part of the elections
+industry
+and we have an incredibly courageous um
+county commissioner from county of utah
+amelia powers
+who is essentially pioneering new
+technologies in order to provide her uh
+voters with more opportunities to vote
+for people that are ill and cannot come
+to the polling station or maybe they're
+stationed abroad on military bases or
+for whatever other reason they are
+unable to come to the actual polling
+station so she is intended to give them
+a
+technical opportunity to exercise their
+constitutional rights to vote so we
+think that after we pilot this in
+washington dc in an mft show the next
+step
+will be a number of elections of country
+clubs
+of which there are many thousands in the
+united states and they constantly run
+all kinds of elections and not
+interested in this type of technology
+which is uh decentralized and then after
+that hopefully by the end of this year
+we're going to have a pilot in the
+actual u.s elections in the county of
+utah
+state of utah united states of america
+thereafter
+there's no saying how many different
+jurisdictions we can cover i mean this
+can probably upend and disrupt the
+multi-billion existing voting industry
+in the world
+thank you
+fantastic thank you thank you eugene
+looking forward to what comes of this
+and maybe we'll vote in the next
+president with the technology
+brought to you by everscale
+thank you and with that we shall move on
+to our agenda next we've got ben's bits
+he's our resident hippie dude always
+ready to share his
+bits
+all yours ah
+i i'm going to ask you to add lib a
+little um poem for me joe while i
+quickly uh find my notes here i was
+halfway through a tweet then sorry again
+i'm so blown away by eugene's um
+presentation and work and yeah i've been
+following along with this ever since
+i've joined everscale obviously um a lot
+of the first articles i wrote were all
+about blockchain and voting and i've
+interviewed amelia
+right let's find my notes sorry guys two
+seconds
+boom there we go
+right so what we had uh we've had big
+launches on everstart spartacats of
+course that's gone awesomely hasn't it
+uh they hits their caps 600 000 ever i
+believe it was they reached
+remp reliable external messaging
+protocol sounds complicated but very
+important and actually in end user terms
+very very simple
+uh right what else have we got we've got
+huge nfts going nft giveaways going on
+all over the place there's a there's a
+bunch of giveaways forever as well
+uh which i haven't got here um i'm
+seeing something which i don't really
+know what it is hugely but i'm
+definitely gonna take a look later the
+salad play room
+what's a salad playroom when it's at
+home but it sounds exciting everland why
+haven't we been talking about everland
+there's there's a lending protocol on
+everscale which is launched no you know
+there's there's literally a walk-through
+available for you
+uh oh god what else we got uh dexada um
+cardano
+bridge bridge she's two cardano and back
+and forth so you know all those kind of
+uh minor issues cardano users suffer
+pounce on them tell them they can use
+everscale instead
+and it wouldn't be ben's bits without
+closing on never mind the rumor mill
+damn it guys we have been
+myself and anastasia have been on fire
+with getting ahead of all this news
+lately um you know if you're if you're
+not watching this
+this podcast you're literally behind the
+news so it's ten minutes ten ish minutes
+anyway depending how long i prattle on
+for three times a week usually gonna
+toward the end of the evening monday
+wednesday friday so you know we try to
+feature ever scale news you know as
+prominently as we can it's not aimed at
+every scale audience but general
+industry so yeah rock on people thank
+you very much
+oh thank you you mentioned dex ada i
+want them to come on next week i saw
+that i saw that in the chats
+popping up i thought
+well for those who want to get ahead of
+the game on that there's a couple of
+tutorials on youtube already uh voice
+over by the way
+yeah some annoying englishman did the
+voiceover
+okay cool so as anybody have any
+comments questions i don't see any hands
+up is there anything on youtube
+i think it's a pretty pretty quick and
+quiet call right now wrapped up no i'd
+say succinct to be honest i mean yeah i
+think if anything people must be a big
+blown away
+credit unions blockchain voting i mean
+what what more do you want people yeah
+next week next week's a big one
+cool well thank you very much everybody
+for joining i hope you have a great rest
+of your week and
+see you next tuesday
+hi everyone

@@ -1,0 +1,1305 @@
+um nice to see you all thank you for all
+organizers um of this beautiful
+conference uh we're gonna speak
+on my i think favorite topic uh it's
+daos and how we're gonna manage
+organizations and blockchain in the
+future and first so to introduce myself
+i'm an initial member of everscale and
+defy aliens we have beautiful speakers
+today with us as well uh i'll
+first introduce all of them and then let
+them speak about their products and
+projects so vasilis mikalav here is the
+managing partner in everfund victor lee
+is the court team member of club
+ventures
+uh hugo gabriel is a ceo of
+ix dao
+christina
+i think you know
+you know her all very well she's editor
+chief editor-in-chief in coin telegraph
+and uh
+phong jack gun is it correct yes uh from
+millennium adventures so guys before we
+go to the first topic maybe you speak a
+little about what you do and maybe it
+has something to do with dao as well
+yeah
+hi i'm vasilis mikal
+my background has been
+investment banking and
+now i'm focused on the uh ever fund
+as
+vlad spoke earlier today
+that would be a dao
+managed on chain fund
+and i think it's uh
+a great
+project to
+boost
+the development of ever scale ecosystem
+yeah thank you victor hey everyone uh my
+name is victor uh i'm from singapore
+i've been in the crypto space since
+2016.
+i
+did a lot of crypto stuff with battery
+personally i'm also advising and
+incubating and investing uh via my own
+dow fund we have a fund called dial
+ventures we actually help to invest
+incubate a lot of different dial
+projects and rapidly projects that we
+can add value
+because of that hobie
+global
+is actually recruited me to actually
+help them to advise and also lead them
+on the adventures department so i work
+very closely with hobby's core team on
+listings on incubation and adventures
+hello everyone my name is igor gavrilov
+and i'm chief technological officer of
+ix dao xda was the fastest growing
+builder so you can create a dao for your
+investment fund hedge fund on dawa
+we
+we are a project on evm compatible
+blockchains and we already deployed our
+project to 21 blockchain incredible
+number of chains superstars from even
+world ethereum polygon binance marching
+avalanche phantom and this infinite list
+and i'm a professional mathematician
+right now i'm a cto i'm just a big gig
+nerd at this company
+manage all the technological processes
+and right now we grow because that was a
+trend and we want to engage you in our
+world today thank you
+i'm so astia stu
+i'm cristina lucrezia
+in chief at queen telegraph one of the
+oldest and biggest publications
+dedicated to blockchain and
+cryptocurrencies we were founded in 2013
+and since then our mission is to bring
+education to the masses about the
+potential of this wonderful technology
+and also to bring diversity and
+inclusion into the blockchain space
+to diversify projects to diversify
+presence of different communities
+and that is why dao is a very
+interesting topic because it's
+definitely
+one of the most promising trends now
+that can bring together the community
+that constitutes in my opinion the most
+precious asset of the blockchain
+ecosystem people and community thank you
+hi good afternoon
+testing good afternoon everyone
+uh my name is fong jack gunn so i'm i'm
+the founder for millennial ventures
+and uh in 2015 started two uh metrofund
+one is called jubilee capital
+doing early stage vcs and
+ghibli blockchain fund which uh started
+to invest in
+a lot of early stage
+ico projects and layer one there two
+projects and so one of the earlier uh
+projects i've invested in building was
+daostak
+right and uh met up with
+martin phil at the time and he was a
+really a fantastic person who kind of
+opened my eyes to how dao could be
+really innovative and change the world
+but of course no the world have changed
+pretty much uh and
+uh i saw the evolution of how dao have
+changed from the early days of
+kickstarter right
+it's kind of like dao 1.0 and after jobs
+uh act in us it was passed
+then you you see the evolution that you
+changed to evolve into this angel list
+and you have the early stage of
+crowdfunding which is equity
+crowdfunding rewards crowdfunding that
+crowdfunding and i see dao today as like
+a 2.0 uh 3.0 right almost like a maybe
+two 2.5 kind of a stage so very
+interesting to have this opportunity to
+have some chats with our non-prestigious
+panelists thank you very much for
+inviting me thank you thank you for the
+introductions and let's move to our main
+topic
+so we been introduced to dao i
+calculated only roughly six years ago we
+first heard the concept
+i don't know whether you remember but i
+remember these days when i for the first
+time i wrote
+i read the first digital autonomous
+organization but back then i think i had
+it was something different so
+over these six years dow evolved and the
+first thing i would like to hear your
+opinion what is dao for you
+what's because
+i i guess not all our listeners know
+what is dao itself
+let's try to describe for them uh the
+concept yeah
+cool so yeah okay so i think if you look
+at it literally decentralized
+autonomous organization so there
+shouldn't be any centralized control
+by right there shouldn't be any
+centralized control but organization it
+should be all
+um
+maybe determined by or governed by
+a decentralized group of stakeholders
+so but i feel that this is a more of a
+idealistic
+definition today for doubt to be
+successful you probably need to have a
+hybrid model on one hand it's a fully
+hundred percent decentralized on the
+other hand it's like it's overly
+centralized which is what you don't want
+to see
+but for for a doll to to be effective i
+think we need to have some form of a
+hybrid model
+yeah so
+uh i see it as a
+vehicle or it's instrument maybe a
+design where you can engage large
+numbers of stakeholders who are
+interested in the course
+of this dial
+and the because of this dog could be for
+various purposes it could be for
+commercial reasons could be for social
+reasons it could be for education
+reasons whatever the reasons could be
+but you use this as a platform to gather
+the stakeholders interested party to
+provide resources
+uh into this course right to be people
+money
+uh no other connections or whatsoever
+and so they can channel resources to
+complete
+uh a certain task or certain proposal
+through a
+voting mechanism it's governed by you
+know the dial uh
+governing policies
+yeah
+any any other opinions on the topic well
+i would maybe just
+like to add that for me dao is an
+incarnation of
+the importance of the role of community
+within the blockchain sector
+and i guess
+this is the sector our sector is the
+most
+representative in terms of if in terms
+of its communities it means that
+communities
+influence
+investment decisions it's the first time
+ever that community plays
+uh equally important role along with the
+core team with the project itself
+and with the the roadmap
+and dao is incarnation of this
+corporate scheme while corporate is not
+a good word business ecosystem scheme
+where the community is put in the center
+of all the
+all the business processes
+uh but i still would like to highlight
+that we are
+in the very early stage and
+i'm pretty sure that even those who are
+very interested in taos
+do not yet know very well how exactly it
+should work
+but it doesn't mean that we shouldn't
+delve into this
+experiments on the country
+but there will be challenges there will
+be
+mistakes
+and only through this
+we can achieve
+[Music]
+a better
+world
+with a better involvement of communities
+suppose you have a friend and he is very
+good at playing with digital assets what
+is the way to delegate your money to him
+in a cheap transparent trustless and
+secure way there is a concept for it
+this concept is a dao dao is an organic
+concept how to collaborate in the fire
+space
+the same that you can do with
+traditional organizations you can do in
+the fire space using smart contracts
+that now use for these purposes
+so suppose that you take a look at the
+unicorn startup at the big company
+facebook apple google or maybe amazon
+it's not a single member solution to
+grow to this size
+this is an organization with a lot of
+members and
+in this case you have to have a really
+cool team to
+improve your company when you have a
+transparent way to collaborate with your
+team members
+you will grow faster and in this case
+people tend to spend more money when
+they see a safe solution and they see
+how the money goes and in this case thou
+is a transparent system of
+collaborations for me
+that's it
+thank you thank you
+um i think for my point of view i think
+that uh we have to first clarify a few
+things with the audience first right
+uh
+there has been a lot of companies or
+protocols used the word tao
+and if you look at the public opinion a
+lot of people interpret dao as a
+re-bracing protocol they're always
+thinking hey dao there are ponzi scheme
+that is what has happened in the market
+right we shouldn't be ignoring the fact
+if you go to a lot of telegram chats a
+lot of chats of people who actually
+bought a lot of dow tokens
+their interpretation of the word dao is
+a ponzi and rebasing token i think we
+have to separate that right i think now
+for for the panelists here and the
+original meaning of dao is actually
+decentralization right so
+you know if you look at it from from
+that perspective i think the biggest
+difference of between dao and the
+traditional uh companies are
+decentralization and democratization
+so if you look at you know how companies
+are being run
+generally speaking in a web 2 space the
+the shareholders or the board of
+directors are the one in control of the
+protocol right if you look at twitter if
+you look at facebook if you look at
+every of this protocol the one that
+makes the money is just the directors
+and the shareholders but in a dow
+for the first time ever in the web 3
+space
+that community who are holding nfts and
+tokens part of the dow could have a
+voice could actually do something part
+of the organization
+and if you ask me that it's actually the
+game changing component because
+this is this is where the the
+shareholders or the stakeholders for the
+community or the organization because
+it's purely decentralized they could be
+anywhere not being uh under specific
+jurisdiction that could be part of this
+organization and if you ask me that is
+the biggest difference between dao and
+web 2. dao is actually an improvement
+over the web 2 with democratization and
+decentralization
+yeah true
+um well
+uh can i agree more with
+what you guys all said about the
+projects
+um it's indeed the transparency uh of
+all the decisions that are made
+uh it is uh the involvement of the
+community
+we are in very early days still
+and uh
+um
+there are questions about legal
+personality of now funds how you manage
+off-chain uh resources with with dao
+this is a big question i think where the
+where we need to work with
+local
+governments and regulators to find the
+proper way to establish dows
+and
+there are doubts that are purely on
+chain
+and
+the
+beauty of dao's for me is full
+transparency no corruption
+and
+you
+as you involve the community
+even the smallest community members have
+can have great bright ideas about the
+development
+around the common goal
+uh and uh
+which are usually not heard
+uh in big corporations as you earlier
+mentioned
+yeah great so many different opinions
+about this specific thing um i remember
+back in
+2016 when this new concept was
+introduced i was very thrilled at first
+and i was a huge fan of what was
+happening in the market but
+then
+what happened and shocked a lot of
+people was the infamous dao hack which
+led to
+a fork of ethereum network as we know it
+and this put me away
+at daoist like for years i thought it's
+a terrible idea it's a terrible idea to
+manage
+organizations to manage liquidity and it
+really for a long time pulled back the
+market from this interesting topic but
+then of course i changed my mind but i
+have a question
+do you think that
+dao's as a platform for liquidity
+management
+is safe these days we see this hacks
+happening every month or so
+or should it
+be purely used for uh managing
+organization uh or is it okay to manage
+liquidity as well how safe you think it
+is these days
+as a moderator i could ask
+you as a professional fund manager what
+do you think about the
+potential threats of
+using dao for liquidity management
+well i think there is no perfect
+solution first of all clearly there are
+risks
+and
+what we need
+for
+dow to be
+the go-to solution for liquidity
+management i think are kind of standards
+and
+something which is really well audited
+uh and
+there are a lot of projects
+already happening which are solving this
+um
+but we need to also think about kind of
+the other way around uh remember the
+icos and all the agent problems with
+people disappearing with funds right you
+don't have this risk and dowse
+so and it's a question about where is
+the bigger risk right
+if
+uh the kind of bad agent risk or the
+hack risk or if it disappears at least
+you know where it goes yeah
+it's transparent yeah indeed
+so i i think for the organizations of
+the future
+and the liquidity management on dao will
+be the preferred choice
+now we
+see
+billions of dollars managed by dao so
+people
+believe in in the smart contracts behind
+us
+yeah
+you got do you know how
+can you tell how much money is being
+managed in on your
+kind of platform
+more than 300 million dollars in tbl
+about this and we grew 3.5 000 times in
+six months
+right now so in one thousand dollars
+any other opinions on the topic
+well i would just like to mention that
+security breaches are not only about
+liquidity it's also about information
+and privacy and this is something we
+should think about
+when talking about daos
+i'm personally not acquainted with the
+tools and strategies i imagine that they
+are uh to like create ndas for example
+within the dao community
+and to manage the flow of information
+but it's also very important topic for
+sure
+maybe even at some point more important
+than liquidity itself
+and let me know this when when you have
+a financial management company for
+example investment fund you don't have
+to distribute voting power among every
+member when we will take a look at
+traditional venture fund it has
+managers and investors and
+investors generally don't have voting
+rights in this case and when you have
+financial dow you will have to choose
+for example five managers and distribute
+voting power between them and you will
+have 100 investors with liquidity
+provider tokens so we'll have a
+certificate that they provided liquidity
+to this fund but we don't have to have a
+voting rights
+when you have more than 1 000 vote
+voters in your dow and your venture fund
+your voting will be stagnated in this
+case you will don't you will not have
+very very fast voting system when we
+talk about the fire project management
+it's okay to have a lot of members
+because you don't have to create fast
+proposals with faster province you you
+can just do it in a long time that's it
+yeah let's move to my next question you
+just mentioned voting and i know whether
+our guests know that recently everscale
+network moved from initial governance
+initial member governance to voting
+governments
+i think the website is called
+everdao.net
+so all uh
+holders of ever tokens now can create
+proposals can vote for other proposals
+which was a huge step for us
+but um
+this is exactly what i wanted to ask uh
+can you name good and bad examples when
+this voting is efficient
+because we also experience these
+problems of overflooding of proposals
+that people sometimes just miss some of
+them how much time to give for voting
+and bad examples as well when you think
+it doesn't work it doesn't make sense
+and dao just complicates the things
+so let's maybe start from straight
+forward that example when you take a
+look at uni swap decks for example it
+has 20 minutes deadline with a high
+slippage and if you don't have uh fast
+enough voting system uh the voting will
+be declined because you you will not be
+able to activate the transaction
+because of high slippage if you are a
+tax tax trading dow you have to have
+fast voting systems if you
+if you're a venture fund it's okay to
+for you to have one week for a proposal
+and if you are
+if you're a defy project it's okay to
+last your upgrades for three months
+i think the um
+hello testing yeah so i think for dow to
+be efficient you can't be
+like this my president can't be fully
+100 decentralized where everyone
+gets to vote or has to vote and it will
+slow down the decision-making process
+it's a bit like the upgraded version of
+a cooperative right when you have a lot
+of members or the social club
+or even in some property management
+funds that's being managed by a
+dedicated team of officers who decides
+on behalf of the members or the
+stakeholders
+so you can classify the different voting
+rights according to maybe how material
+or how important the various decisions
+are
+in the traditional way of constitutions
+right when in a legal document you have
+reserved matters
+reserve methods are only decided when it
+reaches a certain threshold in value
+and you need certain approvals to be
+obtained from the stakeholders you know
+be you know different class of the
+shareholders
+and the voting rights approval rights
+could be 51 percent or for 75 percent
+whatsoever so the similar principles can
+be incorporated through smart contract
+in the dow
+right so a lot depends on what is the
+purpose of the dial in the first place
+right if it's more for social
+educational or some common good uh
+courses that are not so material you can
+yes you you don't need to have it's not
+time sensitive and you can have the
+benefit of
+asking the whole community to kind of
+participate and then give the vote but
+if it's time sensitive then i think
+that's it for investment position you
+need this type within a certain period
+of time it's better to have
+the power of a
+dedication of authority to be given to
+uh
+maybe a dedicated group of people to
+design and that can be you know
+incorporated into the
+that is a token approval
+system
+so that's my easy job yeah thank you can
+you make a microphone a little bit
+louder for the phone
+yeah thank you
+any other opinions
+victor
+i mean there's no right wrong right so
+i mean i think dao is just a name
+we cannot expect dao to solve all our
+problems right
+somebody asked me hey is nft going to
+solve all the ip and tef problem i mean
+nft is just an ft you cannot solve
+everything right so i think dow the same
+thing right you cannot expect dao to
+come and solve all the government
+problems and regulatory problems and
+governance problems i think it's just
+more about movement and people get
+together i think that that is the core
+of it right uh i i think it's what many
+changes now i mean all this movement has
+been here for a long time but it's just
+that because there's money in here then
+suddenly you become a dow right
+that's where the term dow comes from
+then but i think dao exists on the
+blockchain maybe i know maybe homework
+there you know our government will exist
+on a dao i don't know whether it could
+happen that would create a lot of
+removal a lot of uh you know issues in
+our government yeah
+yeah you know speaking of problems that
+dao's tried to solve we discussed the
+management we discussed the voting
+but another particular interesting use
+case is when dao is used to
+distribute dividends
+um
+and
+eventually it drives the prices of money
+tokens up many times doing access on
+returns x returns
+what do you think is it like
+a
+way of market manipulation or is it a
+good way of promoting the whatever token
+is promoting network project etc can you
+also maybe give some examples of good
+dividend distribution and
+not so good
+i mean i think currently there's no i
+mean there are some good examples of dao
+but i did the best i i think they are
+much more way too improved i mean using
+example right maker dao has been doing
+this for a long time right for uh die
+stable coin for do to do so but are they
+the best they are not right they still
+have hacks they still have like you know
+issues with their governance and they're
+still trying to improve um i mean
+there's no black and white in this but
+of course there are some bad doubts
+right that hey i just would use the word
+the dao and raise money and then they
+run away so i mean those are the bad
+examples the good one is the one that
+runs really transparently and has been
+here for a while
+i'm using the maker as an example right
+although i'm not afraid with them but
+you know the enemies has been well that
+their name of the company and the dao
+has been in the industry for a while
+that you know that at least you can
+trust their brand name right or their
+association with that so i mean i think
+you continue to improve um those are two
+examples i can think of
+actually i'd like to
+hello
+so i'd like to propose that actually the
+dao can be used for more than just
+commercial money making purposes right
+because as a tool it's a neutral uh it
+is neutral and can be used you can use
+it for good you can use it for
+not so good stuff
+that's everything about using it for for
+charitable organizations
+right it's a way where you can
+incentivize and motivate
+stakeholders
+towards a certain course
+and the dollar token that's been issued
+let's say the example of a charity
+you want to motivate
+volunteers
+to contribute towards a certain good
+cause and as and when these volunteers
+get involved in contributing their time
+that their talent their skills they get
+rewarded
+and the rewards that they receive can be
+used
+to exchange for some benefit either for
+their own use in future as when they are
+old or when they are no they need help
+themselves they can get support from
+some certain social communities or it
+can be used to be exchanged for some
+goods and services from a merchants who
+are supporting um you know this is a
+good cause
+so the the dial itself can be directed
+towards uh different course depending on
+how we design it same thing for
+investment down right we want to improve
+the efficiency of you know decision
+making in the traditional way when we
+run the fund me i run the fund
+for vcs and industries
+for blockchain fund as well it takes a
+long time to make a decision because you
+have to go through all the paperwork and
+all the discussions duty et cetera
+uh but if the quantum if the company is
+big then it makes sense if you are
+investing in hundreds of millions
+billions or not tens of millions it
+makes sense to go through a due process
+but if it's a small amount
+then it's a waste of time right so you
+may want to decentralize that and say
+okay let the whoever that's interested
+in a certain project you vote and if you
+want to be in as long as there's a lead
+you contribute we get the investment
+done quick quickly so that uh depending
+on value we can decentralize it so so i
+think this is a true application at c
+and for different industries you can
+apply it for different purposes but
+ultimately the dow is supposed to
+influence behavior so what kind of
+behavior do we want to drive and
+certainly not scam and it's not
+certainly not not trying to promote uh
+pum and dumb
+the rug pools no that's not the thing no
+quick buck no we want we don't encourage
+uh the investment community to come in
+to try to earn a quick buck within short
+term a short time period so you want to
+build something that's long lasting
+scalable meaningful value adding to the
+society
+so i think dao has a good attribute but
+right now it's early days as you were
+saying
+we need to put in the right values and
+write principles into it
+thanks
+when we talk about divisions profitable
+financial companies are the use easiest
+case here you just need to pin
+this distribution proportion and you can
+distribute all the profit to pin the
+liquidity provider balances for example
+in a single transaction and when we talk
+about the five projects without a profit
+system and you need to incentivize your
+members
+to
+to reward them for voting and to rework
+them for
+better better solutions involved in your
+voting process
+this is a really big problem it's it's
+not an easy easy easy way to just reward
+stakeholders and other things and it
+highly depends on the economics of the
+project
+and you need you need to
+to do
+deeper research in this case
+dividends
+are very easy when you we talk about
+financial companies i actually agree
+with what you were saying that um you
+know about this issue
+i'm not sure i mean everybody who are
+following on twitter i saw that there's
+a case of like 36 million dollars was
+sent to another account that is
+unretrievable that has happened
+yesterday or the day before
+from another company right start with
+jay right
+you know not afraid of them but when i
+see that right it's really shady
+it says that a bunch of voters decided
+to vote and say that they're going to
+remove the liquidity of one single guy
+and then they take the money and then
+they just send to somewhere else that
+they cannot retrieve it seems like
+there's not really how doubt does it but
+a lot of people use that to manipulate
+it so that it's actually where the bad
+thing is happening
+yeah so we were just discussing this and
+i thought that dao is a really great
+tool for user engagement and we all
+remember
+pioneers maker maker dao of course
+i remember how urine finance became
+popular when they introduced this down
+mechanics and dividend distribution into
+that protocol and that was later copied
+by most of the d5 products like curve
+etc
+so but let's let's just try to imagine
+what new dao mechanics could help
+like
+develop the blockchain products in new
+spaces like
+gamify nft
+a good example i think personally
+steppen is a good example of
+implementing a dowel mechanic i called
+for something new
+in a new space move to earn right maybe
+you have other ideas how can we use down
+mechanics other interesting down
+mechanics to
+engage users into the blockchain
+industry
+i think everyone have a different
+invitation on that right uh i give my
+example on that i you know last year i
+think a couple of months ago there was a
+article published about flamingo dao
+not associated with them but
+they become a billion dollar now because
+they invest into a lot of nfts last year
+and within six months i think from like
+a couple
+tens of millions become a billion dollar
+doll right again that is very exclusive
+but it happens right so you know there's
+a good example of that as well i mean
+i'm not sure maybe everyone will have a
+different reputation just for for
+example i'll give you my example the the
+things i like is fractional fractional
+ownership of stuff this is what i'm
+really excited about when when some
+dao community buys
+i don't know an expensive painting or
+maybe in the future a yacht or a plane
+whatever and just shares it but we
+there are some examples but they're just
+starting maybe you have other
+interesting uh
+like examples of implementing dao
+yeah actually i think that example is
+just a quite similar use case for
+securitize uh no security token offering
+right when we had ico then you have io
+sto actually it's the same thing
+unit trust is a form of
+tokenization or you need a
+fractionalization it's just we're
+changing a different name
+dao is just another form of it so subs
+if we look at into the substance of it
+we are just trying to divide the
+ownership into different parts whether
+you call it a unit or you call it a
+shares you call it token you call it
+what dial fraction
+it's the same thing
+so i think we we can look beyond
+the actual use case and see how can we
+use this as an instrument
+a tool
+to
+change the way
+people behave investors behave
+or entrepreneurs behave right or the
+community behave
+and and then you know use it in the
+manner where the value the transfer of
+value become more efficient
+because where web 3
+adds a new advantage versus web 2 and b4
+was that the transfer value
+was very inefficient before
+right to transfer a share holding from
+one company one shareholder to another
+you have to go through a lot of
+paperwork
+and the winner at the end of the day are
+the lawyers the cop sack the accountants
+there's no value right to the value
+business but there's proper accounting
+but today in the dow or in crypto
+there's no proper accounting
+there's no proper accounting of the gas
+fees how much you're paying there's no p
+l no balance sheet so how do you account
+for it so if someone who can solve that
+problem have proper accounting then i
+think the operation of dao
+can be a lot more efficient
+and then the transfer value can flow
+from
+community users from one user to another
+so today that's on facebook on instagram
+all the contributors of content to all
+these platforms they are not earning
+anything
+right so there's no there's no real
+benefit to them but how do we
+incentivize them in such ways as you
+contribute you upload your video your
+selfie your wifi whatsoever you get
+rewarded and that reward can be
+exchanged for something real they can
+use so play too is a very good example
+either x infinity your ygg or you know
+when you use this slp to exchange for
+goods i invested in avogado and
+the guild is generating a lot of good
+tokens
+for the scholars right they can bring
+food a table they can pay school fees
+and the community is happy with it so
+there's a positive social impact
+to the society but if it's just for pure
+commercial gain i think it's uh
+it's a it's a bit it's a waste of the
+the innovation so since there is a good
+innovation and there's a lot of interest
+into it
+if there's a way to kind of uh tap into
+this energy
+use it for good uh for to generate good
+positive progress you know the society
+that this is aware i think of great
+opportunity wherever skill can can play
+a leading role in this
+yeah we have a few minutes left let's
+discuss the last topic i wanted to
+discuss with you guys this is
+the topic of
+whether
+what do you think can the dao solve the
+problem of cross chain into
+interoperability
+uh
+i would say that
+i'll give you example uh not many people
+know that the guys who built the bridge
+every scale allows not just to vote
+people but to cross chain execute the
+vote into different chains and this is a
+really interesting topic for me as well
+and
+do think that dao is a much bigger
+concept than just you know voting and
+managing liquidity that we can even
+think of it as a tool
+to execute different
+whatever smart contracts on different
+networks depending on let's say
+uh
+the voting or the proposals that are
+pushed to the network or even depending
+on some oracles in the blockchain
+whatever
+do you see
+such applications
+in the near future
+can you think of them
+can it help bring different blockchains
+together
+if you if you have a state transfer
+protocol for example octus bridge you
+just have to create a dao on a single
+chain on a single chip chain for example
+over scale maybe polygon for evm example
+you distribute voting power on single
+blockchain you distribute liquidity
+provider tokens for investors one single
+chain and now if you have a state
+transfer protocol or any crocheting
+solution you can manage your funds and
+provide liquidity to any chain from the
+dow side for example you can just
+transfer your funds directly to a
+startup open on finance marching or
+furthermore you can provide liquidity to
+rv on the ethereum if
+your bridge provides this opportunity
+and i deeply
+inspired by this solution right now we
+create a multi-chain platform and we are
+looking for opportunities to
+to scale our solution from multichain to
+cross chain to allow the house to create
+a single dow to manage all the funds of
+course it's convenient because you don't
+have to
+duplicate your voting power tokens on
+every blockchain you will have a single
+centralized accounting in the central
+space and that's it i think this is the
+future and of course we need more
+bridges because
+nowadays bridges are not so cool to
+provide all the experience we need fast
+cheap and secure way to provide the
+liquidity from chain to chain
+yeah thank you gore i know you have a
+lot of experience in this topic but guys
+what do you think what coin telegraph
+things i i i don't see
+um
+i mean down is like an application
+so
+if you look at it from a
+web 2.0 or an internet view of if i
+compare layer 1 to os operating system
+operating system in the first wave of an
+internet boom they were looking for
+killer app
+right so d5 was you can say that in in
+the you know in the blockchain world
+device one killer app gaming is one
+killer app the question now is whether
+or nfd is okay
+it's dow a killer app
+maybe not yet maybe the potential is
+there but maybe not yet and bridging i
+see bridging not as a
+standalone uh problem that the dial can
+solve but it's more like a feature or an
+attribute that it has to have in order
+to facilitate transfer of
+asset value between chains but it should
+be built in ideal way should be built in
+a way where it's a neutral it's not just
+one way direction only for other chain
+to transfer value inwards into one chain
+and not
+the other way around
+so if it can be built in a neutral way i
+think that will be very good for the
+whole ecosystem
+so if if uh if we can let's say in the
+case of everscale right if we have a
+dial that have all the widgets that we
+can allow cross chain transfer of value
+and you have a lot of the features that
+can make
+the
+formation of dao very easy for non-tech
+people right people who were running up
+cooperatives running you know
+traditional companies or web 2 companies
+they find it so easy to use your dial
+like a wrx or weeks now it's like
+setting up a website all the modules are
+plug and play right and you can plug and
+play and can immediately have a cross
+bridge uh feature to allow uh you know
+crypto users from other chains to
+transfer the assets inwards then i think
+it's a very good use is a very good
+solution for the problem thank you
+christina victor if i can bring a little
+bit back to the community itself because
+well for me bridges and cross chain
+solutions are mainly
+technology communications and if we talk
+about people and communities
+it's more or less the same the idea is
+to bring as much as possible as
+diversified as possible and in my
+opinion creation of a dao
+starts from formation of a community and
+this is very important
+um
+point in my opinion because
+you will never have
+[Music]
+solutions that
+you want to be promoted according to the
+values of your tao if your uh community
+is not representative enough
+like you would never have i don't know
+women projects promoted within a male
+dominated dow
+or you won't be able to
+promote
+regional friendly
+uh solutions if you have
+i don't know americentrism implemented
+within your project so formation of a
+community
+and
+the more
+adopted we become with the coming of
+mass adoption it becomes even more
+important so we have to think about the
+community that we create and we have to
+educate the community that we bring
+forward
+so dao it's not only engagement in my
+opinion but also
+exchange of knowledge
+and in order to be not
+a stupid crowd
+we need to all keep learning
+and the more people we involve
+the more
+attentive we should be
+which message do we promote
+through our community
+and which people do we want to see
+within our community we want to see
+everyone but what are the tools that
+makes that that make them
+part of this community
+part of what we want to
+solve part of what
+the project is about in terms of
+its initial ambitions
+yeah that that's interesting idea that
+yet that just also came to my mind that
+it's not just we
+we can look at down as not just the user
+engagement tool but also as a feedback
+tool to get from our community and
+improve our blockchain products that's a
+very interesting idea
+and i think this is a good motivation to
+implement dows in all blockchain
+products
+i think the last word is this right
+i think
+very interesting to see whether there's
+going to be a dial for stable coin or
+dow for cbdc i think the next topic is
+going to be interesting because the
+current so the community decides whether
+we print new money or not you see you
+think about it a stable coin is
+controlled by who you know the
+centralized entity decentralized is
+trying to come on board cbdc centralized
+is there going to be a double stable
+coin let's vote whether the inflation is
+too high and make it a little lower
+there's better opportunities and then we
+we vote nothing happens and we say oh
+okay sorry
+didn't work again
+last word sure
+so i think with uh
+dao we have the same
+situation as
+a 3.0 versus
+web 2.0 uh ui ux is not there yet as
+such we see
+low turnout in voting
+and
+we need
+solutions which would be
+very convenient and something very crisp
+and easy for people to grasp what
+they're voting on
+and how it would impact the
+the community and the dao
+there will be a lot of evolution uh the
+traditional legal system took hundreds
+of years to form uh so the legal system
+corporations how it works
+and the i think the next iteration would
+be how dows interact between each other
+because
+you have lawyers everywhere right for
+any contract you spend months to agree
+on something
+and
+it is still not kind of
+possible to do it between two dollars
+right how who would do that right
+and
+as such
+dao
+is a great thing
+that would
+allow any organization to evolve get the
+feedback from from the community even if
+there is a law turnout or there are
+whales who will over vote anyone still
+everyone will see a very very
+transparent way where the money would be
+spent
+and how the funds are allocated and see
+the feedback of the community if they
+vote against something or repeatedly ask
+for something
+i think even the big stakeholders will
+take it into account in decision making
+let's see i think we'll have a lot of
+position endowed in the next three years
+yeah it's true and let's thank the
+speakers first
+with the yeah round of applause
+thank you guys what a pleasant
+discussion yeah uh okay and now we have
+uh a special guest coming with to us
+today
+uh please meet mother ariandy the
+chairman of the ballet chamber of
+commerce and industry
+[Applause]
+magazine
+good evening everyone and um
+it means
+be may peace be upon with you
+[Music]
+american
+[Music]
+we would like to congratulate for the
+the event of every point conference bali
+also we would like to apologize on
+behalf of the
+governor of bali
+due to some unforeseen and unexpected
+situation
+our governor
+have to
+cancel and cannot attend this event
+again we would like to apologize on
+behalf of our governor and we are very
+excited as a balinese society to welcome
+this kind of even and we are expecting
+for your participation in the upcoming
+event in about one or two months
+the event we were talking about of
+course is the b20
+as in relation to the g20 event that
+will be hosted by indonesia this year
+especially in november and we are
+looking forward for your participation
+and for another similar event like this
+that will invigorate the situation in
+valley
+[Music]
+of course the transition from the old
+financial
+and economic way into the brand new
+way of doing finance and businesses is
+very welcome and we as a balinese people
+are very excited to be participating and
+to be to bring about the change going
+forward
+[Music]
+therefore in regards to the next b20
+that will be started in november we are
+in fighting and we are expecting all
+expatriates all entrepreneur be it local
+domestic national or globally to
+participate and to be involved in such
+either
+uh
+again we would like to congratulate for
+this event and
+the hard work that has been put into
+this this
+prestigious event
+please take your time and
+uh
+explore bali
+and that's it
+moto
+udo global
+recovery together stronger together on
+santi santi santi um
+uh
+just like the g20
+creed recover together
+stronger
+together om santi santisanti or may be
+may you be peace
+have peace and be peaceful thank you
+thank you mr aliyandi oh thank you for
+coming
+a
+pleasure uh okay guys so before the next
+panel we need a technical break just to
+prepare our speakers so please do not uh
+go way too far so we will be starting in
+10 minutes

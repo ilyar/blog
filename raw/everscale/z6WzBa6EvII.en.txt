@@ -1,0 +1,797 @@
+show must go on no matter what god how
+many spectators do we have
+or maybe like five right now but we'll
+probably get with us or without us there
+are already a lot of questions mitchell
+will have yeah history will record
+anything
+yeah and then you could share it
+so let's start welcome to the identixx
+ama just a few months ago in march the
+identixx team received a grant from
+everscale to create quests for
+onboarding new users to web3 projects so
+today we're here to catch up with the
+team and see what they've been up to
+and remember you can always drop a
+question anytime in youtube or the
+community chat just tag it with uh
+identics and we'll find it
+so welcome daniel and alex the identics
+guys the co-founders uh would you like
+to introduce yourselves and tell us what
+you've been working on
+yeah thanks joe
+uh yeah my name is alex uh
+i'm a co-founder of identicspace and i'm
+responsible for
+operations in our projects in our
+project and uh we're working closely on
+uh as a product owner and working
+closely with daniel
+on product matters uh
+so uh
+basically i am like
+in web 3 i am since 2016 pretty long
+time
+uh worked like several projects before
+it then
+i was a bit unhappy with the crypto
+winter that happened in 2019 and decided
+to quit but i decided to come back again
+in 2020
+uh when i uh firstly uh
+dive d dug deep uh into the technology
+of self-sovereign identity and then
+me and uh my partners stephanie was
+immediately
+joined on the basis of uh working in the
+field of self self-sovereign
+but after that our product transformed
+is in something which is we called
+identics
+so and i would like to pass the word to
+daniel
+um what was the question a few words
+about myself yes
+okay
+uh so i'm danielle i'm product manager
+of identity space uh i'm working since
+the very beginning of this project
+we met for the first time with alex in
+january 2022
+when i was looking for another project
+to
+work for
+before i was
+working
+as a project
+manager at uh
+scalpex
+crypto futures
+exchange and before that uh
+alpha bank one of the biggest banks in
+russia where i was responsible for
+looking
+for some
+interesting projects
+for
+bank within crypto and blockchain sphere
+so i'm
+pretty long
+in this space maybe since
+2016 or so
+and i was uh
+one of the
+project managers of the waves platforms
+so
+i was responsible for many things and
+was involved in many things from the
+beginning of building
+wallets exchanges and
+gateways and so on so on and here i
+found the project of my dream where i
+can help people learn things because uh
+by my profession i have a diploma of a
+teacher
+a teacher french and english
+so
+[Music]
+if you need some french
+teachers just tell me
+maybe i can give you some lessons
+for free
+and um
+well and that's the project identical
+space it's a place where people uh
+normal people know me uh
+simple mortals as we call it them can
+learn what web3 encrypt and blockchain
+is and we give them simple quests simple
+tasks to fulfill and get some small
+fraction of
+real cryptos to be rewarded
+well that's it okay great thank you very
+much uh before we dive into the
+community questions uh would you like to
+give maybe an overview or an update on
+identix space or what you guys been
+working on
+uh
+yeah as i said like uh the product like
+itself has has been transformed like for
+like for the last year uh a couple of
+times
+uh firstly we started on working on a
+south sudan identity system but very
+soon we found out that
+self-serving identity itself uh is not
+necessary unfortunately because people
+don't understand like what's uh the
+meaning of uh owning their own
+credentials and owning the
+uh like access to any uh other
+informational system and they didn't
+people basically do not see a very a
+very specific value of uh this
+functionality uh therefore we decided uh
+to just to develop
+this idea
+and to grow uh in the creation of
+request platform so basically
+uh we decided uh that
+the best way to learn people how to use
+self-certain identity instruments and
+self-sovereign identity tools
+is to
+give them some incentives of using this
+tool and we decided that the web3 on
+board and quest platform is the best
+incentive for them because uh firstly
+they create a wallet that's of huge
+importance then they make certain
+transactions and then they receive
+certain achievements in the form of
+off-chain verifiable credentials for
+on-chain credentials such as nfts and
+all this topic uh just emerged like
+since may 2022 when retaliating
+published his paper on soulbound token
+basically uh this concept just it bit a
+bit different from our uh like
+basic idea that we started with but um
+it's like it still supports our basic
+principles and uh recently on uh
+brochures elysium hackathon uh we
+decided to implement all about token uh
+but in fact uh this soul bound token
+just is a part of uh functionality of
+identity space that we are going to
+implement in september 2022. so
+basically that's our journey from
+identity project to a web 3 onboarding
+quest platform because we think that uh
+learning by doing is the best way for
+people to educate them how to use web3
+and to give them the opportunity to
+uh get some utility value and to enjoy
+the using of self-serving identity
+instruments
+very good great overview um i think we
+should just dive into the community
+questions now and the first one you've
+already kind of touched upon the first
+one is why identics what does it mean
+this is about the identity you were just
+talking about so maybe if you want to
+jump into why
+well uh
+there is no like very like a specific or
+very secret story about it we were
+thinking of okay we need some kind of
+naming uh later we will change it maybe
+in one or two months we just need some
+something to indeed identify ourselves
+to start like texting our partners and
+participating in some competitions
+especially in their scale ecosystem
+uh therefore we decided to call
+ourselves uh in the way that will
+demonstrate that uh we are focused on
+uh the website identity and
+decentralized reputation somehow
+therefore like we decided to use like
+uh
+basic uh latin root uh
+identity idento uh and like
+at this prefix ix
+uh so uh basically and we started to
+google this name and found out that
+there are one or two companies that like
+work like since
+uh like
+early 80s uh but in a bit different
+different field and decided to capture
+this name as soon as possible
+okay it's always interesting to kind of
+dive behind what's behind the name and
+the brand identity and how teams kind of
+come about it
+okay so next question is why did you
+choose every scale blockchain
+yeah uh this is pretty interesting
+question because
+uh
+our team before we started to work on a
+product we decided to participate uh in
+the first
+stage of uh ever scale self-serving
+identity framework we uh wrote a
+theoretical paper that took uh the first
+place and we got like the first award we
+wrote a paper on 100 pages with the
+theoretical
+uh like
+background of social identity and with
+some practical implementations of it and
+what can be done with certain identity
+instruments uh in the
+ever scale ecosystem and after that we
+decided okay if we are really good in
+writing papers in every scale maybe
+let's do something and another scale and
+we decided to make a small team and
+this like poor team that joined in
+writing uh this paper like was uh
+courting for uh the future uh project
+identities uh so
+therefore like every scale ecosystem was
+something that uh united us to work uh
+on this project on a permanent basis
+because all of us had like other
+activities and uh in fact we abandoned
+almost all of them and focused on it
+therefore like every scale it is
+something that was uh with us from the
+start
+and i i i can say some good words about
+like scalability and reliability and etc
+that's quite obvious i think because
+like uh
+like we really believe in something that
+this community does here uh especially
+in the field of uh
+like region because like the protocol
+itself is pretty reliable it is cheap it
+is fast and uh though this the work that
+is done by uh
+ecosystem participants in the field of
+bridging
+is really something promising for us
+because we believe that our identifiers
+our soul
+tokens uh can uh be associated with
+nfts across the whole
+website ecosystem in other networks
+therefore uh every scale is kind of an
+enter for us in our infrastructure
+is this research document that you made
+is this something public or is it um yes
+yes yes yes
+yes it's a power it was a pub public
+competition and as far as remember more
+than 15 teams participated in it yeah it
+may be found on every scale forum oh
+okay yeah
+somewhere we should press the link
+somewhere
+just google just uh
+search
+uh ssi framework okay and they will get
+a response okay great
+okay so uh where's your team located
+where are you guys
+uh we had an international team uh
+basically like my
+our decency is uh
+is from eastern europe mostly uh
+but we are located in various countries
+most of our team is located in uh
+montenegro uh
+currently me and daniel we are in
+montenegro now
+so
+and our main office is in montenegro as
+well
+very cool how many guys are on your team
+do you have any uh
+stats on growth or
+how your team has evolved over time
+we have 20
+full-time specialists right now uh
+from time to time we
+just attract some
+outsourcing specialists to all stuff
+some people like therefore like
+this number uh
+varies from time to time but basically
+there is about like
+19 22 uh people who work on our product
+on our regular basis
+very cool do you have a marketing lead
+or anybody on a marketing team or a
+marketing roadmap
+daniel i'll pass the over to you
+that's my question you told me yeah okay
+uh yeah we do have uh some marketing
+leaders it's me and alex
+we are both kind of responsible for
+marketing but you know this is the stage
+where we still experimenting and uh
+trying to get
+the right idea in the right place for
+the right audience and the this idea of
+giving rewards for simple tasks is so
+tempting for a lot of people uh that are
+not our audience at all uh i mean these
+are bounty hunters and not those crypto
+newbies that we want to attract so we
+have to follow
+the trends but at the same time find
+some unique niches and unique solutions
+to attract the audience the audience we
+want
+to
+teach and to to to inform
+so that's why
+our marketing team is uh
+well
+is still forming
+uh because we are discerning our
+audience and our user profile and trying
+to fight with those who are not uh who
+are different
+or not
+our
+our target users
+uh as for the
+next question do we have a marketing
+plan
+uh we
+as as i told already uh we are
+experimenting uh and we have uh from
+months to month marketing plans and
+we're testing some marketing channels as
+you know uh web 3 is equals crypto so we
+uh
+we are like tobacco and alcohol uh
+producers we are banned from
+usual uh uh advertising channels and uh
+uh
+usual ways to
+give people information so we have to
+invent some things or use a native
+crypto native ads platform like uh
+everybody uses like
+like coinzilla like a bit media and some
+other cpa networks and of course social
+social media and influence
+strangely uh we
+recently understood that
+although we have our end users as
+most important users but well they do
+not pay us
+we are
+we're getting paid by the web 3 projects
+and by the
+so it's it's more a b2b mo b2b business
+model so we are developing a marketing
+plan
+targeted to uh
+to marketing teams and founders of web3
+projects and crypto and blockchain
+projects and this is to be developed and
+this is to be researched
+as well
+and the next question do you have a
+roadmap yes we do but it is not public
+yet
+uh
+what is
+public is that we are preparing and
+developing a big big a very big update
+of the whole platform the whole system
+because we understood that we made some
+some uh
+ux mistake uh i i would call it uh
+we thought that people like to play
+games
+and
+to play quests
+but
+we found out that people like to
+learn and
+to get paid for easy tasks
+and
+this is game-like experience we
+programmed for in the first version
+uh prohibited people uh
+uh
+passengers uh those who pass by to try
+because
+our product
+[Music]
+requires many
+time and many efforts to be
+to be
+invest
+to go through all the quests
+because we prohibit people to for
+example to go through the fifth
+quest
+of everscale uh related farming unless
+they go all four quests beforehand
+and it doesn't help them to learn
+difficult things and it doesn't help us
+to unload as many people as we can land
+from
+advertising channels
+so we decided to
+we call it unbound quests we will show
+every quest and make possible to go
+through any quest for any user
+without those difficult paths
+programmed beforehand where you can
+choose your way
+now
+within a month or so we will
+show the upgraded version of identics
+quest
+which will be more
+like
+media about
+web3 and blockchain and every bit of a
+con of content every article will
+describe something in a form of guide or
+destruction and will and there will be a
+special mod modulo block
+that
+a user can interact with and get
+rewarded or get
+somehow uh
+somehow
+uh
+rewarded
+do you think you guys will be sharing a
+project roadmap within a month or so yes
+yes we will definitely do that
+uh usually they do this to help
+investors understand what will be um
+what will be developed within a certain
+period of time but
+we do not have talking yet so we have
+only founders to be
+responsible to
+so
+we didn't think that uh roadmap is
+something very uh
+desired by the by by by all end users
+usually they desire get more quests to
+to to go through not roadmap
+oh it could be really intriguing
+treatment though because if you have a
+roadmap that you know shows that you
+have something
+exciting coming up you know they'll be
+more inclined to hold tokens and
+earn as much as possible
+so i think
+that's how yeah yeah that's sort of
+happening just uh the only thing that we
+should understand here is that roadmap
+is necessary when you have
+a kind of sustainable product when you
+understand like okay here is our product
+we released it and we are like moving on
+the next stage and then on the other
+stage etc etc
+so uh
+when we realized like in may when we
+released our like the first version of
+our product we understood that
+some things uh like in the core nature
+of the product where like we're wrong
+and we admitted a lot of mistakes and
+decided okay like this doesn't work and
+this doesn't work let's like fix our
+mixtapes and
+we totally changed the platform and we
+are planning to release it to release it
+in august at the beginning of august and
+to make it live
+and then we will receive like first
+feedback from our audience uh and we
+will understand how it works
+uh
+so basically then obviously we will make
+very like some kind of a concrete road
+map to develop
+but we don't do it uh like purposely
+because we want to receive a like
+primary feedback from
+uh our audience and test certain
+hypotheses but uh i may promise like
+that uh obviously we are going to
+implement
+uh
+the functionality of uh
+like
+public verifiable credentials and the
+keys or
+tokens we may call it in different ways
+that's something that we are going to do
+anyway
+and
+obviously we will focus on the mobile
+version of the platform because
+currently it is
+on the desktop but we understand that uh
+at least half of our potential users uh
+try to test our product from the mobile
+devices and uh it is not something that
+we are ready for now because like for in
+in case of mobile ux and moving uh
+across various applications it's a bit
+more difficult
+to create a product uh like webster
+mobile product rather than desktop
+therefore we decided to make to be
+desktop first and then
+mobile uh second
+makes sense makes sense okay let's move
+on to the next question someone wants to
+know if you have an audit and if you can
+show it
+well basically uh
+we are not like a
+decentralized finance product and we
+don't have a great set of smart
+contracts to
+uh to demonstrate and we don't
+we don't even need to demonstrate some
+logics because
+uh
+basically we are the product that
+describes other products
+in fact uh the only web3 functionality
+that we have here is the identity model
+and everything that we do in this field
+we publish uh we participated in the
+next uh competitions on the subservient
+identity framework in stages two three
+and four and you may find our code
+in
+this competition materials it's open
+source no problem you may use it
+um
+and like this part is obviously opened
+uh we didn't do any audit like uh
+by private companies but it is public uh
+anyone can come and
+give us feedback on the job that we did
+and additionally uh it was a condition
+of this uh grant that we discussed in
+the beginning of this call
+we published our functionality which
+tracks down web3 transactions
+i think we don't hear you alex look
+sorry for that
+uh yeah
+where did you lost me
+uh you you just changed to
+okay yeah i'm just
+i'll tell about the last part yeah uh
+because like
+one of the condition of the grant that
+we discussed at the beginning of the
+call is that
+we are going to publish uh
+the code that tracks down
+uh web3 activity of our clients because
+our end users in fact because uh we are
+not just a media platform that tells
+okay go
+to metamask download bullet and that's
+it
+we always want to know whether a person
+completed the quest
+uh if he goes to flat cube to make a
+swap we connect to like flat cube and
+track down his wallet and see what's
+going on because we want to understand
+that something is happening here and uh
+we also published our module that uh is
+responsible for tracking uh web3
+activity on uh the issue where the
+person completed some kind of reactivity
+but
+like whether he committed this to
+activity or not
+uh this is all that this functionality
+is
+uh public as well
+uh but we didn't do any
+uh audit because basically we don't need
+it because like most of our
+functionality is uh proprietary software
+and it's closed therefore there is no
+need for it
+makes sense okay thank you for sharing
+that
+so next question who partnered with
+identics do you have any partners yet
+and do you have plans to explore other
+partnerships with
+industry leaders
+yeah uh
+like at the beginning uh our focus uh
+was uh on a polygon ecosystem and on the
+everscale ecosystem and we partnered
+with both of them
+and we obviously got some benefits from
+the rescue ecosystem as well currently
+we are working with some b2b clients uh
+in every scale ecosystem and in some
+others and
+i'm not really sure i didn't sign any
+ndas but i'm not really sure whether i
+am eligible to disclose this
+negotiations but yeah there are some
+players from the rescue ecosystem that
+we are communicating right now and some
+others from other ecosystems obviously
+our product will not be focused only on
+every scale products but
+like every scale products like
+they are something that we are very
+welcome to partner with because we
+already have tracking functionality for
+every scale and we are familiar
+with how
+this blockchain works therefore uh it is
+much more suitable for us to create
+quests in uh every scale ecosystem that
+than in other other blockchains okay
+very interesting
+there's a good question for you guys
+here um do you have a referral system
+well uh not now uh at this moment uh
+like we don't have a referral system
+itself but uh we are working on it and i
+think that after the second uh version
+of our platform will be published we
+will definitely implement it and uh i
+was thinking myself about like the form
+how this referral system can be done and
+i think that there is a very
+uh very good and native use case uh in
+the field of web three
+is to make a doubt
+like if you uh want to use uh like a
+referral system just make your down
+bring your friends and make a doubt and
+compete like the the biggest the bigger
+dollar you will have like the more
+benefits you will get so basically we
+want to create some uh web 3 native
+incentivization for our users and our
+referral his system might be kind of a
+quest
+for
+our end users
+if we are talking obviously about b2c
+referral system because in terms of b2b
+it's uh of course it's a bit different
+and we are we are very welcome uh every
+any partners who
+uh
+like are struggling with uh marketing
+and all this stuff
+we are
+very happy to make uh quest uh for you
+or your friends or your partners uh
+which will explain them how to use your
+service
+and in fact like uh like the core idea
+of our product uh
+it is something that was not mentioned
+at the beginning of our session uh for
+now is that
+uh our main goal in future is to create
+a profile for decentralized reputation
+for end user
+what it means for businesses it means
+that uh let's imagine that uh you are
+struggling with marketing you are
+spending lots of money in google ads or
+spending a lot of money on airdrops and
+only
+like
+airdrop hunters are coming and getting
+your money and you don't get a proper
+uh effect that you expected
+in fact our users after they passed like
+10 20 30 40 quests
+they we we call them power users that's
+the users that
+who are experienced who at least know
+how to use certain web 3 services and
+they're interested in various services
+and it is uh provable that they have uh
+wallets at least in like two three four
+five uh blockchain ecosystems that means
+that for example you may create like
+uh quests for your bridge or for swap or
+for something more complicated so these
+users is not just something that you may
+get from
+google ads they have
+their own decentralized reputation that
+may be proven by demonstrating their
+soul bound tokens that is of huge
+importance so basically we create a
+system of
+uh we call it inverting marketing
+where
+uh if you want to get these users to
+come to them basically you come to
+identics
+and make a quest
+and that's how you get the attention of
+these users and that's how you may give
+them some discounts bonuses or access to
+some uh other benefits and that's how
+you may like attract their attention so
+basically uh
+we obviously we have educational
+platform for our end users
+uh but for our clients for businesses
+uh we are like
+like the source of very good power users
+and very good leads
+that's our passion in the market
+very interesting these users can be
+excellent ambassadors as well
+sure
+businesses
+yes
+cool
+last question guys if i want to suggest
+an idea for your service who should i
+contact
+well uh i'm always guys are here
+yes yeah uh daniel and me uh
+the people who are available 24 7
+especially me uh my calendar is
+unlimited for any time zone the name day
+of the week therefore i will be happy to
+contact to anybody who is
+end user to receive a feedback or
+potential partner or
+infrastructure partner
+very welcome
+does uh identics have a community chat
+like a telegram group or anything people
+might want to join
+yes we do we have telegram chat and we
+have discord server
+uh where we have kind of activity there
+okay let's share those links
+okay guys i don't have any more
+questions that's it so identicspace
+thank you very much alex thank you very
+much daniel for your time and
+information
+i'm sure community appreciates all this
+information
+thanks from their questions

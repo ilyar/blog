@@ -1,0 +1,138 @@
+hi everyone it's ben here with you today
+as you remember from our previous
+episodes we've started a series of
+tutorial videos explaining the
+ecosystem's various details today we're
+going to take you through why you need
+an everscale account and how to set it
+up please don't forget to like and
+subscribe this will help the growth of
+our channel so let's get started first
+let me remind you everscale is a fast
+growing next generation blockchain
+driven by the ideology of
+decentralization in addition to near
+instant transactions with minimal fees
+everscale offers a multitude of income
+opportunities within the blockchain
+before you dive into web3 though you
+should create your own blockchain
+account which would mean getting a
+wallet address where you'll be able to
+store your evers an everscale account is
+an everscale address containing a wallet
+smart contract this smart contract can
+receive coins from other wallet smart
+contracts store and transfer them you
+can transfer coins and tokens to any
+address but if the smart contract is not
+deployed correctly your coins or tokens
+might be lost on the everscale
+blockchain the address of the smart
+contract deployment is not random but is
+calculated based on the smart contract
+code and user data such as public key
+therefore different types of wallet
+smart contracts have different addresses
+some of the most popular everscale
+wallet smart contracts are safe multisig
+setcode multisig surf bridge multisig
+wallet everscale ecosystem wallets are
+available on different operating systems
+making them very handy thus depending on
+your preferences you can choose a
+desktop wallet such as ever surf an
+app-based wallet on your smartphone or
+personal device ios or android such as
+surf again everwallet or everspace or a
+browser extension wallet like scale
+wallet or everwallet before we get into
+the details of creating an everscale
+account i'd like to say a few words
+about security as this is highly
+important if you want to keep your funds
+safe so before funding your new
+everscale wallet it's important to
+remember that the seed phrase of 12
+unique words associated with your wallet
+is the only way to restore your account
+in addition to the above when you create
+a new wallet a set is generated that
+consists of a public and private key the
+private key is used to sign transactions
+in other words transactions with your
+coins and tokens and the public key is
+used for authentication now you're aware
+of smart contracts ecosystem wallets and
+security it's time to move on to
+creating an account it's straightforward
+just follow a few standard steps the
+same for every everscale ecosystem
+wallet the setup of each of the wallet
+options involves the following standard
+steps 1. download and install an
+application corresponding to your
+operating system such as a smartphone
+browser extension or web version of the
+wallet
+select create new account
+read the decentralization policy and
+accept it
+create a pin code or password for quick
+access to the wallet
+[Music]
+write down the seed phrase that's shown
+to you or find it yourself in the
+security stroke seed phrase options
+[Music]
+top up your wallet account with ever
+activate the wallet
+and that's it deploy this wallet smart
+contract to the address for further
+token management it's a one-time process
+which is performed if there are funds on
+the balance of the wallet do kindly note
+that if the activation process has not
+been completed you can only receive ever
+to your balance but you won't be able to
+send them in the eversurf wallet
+activation is automatic and possible
+without spending your tokens with a
+d-bot so you get an active wallet almost
+instantly isn't that great other wallets
+have a deploy button that you use to
+deploy your wallet smart contract they
+activate it when your account is
+registered and fully set up you're ready
+to buy ever to transfer them to your
+wallet you have several options when it
+comes to buying ever you can use one of
+the centralized exchanges such as
+gate.io
+mexc.com at bitmart we'll be listing on
+the 16th of may uh please keep in mind
+that it's not safe to store your crypto
+on centralized exchanges as a general
+rule of thumb so after buying it's
+better to transfer your crypto out of
+the exchange immediately as an
+alternative you can use changely.com
+or go to octusbridge.io transfer usdt
+from ethereum polygon or binance smart
+chain to your account and swap together
+on flatcube.io the main decks of the
+everscale ecosystem perhaps the easiest
+way to buy is directly with a credit
+card and ever wallet and eversurf
+these are popular everscale apps that
+combine the features of a white chatroom
+and dapps launch environment if you
+check our previous videos there are more
+info and there's also a surf's own
+channel congratulations you've created
+your own account and now you are a proud
+ever holder you're part of a dynamic
+fast growing and technologically
+advanced ecosystem thank you for being
+here and
+i'll see you in future episodes

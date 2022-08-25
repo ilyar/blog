@@ -1,0 +1,807 @@
+it's
+previous
+i think we both agreed that
+privet
+is international award right
+is a witch word
+trivial
+we agreed that it is a witch word
+i said uh i think we both agreed on
+the word privet it's uh like
+international one
+so
+we can really use it i guess
+you're trying to internationalize the
+russian language right
+we just uh
+we just
+said greetings to each other on russian
+russian
+how dare you
+oh my god
+hello okay hi how are you
+okay let's wait for one more minute um
+yeah we have some very interesting news
+today
+hello what's up
+hi hi stephan how are you
+thanks how are you
+fine absolutely fine hopefully
+i'm a bit sad because it's autumn in
+moscow it's it's not the prettiest time
+to stay here
+next week
+[Laughter]
+hopefully
+um
+so where's everyone
+okay okay okay so
+not too many people attend these days
+i think we are sleeping but
+yeah yeah probably
+uh okay so let's start so we a few but
+the most motivated guys uh so
+welcome everyone so 49th uh weekly defy
+governance call so um
+we have not very big but rather
+important agenda for today so let me
+traditionally start with um
+with the contest updates yes the
+survivors
+yeah so actually we have uh another
+contest that
+switched to the voting stage it is a
+distributor valedictor oracle contest so
+there is only one submission from the
+proven the team uh and
+this submission i think is very decent
+in any case and prevent the team
+promised to
+run a demo tomorrow at 6 pm moscow time
+so
+i will make an additional announcement
+in the public group so
+if you are a juror so please
+do not hesitate to come and ask your
+questions
+and scrutinize
+those guys so
+in any case uh it is done for you to
+better understand
+what's going on in the submission
+uh
+the next uh
+contest that is coming to its end is the
+three-ton decks implementation stage
+three uh actually four days left force
+uh to make a submission
+and uh 15 days left until the second
+stage of the free tone self sovereign
+identity framework is over
+uh
+yeah so and in by the way in all this
+you know uh day-to-day routine we
+forgot about one small
+but important event
+so actually um
+on the 10th of september
+last year
+the device of governance
+was approved by the main governance so
+actually we have celebrated one year of
+our sub government so let's collab to
+each other because it's it's a very
+amazing stuff yeah so congrats everyone
+we've done a lot so uh we've hosted
+uh
+over
+a few dozens of contests we have created
+with the efforts of a community a lot of
+good solutions
+and in my opinion device of government
+is
+one of the most
+performing ones in the all the free tone
+and this is all uh
+because of you because of those who
+participate in contests uh so that's
+great it's actually great and i really
+love your passion and will do my best to
+keep it as long as possible uh
+yeah unfortunately i don't have a cake
+with me but just let it be an imaginary
+cake with one uh one candle
+so let's just make a wish
+all right then
+so let's get back to business and uh so
+move on so actually uh we have uh one
+contest uh
+that is st tone that is finally ended
+and collected the quorum and we have a
+winner so and all of you know this
+winner uh so now we need to make the
+payments uh actually uh
+i think that i will do the calculation
+tomorrow morning uh or maybe this
+evening and let's plan the payment for
+monday how how do you feel
+if it's possible
+good
+all right yeah i i just want to record
+that now we have 24 hours approval for
+transactions so it's no obligation to
+stay just
+within the
+tough framework of one hour to sign
+everything and that's very good
+uh
+next big update and it's really huge uh
+is that we finally the brothers team has
+uh deployed
+the dow of a new breach and it was a
+tremendous operation involving uh over
+10 people
+who were deploying uh dozens of
+contracts to
+freetown and ethereum
+no dozens hundreds
+hundreds hundreds yeah no
+not uh
+dozens of contracts but hundreds of
+attempts so actually uh
+as you know everything goes wrong when
+you try to deploy it to freetown and uh
+yeah so the guys spent almost a week
+to release the dao and finally it's in
+production and it's we will be uh
+gradually switching the current bridge
+to a new one uh
+so the next stage will be to test uh
+everything in the main net
+uh to test the token transfer and
+if everything is fine after that we will
+start switching
+current
+token debtors to a new bridge
+and
+the breach was audited by a reputable
+firm so and hopefully we will uh publish
+the as a result of the audit uh soon
+um so yeah we are coming to a new era uh
+with a new fully decentralized bridge
+and
+sergey will tell about this
+just in a while
+and
+we will be also grateful to everyone uh
+who will join us in uh testing so uh of
+this new new solution so and just keep
+an eye for announcements uh sega can you
+please maybe uh tell a bit more about
+your plan for
+adding new
+layers to the bridge
+yes
+so we only deploy down
+and uh during two weeks uh we will uh
+move uh
+multisig
+multi-signature uh for
+a different smart contracts in bridge
+and in
+transform maybe to
+under relay
+uh now we launch only brock's relay 15
+relays it's a minimum for consensus
+and
+i hope after two week we will add uh
+first eight independent uh relays
+and uh in october uh second uh eight
+independent relays race
+uh after testing and uh first
+bridge uh epic
+uh bridge bridgette
+ epic uh it's a
+some movements with funds with farming
+and usually it will be for for some
+months but for testing of course we will
+we will do quickly and we will use
+some strategies from your finance
+for testing
+and for it we will we will increase uh
+different uh
+strategies in different networks
+uh monster
+architecture
+will
+will supply all
+uh evm
+network
+and
+we're ready to launch
+easy oem network and i think
+after testing and all interfaces uh i uh
+we will do it in one day
+we will in one day add five seven avm
+networks like bnb
+near and cetera
+and
+it will be a huge
+huge action involved
+because it it's a it's a totally
+uh domination uh our architecture and
+under other other bridges
+especially taking accounts how binance
+now bans all transfers and withdrawals
+to ethereum network
+so we will will be a backup solution for
+everyone yes yes
+uh so it's it's about bridge and uh
+in
+some weeks we will
+share a description uh now we have on
+it's only in code and architecture
+and the description is a big work
+what we did
+and unfortunately only people who who
+did it
+can describe it
+because it's uh
+uh
+plus thousand uh call quote
+yeah yes lines of code in in rust and in
+smart contracts
+and so it's a very big big project
+uh
+yeah alexander you remember that's
+that's why i'm saying that the breach is
+not something simple
+so actually we had a discussion with
+alexander about the nft bridge and uh
+actually uh
+building such a solution so
+no it's
+it's it's not it tax it's it's
+yes it's not this tax but
+but uh we're ready to supply
+nfc standards in bridge too
+i can provide date when we will do it
+i had a discussion with alexander with
+bachco
+from grand bazaar about
+standards
+we what we should supply because it's
+it's impossible to supply all all
+standards
+in industry
+and we will choose
+what we want to supply
+[Music]
+yeah uh
+good good uh any questions guys please
+um no
+yes we talk about this and
+we have one more problem in
+when we need to connect a bridge with
+nvte
+we had a call yesterday or before
+yesterday we all and fiti sabgaf and um
+grand bazaar tried to explain why he
+choose this implementation without dao
+and
+power pavel prigalovka argue a lot with
+them and in the end we understand that
+we have some problem that
+it's unique uh tokens and
+we need to
+[Music]
+when we transfer from ethereum and vt we
+need to do something like certificate
+what it was transferred
+and uh i think maybe in our call
+especially for
+this question we can discuss more
+closely and explain what's this problem
+and
+we discuss how it's possible to resolve
+with your bridge or maybe with plugins
+etc
+it's neat
+let me comment on that
+i don't see any problem i mean they uh
+what they did they they thought that
+there should be
+a requirement from a market that
+somebody confirms that identity of nfts
+and they explained that it could be done
+cryptographically
+so in that respect uh it could be breach
+uh
+as known as or say as
+locked uh
+uh so so you look on
+on one end of the bridge
+another end of the bridge so don't no
+problem with that so and the grand
+bazaar agreed uh
+that that record of the call is
+available so everybody can um listen
+yeah please can i please drop a link
+here in the defy group yeah so so that
+everyone can talk yeah alexander and i
+remember about your request
+to have a discussion with the bridge
+team uh
+about the integration about the
+potential economics for this process so
+uh
+i propose to do this maybe next week uh
+for now as a guide a bit overloaded with
+the deployment and uh
+i would like at least one person from
+the technical uh team to be present at
+the cause one
+yes thank you it will be neat exactly
+and uh
+it's better to do
+early i mean it's next week it's good
+because um now we little bit stopped and
+think uh what we need to do in entities
+of golf and next step maybe we need to
+do additional
+architecture proposal especially for dao
+or maybe it's enough and i think
+we need first to talk with bridge team
+uh what you explain now and uh discuss
+uh
+how we can connect in this way and
+afterward we
+[Music]
+will decide uh in entity subgovernments
+what we
+need to do for next step
+okay okay very good
+uh thank you
+any other questions on the bridge guys
+so don't hesitate just write your hand
+anything you were dreaming to ask but
+was afraid of
+don't worry everyone here is your friend
+is until you ask the question
+okay no one uh
+let's move to the next topic uh actually
+uh i don't see if ruslan is here who
+asked the questions in the in the chat
+so but still we i think we need to
+address those and uh very good questions
+uh sergey would you be so kind to also
+run through the questions and uh answer
+them
+yeah yeah sure what questions yeah the
+first question uh roussan asks is uh the
+alliance plans to hold a series of
+professional defined blockchain events
+to enhance the reputation of return and
+the question is what events have
+applicants be submitted for and what is
+planned to be done
+yes uh the next conference we will be on
+in dubai
+from 9 october to 16th october and we
+are sponsored on
+wolf summit
+uh we have uh
+yeah we have panel discussion and uh
+one one slot for for media
+and uh another conference in dubai it
+will be 10 october i i forgot
+uh name of vladimir what's what's name
+it's it's called ima it's uh alternative
+investment conference for we will be
+attending their defy versus c5 section
+it's more about it's more confidence for
+investors than for blockchain developers
+but they were
+hesitant to listen uh how we approach
+the development of decks and other d5
+instruments so we decided to go there as
+well
+uh yes and and also we one of the
+sponsors for
+bangladesh conference
+where media 2 will have
+a slot
+and
+in bangladesh we prepare program for
+olympiads for one year and we will get
+30 or 40 teams from bangladesh
+who have a project on return and a
+series of different
+lectures and of course
+thank you sergei
+sorry to interrupt and there was another
+one uh with sigma coming soon i think in
+november in november in november yeah in
+malta
+i think it will be the next big one
+after that yeah but
+i'm afraid not everyone from russia can
+attend it
+unfortunately
+yes yes but who knows yes it's 15 to 19
+november those who
+have the
+the right vaccine i would say this is
+this is now more important than the
+passport
+okay okay and also uh
+we are now with the gda agency i would
+also add um
+uh
+preparing the uh
+hackathon for north american market and
+uh
+but it's still in the very draft draft
+stage so when there will be some more
+details of course we will share it
+uh so the second question uh it is
+planned to attract more than five
+cryptocurrency funds by the end of
+august and the question is when to
+expand the first results and information
+about the funds raised
+yeah uh two new funds now in interval we
+are testing
+and
+the next funds and it will be more than
+five
+uh will be in in october
+uh it's one of the great great uh it's
+one of our goal of why we are willing to
+buy
+yeah and actually uh i would also add
+that um
+the main um kpi was not the number of
+funds but rather the amount of liquidity
+that is it is attracted to the free tone
+and with these kpis we over performed
+and
+if i'm not wrong it's okay
+what was it 10 million
+locked in tvl
+now we have almost 30
+so
+it's it's a very very good
+overperformance
+uh so the third question is that the
+airline has has focused its efforts on
+integration with several major payment
+gateways and providers uh and the
+question is what are the gateways and
+providers what stage is the integration
+at
+i uh i will answer only about about
+public public integrations what was did
+for example it's in the coin
+we have some issues within the coin
+because they get a request from from
+legal
+and
+now we are
+in in a second on boarding process we
+provided all documents about us about
+about our companies
+and affect we will return
+the coin method and also five another
+providers
+not five seven seven other providers who
+will support that free tone and
+and chip three tokens
+uh we are waiting when we will finish uh
+rust light node for for processing
+and now is not in testing
+and and on the affiliate way will
+integrate
+because it's very it's very hard to
+integrate full full node
+and there are a lot of issues with it
+and so we understood some months ago
+that uh the best way
+is provide light light node solution for
+this git phase
+thank you
+uh yeah a lot a lot is in integration uh
+and just just to uh precisely it's it's
+really difficult guys it's really
+difficult to
+to create a new a new solution in proton
+yeah yeah and uh also just for just to
+understand correctly when we are saying
+about the
+legal aspects so actually uh as you may
+know now uh the european regulators
+started the new wave of uh checking uh
+different uh services
+uh linked with cryptocurrency and now
+the strictly and tighten the control
+measures and that's why they requested
+in the coin to provide additional
+information and they had to temporarily
+suspend the integration with friton but
+it's uh technically it's in it's still
+there and as soon as we finish with all
+this paperwork so it will be back
+uh
+okay and the
+last question is uh
+search for a law firm that will become a
+legal representative for freetown and a
+legal consultant for its partners what
+are the results or for finding a law
+firm and when will the name of this
+company be announced
+um
+maybe i will take on this uh so actually
+as far as i remember there was a
+legal uh
+firm that was
+preparing
+the position about friton
+in us but we already worked with two
+companies from the
+defy alliance part to prepare
+legal opinions for singapore and malta
+and uh yeah well maybe you you have some
+additional info on this
+uh i'm not sure that that right uh
+question when friton is the centralized
+community so how can you
+have a legal firm representing a
+community so a legal firm can some uh
+private entity can ask a legal form to
+create a legal opinion regarding uh
+something
+uh that's probably the correct
+point but yeah but you you know better
+anyway
+yeah so i i remember the discussion that
+was um if i'm not wrong it was more than
+six months ago uh
+and at the end of last year when we were
+the possibility uh of a legal
+representative
+of return
+like
+a legal company that can
+be
+a signatory from the freetown site
+behind
+different
+government agencies and whatever but at
+least we started with preparing the
+legal opinions that are required for
+different uh exchanges and regulators to
+and
+also payment providers they require this
+uh that really facilitates the
+integration of free top because all
+these guys
+they do care now about the compliance
+part
+yes and about eagletop for example
+one of our partners now preparing uh
+legal opinion for a stable coin
+on top of on top of return
+and we also will share it i think
+and after it will be more easy for
+another project to use these papers
+absolutely
+yeah i wanted to add that i think uh
+regarding the last question that
+actually it's not just a topic for the
+defy aliens i think it's a much broader
+topic for the like for the whole
+community so maybe we pass it later on
+when the foundation website is ready to
+the foundation level because i'm sure
+that a lot of people will have
+some legal questions and they need one
+place to go where these questions can be
+answered wait are still looking for a
+proper firm to do that i mean by we
+members of team of defile lands but by
+the time the foundation
+will be ready the website i mean we'll
+definitely find one or two law firms who
+will be kind of
+consultants on behalf of foundation
+where any member of aliens or other
+government sub governance can come for
+consulting or legal opinion or whatever
+question raises and by the way we have
+the semi same
+same idea for the previous question for
+the integration questions we'll also
+want to make it kind of kind of part of
+foundation because a lot of exchanges
+and wallets they share the same kind of
+questions and
+they need the same kind of support
+support and so they also have an ability
+to to go to one place and get all the
+support needed for integration
+yep thank you vladimir
+sergey
+so that's it actually those four
+questions were asked by ruslan so uh if
+you have any anything else please
+don't hesitate to ask
+so we now have the free flow time
+yes alexander please
+maybe it's not questions only for
+different subgardens maybe you saw that
+alexander fellata
+said that after conference in uc he
+realized that maybe we need to change
+our brand
+and because i had more or less the same
+experience that i tried to speak with
+some investor and they a little bit
+afraid something from this history with
+sac
+and i talk after that uh with some
+guys from main governance about this
+case
+and uh for my opinion i agree that we
+need
+some rebranding what do you think it's
+questions to always who hearing our call
+yeah i will attempt attempting point
+so just please raise your hand just to
+answer
+i forgot how to do it
+okay okay uh let's imagine that you have
+raised your hand yeah and a pile was
+first
+to find the button
+yeah i mean
+i think now everybody understands that
+there is some problems with that name
+um and yeah definitely i think uh
+you it should be
+i mean my person i mean i'm talking
+about my personal opinion uh and of
+course of course it should be my my
+personal opinion that it should be done
+i don't think that we should rush with
+it because i mean
+uh
+we all everybody knows that um there is
+um rust node with new consensus coming
+out uh very quickly because that tests
+uh rust cap tests they were aimed at
+uh this throughput
+and consensus remained untouched
+in production version uh frost cup uh
+but they're also that uh now they are um
+very
+fast development of new consensus and
+all on all concepts which were described
+in
+white paper and uh it would be quite
+natural
+to
+[Music]
+have some
+branding or a launch
+at the point when we finally
+moved to another code another
+yeah
+that's my view because
+it will be very very strange to do it
+like in the middle of those process
+okay that's again that's my view
+thank you now vladimir please
+yeah we have we had this discussion with
+different uh members of aliens and other
+validators i think the majority right
+now thinks it's worth to do and uh my i
+share quite the same opinion
+uh i but i still think it's uh
+that we we have a decentralized system
+consensus uh we should
+decide make decision based on this
+consensus uh that's the first point the
+second point i agree with pavel that it
+should be done like in some logical
+fashion at some point for example when
+we switch to the rust nodes and when we
+abandon the
+kind of code base of telegram that's a
+kind of logical step uh when it's
+perfect uh logical perfect logical step
+for rebranding because we abandoned the
+code and we changed the name that makes
+sense
+and my last uh thought on that is that
+we have a good example of polygon
+which was uh rebranded from matic and um
+i mean it worked perfectly though
+a lot of people were skeptical about it
+when it happened but we have this good
+example and that means that we should
+really think about doing the same that's
+my personal opinion
+okay thank you
+stephan do you want to say something
+just
+reason uh
+just just concur
+okay yeah i agree with vladimir so
+actually it is not the right moment to
+discuss uh
+yes of the necessity in it so it's
+raising
+and uh it will just bring a lot of
+changes uh in terms of
+namings and whatever so everything that
+is has a name ton in need so we'll have
+to think about rebranding as well
+and uh this
+should be done without rush definitely
+yes thank you and i agree we need the
+right time for this
+okay so uh any other topics guys please
+raise your hand and say
+okay nothing brilliant
+uh
+actually i have one small announcement
+for the next time so we
+will have a very interesting guest uh
+for the next time so uh i will keep it
+in secret for now
+so uh just to make every one of you to
+come
+for the next call
+uh so please uh have a nice weekend and
+definitely
+we forgot about about an announcement
+okay uh i think we should to
+launch a contest for launchpad
+launchpads in uh
+governance damn it it's a gay i wanted
+to keep it in surprise
+sorry
+sorry but but without question because
+the firearms had communication with
+minimum five teams
+who are ready to launch
+that's two launch launchers
+and uh it's a good time for contest
+yeah actually actually one of the guests
+will be uh
+one of the teams that will definitely
+participate in such a contest because
+they were choosing the right blockchain
+uh to to build the ideal platform on and
+they
+decided to choose freetown for this for
+this case and uh
+so they will be
+they've come from a specific industry so
+it will be uh not just generic purpose
+uh ido platform but rather
+something specific and at least let me
+keep this in secret and since the last
+time to keep in trick
+so and they will tell about themselves
+and so what they are going to do so and
+i hope that by next thursday we will
+just prepare the draft of the contest
+and
+hopefully run it next week
+okay everyone thank you for coming and
+traditionally so i wait for you next
+week and have a nice weekend
+bye-bye
+thank you

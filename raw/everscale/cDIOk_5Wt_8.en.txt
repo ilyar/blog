@@ -1,0 +1,1992 @@
+hi pavel
+hello
+so waiting everybody to join
+people coming in now
+yeah
+hi everybody
+so how many people are we expecting to
+join the call here
+see a lot a lot of mean people
+i think it's going to be youtube mostly
+because the zoom link was not really
+circulated
+well we've got nine people on the call
+do we want to circulate it
+it's dangerous
+hello
+hello hello
+for those killer whales or short
+elephants that you have on the
+background yeah
+oh
+john can you say anything
+yeah i hear you you can't hear okay we
+can't hear
+anything
+oh i heard him
+oh yeah i didn't know i heard him too
+one two three
+four five six
+alright
+they're orcas
+those are killer whales killer whales
+that's what they're in a pod
+they're in a pot right now they're in a
+pod right now yeah
+killer whales
+custom
+correct
+[Music]
+how many espressos a day do you drink
+it's the cough
+just for the taste then
+no not no no actually the
+all the important ingredients for the
+health are in the cafe the caffeinator
+as well is normal coffee it's not a
+coffee
+for men particularly
+if you know what i mean
+like an aphrodisiac type of thing or uh
+i was thinking hair or something
+what did you think
+hair
+i don't know why well
+because of me
+[Laughter]
+okay it must be here
+you don't see everything
+there are some things
+about the left mysterious
+region man a mystery
+right
+so
+three minutes after
+do you think we should start
+wait another minute
+yep absolutely i think okay
+cool okay well welcome hi everybody i'm
+joanne from everex and welcome to the
+first gosh ama where
+all of your burning questions shall be
+answered finally
+we have michael goreszewski the cto of
+everex and co-founder of gosh
+the subject of today and he's here with
+us to
+field all of the questions
+and the pressures on you meecha so would
+you like to kick it off with a few words
+sure well um
+first of all i mean um amazing interest
+from everyone i'm surprised
+um so i don't know
+maybe just say two to three words about
+gosh so we launched a closed network
+based on every scale um
+which was tuned to um to support
+gitonchain
+and
+i can show you i mean you probably
+did go and check but if you didn't
+then
+there is a
+nice website
+and now also includes the introduction
+that we made on the
+on the dockercon
+to the the gosh so so you can watch the
+video here and basically it's a bit sad
+then you have a documentation about gosh
+here it's in the docs section and you
+have um gosh app
+which actually
+is
+just give you gives you the possibility
+to use this first version of gauche
+repositories
+and uh you know you can go
+for example browse summary pro some
+repositories like gosh
+for example
+yeah and here is the gauche repository
+on gosh
+um
+and
+there are some some familiar face it
+looks like github it actually github
+compliant
+um fully so you use your git client to
+to browse that browse the repositories
+to work with repositories to push there
+is a special
+git remote that we need to just install
+follow the commutation you can you can
+use this right now it's not optimized
+yet it's a very very early
+stage
+so uh it's a long way to go still
+but uh but it's already it works i mean
+you can you can use it you can try it
+don't uh put your live repositories in
+it yet because of my restart
+and might lose all the all the data
+so it's just for experiments now
+but they are quite important experiments
+because gosh is solving two problems
+first
+the decentralization of the code
+as with each repository actually there
+is there is a dow created
+you can see here there is a detail about
+dao
+and there are events which are well not
+in this repository but anyway you can
+see if you go to the repositories there
+are some events but you can browse that
+test events for example merge commits
+and there are there are dow voting for
+this merge commits
+so you can actually like the the dow is
+deployed immediately when you create
+repository
+so um
+so so that is that is in the second one
+is is the is the security
+and security is the software uh
+secure software supply chain
+um and secure software supply chain is a
+big problem right now particularly for
+uh like
+you know mission critical applications
+and big corporations as well
+uh and blockchain applications for for
+certain we can see that right now with
+upgrades to the to the network and how
+we struggle with that if we would have
+gosh and we will have gosh we will move
+all repositories of of the of the
+bricks to gauche
+soon once it will be production stable
+ready
+um and which is expected within three
+months i think
+and and then uh and then we will be able
+to secure the delivery of the node uh to
+the to the network as well through this
+uh through this thing
+so yeah that's this is just
+just a quick overview
+of what cautious
+and
+the network that
+has been started is again is a closed
+network uh and the reasons
+for for this uh
+being started like this is first of all
+there is um
+economic i would say
+reasons because um it it takes right now
+enormous amounts of gas to to do that
+all that
+and because
+this thing competes with
+or kind of
+will compete with github and gitlab at
+least on paper meaning that
+the developer
+are not expecting to pay gas for
+creating every commit
+they're not going to do that very simply
+and um
+so it is impossible to launch it on the
+for example everscale or any other
+blockchain in in
+to the to the respect of the business
+model of the blockchain which currently
+exists and as you know the business
+model of the blockchain every blockchain
+in existence today
+is that you pay for except for eos maybe
+but
+still it's even with eos you have to you
+have to deposit bond
+so that you need to pay money up front
+basically
+and
+that's a show stopper for application
+like
+giton chain
+and
+you cannot
+kind of shortcut it you cannot uh you
+cannot go around this you cannot tweak
+the network to to support this
+if you go on uh
+gosh uh
+network explorer right now you will see
+one trillion tokens
+there
+and this one trillion tokens basically
+because with each
+wallet on each repository we deposit 10
+tokens
+and by the way they are not gauche
+tokens okay they're just they call shell
+stable coin tokens in the future but
+right now
+it's just it's just tokens and these
+tokens are deposited automatically and
+they are not um
+they're not transferable
+they only can pay for gauss repositories
+and and they pay gas and and 10 000
+because we need them all
+so you can you can just make a
+calculation very simply why it was from
+this standpoint why it was absolutely
+impossible to launch it on the main
+network of everscale
+because we simply would not have enough
+tokens in existence today to pay to pay
+for all that um
+so so
+and you know and who would do that
+it requires a very different set of um
+tokenomic rules
+uh all around
+and the tokenomics of this network when
+once it's launched
+it uh it will
+just be
+very
+kind of
+tuned to the to the application to the
+business model of git basically
+um
+it will allow for example free
+repositories right because that's what
+you expect from git if your open source
+repository today you you
+you just deploy it
+there
+for free
+so we need to do the same thing if we
+want to be competitive in that respect
+and
+to be considered by by developers to
+really use it
+second of all
+again it's very experimental and and the
+the requirements for git on chain
+also in technical requirements for
+guitar
+chain are quite different from any
+contracts that we
+have seen up until now
+and um
+it also puts some
+some pressure on the network in the
+places where
+for example the validators of gauche
+network right now has one terabyte
+of
+memory
+uh it cost a lot of money to run this
+validator uh like thousand dollars so
+obviously
+this requirement also could not be met
+technically right now by every scale
+in its current state because it's simply
+because it's tuned to another and it
+will take a lot of time for us to
+kind of
+work the network towards
+when it would be able to sustain such an
+application
+and reduce this amount of memory for
+example if if at all
+oh that's the second reason then there
+are other reasons including like
+political reasons
+the
+if you see the gorge blockchain is
+almost abstracted from the application
+we put really emphasis on the
+application itself and that's because we
+want to
+appeal to
+what 12 13 million developers of docker
+which are currently most of them of
+course never worked in blockchain and
+they don't know how to write smart
+contracts or anything like that they
+don't actually need to know even that
+it's on the blockchain apart from the
+fact that it's as secure as on the
+blockchain
+but
+it's not the blockchain developers and
+with gosh we want to appeal
+to non-blockchain developers to give
+them very simple tool they can use
+familiar tool that they can use without
+even thinking if it's a blockchain not
+blockchain what blockchain
+what tokens
+they don't need to know any of that and
+of course
+this is very different from
+uh starting another particular network
+like ethereum or or whatever scale or so
+on so apart from the from the
+economics technic technology perspective
+there is also this like marketing
+psychology component where we simply
+want to go away from not only from ever
+scale blockchain but from all the
+blockchains in terms of abstracting that
+from the
+end user completely
+um
+i think
+that's enough for intro okay
+okay great that was a fantastic overview
+and i think you've actually answered
+some or a lot of questions that have
+been burning throughout the community
+over the past few days um but to make
+sure
+yeah bye-bye we're done now
+no
+but um
+i i think most people would agree that
+it definitely is a beautiful website
+there's a lot that has been done and a
+lot of documentation and clearly there's
+been so much work going on behind the
+scenes and i think that's probably what
+surprised people the most
+to not have known that something so huge
+was going on
+um a very simple reason for that very
+simple very simple precise reason for
+that we were under nda with docker
+that's it we could not
+tell anything about that and yes it was
+actually not on david's did that there
+were uh three teams who who who did the
+project with everex it was kwbc
+who did all the work around they did the
+websites we did
+all the marketing work around that the
+video production and all of that
+and there was um
+actually ivan's team
+um who did the
+out from ukraine who did the
+um all the
+web interface to
+uh to gosh
+so it was three teams who worked on that
+and yes we were under strict mda we did
+not tell anything before 10th of may
+that's why
+yep makes sense
+okay i have been collecting a lot of
+questions over the past few days um and
+for anybody out there
+if you're watching and you still want to
+ask a question you could just hop on
+youtube and ask in the chat or you can
+ask in the everscale
+uh community chat just hashtag gosh ama
+and i could feel them
+at the end
+so
+if you're ready miesha i can kick off
+oh somebody already has a question
+yes it's michael michael always has the
+question it's uh it's okay
+michael yeah hi guys uh
+uh michael in simple words how will
+every scale and will it benefit from the
+gosh project and all the
+work done
+to make it happen
+yeah there are several ways
+uh the first of all
+like
+gosh runs on everscale
+and
+the
+the what the developers that we want to
+bring to gosh
+it's a it's a huge community
+which um will start first of all of
+course without knowing
+anything about blockchain and so on
+but
+in the roadmap actually you can see here
+if you if you scroll down the screen
+there is this
+that part
+which is not done yet
+but
+this part is one of the things that will
+um
+bring these developers into hopefully
+into blockchain development
+because to secure their cic descriptions
+as you know cicd scripts are actually a
+significant security hole right now
+in the in the whole secure software
+supply chain
+paradigm
+if we want to create a system where you
+can build the scripts using smart
+contracts and then of course securing
+this smart contracts
+using you know all the all the tools
+that we have
+so
+in the process
+these people these new developers will
+be introduced to everscale technology
+they will be introduced to everscale
+smart contract team
+and that will basically bring them to
+every scale
+um that's one thing and it's a it's a
+it's a lot of developers
+which are um you know
+which are right now
+no reason whatsoever to be exposed on to
+the blockchain at all
+right
+um and we hope to make the gosh hope to
+make that reason for them that's one
+thing another thing more practical there
+will be
+there will be a staking program which
+you can stake your
+ever scales
+ever sorry lock them
+and
+validate uh on gosh
+with with some uh staking rewards and
+gosh
+that program
+will
+start
+i think quite soon
+actually
+once we
+are finished with the
+[Music]
+with the atomic swaps between
+everscale and bosch
+so there will be the gauche will be
+connected to every scale and dominant
+small contracts and you can easily be
+able to easily lock tokens here lock
+covers here get cautious there and and
+and just take them
+to
+to validate and to get rewards
+so and i think that's not the only but
+that's that's just the first thing that
+we will do
+um
+so yeah i think i think that uh
+like
+it will bring it should bring a lot of
+attention i would say to the technology
+into the network where
+you don't need to be too afraid to
+create really ambitious
+stuff on it right
+because gosh is probably the most
+ambitious project ever created on any
+blockchain in terms of like
+what it requires from the blockchain
+and the level of
+kind of um
+you know
+end result
+the application that might serve
+millions of developers
+i don't think
+we have
+even you know come close to
+to implementing anything close to that
+um on any on any blockchain or on every
+scale for that respect so
+um
+that might put every scale on the map
+big time
+in terms of like really
+why it is scalable right so when
+developers create applications
+uh and every scale you can always tell
+them like look there is there is a whole
+git work we put
+on on that technology so yeah
+does it answer the question i would
+probably just add one thing is that it
+can potentially the docker endorsement
+and the product itself can potentially
+also bring other large i.t partners into
+the network or subject to feasibility
+obviously
+so that's probably um another another
+one kind of elaborating on what you said
+yeah so
+yeah
+i don't understand continuation
+uh yeah i don't understand the idea that
+uh gosh can be sort of a promo tool uh
+to
+tell the developers worldwide about
+every scale which technologies it's used
+and okay this one is accepted and i see
+some great potential here um maybe even
+people who are not aware of blockchain
+or not working with the blockchain will
+be still aware of at some point about
+every scale which is perfect because
+that community is huge and that's that's
+just great things uh yet another
+question that i have uh you told us that
+the validators which
+are running gosh uh have some pretty
+expensive uh hardware to run the network
+uh and so who's paying for that pancakes
+we do
+we do who else
+uh so uh
+at this point
+it's like open investment from ever x
+to uh
+validate
+um
+currently the network but i might
+presume that at some point some
+tokenomics should be there uh and uh
+what are your plans like you know
+if at some point i would like to become
+a validator and to earn some millions of
+dollars yeah i just told you
+you you will have a program
+where you can lock your evers and get
+some uh gosh talking to validate
+yeah
+but gosh doesn't generate income gosh
+doesn't generate income so gosh talking
+is not like you know backed by any
+business model because it's free for the
+developers
+as a github is not totally free for a
+developer github actually makes money
+so obviously there is a there will be a
+tokenomic and the business model for
+gosh it's just it's just my point was
+not that
+uh oh we need to have everything for
+free and no that doesn't work otherwise
+it's not a business really right it
+should be sustainable
+um it's simply that the business model
+of the blockchains today
+if you compare that with the business
+model of
+uh of course corporations like github
+google and amazon and so on it's very
+very different
+right because amazon for example and
+github you can go and
+you know start using it for free you can
+not do that with any blockchain today
+and any application of the blockchain
+today with gosh we make it possible and
+there will be a tokenomic that
+um
+we will release and you know you will
+see
+how
+the special construction economic
+construction allows us to do that but in
+order to be able to build such a
+construction
+the tokenomics of the network should be
+completely different from
+um what it is uh what it is currently
+with the blockchain
+so
+is that done yeah okay okay so
+we are so we should be waiting for some
+more detailed uh economics for gosh
+blockchain it's yeah of course how this
+could be profitable
+for relevance and last but maybe not
+least uh you said that at this point uh
+the current version is sort of a test
+version so don't bet your life on it uh
+what are your plans uh you know i like
+those questions to launch it as a
+full-scale final product uh for
+the two more
+developers um
+to be afraid of
+we're aiming for three months process
+our aim is three months again don't
+just take my words and say okay he said
+three months no i said our aim is three
+months so we internally think that it is
+possible within three months
+uh if nothing wrong happens so it's
+september
+something something something close to
+september september
+you can use it again we use this three
+months to collect feedback from
+developers that starts to use it we
+actually have a like a program
+um a marketing program which um which
+involves
+some questionnaires
+and some interviews that we're
+conducting with developers
+um and then developers use it and we
+conduct an interview with them again and
+so on and so forth so there is a process
+of feedback loop which we are creating
+now between the developers what they
+want to see from you know kit on chain
+because obviously it has a different
+functionality apart from the basic
+functionality of git
+because it's on chain
+in terms of security both security we're
+also running
+um there will be announcement of the
+other partnerships that we're making
+um
+in particularly in the area where we
+want to target the such as the big
+corporations with the securities of
+their supply chain uh secure software
+supply chain and uh there will be
+announcements about this inroads that
+we're making now
+um
+to to do that to go and to
+you know provide the solution for these
+corporations in the particular area of
+uh secure software these announcements
+apart from announcements that we already
+did on the dockercon with the partners
+that we announced
+um there will be also others and some
+other technological partnerships where
+the product will be like made in
+cooperation with other
+um
+partners which which facilitates this uh
+sssp ssc sorry process
+okay thank you sounds very promising and
+uh again the last one
+do i understand correctly or correct me
+if i'm wrong that gosh is sort of a play
+test of some sort of a drive chain that
+we'll be seeing on every scale
+drive chain no the gauge does not have
+drive chain right now the drive shift
+development is in progress and it's in
+parallel and the direction will be
+introduced in both gaussian errors
+memory scale actually every technology
+we're doing is introduced everywhere
+right so it's the same
+thing maybe that's important also to
+mention
+that apart from the application itself
+or smart contract development and and
+some tricks like that
+every
+thing we do on the core level is shared
+so basically it's just one code we don't
+run any other
+code in terms of
+like the the basic the knowledge yeah i
+just thought that gosh uh
+i just thought that gauche stores uh the
+data
+on the blockchain and it's uh sort of it
+does uh an implementation of the
+direction
+it does not it does store on the on the
+the the large blobs um
+are stored on actually in ipfs right now
+they will be moved to drivetrain when
+it's ready but right now the large blobs
+of like binary files are stored in ideas
+and they in the uh
+so okay so
+this isn't
+so so the the the draft chain is uh i
+think yet to be implemented both on
+gaussian for both yes exactly we would
+not we would not implement something on
+the gosh and would not implement it on
+ever scale that doesn't because we don't
+have resources actually to support two
+parallel developments uh like that so
+it's just one core team that develops
+one core functionality for for the same
+like network for the same core
+so drivetrain will be introduced to
+every network
+okay that's all thank you michael for
+all your questions those are some really
+great questions i saw that it also
+covered some of the
+ones popping up in youtube i have a
+concern from the
+uh from the community is what happens if
+gosh takes off what will everex's
+priority be
+um if it's a separate chain
+would every scale be sidelined
+as i said
+the the development of the core the core
+technology is the same so in what
+respect it would be sidelined
+um
+i think they feel that
+the team's uh focus will move to gosh
+it's it's a feeling that
+it doesn't matter where
+focus on gauche is the same focus as the
+noir scale there's simply exactly the
+same technology
+exactly the same code
+uh and if we introduce something for
+gosh it means we introduce it forever
+scale and if we introduce something for
+gosh or on everscale it means
+that you can use it to develop such
+application as gosh neverscale meaning
+um i don't know it's for example
+there will be i don't know drivetrain
+for example drivetrain is great for nfcs
+and great for many things that that
+needed in both this and that so i mean
+what kind of thing we could develop in
+gosh is a focus on gosh what kind of
+thing would development gaussian would
+not take any
+um unless it needs or
+use in every step i don't i don't know
+any of that i don't know any any such
+technologies
+okay i just don't see that as a
+like
+that's the thing or would we just uh let
+every scale fall uh if something stops i
+don't know i i think yeah i think some
+people are concerned you have to
+remember we have a lot of tokens we have
+a lot of tokens on our scale right so
+i
+mean so you're not abandoning abandoning
+billions of tokens
+exactly billions do we have billions of
+tokens
+throwing it out there
+with everything combined i see
+okay uh we have a question about
+liquidity pools that were quickly
+mentioned um when it was
+announced
+tell us about the additional liquidity
+pools on everscale with gosh tokens that
+was mentioned and we'll all take these
+staking calls yeah yeah
+well that that will be as i said the
+third time
+you will be able to lock your everest
+in the pools
+to get to start the validator
+in the gosh network and to get the
+rewards in gosh
+the rewards i can just give you
+a
+snippet from the economics
+the gosh rewards rewards on gosh network
+are not from transaction fees and they
+are not from block creation fees so
+because that's infeasible for such a
+network
+you just get rewards for
+making committing the validator resource
+you just make a
+have a reward
+in terms of the stake reward like a
+financial reward
+like you do in farming basically you
+lock you validate and by that you get
+rewards in tokens
+that's it
+it's not paid for blocks it's not paid
+for
+for um
+for transactions it's paid for the time
+you lock your tokens
+in if you don't lock your tokens you can
+be validated but you won't get any
+reward zero reward
+what's that alex
+sorry i was just practicing with this
+new zoom tool the uh joint work but i
+don't think we would need that so well
+i'll remove it in a second
+okay
+can we
+how can we use the white white board
+yeah is it a whiteboard yeah it's a
+whiteboard very cool actually so
+i cannot see nor do anything with this
+is it
+oh i can't do anything how did you do
+that it's only you can do that
+it's uh no everybody can choose it no
+abs i'm afraid to click things i might
+screw something up look sorry for
+distraction
+just so they do something different
+around here
+um
+back to
+back to the tokens um uh i have another
+question does it even make economic
+sense to validate gosh
+if you like gosh if you think gosh
+tokens are would be worth something then
+you can make this tokens by locking
+everest and getting these rewards and
+depends on the lock
+uh time you will get more of the course
+tokens if you believe in gosh tokens
+after reading the tokenomics you might
+decide that it's interesting if not
+since
+makes sense okay that was it for what
+had been in the community before and
+michael and michael actually covered
+most of them so i deleted them
+and so we're not now on youtube and i
+have a request to sing and well no
+and we just swim with dolphins
+okay gnome asks i'm not going to sing
+gnome asks what do you mean by closed
+network why is it closed and alex you're
+still screen sharing it's a private
+network right now it's basically we're
+running validators all of them
+that's it
+okay and we're not giving any tokens to
+anyone
+no drops
+no
+nothing another okay
+how and where customers code will be
+stored
+you can start right now just just don't
+bet on it to be there in
+that next day um as i said we hope to
+get into production statement within
+three months
+where you can really
+like
+put your code in there and of course
+that also requires
+some decentralization
+and that
+where
+staking comes into play
+if you would like to participate you can
+contribute to that decentralization part
+that leads
+you kind of covered the next question
+and leads right into it can you please
+explain in a couple words why github is
+not decentralized enough
+so we need god it's not decentralized at
+all
+what's what to explain it's a run by
+microsoft
+the mother of decentralization
+um
+how it is decentralized that was sarcasm
+everyone by the way i think so
+the question was sarcastic i think right
+how github was not decentralized enough
+that sarcastic question for me no it
+didn't didn't tone didn't seem sarcastic
+example oh really people missing the
+point that that github is is run by
+microsoft and it's completely
+centralized and although all of your
+code belongs to microsoft and you cannot
+do anything without that it's stored on
+there it starts it starts and they're on
+their servers and if they want to hack
+your code or
+just stop your access to this code they
+can do it and they like that
+is that enough decentralized for you
+i think you just sold it you just saw
+gosh
+that's all i had to say exactly
+i can say more like for example they get
+let's go one level deep like below and
+you go to level of your depository as
+you know the repositories in github has
+or gitlab for that matter as the owner
+and the owner can do whatever
+they like
+whatever they like
+take access from you to the repository
+you contributed for dozens of years
+tomorrow like that
+and here you go you don't you're not
+contributor anymore how about that
+decentralization
+right they can delete your code
+sorry you didn't exist
+your work of your lifetime of this
+repository
+does not count
+you're free to go
+how about that
+for this introduction so powerful that's
+powerful
+huh
+that sounds nice
+i know it's powerful stuff i know i know
+it's powerful stuff
+get get today
+is the most centralized
+uh like
+thing in the world
+github gitlab doesn't matter
+even your if you even if you run the git
+in your organization okay you can you
+can put the server in git laptop doesn't
+load that you take gitlab you can you
+can run it in your own uh like
+does it make it decentralized no
+because then if you run your own server
+you're not confederated
+right you're not part of the community
+anymore the community feature all simply
+disappears from you
+right and still it runs by the admin of
+this web server this server as the
+server goes or you know it's in data
+center someone takes it done go on
+same thing
+this is not solved
+and remember
+you are if you are a blockchain
+developer i'm not talking about okay
+let's forget about this corporate guys
+for a second well they have the same
+problem
+uh but um let's let's say you are um
+you're just a you know blockchain
+developer and you you create a
+decentralized application you run the
+decentralized application you put it on
+github
+it's absurd
+it's it's absurd we have bitcoin code on
+github
+come
+on
+if tomorrow someone would like to
+close bitcoin
+they can only do one thing very simple
+just some malicious code in the
+repository you don't need to you don't
+need a 51 attack
+you don't need any of that
+you just uh you just basically put in
+and in the in the in the github some
+some malicious called and uh from the
+back door in the server itself
+nobody will ever even understand it's
+there
+and who knows how many of this malicious
+code is already there
+can can i follow up on that medium
+because i know that you've been kind of
+talking and thinking and um doing some
+steps on the grassroot marketing
+so were there any practical thoughts or
+steps in the core bitcoin community on
+this because this can be bomb you know
+in a good sense of the sport bitcoin
+community
+did look into that and for looking into
+that for years already uh the the core
+developers of bitcoin are looking into
+decentralized gift they the only thing
+that they kind of came up the coal
+industry came about this was radical
+project which is great project has
+nothing to do with blockchain
+and uh it's therefore it's not
+decentralized enough you mean you cannot
+there is no guarantee that it suggests
+realized basically it's it's just just
+statements
+it's a nice project but it's but until
+you put it on the blockchain basically
+the blockchain limitations
+is that up until now without ever scale
+you just couldn't do that
+and uh and the only way to do that
+decentralized is to put it on the
+blockchain here you go you couldn't do
+that the only way to do that is to do
+that now if you are a blockchain
+developer it doesn't matter if you're a
+bitcoin developer
+ethereum core developer you want to put
+your code on gosh
+once it's in production and once it's
+sufficiently decentralized absolutely
+because because that's what we need to
+do
+you cannot avoid it really
+right
+you like it or not
+cool
+very good answer uh so michael where is
+the code stored now does it use ipfs
+the code is in the blockchain the code
+is on the blockchain only the large
+blobs which has
+binary files like this you know because
+that's probably the large code
+you have it's probably binaries
+that part stored on ipfs will be stored
+on worksheet once it's available
+so everything we will move everything on
+chain right now part of the big
+basically not
+not
+crucial critical because usually
+uh when it's over the size limit of the
+blob it means
+that
+it means that it's binary think even if
+you just put a binary inside the
+bar script like we discussed today that
+you know people are putting whole
+binary files inside the bar script
+uh apart from taking probably cutting
+their heads or
+hands hands whatever cutting something
+off them for doing that yeah what the
+story with an ipfs
+okay
+thank you uh we have a question from
+elia what are the plans to solve the
+problem of a very slow user interface
+and why does everything work on a fast
+scalable blockchain like on ethereum
+it's it's the first version um
+so yeah
+[Music]
+there are some
+things that are not done yet once we're
+done
+it um
+you know it it will be
+of course it will be slower
+than
+uh just put that in the central server
+simply yeah because we put it in several
+servers so it's kind of slower
+but it in the end it won't be
+significantly slower so it won't affect
+your work uh like
+completely of course when you
+upload like
+will upload like linux kind of
+repository then
+you know it it may take some time to do
+that if you upload it hold it with all
+the 80
+million
+uh
+you know objects that they have there so
+it will take some time but uh yeah and
+um
+apart from that
+it is obvious that all the
+kind of
+um
+improvements that were made to the core
+network right now on everscale uh for
+improving latency and improving finality
+and all of this stuff
+very well
+needed and applied to gosh as well so
+to the question
+you know if we develop the same thing
+yeah we need we need all of us need the
+same things basically
+so we're working on that as well
+but right now it's just not optimized
+enough so there's a lot of optimizations
+coming within this three months to make
+it faster
+okay great
+uh next question is it recommended to
+run gosh on a layer two and then
+finalize on chain on a timed basis no
+yeah we're we're against l2 solutions as
+you know and i i went lengthy into that
+in the white paper i don't want to
+repeat that
+l2 sucks
+big time
+okay
+and the next question is are there any
+plans to integrate gosh economics into
+everscale or technology promotion and
+stacking of evers
+that all about synergy between gosh and
+everscale
+there is a plan to
+not a plan but i would say there is a
+possibility
+once there the whole stack is ready for
+this we can
+we can think about adding gauche as a
+as a work chain to turbo scale but right
+now
+it's it's not possible technology
+technically
+currently because you because you will
+need to
+have
+a work chain that um
+the the pay gas in its own
+currency so and so it's it's not ready
+yet once it's ready once we can do
+something like that we can think about
+bringing gosh
+into every scale as a work chain but
+it's required anyway it will require the
+same set of validators so more or less
+the same thing right
+so does it really matter if you look to
+validate you will still lock the evers
+it's almost the same okay
+okay next question if everyone can use
+gosh for free what's the business model
+will there be a special feature for uh
+paying repos yes there will be there
+will be
+paid features very simply
+but the stock economics allow us to do
+the tiered approach so we can have a
+tier which is free
+and then we can start introducing some
+some paid
+options like they have in github and
+github today or aws so
+okay um will drive chain follow the same
+logic of separate business separate
+blockchain with its own coin and
+incentives
+um
+no the drive chain is is the whole point
+of dry chain drive chain is being a work
+chain so it will be drive chain work
+chain or never scale that would drive
+chain work chain on gosh
+and they both have
+uh their business model and then i'm
+sure there will be different business
+models on every scale it will follow the
+some
+you know economics of the of the of the
+um
+of the drive chain
+whatever it will be and on gosh it will
+follow this
+again tiered approach because
+same thing you need to
+it doesn't matter what the object sizes
+that you store in the
+open source repository it should be free
+right
+so there will be different business
+models they're just it's just not
+compatible
+but but each of them will have its own
+business model of course
+okay
+uh would it be possible to run regular
+smart contracts for free on gosh or can
+you only use shell for specific
+contracts no
+no you can use shell for any contract
+but you won't be able to run them for
+free
+so okay the free use is only for gosh
+repositories
+if you want to build your smart contract
+on gosh apart from this repositories
+then you need to pay for it
+which is logical i think
+okay um kind of struggling with the next
+question uh
+we make rename from
+get on chain source hodler into get open
+source toddler this means that they will
+be no on-chain
+coddler is already on chain
+if you know what hoddle means it can
+only be on chain so we kind of didn't we
+thought that this will reflect this will
+this reflects more
+all of the kind of messages that we want
+to convey
+the geared the open source and the
+huddling meaning that blockchain
+tokenomics and decentralization yeah get
+on chain would be a little redundant yes
+exactly
+okay
+um any plans to provide open source
+developers to integrate the product
+value into some token and move its
+circulation to everscale
+it is possible
+again there will be atomic swaps
+uh built in so you can move freely
+tokens between these networks
+and
+without the need for any breach any
+whatsoever so you don't need you will
+not need to have
+separate validators on the bridge or
+anything like that it will just move
+freely between the networks which is the
+great
+like think when you have
+two networks for the same design
+now you can do that actually because you
+can prove things on one network to
+another with the same kind of
+you know
+same messaging basically
+and
+yeah i mean you can do you can build
+whatever you want between the networks
+sure
+of course
+everything is open
+may i uh just interject for a second i
+know there are some questions being
+asked
+on youtube in another language
+unfortunately this is going to be in
+english only so
+uh they're going to be you can translate
+them if you want if they're do do we
+want to do that i think i only see one
+yeah
+yeah did you skip over that i'm sorry i
+wasn't following no no i i was still up
+i was still up okay when you get to it
+then i i don't think it's a question
+though i think it's a comment because
+he's
+doing that
+he's doing what
+that looked like a sequel
+i don't know no no no no no no no
+no no i was just sorry sorry bad joke
+yes it was
+ah okay um
+yeah there's just some chit chat okay
+if atomic swaps require kind of bridge
+between gosh and everscale or since both
+networks are built on the same
+technology
+i think i just
+such swaps can be done more naturally
+without any bridge okay groovy just
+answer that perfect question they call
+it
+that's it for for youtube um
+i was trying to keep an eye on the
+community it was moving to too quick
+with something to chat but i think
+rowley is taking the lead there and he's
+well no there was one question there
+there was a question on youtube oh
+another one yeah yeah if you scroll up
+uh it says you can you cannot yeah yeah
+let me let me let me try so there's a
+uh
+[Music]
+oh
+by mac rt is that the one yes yes so i
+mean he's basically asking if there's a
+way to
+explain the principles
+of uh the realization of tokenomics in
+russian i think that probably that would
+have to happen
+uh in a separate session announcement or
+that
+could we please i mean yeah we can yeah
+okay we'll do yeah we'll do
+schedule and i'm a session in russian
+and i will be happy to answer your
+questions there it is
+okay
+foreign french
+for that matter
+[Music]
+or in hebrew whatever
+any language
+swahili
+yeah i think that's about it for the
+questions nothing else is popping up
+unless anybody on the call had excellent
+anything yeah i thought it was going to
+be like two hours
+yeah i was betting three
+like pitchforks and things i that's what
+that's why i said let's cover it in a
+week so people are come down and
+realize many questions they don't need
+to ask
+[Music]
+and it's just yeah but you you covered
+it
+all why didn't we have all this
+information on the day somebody's saying
+you missed because we were too busy to
+to busy with the launch i mean it just
+was i mean you have to realize
+uh that
+like people
+literally
+didn't sleep for three weeks
+like
+i i we had people crashing inside
+meetings
+like
+crushing falling asleep within a meeting
+so no it would didn't it couldn't be
+done
+we have two more questions
+i think it got skipped
+uh
+how would the docker verification
+extension work i mean how how to compile
+the code you need a compiler but
+how do you get verified compiled
+compiler
+uh
+okay it doesn't it doesn't work like
+that so
+it's it's um
+uh you build um
+you don't need to verify the compiler
+it's more or less what we do with the
+formal verification so you
+uh you build
+the
+you build in the docker build
+um you build the the container you build
+the image
+then you create an artifact and put the
+image metadata on chain
+and then
+you launch that in the docker desktop
+you take the metadata from the chain and
+you rebuild the container from within
+the desktop
+and
+it it verifies that the hash all the
+hashes are the same
+so
+[Music]
+that's how it works in just very brief
+details i don't want to go deeper there
+are some considerations
+and the hashes of the container is not
+that simple as you might think actually
+we like
+if you know what docker
+crash container is
+you may know that they are always
+different
+so we had to actually build the hashes
+ourselves and stuff like that was it was
+quite an undertaking
+uh it's not as easy as it sounds but in
+the end yeah that's what you you you
+kind of verify
+within the extension that
+that the container is the same
+containers you built and that would
+build from gosh and you also verify it
+and try against you know you could take
+again all the gauche files are available
+to you
+and you can verify that they are part of
+the blockchain as you know because we
+have the proof in the sdk so you have
+this proofs
+and now you have the
+um
+rebuilding this from the core source and
+compared to the hash of the container
+that you run in
+you run the desktop in
+that's
+basically okay
+of course we rely on some basic
+containers so
+like
+of course the basic container
+you can still build it from within then
+you trust it and so on and then the
+chain of trust is built between the
+containers they will it's it's a it's a
+very interesting topic a very
+interesting subject and that's actually
+what your software supply chain is
+and we will expand we'll bring more
+tools
+into this part
+um and for that we work with great
+partners uh
+to do that i but i cannot
+still i cannot
+talk about them yet
+okay
+how we're going to like tile the knots
+there in in in this process of
+you know of this building this chain of
+trust
+picking up these components
+okay
+but as i said before we sorry as i said
+before we will also
+want to move to ci cd part and we want
+to
+replace jenkins
+big portions of jenkins as well because
+this is jenkins is a huge security
+call
+one big security hole actually
+and we want to put this whole process on
+chain as well and include that
+so
+you not only build containers and you on
+top of these containers you will hold
+your continuous delivery process
+on top of that containers and this also
+kind of goes back and forth between the
+blockchain and the and the uh your test
+test runs and so on and so forth
+um
+yeah it's a
+[Music]
+it's interesting
+okay
+no more
+how can i how can i run
+like tests in one programming language
+on the on the blockchain which is like
+separate
+uh environment
+this has nothing to do with programming
+languages
+how you build container today we don't
+care about
+what what programming language did you
+use right
+you're asking about what languages of
+what of cicd or what languages
+i i'm just asking uh where where the
+actual cicd process go it will it will
+be one chain basically so the scripts
+will be the smart contracts
+and
+the and
+the binary
+and you run it like on off chain
+locally and execute all your cicd
+process using this
+uh but you can always verify that what
+you run locally is the same as as you
+run it on the blockchain
+it's like debug model
+okay ci cd debug
+okay
+so moving on i think we only have a
+couple left i'm not sure if this one's a
+joke though because you might have
+answered this a few times already sorry
+about that but it got pointed out again
+um
+yeah is it possible that gosh will have
+its own defy in economics other than get
+on chain and i ask if it might bypass
+everscale economics in that regard
+not sure about what you mean by
+bypassing
+bypass
+bypasses and
+take us
+i
+don't know about values it's a
+speculation
+but
+you can
+you know you can benefit from both
+so what do you care who bypasses whom
+uh it's really not important it's
+important is that you provide value you
+build value and then you benefit from it
+and if you benefit
+if sitting on everscale would benefit
+from gosh vice versa why not
+i mean
+it wouldn't have defy applications
+not in the sense
+that you might think of meaning that
+when you say defy
+like gouache is everything
+surrounding git and open source
+so um
+it will provide ways to monetize your
+open source repositories
+but it's not the defy that you used to
+have
+in every scale for example where you
+know you have pairs trading and provide
+liquidity farming and stuff like that
+that you have basically it's a
+speculative activities gosh is not about
+speculative activities mostly it's about
+real value and real applications
+so in that respect it's
+well i don't know what you consider defy
+and because the i today it seems it's
+just inflation
+[Music]
+of some assets moving from one asset to
+another
+it doesn't trade on top of
+um
+real value creating applications
+and that's a big problem that defy
+actually
+it only works because
+it is still too little of that
+right
+if you if if you have a financial
+instrument
+on nasdaq for example
+and this financial instrument is like
+options
+for example trading on top of the
+i don't know google stock
+google provides value sells something
+products
+and and then you can speculate on top of
+that
+on this base of these assets if you want
+to take that and make it decentralized
+right and provide the decentralization
+tools for this just realized finance on
+top of that financial tools
+then then you can say that you have
+decentralized the financial tools
+if you just take the tools without the
+asset underlying yet
+then it's a speculative right because
+you don't have any
+intrinsic value
+right there is a value in the in the of
+course there is a value in the financial
+tools there is some financial tools that
+has interesting value for them if you
+provide the ability to something it must
+have been
+you know
+worth something
+financial
+the question is what is the underlying
+security and if the underlying security
+does nothing except for
+coming back to this to the financial
+tools again
+then this is some limit to
+where this financial tools can go
+right they need to be fed with some real
+assets
+real like by real i don't mean
+real estate i mean
+real value to the user right so user
+will use it and so on and so forth
+sooner or later that must
+have happened
+and gouache is all all about value
+because they
+there is enormous value locked in the
+open source projects they provide real
+value for real people for for real
+applications you use this tools
+um every day
+this open source tools and this open
+source tools so they are valuable to you
+they're available to many people and
+they're not monetized today
+unlocking this value or mostly not
+monetized like the open source business
+model does not happen actually
+you think about that it's a very i
+thought about that for years
+like
+the monetization the business model of
+open source is a big problem it's not
+solved
+and i think the only way to solve it is
+for blockchain so gosh is trying to
+solve that but that's a long-term goal
+and and it's definitely not defined the
+sense that you think of it as it is
+right today so
+yes and no
+okay that was a fantastic answer
+i'm going really in depth there um
+moving on the source code shows the use
+of ipfs but i have not yet fully
+understood exactly how it will be used
+what is the role
+just already if you have a large blob uh
+which which which
+by certain threshold this block will be
+stored
+the blob will contain the hash and the
+address and the ipfs and they and then
+uh object itself will be stored on ibiza
+you mentioned this and it's it works
+right
+yeah
+um
+the web interface is not part of the
+public component what is the reason for
+this it will be no reason
+okay you will be
+um
+will the gosh interface be adapted to
+uh use the usual non-crypto communities
+to be intuitive for use by the average
+person it is
+it is exactly like github today yeah
+so
+the only reason the only difference
+right now there are two difference right
+now one you need to
+just
+just remember the 12 words
+so that's kind of a thing but we will
+get away from that
+we have a
+interesting ways to get away from that
+um
+but in the end you you will have like
+for example use some some
+other application to store this still
+like so that's doesn't go away because
+the decentralization comes with you
+remembering 12 or 24 words
+um
+that's one thing the second thing is dao
+dao is what different from but there's a
+whole point right so you the
+decentralization tools to manage your
+repository decentralized decentralized
+way
+is the dow way right how to manage your
+repository in a dual way and
+it's only start right now they basically
+just distribute
+it launch the dow
+you deploy the dow distribute 100 tokens
+to each participant
+that you invite to
+you know to the organization and and
+then you you vote for this hundred
+tokens
+but of course it's just the beginning
+there is by the way the smv smart
+contract
+and
+i completely forgot
+to mention
+some reason
+from the teams that i i said three teams
+okay it's four teams of course i don't
+know why
+slept uh provendo um of course is one of
+the four teams uh provenda did the
+the smb
+uh part so this will be voting is uh all
+written contracts are written by
+provendo and um
+yeah so so so then you're deploying this
+dao and of course there are many uh
+things on top of this dial that will be
+uh the next two three months will be
+added
+um that will and we're collecting actual
+feedback right now about what are the
+tools that we need to add there to add
+there are some interesting questions
+actually very interesting questions not
+going to go there but there are very
+interesting questions about
+how to
+there are some corner cases in this dao
+case how you manage repositories within
+the dao
+that are not easy to solve but yeah but
+that's very interesting
+okay great
+thank you we have an idea for you um
+what do you think about this a good
+model for gosh would be stakesome ever
+to get some gas per day like a
+subscription model if you run out of gas
+you just stake more evers what do you
+think about this
+i i don't think they
+does
+like us
+you you can stake covers validate get
+rewards that's it
+why do you need gas i mean you don't
+need guns you can use it for free
+why do you need this okay
+just an idea um
+let's see
+okay if you believe in open source then
+explain what is your position or policy
+on working with external participants
+pull requests are not being considered
+at this time
+it's an it's a it's a sarcasm and irony
+at the same time
+well maybe
+pull requests are not considered
+because we
+just simply don't have resources
+do you think about that maybe that's the
+reason why
+okay or we just bad people you know i
+think i will go with the second one
+we don't we don't answer pull requests
+you write them we encourage you to write
+them
+to make the pull request
+i will promise you we'll never answer
+just like that because we mean
+we're bad people
+that's satisfactory though
+great answer thanks i know yeah but
+tried
+okay we have a question from alex
+mitchell can you please elaborate on how
+many teams developers are now giving
+feedback on the product
+how many is it in ballpark
+um
+it's more it's more than 50
+right now and we're expanding it we also
+we kind of have limited resources so we
+cannot just take on
+5 000 developers but if you have
+feedback and if you want to join just
+you know team me i will send you to the
+right people
+basically they
+that's the kind of mailing list
+okay
+we have a good question here do you need
+beta testers or is it too early yeah you
+can yeah we do need yes absolutely
+there's a give a feedback that's the
+whole point
+what's the best place there's a gosh
+telegram group is there anywhere else
+somebody can join and
+telegram groups is the only way to give
+feedback okay
+thank you we it's up purposely so
+because we cannot run again
+to
+100 places
+please give feedback there there will be
+also if you if you i forgot i mean you
+can subscribe right go to gosh
+and subscribe
+and this subscription will get you into
+the list the mailing list and you will
+receive the questionnaires
+where you can contribute to the
+development directly and these
+questioners are taking taken very
+seriously because that's what we are
+doing it's been collecting feedback now
+okay great i saw that you put um the
+social tags uh on the bottom too the new
+edition so you can join the telegram
+group just from the website no the
+telegram yeah of course the telegram
+group is there
+but the join mailing list you will get
+into particularly the beta program okay
+okay interesting
+um
+the tonics project solves part of the
+needs of the gosh architecture so is it
+not clear why the tonic's components are
+not used in the development of gosh
+which components
+tongues products yeah um
+[Music]
+listen
+the
+it's
+you you see
+[Music]
+to to do this effectively where people
+are saying like it's too slow right now
+right
+and uh if it would use linux components
+it will be it would be even slower
+for
+except because it it's it's um
+it's not a use case okay and this use
+case
+will be used
+but not on the basic level basic level
+you just want you know push
+and you want this push to be fast
+really fast
+and in order to do that you need to
+really optimize the architect by the way
+it's not optimized as i said
+really optimize architecture to allow
+this
+to work really just you know
+okay flex is a great example if you if
+you use flex if you ever used flex
+by the way drawing the beta program and
+you will
+you can see how fast it is
+and um if we would just
+use the
+kind of
+just make a architecture that would be
+you know
+kind of put the
+you know how how
+corporate architects software architects
+usually do that right put a lot of this
+boxes on the board and okay this will go
+there and this will go there if we do
+that
+i mean flex would be very slow like we
+have a lot of slow applications on every
+scale right now because simply because
+people don't think how to reduce the
+you know the messaging load and stuff
+like that
+and we think about every message
+like
+every single message the whole
+architecture just just and we actually
+right now it's not so but
+we already know how to optimize it to
+even like more parallelization
+less messages and so on so
+every contract has every message there
+is counted so it's not just do they take
+components from there it works you know
+subsystem boom boom
+it doesn't work like that
+you can do that in in when you need it
+in a particular application but
+again it should be optimized for
+something you cannot do everything for
+everybody at least not yet i mean
+whenever scale will have a subsequent
+finality on the blogs maybe you know
+but still if you think about 80 million
+objects in the repository you
+just got answers
+okay
+excuse my dog barking
+um
+i believe this might be the last
+question um for the gosh telegram group
+is there a chat group or is it just a
+news channel
+it's a news channel where you can chat
+okay when you can only comment on
+yes you can on the on the posts and the
+posts are there for this particular
+purpose okay for you to comment on that
+there are different languages so the
+english there is
+all other languages
+please provide the feedback and
+we collect that feedback okay
+okay
+i don't see anything
+else
+um
+nobody else on the call nothing in the
+community i think
+we covered everything excellent thank
+you thank you very very much yeah that
+was great i think you
+covered everything that people were
+wondering about and now we can finally
+all get excited about gosh
+great
+great guys
+yeah see you soon
+thank you have a nice night yeah bye
+everybody
+you

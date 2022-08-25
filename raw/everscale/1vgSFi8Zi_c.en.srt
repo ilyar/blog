@@ -1,0 +1,655 @@
+1
+00:00:00,719 --> 00:00:03,429
+
+blockchain and nft usage in games is
+
+2
+00:00:03,429 --> 00:00:03,439
+blockchain and nft usage in games is
+ 
+
+3
+00:00:03,439 --> 00:00:05,590
+blockchain and nft usage in games is
+becoming more and more common new
+
+4
+00:00:05,590 --> 00:00:05,600
+becoming more and more common new
+ 
+
+5
+00:00:05,600 --> 00:00:07,829
+becoming more and more common new
+metaverses are emerging every day and
+
+6
+00:00:07,829 --> 00:00:07,839
+metaverses are emerging every day and
+ 
+
+7
+00:00:07,839 --> 00:00:09,750
+metaverses are emerging every day and
+this is going to be a very strong trend
+
+8
+00:00:09,750 --> 00:00:09,760
+this is going to be a very strong trend
+ 
+
+9
+00:00:09,760 --> 00:00:12,390
+this is going to be a very strong trend
+in tomorrow's world everscale is fully
+
+10
+00:00:12,390 --> 00:00:12,400
+in tomorrow's world everscale is fully
+ 
+
+11
+00:00:12,400 --> 00:00:14,870
+in tomorrow's world everscale is fully
+prepared for such a future as its first
+
+12
+00:00:14,870 --> 00:00:14,880
+prepared for such a future as its first
+ 
+
+13
+00:00:14,880 --> 00:00:17,029
+prepared for such a future as its first
+game fight releases are just around the
+
+14
+00:00:17,029 --> 00:00:17,039
+game fight releases are just around the
+ 
+
+15
+00:00:17,039 --> 00:00:17,990
+game fight releases are just around the
+corner
+
+16
+00:00:17,990 --> 00:00:18,000
+corner
+ 
+
+17
+00:00:18,000 --> 00:00:20,390
+corner
+game fight is a pretty broad term but
+
+18
+00:00:20,390 --> 00:00:20,400
+game fight is a pretty broad term but
+ 
+
+19
+00:00:20,400 --> 00:00:22,550
+game fight is a pretty broad term but
+generally it refers to games that
+
+20
+00:00:22,550 --> 00:00:22,560
+generally it refers to games that
+ 
+
+21
+00:00:22,560 --> 00:00:24,950
+generally it refers to games that
+incorporate nfts or have any kind of
+
+22
+00:00:24,950 --> 00:00:24,960
+incorporate nfts or have any kind of
+ 
+
+23
+00:00:24,960 --> 00:00:28,230
+incorporate nfts or have any kind of
+token based in-game economy or both
+
+24
+00:00:28,230 --> 00:00:28,240
+token based in-game economy or both
+ 
+
+25
+00:00:28,240 --> 00:00:30,070
+token based in-game economy or both
+game fight goes completely beyond the
+
+26
+00:00:30,070 --> 00:00:30,080
+game fight goes completely beyond the
+ 
+
+27
+00:00:30,080 --> 00:00:32,470
+game fight goes completely beyond the
+usual notions of classic games like
+
+28
+00:00:32,470 --> 00:00:32,480
+usual notions of classic games like
+ 
+
+29
+00:00:32,480 --> 00:00:35,830
+usual notions of classic games like
+simple 2d mmorpgs
+
+30
+00:00:35,830 --> 00:00:35,840
+simple 2d mmorpgs
+ 
+
+31
+00:00:35,840 --> 00:00:37,590
+simple 2d mmorpgs
+where the in-game economy is very
+
+32
+00:00:37,590 --> 00:00:37,600
+where the in-game economy is very
+ 
+
+33
+00:00:37,600 --> 00:00:39,750
+where the in-game economy is very
+limited and it's not possible to sell
+
+34
+00:00:39,750 --> 00:00:39,760
+limited and it's not possible to sell
+ 
+
+35
+00:00:39,760 --> 00:00:42,950
+limited and it's not possible to sell
+game assets on external platforms
+
+36
+00:00:42,950 --> 00:00:42,960
+game assets on external platforms
+ 
+
+37
+00:00:42,960 --> 00:00:45,510
+game assets on external platforms
+so what if each resource and currency on
+
+38
+00:00:45,510 --> 00:00:45,520
+so what if each resource and currency on
+ 
+
+39
+00:00:45,520 --> 00:00:47,910
+so what if each resource and currency on
+the server was an nft or a fungible
+
+40
+00:00:47,910 --> 00:00:47,920
+the server was an nft or a fungible
+ 
+
+41
+00:00:47,920 --> 00:00:50,389
+the server was an nft or a fungible
+token we would be able to move gaming
+
+42
+00:00:50,389 --> 00:00:50,399
+token we would be able to move gaming
+ 
+
+43
+00:00:50,399 --> 00:00:52,950
+token we would be able to move gaming
+assets between servers or even between
+
+44
+00:00:52,950 --> 00:00:52,960
+assets between servers or even between
+ 
+
+45
+00:00:52,960 --> 00:00:54,709
+assets between servers or even between
+different games if they supported this
+
+46
+00:00:54,709 --> 00:00:54,719
+different games if they supported this
+ 
+
+47
+00:00:54,719 --> 00:00:57,270
+different games if they supported this
+kind of feature even a character itself
+
+48
+00:00:57,270 --> 00:00:57,280
+kind of feature even a character itself
+ 
+
+49
+00:00:57,280 --> 00:01:00,389
+kind of feature even a character itself
+could be made into an nft true ownership
+
+50
+00:01:00,389 --> 00:01:00,399
+could be made into an nft true ownership
+ 
+
+51
+00:01:00,399 --> 00:01:02,630
+could be made into an nft true ownership
+of game assets would guarantee that
+
+52
+00:01:02,630 --> 00:01:02,640
+of game assets would guarantee that
+ 
+
+53
+00:01:02,640 --> 00:01:04,869
+of game assets would guarantee that
+nobody could hack a player's account and
+
+54
+00:01:04,869 --> 00:01:04,879
+nobody could hack a player's account and
+ 
+
+55
+00:01:04,879 --> 00:01:06,550
+nobody could hack a player's account and
+steal their equipment
+
+56
+00:01:06,550 --> 00:01:06,560
+steal their equipment
+ 
+
+57
+00:01:06,560 --> 00:01:08,390
+steal their equipment
+and what's more gamefy means that
+
+58
+00:01:08,390 --> 00:01:08,400
+and what's more gamefy means that
+ 
+
+59
+00:01:08,400 --> 00:01:10,789
+and what's more gamefy means that
+popular games could potentially become a
+
+60
+00:01:10,789 --> 00:01:10,799
+popular games could potentially become a
+ 
+
+61
+00:01:10,799 --> 00:01:13,830
+popular games could potentially become a
+source of income for dedicated players
+
+62
+00:01:13,830 --> 00:01:13,840
+source of income for dedicated players
+ 
+
+63
+00:01:13,840 --> 00:01:17,990
+source of income for dedicated players
+and speaking of the sdk itself the sdk
+
+64
+00:01:17,990 --> 00:01:18,000
+and speaking of the sdk itself the sdk
+ 
+
+65
+00:01:18,000 --> 00:01:20,070
+and speaking of the sdk itself the sdk
+that everscale is developing will help
+
+66
+00:01:20,070 --> 00:01:20,080
+that everscale is developing will help
+ 
+
+67
+00:01:20,080 --> 00:01:22,789
+that everscale is developing will help
+all kinds of game developers to tokenize
+
+68
+00:01:22,789 --> 00:01:22,799
+all kinds of game developers to tokenize
+ 
+
+69
+00:01:22,799 --> 00:01:25,109
+all kinds of game developers to tokenize
+all in-game assets and incorporate a
+
+70
+00:01:25,109 --> 00:01:25,119
+all in-game assets and incorporate a
+ 
+
+71
+00:01:25,119 --> 00:01:27,350
+all in-game assets and incorporate a
+blockchain based economy powered by
+
+72
+00:01:27,350 --> 00:01:27,360
+blockchain based economy powered by
+ 
+
+73
+00:01:27,360 --> 00:01:30,950
+blockchain based economy powered by
+everscale into their players experience
+
+74
+00:01:30,950 --> 00:01:30,960
+everscale into their players experience
+ 
+
+75
+00:01:30,960 --> 00:01:34,069
+everscale into their players experience
+the sdk will include personal wallets
+
+76
+00:01:34,069 --> 00:01:34,079
+the sdk will include personal wallets
+ 
+
+77
+00:01:34,079 --> 00:01:37,270
+the sdk will include personal wallets
+in-game stores and p2p transactions
+
+78
+00:01:37,270 --> 00:01:37,280
+in-game stores and p2p transactions
+ 
+
+79
+00:01:37,280 --> 00:01:39,429
+in-game stores and p2p transactions
+building and land tokenization
+
+80
+00:01:39,429 --> 00:01:39,439
+building and land tokenization
+ 
+
+81
+00:01:39,439 --> 00:01:42,630
+building and land tokenization
+marketplace open api dow and insurance
+
+82
+00:01:42,630 --> 00:01:42,640
+marketplace open api dow and insurance
+ 
+
+83
+00:01:42,640 --> 00:01:43,590
+marketplace open api dow and insurance
+tools
+
+84
+00:01:43,590 --> 00:01:43,600
+tools
+ 
+
+85
+00:01:43,600 --> 00:01:45,109
+tools
+that's more than enough to build a
+
+86
+00:01:45,109 --> 00:01:45,119
+that's more than enough to build a
+ 
+
+87
+00:01:45,119 --> 00:01:47,749
+that's more than enough to build a
+successful blockchain based game
+
+88
+00:01:47,749 --> 00:01:47,759
+successful blockchain based game
+ 
+
+89
+00:01:47,759 --> 00:01:49,749
+successful blockchain based game
+everscale is one of the very few
+
+90
+00:01:49,749 --> 00:01:49,759
+everscale is one of the very few
+ 
+
+91
+00:01:49,759 --> 00:01:52,550
+everscale is one of the very few
+blockchains that can handle an extremely
+
+92
+00:01:52,550 --> 00:01:52,560
+blockchains that can handle an extremely
+ 
+
+93
+00:01:52,560 --> 00:01:55,030
+blockchains that can handle an extremely
+high load without any trouble thanks to
+
+94
+00:01:55,030 --> 00:01:55,040
+high load without any trouble thanks to
+ 
+
+95
+00:01:55,040 --> 00:01:57,109
+high load without any trouble thanks to
+its scaling capabilities
+
+96
+00:01:57,109 --> 00:01:57,119
+its scaling capabilities
+ 
+
+97
+00:01:57,119 --> 00:02:00,469
+its scaling capabilities
+gta online minecraft lineage 2 even
+
+98
+00:02:00,469 --> 00:02:00,479
+gta online minecraft lineage 2 even
+ 
+
+99
+00:02:00,479 --> 00:02:02,709
+gta online minecraft lineage 2 even
+counter-strike these could all operate
+
+100
+00:02:02,709 --> 00:02:02,719
+counter-strike these could all operate
+ 
+
+101
+00:02:02,719 --> 00:02:04,870
+counter-strike these could all operate
+on everscale involving hundreds of
+
+102
+00:02:04,870 --> 00:02:04,880
+on everscale involving hundreds of
+ 
+
+103
+00:02:04,880 --> 00:02:07,190
+on everscale involving hundreds of
+thousands of new users in the blockchain
+
+104
+00:02:07,190 --> 00:02:07,200
+thousands of new users in the blockchain
+ 
+
+105
+00:02:07,200 --> 00:02:08,389
+thousands of new users in the blockchain
+industry
+
+106
+00:02:08,389 --> 00:02:08,399
+industry
+ 
+
+107
+00:02:08,399 --> 00:02:09,990
+industry
+an example of a game running on
+
+108
+00:02:09,990 --> 00:02:10,000
+an example of a game running on
+ 
+
+109
+00:02:10,000 --> 00:02:12,470
+an example of a game running on
+everscale is the broxas pilot project
+
+110
+00:02:12,470 --> 00:02:12,480
+everscale is the broxas pilot project
+ 
+
+111
+00:02:12,480 --> 00:02:15,110
+everscale is the broxas pilot project
+evercraft a rendition of minecraft that
+
+112
+00:02:15,110 --> 00:02:15,120
+evercraft a rendition of minecraft that
+ 
+
+113
+00:02:15,120 --> 00:02:17,030
+evercraft a rendition of minecraft that
+is going to support all of the features
+
+114
+00:02:17,030 --> 00:02:17,040
+is going to support all of the features
+ 
+
+115
+00:02:17,040 --> 00:02:18,150
+is going to support all of the features
+mentioned
+
+116
+00:02:18,150 --> 00:02:18,160
+mentioned
+ 
+
+117
+00:02:18,160 --> 00:02:20,710
+mentioned
+evercraft is a prime way to showcase all
+
+118
+00:02:20,710 --> 00:02:20,720
+evercraft is a prime way to showcase all
+ 
+
+119
+00:02:20,720 --> 00:02:23,110
+evercraft is a prime way to showcase all
+the capabilities of everscale and the
+
+120
+00:02:23,110 --> 00:02:23,120
+the capabilities of everscale and the
+ 
+
+121
+00:02:23,120 --> 00:02:27,430
+the capabilities of everscale and the
+gamefi and metaverse sdk to over 100
+
+122
+00:02:27,430 --> 00:02:27,440
+gamefi and metaverse sdk to over 100
+ 
+
+123
+00:02:27,440 --> 00:02:30,070
+gamefi and metaverse sdk to over 100
+million monthly active players
+
+124
+00:02:30,070 --> 00:02:30,080
+million monthly active players
+ 
+
+125
+00:02:30,080 --> 00:02:32,150
+million monthly active players
+and this is just the beginning because
+
+126
+00:02:32,150 --> 00:02:32,160
+and this is just the beginning because
+ 
+
+127
+00:02:32,160 --> 00:02:34,790
+and this is just the beginning because
+everscale has plans to attract even more
+
+128
+00:02:34,790 --> 00:02:34,800
+everscale has plans to attract even more
+ 
+
+129
+00:02:34,800 --> 00:02:37,110
+everscale has plans to attract even more
+game developers thanks to its easy to
+
+130
+00:02:37,110 --> 00:02:37,120
+game developers thanks to its easy to
+ 
+
+131
+00:02:37,120 --> 00:02:40,840
+game developers thanks to its easy to
+integrate sdk
+

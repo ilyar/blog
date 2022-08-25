@@ -1,0 +1,874 @@
+gonna share um the presentation
+what would you say
+or we can just check maybe i can yeah we
+can talk and if you want you can bring
+something up if maybe if you want to
+show the website or maybe if you want to
+talk about roadmap or something feel
+free
+um
+let's uh let's just um
+give me the opportunity to share the
+presentation and i will scroll it a
+little bit
+probably a little bit of movement would
+be nice
+okay
+yeah let's let's introduce and then
+we can you could share whatever you want
+okay
+so i think we're live now roman all good
+hi
+yep
+okay so we start now okay then well
+hello everybody and welcome to the infam
+ama where we are going to be learning
+about the infam project and the proposed
+partnership between triad labs and
+everscale i'm joanne from everex and
+today i have olga kaminskaya cvo of
+infam to tell us more about the
+project's plans
+and integration with everscale
+so welcome olga pleasure to meet you and
+please feel free to introduce yourself
+and tell us a bit about tryota labs and
+the platform in fam
+um great um thank you for having me here
+and uh it's my pleasure to tell the
+details about our great project
+which i personally really adore
+um we started out um
+in december um a little bit even earlier
+but let me first
+uh say a couple of words about myself um
+i am the
+ceo of the project um
+which means
+uh chief visionary officer
+and this is for a reason
+i'm not from the young generation of the
+digital
+entrepreneurs and technical people but
+i'm happy to be with them
+for 30 years i have been
+engaged in
+big companies and strong corporations
+for strategy and for
+finance
+i have been working as cfos of several
+startups
+and finally
+around two years ago i landed myself
+within the nft technology
+and started up the
+together with
+another partner
+an nft agency
+and we can solve big corporations and uh
+uh small companies and start our
+projects about how to implement the nft
+technology so they can be
+um really fruitful and
+up to
+you know up to date at the uh
+spearheading uh the uh process
+um in farm
+in the idea of it came into being
+somewhere around the this bearish market
+um around the summer
+uh when
+lots of stem startups started having
+very big issues with the marketing with
+selecting influencers and ambassadors
+with
+fulfilling all the
+obligations and
+all the agreements between them
+also
+a lot of
+influencers and ambassadors are scared
+away by the by a lot of scam projects
+which you already know are very very
+um
+i mean they are abundant in the market
+and it's so hard now to find out if it's
+just a genuine fork of something or
+really some
+scamming scheme that is going to really
+affect the reputation that people worked
+hard to um
+develop and to maintain among all the
+popular public
+info marries
+three kinds of people inside it
+its influencers its uh
+ambassadors its uh uh investors
+and the first role of the platform is
+projects
+uh the projects meaning the startups
+which we verify
+are as being
+honest as being clear with their
+most
+well almost material factors
+and we also verify the influences and
+the ambassadors for the projects they
+had
+for the impact they had on the projects
+uh how the uh how in fact uh the
+cooperation between the projects and the
+influences and bass and ambassadors
+uh grew uh
+for the benefits of both
+um we have our special technology to do
+that
+uh to register
+we offer everyone everyone to register
+it is an easy simple project but we have
+a very precise
+questionnaire which you answer and
+only after we verify everything uh you
+get
+the actual um
+access to all
+of the
+informs
+functions and to the in front of rating
+system
+uh basically it's simple the higher you
+are on the rating on income the more
+people are trying to get you as your
+influencer or ambassador or a project
+that they want to come in
+um investor role
+by the way we have uh now registered
+about 85 percent of the
+registered
+users are or
+investors
+um the investor role is a little bit
+different we wanted people to um
+have the opportunity to enjoy
+best selected projects to participate in
+the launch pad uh when
+it's just
+being
+implemented we had already two um
+launchpad uh projects uh two projects on
+the launchpad and it's kind of um
+working okay so far
+uh
+even the talking given the market it's
+quite all right for now
+so basically
+the highest rating and you can
+better your rate rating by uh posting
+some
+uh
+topics opening discussions fulfilling
+the contracts uh um asking for
+consultations and performing the
+consultations and all that kind of thing
+we are here
+on the blockchain for everyone to verify
+and certify on the blockchain
+that all the
+orders are fulfilled correctly that all
+the payments are paid timely and for the
+well
+done job
+this is how we see our
+place in this market
+um originally we strive um
+for the position when being verified on
+the uh the income
+is going to be you know like a star
+if you verify there you are really a
+good uh
+member of the market a good market
+player
+uh honest and very fruitful um this is
+maybe the best things i want to do
+to talk about the platform okay
+more questions
+yeah um
+that was a
+really good oversight thank you very
+much um i've noticed that there are
+different products on your platform on
+the infam platform so can you tell us a
+little bit about what you already have
+you did touch on it a bit already
+but i did notice that you also have
+analytics
+and marketing and
+based on what you've just shared
+analytics
+and marketing and
+based on what you've just shared it kind
+of also sounds like a full circle
+marketing ecosystem where somebody can
+not only hire somebody but also apply to
+be an ambassador for ambassador for
+example is that so
+yes exactly um thank you you got it
+quite right
+um hopefully
+more and more people understand that
+being
+verified
+being
+open and clear to the public
+gives you just more opportunity to earn
+better money into to hire
+for higher income
+we have the system uh that uh allows
+people to chat between themselves yeah
+uh
+we have it it's a simple product so
+there is no i mean it's not a rocket
+science you just use it as a chatting um
+um for uh if uh
+you need to contact someone uh this is a
+private chat chat
+box
+uh also uh there is a whole system uh
+how to order something on the platform
+um if you
+look through the influences for example
+being a startup
+you probably selected a couple of them
+that you really like but maybe they're
+on the topic that's your startup is
+touching
+maybe you know them when you want to
+connect with them uh it's uh uh you
+address them through the private chart
+you show them the details and send them
+the details about your project
+you give them the task what do you want
+them to do
+and if the order is accepted
+the
+influencer
+[Music]
+is going to
+have the um
+um
+it's it's like a locked wallet where the
+payment is until the whole system
+verifies that the job was uh
+really deformed up to the task and all
+the parties are happy so then they
+receive the
+money are you are you currently using
+any smart contract system for this
+yes absolutely it's our private smart
+contract system also um with uh before
+we started on uh bsc vsc
+um then we had also um
+polygon now we integrated with polygon
+right now it's also a quite recent event
+but of course while we're here that's
+because we integrated with everscale
+uh personally i'm very much fond of
+everscale i
+also
+hold all their
+funks um but um we see everscale as one
+of the most modern
+uh very
+high capacity and
+high speed
+uh
+chain uh which we plan to use for more
+and more
+now
+uh starting just the recent days
+um
+for us um everscale is a strategic
+partner
+and uh maybe i'm just going forward a
+little bit but for us
+everscale uh means that we can join in
+with uh try the
+accelerator uh exchanging
+all our capacities all our um skills and
+competencies uh
+with ever scale to accelerate uh
+projects um
+here we also can be as
+fulfilling three functions
+uh first one
+while fi well the first function is that
+we
+can
+provide a whole pipeline of projects
+already verified
+um
+that because startups are registering
+with us
+um also we provide the whole marketing
+plan
+uh and um in our strategy we even have
+some um artificial intelligence plans
+when
+after
+working with all the big data that we
+have we could offer already
+the automatic plan
+which influences should be used maybe
+which ambassadors should be contacted uh
+given the topic and the stage of the
+startup that that we offer
+and of course our community um together
+with everscape community allows to
+promote and to give the people
+opportunity to invest safely
+to invest directly without any
+intermediaries and to give
+to be provided with all the first-hand
+information from the uh projects uh from
+the team project teams
+is that somehow answered
+yes i think you've also answered a few
+questions which is great oh thank you
+very much
+[Laughter]
+we are so excited to talk about the
+platform yeah it does happen
+it does it sounds like an exciting
+project and
+there is definitely a lot to to talk
+about and much more to share then we
+could squeeze into a little ama
+um
+i do have another question um
+and it's about your roadmap on your
+website there is a very comprehensive
+roadmap and on the infam website and so
+i was wondering if you could please tell
+us
+what might be specific specifically on
+the roadmap in the near future that
+could be exciting for
+everscale
+um
+we are right now um
+well i don't know if i should
+give more attention to the whole thing
+but right now we're in the phase three
+um
+and we have been um already
+on the stage where
+um
+we have the um
+we are looking now for collaboration
+with projects at asia europe and america
+and
+now we are implementing the dlt
+technologies between the users inside
+the platform
+and it is very important for us to have
+every scale is also the capacity and the
+high speed technology uh which is our
+privilege is a privilege to have
+right now we have already um launched
+and successfully sold the nft collection
+representing uh the dao membership it's
+like
+nft pass that gives you incredible
+opportunities to participate inside be
+white listed and share in the platform
+profits
+and
+currently we're thinking and
+implementing some additional tools which
+i mentioned
+uh which help us to
+uh analyze the big data and to uh build
+the artificial intelligence algorithms
+or for better services for automated
+services for the
+clients um
+next stage we're planning to launch on
+uh
+some second uh
+sec exchange uh centralized exchange
+right now we have been traded on
+cryptology
+um
+and also we have a beautiful farming
+pool on the everscale farming platform
+for that matter
+for those who are interested in the
+talking
+and like to yeah i like to see more
+profits just coming in right now
+um first uh
+first of all i think we're all here to
+earn money so i don't
+hesitate to mention that
+um according to the roadmap our phase
+four should be starting um around the
+end of the year where we will be
+launching the mobile application
+and uh we'll be launching the updated
+platform version
+two zero
+any more questions here okay i was
+looking forward to that i was going to
+ask you about the nft as much i also
+noticed on the website but but you went
+into that um you told us a bit about the
+benefits so thank you
+um would you be able to tell us
+a bit about the kind of users you
+already have on the platform and what is
+the audience like um can you give us any
+insights into the daily activity on your
+platform
+um surely um we have been um
+so far we have been really manually
+registering everyone
+because we wanted to check all our
+technology how to verify the audiences
+how to verify
+uh the technical spread um for those
+specific people who are
+ambassadors and influencers
+right now we have
+as i told already by the way uh
+investors are 85 percent of the
+platform users
+insurances are about uh 23 24
+and
+projects are
+also
+these are the projects that have been
+verified they have been checked for they
+all the documentation
+their materials have been scanned we
+have been talking to them uh and
+had already two projects launched on the
+launch pad as i said
+and we have six
+percent of ambassadors
+um
+there are all kinds of nations there are
+people working for the asian market for
+the china market
+for
+south american markets
+um and
+all the
+um influencers and ambassadors are the
+people that we work personally
+with on other projects or we are having
+accepting them by the recommendations of
+our closest friends
+um daily uh we have several projects on
+boarding and
+there are more investors it's
+understandable because we are um
+circulating around the investors and
+just having um so many acquaintances
+here we just offer people
+to comment to see um and to validate in
+the platform but their participation
+daily we have
+several orders
+for each uh almost each uh influencer
+um
+i would know the exact numbers right now
+because it's not particularly my job but
+um
+but it's active it's currently active
+and working right now so that's yeah
+that's exciting
+um so you have the platform and you have
+the infam launch pad
+um so can you tell us any projects that
+you've already launched and are there
+any success stories or anything that you
+would like to highlight there
+specifically for the launch pad
+uh launchpad we have two um
+two launches so far
+uh the first was the test one uh it's uh
+for our internal project just to see how
+it works and uh verify all the
+uh chain processes and uh the second uh
+we actually after that we returned the
+money to the people because
+it was more um
+convenient for us just to to test it
+this way
+uh for the
+other uh the second one it was a
+successful game plus placement um and
+i'm sure we'll have another ammo with
+the guys to show how they're happy about
+it it would just happen a couple of days
+uh we connect and collected about
+uh three and three hundred thousand
+dollars uh at the first uh stage and
+that's great
+yeah i think for the first thing um
+being really
+not so chilled
+as a launch pad it's a really good
+result yeah yeah
+uh you've mentioned briefly that you're
+building an accelerator with everscale
+which is exciting so can you please tell
+us more about the goals here and how it
+could benefit everscale
+um
+yeah yeah i think it's an incredible
+opportunity for for all of us
+because
+here on our platform
+we have good strategic alliances
+with
+the three group
+which is a big gaming platform
+that's
+like a gaming fund rather
+that
+collects a lot of original traditional
+games and puts them on the blockchain
+keeping in mind that
+all the
+projects that can be in real life they
+also can be uh positioned and married
+with the blockchain to give
+people more opportunities in the digital
+world yeah
+[Music]
+another partner we have is a big
+marketing agency which allows us to
+implement all kinds of media planning
+assessment of media planning
+uh assessment of the budgets uh we as a
+platform can uh verify and give all our
+competencies about how to implement
+different blockchains
+um especially every scale but still uh
+also there are um situations there are
+aims um and purposes of the project when
+you can
+be
+um
+choosing between uh what to do on a
+blockchain with a half of the coins and
+what to do with the help of the energy
+um it's um
+maybe a little bit too technical
+for now but generally we would allow all
+the projects that come to us
+to be presented to the error scale if
+they deserve that if for some reason
+they're still not
+of that scale
+we can scale them up all together
+and can offer them for the ever skill as
+a filter like the filter and barrier for
+for those
+minimizing the um
+time waste for the ever scale as well
+okay
+well that's interesting um are there any
+parts of the platform or the accelerator
+that will be using every scale
+technology i know that uh
+a the launch pad you can use um wallet
+connect and metamask um are there any
+plans to integrate ever wallet or surf
+we have already integrated the ever kit
+it's a
+[Music]
+it's a project on ever everscale
+uh it's already integrated into the
+platform so we're going to use that
+and i'm sure we will be using everything
+that our scale offers because
+i mean it's obvious for us so that we
+promote uh for the projects using
+everscale technology everything
+everything genius they will come up with
+we will implement them into those
+projects
+okay um to circle back on the uh nft
+token the utility token specifically
+that i saw on your website uh the
+launchpad
+website states
+you can stake inf tokens
+to get boosts to promising projects can
+you explain what a boost might entail
+and any other benefits that this token
+might bring
+well
+let me a little bit return uh back to
+the nft
+the
+um nfts um uh were launched as the
+uh participation passed uh in the dao
+organization
+if you have our nft
+but you as a client are automatically
+white listed for all the launchpad
+project
+uh if you hold an nft longer than one
+year you are entitled to orange profit
+sharing
+from the profit of the platform
+um
+um the quarterly if for less than a year
+then just
+for the year profit
+okay
+also uh for the in
+in some uh nfts uh we hold a separate
+absolutely intimate and close discord
+channel where we discuss all
+important projects and they have the
+uh very first
+rate information about what's going to
+happen to the projects about insights
+and things like that it's not inside the
+trading
+no
+by no means
+but it gives us the opportunity
+to provide the high-skilled
+high-quality
+people our shareholders
+with information intimate information
+about the projects that we
+are in touch with
+um
+what about the token the token has been
+launched somewhere
+in the last year in the at the end of
+the last year it survived already a
+couple of
+freezing zones
+um
+staking is offered constantly
+and
+also for participation at the launch pad
+you have to have certain number of
+tokens
+uh the highest number of tokens uh
+the better opportunities are for weight
+for being white listed or to be accepted
+for the launch pad on a certain
+condition
+um
+currently we also opened the farming
+together with everscale
+in the pair of every scale and income
+token
+and
+it's about
+right now it's not
+it just started so it's about 100
+annual
+income so just so we want to go and take
+a child
+okay great um
+olga as the community gets to know you
+and the infam platform a bit better
+because i imagine some people especially
+those watching it right now are probably
+looking at the website and the launchpad
+platform
+um
+it's a good opportunity um
+for you to tell us what you think and
+feel the pros and cons are if any
+um by everscale pursuing a partnership
+with you
+let's start
+with the pros
+okay um it's easier to find
+um first of all um infam is a unique
+platform of its kind
+um there are many uh very many you know
+attempts to do something like
+but um
+i don't know any successful really um
+good uh deeply um structured projects uh
+uh because we
+managed to
+combine not only the verification by
+blockchain
+but also the verification by collecting
+the information about the people
+about the project by making them um data
+subscription mode um
+give us more attention it's not like we
+just come in and register the platform
+really know the people really know
+we have all kinds that um
+i'm sorry
+i'm very sorry because somebody's
+boarded by by the sport i'm also wounded
+by
+it's blowing up
+the disco is very popular
+yeah i'm sorry sorry no problem
+okay
+[Music]
+um and i apologize to everyone who was
+bored
+including myself
+um
+okay
+um the our platform is structured and
+it's uh uh
+mentored the way that we really are
+responsible for what we're giving for
+the uh
+information about the influences for the
+information about the ambassadors and we
+gave gave uh inside the platform all the
+possibilities for the people to
+independently reach to each other and to
+solve their own
+orders and agreements between themselves
+financially we don't intervene into that
+but we do provide the dispute resolution
+or we do
+give all uh
+[Music]
+old infamy we do
+um
+put all information about what people
+were agreeing about on the blockchain uh
+this is really a service
+that
+fully describes how
+clean
+and clear we want to be
+for hours
+for our participants in the platform i
+think that's why um
+everscale
+should have selected us in the first
+place in the indeed because we do um
+we do um
+make uh everyone who works with us uh
+verified we indeed show the real uh
+materials the real number of users the
+real number of likes the real number of
+followers
+uh and the same with the projects we
+deeply uh go into to study the projects
+we meet with the people we talk to them
+and this is very important i think
+for the filter and not just go around
+and select all the pro the project that
+we know
+from the market yeah i admire the
+transparency
+yeah well thank you
+thank you that's the idea the general
+idea behind it
+and it saves people money it saves
+people time it saves people nerves so
+these are our three accord
+i think people would appreciate that
+yeah yeah i'm happy myself because i
+also have several projects and uh
+finding the right person
+or the right project is initiative in
+the market
+yeah okay thank you very much for
+sharing all that let's see if we have
+any questions from the everscale
+community chat
+or on youtube i think we do have a
+couple
+um
+one community member has asked what
+value
+it will bring to everscale
+you have touched on
+many points so far but maybe you could
+briefly
+uh summarize about the value
+as i said uh we are a good um
+very good strategic partner in uh
+finding nurturing filtering and
+accelerating the projects uh bringing
+more investors also from our own
+platform to look at the ever scale
+projects and at the ever scale as a
+blockchain
+um
+and
+influencers also
+and the messages could be found here on
+our platform for the ever scale projects
+um
+basically
+i guess it's the same that i said
+already
+yep
+yeah i think just watch over the whole
+ama
+you you've explained a lot
+uh another question is interesting are
+there any bonuses for the ever community
+maybe a bonus such an interesting way
+yeah that's an interesting question or
+we could decide on that
+let me take it uh let me think my theme
+on that maybe we can come up with
+something very interesting
+uh if there are any suggestions what
+kind of bonuses are interesting for the
+community we're happy to know please let
+us know
+yep and tagging right on with that um
+also a similar question but even more
+interesting is do you have a referral
+system
+um
+we have referral system
+i'm not particularly
+sure i can speak about the detail
+the details of that but um if you ping
+me personally i will answer that a
+little later
+would you come okay
+okay perfect
+thank you very much olga for sharing all
+this information with us and sharing us
+with us in fam and
+the whole project that you are working
+on it is definitely very interesting and
+i'm sure that the community will have
+more questions in the coming days as it
+sits in so i'll be sure that i bring it
+to you but of course you are always
+warmly welcome to join the everscale
+community chat so you can discuss with
+everybody directly
+sure i hope we will have more yeah we
+will have more topics now working
+together with our scale yes so bring
+them to the public together yeah
+thank you really appreciation yeah
+well it was a pleasure meeting you um
+and with that said i think we're done
+here thank you again olga for your time
+and everscale peeps um we'll see you in
+the chat
+so good night everybody
+bye bye
+bye

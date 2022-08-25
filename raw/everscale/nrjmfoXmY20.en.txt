@@ -1,0 +1,934 @@
+hello everyone
+hello hello
+great hi everybody
+hi alex
+let's wait for a katarina
+oh i guess that's it oh oh oh you're
+here
+hello
+let me put that on mute
+okay
+so i'm not sure if anybody else is going
+to join i've got all the speakers
+no pavel that's purple
+oh broxy a lot like it
+thanks
+what's that guy's name what's the name
+of the nft
+sorry
+what's the name of that nft
+uh it doesn't have a name yet
+so it's working name it's
+ formativo
+sensai madio
+okay
+just one more minute for paul and if not
+then katarina you can go first
+hi dave good afternoon oh we got pavel
+so should i start or
+pebbles here so good hey
+cool
+okay
+number what are we
+high up there
+so summer holidays are finally coming to
+a close and projects are gearing back up
+there are discussions of road maps and
+final stages new projects uh spartacats
+is venturing forth into the mariana
+trench have you seen that i don't know
+what's up with that maybe we'll hear it
+next time
+and rump is getting ready for release
+which is exciting so it's just another
+reason why everscale has a perfect
+technology for people who want to build
+decentralized products and not hinder
+their users experience
+and there is a new channel in telegram
+called everscale highlights which are
+quick updates on what's going on in the
+ecosystem
+there's also an analytics channel called
+everscale insights
+uh so for those who are interested in
+various types of data go check that out
+and now i hope you've got a cup of
+coffee
+and get your questions ready we could
+start with
+the agenda so we've got first up is
+pavel
+our very own pablo privilovka from
+everex and he's going to give us some
+updates on the strategic committee
+yeah thank you john for introducing
+um so we
+uh have as you probably know every
+thursday uh every thursday strategic
+committees and uh the last committee was
+devoted to
+uh drive chain so there was
+quite a
+[Music]
+big presentation by the team of
+architecture of drive chain
+there was quite
+a
+intense discussion after that
+as far as i understand uh
+pretty much later on by the way it was
+it continued in the group strategic air
+strategy group
+uh at the moment i think community or
+say k members
+questions were answered
+by the team
+and
+from my perspective
+architecture of draft chain was
+almost finalized
+so i think that uh we will have uh
+supplementary discussion uh this
+thursday on the next strategic committee
+uh but it will it will be more about uh
+like roadmap and timing
+in architectural wise i think we are
+pretty much uh discussed everything and
+uh
+agreed on uh
+what stages there will be in uh driving
+implementation
+for those who would like who are
+interested i can say that the most uh
+complexity came from the
+fact that
+there was a
+there was an idea that we should how uh
+in this industrial industrialist way uh
+to guarantee that um users be able to
+read
+a file because you can store a file but
+you can
+uh
+as a as a knot holder you can
+block the ability of the node to provide
+that file
+actually
+but you still as a node you will be able
+to provide proofs that you store it so
+that was the most uh
+complex part in discussion
+so my view and it looks like that it is
+the common view of all k members is that
+we should
+make the first draft
+storage
+part first because it is very important
+and this required acp for different
+applications and for
+that part
+where we
+we can even not face that that problem
+but if we will face the problem there
+are some solutions which are discussed
+and
+um
+it could be done on the
+second stage
+of the
+dressing development
+also i would like to add that that
+problem
+actually it is not addressed in other
+systems in other the sterile storage
+systems so this is a bit visionary point
+which was mentioned first time in invite
+paper
+so now we
+need to get first
+solution which works with storage
+at least alone
+hope it was clear
+okay thank you pavel does anybody have
+any questions
+not immediately maybe at the end uh okay
+so we're going to move on quickly to
+katarina she is a team lead at everex
+and she's going to give us a short
+announcement on evercloud a psa
+hello everyone let me share my screen
+okay i have a very short presentation
+today it's just one
+slide um this is basically just a
+friendly reminder for everyone that
+starting from uh the 9th of september
+there will be only authorized access to
+the evercloud so please
+proceed to dashboard overcloud.dev and
+get your access credentials
+um this is like very simple
+so you basically
+follow this guide
+and
+this the link to this guide will be
+under the video
+and
+so just basically you create a project
+and this is it and you just get your end
+points
+and you can uh use them as you did
+before you just specify the endpoint
+with your project id
+in your client
+config
+and that's it
+so
+like this is very easy and
+just to remind you again that you have
+two weeks left
+so please
+do it and uh also don't worry there will
+be
+no billing yet
+and anyway even when we introduce
+billing it will be a freemium
+subscription so if you have small
+number of requests it will still be free
+for you and um if you have any like
+questions or problems you can
+message to our channel
+and you can message to me directly
+so
+this is basically
+it what i wanted to say
+thank you
+well so what if someone doesn't claim
+access within two weeks what happens
+does anything happen to
+what they will have no access
+would they just go up to a
+a gate a gateway
+and then yeah just uh the api will just
+reject their requests so
+this is very important
+okay
+cool get it done
+okay thank you katarina stick around if
+we've got any questions so
+let's move on the agenda uh actually
+we've got a three in one this one's a
+doozy for all of you out there
+we've got um
+evercraft the plugin for minecraft and
+we're going to talk about a new
+partnership between broxas and da5 which
+is one of the philippines most popular
+money transfer services
+and it's actually been in the
+philippines market for 15 years now
+and also there's a super cool nft
+collection called roxy family
+everybody's seeing that in the chats
+very cool website as well pretty
+evocative of uh board apes
+and so we're super lucky today to have
+vlad with us who's the ceo of roxas and
+he's going to tell us all about
+everything
+hey guys
+yeah long time no see
+uh so actually you see on my
+avatar so one one of the examples of the
+broxy family so
+i will get to it a bit a bit later
+um so right now hello everyone so just
+to see me
+uh so i will start from uh this great
+partnership with the e5 uh it's
+something uh as a
+one of the greatest results of work of
+our asian team
+so as you may know now broxus is
+quite a worldwide company with
+offices in different parts of the world
+including europe middle east and asia
+and uh agreement with the five uh was a
+result successful presentation of
+everscale technology and easiness with
+which you can
+create a sustainable business in our
+scale uh using already in place
+technologies unlike many of other
+competing ecosystems
+and actually what makes it really great
+is that indonesia is one of the major
+remittance markets in the world because
+indonesian
+citizens they are working all around the
+world and regularly sent money to the
+friends and families back to indonesia
+not without even saying uh
+about the local remnants market
+and also payments and
+all this kind of stuff
+and uh of course in asian region uh
+remittance is something we uh
+really
+believe in um because this market can
+create the organic uh
+workload for for our ecosystem for
+everscale as a whole and
+getting big strong strategic
+partnerships with local players is a key
+for it uh so right now what we are
+discussing is the creation of uh not
+only of integration of overscale into
+the remittance stream but also about the
+creation of uh
+stable peso uh with a perspective of
+going towards
+cbdc project
+however
+so right now so we're at the mvp stage
+and we
+are running some tests and making
+integration with the a5
+so and hopefully we will be able to
+present something within a few weeks
+and uh what also makes the five
+a great partner is that they really
+open-minded and ready for innovations
+and experiments and
+so they're really hungry for innovations
+so that's why uh
+everscale is a great choice uh for them
+as well as they are the great partner
+for our ecosystem
+besides the e5 of course uh our asian
+team is now uh
+scouting uh
+all asian markets for uh strategic
+partnerships
+and uh
+hopefully there will be
+a number of them until end of the year
+so we will keep you updated on this
+point as well
+uh do you have any questions at this
+point on the e5
+any questions anybody sounds good sounds
+cool
+uh so let's move on to uh
+evercraft update so that's actually uh
+many of you may have seen this news that
+microsoft has suspended
+the
+nfts on minecraft platform so and i
+would like just maybe uh to comment a
+bit
+on how it works so actually uh minecraft
+is one of the
+if not the largest
+metaverses
+all around the world with more than 200
+million only official players
+and
+at least 400 million of sold copies of
+the game
+and
+in order for a player to access the game
+so
+he should have the microsoft account so
+actually micros minecraft server
+in fact accesses uh the
+microsoft authorization server however
+uh microsoft hasn't released the uh
+official uh update on the terms yet and
+uh so soon they do this so we will
+carefully study but until then so we
+consider evercraft being uh not
+only uh minecraft related uh
+product but it's also
+rather the practical implementation of
+metaverse sdk and
+we have done a really good great
+behind the curtains work on uh
+upgrading our architecture and
+rethinking it uh to make it uh
+really uh flexible and suitable for
+different kinds of games and maybe we
+will rename our craft it's it's not uh
+confirmed yet but we're thinking about
+this as well
+just to detach from from uh minecraft
+specifically
+uh so in the coming upgrades for
+evercraft so we are planning to
+introduce
+the uh
+tokenization of the land uh so and right
+now we're integrating with
+uh the major uh
+uh property access uh plugin for
+minecraft called wallguard
+so uh
+developed by a group of enthusiasts and
+now right now we estimate it's used at
+least by sixty percent of uh
+service worldwide
+and uh also as you may have seen so we
+uh
+have committed the upgrade for the nlt
+standard that will has included the
+metaverse region uh object so and that
+can be now used by uh all other games
+that are developed on everscale so to
+make it the industrial standard and we
+are also working now on uh the
+following uh upgrade to the standard
+including the tokenization of
+buildings sculptures objects of any kind
+because this is a really big big market
+that's very interested and
+in my discussion with different
+investors
+and
+market players so everybody is looking
+for such kind of solutions
+uh so we are planning to
+release uh
+the next update hopefully uh
+beginning of september or middle of
+september so right now we are
+integrating
+and uh of course we will first upgrade
+our demo server however i want to try uh
+how it works and uh
+later on so we will
+roll out the the full release to all of
+servers
+um
+yeah so also we are working now on the
+evercraft website uh that will
+describe more in details about the
+product and how you can use it on your
+server and how you can integrate and
+expand the functionality
+and all this kind of stuff
+uh
+yeah so
+i think this is the end of this update
+so if you have questions please
+yeah um there actually is a question for
+evercraft so we can
+do that right now uh horizon asked
+what actually is evercraft is it a
+partnership with minecraft or just some
+applications are integrated from
+minecraft
+uh to form evercraft
+oh it's independent product so that uses
+the minecraft
+well minecraft model to integrate with
+everscale using the standard overscale
+endpoints including graphql
+okay i i
+put it on a note to
+get the keys
+for not to break anything
+and also it uses the
+broxas
+wallet api uh to create and maintain as
+a gamer's wallet so it has uh well a
+decent uh
+security encryption system that allows
+you to be
+sure that nobody will steal
+your funds from your wallet even the
+administrator of the server
+and this
+the main idea that was standing behind
+our craft is that
+how easy you can use the on-chain
+transfers uh
+between players
+in a big traditional game so meaning
+that you just put the plugin
+in your plugins folder you configure it
+very simply five or six lines of
+configuration and that's it so uh all
+your players can now enjoy the
+real cryptocurrency wallets inside the
+game and make the transfers by just
+username and
+also enjoy the
+built-in
+resources market marketplace and further
+one tokenize your land property and so
+on and so forth so quite a lot of ideas
+uh what can be implemented there
+but the main thing here is simplicity so
+how
+easy you can use cryptocurrency in a
+convenient game
+great explanation so are the only
+materials you have for evercraft you
+have got a github link and you have a
+telegram chat is there anything else
+that we can point people to
+uh yes that's what i'm saying so we're
+currently working on the website so uh
+because our crop team is is very small
+so it's only three people are working on
+it but if you want to contribute so
+please don't hesitate to contact me
+and uh further on so of course we plan
+to uh
+expand uh
+our social medias and start posting
+something in there so as soon as we get
+closer to
+uh the next update so i think that in
+september so we will have already the
+full set of uh social media website and
+all that kind of stuff
+fantastic we have another question from
+bolte bolte the creators of minecraft
+have officially refused to support nft
+technology how will this affect your
+project
+that's what i actually explained so the
+main
+risk that microsoft imposes on server
+administrators that they will ban the
+servers from the authorization
+channel but in fact
+this is the risk that every
+administrator will take on on his own
+because
+there are quite a number of different
+projects
+who are implementing different kinds of
+nfts
+in in minecraft so we are not the first
+one of course because
+uh our main object was to make the open
+system that any server can use without
+uh
+building players to our own servers of
+course we will have a couple of our own
+servers
+to just showcase the possibilities of
+the system but the main idea is that we
+would like to popularize our scale with
+this product and
+make it extremely easy for you to try
+and to configure and all that kind of
+stuff
+i
+don't understand for now from the
+technical standpoint how would
+microsoft ban
+all the servers that would try to use
+this kind of uh
+product because you can switch nft
+support off and you will just get the
+simple cryptocurrency transactions in
+game so that's very easy
+and uh
+of course we will warn all the server
+administrators about such risk but in
+the end so it's open system and it's
+something every admin should decide on
+their own
+uh i will not say even about the
+amount of servers that i'm not using
+microsoft authorization so and providing
+the access to players
+through alternative authentication
+services so and
+this is something
+this is
+also a very big market and last but not
+least is that again aircraft is not uh
+only about minecraft so the system that
+we are building is actually dedicated
+for building the uh metaverse ecosystem
+metaverse sdk uh that will be capable of
+expanding to different games like gta
+like i don't know world of uh warcraft
+or something like this uh more of course
+of games that are more of economic uh
+orientation where you have something to
+tokenize and
+something to uh to sell and to buy so
+where already internal economics exist
+but
+in the end the architect current
+architecture of evercraft allows you to
+easily write the server clients for the
+ecosystem and integrate it
+very fast
+fantastic that's a lot of information i
+think you're free to move on to the
+super snazzy uh
+yeah yeah okay
+uh just let me show the
+screen yeah with a website of proxy
+so actually uh proxy has uh quite a long
+story because we had uh if someone
+remembers in past we had the support
+account that was named proxy and in
+telegram
+who was helping uh
+to users of telegram boards and
+of our other systems
+but since then so we have
+it has evolved and now we
+have the whole family of proxy
+characters
+uh
+the collection was a uh in fact uh
+has started initially not as an official
+process product but rather
+as an initiative of several several
+employees of roxas who just wanted to to
+add some fun to our
+uh strict and serious
+defy positioning so and they started to
+think about uh what we can create about
+the
+the nft collection that we can create to
+reflect better the uh
+nature and the character
+of uh of the people who are building
+brock's products and in fact uh
+if someone knows us so
+he would
+say and confirm that
+there are people in brooks are really
+extraordinary and
+they're very interesting they have
+a rich personalities and but typically
+nobody sees that and that's uh what was
+the point where broxy has appeared
+and uh guys has found has found uh the
+artist who was standing behind several
+big nft collections successfully
+collections and you can see the that uh
+artist's style so is something like uh
+retrofitters some cyberpunks
+all mixed together
+these neon colors uh
+so everything uh looking really really
+neat and cool so and uh
+it's it's not uh
+really uh
+serious at all
+so you see it's more like a hooligan
+collection so uh with all different kind
+of uh characters uh doing all the
+typical things that traditional people
+do
+and uh
+if you know some of roxas employees so
+you may try to to identify
+uh several people who are standing
+behind this was its character
+so and uh
+the main idea of the collection that we
+not only can build
+serious and reliable products but we
+also can enjoy our life and and party
+and uh
+really do all the stuff we we want and
+we believe the right
+and uh we get a lot of fun from our work
+and uh this is actually the essence of
+this collection
+right now so uh the collection and all
+the trades are ready and so we have a
+lot of uh
+extremely good trades and in my opinion
+this is one of the best nft collections
+i have ever seen so because
+i personally was uh more like a
+spectator looking at how this
+thing was created and you will see when
+it goes really live
+how many fort and
+creativity was put in this collection
+uh
+but uh behind being just a cool set of
+pictures so the idea that we have in our
+mind that uh this collection will also
+have some utility value and the owners
+of
+different uh nfts from this collection
+will get certain privileges
+and
+you can see this here so this is these
+are just examples so it's not finalized
+yet that's what we'll may update in
+future uh but uh the generic idea is
+that uh getting these nfts will uh
+as you know of our products will uh let
+you uh get the better offering and
+will let you improve your customer
+experience and enjoy our products even
+more
+and uh
+this is something standing really on the
+other line of our product
+and i really really enjoy it
+i think it's fantastic i love it it's
+very creative and i love how you're
+bringing the human nature into into
+boxes
+know you let people come and connect
+with you
+on the human level and enjoy it so
+that was a great initiative
+also it looks awesome
+i
+i know we have questions about this
+first one is when can i buy a proxy nft
+when can i buy it
+we are currently making the all the
+preparations for opening the
+sale so the exact date is not
+finalized but we
+expected to to the sale to happen uh
+within
+a month or two so
+most probably we will try to to finalize
+everything by mid-september but uh so
+there are quite a lot of things that you
+need to think when you're launching such
+a nifty collection
+and uh so i would say
+no stress
+so but just enjoy the preparation stage
+and so we will run a lot of activities
+where you can win the access to the
+white list and uh certain uh discounts
+for this collection uh so uh we we want
+you to
+enjoy this this prep stage
+as well as the collection itself
+yeah i saw a message in in the uh roxy
+chat that there are some easter eggs
+throughout the website i found some of
+them but i was wondering is is there are
+you doing something with the easter eggs
+like is this a hint um
+i will not say anything
+[Laughter]
+secret okay that's a secret
+just be attentive yeah
+i found some
+i would say that the the website is not
+static
+so it updates time to time oh
+so we gotta come back and keep looking
+absolutely
+interesting
+[Music]
+very cool thanks vlad
+alrighty uh
+so if you're done sharing roxy we're
+gonna move on to all the other general
+questions unless there are people on the
+call
+who
+immediately have any questions i don't
+see any hands so
+let's move on to community
+so
+uh one of the questions uh someone wants
+to know has michael left the project or
+not
+who wants to take this question
+anybody i can tweak this of course which
+project ever scale
+i think he means every skill
+of course not um i mean as we said many
+times at amaze sessions and um i
+recorded something today in interviews
+that should be out in the next couple of
+days
+meet you left the role of cto of everex
+and to focus on gosh which is a very
+resourceful and uh you know promising
+project and it requires full dedication
+because there is no other way
+uh then somebody um
+like media and obviously there are a lot
+of other team members
+and external teams who are helping to
+pull the gosh off so media is fully
+focused on gosh however
+he stayed in the what is called
+strategic committee which is a technical
+committee to
+steer a kind of business needs of the
+network into the technical uh specs
+and the technical requirements and meet
+is a very active vocal member of the
+technical committee
+and it happens every thursday so he in
+that capacity he continues to influence
+the architecture of the network
+well
+mitch is still here he's just focused
+heads down
+uh maybe we can get him on a call soon
+too um
+so thanks alex next question is when is
+pr and marketing when is that going to
+start
+maybe uh vlad can jump in here
+uh sorry say it again maybe you can jump
+in uh do you have any insights on what's
+going on with pr and marketing
+because uh alex is in here so
+maybe yeah actually so it's it's quite
+quite a lot of ease is done on the
+permanent basis so uh
+i'm not really deep in the process of
+marketing dr but what i see from what
+guys are reporting so we have
+at least three or four teams working in
+parallel in different markets including
+uh
+korea south korea japan indonesia
+malaysia and other markets in the region
+so
+as sergey said so
+now overscale is strongly focused on the
+asian region and
+that's why
+a lot of efforts i applied there so a
+lot a big number of publications uh are
+coming out in local language and also
+thanks to our south korean team so we've
+got really strong presence in uh in
+naver so which is the uh i don't know
+how to name it uh
+uh main communication platform or main
+source of news for for a korean
+community
+and uh
+yeah so i don't have uh figures but uh i
+see a lot of uh things that are done
+currently
+yeah the question was when will it start
+and the answer is it's been going on for
+a while and it's never stopped i would
+say like this and it's
+still increasing and now we have these
+new channels um that you can check
+for for insights of growth
+so maybe um who's asking this question
+should join that channel too and then
+they can actually see some real numbers
+if that's what they're looking for
+um and another question is
+when new listings
+wasn't there coin
+when new listing someone wants to know
+the answer is usual soon
+yeah yeah actually so uh
+we are now as you may have seen so with
+the recent acquisitions of hobby and
+kucoin so we
+have entered the tier one uh listings so
+and of course
+we discuss with all other exchanges but
+due to this
+winter period
+so uh the discussion has slowed down a
+little
+uh however so we now try also to
+leverage as much as we can from current
+listings and you may have seen the
+one
+good example of such initiative with uh
+launching the staking on kucoin
+and
+you may have seen the proposal on
+everdel
+and
+this is a great experiment and we will
+carefully measure the
+metrics of
+how it goes on
+and
+this may drag a lot of attention a lot
+of new users a lot of new validators to
+the network which is
+actually something that we are looking
+for
+and uh if this experiment goes
+successfully so of course it will be
+scaled to to our other partners as well
+and that's for listings so just
+keep an eye so you you should understand
+that it's a
+sensitive question and
+we may not disclose even the fact that
+we uh
+discuss with certain specific exchange
+not to ruin the negotiations
+so just keep an eye on the news channels
+you will not get to know the first one
+okay great uh we're very lucky to have
+you here today because i have another
+question for you
+what
+what stable coins are in the everwallet
+app
+uh actually in aero wallet tab so you
+may find all the stable coins that are
+currently white listed so it's
+robbed to use the tear up to dc and die
+also uh
+you may have seen the upi uh this is a
+native stable coin forever scale
+packed to euro and
+backed by by real euros so it's classic
+stable coin
+and uh also as soon as uh the da5 stable
+coin uh is finalized and
+dually packed
+so
+of course it will be added as well to
+our wallet
+um
+if you have your own stablecoin project
+so uh
+there are quite clear and transparent uh
+whitelisting rules so
+most probably we will remind about them
+so
+there are quite clear criteria on how to
+get to the white list to ensure your
+stable con as well is there
+okay great thank you
+i don't have any more questions none
+from the community and unless anybody
+has any questions on the call here then
+i think we're good
+so stay tuned for the next everscale
+community call uh
+two weeks on september 6th is the next
+one and we're going to talk to easy pay
+and see if it's up with chess nft
+something new there and exciting and of
+course some more presentations
+and projects and more stuff on the way
+so thank you everybody for joining us
+thank you for watching and have a great
+rest of your week
+bye everybody bye

@@ -1,0 +1,575 @@
+1
+00:00:00,160 --> 00:00:02,710
+
+hello friends it's ben with the third
+
+2
+00:00:02,710 --> 00:00:02,720
+hello friends it's ben with the third
+ 
+
+3
+00:00:02,720 --> 00:00:05,030
+hello friends it's ben with the third
+episode of everscale news the most
+
+4
+00:00:05,030 --> 00:00:05,040
+episode of everscale news the most
+ 
+
+5
+00:00:05,040 --> 00:00:07,430
+episode of everscale news the most
+important news of the ecosystem in two
+
+6
+00:00:07,430 --> 00:00:07,440
+important news of the ecosystem in two
+ 
+
+7
+00:00:07,440 --> 00:00:09,270
+important news of the ecosystem in two
+minutes the teams at everscale are
+
+8
+00:00:09,270 --> 00:00:09,280
+minutes the teams at everscale are
+ 
+
+9
+00:00:09,280 --> 00:00:11,270
+minutes the teams at everscale are
+pushing one update after another and we
+
+10
+00:00:11,270 --> 00:00:11,280
+pushing one update after another and we
+ 
+
+11
+00:00:11,280 --> 00:00:13,110
+pushing one update after another and we
+have a lot of intriguing things to tell
+
+12
+00:00:13,110 --> 00:00:13,120
+have a lot of intriguing things to tell
+ 
+
+13
+00:00:13,120 --> 00:00:16,230
+have a lot of intriguing things to tell
+you about so let's get started roxas has
+
+14
+00:00:16,230 --> 00:00:16,240
+you about so let's get started roxas has
+ 
+
+15
+00:00:16,240 --> 00:00:19,510
+you about so let's get started roxas has
+renamed all of its products tonbridge is
+
+16
+00:00:19,510 --> 00:00:19,520
+renamed all of its products tonbridge is
+ 
+
+17
+00:00:19,520 --> 00:00:22,070
+renamed all of its products tonbridge is
+now officially called octus bridge tun
+
+18
+00:00:22,070 --> 00:00:22,080
+now officially called octus bridge tun
+ 
+
+19
+00:00:22,080 --> 00:00:25,910
+now officially called octus bridge tun
+swap has been renamed to flat cube and w
+
+20
+00:00:25,910 --> 00:00:25,920
+swap has been renamed to flat cube and w
+ 
+
+21
+00:00:25,920 --> 00:00:28,710
+swap has been renamed to flat cube and w
+ton was renamed to w ever after
+
+22
+00:00:28,710 --> 00:00:28,720
+ton was renamed to w ever after
+ 
+
+23
+00:00:28,720 --> 00:00:31,189
+ton was renamed to w ever after
+migration to the new token standard each
+
+24
+00:00:31,189 --> 00:00:31,199
+migration to the new token standard each
+ 
+
+25
+00:00:31,199 --> 00:00:32,709
+migration to the new token standard each
+product will get its own chat for
+
+26
+00:00:32,709 --> 00:00:32,719
+product will get its own chat for
+ 
+
+27
+00:00:32,719 --> 00:00:35,750
+product will get its own chat for
+discussions speaking of the new 3.1
+
+28
+00:00:35,750 --> 00:00:35,760
+discussions speaking of the new 3.1
+ 
+
+29
+00:00:35,760 --> 00:00:38,150
+discussions speaking of the new 3.1
+token standard the migration of all
+
+30
+00:00:38,150 --> 00:00:38,160
+token standard the migration of all
+ 
+
+31
+00:00:38,160 --> 00:00:39,910
+token standard the migration of all
+infrastructure products has been
+
+32
+00:00:39,910 --> 00:00:39,920
+infrastructure products has been
+ 
+
+33
+00:00:39,920 --> 00:00:41,990
+infrastructure products has been
+completed users can already withdraw
+
+34
+00:00:41,990 --> 00:00:42,000
+completed users can already withdraw
+ 
+
+35
+00:00:42,000 --> 00:00:44,310
+completed users can already withdraw
+their tokens from the old pawns on tun
+
+36
+00:00:44,310 --> 00:00:44,320
+their tokens from the old pawns on tun
+ 
+
+37
+00:00:44,320 --> 00:00:46,630
+their tokens from the old pawns on tun
+swap and move them over to flat cube
+
+38
+00:00:46,630 --> 00:00:46,640
+swap and move them over to flat cube
+ 
+
+39
+00:00:46,640 --> 00:00:48,229
+swap and move them over to flat cube
+i've done mine already they'll be
+
+40
+00:00:48,229 --> 00:00:48,239
+i've done mine already they'll be
+ 
+
+41
+00:00:48,239 --> 00:00:49,990
+i've done mine already they'll be
+converted automatically to the new
+
+42
+00:00:49,990 --> 00:00:50,000
+converted automatically to the new
+ 
+
+43
+00:00:50,000 --> 00:00:51,990
+converted automatically to the new
+standard after connecting the wallet to
+
+44
+00:00:51,990 --> 00:00:52,000
+standard after connecting the wallet to
+ 
+
+45
+00:00:52,000 --> 00:00:53,990
+standard after connecting the wallet to
+the new decks during the recent
+
+46
+00:00:53,990 --> 00:00:54,000
+the new decks during the recent
+ 
+
+47
+00:00:54,000 --> 00:00:56,229
+the new decks during the recent
+community meetup some new details about
+
+48
+00:00:56,229 --> 00:00:56,239
+community meetup some new details about
+ 
+
+49
+00:00:56,239 --> 00:00:58,869
+community meetup some new details about
+the roadmap were revealed first of all
+
+50
+00:00:58,869 --> 00:00:58,879
+the roadmap were revealed first of all
+ 
+
+51
+00:00:58,879 --> 00:01:01,270
+the roadmap were revealed first of all
+flex an advanced decentralized order
+
+52
+00:01:01,270 --> 00:01:01,280
+flex an advanced decentralized order
+ 
+
+53
+00:01:01,280 --> 00:01:03,670
+flex an advanced decentralized order
+book exchange is probably going to be
+
+54
+00:01:03,670 --> 00:01:03,680
+book exchange is probably going to be
+ 
+
+55
+00:01:03,680 --> 00:01:05,590
+book exchange is probably going to be
+released sooner than stated on the
+
+56
+00:01:05,590 --> 00:01:05,600
+released sooner than stated on the
+ 
+
+57
+00:01:05,600 --> 00:01:07,590
+released sooner than stated on the
+roadmap its development is going very
+
+58
+00:01:07,590 --> 00:01:07,600
+roadmap its development is going very
+ 
+
+59
+00:01:07,600 --> 00:01:09,990
+roadmap its development is going very
+fast and the ever x team feel pretty
+
+60
+00:01:09,990 --> 00:01:10,000
+fast and the ever x team feel pretty
+ 
+
+61
+00:01:10,000 --> 00:01:12,149
+fast and the ever x team feel pretty
+damn confident about it only one or two
+
+62
+00:01:12,149 --> 00:01:12,159
+damn confident about it only one or two
+ 
+
+63
+00:01:12,159 --> 00:01:14,149
+damn confident about it only one or two
+dexes can be compared to flex in terms
+
+64
+00:01:14,149 --> 00:01:14,159
+dexes can be compared to flex in terms
+ 
+
+65
+00:01:14,159 --> 00:01:16,630
+dexes can be compared to flex in terms
+of speed and fees and so everscale will
+
+66
+00:01:16,630 --> 00:01:16,640
+of speed and fees and so everscale will
+ 
+
+67
+00:01:16,640 --> 00:01:18,390
+of speed and fees and so everscale will
+get one more advantage over the other
+
+68
+00:01:18,390 --> 00:01:18,400
+get one more advantage over the other
+ 
+
+69
+00:01:18,400 --> 00:01:20,230
+get one more advantage over the other
+blockchains out there in addition to the
+
+70
+00:01:20,230 --> 00:01:20,240
+blockchains out there in addition to the
+ 
+
+71
+00:01:20,240 --> 00:01:22,630
+blockchains out there in addition to the
+previously mentioned cardano and tesos
+
+72
+00:01:22,630 --> 00:01:22,640
+previously mentioned cardano and tesos
+ 
+
+73
+00:01:22,640 --> 00:01:25,030
+previously mentioned cardano and tesos
+bridges everscale will get avalanche
+
+74
+00:01:25,030 --> 00:01:25,040
+bridges everscale will get avalanche
+ 
+
+75
+00:01:25,040 --> 00:01:27,350
+bridges everscale will get avalanche
+tron and solana bridges these are going
+
+76
+00:01:27,350 --> 00:01:27,360
+tron and solana bridges these are going
+ 
+
+77
+00:01:27,360 --> 00:01:29,429
+tron and solana bridges these are going
+to bring more liquidity to everscale and
+
+78
+00:01:29,429 --> 00:01:29,439
+to bring more liquidity to everscale and
+ 
+
+79
+00:01:29,439 --> 00:01:31,190
+to bring more liquidity to everscale and
+will open the path to creating more
+
+80
+00:01:31,190 --> 00:01:31,200
+will open the path to creating more
+ 
+
+81
+00:01:31,200 --> 00:01:34,469
+will open the path to creating more
+cross-chain dapps gosh gosh the
+
+82
+00:01:34,469 --> 00:01:34,479
+cross-chain dapps gosh gosh the
+ 
+
+83
+00:01:34,479 --> 00:01:36,469
+cross-chain dapps gosh gosh the
+decentralized github is also in
+
+84
+00:01:36,469 --> 00:01:36,479
+decentralized github is also in
+ 
+
+85
+00:01:36,479 --> 00:01:38,550
+decentralized github is also in
+development the demo of the product will
+
+86
+00:01:38,550 --> 00:01:38,560
+development the demo of the product will
+ 
+
+87
+00:01:38,560 --> 00:01:40,630
+development the demo of the product will
+be shown in may gosh will allow
+
+88
+00:01:40,630 --> 00:01:40,640
+be shown in may gosh will allow
+ 
+
+89
+00:01:40,640 --> 00:01:43,030
+be shown in may gosh will allow
+developers to keep their code on chain
+
+90
+00:01:43,030 --> 00:01:43,040
+developers to keep their code on chain
+ 
+
+91
+00:01:43,040 --> 00:01:44,710
+developers to keep their code on chain
+instead of relying on centralized
+
+92
+00:01:44,710 --> 00:01:44,720
+instead of relying on centralized
+ 
+
+93
+00:01:44,720 --> 00:01:47,270
+instead of relying on centralized
+solutions everscale startup competition
+
+94
+00:01:47,270 --> 00:01:47,280
+solutions everscale startup competition
+ 
+
+95
+00:01:47,280 --> 00:01:48,429
+solutions everscale startup competition
+attracted
+
+96
+00:01:48,429 --> 00:01:48,439
+attracted
+ 
+
+97
+00:01:48,439 --> 00:01:51,190
+attracted
+275 developers with more than 50
+
+98
+00:01:51,190 --> 00:01:51,200
+275 developers with more than 50
+ 
+
+99
+00:01:51,200 --> 00:01:53,590
+275 developers with more than 50
+projects including various nft
+
+100
+00:01:53,590 --> 00:01:53,600
+projects including various nft
+ 
+
+101
+00:01:53,600 --> 00:01:56,870
+projects including various nft
+marketplaces defy and social tools the
+
+102
+00:01:56,870 --> 00:01:56,880
+marketplaces defy and social tools the
+ 
+
+103
+00:01:56,880 --> 00:01:59,830
+marketplaces defy and social tools the
+top three projects were convo space a
+
+104
+00:01:59,830 --> 00:01:59,840
+top three projects were convo space a
+ 
+
+105
+00:01:59,840 --> 00:02:02,709
+top three projects were convo space a
+cross-chain social app dream base a
+
+106
+00:02:02,709 --> 00:02:02,719
+cross-chain social app dream base a
+ 
+
+107
+00:02:02,719 --> 00:02:04,709
+cross-chain social app dream base a
+platform for musicians and reuters from
+
+108
+00:02:04,709 --> 00:02:04,719
+platform for musicians and reuters from
+ 
+
+109
+00:02:04,719 --> 00:02:07,030
+platform for musicians and reuters from
+africa allowing them to mint any writing
+
+110
+00:02:07,030 --> 00:02:07,040
+africa allowing them to mint any writing
+ 
+
+111
+00:02:07,040 --> 00:02:10,550
+africa allowing them to mint any writing
+as an nft and demeter an nft charity
+
+112
+00:02:10,550 --> 00:02:10,560
+as an nft and demeter an nft charity
+ 
+
+113
+00:02:10,560 --> 00:02:12,470
+as an nft and demeter an nft charity
+auction platform that's all for today
+
+114
+00:02:12,470 --> 00:02:12,480
+auction platform that's all for today
+ 
+
+115
+00:02:12,480 --> 00:02:15,599
+auction platform that's all for today
+stay tuned
+
